@@ -4,7 +4,9 @@ from carousel_content.json (produced by write_carousels.py). Each carousel is a
 420px-wide IG frame with 7 swipeable 4:5 slides. Run:  python generate_carousels.py
 Then open the produced carousels/*.html files in a browser to swipe through them.
 """
+import base64
 import html
+import io
 import json
 from pathlib import Path
 
@@ -19,6 +21,52 @@ GRAD        = "linear-gradient(165deg, #142842 0%, #1E3A5F 50%, #3B6AA0 100%)"
 MUTED       = "#5A6B7E"   # body text on light
 SUBTLE      = "#8A94A0"   # descriptions on light
 HANDLE      = "safetrust_mortgage"
+ASSETS      = Path(__file__).parent / "assets"
+
+# ---------------------------------------------------------------- brand logo
+def _process_raster(raw):
+    """Trim white margins and knock out the white background so the logo sits
+    cleanly on any slide. Returns (png_bytes, mime) or None if Pillow is absent."""
+    try:
+        from PIL import Image, ImageChops
+    except Exception:
+        return None
+    im = Image.open(io.BytesIO(raw)).convert("RGBA")
+    rgb = im.convert("RGB")
+    diff = ImageChops.difference(rgb, Image.new("RGB", im.size, (255, 255, 255))).convert("L")
+    mask = diff.point(lambda v: 255 if v > 12 else 0)
+    bbox = mask.getbbox()
+    if bbox:
+        im = im.crop(bbox)
+        mask = mask.crop(bbox)
+    im.putalpha(mask)  # near-white background -> transparent
+    buf = io.BytesIO()
+    im.save(buf, format="PNG")
+    return buf.getvalue(), "image/png"
+
+
+def _embed(path):
+    raw = path.read_bytes()
+    if path.suffix.lower() == ".svg":
+        return "data:image/svg+xml;base64," + base64.b64encode(raw).decode()
+    processed = _process_raster(raw)
+    if processed:
+        data, mime = processed
+    else:
+        data = raw
+        mime = "image/jpeg" if path.suffix.lower() in (".jpg", ".jpeg") else "image/png"
+    return f"data:{mime};base64," + base64.b64encode(data).decode()
+
+
+def _find_logo(candidates):
+    for name in candidates:
+        p = ASSETS / name
+        if p.exists():
+            return _embed(p)
+    return None
+
+LOGO_URI = _find_logo(["logo.png", "logo.jpg", "logo.jpeg", "logo.svg"])
+LOGO_WHITE_URI = _find_logo(["logo-white.png", "logo-white.svg", "logo_white.png"])
 
 # ---------------------------------------------------------------- components
 def tag(text, bg):
@@ -27,6 +75,17 @@ def tag(text, bg):
             f'letter-spacing:2px;color:{color};margin-bottom:16px;text-transform:uppercase;">{text}</span>')
 
 def logo_lockup(on_light):
+    if LOGO_URI:
+        if on_light:
+            src, filt = LOGO_URI, ""
+        elif LOGO_WHITE_URI:
+            src, filt = LOGO_WHITE_URI, ""
+        else:  # no dedicated white asset — knock the color logo out to white
+            src, filt = LOGO_URI, "filter:brightness(0) invert(1);"
+        return (f'<div style="margin-bottom:24px;">'
+                f'<img src="{src}" alt="SafeTrust Mortgage" '
+                f'style="height:42px;width:auto;max-width:230px;display:block;{filt}"></div>')
+    # Fallback lockup when no logo file is present in assets/
     namecolor = DARK if on_light else "#fff"
     return (f'<div style="display:flex;align-items:center;gap:12px;margin-bottom:22px;">'
             f'<div style="width:40px;height:40px;border-radius:50%;background:{B};display:flex;'
