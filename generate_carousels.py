@@ -21,6 +21,9 @@ GRAD        = "linear-gradient(165deg, #142842 0%, #1E3A5F 50%, #3B6AA0 100%)"
 MUTED       = "#5A6B7E"   # body text on light
 SUBTLE      = "#8A94A0"   # descriptions on light
 HANDLE      = "safetrust_mortgage"
+NMLS_NUMBER = "2178036"
+LOGO_BLUE   = "#1E56A4"   # sampled from the logo wordmark
+LOGO_GRAY   = "#818285"   # sampled from the logo subtitle
 ASSETS      = Path(__file__).parent / "assets"
 
 # ---------------------------------------------------------------- brand logo
@@ -81,6 +84,14 @@ def tag(text, bg):
     return (f'<span class="sans" style="display:inline-block;font-size:10px;font-weight:600;'
             f'letter-spacing:2px;color:{color};margin-bottom:16px;text-transform:uppercase;">{text}</span>')
 
+def _nmls_line(on_light):
+    label = LOGO_GRAY if on_light else "rgba(255,255,255,0.6)"
+    num = LOGO_BLUE if on_light else "#fff"
+    return (f'<p class="sans" style="font-size:11px;font-weight:600;letter-spacing:2px;'
+            f'margin-top:8px;"><span style="color:{label};">NMLS</span> '
+            f'<span style="color:{num};">{NMLS_NUMBER}</span></p>')
+
+
 def logo_lockup(on_light):
     if LOGO_URI:
         if on_light:
@@ -89,17 +100,20 @@ def logo_lockup(on_light):
             src, filt = LOGO_WHITE_URI, ""
         else:  # no dedicated white asset — knock the color logo out to white
             src, filt = LOGO_URI, "filter:brightness(0) invert(1);"
-        return (f'<div style="margin-bottom:24px;">'
+        return (f'<div style="margin-bottom:24px;width:fit-content;text-align:center;">'
                 f'<img src="{src}" alt="SafeTrust Mortgage" '
-                f'style="height:42px;width:auto;max-width:230px;display:block;{filt}"></div>')
+                f'style="height:42px;width:auto;max-width:230px;display:block;{filt}">'
+                f'{_nmls_line(on_light)}</div>')
     # Fallback lockup when no logo file is present in assets/
     namecolor = DARK if on_light else "#fff"
-    return (f'<div style="display:flex;align-items:center;gap:12px;margin-bottom:22px;">'
+    return (f'<div style="margin-bottom:22px;width:fit-content;text-align:center;">'
+            f'<div style="display:flex;align-items:center;gap:12px;">'
             f'<div style="width:40px;height:40px;border-radius:50%;background:{B};display:flex;'
             f'align-items:center;justify-content:center;flex-shrink:0;">'
             f'<span class="serif" style="color:#fff;font-size:19px;font-weight:700;">S</span></div>'
             f'<span class="sans" style="font-size:13px;font-weight:600;letter-spacing:0.5px;'
-            f'color:{namecolor};">SafeTrust Mortgage</span></div>')
+            f'color:{namecolor};">SafeTrust Mortgage</span></div>'
+            f'{_nmls_line(on_light)}</div>')
 
 def h_light(text, size=29):
     return (f'<h2 class="serif" style="font-size:{size}px;font-weight:700;color:{DARK};'

@@ -94,7 +94,7 @@ jobs:
             git push
           fi
 
-      - name: Read carousel titles
+      - name: Read carousel titles and captions
         id: titles
         if: steps.guard.outputs.run == 'true'
         run: |
@@ -103,7 +103,11 @@ jobs:
           data = json.load(open("carousel_content.json"))
           for i, c in enumerate(data["carousels"][:3], 1):
               title = c.get("title", f"Carousel {i}").replace("\n", " ").strip()
+              caption = c.get("caption", "").replace("\r", "").strip()
               print(f"t{i}={title}")
+              print(f"c{i}<<CAPTION_EOF")
+              print(caption)
+              print("CAPTION_EOF")
           PY
 
       - name: Email carousel 1
@@ -117,11 +121,14 @@ jobs:
           username: ${{ secrets.MAIL_USERNAME }}
           password: ${{ secrets.MAIL_PASSWORD }}
           subject: "Carousel 1/3 — ${{ steps.titles.outputs.t1 }} (${{ steps.guard.outputs.today }})"
-          to: ykharte@safetrustmtg.com
+          to: pkaur@safetrustmtg.com,malaez@safetrustmtg.com
           from: SafeTrust Carousels <${{ secrets.MAIL_USERNAME }}>
           body: |
             Carousel 1 of 3 — ${{ steps.titles.outputs.t1 }}
             7 slides attached (1080x1350 PNG).
+
+            Caption:
+            ${{ steps.titles.outputs.c1 }}
           attachments: carousels/slides/carousel_1/slide_*.png
 
       - name: Email carousel 2
@@ -134,11 +141,14 @@ jobs:
           username: ${{ secrets.MAIL_USERNAME }}
           password: ${{ secrets.MAIL_PASSWORD }}
           subject: "Carousel 2/3 — ${{ steps.titles.outputs.t2 }} (${{ steps.guard.outputs.today }})"
-          to: ykharte@safetrustmtg.com
+          to: pkaur@safetrustmtg.com,malaez@safetrustmtg.com
           from: SafeTrust Carousels <${{ secrets.MAIL_USERNAME }}>
           body: |
             Carousel 2 of 3 — ${{ steps.titles.outputs.t2 }}
             7 slides attached (1080x1350 PNG).
+
+            Caption:
+            ${{ steps.titles.outputs.c2 }}
           attachments: carousels/slides/carousel_2/slide_*.png
 
       - name: Email carousel 3
@@ -151,9 +161,12 @@ jobs:
           username: ${{ secrets.MAIL_USERNAME }}
           password: ${{ secrets.MAIL_PASSWORD }}
           subject: "Carousel 3/3 — ${{ steps.titles.outputs.t3 }} (${{ steps.guard.outputs.today }})"
-          to: ykharte@safetrustmtg.com
+          to: pkaur@safetrustmtg.com,malaez@safetrustmtg.com
           from: SafeTrust Carousels <${{ secrets.MAIL_USERNAME }}>
           body: |
             Carousel 3 of 3 — ${{ steps.titles.outputs.t3 }}
             7 slides attached (1080x1350 PNG).
+
+            Caption:
+            ${{ steps.titles.outputs.c3 }}
           attachments: carousels/slides/carousel_3/slide_*.png
