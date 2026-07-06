@@ -1,229 +1,232 @@
 {
   "carousels": [
     {
-      "slug": "gen-z-mortgage-share",
-      "title": "Gen Z's Record Home Buying",
-      "caption": "Gen Z is stepping into homeownership in a big way! Discover how younger buyers are navigating the market and securing their futures. #GenZHomebuyers #FirstTimeHomeBuyer #MortgageTips",
-      "hero_tag": "NEW BUYER TRENDS",
+      "slug": "gen-z-record-rate-locks",
+      "title": "Gen Z's Record Share of Mortgage Rate Locks",
+      "caption": "Gen Z is making moves in the housing market! Learn how younger buyers are securing their homeownership dreams despite affordability challenges. #GenZHomebuyers #MortgageRates #FirstTimeHomeBuyer",
+      "hero_tag": "NEW GENERATION",
       "hero_stat": "20%",
-      "hero_heading": "Gen Z's Record Share of Mortgage Rate Locks",
-      "hero_sub": "Younger buyers are securing homes despite affordability challenges.",
-      "problem_tag": "MYTH VS. REALITY",
-      "problem_heading": "Think Homeownership is Out of Reach for Young Buyers?",
-      "problem_sub": "Many believe that high prices and interest rates make it impossible for younger generations to enter the housing market.",
+      "hero_heading": "Generation Z Sets Record for Home Purchase Rate Locks",
+      "hero_sub": "Younger buyers are securing their piece of the American Dream in increasing numbers.",
+      "problem_tag": "THE CHALLENGE",
+      "problem_heading": "Navigating Affordability Hurdles",
+      "problem_sub": "Many assume homeownership is out of reach for younger generations due to current market conditions.",
       "problem_label": "Outdated Beliefs:",
       "problem_pills": [
+        "IMPOSSIBLE TO AFFORD",
         "TOO YOUNG TO BUY",
-        "CAN'T AFFORD IT",
         "ONLY FOR OLDER BUYERS"
       ],
-      "solution_tag": "THE NEW REALITY",
-      "solution_heading": "Younger Generations Are Making Their Move",
-      "solution_sub": "Generation Z is actively pursuing homeownership, showing resilience and strategic planning in a competitive market.",
-      "quote_label": "Key Insight:",
-      "quote": "Despite ongoing affordability challenges, younger buyers are making significant strides in homeownership.",
-      "features_tag": "WHY IT MATTERS",
-      "features_heading": "Understanding Gen Z's Impact",
+      "solution_tag": "THE REALITY",
+      "solution_heading": "Young Buyers Are Making It Happen",
+      "solution_sub": "Despite challenges, Generation Z is actively entering the housing market, showing that strategic planning and support can lead to homeownership.",
+      "quote_label": "Key Takeaway:",
+      "quote": "The increasing share of Gen Z rate locks demonstrates a persistent drive for homeownership across all age groups.",
+      "features_tag": "WHAT IT MEANS",
+      "features_heading": "Empowering Future Homeowners",
       "features": [
         {
-          "label": "Record Share",
+          "label": "Record Participation",
           "desc": "Gen Z accounted for a record 20% of home purchase rate locks in Q2."
         },
         {
-          "label": "Market Influence",
-          "desc": "Their increasing presence impacts market dynamics and future housing trends."
+          "label": "Growing Influence",
+          "desc": "This marks their largest share on record, indicating a rising presence in the market."
         },
         {
-          "label": "Early Entry",
-          "desc": "This demographic is entering homeownership earlier than some might expect."
+          "label": "Overcoming Challenges",
+          "desc": "Younger buyers are gaining ground despite ongoing affordability concerns."
         },
         {
-          "label": "Strategic Planning",
-          "desc": "Young buyers are finding ways to overcome financial hurdles."
-        }
-      ],
-      "details_tag": "INSIGHTS FOR YOU",
-      "details_heading": "The Rise of the Young Homebuyer",
-      "details_sub": "This trend highlights changing homeownership patterns and the importance of tailored mortgage solutions.",
-      "details_pills": [
-        "YOUNGER HOMEOWNERS",
-        "FIRST-TIME BUYERS",
-        "AFFORDABILITY SOLUTIONS"
-      ],
-      "howto_tag": "YOUR PATH TO HOME",
-      "howto_heading": "Steps for Young Homebuyers",
-      "steps": [
-        {
-          "title": "Assess Your Readiness",
-          "desc": "Evaluate your financial situation and define your homeownership goals."
-        },
-        {
-          "title": "Explore Loan Options",
-          "desc": "Look into various mortgage products suited for first-time or young buyers."
-        },
-        {
-          "title": "Boost Your Credit",
-          "desc": "Work on improving your credit score to secure better rates."
-        },
-        {
-          "title": "Save for Down Payment",
-          "desc": "Start saving diligently for your down payment and closing costs."
-        }
-      ],
-      "cta_tag": "YOUR NEXT MOVE",
-      "cta_heading": "Ready to Join the Ranks of Homeowners?",
-      "cta_sub": "Discover how SafeTrust Mortgage can help you navigate the path to your first home.",
-      "cta_button": "Get Pre-Approved Today"
-    },
-    {
-      "slug": "flat-mortgage-rates-this-week",
-      "title": "Mortgage Rates Holding Steady",
-      "caption": "Good news for homebuyers! Mortgage rates are expected to remain flat this week due to a light economic calendar. Learn what this means for you. #MortgageRates #HomeBuying #MarketUpdate",
-      "hero_tag": "MARKET OUTLOOK",
-      "hero_stat": "",
-      "hero_heading": "Mortgage Rates Start New Week Flat",
-      "hero_sub": "A quiet economic calendar suggests stability in rates for now.",
-      "problem_tag": "COMMON CONCERN",
-      "problem_heading": "Worried About Volatile Mortgage Rates?",
-      "problem_sub": "Many prospective homebuyers fear rapid, unpredictable shifts in mortgage rates, making it hard to plan their purchase.",
-      "problem_label": "Typical Rate Anxieties:",
-      "problem_pills": [
-        "SUDDEN INCREASES",
-        "UNPREDICTABLE MARKET",
-        "MISSING BEST RATES"
-      ],
-      "solution_tag": "CURRENT OUTLOOK",
-      "solution_heading": "Stability Expected in Mortgage Rates",
-      "solution_sub": "With a light week for economic data, mortgage rates are likely to remain steady, offering a window of predictability for buyers.",
-      "quote_label": "Market Insight:",
-      "quote": "There isn't much on the economic calendar this week, meaning mortgage rates will likely print flat.",
-      "features_tag": "BENEFITS FOR YOU",
-      "features_heading": "Why Flat Rates Are Good News",
-      "features": [
-        {
-          "label": "Reduced Volatility",
-          "desc": "Less economic news means fewer factors to cause sudden rate changes."
-        },
-        {
-          "label": "Better Planning",
-          "desc": "A stable rate environment allows for more confident financial planning."
-        },
-        {
-          "label": "Decision Time",
-          "desc": "Provides a clearer window to make informed home buying decisions."
-        },
-        {
-          "label": "Potential Savings",
-          "desc": "Locking in a favorable rate can lead to long-term savings."
-        }
-      ],
-      "details_tag": "WHAT IT MEANS",
-      "details_heading": "A Calm Week for Homebuyers",
-      "details_sub": "This period of stability can be an opportune time to explore your mortgage options.",
-      "details_pills": [
-        "RATE STABILITY",
-        "OPPORTUNITY WINDOW",
-        "SMART PLANNING"
-      ],
-      "howto_tag": "SEIZE THE MOMENT",
-      "howto_heading": "How to Leverage Stable Rates",
-      "steps": [
-        {
-          "title": "Monitor Rates Closely",
-          "desc": "Stay informed about daily rate movements, even if they're minimal."
-        },
-        {
-          "title": "Get Pre-Approved",
-          "desc": "Secure a pre-approval to understand your buying power and potential rate."
-        },
-        {
-          "title": "Discuss Options",
-          "desc": "Talk to a SafeTrust advisor about current offers and lock-in options."
-        },
-        {
-          "title": "Act Decisively",
-          "desc": "Use this stable period to confidently move forward with your home purchase."
-        }
-      ],
-      "cta_tag": "LET'S TALK RATES",
-      "cta_heading": "Ready to Lock In a Great Rate?",
-      "cta_sub": "Connect with SafeTrust Mortgage to explore today's stable mortgage rates.",
-      "cta_button": "Get Today's Rate"
-    },
-    {
-      "slug": "community-impact-of-homeownership",
-      "title": "Homeownership's Community Impact",
-      "caption": "Did you know buying or selling a home gives back to your community? Discover the broader benefits of your real estate decisions. #CommunityImpact #HomeownershipBenefits #RealEstate",
-      "hero_tag": "MORE THAN A HOUSE",
-      "hero_stat": "",
-      "hero_heading": "What Buying or Selling a Home Gives Back to Your Community",
-      "hero_sub": "Your real estate decisions have a ripple effect beyond your property line.",
-      "problem_tag": "MISSED PERSPECTIVE",
-      "problem_heading": "Is Home Buying Just a Personal Transaction?",
-      "problem_sub": "Many view buying or selling a home solely as a personal financial decision, overlooking its broader community contributions.",
-      "problem_label": "Limited Views:",
-      "problem_pills": [
-        "PERSONAL GAIN ONLY",
-        "ISOLATED DECISION",
-        "NO EXTERNAL BENEFIT"
-      ],
-      "solution_tag": "SHARED PROSPERITY",
-      "solution_heading": "Homeownership Fuels Local Communities",
-      "solution_sub": "Your investment in a home contributes to local economies, services, and the overall well-being of your neighborhood.",
-      "quote_label": "Key Takeaway:",
-      "quote": "Buying or selling a home is a big financial decision, and right now, it feels even bigger.",
-      "features_tag": "COMMUNITY GAINS",
-      "features_heading": "The Broader Benefits of Homeownership",
-      "features": [
-        {
-          "label": "Increased Tax Revenue",
-          "desc": "Property taxes support local schools, roads, and public services."
-        },
-        {
-          "label": "Local Economic Boost",
-          "desc": "Home sales stimulate jobs in construction, real estate, and related industries."
-        },
-        {
-          "label": "Community Investment",
-          "desc": "Homeowners often invest more in local businesses and community organizations."
-        },
-        {
-          "label": "Neighborhood Stability",
-          "desc": "Stable homeownership fosters stronger, more connected communities."
+          "label": "Market Adaptation",
+          "desc": "It shows a significant shift in how younger generations approach buying a home."
         }
       ],
       "details_tag": "WHY IT MATTERS",
-      "details_heading": "Your Home, Your Community's Future",
-      "details_sub": "Understanding this impact can add another layer of fulfillment to your homeownership journey.",
+      "details_heading": "Your Homeownership Journey Starts Now",
+      "details_sub": "The success of Gen Z buyers highlights that age and market conditions don't have to be barriers to homeownership.",
       "details_pills": [
-        "LOCAL ECONOMY",
-        "PUBLIC SERVICES",
-        "NEIGHBORHOOD PRIDE"
+        "AGE IS JUST A NUMBER",
+        "SMART BUYING",
+        "FINANCIAL PLANNING",
+        "DREAM HOME POSSIBLE"
       ],
-      "howto_tag": "BE A PART OF IT",
-      "howto_heading": "Maximizing Your Impact",
+      "howto_tag": "HOW TO JOIN THEM",
+      "howto_heading": "Steps to Your First Home",
       "steps": [
         {
-          "title": "Support Local Businesses",
-          "desc": "Patronize local shops and services, further boosting the economy."
+          "title": "Assess Your Readiness",
+          "desc": "Understand your current financial situation and what you can realistically afford."
         },
         {
-          "title": "Participate Locally",
-          "desc": "Engage in community events and local government decisions."
+          "title": "Explore Loan Options",
+          "desc": "Learn about different mortgage products that might fit your budget and goals."
         },
         {
-          "title": "Maintain Your Property",
-          "desc": "Well-maintained homes contribute to neighborhood value and aesthetics."
+          "title": "Get Pre-Approved",
+          "desc": "A pre-approval strengthens your offer and clarifies your buying power."
         },
         {
-          "title": "Invest in Your Home",
-          "desc": "Home improvements not only benefit you but also increase local property values."
+          "title": "Seek Expert Advice",
+          "desc": "Work with a trusted mortgage lender to navigate the process effectively."
+        }
+      ],
+      "cta_tag": "YOUR NEXT MOVE",
+      "cta_heading": "Ready to Lock In Your Rate?",
+      "cta_sub": "Let's explore your mortgage options and help you achieve your homeownership goals.",
+      "cta_button": "Get Pre-Approved Today"
+    },
+    {
+      "slug": "mortgage-rates-flat-economic-data",
+      "title": "Mortgage Rates: What to Expect This Week",
+      "caption": "Good news for mortgage rates! With a light week for economic data, we're likely to see stability. Learn what this means for your home loan. #MortgageRates #HousingMarket #InterestRates",
+      "hero_tag": "MARKET INSIGHT",
+      "hero_stat": "",
+      "hero_heading": "Mortgage Rates Likely to Stay Flat This Week",
+      "hero_sub": "A quiet economic calendar points to stable mortgage rates, offering a window of predictability.",
+      "problem_tag": "THE UNCERTAINTY",
+      "problem_heading": "Rate Volatility Concerns",
+      "problem_sub": "Many prospective homebuyers worry about sudden shifts in mortgage rates, making it hard to plan.",
+      "problem_label": "Common Fears:",
+      "problem_pills": [
+        "RATES WILL SPIKE",
+        "MISSING THE BEST RATE",
+        "MARKET IS TOO UNPREDICTABLE"
+      ],
+      "solution_tag": "THE FORECAST",
+      "solution_heading": "Stability on the Horizon",
+      "solution_sub": "With minimal impactful economic data scheduled, mortgage rates are expected to remain relatively stable, differing from recent volatile periods.",
+      "quote_label": "Expert View:",
+      "quote": "A light week for economic data means mortgage rates will likely print flat, providing a calmer environment for buyers.",
+      "features_tag": "YOUR ADVANTAGE",
+      "features_heading": "Benefits of Rate Stability",
+      "features": [
+        {
+          "label": "Predictable Planning",
+          "desc": "Less volatility allows for more confident financial planning and decision-making."
+        },
+        {
+          "label": "Reduced Pressure",
+          "desc": "Homebuyers can take their time without the stress of rapidly changing rates."
+        },
+        {
+          "label": "Clearer Budgeting",
+          "desc": "A stable rate environment helps in accurately estimating monthly mortgage payments."
+        },
+        {
+          "label": "Opportunity to Act",
+          "desc": "This period can be ideal for securing a pre-approval or locking in a favorable rate."
+        }
+      ],
+      "details_tag": "WHY IT MATTERS",
+      "details_heading": "Seize the Stable Moment",
+      "details_sub": "A period of flat rates provides an excellent opportunity to focus on your home search and secure your financing without immediate rate anxiety.",
+      "details_pills": [
+        "CALM MARKET",
+        "PLAN AHEAD",
+        "LOCK IN RATE",
+        "CONFIDENT BUYING"
+      ],
+      "howto_tag": "YOUR NEXT STEPS",
+      "howto_heading": "Make the Most of Stable Rates",
+      "steps": [
+        {
+          "title": "Monitor the Market",
+          "desc": "Stay informed about general rate trends, even during stable periods."
+        },
+        {
+          "title": "Get Pre-Approved",
+          "desc": "Know your borrowing power and show sellers you're a serious buyer."
+        },
+        {
+          "title": "Review Your Options",
+          "desc": "Discuss various loan programs with your lender to find the best fit."
+        },
+        {
+          "title": "Act Decisively",
+          "desc": "When you find a rate and home you like, be ready to move forward."
+        }
+      ],
+      "cta_tag": "LET'S TALK RATES",
+      "cta_heading": "Secure Your Rate Today",
+      "cta_sub": "Connect with us to understand current mortgage rates and explore your best options.",
+      "cta_button": "Get a Rate Quote"
+    },
+    {
+      "slug": "community-impact-homeownership",
+      "title": "Homeownership: Giving Back to Your Community",
+      "caption": "Buying or selling a home is more than a transaction\u2014it's an investment in your community. Discover the local benefits of homeownership! #CommunityImpact #HomeownershipBenefits #LocalEconomy",
+      "hero_tag": "BEYOND THE SALE",
+      "hero_stat": "",
+      "hero_heading": "Homeownership: An Investment in Your Community",
+      "hero_sub": "Buying or selling a home contributes significantly to the health and vitality of your local area.",
+      "problem_tag": "THE MYTH",
+      "problem_heading": "Is It Just a Personal Decision?",
+      "problem_sub": "Many view home buying or selling as solely a personal financial move, overlooking its broader community effects.",
+      "problem_label": "Misconceptions:",
+      "problem_pills": [
+        "ONLY ABOUT ME",
+        "NO EXTERNAL IMPACT",
+        "PURELY FINANCIAL"
+      ],
+      "solution_tag": "THE TRUTH",
+      "solution_heading": "You're Fueling Local Growth",
+      "solution_sub": "Every home transaction has a ripple effect, supporting local businesses, services, and public funds that benefit everyone.",
+      "quote_label": "Key Insight:",
+      "quote": "Buying or selling a home is a big financial decision that also gives back to your community in significant ways.",
+      "features_tag": "THE IMPACT",
+      "features_heading": "How Your Home Boosts Your Community",
+      "features": [
+        {
+          "label": "Increased Property Taxes",
+          "desc": "These funds support local schools, infrastructure, and public services."
+        },
+        {
+          "label": "Local Job Creation",
+          "desc": "Home sales stimulate jobs in real estate, construction, moving, and related services."
+        },
+        {
+          "label": "Support for Local Businesses",
+          "desc": "New homeowners often spend on local renovations, furnishings, and maintenance."
+        },
+        {
+          "label": "Neighborhood Stability",
+          "desc": "Stable homeownership often leads to more engaged communities and volunteerism."
+        }
+      ],
+      "details_tag": "WHY IT MATTERS",
+      "details_heading": "A Shared Future, Built by You",
+      "details_sub": "Your decision to buy or sell a home helps build a stronger, more vibrant community for everyone.",
+      "details_pills": [
+        "LOCAL ECONOMY",
+        "SCHOOL FUNDING",
+        "PUBLIC SERVICES",
+        "COMMUNITY VITALITY"
+      ],
+      "howto_tag": "BE A PART OF IT",
+      "howto_heading": "Engage With Your Community",
+      "steps": [
+        {
+          "title": "Research Local Markets",
+          "desc": "Understand how home values and transactions impact your specific area."
+        },
+        {
+          "title": "Support Local Services",
+          "desc": "Hire local contractors and businesses for home improvements."
+        },
+        {
+          "title": "Get Involved",
+          "desc": "Participate in local government or community groups that benefit from property taxes."
+        },
+        {
+          "title": "Promote Homeownership",
+          "desc": "Encourage others to consider the community benefits of buying a home."
         }
       ],
       "cta_tag": "MAKE IT YOURS",
-      "cta_heading": "Ready to Invest in Your Home & Community?",
-      "cta_sub": "SafeTrust Mortgage helps you find the right financing to make a positive impact.",
-      "cta_button": "Start Your Journey"
+      "cta_heading": "Invest in Your Home, Invest in Your Community",
+      "cta_sub": "Let us help you make a smart move that benefits both you and your neighborhood.",
+      "cta_button": "Start Your Home Journey"
     }
   ]
 }
