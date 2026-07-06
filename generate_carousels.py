@@ -41,15 +41,16 @@ def _process_raster(raw):
         if bbox:
             im = im.crop(bbox)
     else:
-        # Opaque image (e.g. white background) — knock the near-white bg out to transparent.
-        rgb = im.convert("RGB")
-        diff = ImageChops.difference(rgb, Image.new("RGB", im.size, (255, 255, 255))).convert("L")
-        mask = diff.point(lambda v: 255 if v > 12 else 0)
-        bbox = mask.getbbox()
+        # Opaque image — treat light pixels (including a transparency checkerboard) as
+        # background. Alpha ramps by darkness so a dark logo on a light/checkerboard
+        # background comes out cleanly, with anti-aliased edges.
+        lum = im.convert("L")
+        alpha = lum.point(lambda v: 0 if v > 200 else 255 if v < 120 else int(255 * (200 - v) / 80))
+        bbox = alpha.getbbox()
         if bbox:
             im = im.crop(bbox)
-            mask = mask.crop(bbox)
-        im.putalpha(mask)
+            alpha = alpha.crop(bbox)
+        im.putalpha(alpha)
     buf = io.BytesIO()
     im.save(buf, format="PNG")
     return buf.getvalue(), "image/png"
@@ -220,9 +221,10 @@ def eho_badge(is_light):
     """Equal Housing Opportunity badge, bottom-right above the progress bar."""
     if not BADGE_URI:
         return ""
-    filt = "filter:brightness(0);" if is_light else ""  # badge art is white; darken on light slides
-    return (f'<img src="{BADGE_URI}" alt="Equal Housing Opportunity" '
-            f'style="position:absolute;right:30px;bottom:56px;width:46px;height:auto;'
+    # Badge art is dark after background removal: darken on light slides, invert to white on dark.
+    filt = "filter:brightness(0);" if is_light else "filter:brightness(0) invert(1);"
+    return (f'<img src="{BADGE_URI}" alt="Equal Housing Lender" '
+            f'style="position:absolute;right:30px;bottom:56px;width:48px;height:auto;'
             f'z-index:8;opacity:0.9;{filt}">')
 
 def render_slide(slide, index, total):
