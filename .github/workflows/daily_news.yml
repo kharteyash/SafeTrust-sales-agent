@@ -33,22 +33,45 @@ jobs:
         with:
           python-version: "3.12"
 
-      - if: steps.guard.outputs.run == 'true'
+      - name: Install dependencies
+        if: steps.guard.outputs.run == 'true'
         run: |
           python -m pip install --upgrade pip
           pip install -r requirements.txt
 
-      - if: steps.guard.outputs.run == 'true'
+      - name: Scrape the news
+        if: steps.guard.outputs.run == 'true'
         run: python scrape.py
 
-      - if: steps.guard.outputs.run == 'true'
+      - name: Write carousel copy with Claude
+        if: steps.guard.outputs.run == 'true'
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+        run: python write_carousels.py
+
+      - name: Render carousel HTML
+        if: steps.guard.outputs.run == 'true'
+        run: python generate_carousels.py
+
+      - name: Install Playwright + Chromium
+        if: steps.guard.outputs.run == 'true'
+        run: |
+          pip install playwright
+          python -m playwright install --with-deps chromium
+
+      - name: Export slides to PNG
+        if: steps.guard.outputs.run == 'true'
+        run: python export_slides.py
+
+      - name: Commit the day's output
+        if: steps.guard.outputs.run == 'true'
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add daily_news.json
+          git add daily_news.json carousel_content.json carousels
           if git diff --staged --quiet; then
             echo "No changes to commit"
           else
-            git commit -m "Update daily news $(date -u +'%Y-%m-%d')"
+            git commit -m "Daily news + carousels $(date -u +'%Y-%m-%d')"
             git push
           fi

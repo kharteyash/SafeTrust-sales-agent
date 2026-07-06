@@ -1,0 +1,231 @@
+{
+  "carousels": [
+    {
+      "slug": "rates-rising",
+      "title": "Why Mortgage Rates Are Rising",
+      "caption": "Why mortgage rates are rising \u2014 not falling. The bond market, the Fed, and what it means for your rate. \ud83d\udcc8",
+      "hero_tag": "Rate Watch",
+      "hero_stat": "",
+      "hero_heading": "Everyone expected rates to fall. Here's why they didn't.",
+      "hero_sub": "Oil dropped under $70 \u2014 but mortgage rates went the other way. A 60-second look at what's really moving them.",
+      "problem_tag": "The Surprise",
+      "problem_heading": "The forecast was wrong.",
+      "problem_sub": "Falling oil usually cools inflation and pulls rates down with it. This time, rates climbed to their highest level in a week instead.",
+      "problem_label": "What everyone assumed:",
+      "problem_pills": [
+        "Summer rate cuts",
+        "Cheap money",
+        "Quick relief"
+      ],
+      "solution_tag": "The Real Driver",
+      "solution_heading": "It's the bond market, not the headlines.",
+      "solution_sub": "Mortgage rates track the 10-year Treasury yield, anchored near 4.46-4.48% on a hawkish Fed outlook.",
+      "quote_label": "Why rates moved",
+      "quote": "Mortgage rates are directly based on the bond market \u2014 not oil prices or news cycles.",
+      "features_tag": "Where Rates Stand",
+      "features_heading": "The numbers right now.",
+      "features": [
+        {
+          "label": "30-yr fixed near 6.50-6.75%",
+          "desc": "Holding in a tight range"
+        },
+        {
+          "label": "10-yr Treasury 4.46-4.48%",
+          "desc": "The benchmark rates follow"
+        },
+        {
+          "label": "Highest level in a week",
+          "desc": "After a quarter-end bond sell-off"
+        },
+        {
+          "label": "Fed staying hawkish",
+          "desc": "No rate cuts signaled yet"
+        }
+      ],
+      "details_tag": "The Fed Factor",
+      "details_heading": "Why the Fed is holding the line.",
+      "details_sub": "Fed leadership has stayed hawkish, cooling hopes for near-term cuts. Rates may stay higher until inflation clearly eases.",
+      "details_pills": [
+        "Hawkish Fed",
+        "Quarter-end selling",
+        "Sticky inflation",
+        "Higher for longer"
+      ],
+      "howto_tag": "What It Means For You",
+      "howto_heading": "How to play it smart.",
+      "steps": [
+        {
+          "title": "Don't wait for a magic drop",
+          "desc": "Timing the exact bottom rarely works"
+        },
+        {
+          "title": "Run your real numbers",
+          "desc": "Focus on a monthly payment you can own"
+        },
+        {
+          "title": "Get pre-approved now",
+          "desc": "Know your budget before you shop"
+        },
+        {
+          "title": "Work with a rate watcher",
+          "desc": "We track the bond market daily"
+        }
+      ],
+      "cta_tag": "Let's Talk Rates",
+      "cta_heading": "Rates move daily. We watch them so you don't have to.",
+      "cta_sub": "Get today's real rate and a plan built around your budget.",
+      "cta_button": "Get today's rate \u2192"
+    },
+    {
+      "slug": "market-stronger",
+      "title": "The Housing Market Is Stronger Than You Think",
+      "caption": "The housing market is stronger than you think. Tune out the noise and see the real data. \ud83c\udfe1",
+      "hero_tag": "Market Reality",
+      "hero_stat": "",
+      "hero_heading": "The housing market is stronger than you think.",
+      "hero_sub": "You've heard the doom and gloom. The data tells a very different story.",
+      "problem_tag": "The Noise",
+      "problem_heading": "You've heard the doom and gloom.",
+      "problem_sub": "Crash predictions. 'Just wait it out.' Endless negative headlines. It's enough to freeze any buyer in place.",
+      "problem_label": "The advice you keep hearing:",
+      "problem_pills": [
+        "Market crash",
+        "Wait it out",
+        "Buy later"
+      ],
+      "solution_tag": "The Reality",
+      "solution_heading": "The data tells a different story.",
+      "solution_sub": "Underneath the headlines, demand is holding and confidence is climbing.",
+      "quote_label": "The takeaway",
+      "quote": "Don't let fear write your timeline \u2014 the fundamentals are steadier than the headlines suggest.",
+      "features_tag": "Signs of Strength",
+      "features_heading": "What the market's actually doing.",
+      "features": [
+        {
+          "label": "Demand is holding steady",
+          "desc": "Buyers haven't disappeared"
+        },
+        {
+          "label": "Confidence is climbing",
+          "desc": "Uncertainty is easing"
+        },
+        {
+          "label": "Inventory is improving",
+          "desc": "More choices than a year ago"
+        },
+        {
+          "label": "Buyers are re-entering",
+          "desc": "Serious shoppers are back"
+        }
+      ],
+      "details_tag": "Confidence Is Rising",
+      "details_heading": "Less uncertainty, more buyers.",
+      "details_sub": "A recent birthright citizenship ruling removed a major unknown for many first-time buyers \u2014 clearing the way to finally commit to a home.",
+      "details_pills": [
+        "First-time buyers",
+        "Less uncertainty",
+        "Renewed demand"
+      ],
+      "howto_tag": "How To Buy Now",
+      "howto_heading": "Buy smart in this market.",
+      "steps": [
+        {
+          "title": "Tune out the noise",
+          "desc": "Headlines don't set your rate or budget"
+        },
+        {
+          "title": "Know your real budget",
+          "desc": "Get clear on what you can own"
+        },
+        {
+          "title": "Get pre-approved",
+          "desc": "Move fast when you find the one"
+        },
+        {
+          "title": "Act on your timeline",
+          "desc": "Not the market's mood"
+        }
+      ],
+      "cta_tag": "Your Next Move",
+      "cta_heading": "Don't let headlines cost you your home.",
+      "cta_sub": "Let's turn 'someday' into a pre-approval you can act on.",
+      "cta_button": "Start your pre-approval \u2192"
+    },
+    {
+      "slug": "home-identity",
+      "title": "Your Home Is a Reflection of You",
+      "caption": "Your home is a reflection of who you are. What ownership really means. \ud83d\udd11",
+      "hero_tag": "National Homeownership Month",
+      "hero_stat": "74%",
+      "hero_heading": "of homeowners say their home is a reflection of who they are.",
+      "hero_sub": "A new survey reveals what ownership really means \u2014 and it's about far more than money.",
+      "problem_tag": "Owning vs Renting",
+      "problem_heading": "Renters see it differently.",
+      "problem_sub": "For most renters, home is 'just a place to live.' The gap between owning and renting isn't only financial \u2014 it's personal.",
+      "problem_label": "How renters describe home:",
+      "problem_pills": [
+        "Just a place to live",
+        "Temporary",
+        "Someone else's"
+      ],
+      "solution_tag": "What Changes",
+      "solution_heading": "Owning changes how home feels.",
+      "solution_sub": "Homeowners report warm feelings, pride, and a deep sense of belonging in their space.",
+      "quote_label": "Redfin survey",
+      "quote": "Most homeowners have warm feelings about their home \u2014 it's a reflection of who they are.",
+      "features_tag": "What Homeowners Feel",
+      "features_heading": "More than four walls.",
+      "features": [
+        {
+          "label": "Identity",
+          "desc": "74% say it reflects who they are"
+        },
+        {
+          "label": "Pride",
+          "desc": "A place they're proud to call theirs"
+        },
+        {
+          "label": "Belonging",
+          "desc": "Roots in a community"
+        },
+        {
+          "label": "Stability",
+          "desc": "A foundation to build on"
+        }
+      ],
+      "details_tag": "Why It Matters",
+      "details_heading": "A home you own is a home that's you.",
+      "details_sub": "Paint the walls. Plant the garden. Grow into it. Ownership turns a place to live into a place that's truly yours.",
+      "details_pills": [
+        "Pride",
+        "Roots",
+        "Belonging",
+        "Freedom"
+      ],
+      "howto_tag": "Make It Yours",
+      "howto_heading": "Ready to make it yours?",
+      "steps": [
+        {
+          "title": "Picture your space",
+          "desc": "What does 'home' look like to you?"
+        },
+        {
+          "title": "Know your budget",
+          "desc": "See what you can comfortably own"
+        },
+        {
+          "title": "Get pre-approved",
+          "desc": "Turn the dream into a plan"
+        },
+        {
+          "title": "Find the one that's you",
+          "desc": "We'll help you get there"
+        }
+      ],
+      "cta_tag": "Make It Yours",
+      "cta_heading": "Your home should be a reflection of you.",
+      "cta_sub": "Let's find the one that feels like yours.",
+      "cta_button": "Let's find yours \u2192"
+    }
+  ]
+}
