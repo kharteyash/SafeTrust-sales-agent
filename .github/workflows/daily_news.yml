@@ -1,35 +1,51 @@
 name: Daily News
 on:
   schedule:
-    # 6am Eastern. Cron is UTC-only, so both offsets are listed and a
-    # guard step below skips the run unless it is actually 6am in New York.
-    #   10:00 UTC = 6am EDT (summer)
-    #   11:00 UTC = 6am EST (winter)
+    # Target 6am Eastern. Cron is UTC-only, so both DST offsets are listed:
+    #   10:00 UTC = 6am EDT (summer)   11:00 UTC = 6am EST (winter)
+    # The guard below accepts the 6am OR 7am Eastern hour (so a run delayed by
+    # GitHub up to ~2h still proceeds) and a .last_run marker ensures it only
+    # actually runs once per day.
     - cron: "0 10 * * *"
     - cron: "0 11 * * *"
   workflow_dispatch:
 permissions:
   contents: write
+# Never let two runs (e.g. a delayed 6am and the 7am cron) overlap.
+concurrency:
+  group: daily-news
+  cancel-in-progress: false
 jobs:
   scrape:
     runs-on: ubuntu-latest
     steps:
-      - name: Check it is 6am Eastern
-        id: guard
-        run: |
-          hour=$(TZ="America/New_York" date +%H)
-          echo "today=$(TZ="America/New_York" date +'%Y-%m-%d')" >> "$GITHUB_OUTPUT"
-          if [ "${{ github.event_name }}" != "workflow_dispatch" ] && [ "$hour" != "06" ]; then
-            echo "Current Eastern hour is $hour, not 06 — skipping."
-            echo "run=false" >> "$GITHUB_OUTPUT"
-          else
-            echo "run=true" >> "$GITHUB_OUTPUT"
-          fi
-
-      - if: steps.guard.outputs.run == 'true'
+      - name: Check out repository
         uses: actions/checkout@v4
 
-      - if: steps.guard.outputs.run == 'true'
+      - name: Decide whether to run (6-7am Eastern, once per day)
+        id: guard
+        run: |
+          today=$(TZ="America/New_York" date +'%Y-%m-%d')
+          echo "today=$today" >> "$GITHUB_OUTPUT"
+          if [ "${{ github.event_name }}" == "workflow_dispatch" ]; then
+            echo "Manual run — proceeding."
+            echo "run=true" >> "$GITHUB_OUTPUT"; exit 0
+          fi
+          hour=$(TZ="America/New_York" date +%H)
+          if [ "$hour" != "06" ] && [ "$hour" != "07" ]; then
+            echo "Eastern hour is $hour (outside 06-07 window) — skipping."
+            echo "run=false" >> "$GITHUB_OUTPUT"; exit 0
+          fi
+          last=$(cat .last_run 2>/dev/null || echo "")
+          if [ "$last" = "$today" ]; then
+            echo "Already ran today ($today) — skipping duplicate."
+            echo "run=false" >> "$GITHUB_OUTPUT"; exit 0
+          fi
+          echo "In window ($hour ET) and not yet run today — proceeding."
+          echo "run=true" >> "$GITHUB_OUTPUT"
+
+      - name: Set up Python
+        if: steps.guard.outputs.run == 'true'
         uses: actions/setup-python@v5
         with:
           python-version: "3.12"
@@ -69,11 +85,12 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add daily_news.json carousel_content.json carousels
+          echo "${{ steps.guard.outputs.today }}" > .last_run
+          git add .last_run daily_news.json carousel_content.json carousels
           if git diff --staged --quiet; then
             echo "No changes to commit"
           else
-            git commit -m "Daily news + carousels $(date -u +'%Y-%m-%d')"
+            git commit -m "Daily news + carousels ${{ steps.guard.outputs.today }}"
             git push
           fi
 
