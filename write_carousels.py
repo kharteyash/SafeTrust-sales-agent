@@ -1,24 +1,28 @@
 """
 Turn daily_news.json into structured slide copy for 3 Instagram carousels, using
-Claude with structured outputs. Claude picks the 3 most engaging stories and
-writes the copy for each 7-slide arc; the layout is rendered deterministically by
-generate_carousels.py (Claude never emits HTML).
+Google Gemini 2.5 Flash (free tier via Google AI Studio) with structured outputs.
+Gemini picks the 3 most engaging stories and writes the copy for each 7-slide arc;
+the layout is rendered deterministically by generate_carousels.py (the model never
+emits HTML).
 
-Requires ANTHROPIC_API_KEY in the environment. Run:  python write_carousels.py
+Requires GEMINI_API_KEY in the environment (get a free key at
+https://aistudio.google.com/app/apikey).  Run:  python write_carousels.py
 """
 import json
+import os
 import re
 import sys
 from pathlib import Path
 from typing import List
 
-import anthropic
+from google import genai
+from google.genai import types
 from pydantic import BaseModel
 
 BASE = Path(__file__).parent
 NEWS = BASE / "daily_news.json"
 OUT = BASE / "carousel_content.json"
-MODEL = "claude-opus-4-8"
+MODEL = "gemini-2.5-flash"
 
 
 # ---------------------------------------------------------------- output schema
@@ -130,23 +134,34 @@ def main():
                      f"   link: {entry.get('link', '')}")
     news_block = "\n".join(lines)
 
-    client = anthropic.Anthropic()  # reads ANTHROPIC_API_KEY from the environment
-    response = client.messages.parse(
+    api_key = os.environ.get("GEMINI_API_KEY") or os.environ.get("GOOGLE_API_KEY")
+    if not api_key:
+        sys.exit("GEMINI_API_KEY not set. Get a free key at "
+                 "https://aistudio.google.com/app/apikey")
+
+    client = genai.Client(api_key=api_key)
+    response = client.models.generate_content(
         model=MODEL,
-        max_tokens=16000,
-        system=SYSTEM,
-        messages=[{
-            "role": "user",
-            "content": (
-                f"Today's mortgage and housing headlines:\n\n{news_block}\n\n"
-                "Pick the 3 most engaging stories for prospective home buyers and write "
-                "all three carousels."
-            ),
-        }],
-        output_format=Output,
+        contents=(
+            f"Today's mortgage and housing headlines:\n\n{news_block}\n\n"
+            "Pick the 3 most engaging stories for prospective home buyers and write "
+            "all three carousels."
+        ),
+        config=types.GenerateContentConfig(
+            system_instruction=SYSTEM,
+            response_mime_type="application/json",
+            response_schema=Output,
+            max_output_tokens=8192,
+            thinking_config=types.ThinkingConfig(thinking_budget=0),
+        ),
     )
 
-    result = response.parsed_output
+    # response.parsed is an Output instance when response_schema is a Pydantic model;
+    # fall back to parsing the raw JSON text if the SDK didn't hydrate it.
+    result = response.parsed
+    if result is None:
+        result = Output.model_validate_json(response.text)
+
     OUT.write_text(json.dumps(result.model_dump(), indent=2), encoding="utf-8")
     print(f"Wrote {OUT.name}: {len(result.carousels)} carousels")
     for c in result.carousels:
