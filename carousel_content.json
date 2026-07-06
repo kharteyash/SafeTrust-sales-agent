@@ -1,231 +1,229 @@
 {
   "carousels": [
     {
-      "slug": "rates-rising",
-      "title": "Why Mortgage Rates Are Rising",
-      "caption": "Why mortgage rates are rising \u2014 not falling. The bond market, the Fed, and what it means for your rate. \ud83d\udcc8",
-      "hero_tag": "Rate Watch",
-      "hero_stat": "",
-      "hero_heading": "Everyone expected rates to fall. Here's why they didn't.",
-      "hero_sub": "Oil dropped under $70 \u2014 but mortgage rates went the other way. A 60-second look at what's really moving them.",
-      "problem_tag": "The Surprise",
-      "problem_heading": "The forecast was wrong.",
-      "problem_sub": "Falling oil usually cools inflation and pulls rates down with it. This time, rates climbed to their highest level in a week instead.",
-      "problem_label": "What everyone assumed:",
+      "slug": "gen-z-mortgage-share",
+      "title": "Gen Z's Record Home Buying",
+      "caption": "Gen Z is stepping into homeownership in a big way! Discover how younger buyers are navigating the market and securing their futures. #GenZHomebuyers #FirstTimeHomeBuyer #MortgageTips",
+      "hero_tag": "NEW BUYER TRENDS",
+      "hero_stat": "20%",
+      "hero_heading": "Gen Z's Record Share of Mortgage Rate Locks",
+      "hero_sub": "Younger buyers are securing homes despite affordability challenges.",
+      "problem_tag": "MYTH VS. REALITY",
+      "problem_heading": "Think Homeownership is Out of Reach for Young Buyers?",
+      "problem_sub": "Many believe that high prices and interest rates make it impossible for younger generations to enter the housing market.",
+      "problem_label": "Outdated Beliefs:",
       "problem_pills": [
-        "Summer rate cuts",
-        "Cheap money",
-        "Quick relief"
+        "TOO YOUNG TO BUY",
+        "CAN'T AFFORD IT",
+        "ONLY FOR OLDER BUYERS"
       ],
-      "solution_tag": "The Real Driver",
-      "solution_heading": "It's the bond market, not the headlines.",
-      "solution_sub": "Mortgage rates track the 10-year Treasury yield, anchored near 4.46-4.48% on a hawkish Fed outlook.",
-      "quote_label": "Why rates moved",
-      "quote": "Mortgage rates are directly based on the bond market \u2014 not oil prices or news cycles.",
-      "features_tag": "Where Rates Stand",
-      "features_heading": "The numbers right now.",
+      "solution_tag": "THE NEW REALITY",
+      "solution_heading": "Younger Generations Are Making Their Move",
+      "solution_sub": "Generation Z is actively pursuing homeownership, showing resilience and strategic planning in a competitive market.",
+      "quote_label": "Key Insight:",
+      "quote": "Despite ongoing affordability challenges, younger buyers are making significant strides in homeownership.",
+      "features_tag": "WHY IT MATTERS",
+      "features_heading": "Understanding Gen Z's Impact",
       "features": [
         {
-          "label": "30-yr fixed near 6.50-6.75%",
-          "desc": "Holding in a tight range"
+          "label": "Record Share",
+          "desc": "Gen Z accounted for a record 20% of home purchase rate locks in Q2."
         },
         {
-          "label": "10-yr Treasury 4.46-4.48%",
-          "desc": "The benchmark rates follow"
+          "label": "Market Influence",
+          "desc": "Their increasing presence impacts market dynamics and future housing trends."
         },
         {
-          "label": "Highest level in a week",
-          "desc": "After a quarter-end bond sell-off"
+          "label": "Early Entry",
+          "desc": "This demographic is entering homeownership earlier than some might expect."
         },
         {
-          "label": "Fed staying hawkish",
-          "desc": "No rate cuts signaled yet"
+          "label": "Strategic Planning",
+          "desc": "Young buyers are finding ways to overcome financial hurdles."
         }
       ],
-      "details_tag": "The Fed Factor",
-      "details_heading": "Why the Fed is holding the line.",
-      "details_sub": "Fed leadership has stayed hawkish, cooling hopes for near-term cuts. Rates may stay higher until inflation clearly eases.",
+      "details_tag": "INSIGHTS FOR YOU",
+      "details_heading": "The Rise of the Young Homebuyer",
+      "details_sub": "This trend highlights changing homeownership patterns and the importance of tailored mortgage solutions.",
       "details_pills": [
-        "Hawkish Fed",
-        "Quarter-end selling",
-        "Sticky inflation",
-        "Higher for longer"
+        "YOUNGER HOMEOWNERS",
+        "FIRST-TIME BUYERS",
+        "AFFORDABILITY SOLUTIONS"
       ],
-      "howto_tag": "What It Means For You",
-      "howto_heading": "How to play it smart.",
+      "howto_tag": "YOUR PATH TO HOME",
+      "howto_heading": "Steps for Young Homebuyers",
       "steps": [
         {
-          "title": "Don't wait for a magic drop",
-          "desc": "Timing the exact bottom rarely works"
+          "title": "Assess Your Readiness",
+          "desc": "Evaluate your financial situation and define your homeownership goals."
         },
         {
-          "title": "Run your real numbers",
-          "desc": "Focus on a monthly payment you can own"
+          "title": "Explore Loan Options",
+          "desc": "Look into various mortgage products suited for first-time or young buyers."
         },
         {
-          "title": "Get pre-approved now",
-          "desc": "Know your budget before you shop"
+          "title": "Boost Your Credit",
+          "desc": "Work on improving your credit score to secure better rates."
         },
         {
-          "title": "Work with a rate watcher",
-          "desc": "We track the bond market daily"
+          "title": "Save for Down Payment",
+          "desc": "Start saving diligently for your down payment and closing costs."
         }
       ],
-      "cta_tag": "Let's Talk Rates",
-      "cta_heading": "Rates move daily. We watch them so you don't have to.",
-      "cta_sub": "Get today's real rate and a plan built around your budget.",
-      "cta_button": "Get today's rate \u2192"
+      "cta_tag": "YOUR NEXT MOVE",
+      "cta_heading": "Ready to Join the Ranks of Homeowners?",
+      "cta_sub": "Discover how SafeTrust Mortgage can help you navigate the path to your first home.",
+      "cta_button": "Get Pre-Approved Today"
     },
     {
-      "slug": "market-stronger",
-      "title": "The Housing Market Is Stronger Than You Think",
-      "caption": "The housing market is stronger than you think. Tune out the noise and see the real data. \ud83c\udfe1",
-      "hero_tag": "Market Reality",
+      "slug": "flat-mortgage-rates-this-week",
+      "title": "Mortgage Rates Holding Steady",
+      "caption": "Good news for homebuyers! Mortgage rates are expected to remain flat this week due to a light economic calendar. Learn what this means for you. #MortgageRates #HomeBuying #MarketUpdate",
+      "hero_tag": "MARKET OUTLOOK",
       "hero_stat": "",
-      "hero_heading": "The housing market is stronger than you think.",
-      "hero_sub": "You've heard the doom and gloom. The data tells a very different story.",
-      "problem_tag": "The Noise",
-      "problem_heading": "You've heard the doom and gloom.",
-      "problem_sub": "Crash predictions. 'Just wait it out.' Endless negative headlines. It's enough to freeze any buyer in place.",
-      "problem_label": "The advice you keep hearing:",
+      "hero_heading": "Mortgage Rates Start New Week Flat",
+      "hero_sub": "A quiet economic calendar suggests stability in rates for now.",
+      "problem_tag": "COMMON CONCERN",
+      "problem_heading": "Worried About Volatile Mortgage Rates?",
+      "problem_sub": "Many prospective homebuyers fear rapid, unpredictable shifts in mortgage rates, making it hard to plan their purchase.",
+      "problem_label": "Typical Rate Anxieties:",
       "problem_pills": [
-        "Market crash",
-        "Wait it out",
-        "Buy later"
+        "SUDDEN INCREASES",
+        "UNPREDICTABLE MARKET",
+        "MISSING BEST RATES"
       ],
-      "solution_tag": "The Reality",
-      "solution_heading": "The data tells a different story.",
-      "solution_sub": "Underneath the headlines, demand is holding and confidence is climbing.",
-      "quote_label": "The takeaway",
-      "quote": "Don't let fear write your timeline \u2014 the fundamentals are steadier than the headlines suggest.",
-      "features_tag": "Signs of Strength",
-      "features_heading": "What the market's actually doing.",
+      "solution_tag": "CURRENT OUTLOOK",
+      "solution_heading": "Stability Expected in Mortgage Rates",
+      "solution_sub": "With a light week for economic data, mortgage rates are likely to remain steady, offering a window of predictability for buyers.",
+      "quote_label": "Market Insight:",
+      "quote": "There isn't much on the economic calendar this week, meaning mortgage rates will likely print flat.",
+      "features_tag": "BENEFITS FOR YOU",
+      "features_heading": "Why Flat Rates Are Good News",
       "features": [
         {
-          "label": "Demand is holding steady",
-          "desc": "Buyers haven't disappeared"
+          "label": "Reduced Volatility",
+          "desc": "Less economic news means fewer factors to cause sudden rate changes."
         },
         {
-          "label": "Confidence is climbing",
-          "desc": "Uncertainty is easing"
+          "label": "Better Planning",
+          "desc": "A stable rate environment allows for more confident financial planning."
         },
         {
-          "label": "Inventory is improving",
-          "desc": "More choices than a year ago"
+          "label": "Decision Time",
+          "desc": "Provides a clearer window to make informed home buying decisions."
         },
         {
-          "label": "Buyers are re-entering",
-          "desc": "Serious shoppers are back"
+          "label": "Potential Savings",
+          "desc": "Locking in a favorable rate can lead to long-term savings."
         }
       ],
-      "details_tag": "Confidence Is Rising",
-      "details_heading": "Less uncertainty, more buyers.",
-      "details_sub": "A recent birthright citizenship ruling removed a major unknown for many first-time buyers \u2014 clearing the way to finally commit to a home.",
+      "details_tag": "WHAT IT MEANS",
+      "details_heading": "A Calm Week for Homebuyers",
+      "details_sub": "This period of stability can be an opportune time to explore your mortgage options.",
       "details_pills": [
-        "First-time buyers",
-        "Less uncertainty",
-        "Renewed demand"
+        "RATE STABILITY",
+        "OPPORTUNITY WINDOW",
+        "SMART PLANNING"
       ],
-      "howto_tag": "How To Buy Now",
-      "howto_heading": "Buy smart in this market.",
+      "howto_tag": "SEIZE THE MOMENT",
+      "howto_heading": "How to Leverage Stable Rates",
       "steps": [
         {
-          "title": "Tune out the noise",
-          "desc": "Headlines don't set your rate or budget"
+          "title": "Monitor Rates Closely",
+          "desc": "Stay informed about daily rate movements, even if they're minimal."
         },
         {
-          "title": "Know your real budget",
-          "desc": "Get clear on what you can own"
+          "title": "Get Pre-Approved",
+          "desc": "Secure a pre-approval to understand your buying power and potential rate."
         },
         {
-          "title": "Get pre-approved",
-          "desc": "Move fast when you find the one"
+          "title": "Discuss Options",
+          "desc": "Talk to a SafeTrust advisor about current offers and lock-in options."
         },
         {
-          "title": "Act on your timeline",
-          "desc": "Not the market's mood"
+          "title": "Act Decisively",
+          "desc": "Use this stable period to confidently move forward with your home purchase."
         }
       ],
-      "cta_tag": "Your Next Move",
-      "cta_heading": "Don't let headlines cost you your home.",
-      "cta_sub": "Let's turn 'someday' into a pre-approval you can act on.",
-      "cta_button": "Start your pre-approval \u2192"
+      "cta_tag": "LET'S TALK RATES",
+      "cta_heading": "Ready to Lock In a Great Rate?",
+      "cta_sub": "Connect with SafeTrust Mortgage to explore today's stable mortgage rates.",
+      "cta_button": "Get Today's Rate"
     },
     {
-      "slug": "home-identity",
-      "title": "Your Home Is a Reflection of You",
-      "caption": "Your home is a reflection of who you are. What ownership really means. \ud83d\udd11",
-      "hero_tag": "National Homeownership Month",
-      "hero_stat": "74%",
-      "hero_heading": "of homeowners say their home is a reflection of who they are.",
-      "hero_sub": "A new survey reveals what ownership really means \u2014 and it's about far more than money.",
-      "problem_tag": "Owning vs Renting",
-      "problem_heading": "Renters see it differently.",
-      "problem_sub": "For most renters, home is 'just a place to live.' The gap between owning and renting isn't only financial \u2014 it's personal.",
-      "problem_label": "How renters describe home:",
+      "slug": "community-impact-of-homeownership",
+      "title": "Homeownership's Community Impact",
+      "caption": "Did you know buying or selling a home gives back to your community? Discover the broader benefits of your real estate decisions. #CommunityImpact #HomeownershipBenefits #RealEstate",
+      "hero_tag": "MORE THAN A HOUSE",
+      "hero_stat": "",
+      "hero_heading": "What Buying or Selling a Home Gives Back to Your Community",
+      "hero_sub": "Your real estate decisions have a ripple effect beyond your property line.",
+      "problem_tag": "MISSED PERSPECTIVE",
+      "problem_heading": "Is Home Buying Just a Personal Transaction?",
+      "problem_sub": "Many view buying or selling a home solely as a personal financial decision, overlooking its broader community contributions.",
+      "problem_label": "Limited Views:",
       "problem_pills": [
-        "Just a place to live",
-        "Temporary",
-        "Someone else's"
+        "PERSONAL GAIN ONLY",
+        "ISOLATED DECISION",
+        "NO EXTERNAL BENEFIT"
       ],
-      "solution_tag": "What Changes",
-      "solution_heading": "Owning changes how home feels.",
-      "solution_sub": "Homeowners report warm feelings, pride, and a deep sense of belonging in their space.",
-      "quote_label": "Redfin survey",
-      "quote": "Most homeowners have warm feelings about their home \u2014 it's a reflection of who they are.",
-      "features_tag": "What Homeowners Feel",
-      "features_heading": "More than four walls.",
+      "solution_tag": "SHARED PROSPERITY",
+      "solution_heading": "Homeownership Fuels Local Communities",
+      "solution_sub": "Your investment in a home contributes to local economies, services, and the overall well-being of your neighborhood.",
+      "quote_label": "Key Takeaway:",
+      "quote": "Buying or selling a home is a big financial decision, and right now, it feels even bigger.",
+      "features_tag": "COMMUNITY GAINS",
+      "features_heading": "The Broader Benefits of Homeownership",
       "features": [
         {
-          "label": "Identity",
-          "desc": "74% say it reflects who they are"
+          "label": "Increased Tax Revenue",
+          "desc": "Property taxes support local schools, roads, and public services."
         },
         {
-          "label": "Pride",
-          "desc": "A place they're proud to call theirs"
+          "label": "Local Economic Boost",
+          "desc": "Home sales stimulate jobs in construction, real estate, and related industries."
         },
         {
-          "label": "Belonging",
-          "desc": "Roots in a community"
+          "label": "Community Investment",
+          "desc": "Homeowners often invest more in local businesses and community organizations."
         },
         {
-          "label": "Stability",
-          "desc": "A foundation to build on"
+          "label": "Neighborhood Stability",
+          "desc": "Stable homeownership fosters stronger, more connected communities."
         }
       ],
-      "details_tag": "Why It Matters",
-      "details_heading": "A home you own is a home that's you.",
-      "details_sub": "Paint the walls. Plant the garden. Grow into it. Ownership turns a place to live into a place that's truly yours.",
+      "details_tag": "WHY IT MATTERS",
+      "details_heading": "Your Home, Your Community's Future",
+      "details_sub": "Understanding this impact can add another layer of fulfillment to your homeownership journey.",
       "details_pills": [
-        "Pride",
-        "Roots",
-        "Belonging",
-        "Freedom"
+        "LOCAL ECONOMY",
+        "PUBLIC SERVICES",
+        "NEIGHBORHOOD PRIDE"
       ],
-      "howto_tag": "Make It Yours",
-      "howto_heading": "Ready to make it yours?",
+      "howto_tag": "BE A PART OF IT",
+      "howto_heading": "Maximizing Your Impact",
       "steps": [
         {
-          "title": "Picture your space",
-          "desc": "What does 'home' look like to you?"
+          "title": "Support Local Businesses",
+          "desc": "Patronize local shops and services, further boosting the economy."
         },
         {
-          "title": "Know your budget",
-          "desc": "See what you can comfortably own"
+          "title": "Participate Locally",
+          "desc": "Engage in community events and local government decisions."
         },
         {
-          "title": "Get pre-approved",
-          "desc": "Turn the dream into a plan"
+          "title": "Maintain Your Property",
+          "desc": "Well-maintained homes contribute to neighborhood value and aesthetics."
         },
         {
-          "title": "Find the one that's you",
-          "desc": "We'll help you get there"
+          "title": "Invest in Your Home",
+          "desc": "Home improvements not only benefit you but also increase local property values."
         }
       ],
-      "cta_tag": "Make It Yours",
-      "cta_heading": "Your home should be a reflection of you.",
-      "cta_sub": "Let's find the one that feels like yours.",
-      "cta_button": "Let's find yours \u2192"
+      "cta_tag": "MAKE IT YOURS",
+      "cta_heading": "Ready to Invest in Your Home & Community?",
+      "cta_sub": "SafeTrust Mortgage helps you find the right financing to make a positive impact.",
+      "cta_button": "Start Your Journey"
     }
   ]
 }
