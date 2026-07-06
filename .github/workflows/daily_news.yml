@@ -18,6 +18,7 @@ jobs:
         id: guard
         run: |
           hour=$(TZ="America/New_York" date +%H)
+          echo "today=$(TZ="America/New_York" date +'%Y-%m-%d')" >> "$GITHUB_OUTPUT"
           if [ "${{ github.event_name }}" != "workflow_dispatch" ] && [ "$hour" != "06" ]; then
             echo "Current Eastern hour is $hour, not 06 — skipping."
             echo "run=false" >> "$GITHUB_OUTPUT"
@@ -75,3 +76,21 @@ jobs:
             git commit -m "Daily news + carousels $(date -u +'%Y-%m-%d')"
             git push
           fi
+
+      - name: Email the carousels
+        if: steps.guard.outputs.run == 'true'
+        uses: dawidd6/action-send-mail@v3
+        with:
+          # Google Workspace / Gmail SMTP. Change these two lines for another provider.
+          server_address: smtp.gmail.com
+          server_port: 465
+          secure: true
+          username: ${{ secrets.MAIL_USERNAME }}
+          password: ${{ secrets.MAIL_PASSWORD }}
+          subject: "SafeTrust carousels — ${{ steps.guard.outputs.today }}"
+          to: ykharte@safetrustmtg.com
+          from: SafeTrust Carousels <${{ secrets.MAIL_USERNAME }}>
+          body: |
+            Today's 3 Instagram carousels are attached — 7 slides each (1080x1350 PNG).
+            carousel_1 / carousel_2 / carousel_3 = the three stories, in order.
+          attachments: carousels/slides/carousel_1/slide_*.png,carousels/slides/carousel_2/slide_*.png,carousels/slides/carousel_3/slide_*.png
