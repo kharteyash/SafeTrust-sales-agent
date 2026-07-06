@@ -32,14 +32,21 @@ def _process_raster(raw):
     except Exception:
         return None
     im = Image.open(io.BytesIO(raw)).convert("RGBA")
-    rgb = im.convert("RGB")
-    diff = ImageChops.difference(rgb, Image.new("RGB", im.size, (255, 255, 255))).convert("L")
-    mask = diff.point(lambda v: 255 if v > 12 else 0)
-    bbox = mask.getbbox()
-    if bbox:
-        im = im.crop(bbox)
-        mask = mask.crop(bbox)
-    im.putalpha(mask)  # near-white background -> transparent
+    if im.getchannel("A").getextrema()[0] < 250:
+        # Already has a transparent background — just trim to the visible artwork.
+        bbox = im.getchannel("A").getbbox()
+        if bbox:
+            im = im.crop(bbox)
+    else:
+        # Opaque image (e.g. white background) — knock the near-white bg out to transparent.
+        rgb = im.convert("RGB")
+        diff = ImageChops.difference(rgb, Image.new("RGB", im.size, (255, 255, 255))).convert("L")
+        mask = diff.point(lambda v: 255 if v > 12 else 0)
+        bbox = mask.getbbox()
+        if bbox:
+            im = im.crop(bbox)
+            mask = mask.crop(bbox)
+        im.putalpha(mask)
     buf = io.BytesIO()
     im.save(buf, format="PNG")
     return buf.getvalue(), "image/png"
