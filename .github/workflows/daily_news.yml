@@ -94,7 +94,19 @@ jobs:
             git push
           fi
 
-      - name: Email the carousels
+      - name: Read carousel titles
+        id: titles
+        if: steps.guard.outputs.run == 'true'
+        run: |
+          python - <<'PY' >> "$GITHUB_OUTPUT"
+          import json
+          data = json.load(open("carousel_content.json"))
+          for i, c in enumerate(data["carousels"][:3], 1):
+              title = c.get("title", f"Carousel {i}").replace("\n", " ").strip()
+              print(f"t{i}={title}")
+          PY
+
+      - name: Email carousel 1
         if: steps.guard.outputs.run == 'true'
         uses: dawidd6/action-send-mail@v3
         with:
@@ -104,10 +116,44 @@ jobs:
           secure: true
           username: ${{ secrets.MAIL_USERNAME }}
           password: ${{ secrets.MAIL_PASSWORD }}
-          subject: "SafeTrust carousels — ${{ steps.guard.outputs.today }}"
+          subject: "Carousel 1/3 — ${{ steps.titles.outputs.t1 }} (${{ steps.guard.outputs.today }})"
           to: ykharte@safetrustmtg.com
           from: SafeTrust Carousels <${{ secrets.MAIL_USERNAME }}>
           body: |
-            Today's 3 Instagram carousels are attached — 7 slides each (1080x1350 PNG).
-            carousel_1 / carousel_2 / carousel_3 = the three stories, in order.
-          attachments: carousels/slides/carousel_1/slide_*.png,carousels/slides/carousel_2/slide_*.png,carousels/slides/carousel_3/slide_*.png
+            Carousel 1 of 3 — ${{ steps.titles.outputs.t1 }}
+            7 slides attached (1080x1350 PNG).
+          attachments: carousels/slides/carousel_1/slide_*.png
+
+      - name: Email carousel 2
+        if: steps.guard.outputs.run == 'true'
+        uses: dawidd6/action-send-mail@v3
+        with:
+          server_address: smtp.gmail.com
+          server_port: 465
+          secure: true
+          username: ${{ secrets.MAIL_USERNAME }}
+          password: ${{ secrets.MAIL_PASSWORD }}
+          subject: "Carousel 2/3 — ${{ steps.titles.outputs.t2 }} (${{ steps.guard.outputs.today }})"
+          to: ykharte@safetrustmtg.com
+          from: SafeTrust Carousels <${{ secrets.MAIL_USERNAME }}>
+          body: |
+            Carousel 2 of 3 — ${{ steps.titles.outputs.t2 }}
+            7 slides attached (1080x1350 PNG).
+          attachments: carousels/slides/carousel_2/slide_*.png
+
+      - name: Email carousel 3
+        if: steps.guard.outputs.run == 'true'
+        uses: dawidd6/action-send-mail@v3
+        with:
+          server_address: smtp.gmail.com
+          server_port: 465
+          secure: true
+          username: ${{ secrets.MAIL_USERNAME }}
+          password: ${{ secrets.MAIL_PASSWORD }}
+          subject: "Carousel 3/3 — ${{ steps.titles.outputs.t3 }} (${{ steps.guard.outputs.today }})"
+          to: ykharte@safetrustmtg.com
+          from: SafeTrust Carousels <${{ secrets.MAIL_USERNAME }}>
+          body: |
+            Carousel 3 of 3 — ${{ steps.titles.outputs.t3 }}
+            7 slides attached (1080x1350 PNG).
+          attachments: carousels/slides/carousel_3/slide_*.png
