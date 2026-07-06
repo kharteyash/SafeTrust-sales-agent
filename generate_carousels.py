@@ -77,6 +77,8 @@ def _find_logo(candidates):
 
 LOGO_URI = _find_logo(["logo.png", "logo.jpg", "logo.jpeg", "logo.svg"])
 LOGO_WHITE_URI = _find_logo(["logo-white.png", "logo-white.svg", "logo_white.png"])
+# Equal Housing Opportunity badge (white) — shown bottom-right on the final slide.
+BADGE_URI = _find_logo(["equal-housing.png", "equal-housing.svg", "badge.png", "badge.svg"])
 
 # ---------------------------------------------------------------- components
 def tag(text, bg):
@@ -214,6 +216,15 @@ def swipe_arrow(is_light):
             f'<path d="M9 6l6 6-6 6" stroke="{stroke}" stroke-width="2.5" '
             f'stroke-linecap="round" stroke-linejoin="round"/></svg></div>')
 
+def eho_badge(is_light):
+    """Equal Housing Opportunity badge, bottom-right above the progress bar."""
+    if not BADGE_URI:
+        return ""
+    filt = "filter:brightness(0);" if is_light else ""  # badge art is white; darken on light slides
+    return (f'<img src="{BADGE_URI}" alt="Equal Housing Opportunity" '
+            f'style="position:absolute;right:30px;bottom:56px;width:46px;height:auto;'
+            f'z-index:8;opacity:0.9;{filt}">')
+
 def render_slide(slide, index, total):
     bg = slide["bg"]
     is_light = bg == "light"
@@ -223,9 +234,11 @@ def render_slide(slide, index, total):
         bgcss = f"background:{DARK_BG};"
     else:
         bgcss = f"background:{GRAD};"
-    arrow = "" if index == total - 1 else swipe_arrow(is_light)
+    last = index == total - 1
+    arrow = "" if last else swipe_arrow(is_light)
+    badge = eho_badge(is_light) if last else ""
     justify = slide.get("justify", "flex-end")
-    return (f'<div class="slide" style="{bgcss}">{arrow}'
+    return (f'<div class="slide" style="{bgcss}">{arrow}{badge}'
             f'<div class="slide-content" style="justify-content:{justify};">{slide["content"]}</div>'
             f'{progress_bar(index, total, is_light)}</div>')
 
