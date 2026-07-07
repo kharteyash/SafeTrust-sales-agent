@@ -1,232 +1,229 @@
 {
   "carousels": [
     {
-      "slug": "flat-mortgage-rates",
+      "slug": "mortgage-rates-flat",
       "title": "Mortgage Rates Holding Steady",
-      "caption": "Good news! Mortgage rates are expected to remain flat this week due to a lighter economic data calendar. This stability offers a great opportunity to explore your home financing options. Learn more inside! #MortgageRates #HomeBuying #SafeTrustMortgage",
-      "hero_tag": "RATE STABILITY",
+      "caption": "Good news for homebuyers! Mortgage rates are expected to remain flat this week. Find out what that means for your homebuying journey. #MortgageRates #Homebuying #SafeTrustMortgage",
+      "hero_tag": "RATES UPDATE",
       "hero_stat": "",
-      "hero_heading": "Mortgage Rates Remain Flat This Week",
-      "hero_sub": "A calm economic calendar suggests steady rates, offering predictability for your home buying journey.",
-      "problem_tag": "AVOID UNCERTAINTY",
-      "problem_heading": "Don't Let Rate Swings Delay Your Dream",
-      "problem_sub": "Many aspiring homeowners postpone decisions, fearing sudden market changes.",
+      "hero_heading": "Mortgage Rates Are Holding Steady This Week",
+      "hero_sub": "A calm economic calendar means less volatility for your home loan rates.",
+      "problem_tag": "NAVIGATING VOLATILITY",
+      "problem_heading": "The Challenge of Unpredictable Rates",
+      "problem_sub": "Many prospective homebuyers worry about sudden shifts in mortgage rates.",
       "problem_label": "Outdated Thinking:",
       "problem_pills": [
-        "WAIT FOR A DIP",
-        "RATES ARE TOO HIGH",
-        "THE MARKET IS TOO VOLATILE"
+        "RATES ALWAYS JUMP",
+        "WAIT FOR PERFECT DROP",
+        "CAN'T PLAN AHEAD"
       ],
-      "solution_tag": "EMBRACE STABILITY",
-      "solution_heading": "Predictability Is Your Ally",
-      "solution_sub": "A stable rate environment allows for careful planning and confident decision-making.",
-      "quote_label": "Key Takeaway:",
-      "quote": "When economic data is light, mortgage rates often hold steady, providing a window of calm for buyers.",
-      "features_tag": "WHY IT MATTERS",
-      "features_heading": "Benefits of a Flat Rate Week",
+      "solution_tag": "STABILITY AHEAD",
+      "solution_heading": "Take Advantage of a Flat Market",
+      "solution_sub": "A period of stable rates offers a valuable opportunity to lock in your loan.",
+      "quote_label": "Our Takeaway:",
+      "quote": "When rates are flat, it's an ideal time to assess your options without daily pressure.",
+      "features_tag": "WHAT THIS MEANS",
+      "features_heading": "Benefits of Stable Rates",
       "features": [
         {
-          "label": "Better Planning",
-          "desc": "You have more time to assess options without pressure from daily rate fluctuations."
+          "label": "Predictable Payments",
+          "desc": "More certainty in calculating your future monthly mortgage costs."
         },
         {
           "label": "Reduced Stress",
-          "desc": "Less volatility means less anxiety about timing your mortgage application."
+          "desc": "Less worry about rates changing significantly before you can act."
         },
         {
-          "label": "Informed Decisions",
-          "desc": "Use this period to thoroughly compare offers and understand terms."
+          "label": "Time to Plan",
+          "desc": "Allows you to focus on other aspects of your home search or refinance."
         },
         {
-          "label": "Opportunity Window",
-          "desc": "Lock in a rate with confidence knowing major shifts are less likely."
+          "label": "Confident Decisions",
+          "desc": "Helps you make informed choices about your mortgage product."
         }
       ],
-      "details_tag": "CURRENT OUTLOOK",
-      "details_heading": "Understanding Current Market Conditions",
-      "details_sub": "Last week's labor data showed signs of weakness, which can positively influence rates.",
+      "details_tag": "WHY IT MATTERS",
+      "details_heading": "A Unique Market Moment",
+      "details_sub": "The economic calendar is light, leading to less market movement and steady rates.",
       "details_pills": [
-        "LIGHT ECONOMIC DATA",
-        "CALM MARKETS",
+        "CALM MARKET",
         "LESS VOLATILITY",
-        "NO MAJOR SURPRISES"
+        "OPPORTUNITY KNOCKS"
       ],
       "howto_tag": "YOUR NEXT STEPS",
-      "howto_heading": "Capitalize on Rate Stability",
+      "howto_heading": "Make the Most of Stable Rates",
       "steps": [
         {
           "title": "Get Pre-Approved",
-          "desc": "Understand your borrowing power and solidify your budget."
+          "desc": "Understand your borrowing power and solidify your budget now."
         },
         {
-          "title": "Explore Loan Options",
-          "desc": "Discuss different mortgage products that suit your financial goals."
+          "title": "Monitor Trends",
+          "desc": "While flat, always stay informed about market shifts and predictions."
         },
         {
-          "title": "Monitor the Market",
-          "desc": "Stay informed, but don't let minor daily shifts dictate your plans."
+          "title": "Explore Options",
+          "desc": "Review different mortgage products with a clear picture of today's rates."
         },
         {
-          "title": "Lock Your Rate",
-          "desc": "Secure your interest rate when you find one that fits your budget."
+          "title": "Connect with Us",
+          "desc": "Speak to a SafeTrust expert to lock in a favorable rate."
         }
       ],
-      "cta_tag": "LOCK IN YOUR RATE",
-      "cta_heading": "Seize the Moment of Stability",
-      "cta_sub": "Don't miss out on a predictable rate environment. Let's discuss your options today.",
-      "cta_button": "GET TODAY'S RATE"
+      "cta_tag": "LET'S TALK RATES",
+      "cta_heading": "Secure Your Rate Today",
+      "cta_sub": "Take advantage of today's stable market to move forward with your homeownership goals.",
+      "cta_button": "Get Your Personalized Rate"
     },
     {
-      "slug": "community-impact-of-homeownership",
-      "title": "Homeownership Benefits Your Community",
-      "caption": "Did you know buying or selling a home gives back to your community in significant ways? It's more than just a personal financial decision. Discover the ripple effect inside! #Homeownership #CommunityImpact #SafeTrustMortgage",
-      "hero_tag": "LOCAL GROWTH",
+      "slug": "balanced-housing-market",
+      "title": "Towards a Balanced Housing Market",
+      "caption": "Good news! More real estate agents are reporting a balanced housing market. What does this mean for buyers and sellers? #HousingMarket #RealEstate #Homeownership",
+      "hero_tag": "MARKET SHIFT",
       "hero_stat": "",
-      "hero_heading": "Your Home Fuels Your Community",
-      "hero_sub": "Buying or selling a home contributes significantly to the economic vitality of your local area.",
-      "problem_tag": "MYTH BUSTED",
-      "problem_heading": "It's More Than Just a Transaction",
-      "problem_sub": "Many view home buying or selling as solely a personal financial move, overlooking broader impacts.",
-      "problem_label": "Common Misconceptions:",
+      "hero_heading": "The Housing Market Is Becoming More Balanced",
+      "hero_sub": "Fewer price cuts indicate a healthier, more stable environment for buyers and sellers.",
+      "problem_tag": "PAST CONCERNS",
+      "problem_heading": "The Fear of a Volatile Market",
+      "problem_sub": "Buyers and sellers have faced anxieties about extreme market conditions.",
+      "problem_label": "Outdated Concerns:",
       "problem_pills": [
-        "ONLY ABOUT ME",
-        "JUST FINANCIAL GAIN",
-        "NO EXTERNAL EFFECT"
+        "HUGE PRICE DROPS",
+        "UNFAIR ADVANTAGE",
+        "MARKET CRASHING"
       ],
-      "solution_tag": "BROADER PERSPECTIVE",
-      "solution_heading": "Invest in Your Future, Invest in Your Town",
-      "solution_sub": "Homeownership creates a positive ripple effect, supporting local jobs, services, and infrastructure.",
-      "quote_label": "Key Insight:",
-      "quote": "Buying or selling a home is a big financial decision, and its impact extends far beyond your personal balance sheet.",
-      "features_tag": "COMMUNITY BENEFITS",
-      "features_heading": "How Your Home Supports the Community",
+      "solution_tag": "STABLE OUTLOOK",
+      "solution_heading": "A Balanced Market Benefits Everyone",
+      "solution_sub": "A market with fewer drastic price cuts suggests equilibrium for both sides.",
+      "quote_label": "Our Takeaway:",
+      "quote": "A balanced market fosters fairer negotiations and a more confident homebuying journey.",
+      "features_tag": "WHAT'S CHANGING",
+      "features_heading": "Signs of Balance",
       "features": [
         {
-          "label": "Property Taxes",
-          "desc": "These funds support local schools, parks, emergency services, and infrastructure."
+          "label": "Fewer Price Cuts",
+          "desc": "A significant drop in agents reporting price reductions on active listings."
         },
         {
-          "label": "Local Spending",
-          "desc": "Homeowners often invest in renovations, furniture, and local services, boosting businesses."
+          "label": "Buyer Confidence",
+          "desc": "Less urgency and fear of overpaying for a home."
         },
         {
-          "label": "Job Creation",
-          "desc": "The housing industry employs real estate agents, lenders, contractors, and many others."
+          "label": "Seller Confidence",
+          "desc": "More realistic pricing expectations and smoother transactions."
         },
         {
-          "label": "Economic Stability",
-          "desc": "A healthy housing market fosters a stable and thriving local economy."
+          "label": "Sustainable Growth",
+          "desc": "A move away from frenzied bidding wars to steadier appreciation."
         }
       ],
-      "details_tag": "POSITIVE IMPACTS",
-      "details_heading": "Understanding the Economic Cycle",
-      "details_sub": "Every home transaction activates a network of local businesses and services, creating jobs and revenue.",
+      "details_tag": "WHY IT MATTERS",
+      "details_heading": "A Healthier Environment",
+      "details_sub": "This shift indicates a move towards more predictable and manageable conditions for all.",
       "details_pills": [
-        "LOCAL ECONOMY",
-        "SCHOOL FUNDING",
-        "INFRASTRUCTURE",
-        "SMALL BUSINESSES"
+        "FAIRER DEALS",
+        "LESS STRESS",
+        "PREDICTABLE OUTCOMES"
       ],
-      "howto_tag": "MAKE AN IMPACT",
-      "howto_heading": "Be a Part of Community Growth",
+      "howto_tag": "YOUR NEXT STEPS",
+      "howto_heading": "Navigate the Balanced Market",
       "steps": [
         {
-          "title": "Consider Your Purchase",
-          "desc": "Understand the full scope of benefits beyond just personal wealth."
+          "title": "Understand Local Trends",
+          "desc": "Research market conditions in your specific area of interest."
         },
         {
-          "title": "Engage Local Services",
-          "desc": "Hire local contractors and patronize neighborhood businesses when settling in."
+          "title": "Solidify Your Finances",
+          "desc": "Ensure your pre-approval is in order to act decisively."
         },
         {
-          "title": "Vote on Local Measures",
-          "desc": "Support initiatives that further improve your community and property values."
+          "title": "Work with Experts",
+          "desc": "Collaborate with a knowledgeable real estate agent and mortgage lender."
         },
         {
-          "title": "Be an Active Resident",
-          "desc": "Participate in local events and contribute to your neighborhood's well-being."
+          "title": "Be Prepared",
+          "desc": "Even in a balanced market, prompt action is key when you find the right home."
         }
       ],
       "cta_tag": "YOUR NEXT MOVE",
-      "cta_heading": "Invest in Your Home, Invest in Your Town",
-      "cta_sub": "Let SafeTrust Mortgage help you make a move that benefits both you and your community.",
-      "cta_button": "EXPLORE HOME LOANS"
+      "cta_heading": "Ready to Make Your Move?",
+      "cta_sub": "A balanced market provides an excellent opportunity to achieve your homeownership goals.",
+      "cta_button": "Get Pre-Approved Today"
     },
     {
-      "slug": "housing-surplus-question",
-      "title": "Is There a US Housing Surplus?",
-      "caption": "Recent reports suggest May new home sales slid to 580,000, sparking discussion about a potential housing surplus. What does this mean for buyers? Let's dive into the details! #HousingMarket #NewHomeSales #SafeTrustMortgage",
-      "hero_tag": "MARKET TRENDS",
-      "hero_stat": "580,000",
-      "hero_heading": "New Home Sales Slid in May",
-      "hero_sub": "May new home sales fell to 580,000 (seasonally adjusted annual rate), prompting questions about a potential housing surplus.",
-      "problem_tag": "UNANSWERED QUESTIONS",
-      "problem_heading": "Navigating Conflicting Housing Narratives",
-      "problem_sub": "Reports of sliding new home sales can create confusion for buyers wondering about market conditions.",
-      "problem_label": "Common Worries:",
+      "slug": "manufactured-housing",
+      "title": "Affordable Homeownership Solutions",
+      "caption": "Did you know manufactured housing offers a major path to affordable homeownership? Learn how policy changes could make it even more accessible. #AffordableHousing #ManufacturedHomes #HomeownershipGoals",
+      "hero_tag": "AFFORDABLE PATH",
+      "hero_stat": "",
+      "hero_heading": "Manufactured Housing: An Untapped Resource for Homeownership",
+      "hero_sub": "It's a crucial, non-subsidized solution for millions seeking an affordable home.",
+      "problem_tag": "BARRIERS TO ENTRY",
+      "problem_heading": "Challenges to Affordable Housing",
+      "problem_sub": "Many prospective homeowners face significant hurdles in finding an affordable place to live.",
+      "problem_label": "Outdated Thinking:",
       "problem_pills": [
-        "IS IT A BUYER'S MARKET?",
-        "ARE PRICES FALLING?",
-        "WILL HOMES SIT LONGER?"
+        "TOO EXPENSIVE",
+        "NO OPTIONS",
+        "ONLY BIG CITIES"
       ],
-      "solution_tag": "CLARITY FOR BUYERS",
-      "solution_heading": "Understanding Supply and Demand Dynamics",
-      "solution_sub": "A slowdown in new home sales, while not a definitive 'surplus,' can signal shifts benefiting buyers.",
-      "quote_label": "Market Insight:",
-      "quote": "Recent data showing a slide in new home sales opens a conversation about inventory and buyer opportunities.",
-      "features_tag": "POTENTIAL IMPLICATIONS",
-      "features_heading": "What a Housing Slowdown Could Mean",
+      "solution_tag": "KEY INSIGHT",
+      "solution_heading": "Manufactured Homes Offer a Real Solution",
+      "solution_sub": "This housing type provides a viable and often overlooked path to owning a home.",
+      "quote_label": "Our Takeaway:",
+      "quote": "Embracing manufactured housing is vital for expanding affordable homeownership opportunities.",
+      "features_tag": "BENEFITS & POTENTIAL",
+      "features_heading": "Why Manufactured Housing Matters",
       "features": [
         {
-          "label": "More Choices",
-          "desc": "An increase in available homes could give buyers more options to choose from."
+          "label": "Lower Cost",
+          "desc": "Generally more affordable than traditional stick-built homes."
         },
         {
-          "label": "Less Competition",
-          "desc": "You might face fewer bidding wars if inventory levels rise."
+          "label": "Quality Construction",
+          "desc": "Modern manufactured homes are built to federal safety and quality standards."
         },
         {
-          "label": "Negotiating Power",
-          "desc": "Buyers could have more leverage in negotiations if homes stay on the market longer."
+          "label": "Community Living",
+          "desc": "Often found in communities with amenities and a sense of neighborhood."
         },
         {
-          "label": "Stabilized Prices",
-          "desc": "Increased supply typically helps to moderate or stabilize home price growth."
+          "label": "Expanding Access",
+          "desc": "Could benefit from policies reducing barriers like exclusionary zoning."
         }
       ],
-      "details_tag": "LOOKING CLOSER",
-      "details_heading": "Decoding the 'Housing Surplus' Discussion",
-      "details_sub": "While new home sales decreased, the actual inventory situation varies by location and home type.",
+      "details_tag": "POLICY IMPACT",
+      "details_heading": "Removing Obstacles to Ownership",
+      "details_sub": "Congressional action can further unlock the potential of manufactured housing for more families.",
       "details_pills": [
-        "NEW HOME INVENTORY",
-        "SEASONAL ADJUSTMENTS",
-        "LOCAL MARKET VARIATIONS",
-        "BUYER OPPORTUNITY"
+        "ZONING REFORM",
+        "EASIER LENDING",
+        "COST EFFICIENCY"
       ],
-      "howto_tag": "YOUR STRATEGY",
-      "howto_heading": "How to Navigate This Market",
+      "howto_tag": "YOUR NEXT STEPS",
+      "howto_heading": "Explore Manufactured Home Ownership",
       "steps": [
         {
-          "title": "Get Pre-Approved",
-          "desc": "Know your budget and be ready to act when the right home appears."
+          "title": "Research Options",
+          "desc": "Look into modern manufactured home communities and models in your desired areas."
         },
         {
-          "title": "Work with an Agent",
-          "desc": "A local expert can provide insights into specific market conditions."
+          "title": "Understand Financing",
+          "desc": "Learn about chattel lending and other financing options available for these homes."
         },
         {
-          "title": "Explore New Builds",
-          "desc": "Consider new construction as a viable option, especially with potential inventory shifts."
+          "title": "Connect with Experts",
+          "desc": "Talk to lenders experienced in manufactured home loans."
         },
         {
-          "title": "Stay Informed",
-          "desc": "Monitor market trends but focus on how they apply to your personal home goals."
+          "title": "Advocate for Change",
+          "desc": "Support policies that promote affordable housing solutions."
         }
       ],
-      "cta_tag": "YOUR ADVANTAGE",
-      "cta_heading": "Turn Market Shifts Into Your Opportunity",
-      "cta_sub": "Let's discuss how current housing trends can work in your favor.",
-      "cta_button": "TALK TO AN EXPERT"
+      "cta_tag": "MAKE IT YOURS",
+      "cta_heading": "Discover Your Affordable Home",
+      "cta_sub": "Let SafeTrust Mortgage guide you through the financing options for manufactured housing.",
+      "cta_button": "Explore Loan Programs"
     }
   ]
 }
