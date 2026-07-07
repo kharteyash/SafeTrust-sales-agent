@@ -11,6 +11,10 @@ on:
     - cron: "12 12 * * *"   # ~8:12 EDT / 7:12 EST
     - cron: "12 13 * * *"   # ~9:12 EDT / 8:12 EST
     - cron: "12 14 * * *"   # ~10:12 EDT / 9:12 EST
+  # External scheduler (e.g. cron-job.org) POSTs a repository_dispatch at exactly
+  # 6:00am ET for on-time delivery; the GitHub crons above are a delayed fallback.
+  repository_dispatch:
+    types: [daily-run]
   workflow_dispatch:
 permissions:
   contents: write
@@ -30,21 +34,34 @@ jobs:
         run: |
           today=$(TZ="America/New_York" date +'%Y-%m-%d')
           echo "today=$today" >> "$GITHUB_OUTPUT"
-          if [ "${{ github.event_name }}" == "workflow_dispatch" ]; then
+          event="${{ github.event_name }}"
+
+          # Manual runs always proceed (for testing).
+          if [ "$event" = "workflow_dispatch" ]; then
             echo "Manual run — proceeding."
             echo "run=true" >> "$GITHUB_OUTPUT"; exit 0
           fi
-          hour=$((10#$(TZ="America/New_York" date +%H)))
-          if [ "$hour" -lt 6 ] || [ "$hour" -gt 11 ]; then
-            echo "Eastern hour is $hour (outside 6-11 morning window) — skipping."
-            echo "run=false" >> "$GITHUB_OUTPUT"; exit 0
-          fi
+
+          # Run once per day: skip if today's work is already done.
           last=$(cat .last_run 2>/dev/null || echo "")
           if [ "$last" = "$today" ]; then
             echo "Already ran today ($today) — skipping duplicate."
             echo "run=false" >> "$GITHUB_OUTPUT"; exit 0
           fi
-          echo "In window ($hour ET) and not yet run today — proceeding."
+
+          # External cron controls timing exactly — no time-window check needed.
+          if [ "$event" = "repository_dispatch" ]; then
+            echo "External trigger — proceeding."
+            echo "run=true" >> "$GITHUB_OUTPUT"; exit 0
+          fi
+
+          # GitHub's own schedule is a delayed fallback — accept the 6-11am ET window.
+          hour=$((10#$(TZ="America/New_York" date +%H)))
+          if [ "$hour" -lt 6 ] || [ "$hour" -gt 11 ]; then
+            echo "Eastern hour is $hour (outside 6-11 morning window) — skipping."
+            echo "run=false" >> "$GITHUB_OUTPUT"; exit 0
+          fi
+          echo "Scheduled fallback in window ($hour ET) — proceeding."
           echo "run=true" >> "$GITHUB_OUTPUT"
 
       - name: Set up Python
