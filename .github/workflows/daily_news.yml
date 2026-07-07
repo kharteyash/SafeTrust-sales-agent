@@ -1,18 +1,8 @@
 name: Daily News
 on:
-  schedule:
-    # Target early morning Eastern. GitHub delays scheduled runs (often by hours,
-    # worst at :00), so we fire several off-peak attempts across the morning and
-    # let the guard below accept any run in the 6am-11am Eastern window. A
-    # .last_run marker means only the first accepted run each day does the work.
-    # Minute :12 avoids top-of-hour congestion. UTC times cover both DST offsets.
-    - cron: "12 10 * * *"   # ~6:12 EDT / 5:12 EST
-    - cron: "12 11 * * *"   # ~7:12 EDT / 6:12 EST
-    - cron: "12 12 * * *"   # ~8:12 EDT / 7:12 EST
-    - cron: "12 13 * * *"   # ~9:12 EDT / 8:12 EST
-    - cron: "12 14 * * *"   # ~10:12 EDT / 9:12 EST
-  # External scheduler (e.g. cron-job.org) POSTs a repository_dispatch at exactly
-  # 6:00am ET for on-time delivery; the GitHub crons above are a delayed fallback.
+  # Triggered by an external scheduler (cron-job.org) that POSTs a
+  # repository_dispatch:daily-run at exactly 6:00am ET — fires on time, unlike
+  # GitHub's own delayed cron schedule (removed).
   repository_dispatch:
     types: [daily-run]
   workflow_dispatch:
