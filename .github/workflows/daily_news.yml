@@ -1,13 +1,16 @@
 name: Daily News
 on:
   schedule:
-    # Target 6am Eastern. Cron is UTC-only, so both DST offsets are listed:
-    #   10:00 UTC = 6am EDT (summer)   11:00 UTC = 6am EST (winter)
-    # The guard below accepts the 6am OR 7am Eastern hour (so a run delayed by
-    # GitHub up to ~2h still proceeds) and a .last_run marker ensures it only
-    # actually runs once per day.
-    - cron: "0 10 * * *"
-    - cron: "0 11 * * *"
+    # Target early morning Eastern. GitHub delays scheduled runs (often by hours,
+    # worst at :00), so we fire several off-peak attempts across the morning and
+    # let the guard below accept any run in the 6am-11am Eastern window. A
+    # .last_run marker means only the first accepted run each day does the work.
+    # Minute :12 avoids top-of-hour congestion. UTC times cover both DST offsets.
+    - cron: "12 10 * * *"   # ~6:12 EDT / 5:12 EST
+    - cron: "12 11 * * *"   # ~7:12 EDT / 6:12 EST
+    - cron: "12 12 * * *"   # ~8:12 EDT / 7:12 EST
+    - cron: "12 13 * * *"   # ~9:12 EDT / 8:12 EST
+    - cron: "12 14 * * *"   # ~10:12 EDT / 9:12 EST
   workflow_dispatch:
 permissions:
   contents: write
@@ -22,7 +25,7 @@ jobs:
       - name: Check out repository
         uses: actions/checkout@v4
 
-      - name: Decide whether to run (6-7am Eastern, once per day)
+      - name: Decide whether to run (6-11am Eastern, once per day)
         id: guard
         run: |
           today=$(TZ="America/New_York" date +'%Y-%m-%d')
@@ -31,9 +34,9 @@ jobs:
             echo "Manual run — proceeding."
             echo "run=true" >> "$GITHUB_OUTPUT"; exit 0
           fi
-          hour=$(TZ="America/New_York" date +%H)
-          if [ "$hour" != "06" ] && [ "$hour" != "07" ]; then
-            echo "Eastern hour is $hour (outside 06-07 window) — skipping."
+          hour=$((10#$(TZ="America/New_York" date +%H)))
+          if [ "$hour" -lt 6 ] || [ "$hour" -gt 11 ]; then
+            echo "Eastern hour is $hour (outside 6-11 morning window) — skipping."
             echo "run=false" >> "$GITHUB_OUTPUT"; exit 0
           fi
           last=$(cat .last_run 2>/dev/null || echo "")
