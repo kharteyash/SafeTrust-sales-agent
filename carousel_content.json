@@ -1,229 +1,230 @@
 {
   "carousels": [
     {
-      "slug": "mortgage-rates-flat",
-      "title": "Mortgage Rates Holding Steady",
-      "caption": "Good news for homebuyers! Mortgage rates are expected to remain flat this week. Find out what that means for your homebuying journey. #MortgageRates #Homebuying #SafeTrustMortgage",
-      "hero_tag": "RATES UPDATE",
-      "hero_stat": "",
-      "hero_heading": "Mortgage Rates Are Holding Steady This Week",
-      "hero_sub": "A calm economic calendar means less volatility for your home loan rates.",
-      "problem_tag": "NAVIGATING VOLATILITY",
-      "problem_heading": "The Challenge of Unpredictable Rates",
-      "problem_sub": "Many prospective homebuyers worry about sudden shifts in mortgage rates.",
-      "problem_label": "Outdated Thinking:",
+      "slug": "mortgage-rates-rise",
+      "title": "Mortgage Rates on the Rise",
+      "caption": "Stay informed about the latest mortgage rate trends. Understanding why rates fluctuate helps you make confident decisions about your home financing. Let's explore what's happening and how SafeTrust can help you navigate it. #MortgageRates #HomeBuying #SafeTrustMortgage",
+      "hero_tag": "RATE WATCH",
+      "hero_stat": "6.77%",
+      "hero_heading": "Mortgage Rates Are Climbing",
+      "hero_sub": "30-year conforming rates have risen past 6.75%, reaching an average of 6.77% amidst persistent inflation concerns.",
+      "problem_tag": "THE CHALLENGE",
+      "problem_heading": "Inflation Uncertainty & Rate Hikes",
+      "problem_sub": "Fluctuating inflation expectations and hawkish Federal Reserve messaging are influencing mortgage rate movements.",
+      "problem_label": "Outdated Approaches:",
       "problem_pills": [
-        "RATES ALWAYS JUMP",
-        "WAIT FOR PERFECT DROP",
-        "CAN'T PLAN AHEAD"
+        "WAITING FOR LOWS",
+        "IGNORING MARKET TRENDS",
+        "DELAYING PRE-APPROVAL"
       ],
-      "solution_tag": "STABILITY AHEAD",
-      "solution_heading": "Take Advantage of a Flat Market",
-      "solution_sub": "A period of stable rates offers a valuable opportunity to lock in your loan.",
-      "quote_label": "Our Takeaway:",
-      "quote": "When rates are flat, it's an ideal time to assess your options without daily pressure.",
-      "features_tag": "WHAT THIS MEANS",
-      "features_heading": "Benefits of Stable Rates",
+      "solution_tag": "YOUR STRATEGY",
+      "solution_heading": "Stay Informed, Act Smart",
+      "solution_sub": "Understanding the factors driving rates allows you to position yourself strategically in the market.",
+      "quote_label": "Expert Takeaway:",
+      "quote": "Proactive engagement with current market data and expert guidance is key to securing favorable mortgage terms.",
+      "features_tag": "WHAT TO KNOW",
+      "features_heading": "Key Rate Influencers",
       "features": [
         {
-          "label": "Predictable Payments",
-          "desc": "More certainty in calculating your future monthly mortgage costs."
+          "label": "Inflation Expectations",
+          "desc": "1-year inflation expectations have risen to 3.7%, impacting bond yields and mortgage rates."
         },
         {
-          "label": "Reduced Stress",
-          "desc": "Less worry about rates changing significantly before you can act."
+          "label": "Federal Reserve Stance",
+          "desc": "The Fed's hawkish messaging indicates a continued focus on controlling inflation."
         },
         {
-          "label": "Time to Plan",
-          "desc": "Allows you to focus on other aspects of your home search or refinance."
+          "label": "30-Year Conforming",
+          "desc": "Average rates for 30-year conforming loans are now 6.77%."
         },
         {
-          "label": "Confident Decisions",
-          "desc": "Helps you make informed choices about your mortgage product."
+          "label": "Jumbo Loans",
+          "desc": "Rates for jumbo loans are closely following, averaging 6.75%."
         }
       ],
       "details_tag": "WHY IT MATTERS",
-      "details_heading": "A Unique Market Moment",
-      "details_sub": "The economic calendar is light, leading to less market movement and steady rates.",
+      "details_heading": "Impact on Your Home Purchase",
+      "details_sub": "Higher rates directly affect your monthly mortgage payments and overall affordability.",
       "details_pills": [
-        "CALM MARKET",
-        "LESS VOLATILITY",
-        "OPPORTUNITY KNOCKS"
+        "MONTHLY PAYMENTS",
+        "BUYING POWER",
+        "BUDGETING"
       ],
-      "howto_tag": "YOUR NEXT STEPS",
-      "howto_heading": "Make the Most of Stable Rates",
+      "howto_tag": "HOW TO NAVIGATE",
+      "howto_heading": "Your Next Steps",
       "steps": [
         {
+          "title": "Monitor Market Trends",
+          "desc": "Keep an eye on economic news and rate forecasts to anticipate changes."
+        },
+        {
           "title": "Get Pre-Approved",
-          "desc": "Understand your borrowing power and solidify your budget now."
+          "desc": "Lock in a rate and strengthen your offer in a competitive market."
         },
         {
-          "title": "Monitor Trends",
-          "desc": "While flat, always stay informed about market shifts and predictions."
+          "title": "Evaluate Loan Options",
+          "desc": "Explore different loan types that might better suit your financial situation."
         },
         {
-          "title": "Explore Options",
-          "desc": "Review different mortgage products with a clear picture of today's rates."
-        },
-        {
-          "title": "Connect with Us",
-          "desc": "Speak to a SafeTrust expert to lock in a favorable rate."
+          "title": "Consult an Expert",
+          "desc": "Speak with a SafeTrust advisor to understand your best options."
         }
       ],
       "cta_tag": "LET'S TALK RATES",
       "cta_heading": "Secure Your Rate Today",
-      "cta_sub": "Take advantage of today's stable market to move forward with your homeownership goals.",
-      "cta_button": "Get Your Personalized Rate"
+      "cta_sub": "Don't let rising rates delay your homeownership dreams. Our team is ready to help you find the right solution.",
+      "cta_button": "Get Today's Rate"
     },
     {
       "slug": "balanced-housing-market",
-      "title": "Towards a Balanced Housing Market",
-      "caption": "Good news! More real estate agents are reporting a balanced housing market. What does this mean for buyers and sellers? #HousingMarket #RealEstate #Homeownership",
-      "hero_tag": "MARKET SHIFT",
-      "hero_stat": "",
-      "hero_heading": "The Housing Market Is Becoming More Balanced",
-      "hero_sub": "Fewer price cuts indicate a healthier, more stable environment for buyers and sellers.",
-      "problem_tag": "PAST CONCERNS",
-      "problem_heading": "The Fear of a Volatile Market",
-      "problem_sub": "Buyers and sellers have faced anxieties about extreme market conditions.",
-      "problem_label": "Outdated Concerns:",
+      "title": "A More Balanced Housing Market",
+      "caption": "Good news for homebuyers! More real estate agents are reporting a balanced market, indicating shifts in buyer and seller dynamics. Find out what this means for your home search. #HousingMarket #BalancedMarket #HomeBuyers",
+      "hero_tag": "MARKET INSIGHT",
+      "hero_stat": "MORE AGENTS",
+      "hero_heading": "A Balanced Market Emerges",
+      "hero_sub": "Far more real estate agents are now reporting a balanced housing market, according to a recent CNBC survey.",
+      "problem_tag": "THE CHALLENGE",
+      "problem_heading": "Navigating Past Market Extremes",
+      "problem_sub": "Previous markets were characterized by intense competition or significant price growth, making it tough for buyers.",
+      "problem_label": "Old Market Realities:",
       "problem_pills": [
-        "HUGE PRICE DROPS",
-        "UNFAIR ADVANTAGE",
-        "MARKET CRASHING"
+        "BIDDING WARS",
+        "LIMITED INVENTORY",
+        "RAPID PRICE INCREASES"
       ],
-      "solution_tag": "STABLE OUTLOOK",
-      "solution_heading": "A Balanced Market Benefits Everyone",
-      "solution_sub": "A market with fewer drastic price cuts suggests equilibrium for both sides.",
-      "quote_label": "Our Takeaway:",
-      "quote": "A balanced market fosters fairer negotiations and a more confident homebuying journey.",
-      "features_tag": "WHAT'S CHANGING",
-      "features_heading": "Signs of Balance",
+      "solution_tag": "YOUR OPPORTUNITY",
+      "solution_heading": "Shift Towards Stability",
+      "solution_sub": "A balanced market offers buyers more negotiation power and a less frenzied home search experience.",
+      "quote_label": "Expert Takeaway:",
+      "quote": "The decrease in reported price cuts suggests a market settling into a more sustainable rhythm for both buyers and sellers.",
+      "features_tag": "WHAT IT MEANS",
+      "features_heading": "Key Market Shifts",
       "features": [
         {
           "label": "Fewer Price Cuts",
-          "desc": "A significant drop in agents reporting price reductions on active listings."
+          "desc": "The number of agents reporting at least one price cut to active listings has dropped dramatically."
         },
         {
-          "label": "Buyer Confidence",
-          "desc": "Less urgency and fear of overpaying for a home."
+          "label": "Increased Stability",
+          "desc": "This signals a move away from the frantic pace of recent years towards more predictable conditions."
         },
         {
-          "label": "Seller Confidence",
-          "desc": "More realistic pricing expectations and smoother transactions."
+          "label": "Better Negotiations",
+          "desc": "Buyers may find more room for negotiation on price and terms."
         },
         {
-          "label": "Sustainable Growth",
-          "desc": "A move away from frenzied bidding wars to steadier appreciation."
+          "label": "More Time to Decide",
+          "desc": "Less pressure means you can take a more considered approach to your home purchase."
         }
       ],
       "details_tag": "WHY IT MATTERS",
-      "details_heading": "A Healthier Environment",
-      "details_sub": "This shift indicates a move towards more predictable and manageable conditions for all.",
+      "details_heading": "Benefits for Homebuyers",
+      "details_sub": "A balanced market can lead to a more confident and less stressful home-buying journey.",
       "details_pills": [
-        "FAIRER DEALS",
         "LESS STRESS",
-        "PREDICTABLE OUTCOMES"
+        "BETTER CHOICES",
+        "FAIRER PRICES"
       ],
-      "howto_tag": "YOUR NEXT STEPS",
-      "howto_heading": "Navigate the Balanced Market",
+      "howto_tag": "HOW TO CAPITALIZE",
+      "howto_heading": "Making Your Move",
       "steps": [
         {
-          "title": "Understand Local Trends",
-          "desc": "Research market conditions in your specific area of interest."
+          "title": "Refine Your Search",
+          "desc": "With more options, focus on homes that truly meet your needs and preferences."
         },
         {
-          "title": "Solidify Your Finances",
-          "desc": "Ensure your pre-approval is in order to act decisively."
+          "title": "Get Pre-Approved",
+          "desc": "Show sellers you are a serious and ready buyer, even in a balanced market."
         },
         {
-          "title": "Work with Experts",
-          "desc": "Collaborate with a knowledgeable real estate agent and mortgage lender."
+          "title": "Work with an Agent",
+          "desc": "Leverage expert advice to navigate negotiations and find value."
         },
         {
-          "title": "Be Prepared",
-          "desc": "Even in a balanced market, prompt action is key when you find the right home."
+          "title": "Stay Patient",
+          "desc": "Take your time to find the right home at the right price."
         }
       ],
       "cta_tag": "YOUR NEXT MOVE",
-      "cta_heading": "Ready to Make Your Move?",
-      "cta_sub": "A balanced market provides an excellent opportunity to achieve your homeownership goals.",
-      "cta_button": "Get Pre-Approved Today"
+      "cta_heading": "Ready to Buy with Confidence?",
+      "cta_sub": "A balanced market is an excellent time to make your move. Let SafeTrust help you secure your dream home.",
+      "cta_button": "Start Your Pre-Approval"
     },
     {
-      "slug": "manufactured-housing",
-      "title": "Affordable Homeownership Solutions",
-      "caption": "Did you know manufactured housing offers a major path to affordable homeownership? Learn how policy changes could make it even more accessible. #AffordableHousing #ManufacturedHomes #HomeownershipGoals",
-      "hero_tag": "AFFORDABLE PATH",
-      "hero_stat": "",
-      "hero_heading": "Manufactured Housing: An Untapped Resource for Homeownership",
-      "hero_sub": "It's a crucial, non-subsidized solution for millions seeking an affordable home.",
-      "problem_tag": "BARRIERS TO ENTRY",
-      "problem_heading": "Challenges to Affordable Housing",
-      "problem_sub": "Many prospective homeowners face significant hurdles in finding an affordable place to live.",
-      "problem_label": "Outdated Thinking:",
+      "slug": "north-carolina-parking-reform",
+      "title": "NC Parking Reform: A Boost for Housing",
+      "caption": "North Carolina has passed aggressive parking reform, a move that could significantly impact housing development and affordability across the state. Discover what this means for future communities! #HousingReform #NorthCarolina #UrbanPlanning",
+      "hero_tag": "ZONING REFORM",
+      "hero_stat": "STATEWIDE",
+      "hero_heading": "NC Kicks Parking Rules to the Curb",
+      "hero_sub": "North Carolina passed one of the country's most aggressive statewide parking reforms, aiming to ease housing development.",
+      "problem_tag": "THE CHALLENGE",
+      "problem_heading": "Outdated Parking Requirements",
+      "problem_sub": "Minimum parking mandates often inflate housing costs, limit density, and contribute to urban sprawl.",
+      "problem_label": "Past Obstacles:",
       "problem_pills": [
-        "TOO EXPENSIVE",
-        "NO OPTIONS",
-        "ONLY BIG CITIES"
+        "HIGH BUILDING COSTS",
+        "LIMITED HOUSING SUPPLY",
+        "INEFFICIENT LAND USE"
       ],
-      "solution_tag": "KEY INSIGHT",
-      "solution_heading": "Manufactured Homes Offer a Real Solution",
-      "solution_sub": "This housing type provides a viable and often overlooked path to owning a home.",
-      "quote_label": "Our Takeaway:",
-      "quote": "Embracing manufactured housing is vital for expanding affordable homeownership opportunities.",
-      "features_tag": "BENEFITS & POTENTIAL",
-      "features_heading": "Why Manufactured Housing Matters",
+      "solution_tag": "THE SOLUTION",
+      "solution_heading": "Flexible Parking, More Housing",
+      "solution_sub": "Removing strict parking mandates allows for more flexible development, potentially leading to more affordable housing options.",
+      "quote_label": "Legislative Impact:",
+      "quote": "What started as a stormwater management bill became a landmark reform, easing development constraints across North Carolina.",
+      "features_tag": "KEY CHANGES",
+      "features_heading": "What the Reform Does",
       "features": [
         {
-          "label": "Lower Cost",
-          "desc": "Generally more affordable than traditional stick-built homes."
+          "label": "Eliminates Mandates",
+          "desc": "The reform largely removes statewide minimum parking requirements for new developments."
         },
         {
-          "label": "Quality Construction",
-          "desc": "Modern manufactured homes are built to federal safety and quality standards."
+          "label": "Promotes Density",
+          "desc": "Developers can now build more housing units on less land without needing excessive parking."
         },
         {
-          "label": "Community Living",
-          "desc": "Often found in communities with amenities and a sense of neighborhood."
+          "label": "Reduces Costs",
+          "desc": "Lower construction costs from reduced parking infrastructure can lead to more affordable housing."
         },
         {
-          "label": "Expanding Access",
-          "desc": "Could benefit from policies reducing barriers like exclusionary zoning."
+          "label": "Encourages Walkability",
+          "desc": "Allows for the creation of more pedestrian-friendly communities."
         }
       ],
-      "details_tag": "POLICY IMPACT",
-      "details_heading": "Removing Obstacles to Ownership",
-      "details_sub": "Congressional action can further unlock the potential of manufactured housing for more families.",
+      "details_tag": "WHY IT MATTERS",
+      "details_heading": "Benefits for Communities",
+      "details_sub": "This reform can foster more vibrant, affordable, and sustainable neighborhoods across North Carolina.",
       "details_pills": [
-        "ZONING REFORM",
-        "EASIER LENDING",
-        "COST EFFICIENCY"
+        "AFFORDABILITY",
+        "SUSTAINABILITY",
+        "VIBRANT CITIES",
+        "MORE HOMES"
       ],
-      "howto_tag": "YOUR NEXT STEPS",
-      "howto_heading": "Explore Manufactured Home Ownership",
+      "howto_tag": "LOOKING FORWARD",
+      "howto_heading": "Future Housing Landscape",
       "steps": [
         {
-          "title": "Research Options",
-          "desc": "Look into modern manufactured home communities and models in your desired areas."
+          "title": "Increased Housing Options",
+          "desc": "Expect to see a broader range of housing types and densities in certain areas."
         },
         {
-          "title": "Understand Financing",
-          "desc": "Learn about chattel lending and other financing options available for these homes."
+          "title": "Smarter Development",
+          "desc": "New projects can better align with community needs and transit options."
         },
         {
-          "title": "Connect with Experts",
-          "desc": "Talk to lenders experienced in manufactured home loans."
+          "title": "Cost Savings",
+          "desc": "Potential for lower rental and purchase prices due to reduced development overhead."
         },
         {
-          "title": "Advocate for Change",
-          "desc": "Support policies that promote affordable housing solutions."
+          "title": "Community Planning",
+          "desc": "Local governments may adapt their zoning to reflect this new flexibility."
         }
       ],
-      "cta_tag": "MAKE IT YOURS",
-      "cta_heading": "Discover Your Affordable Home",
-      "cta_sub": "Let SafeTrust Mortgage guide you through the financing options for manufactured housing.",
-      "cta_button": "Explore Loan Programs"
+      "cta_tag": "PLAN YOUR FUTURE",
+      "cta_heading": "Ready for Your NC Home?",
+      "cta_sub": "As North Carolina evolves, SafeTrust Mortgage is here to help you navigate your home financing options. Talk to us about finding your place in these changing communities.",
+      "cta_button": "Contact an Expert"
     }
   ]
 }
