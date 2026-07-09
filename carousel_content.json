@@ -1,230 +1,229 @@
 {
   "carousels": [
     {
-      "slug": "mortgage-rates-rise",
-      "title": "Mortgage Rates on the Rise",
-      "caption": "Stay informed about the latest mortgage rate trends. Understanding why rates fluctuate helps you make confident decisions about your home financing. Let's explore what's happening and how SafeTrust can help you navigate it. #MortgageRates #HomeBuying #SafeTrustMortgage",
-      "hero_tag": "RATE WATCH",
-      "hero_stat": "6.77%",
-      "hero_heading": "Mortgage Rates Are Climbing",
-      "hero_sub": "30-year conforming rates have risen past 6.75%, reaching an average of 6.77% amidst persistent inflation concerns.",
-      "problem_tag": "THE CHALLENGE",
-      "problem_heading": "Inflation Uncertainty & Rate Hikes",
-      "problem_sub": "Fluctuating inflation expectations and hawkish Federal Reserve messaging are influencing mortgage rate movements.",
-      "problem_label": "Outdated Approaches:",
+      "slug": "mortgage-rates-over-7-percent",
+      "title": "Will Mortgage Rates Hit 7% Again?",
+      "caption": "Recent global events are influencing mortgage rates. Understanding these shifts helps you make informed decisions about your homeownership journey. Stay updated with SafeTrust Mortgage. #MortgageRates #HousingMarket #HomeBuying #SafeTrustMortgage",
+      "hero_tag": "MORTGAGE RATES OUTLOOK",
+      "hero_stat": "",
+      "hero_heading": "Will Mortgage Rates Really Stay Below 7%?",
+      "hero_sub": "Geopolitical tensions are creating new uncertainty for the housing market. What you need to know about the current rate environment.",
+      "problem_tag": "RATE VOLATILITY",
+      "problem_heading": "The Shifting Landscape of Mortgage Rates",
+      "problem_sub": "Many hoped 7% rates were behind us, but recent global developments have brought this possibility back into focus.",
+      "problem_label": "Outdated Assumptions:",
       "problem_pills": [
-        "WAITING FOR LOWS",
-        "IGNORING MARKET TRENDS",
-        "DELAYING PRE-APPROVAL"
+        "RATES STABILIZING",
+        "NO MORE SHOCKS",
+        "EASY TO PREDICT"
       ],
-      "solution_tag": "YOUR STRATEGY",
-      "solution_heading": "Stay Informed, Act Smart",
-      "solution_sub": "Understanding the factors driving rates allows you to position yourself strategically in the market.",
-      "quote_label": "Expert Takeaway:",
-      "quote": "Proactive engagement with current market data and expert guidance is key to securing favorable mortgage terms.",
-      "features_tag": "WHAT TO KNOW",
-      "features_heading": "Key Rate Influencers",
+      "solution_tag": "NAVIGATING UNCERTAINTY",
+      "solution_heading": "Global Events Impact Your Rate",
+      "solution_sub": "Geopolitical tensions, like those involving the Middle East, can directly influence oil prices and bond yields, which in turn affect mortgage rates.",
+      "quote_label": "Key Takeaway:",
+      "quote": "Mortgage rates are closely tied to global stability and economic indicators, making them susceptible to sudden shifts.",
+      "features_tag": "UNDERSTANDING THE MOVEMENT",
+      "features_heading": "What's Driving Current Rates?",
       "features": [
         {
-          "label": "Inflation Expectations",
-          "desc": "1-year inflation expectations have risen to 3.7%, impacting bond yields and mortgage rates."
+          "label": "Geopolitical Impact",
+          "desc": "Escalating international conflicts can cause market instability, pushing bond yields and mortgage rates higher."
         },
         {
-          "label": "Federal Reserve Stance",
-          "desc": "The Fed's hawkish messaging indicates a continued focus on controlling inflation."
+          "label": "Oil Prices",
+          "desc": "Rising oil prices due to global tensions contribute to inflation concerns, which bond markets react to negatively."
         },
         {
-          "label": "30-Year Conforming",
-          "desc": "Average rates for 30-year conforming loans are now 6.77%."
+          "label": "Bond Market Reaction",
+          "desc": "When Treasury yields increase (e.g., the 10-year yield touched 4.60%), mortgage rates typically follow suit."
         },
         {
-          "label": "Jumbo Loans",
-          "desc": "Rates for jumbo loans are closely following, averaging 6.75%."
+          "label": "Lender Adjustments",
+          "desc": "Mortgage lenders update rates daily, or even intraday, based on market sentiment and underlying bond performance."
         }
       ],
       "details_tag": "WHY IT MATTERS",
-      "details_heading": "Impact on Your Home Purchase",
-      "details_sub": "Higher rates directly affect your monthly mortgage payments and overall affordability.",
+      "details_heading": "Stay Informed, Stay Ahead",
+      "details_sub": "Understanding these factors allows you to anticipate market changes and act strategically when rates move favorably.",
       "details_pills": [
-        "MONTHLY PAYMENTS",
-        "BUYING POWER",
-        "BUDGETING"
+        "MARKET INTELLIGENCE",
+        "TIMING YOUR MOVE",
+        "PROTECTING YOUR RATE"
       ],
-      "howto_tag": "HOW TO NAVIGATE",
-      "howto_heading": "Your Next Steps",
+      "howto_tag": "YOUR NEXT STEPS",
+      "howto_heading": "Strategize Your Mortgage",
       "steps": [
         {
-          "title": "Monitor Market Trends",
-          "desc": "Keep an eye on economic news and rate forecasts to anticipate changes."
+          "title": "Monitor Headlines",
+          "desc": "Keep an eye on global news, especially those related to energy and international relations, as they can affect rates."
         },
         {
           "title": "Get Pre-Approved",
-          "desc": "Lock in a rate and strengthen your offer in a competitive market."
+          "desc": "Knowing your purchasing power and a potential rate range helps you move quickly when the market is right."
         },
         {
-          "title": "Evaluate Loan Options",
-          "desc": "Explore different loan types that might better suit your financial situation."
+          "title": "Lock Your Rate",
+          "desc": "If you find a favorable rate, consider locking it in to protect yourself from future increases."
         },
         {
           "title": "Consult an Expert",
-          "desc": "Speak with a SafeTrust advisor to understand your best options."
+          "desc": "A SafeTrust Mortgage advisor can provide personalized insights and help you navigate rate volatility."
         }
       ],
       "cta_tag": "LET'S TALK RATES",
-      "cta_heading": "Secure Your Rate Today",
-      "cta_sub": "Don't let rising rates delay your homeownership dreams. Our team is ready to help you find the right solution.",
+      "cta_heading": "Secure Your Best Rate Today",
+      "cta_sub": "Don't let market fluctuations catch you off guard. Connect with SafeTrust to discuss your mortgage options.",
       "cta_button": "Get Today's Rate"
     },
     {
-      "slug": "balanced-housing-market",
-      "title": "A More Balanced Housing Market",
-      "caption": "Good news for homebuyers! More real estate agents are reporting a balanced market, indicating shifts in buyer and seller dynamics. Find out what this means for your home search. #HousingMarket #BalancedMarket #HomeBuyers",
-      "hero_tag": "MARKET INSIGHT",
-      "hero_stat": "MORE AGENTS",
-      "hero_heading": "A Balanced Market Emerges",
-      "hero_sub": "Far more real estate agents are now reporting a balanced housing market, according to a recent CNBC survey.",
-      "problem_tag": "THE CHALLENGE",
-      "problem_heading": "Navigating Past Market Extremes",
-      "problem_sub": "Previous markets were characterized by intense competition or significant price growth, making it tough for buyers.",
-      "problem_label": "Old Market Realities:",
+      "slug": "student-loans-homeownership",
+      "title": "Student Loans & Your Homeownership Dreams",
+      "caption": "Student loans are back in the news, but they don't have to put your homeownership dreams on hold. Learn how to manage them while planning for your first home. #StudentLoans #Homeownership #FirstTimeHomeBuyer #SafeTrustMortgage",
+      "hero_tag": "FINANCIAL FREEDOM",
+      "hero_stat": "",
+      "hero_heading": "Student Loans Don't Stop Homeownership",
+      "hero_sub": "Recent student loan discussions may cause concern, but you can still achieve your dream of owning a home.",
+      "problem_tag": "COMMON MISCONCEPTIONS",
+      "problem_heading": "The Student Loan Stigma",
+      "problem_sub": "Many believe high student loan debt automatically disqualifies them from getting a mortgage.",
+      "problem_label": "Outdated Beliefs:",
       "problem_pills": [
-        "BIDDING WARS",
-        "LIMITED INVENTORY",
-        "RAPID PRICE INCREASES"
+        "MUST PAY OFF DEBT FIRST",
+        "NO MORTGAGE WITH LOANS",
+        "HOMEOWNERSHIP IS IMPOSSIBLE"
       ],
-      "solution_tag": "YOUR OPPORTUNITY",
-      "solution_heading": "Shift Towards Stability",
-      "solution_sub": "A balanced market offers buyers more negotiation power and a less frenzied home search experience.",
-      "quote_label": "Expert Takeaway:",
-      "quote": "The decrease in reported price cuts suggests a market settling into a more sustainable rhythm for both buyers and sellers.",
-      "features_tag": "WHAT IT MEANS",
-      "features_heading": "Key Market Shifts",
+      "solution_tag": "SMART PLANNING",
+      "solution_heading": "Debt Can Coexist with Homeownership",
+      "solution_sub": "Student loans are a factor, but not an insurmountable barrier, to mortgage eligibility when managed strategically.",
+      "quote_label": "Expert Insight:",
+      "quote": "Responsible student loan management demonstrates creditworthiness and financial discipline to lenders.",
+      "features_tag": "HOW LENDERS EVALUATE",
+      "features_heading": "Key Factors for Mortgage Approval",
       "features": [
         {
-          "label": "Fewer Price Cuts",
-          "desc": "The number of agents reporting at least one price cut to active listings has dropped dramatically."
+          "label": "Debt-to-Income Ratio (DTI)",
+          "desc": "Lenders look at your total monthly debt payments versus your gross monthly income; student loan payments are part of this."
         },
         {
-          "label": "Increased Stability",
-          "desc": "This signals a move away from the frantic pace of recent years towards more predictable conditions."
+          "label": "Credit Score",
+          "desc": "Consistent on-time payments for student loans and other debts help build a strong credit history, which is crucial."
         },
         {
-          "label": "Better Negotiations",
-          "desc": "Buyers may find more room for negotiation on price and terms."
+          "label": "Down Payment",
+          "desc": "A solid down payment can offset higher DTI and demonstrate financial stability."
         },
         {
-          "label": "More Time to Decide",
-          "desc": "Less pressure means you can take a more considered approach to your home purchase."
+          "label": "Loan Programs",
+          "desc": "Various mortgage programs, including FHA and VA loans, have flexible DTI requirements that can accommodate student loan debt."
         }
       ],
-      "details_tag": "WHY IT MATTERS",
-      "details_heading": "Benefits for Homebuyers",
-      "details_sub": "A balanced market can lead to a more confident and less stressful home-buying journey.",
+      "details_tag": "YOUR ADVANTAGE",
+      "details_heading": "Turn Debt into Opportunity",
+      "details_sub": "Proactive planning and understanding your financial situation can make homeownership a reality sooner than you think.",
       "details_pills": [
-        "LESS STRESS",
-        "BETTER CHOICES",
-        "FAIRER PRICES"
+        "BUILD CREDIT",
+        "MANAGE DTI",
+        "EXPLORE OPTIONS"
       ],
-      "howto_tag": "HOW TO CAPITALIZE",
-      "howto_heading": "Making Your Move",
+      "howto_tag": "PLAN YOUR PATH",
+      "howto_heading": "Steps to Homeownership with Student Loans",
       "steps": [
         {
-          "title": "Refine Your Search",
-          "desc": "With more options, focus on homes that truly meet your needs and preferences."
+          "title": "Understand Your Loans",
+          "desc": "Know your monthly payment, interest rate, and repayment terms for all student loans."
         },
         {
-          "title": "Get Pre-Approved",
-          "desc": "Show sellers you are a serious and ready buyer, even in a balanced market."
+          "title": "Improve Your Credit",
+          "desc": "Make all payments on time and keep other credit balances low to boost your credit score."
         },
         {
-          "title": "Work with an Agent",
-          "desc": "Leverage expert advice to navigate negotiations and find value."
+          "title": "Reduce Other Debts",
+          "desc": "Lowering credit card debt or car payments can free up your DTI for a mortgage."
         },
         {
-          "title": "Stay Patient",
-          "desc": "Take your time to find the right home at the right price."
+          "title": "Talk to an Advisor",
+          "desc": "SafeTrust Mortgage can help assess your specific situation and recommend the best loan options."
+        }
+      ],
+      "cta_tag": "MAKE IT YOURS",
+      "cta_heading": "Start Your Homeownership Journey",
+      "cta_sub": "Don't let student loans deter you. Let SafeTrust Mortgage help you navigate the path to your new home.",
+      "cta_button": "Get Pre-Approved Today"
+    },
+    {
+      "slug": "luxury-homes-under-1-million",
+      "title": "Luxury Homes Under $1 Million: Where to Find Them",
+      "caption": "Dreaming of a luxury home? You might be surprised to find which major metros still offer options under $1 million. Explore where your budget goes further! #LuxuryHomes #AffordableLuxury #RealEstateMarket #SafeTrustMortgage",
+      "hero_tag": "AFFORDABLE LUXURY",
+      "hero_stat": "5",
+      "hero_heading": "Only 5 Major Metros Offer Luxury Under $1M",
+      "hero_sub": "The number of major metros where a typical luxury home costs less than $1 million has shrunk significantly.",
+      "problem_tag": "RISING PRICES",
+      "problem_heading": "Luxury Market Becomes More Exclusive",
+      "problem_sub": "Finding a luxury home for under $1 million is increasingly challenging, with prices rising across most major U.S. cities.",
+      "problem_label": "Shrinking Options:",
+      "problem_pills": [
+        "LUXURY IS OUT OF REACH",
+        "MILLION-DOLLAR MINIMUM",
+        "NO DEALS TO BE FOUND"
+      ],
+      "solution_tag": "STRATEGIC SEARCH",
+      "solution_heading": "Luxury Still Accessible in Key Markets",
+      "solution_sub": "While most luxury markets have surpassed the $1 million mark, a few major metros still offer high-end homes at more attainable prices.",
+      "quote_label": "Market Insight:",
+      "quote": "Strategic buyers can still find luxury properties under $1 million by focusing on specific, value-driven metropolitan areas.",
+      "features_tag": "WHERE TO LOOK",
+      "features_heading": "Top Metros for Sub-$1M Luxury",
+      "features": [
+        {
+          "label": "Detroit, MI",
+          "desc": "The most affordable for luxury homes, with a median price of $719,252, significantly below the national average."
+        },
+        {
+          "label": "National Average",
+          "desc": "The typical luxury home nationwide now costs $1,374,470, making the sub-$1M options standout values."
+        },
+        {
+          "label": "Shrinking List",
+          "desc": "The number of major metros with luxury homes under $1 million has decreased from eight last year to just five now."
+        },
+        {
+          "label": "San Francisco Contrast",
+          "desc": "San Francisco remains the most expensive, highlighting the significant price differences across regions."
+        }
+      ],
+      "details_tag": "INVESTMENT OPPORTUNITY",
+      "details_heading": "More Home for Your Money",
+      "details_sub": "These remaining markets offer a unique chance to acquire luxury amenities and space without the premium price tag of more saturated areas.",
+      "details_pills": [
+        "HIGH VALUE",
+        "POTENTIAL GROWTH",
+        "QUALITY OF LIFE"
+      ],
+      "howto_tag": "FIND YOUR LUXURY",
+      "howto_heading": "Steps to Discover Affordable Luxury",
+      "steps": [
+        {
+          "title": "Research Emerging Markets",
+          "desc": "Look beyond traditional luxury hubs to cities offering strong value and growth potential."
+        },
+        {
+          "title": "Define Your Needs",
+          "desc": "Determine which luxury features are most important to you to narrow down your search efficiently."
+        },
+        {
+          "title": "Partner with a Local Agent",
+          "desc": "An agent with expertise in these specific metros can help uncover hidden gems and off-market listings."
+        },
+        {
+          "title": "Secure Pre-Approval",
+          "desc": "Know your budget upfront with SafeTrust Mortgage to act quickly when the right property emerges."
         }
       ],
       "cta_tag": "YOUR NEXT MOVE",
-      "cta_heading": "Ready to Buy with Confidence?",
-      "cta_sub": "A balanced market is an excellent time to make your move. Let SafeTrust help you secure your dream home.",
-      "cta_button": "Start Your Pre-Approval"
-    },
-    {
-      "slug": "north-carolina-parking-reform",
-      "title": "NC Parking Reform: A Boost for Housing",
-      "caption": "North Carolina has passed aggressive parking reform, a move that could significantly impact housing development and affordability across the state. Discover what this means for future communities! #HousingReform #NorthCarolina #UrbanPlanning",
-      "hero_tag": "ZONING REFORM",
-      "hero_stat": "STATEWIDE",
-      "hero_heading": "NC Kicks Parking Rules to the Curb",
-      "hero_sub": "North Carolina passed one of the country's most aggressive statewide parking reforms, aiming to ease housing development.",
-      "problem_tag": "THE CHALLENGE",
-      "problem_heading": "Outdated Parking Requirements",
-      "problem_sub": "Minimum parking mandates often inflate housing costs, limit density, and contribute to urban sprawl.",
-      "problem_label": "Past Obstacles:",
-      "problem_pills": [
-        "HIGH BUILDING COSTS",
-        "LIMITED HOUSING SUPPLY",
-        "INEFFICIENT LAND USE"
-      ],
-      "solution_tag": "THE SOLUTION",
-      "solution_heading": "Flexible Parking, More Housing",
-      "solution_sub": "Removing strict parking mandates allows for more flexible development, potentially leading to more affordable housing options.",
-      "quote_label": "Legislative Impact:",
-      "quote": "What started as a stormwater management bill became a landmark reform, easing development constraints across North Carolina.",
-      "features_tag": "KEY CHANGES",
-      "features_heading": "What the Reform Does",
-      "features": [
-        {
-          "label": "Eliminates Mandates",
-          "desc": "The reform largely removes statewide minimum parking requirements for new developments."
-        },
-        {
-          "label": "Promotes Density",
-          "desc": "Developers can now build more housing units on less land without needing excessive parking."
-        },
-        {
-          "label": "Reduces Costs",
-          "desc": "Lower construction costs from reduced parking infrastructure can lead to more affordable housing."
-        },
-        {
-          "label": "Encourages Walkability",
-          "desc": "Allows for the creation of more pedestrian-friendly communities."
-        }
-      ],
-      "details_tag": "WHY IT MATTERS",
-      "details_heading": "Benefits for Communities",
-      "details_sub": "This reform can foster more vibrant, affordable, and sustainable neighborhoods across North Carolina.",
-      "details_pills": [
-        "AFFORDABILITY",
-        "SUSTAINABILITY",
-        "VIBRANT CITIES",
-        "MORE HOMES"
-      ],
-      "howto_tag": "LOOKING FORWARD",
-      "howto_heading": "Future Housing Landscape",
-      "steps": [
-        {
-          "title": "Increased Housing Options",
-          "desc": "Expect to see a broader range of housing types and densities in certain areas."
-        },
-        {
-          "title": "Smarter Development",
-          "desc": "New projects can better align with community needs and transit options."
-        },
-        {
-          "title": "Cost Savings",
-          "desc": "Potential for lower rental and purchase prices due to reduced development overhead."
-        },
-        {
-          "title": "Community Planning",
-          "desc": "Local governments may adapt their zoning to reflect this new flexibility."
-        }
-      ],
-      "cta_tag": "PLAN YOUR FUTURE",
-      "cta_heading": "Ready for Your NC Home?",
-      "cta_sub": "As North Carolina evolves, SafeTrust Mortgage is here to help you navigate your home financing options. Talk to us about finding your place in these changing communities.",
-      "cta_button": "Contact an Expert"
+      "cta_heading": "Unlock Your Luxury Home Potential",
+      "cta_sub": "Ready to explore luxury homes that fit your budget? SafeTrust Mortgage can help you secure the financing.",
+      "cta_button": "Start Your Application"
     }
   ]
 }
