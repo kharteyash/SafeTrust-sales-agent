@@ -1,229 +1,232 @@
 {
   "carousels": [
     {
-      "slug": "housing-market-h2-2026",
-      "title": "What to Expect in the Housing Market: Second Half of 2026",
-      "caption": "Feeling stuck in the housing market? You're not alone. The second half of 2026 holds key insights for buyers and sellers. Get the facts on what to expect. #HousingMarket #RealEstate #HomeBuying",
-      "hero_tag": "MARKET OUTLOOK",
-      "hero_stat": "",
-      "hero_heading": "Navigating the Housing Market in H2 2026",
-      "hero_sub": "If the first half of this year has left you feeling stuck, you're not the only one.",
-      "problem_tag": "FEELING STUCK?",
-      "problem_heading": "Uncertainty Creates Hesitation",
-      "problem_sub": "Many prospective buyers and sellers feel paralyzed by current market conditions.",
-      "problem_label": "Outdated Assumptions:",
+      "slug": "housing-affordability-improving",
+      "title": "Housing Affordability on the Rise",
+      "caption": "Good news for homebuyers! Housing affordability is improving as wage growth outpaces home price increases. Dive in to see what this means for you. #HousingMarket #AffordableHomes #SafeTrustMortgage",
+      "hero_tag": "GREAT NEWS",
+      "hero_stat": "3.5%",
+      "hero_heading": "Wages Outpace Home Prices",
+      "hero_sub": "Your earning power is growing faster than home values, making homeownership more accessible.",
+      "problem_tag": "OLD CONCERNS",
+      "problem_heading": "The Affordability Puzzle",
+      "problem_sub": "Many assume home prices are always skyrocketing out of reach, but the market is shifting.",
+      "problem_label": "Outdated Beliefs:",
       "problem_pills": [
-        "RATES WILL DROP SOON",
-        "PRICES ALWAYS FALL",
-        "WAITING IS ALWAYS BEST"
+        "HOME PRICES ALWAYS RISE",
+        "WAGES CAN'T KEEP UP",
+        "IMPOSSIBLE TO AFFORD"
       ],
-      "solution_tag": "CLARITY IS KEY",
-      "solution_heading": "Understand the Evolving Landscape",
-      "solution_sub": "Expert insights help clarify what to expect in the coming months, allowing you to make informed decisions.",
-      "quote_label": "Stay Informed:",
-      "quote": "Understanding current trends is essential for making your best move.",
-      "features_tag": "WHAT TO LOOK FOR",
-      "features_heading": "Key Market Drivers",
+      "solution_tag": "THE SHIFT",
+      "solution_heading": "Wages Gain Ground on Home Prices",
+      "solution_sub": "National data shows that average wage increases are now exceeding the growth in home prices, improving affordability.",
+      "quote_label": "Key Takeaway:",
+      "quote": "Your income's purchasing power is strengthening in today's housing market.",
+      "features_tag": "WHAT IT MEANS FOR YOU",
+      "features_heading": "Clearer Path to Homeownership",
       "features": [
         {
-          "label": "Mortgage Rates",
-          "desc": "Fluctuations in interest rates continue to influence affordability and demand."
+          "label": "Increased Buying Power",
+          "desc": "Your salary goes further when home prices grow slower than your wages."
         },
         {
-          "label": "Home Prices",
-          "desc": "Prices reached an all-time high in June, impacting entry points for buyers."
+          "label": "Better Market Balance",
+          "desc": "A more balanced market fosters sustainable growth, benefiting buyers."
         },
         {
-          "label": "Inventory Levels",
-          "desc": "Supply remains a critical factor affecting market competitiveness."
+          "label": "More Inventory",
+          "desc": "With 1.56 million homes and 4.6 months of supply, choices are expanding."
         },
         {
-          "label": "Buyer Demand",
-          "desc": "Pending home sales recently rose to their highest level in six weeks."
+          "label": "Manageable Growth",
+          "desc": "Home price growth at 1.8% is healthy and less volatile for buyers."
         }
       ],
       "details_tag": "WHY IT MATTERS",
-      "details_heading": "Your Path Forward",
-      "details_sub": "Understanding these dynamics empowers you to approach the market with confidence, whether buying or selling.",
+      "details_heading": "A Favorable Market Environment",
+      "details_sub": "This trend creates a more stable and encouraging landscape for both first-time buyers and those looking to move up.",
       "details_pills": [
-        "CONFIDENT DECISIONS",
-        "PLAN YOUR MOVE",
-        "AVOID WAITING TRAPS"
+        "FIRST-TIME BUYERS",
+        "MOVING UP",
+        "STABLE MARKET",
+        "LONG-TERM INVESTMENT"
       ],
-      "howto_tag": "TAKE CONTROL",
-      "howto_heading": "Steps to Prepare",
+      "howto_tag": "YOUR NEXT STEPS",
+      "howto_heading": "Seize the Opportunity",
       "steps": [
         {
-          "title": "Assess Your Goals",
-          "desc": "Define what you need and want in your next home or sale."
+          "title": "Assess Your Budget",
+          "desc": "Understand your current financial standing and how much you can comfortably afford."
         },
         {
           "title": "Monitor Local Trends",
-          "desc": "Keep an eye on prices and inventory in your desired area."
+          "desc": "While national trends are positive, local markets can vary; stay informed."
         },
         {
           "title": "Get Pre-Approved",
-          "desc": "Understand your purchasing power with a current mortgage rate check."
+          "desc": "A pre-approval from SafeTrust Mortgage solidifies your buying power."
         },
         {
-          "title": "Consult a Lender",
-          "desc": "Discuss personalized strategies based on current market conditions."
+          "title": "Connect with an Expert",
+          "desc": "Our loan officers can guide you through the process and current market conditions."
         }
       ],
       "cta_tag": "YOUR NEXT MOVE",
-      "cta_heading": "Ready to Plan Your Next Chapter?",
-      "cta_sub": "Don't let market uncertainty hold you back. Let's discuss your options for the second half of 2026.",
-      "cta_button": "GET STARTED TODAY"
+      "cta_heading": "Ready to Make Your Move?",
+      "cta_sub": "The market is showing promising signs for homebuyers. Let's explore your options.",
+      "cta_button": "GET YOUR RATE TODAY"
     },
     {
-      "slug": "mortgage-rates-recovery",
-      "title": "Mortgage Rates: A Modest Recovery",
-      "caption": "Mortgage rates saw a small but friendly bounce today, dropping 0.03% to 6.5% for a top-tier 30-year fixed scenario. What's driving this change and what does it mean for you? #MortgageRates #HomeLoans #InterestRates",
-      "hero_tag": "RATE UPDATE",
-      "hero_stat": "6.5%",
-      "hero_heading": "Mortgage Rates See Modest Improvement",
-      "hero_sub": "The average lender dropped 0.03% for a top-tier 30-year fixed scenario.",
-      "problem_tag": "RATE VOLATILITY",
-      "problem_heading": "Rates Reached Near 10-Month Highs",
-      "problem_sub": "Recent geopolitical tensions have caused rapid increases in mortgage rates.",
-      "problem_label": "Common Misconceptions:",
+      "slug": "road-to-housing-act",
+      "title": "New Housing Act Becomes Law",
+      "caption": "The 21st Century ROAD to Housing Act is now law! This legislation aims to cut red tape and make homeownership more attainable. Discover how this could benefit you. #HousingLegislation #HomeownershipDreams #SafeTrustMortgage",
+      "hero_tag": "NEW LAW ALERT",
+      "hero_stat": "",
+      "hero_heading": "Less Red Tape for Homeownership",
+      "hero_sub": "The 21st Century ROAD to Housing Act is designed to streamline processes and open up new avenues for buying a home.",
+      "problem_tag": "THE CHALLENGE",
+      "problem_heading": "Navigating the Housing Maze",
+      "problem_sub": "Complex regulations and limited housing options have historically made homeownership a difficult goal for many.",
+      "problem_label": "Common Hurdles:",
       "problem_pills": [
-        "RATES ONLY RISE",
-        "WAIT FOR BIG DROPS",
-        "FIXED RATES ARE SIMPLE"
+        "OVERLY COMPLEX RULES",
+        "HIGH ENTRY BARRIERS",
+        "LIMITED AFFORDABLE OPTIONS"
       ],
-      "solution_tag": "UNDERSTANDING FLUCTUATIONS",
-      "solution_heading": "External Factors Drive Daily Shifts",
-      "solution_sub": "Mortgage rates are highly sensitive to global events, particularly oil prices and bond yields.",
-      "quote_label": "Expert Insight:",
-      "quote": "Rate improvement often links to shifts in broader economic indicators like oil price volatility.",
-      "features_tag": "RATE INFLUENCERS",
-      "features_heading": "Key Drivers of Mortgage Rates",
+      "solution_tag": "THE SOLUTION",
+      "solution_heading": "Unlocking New Possibilities",
+      "solution_sub": "This new legislation aims to simplify the path to homeownership by reducing regulatory burdens and fostering innovation in housing.",
+      "quote_label": "Key Takeaway:",
+      "quote": "The ROAD to Housing Act clears obstacles, making homeownership more attainable and diverse.",
+      "features_tag": "HOW IT HELPS",
+      "features_heading": "Benefits of the New Law",
       "features": [
         {
-          "label": "Oil Prices",
-          "desc": "Fluctuations in oil can directly impact bond yields and, consequently, mortgage rates."
+          "label": "Reduced Bureaucracy",
+          "desc": "Expect a more streamlined process in various aspects of home buying and development."
         },
         {
-          "label": "Bond Yields",
-          "desc": "Mortgage-backed securities (MBS) correlate closely with 10-year Treasury yields."
+          "label": "Increased Attainability",
+          "desc": "The goal is to make homeownership a more realistic option for a wider range of buyers."
         },
         {
-          "label": "Geopolitical Events",
-          "desc": "Global tensions introduce uncertainty, often pushing rates higher."
+          "label": "Innovative Housing",
+          "desc": "New designs for manufactured homes could lead to more affordable and diverse housing choices."
         },
         {
-          "label": "Economic Data",
-          "desc": "Inflation reports and Federal Reserve statements also play a significant role."
+          "label": "Lower Financing Paths",
+          "desc": "Potential for new, more cost-effective financing options for certain housing types."
         }
       ],
       "details_tag": "WHAT IT MEANS",
-      "details_heading": "Seizing Opportunity",
-      "details_sub": "Even small rate improvements can impact your monthly payment and overall loan cost.",
+      "details_heading": "A Broader Horizon for Buyers",
+      "details_sub": "This act broadens the scope of what's possible in the housing market, offering more paths to secure your dream home.",
       "details_pills": [
-        "SMALL SHIFTS MATTER",
-        "IMPACT ON PAYMENTS",
-        "TIME YOUR LOCK"
+        "ACCESSIBLE HOMES",
+        "HOUSING INNOVATION",
+        "SIMPLIFIED PROCESS",
+        "DIVERSE OPTIONS"
       ],
-      "howto_tag": "YOUR RATE STRATEGY",
-      "howto_heading": "How to Navigate Rates",
+      "howto_tag": "YOUR PATH FORWARD",
+      "howto_heading": "Explore Emerging Opportunities",
       "steps": [
         {
-          "title": "Get Personalized Quotes",
-          "desc": "Rates vary by lender and individual financial profile; get tailored estimates."
+          "title": "Stay Informed",
+          "desc": "Keep up with how these new regulations are implemented and impact local markets."
         },
         {
-          "title": "Monitor Daily Trends",
-          "desc": "Stay updated on market movements to identify favorable conditions."
+          "title": "Consider All Options",
+          "desc": "Be open to exploring different housing types, including manufactured homes, which may see new benefits."
         },
         {
-          "title": "Discuss Rate Locks",
-          "desc": "Understand when and how to lock in your rate to protect against increases."
+          "title": "Review Your Eligibility",
+          "desc": "Understand how new policies might affect your mortgage eligibility and options."
         },
         {
-          "title": "Consult a Professional",
-          "desc": "Work with a mortgage advisor to craft a strategy for your home purchase or refinance."
-        }
-      ],
-      "cta_tag": "LET'S TALK RATES",
-      "cta_heading": "Don't Miss Out on Favorable Rates",
-      "cta_sub": "Small changes can make a big difference. Get today's rate and see what it means for your home ownership goals.",
-      "cta_button": "GET YOUR RATE"
-    },
-    {
-      "slug": "pending-home-sales-rise",
-      "title": "Pending Home Sales on the Rise!",
-      "caption": "Good news for the housing market! U.S. pending home sales rose 1.3% in the four weeks ending July 5th, reaching their highest level in six weeks. Find out what's driving this increased demand. #HomeSales #RealEstateMarket #BuyerDemand",
-      "hero_tag": "MARKET MOMENTUM",
-      "hero_stat": "1.3%",
-      "hero_heading": "U.S. Pending Home Sales Climb",
-      "hero_sub": "Pending home sales rose to their highest level in 6 weeks as housing payments temporarily dipped.",
-      "problem_tag": "STUCK IN NEUTRAL?",
-      "problem_heading": "Perception of a Stalled Market",
-      "problem_sub": "Many assume the housing market is slowing down, leading to hesitation among potential buyers.",
-      "problem_label": "Common Beliefs:",
-      "problem_pills": [
-        "NO ONE IS BUYING",
-        "DEMAND IS DEAD",
-        "RATES ARE TOO HIGH"
-      ],
-      "solution_tag": "DEMAND IS BUILDING",
-      "solution_heading": "Buyer Activity is Picking Up",
-      "solution_sub": "A slight dip in mortgage rates spurred a measurable increase in homebuying demand, indicating market resilience.",
-      "quote_label": "Market Insight:",
-      "quote": "Homebuying demand picked up partly because of temporarily declining mortgage rates.",
-      "features_tag": "DRIVING FACTORS",
-      "features_heading": "What's Fueling the Increase",
-      "features": [
-        {
-          "label": "Mortgage Rate Dip",
-          "desc": "Temporarily lower rates made housing payments more accessible for some buyers."
-        },
-        {
-          "label": "Seasonal Trends",
-          "desc": "Summer months often see increased activity as families plan moves."
-        },
-        {
-          "label": " pent-Up Demand",
-          "desc": "Buyers waiting on the sidelines are beginning to re-enter the market."
-        },
-        {
-          "label": "Market Adjustment",
-          "desc": "The market is finding its footing, attracting buyers ready to make a move."
-        }
-      ],
-      "details_tag": "YOUR OPPORTUNITY",
-      "details_heading": "Why This Matters to You",
-      "details_sub": "An uptick in pending sales signals renewed buyer confidence and potential opportunities in the market.",
-      "details_pills": [
-        "INCREASED CONFIDENCE",
-        "MORE ACTIVE MARKET",
-        "OPPORTUNITIES AHEAD"
-      ],
-      "howto_tag": "CAPITALIZE NOW",
-      "howto_heading": "Steps to Act on This Trend",
-      "steps": [
-        {
-          "title": "Get Pre-Approved",
-          "desc": "Understand your purchasing power and strengthen your offer in a competitive market."
-        },
-        {
-          "title": "Define Your Needs",
-          "desc": "Clarify your must-haves and nice-to-haves to streamline your search."
-        },
-        {
-          "title": "Work with an Agent",
-          "desc": "A local expert can help you find listings and navigate offers effectively."
-        },
-        {
-          "title": "Act Decisively",
-          "desc": "When you find the right home, be prepared to move forward quickly."
+          "title": "Consult a Mortgage Expert",
+          "desc": "Talk to SafeTrust Mortgage to understand the latest financing opportunities and how the act may apply to you."
         }
       ],
       "cta_tag": "MAKE IT YOURS",
-      "cta_heading": "Ready to Join the Active Market?",
-      "cta_sub": "The market is moving! Get pre-approved today and be ready for your next home.",
-      "cta_button": "GET PRE-APPROVED"
+      "cta_heading": "Ready to Find Your Home?",
+      "cta_sub": "New laws are paving the way for easier homeownership. Let SafeTrust Mortgage guide you.",
+      "cta_button": "TALK TO AN EXPERT"
+    },
+    {
+      "slug": "existing-home-sales-june",
+      "title": "Existing-Home Sales in June",
+      "caption": "Existing-home sales eased slightly in June but remain above last year's levels. What does this 'sideways trend' mean for you as a buyer or seller? Let's break it down. #HousingMarketUpdate #HomeSales #SafeTrustMortgage",
+      "hero_tag": "MARKET INSIGHTS",
+      "hero_stat": "4.09M",
+      "hero_heading": "Home Sales Find a New Rhythm",
+      "hero_sub": "Existing-home sales experienced a slight dip in June, settling into a more consistent trend.",
+      "problem_tag": "MARKET MYTHS",
+      "problem_heading": "The Volatility Expectation",
+      "problem_sub": "Many expect dramatic swings in the housing market, leading to uncertainty and hesitation.",
+      "problem_label": "Outdated Beliefs:",
+      "problem_pills": [
+        "CONSTANT SWINGS",
+        "UNPREDICTABLE MARKET",
+        "WAITING FOR CRASH"
+      ],
+      "solution_tag": "CURRENT REALITY",
+      "solution_heading": "A Stabilizing Market Trend",
+      "solution_sub": "Existing-home sales are showing a sideways trend, meaning less dramatic fluctuations and more predictability for buyers and sellers.",
+      "quote_label": "Key Takeaway:",
+      "quote": "The market is less volatile, offering a more stable environment for your housing decisions.",
+      "features_tag": "FOR YOUR BENEFIT",
+      "features_heading": "What a Sideways Trend Offers",
+      "features": [
+        {
+          "label": "Consistent Activity",
+          "desc": "Despite a slight dip, sales remain 2.8% above last year, indicating sustained demand."
+        },
+        {
+          "label": "Mortgage Rate Influence",
+          "desc": "Modest changes in rates are influencing buyer activity, highlighting the importance of current rates."
+        },
+        {
+          "label": "Time to Plan",
+          "desc": "A less volatile market allows for more thoughtful and less rushed decisions on buying or selling."
+        },
+        {
+          "label": "Informed Decisions",
+          "desc": "Steady trends provide clearer data for assessing property values and future market direction."
+        }
+      ],
+      "details_tag": "WHY IT MATTERS",
+      "details_heading": "Navigate with Confidence",
+      "details_sub": "A 'back-and-forth' market suggests opportunities for strategic buyers who are prepared and informed.",
+      "details_pills": [
+        "STRATEGIC BUYING",
+        "MARKET STABILITY",
+        "PLANNING AHEAD",
+        "INFORMED CHOICES"
+      ],
+      "howto_tag": "YOUR NEXT STEPS",
+      "howto_heading": "Leverage Current Conditions",
+      "steps": [
+        {
+          "title": "Watch Mortgage Rates",
+          "desc": "Stay updated on rate changes as they are a key factor influencing buyer activity."
+        },
+        {
+          "title": "Get Pre-Approved",
+          "desc": "A pre-approval locks in your rate and shows sellers you are a serious buyer in this market."
+        },
+        {
+          "title": "Assess Your Goals",
+          "desc": "Determine if current conditions align with your personal homeownership or selling objectives."
+        },
+        {
+          "title": "Connect with an Expert",
+          "desc": "A SafeTrust Mortgage professional can help you understand the nuances of the current market."
+        }
+      ],
+      "cta_tag": "LET'S TALK RATES",
+      "cta_heading": "Ready to Act on Today's Market?",
+      "cta_sub": "The market is in a steady rhythm. Let's find your perfect beat.",
+      "cta_button": "GET YOUR RATE TODAY"
     }
   ]
 }
