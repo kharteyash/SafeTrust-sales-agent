@@ -1,232 +1,158 @@
 {
   "carousels": [
     {
-      "slug": "housing-affordability-improving",
-      "title": "Housing Affordability on the Rise",
-      "caption": "Good news for homebuyers! Housing affordability is improving as wage growth outpaces home price increases. Dive in to see what this means for you. #HousingMarket #AffordableHomes #SafeTrustMortgage",
-      "hero_tag": "GREAT NEWS",
-      "hero_stat": "3.5%",
-      "hero_heading": "Wages Outpace Home Prices",
-      "hero_sub": "Your earning power is growing faster than home values, making homeownership more accessible.",
-      "problem_tag": "OLD CONCERNS",
-      "problem_heading": "The Affordability Puzzle",
-      "problem_sub": "Many assume home prices are always skyrocketing out of reach, but the market is shifting.",
+      "slug": "iran-conflict-mortgage-rates",
+      "title": "Mortgage Rates & Housing Demand",
+      "caption": "Geopolitical events can influence mortgage rates, but home buyer demand remains strong. Learn how to navigate the market with SafeTrust Mortgage. #SafeTrustMortgage #MortgageRates #HousingMarket",
+      "hero_tag": "MARKET INSIGHTS",
+      "hero_stat": "",
+      "hero_heading": "Navigating Mortgage Rates Amidst Global Events",
+      "hero_sub": "Discover how external factors can impact your home loan and what it means for the housing market.",
+      "problem_tag": "THE CHALLENGE",
+      "problem_heading": "Uncertainty in Mortgage Rates",
+      "problem_sub": "Geopolitical events, like the recent Iran conflict, can lead to unexpected shifts in mortgage rates, creating anxiety for homebuyers.",
       "problem_label": "Outdated Beliefs:",
       "problem_pills": [
-        "HOME PRICES ALWAYS RISE",
-        "WAGES CAN'T KEEP UP",
-        "IMPOSSIBLE TO AFFORD"
+        "RATES ARE FIXED",
+        "GLOBAL EVENTS DONT MATTER",
+        "TIMING IS SIMPLE"
       ],
-      "solution_tag": "THE SHIFT",
-      "solution_heading": "Wages Gain Ground on Home Prices",
-      "solution_sub": "National data shows that average wage increases are now exceeding the growth in home prices, improving affordability.",
-      "quote_label": "Key Takeaway:",
-      "quote": "Your income's purchasing power is strengthening in today's housing market.",
-      "features_tag": "WHAT IT MEANS FOR YOU",
-      "features_heading": "Clearer Path to Homeownership",
+      "solution_tag": "THE SOLUTION",
+      "solution_heading": "Understanding Rate Fluctuations",
+      "solution_sub": "Mortgage rates are dynamic, influenced by a variety of global and economic factors. Staying informed and preparing proactively is key.",
+      "quote_label": "Expert Takeaway:",
+      "quote": "While external events can cause rate shifts, understanding market fundamentals helps you plan your home purchase confidently.",
+      "features_tag": "WHAT WE OFFER",
+      "features_heading": "Your Rate Stability Toolkit",
       "features": [
         {
-          "label": "Increased Buying Power",
-          "desc": "Your salary goes further when home prices grow slower than your wages."
+          "label": "Rate Monitoring",
+          "desc": "We keep a close eye on market trends and provide timely updates on rate changes."
         },
         {
-          "label": "Better Market Balance",
-          "desc": "A more balanced market fosters sustainable growth, benefiting buyers."
+          "label": "Personalized Guidance",
+          "desc": "Our advisors help you understand how global events might affect your specific mortgage options."
         },
         {
-          "label": "More Inventory",
-          "desc": "With 1.56 million homes and 4.6 months of supply, choices are expanding."
+          "label": "Pre-Approval Power",
+          "desc": "Get pre-approved to lock in a rate for a period, offering stability as you search for a home."
         },
         {
-          "label": "Manageable Growth",
-          "desc": "Home price growth at 1.8% is healthy and less volatile for buyers."
+          "label": "Flexible Loan Options",
+          "desc": "Explore various loan types that can offer more predictable payments or adaptability to market changes."
         }
       ],
       "details_tag": "WHY IT MATTERS",
-      "details_heading": "A Favorable Market Environment",
-      "details_sub": "This trend creates a more stable and encouraging landscape for both first-time buyers and those looking to move up.",
+      "details_heading": "Strong Demand Persists",
+      "details_sub": "Despite rate fluctuations, demand for housing remains positive, indicating a resilient market for buyers.",
       "details_pills": [
-        "FIRST-TIME BUYERS",
-        "MOVING UP",
-        "STABLE MARKET",
-        "LONG-TERM INVESTMENT"
+        "PENDING SALES UP",
+        "INVENTORY IMPROVING",
+        "DEMAND REMAINS STRONG"
       ],
       "howto_tag": "YOUR NEXT STEPS",
-      "howto_heading": "Seize the Opportunity",
-      "steps": [
-        {
-          "title": "Assess Your Budget",
-          "desc": "Understand your current financial standing and how much you can comfortably afford."
-        },
-        {
-          "title": "Monitor Local Trends",
-          "desc": "While national trends are positive, local markets can vary; stay informed."
-        },
-        {
-          "title": "Get Pre-Approved",
-          "desc": "A pre-approval from SafeTrust Mortgage solidifies your buying power."
-        },
-        {
-          "title": "Connect with an Expert",
-          "desc": "Our loan officers can guide you through the process and current market conditions."
-        }
-      ],
-      "cta_tag": "YOUR NEXT MOVE",
-      "cta_heading": "Ready to Make Your Move?",
-      "cta_sub": "The market is showing promising signs for homebuyers. Let's explore your options.",
-      "cta_button": "GET YOUR RATE TODAY"
-    },
-    {
-      "slug": "road-to-housing-act",
-      "title": "New Housing Act Becomes Law",
-      "caption": "The 21st Century ROAD to Housing Act is now law! This legislation aims to cut red tape and make homeownership more attainable. Discover how this could benefit you. #HousingLegislation #HomeownershipDreams #SafeTrustMortgage",
-      "hero_tag": "NEW LAW ALERT",
-      "hero_stat": "",
-      "hero_heading": "Less Red Tape for Homeownership",
-      "hero_sub": "The 21st Century ROAD to Housing Act is designed to streamline processes and open up new avenues for buying a home.",
-      "problem_tag": "THE CHALLENGE",
-      "problem_heading": "Navigating the Housing Maze",
-      "problem_sub": "Complex regulations and limited housing options have historically made homeownership a difficult goal for many.",
-      "problem_label": "Common Hurdles:",
-      "problem_pills": [
-        "OVERLY COMPLEX RULES",
-        "HIGH ENTRY BARRIERS",
-        "LIMITED AFFORDABLE OPTIONS"
-      ],
-      "solution_tag": "THE SOLUTION",
-      "solution_heading": "Unlocking New Possibilities",
-      "solution_sub": "This new legislation aims to simplify the path to homeownership by reducing regulatory burdens and fostering innovation in housing.",
-      "quote_label": "Key Takeaway:",
-      "quote": "The ROAD to Housing Act clears obstacles, making homeownership more attainable and diverse.",
-      "features_tag": "HOW IT HELPS",
-      "features_heading": "Benefits of the New Law",
-      "features": [
-        {
-          "label": "Reduced Bureaucracy",
-          "desc": "Expect a more streamlined process in various aspects of home buying and development."
-        },
-        {
-          "label": "Increased Attainability",
-          "desc": "The goal is to make homeownership a more realistic option for a wider range of buyers."
-        },
-        {
-          "label": "Innovative Housing",
-          "desc": "New designs for manufactured homes could lead to more affordable and diverse housing choices."
-        },
-        {
-          "label": "Lower Financing Paths",
-          "desc": "Potential for new, more cost-effective financing options for certain housing types."
-        }
-      ],
-      "details_tag": "WHAT IT MEANS",
-      "details_heading": "A Broader Horizon for Buyers",
-      "details_sub": "This act broadens the scope of what's possible in the housing market, offering more paths to secure your dream home.",
-      "details_pills": [
-        "ACCESSIBLE HOMES",
-        "HOUSING INNOVATION",
-        "SIMPLIFIED PROCESS",
-        "DIVERSE OPTIONS"
-      ],
-      "howto_tag": "YOUR PATH FORWARD",
-      "howto_heading": "Explore Emerging Opportunities",
+      "howto_heading": "Secure Your Rate Today",
       "steps": [
         {
           "title": "Stay Informed",
-          "desc": "Keep up with how these new regulations are implemented and impact local markets."
-        },
-        {
-          "title": "Consider All Options",
-          "desc": "Be open to exploring different housing types, including manufactured homes, which may see new benefits."
-        },
-        {
-          "title": "Review Your Eligibility",
-          "desc": "Understand how new policies might affect your mortgage eligibility and options."
-        },
-        {
-          "title": "Consult a Mortgage Expert",
-          "desc": "Talk to SafeTrust Mortgage to understand the latest financing opportunities and how the act may apply to you."
-        }
-      ],
-      "cta_tag": "MAKE IT YOURS",
-      "cta_heading": "Ready to Find Your Home?",
-      "cta_sub": "New laws are paving the way for easier homeownership. Let SafeTrust Mortgage guide you.",
-      "cta_button": "TALK TO AN EXPERT"
-    },
-    {
-      "slug": "existing-home-sales-june",
-      "title": "Existing-Home Sales in June",
-      "caption": "Existing-home sales eased slightly in June but remain above last year's levels. What does this 'sideways trend' mean for you as a buyer or seller? Let's break it down. #HousingMarketUpdate #HomeSales #SafeTrustMortgage",
-      "hero_tag": "MARKET INSIGHTS",
-      "hero_stat": "4.09M",
-      "hero_heading": "Home Sales Find a New Rhythm",
-      "hero_sub": "Existing-home sales experienced a slight dip in June, settling into a more consistent trend.",
-      "problem_tag": "MARKET MYTHS",
-      "problem_heading": "The Volatility Expectation",
-      "problem_sub": "Many expect dramatic swings in the housing market, leading to uncertainty and hesitation.",
-      "problem_label": "Outdated Beliefs:",
-      "problem_pills": [
-        "CONSTANT SWINGS",
-        "UNPREDICTABLE MARKET",
-        "WAITING FOR CRASH"
-      ],
-      "solution_tag": "CURRENT REALITY",
-      "solution_heading": "A Stabilizing Market Trend",
-      "solution_sub": "Existing-home sales are showing a sideways trend, meaning less dramatic fluctuations and more predictability for buyers and sellers.",
-      "quote_label": "Key Takeaway:",
-      "quote": "The market is less volatile, offering a more stable environment for your housing decisions.",
-      "features_tag": "FOR YOUR BENEFIT",
-      "features_heading": "What a Sideways Trend Offers",
-      "features": [
-        {
-          "label": "Consistent Activity",
-          "desc": "Despite a slight dip, sales remain 2.8% above last year, indicating sustained demand."
-        },
-        {
-          "label": "Mortgage Rate Influence",
-          "desc": "Modest changes in rates are influencing buyer activity, highlighting the importance of current rates."
-        },
-        {
-          "label": "Time to Plan",
-          "desc": "A less volatile market allows for more thoughtful and less rushed decisions on buying or selling."
-        },
-        {
-          "label": "Informed Decisions",
-          "desc": "Steady trends provide clearer data for assessing property values and future market direction."
-        }
-      ],
-      "details_tag": "WHY IT MATTERS",
-      "details_heading": "Navigate with Confidence",
-      "details_sub": "A 'back-and-forth' market suggests opportunities for strategic buyers who are prepared and informed.",
-      "details_pills": [
-        "STRATEGIC BUYING",
-        "MARKET STABILITY",
-        "PLANNING AHEAD",
-        "INFORMED CHOICES"
-      ],
-      "howto_tag": "YOUR NEXT STEPS",
-      "howto_heading": "Leverage Current Conditions",
-      "steps": [
-        {
-          "title": "Watch Mortgage Rates",
-          "desc": "Stay updated on rate changes as they are a key factor influencing buyer activity."
+          "desc": "Follow reliable housing market news and updates."
         },
         {
           "title": "Get Pre-Approved",
-          "desc": "A pre-approval locks in your rate and shows sellers you are a serious buyer in this market."
+          "desc": "Lock in a rate and strengthen your offer in a competitive market."
         },
         {
-          "title": "Assess Your Goals",
-          "desc": "Determine if current conditions align with your personal homeownership or selling objectives."
+          "title": "Consult an Expert",
+          "desc": "Speak with a SafeTrust advisor to understand current market conditions."
         },
         {
-          "title": "Connect with an Expert",
-          "desc": "A SafeTrust Mortgage professional can help you understand the nuances of the current market."
+          "title": "Explore Options",
+          "desc": "Discuss different loan products that align with your financial goals."
+        },
+        {
+          "title": "Review Current Rates",
+          "desc": "Check today's mortgage rates directly with SafeTrust Mortgage."
         }
       ],
       "cta_tag": "LET'S TALK RATES",
-      "cta_heading": "Ready to Act on Today's Market?",
-      "cta_sub": "The market is in a steady rhythm. Let's find your perfect beat.",
-      "cta_button": "GET YOUR RATE TODAY"
+      "cta_heading": "Ready to Make Your Move?",
+      "cta_sub": "Don't let market shifts deter your homeownership dreams. Our team is here to guide you.",
+      "cta_button": "GET TODAY'S RATE"
+    },
+    {
+      "slug": "new-housing-law-affordability",
+      "title": "New Housing Law: What it Means for You",
+      "caption": "A new housing law aims to tackle affordability. Discover what this means for homebuyers and sellers, and when you can expect to see changes. #HousingLaw #Affordability #Homebuyers",
+      "hero_tag": "LEGISLATION IMPACT",
+      "hero_stat": "",
+      "hero_heading": "New Housing Law Targets Affordability",
+      "hero_sub": "Explore how the latest housing legislation could shape your home buying or selling journey.",
+      "problem_tag": "THE CHALLENGE",
+      "problem_heading": "Affordability Remains a Hurdle",
+      "problem_sub": "Many prospective homeowners face significant challenges with housing affordability, making it difficult to enter the market.",
+      "problem_label": "Outdated Beliefs:",
+      "problem_pills": [
+        "ONLY HIGH INCOMES QUALIFY",
+        "NO HELP IS AVAILABLE",
+        "PRICES NEVER GO DOWN"
+      ],
+      "solution_tag": "THE SOLUTION",
+      "solution_heading": "A Long-Term Approach to Affordability",
+      "solution_sub": "New legislation aims to address affordability, though experts indicate that its benefits will unfold over time, requiring patience and strategic planning.",
+      "quote_label": "Expert Takeaway:",
+      "quote": "While the legislation targets affordability, its full impact on the market will be a gradual process.",
+      "features_tag": "KEY ASPECTS",
+      "features_heading": "Understanding the New Act",
+      "features": [
+        {
+          "label": "Long-Term Goals",
+          "desc": "The law is designed to create more sustainable affordability over an extended period."
+        },
+        {
+          "label": "Future Market Benefits",
+          "desc": "Improvements like increased inventory and eased pricing are expected to emerge gradually."
+        },
+        {
+          "label": "Governmental Support",
+          "desc": "The legislation signifies a concerted effort by policymakers to address housing market challenges."
+        },
+        {
+          "label": "Consumer Awareness",
+          "desc": "Understanding the law helps homebuyers and sellers anticipate future market conditions."
+        }
+      ],
+      "details_tag": "WHY IT MATTERS",
+      "details_heading": "Impact on Your Home Journey",
+      "details_sub": "While immediate changes may not be visible, this law sets the stage for future positive developments in the housing market.",
+      "details_pills": [
+        "GRADUAL IMPROVEMENT",
+        "FUTURE PROSPECTS",
+        "STRENGTHENS MARKET"
+      ],
+      "howto_tag": "YOUR NEXT STEPS",
+      "howto_heading": "Position Yourself for Success",
+      "steps": [
+        {
+          "title": "Stay Informed",
+          "desc": "Monitor news from reliable sources about the implementation and effects of the new housing law."
+        },
+        {
+          "title": "Plan Ahead",
+          "desc": "Consider long-term financial planning in anticipation of future market benefits."
+        },
+        {
+          "title": "Consult a Professional",
+          "desc": "Discuss how the evolving market might affect your mortgage options with SafeTrust Mortgage."
+        },
+        {
+          "title": "Get Pre-Approved",
+          "desc": "Be ready to act when market conditions align with your homeownership goals."
+        }
+      ],
+      "cta_tag": "YOUR NEXT MOVE",
+      "cta_heading": "Ready for Future Opportunities?",
+      "cta_sub": "SafeTrust Mortgage is here to help you understand market changes and make informed decisions.",
+      "cta_button": "TALK TO AN EXPERT"
     }
   ]
 }
