@@ -217,25 +217,25 @@ def swipe_arrow(is_light):
             f'<path d="M9 6l6 6-6 6" stroke="{stroke}" stroke-width="2.5" '
             f'stroke-linecap="round" stroke-linejoin="round"/></svg></div>')
 
-def eho_badge(is_light, source=""):
-    """Equal Housing Lender badge (bottom-right, above the progress bar) with an
-    optional "Source: <outlet>" line to its left."""
-    if not BADGE_URI and not source.strip():
+def eho_badge(is_light):
+    """Equal Housing Lender badge, bottom-right above the progress bar."""
+    if not BADGE_URI:
         return ""
     # Badge art is dark after background removal: darken on light slides, invert to white on dark.
     filt = "filter:brightness(0);" if is_light else "filter:brightness(0) invert(1);"
-    src_color = "rgba(0,0,0,0.42)" if is_light else "rgba(255,255,255,0.55)"
-    source = source.strip()
-    src_html = (
-        f'<span class="sans" style="font-size:10px;font-weight:500;color:{src_color};'
-        f'letter-spacing:0.3px;white-space:nowrap;">Source: {html.escape(source)}</span>'
-    ) if source else ""
-    badge_html = (
-        f'<img src="{BADGE_URI}" alt="Equal Housing Lender" '
-        f'style="width:48px;height:auto;opacity:0.9;{filt}">'
-    ) if BADGE_URI else ""
-    return (f'<div style="position:absolute;right:30px;bottom:56px;z-index:8;'
-            f'display:flex;align-items:center;gap:9px;">{src_html}{badge_html}</div>')
+    return (f'<img src="{BADGE_URI}" alt="Equal Housing Lender" '
+            f'style="position:absolute;right:30px;bottom:56px;width:48px;height:auto;'
+            f'z-index:8;opacity:0.9;{filt}">')
+
+
+def source_line(source, on_light=False):
+    """"Source: <outlet>" shown under the @handle on the final slide."""
+    source = (source or "").strip()
+    if not source:
+        return ""
+    color = SUBTLE if on_light else "rgba(255,255,255,0.5)"
+    return (f'<p class="sans" style="font-size:11px;color:{color};margin-top:6px;'
+            f'letter-spacing:0.3px;">Source: {html.escape(source)}</p>')
 
 def render_slide(slide, index, total):
     bg = slide["bg"]
@@ -248,7 +248,7 @@ def render_slide(slide, index, total):
         bgcss = f"background:{GRAD};"
     last = index == total - 1
     arrow = "" if last else swipe_arrow(is_light)
-    badge = eho_badge(is_light, slide.get("source", "")) if last else ""
+    badge = eho_badge(is_light) if last else ""
     justify = slide.get("justify", "flex-end")
     return (f'<div class="slide" style="{bgcss}">{arrow}{badge}'
             f'<div class="slide-content" style="justify-content:{justify};">{slide["content"]}</div>'
@@ -360,7 +360,8 @@ def render_carousel_slides(c):
 
     # 7 — CTA (brand gradient, centered) — no arrow, full progress bar
     cta = (logo_lockup(False) + tag(e(c["cta_tag"]), "gradient") + h_dark(e(c["cta_heading"]), 30)
-           + p_dark(e(c["cta_sub"])) + cta_button(e(c["cta_button"])) + handle_line())
+           + p_dark(e(c["cta_sub"])) + cta_button(e(c["cta_button"])) + handle_line()
+           + source_line(c.get("source", "")))
 
     return [
         {"bg": "light",    "justify": "center", "content": hero},

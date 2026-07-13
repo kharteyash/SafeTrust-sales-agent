@@ -77,7 +77,8 @@
       "cta_tag": "LET'S TALK RATES",
       "cta_heading": "Ready to Make Your Move?",
       "cta_sub": "Don't let market shifts deter your homeownership dreams. Our team is here to guide you.",
-      "cta_button": "GET TODAY'S RATE"
+      "cta_button": "GET TODAY'S RATE",
+      "source": "Mortgage News Daily"
     },
     {
       "slug": "new-housing-law-affordability",
@@ -152,7 +153,8 @@
       "cta_tag": "YOUR NEXT MOVE",
       "cta_heading": "Ready for Future Opportunities?",
       "cta_sub": "SafeTrust Mortgage is here to help you understand market changes and make informed decisions.",
-      "cta_button": "TALK TO AN EXPERT"
+      "cta_button": "TALK TO AN EXPERT",
+      "source": "Inman"
     }
   ]
 }
