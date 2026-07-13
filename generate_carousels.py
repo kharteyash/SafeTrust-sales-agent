@@ -76,6 +76,10 @@ def _find_logo(candidates):
             return _embed(p)
     return None
 
+# Primary publication logo — "Mortgage Intelligence Daily" (the daily is a SafeTrust dept).
+MID_URI = _find_logo(["Mortgage Intelligence Daily.png", "mortgage-intelligence-daily.png",
+                      "mortgage_intelligence_daily.png", "mid.png"])
+# SafeTrust Mortgage house logo — kept as-is, used as the "by …" attribution.
 LOGO_URI = _find_logo(["logo.png", "logo.jpg", "logo.jpeg", "logo.svg"])
 LOGO_WHITE_URI = _find_logo(["logo-white.png", "logo-white.svg", "logo_white.png"])
 # Equal Housing Opportunity badge (white) — shown bottom-right on the final slide.
@@ -96,27 +100,40 @@ def _nmls_line(on_light):
 
 
 def logo_lockup(on_light):
+    """Masthead: 'Mortgage Intelligence Daily' as the main logo, with a small
+    'by [SafeTrust Mortgage]' attribution and the NMLS line beneath it."""
+    # --- Main publication logo: Mortgage Intelligence Daily (black wordmark) ---
+    if MID_URI:
+        mid_filt = "" if on_light else "filter:brightness(0) invert(1);"
+        masthead = (f'<img src="{MID_URI}" alt="Mortgage Intelligence Daily" '
+                    f'style="height:56px;width:auto;max-width:300px;display:block;'
+                    f'margin:0 auto;{mid_filt}">')
+    else:
+        namecolor = DARK if on_light else "#fff"
+        masthead = (f'<div class="serif" style="font-size:21px;font-weight:700;color:{namecolor};'
+                    f'letter-spacing:0.3px;line-height:1.1;">Mortgage<br>Intelligence Daily</div>')
+
+    # --- "by SafeTrust Mortgage" — keep the real SafeTrust logo, full colour on light ---
+    by_color = LOGO_GRAY if on_light else "rgba(255,255,255,0.6)"
     if LOGO_URI:
         if on_light:
-            src, filt = LOGO_URI, ""
+            st_src, st_filt = LOGO_URI, ""
         elif LOGO_WHITE_URI:
-            src, filt = LOGO_WHITE_URI, ""
-        else:  # no dedicated white asset — knock the color logo out to white
-            src, filt = LOGO_URI, "filter:brightness(0) invert(1);"
-        return (f'<div style="margin-bottom:24px;width:fit-content;text-align:center;">'
-                f'<img src="{src}" alt="SafeTrust Mortgage" '
-                f'style="height:42px;width:auto;max-width:230px;display:block;{filt}">'
-                f'{_nmls_line(on_light)}</div>')
-    # Fallback lockup when no logo file is present in assets/
-    namecolor = DARK if on_light else "#fff"
-    return (f'<div style="margin-bottom:22px;width:fit-content;text-align:center;">'
-            f'<div style="display:flex;align-items:center;gap:12px;">'
-            f'<div style="width:40px;height:40px;border-radius:50%;background:{B};display:flex;'
-            f'align-items:center;justify-content:center;flex-shrink:0;">'
-            f'<span class="serif" style="color:#fff;font-size:19px;font-weight:700;">S</span></div>'
-            f'<span class="sans" style="font-size:13px;font-weight:600;letter-spacing:0.5px;'
-            f'color:{namecolor};">SafeTrust Mortgage</span></div>'
-            f'{_nmls_line(on_light)}</div>')
+            st_src, st_filt = LOGO_WHITE_URI, ""
+        else:
+            st_src, st_filt = LOGO_URI, "filter:brightness(0) invert(1);"
+        by_mark = (f'<img src="{st_src}" alt="SafeTrust Mortgage" '
+                   f'style="height:17px;width:auto;max-width:130px;display:block;margin:4px auto 0;{st_filt}">')
+    else:
+        stcolor = DARK if on_light else "#fff"
+        by_mark = (f'<div class="sans" style="font-size:13px;font-weight:600;letter-spacing:0.5px;'
+                   f'color:{stcolor};margin-top:4px;">SafeTrust Mortgage</div>')
+    by_block = (f'<div style="margin-top:9px;">'
+                f'<span class="sans" style="font-size:9px;color:{by_color};letter-spacing:1.5px;'
+                f'text-transform:uppercase;">by</span>{by_mark}</div>')
+
+    return (f'<div style="margin-bottom:24px;width:fit-content;text-align:center;">'
+            f'{masthead}{by_block}{_nmls_line(on_light)}</div>')
 
 def h_light(text, size=29):
     return (f'<h2 class="serif" style="font-size:{size}px;font-weight:700;color:{DARK};'
@@ -296,7 +313,7 @@ body{background:#E9ECF1;display:flex;align-items:center;justify-content:center;m
     frame = f"""<div class="ig-frame">
   <div class="ig-header">
     <div class="ig-avatar">S</div>
-    <div><div class="ig-handle">{HANDLE}</div><div class="ig-sub">SafeTrust Mortgage</div></div>
+    <div><div class="ig-handle">{HANDLE}</div><div class="ig-sub">Mortgage Intelligence Daily · by SafeTrust Mortgage</div></div>
   </div>
   <div class="carousel-viewport"><div class="carousel-track">{slides_html}</div></div>
   <div class="ig-dots">{dots_html}</div>
