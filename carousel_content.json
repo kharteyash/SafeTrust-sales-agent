@@ -3,7 +3,7 @@
     {
       "slug": "iran-conflict-mortgage-rates",
       "title": "Mortgage Rates & Housing Demand",
-      "caption": "Geopolitical events can influence mortgage rates, but home buyer demand remains strong. Learn how to navigate the market with SafeTrust Mortgage. #SafeTrustMortgage #MortgageRates #HousingMarket",
+      "caption": "Geopolitical events can influence mortgage rates, but home buyer demand remains strong. Learn how to navigate the market with SafeTrust Mortgage.\n\nRead the full story: https://tinyurl.com/2qlwxrt7\n\n#SafeTrustMortgage #MortgageRates #HousingMarket #MortgageIntelligenceDaily",
       "hero_tag": "MARKET INSIGHTS",
       "hero_stat": "",
       "hero_heading": "Navigating Mortgage Rates Amidst Global Events",
@@ -78,12 +78,13 @@
       "cta_heading": "Ready to Make Your Move?",
       "cta_sub": "Don't let market shifts deter your homeownership dreams. Our team is here to guide you.",
       "cta_button": "GET TODAY'S RATE",
-      "source": "Mortgage News Daily"
+      "source": "Mortgage News Daily",
+      "source_url": "https://www.mortgagenewsdaily.com/markets/mortgage-rates"
     },
     {
       "slug": "new-housing-law-affordability",
       "title": "New Housing Law: What it Means for You",
-      "caption": "A new housing law aims to tackle affordability. Discover what this means for homebuyers and sellers, and when you can expect to see changes. #HousingLaw #Affordability #Homebuyers",
+      "caption": "A new housing law aims to tackle affordability. Discover what this means for homebuyers and sellers, and when you can expect to see changes.\n\nRead the full story: https://tinyurl.com/28rcqtra\n\n#HousingLaw #Affordability #Homebuyers #MortgageIntelligenceDaily",
       "hero_tag": "LEGISLATION IMPACT",
       "hero_stat": "",
       "hero_heading": "New Housing Law Targets Affordability",
@@ -154,7 +155,8 @@
       "cta_heading": "Ready for Future Opportunities?",
       "cta_sub": "SafeTrust Mortgage is here to help you understand market changes and make informed decisions.",
       "cta_button": "TALK TO AN EXPERT",
-      "source": "Inman"
+      "source": "Inman",
+      "source_url": "https://www.inman.com/2026/07/13/new-housing-law-explained/"
     }
   ]
 }

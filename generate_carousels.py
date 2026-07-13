@@ -19,12 +19,15 @@ except Exception:
     _TODAY = datetime.now()
 
 
-def _ordinal(n):
-    suffix = "th" if 10 <= n % 100 <= 20 else {1: "st", 2: "nd", 3: "rd"}.get(n % 10, "th")
-    return f"{n}{suffix}"
+def _ordinal_suffix(n):
+    # Handles st/nd/rd/th, including the 11th/12th/13th exceptions.
+    return "th" if 10 <= n % 100 <= 20 else {1: "st", 2: "nd", 3: "rd"}.get(n % 10, "th")
 
 
-DATE_STR = f"{_ordinal(_TODAY.day)} {_TODAY.strftime('%B %Y')}"
+# e.g. July 13<sup>th</sup> 2026 — the ordinal suffix is superscripted.
+DATE_HTML = (f'{_TODAY.strftime("%B")} {_TODAY.day}'
+             f'<sup style="font-size:0.6em;letter-spacing:0;">{_ordinal_suffix(_TODAY.day)}</sup>'
+             f' {_TODAY.year}')
 
 # ---------------------------------------------------------------- brand tokens
 B           = "#1E3A5F"   # BRAND_PRIMARY  (navy)
@@ -40,6 +43,8 @@ HANDLE      = "safetrust_mortgage"
 NMLS_NUMBER = "2178036"
 LOGO_BLUE   = "#1E56A4"   # sampled from the logo wordmark
 LOGO_GRAY   = "#818285"   # sampled from the logo subtitle
+MID_H       = 34          # Mortgage Intelligence Daily logo height (now trimmed tight to its text)
+ST_H        = 30          # SafeTrust logo height
 ASSETS      = Path(__file__).parent / "assets"
 
 # ---------------------------------------------------------------- brand logo
@@ -51,9 +56,11 @@ def _process_raster(raw):
     except Exception:
         return None
     im = Image.open(io.BytesIO(raw)).convert("RGBA")
-    if im.getchannel("A").getextrema()[0] < 250:
-        # Already has a transparent background — just trim to the visible artwork.
-        bbox = im.getchannel("A").getbbox()
+    a = im.getchannel("A")
+    if a.getextrema()[0] < 250:
+        # Already has a transparent background — trim to the substantial artwork.
+        # Threshold on alpha so faint anti-aliased padding doesn't inflate the crop.
+        bbox = a.point(lambda v: 255 if v >= 40 else 0).getbbox()
         if bbox:
             im = im.crop(bbox)
     else:
@@ -62,7 +69,8 @@ def _process_raster(raw):
         # background comes out cleanly, with anti-aliased edges.
         lum = im.convert("L")
         alpha = lum.point(lambda v: 0 if v > 200 else 255 if v < 120 else int(255 * (200 - v) / 80))
-        bbox = alpha.getbbox()
+        # Trim to real ink (alpha>=40), not faint halo pixels that would leave padding.
+        bbox = alpha.point(lambda v: 255 if v >= 40 else 0).getbbox()
         if bbox:
             im = im.crop(bbox)
             alpha = alpha.crop(bbox)
@@ -115,11 +123,11 @@ def _nmls_line(on_light):
             f'<span style="color:{num};">{NMLS_NUMBER}</span></p>')
 
 
-def logo_lockup(on_light):
-    """Masthead: the SafeTrust Mortgage logo (with NMLS beneath it) on the left,
-    and the 'Mortgage Intelligence Daily' logo (with the run date beneath it) to
-    its right, separated by a thin divider."""
-    # --- SafeTrust Mortgage logo + NMLS (left column, as originally) ---
+def logo_lockup(on_light, show_mid=True):
+    """Masthead: the SafeTrust Mortgage logo (+ NMLS) and the larger Mortgage
+    Intelligence Daily logo (+ run date) side by side, split by a thin divider.
+    When show_mid=False (the final CTA slide) only the SafeTrust logo is shown."""
+    # --- SafeTrust Mortgage logo + NMLS ---
     if LOGO_URI:
         if on_light:
             st_src, st_filt = LOGO_URI, ""
@@ -128,32 +136,37 @@ def logo_lockup(on_light):
         else:
             st_src, st_filt = LOGO_URI, "filter:brightness(0) invert(1);"
         safetrust = (f'<img src="{st_src}" alt="SafeTrust Mortgage" '
-                     f'style="height:40px;width:auto;max-width:190px;display:block;margin:0 auto;{st_filt}">')
+                     f'style="height:{ST_H}px;width:auto;max-width:150px;display:block;margin:0 auto;{st_filt}">')
     else:
         stcolor = DARK if on_light else "#fff"
         safetrust = (f'<div class="sans" style="font-size:14px;font-weight:600;letter-spacing:0.5px;'
                      f'color:{stcolor};">SafeTrust Mortgage</div>')
     left = f'<div style="text-align:center;">{safetrust}{_nmls_line(on_light)}</div>'
 
-    # --- Mortgage Intelligence Daily logo + date (right column) ---
+    # Final slide: SafeTrust logo only (no MID masthead).
+    if not show_mid:
+        return (f'<div style="margin-bottom:22px;width:100%;text-align:center;'
+                f'transform:translateY(-18px);">{left}</div>')
+
+    # --- Mortgage Intelligence Daily logo + date ---
     if MID_URI:
         mid_filt = "" if on_light else "filter:brightness(0) invert(1);"
         mid = (f'<img src="{MID_URI}" alt="Mortgage Intelligence Daily" '
-               f'style="height:68px;width:auto;max-width:360px;display:block;margin:0 auto;{mid_filt}">')
+               f'style="height:{MID_H}px;width:auto;max-width:240px;display:block;margin:0 auto;{mid_filt}">')
     else:
         midcolor = DARK if on_light else "#fff"
         mid = (f'<div class="serif" style="font-size:15px;font-weight:700;color:{midcolor};'
                f'line-height:1.1;">Mortgage<br>Intelligence Daily</div>')
-    date_color = SUBTLE if on_light else "rgba(255,255,255,0.6)"
+    date_color = "#000" if on_light else "rgba(255,255,255,0.7)"
+    # Date sits just below the MID logo text (the PNG is trimmed tight to the text).
     date_html = (f'<p class="sans" style="font-size:11px;font-weight:500;color:{date_color};'
-                 f'letter-spacing:1px;margin-top:7px;">{html.escape(DATE_STR)}</p>')
+                 f'letter-spacing:1px;margin-top:5px;">{DATE_HTML}</p>')
     right = f'<div style="text-align:center;">{mid}{date_html}</div>'
 
-    divcolor = "rgba(0,0,0,0.12)" if on_light else "rgba(255,255,255,0.22)"
-    divider = f'<div style="width:1px;align-self:stretch;background:{divcolor};margin:2px 0;"></div>'
-
-    return (f'<div style="margin-bottom:24px;width:fit-content;">'
-            f'<div style="display:flex;align-items:center;justify-content:center;gap:18px;">'
+    divcolor = "rgba(0,0,0,0.22)" if on_light else "rgba(255,255,255,0.35)"
+    divider = f'<div style="width:1px;height:46px;background:{divcolor};align-self:center;flex-shrink:0;"></div>'
+    return (f'<div style="margin-bottom:22px;width:100%;transform:translateY(-18px);">'
+            f'<div style="display:flex;align-items:center;justify-content:center;gap:16px;">'
             f'{left}{divider}{right}</div></div>')
 
 def h_light(text, size=29):
@@ -397,7 +410,7 @@ def render_carousel_slides(c):
     how += stack([step_row(f"{i + 1:02d}", e(s["title"]), e(s["desc"]), last=(i == len(st) - 1)) for i, s in enumerate(st)])
 
     # 7 — CTA (brand gradient, centered) — no arrow, full progress bar
-    cta = (logo_lockup(False) + tag(e(c["cta_tag"]), "gradient") + h_dark(e(c["cta_heading"]), 30)
+    cta = (logo_lockup(False, show_mid=False) + tag(e(c["cta_tag"]), "gradient") + h_dark(e(c["cta_heading"]), 30)
            + p_dark(e(c["cta_sub"])) + cta_button(e(c["cta_button"])) + handle_line()
            + source_line(c.get("source", "")))
 

@@ -12,6 +12,8 @@ import json
 import os
 import re
 import sys
+import urllib.parse
+import urllib.request
 from pathlib import Path
 from typing import List
 
@@ -41,6 +43,7 @@ class Carousel(BaseModel):
     title: str                # internal title (not shown on slides)
     caption: str              # Instagram caption; may end with a single emoji
     source: str               # news outlet the story came from, e.g. "HousingWire", "CNBC", "Inman"
+    source_url: str           # exact link of the article this carousel is based on (the `link:` value)
     # Slide 1 — Hero (light)
     hero_tag: str             # short uppercase category label
     hero_stat: str            # a big number like "74%" ONLY if the story leads with one, else ""
@@ -108,7 +111,8 @@ at the end of each caption.
 Set `source` to the name of the news outlet the chosen story came from — a clean, \
 human-readable publication name derived from the article's link/domain (e.g. \
 "HousingWire", "CNBC", "Inman", "Redfin", "Mortgage News Daily", "The Truth About \
-Mortgage"), never a raw URL.
+Mortgage"), never a raw URL. Set `source_url` to the EXACT article link (the `link:` \
+value shown for that story) that this carousel is based on.
 
 Grounding: base every carousel on the actual reporting provided. Use the real figures \
 that appear in the summaries (rates, percentages, dates) when relevant. NEVER invent \
@@ -123,6 +127,39 @@ The CTA tag must be a theme (e.g. "LET'S TALK RATES", "YOUR NEXT MOVE", "MAKE IT
 def clean(text):
     text = re.sub(r"<[^>]+>", "", text or "")
     return re.sub(r"\s+", " ", text).strip()
+
+
+def shorten_url(url):
+    """Shorten a URL with TinyURL's free, tokenless endpoint (no account, no
+    monthly cap). is.gd was tried first but returns 'database insert failed' on
+    many real news domains, so TinyURL is the reliable free choice. Any failure
+    falls back to the original long URL."""
+    url = (url or "").strip()
+    if not url:
+        return url
+    try:
+        api = "https://tinyurl.com/api-create.php?url=" + urllib.parse.quote(url, safe="")
+        req = urllib.request.Request(api, headers={"User-Agent": "Mozilla/5.0 (MortgageIntelligenceDaily bot)"})
+        with urllib.request.urlopen(req, timeout=10) as resp:
+            short = resp.read().decode("utf-8").strip()
+        if short.startswith("http"):
+            return short
+        print(f"TinyURL returned {short!r}; using the full URL.")
+        return url
+    except Exception as exc:  # noqa: BLE001 — never let link-shortening break the run
+        print(f"TinyURL shorten failed ({exc}); using the full URL.")
+        return url
+
+
+def _split_trailing_hashtags(caption):
+    """Split a caption into (body, [hashtags]) by peeling off the trailing run
+    of hashtags, so they can be regrouped in one block."""
+    caption = (caption or "").strip()
+    m = re.search(r"((?:#\w+\s*)+)$", caption)
+    if not m:
+        return caption, []
+    tags = re.findall(r"#\w+", m.group(1))
+    return caption[:m.start()].rstrip(), tags
 
 
 def main():
@@ -167,6 +204,21 @@ def main():
     result = response.parsed
     if result is None:
         result = Output.model_validate_json(response.text)
+
+    # Rebuild each caption as: body, then the article link, then ALL hashtags in
+    # one grouped block (the model's own tags + the brand hashtag).
+    BRAND_TAG = "#MortgageIntelligenceDaily"
+    for c in result.carousels:
+        body, tags = _split_trailing_hashtags(c.caption)
+        if BRAND_TAG not in tags:
+            tags.append(BRAND_TAG)
+        link = shorten_url(c.source_url)
+        parts = [body]
+        if link:
+            parts.append(f"Read the full story: {link}")
+        if tags:
+            parts.append(" ".join(tags))
+        c.caption = "\n\n".join(p for p in parts if p.strip())
 
     OUT.write_text(json.dumps(result.model_dump(), indent=2), encoding="utf-8")
     print(f"Wrote {OUT.name}: {len(result.carousels)} carousels")
