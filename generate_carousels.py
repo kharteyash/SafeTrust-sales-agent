@@ -139,7 +139,7 @@ def logo_lockup(on_light):
     if MID_URI:
         mid_filt = "" if on_light else "filter:brightness(0) invert(1);"
         mid = (f'<img src="{MID_URI}" alt="Mortgage Intelligence Daily" '
-               f'style="height:34px;width:auto;max-width:180px;display:block;margin:0 auto;{mid_filt}">')
+               f'style="height:68px;width:auto;max-width:360px;display:block;margin:0 auto;{mid_filt}">')
     else:
         midcolor = DARK if on_light else "#fff"
         mid = (f'<div class="serif" style="font-size:15px;font-weight:700;color:{midcolor};'
