@@ -8,7 +8,23 @@ import base64
 import html
 import io
 import json
+from datetime import datetime
 from pathlib import Path
+
+# Run date, e.g. "13th July 2024" (Eastern — matches the daily 6am ET run).
+try:
+    from zoneinfo import ZoneInfo
+    _TODAY = datetime.now(ZoneInfo("America/New_York"))
+except Exception:
+    _TODAY = datetime.now()
+
+
+def _ordinal(n):
+    suffix = "th" if 10 <= n % 100 <= 20 else {1: "st", 2: "nd", 3: "rd"}.get(n % 10, "th")
+    return f"{n}{suffix}"
+
+
+DATE_STR = f"{_ordinal(_TODAY.day)} {_TODAY.strftime('%B %Y')}"
 
 # ---------------------------------------------------------------- brand tokens
 B           = "#1E3A5F"   # BRAND_PRIMARY  (navy)
@@ -100,21 +116,10 @@ def _nmls_line(on_light):
 
 
 def logo_lockup(on_light):
-    """Masthead: 'Mortgage Intelligence Daily' as the main logo, with a small
-    'by [SafeTrust Mortgage]' attribution and the NMLS line beneath it."""
-    # --- Main publication logo: Mortgage Intelligence Daily (black wordmark) ---
-    if MID_URI:
-        mid_filt = "" if on_light else "filter:brightness(0) invert(1);"
-        masthead = (f'<img src="{MID_URI}" alt="Mortgage Intelligence Daily" '
-                    f'style="height:56px;width:auto;max-width:300px;display:block;'
-                    f'margin:0 auto;{mid_filt}">')
-    else:
-        namecolor = DARK if on_light else "#fff"
-        masthead = (f'<div class="serif" style="font-size:21px;font-weight:700;color:{namecolor};'
-                    f'letter-spacing:0.3px;line-height:1.1;">Mortgage<br>Intelligence Daily</div>')
-
-    # --- "by SafeTrust Mortgage" — keep the real SafeTrust logo, full colour on light ---
-    by_color = LOGO_GRAY if on_light else "rgba(255,255,255,0.6)"
+    """Masthead: the SafeTrust Mortgage logo (with NMLS beneath it) on the left,
+    and the 'Mortgage Intelligence Daily' logo (with the run date beneath it) to
+    its right, separated by a thin divider."""
+    # --- SafeTrust Mortgage logo + NMLS (left column, as originally) ---
     if LOGO_URI:
         if on_light:
             st_src, st_filt = LOGO_URI, ""
@@ -122,18 +127,34 @@ def logo_lockup(on_light):
             st_src, st_filt = LOGO_WHITE_URI, ""
         else:
             st_src, st_filt = LOGO_URI, "filter:brightness(0) invert(1);"
-        by_mark = (f'<img src="{st_src}" alt="SafeTrust Mortgage" '
-                   f'style="height:17px;width:auto;max-width:130px;display:block;margin:4px auto 0;{st_filt}">')
+        safetrust = (f'<img src="{st_src}" alt="SafeTrust Mortgage" '
+                     f'style="height:40px;width:auto;max-width:190px;display:block;margin:0 auto;{st_filt}">')
     else:
         stcolor = DARK if on_light else "#fff"
-        by_mark = (f'<div class="sans" style="font-size:13px;font-weight:600;letter-spacing:0.5px;'
-                   f'color:{stcolor};margin-top:4px;">SafeTrust Mortgage</div>')
-    by_block = (f'<div style="margin-top:9px;">'
-                f'<span class="sans" style="font-size:9px;color:{by_color};letter-spacing:1.5px;'
-                f'text-transform:uppercase;">by</span>{by_mark}</div>')
+        safetrust = (f'<div class="sans" style="font-size:14px;font-weight:600;letter-spacing:0.5px;'
+                     f'color:{stcolor};">SafeTrust Mortgage</div>')
+    left = f'<div style="text-align:center;">{safetrust}{_nmls_line(on_light)}</div>'
 
-    return (f'<div style="margin-bottom:24px;width:fit-content;text-align:center;">'
-            f'{masthead}{by_block}{_nmls_line(on_light)}</div>')
+    # --- Mortgage Intelligence Daily logo + date (right column) ---
+    if MID_URI:
+        mid_filt = "" if on_light else "filter:brightness(0) invert(1);"
+        mid = (f'<img src="{MID_URI}" alt="Mortgage Intelligence Daily" '
+               f'style="height:34px;width:auto;max-width:180px;display:block;margin:0 auto;{mid_filt}">')
+    else:
+        midcolor = DARK if on_light else "#fff"
+        mid = (f'<div class="serif" style="font-size:15px;font-weight:700;color:{midcolor};'
+               f'line-height:1.1;">Mortgage<br>Intelligence Daily</div>')
+    date_color = SUBTLE if on_light else "rgba(255,255,255,0.6)"
+    date_html = (f'<p class="sans" style="font-size:11px;font-weight:500;color:{date_color};'
+                 f'letter-spacing:1px;margin-top:7px;">{html.escape(DATE_STR)}</p>')
+    right = f'<div style="text-align:center;">{mid}{date_html}</div>'
+
+    divcolor = "rgba(0,0,0,0.12)" if on_light else "rgba(255,255,255,0.22)"
+    divider = f'<div style="width:1px;align-self:stretch;background:{divcolor};margin:2px 0;"></div>'
+
+    return (f'<div style="margin-bottom:24px;width:fit-content;">'
+            f'<div style="display:flex;align-items:center;justify-content:center;gap:18px;">'
+            f'{left}{divider}{right}</div></div>')
 
 def h_light(text, size=29):
     return (f'<h2 class="serif" style="font-size:{size}px;font-weight:700;color:{DARK};'
@@ -313,7 +334,7 @@ body{background:#E9ECF1;display:flex;align-items:center;justify-content:center;m
     frame = f"""<div class="ig-frame">
   <div class="ig-header">
     <div class="ig-avatar">S</div>
-    <div><div class="ig-handle">{HANDLE}</div><div class="ig-sub">Mortgage Intelligence Daily · by SafeTrust Mortgage</div></div>
+    <div><div class="ig-handle">{HANDLE}</div><div class="ig-sub">SafeTrust Mortgage</div></div>
   </div>
   <div class="carousel-viewport"><div class="carousel-track">{slides_html}</div></div>
   <div class="ig-dots">{dots_html}</div>
