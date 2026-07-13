@@ -40,6 +40,7 @@ class Carousel(BaseModel):
     slug: str                 # short kebab id for the story, e.g. "rates-rising"
     title: str                # internal title (not shown on slides)
     caption: str              # Instagram caption; may end with a single emoji
+    source: str               # news outlet the story came from, e.g. "HousingWire", "CNBC", "Inman"
     # Slide 1 — Hero (light)
     hero_tag: str             # short uppercase category label
     hero_stat: str            # a big number like "74%" ONLY if the story leads with one, else ""
@@ -103,6 +104,11 @@ Voice: professional, clear, warm, credible — never hypey or clickbait. Tags ar
 and UPPERCASE-style (2-4 words). Headings are punchy and concrete. Body lines are one \
 sentence. Plain text only — no HTML, no markdown, no emoji except a single optional one \
 at the end of each caption.
+
+Set `source` to the name of the news outlet the chosen story came from — a clean, \
+human-readable publication name derived from the article's link/domain (e.g. \
+"HousingWire", "CNBC", "Inman", "Redfin", "Mortgage News Daily", "The Truth About \
+Mortgage"), never a raw URL.
 
 Grounding: base every carousel on the actual reporting provided. Use the real figures \
 that appear in the summaries (rates, percentages, dates) when relevant. NEVER invent \

@@ -9,7 +9,8 @@ FEEDS = [
     "https://www.cnbc.com/id/10000115/device/rss/rss.html",
     "https://www.redfin.com/news/feed/",
     "https://themortgagereports.com/feed",
-    "https://www.mortgagenewsdaily.com/rss/full"
+    "https://www.mortgagenewsdaily.com/rss/full",
+    "https://feeds.feedburner.com/inmannews"
 ]
 
 def fetch_recent_entries(hours=24):
