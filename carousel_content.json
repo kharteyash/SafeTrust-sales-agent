@@ -1,162 +1,90 @@
 {
   "carousels": [
     {
-      "slug": "iran-conflict-mortgage-rates",
-      "title": "Mortgage Rates & Housing Demand",
-      "caption": "Geopolitical events can influence mortgage rates, but home buyer demand remains strong. Learn how to navigate the market with SafeTrust Mortgage.\n\nRead the full story: https://tinyurl.com/2qlwxrt7\n\n#SafeTrustMortgage #MortgageRates #HousingMarket #MortgageIntelligenceDaily",
-      "hero_tag": "MARKET INSIGHTS",
-      "hero_stat": "",
-      "hero_heading": "Navigating Mortgage Rates Amidst Global Events",
-      "hero_sub": "Discover how external factors can impact your home loan and what it means for the housing market.",
-      "problem_tag": "THE CHALLENGE",
-      "problem_heading": "Uncertainty in Mortgage Rates",
-      "problem_sub": "Geopolitical events, like the recent Iran conflict, can lead to unexpected shifts in mortgage rates, creating anxiety for homebuyers.",
-      "problem_label": "Outdated Beliefs:",
-      "problem_pills": [
-        "RATES ARE FIXED",
-        "GLOBAL EVENTS DONT MATTER",
-        "TIMING IS SIMPLE"
-      ],
-      "solution_tag": "THE SOLUTION",
-      "solution_heading": "Understanding Rate Fluctuations",
-      "solution_sub": "Mortgage rates are dynamic, influenced by a variety of global and economic factors. Staying informed and preparing proactively is key.",
-      "quote_label": "Expert Takeaway:",
-      "quote": "While external events can cause rate shifts, understanding market fundamentals helps you plan your home purchase confidently.",
-      "features_tag": "WHAT WE OFFER",
-      "features_heading": "Your Rate Stability Toolkit",
-      "features": [
-        {
-          "label": "Rate Monitoring",
-          "desc": "We keep a close eye on market trends and provide timely updates on rate changes."
-        },
-        {
-          "label": "Personalized Guidance",
-          "desc": "Our advisors help you understand how global events might affect your specific mortgage options."
-        },
-        {
-          "label": "Pre-Approval Power",
-          "desc": "Get pre-approved to lock in a rate for a period, offering stability as you search for a home."
-        },
-        {
-          "label": "Flexible Loan Options",
-          "desc": "Explore various loan types that can offer more predictable payments or adaptability to market changes."
-        }
-      ],
-      "details_tag": "WHY IT MATTERS",
-      "details_heading": "Strong Demand Persists",
-      "details_sub": "Despite rate fluctuations, demand for housing remains positive, indicating a resilient market for buyers.",
-      "details_pills": [
-        "PENDING SALES UP",
-        "INVENTORY IMPROVING",
-        "DEMAND REMAINS STRONG"
-      ],
-      "howto_tag": "YOUR NEXT STEPS",
-      "howto_heading": "Secure Your Rate Today",
-      "steps": [
-        {
-          "title": "Stay Informed",
-          "desc": "Follow reliable housing market news and updates."
-        },
-        {
-          "title": "Get Pre-Approved",
-          "desc": "Lock in a rate and strengthen your offer in a competitive market."
-        },
-        {
-          "title": "Consult an Expert",
-          "desc": "Speak with a SafeTrust advisor to understand current market conditions."
-        },
-        {
-          "title": "Explore Options",
-          "desc": "Discuss different loan products that align with your financial goals."
-        },
-        {
-          "title": "Review Current Rates",
-          "desc": "Check today's mortgage rates directly with SafeTrust Mortgage."
-        }
-      ],
-      "cta_tag": "LET'S TALK RATES",
-      "cta_heading": "Ready to Make Your Move?",
-      "cta_sub": "Don't let market shifts deter your homeownership dreams. Our team is here to guide you.",
-      "cta_button": "GET TODAY'S RATE",
+      "slug": "dscr-overlays-tightening",
+      "title": "Investor DSCR Overlays Are Quietly Tightening",
       "source": "Mortgage News Daily",
-      "source_url": "https://www.mortgagenewsdaily.com/markets/mortgage-rates"
+      "source_url": "https://www.mortgagenewsdaily.com/markets/mortgage-rates",
+      "cover_text": "The rate held. Approvals didn't.",
+      "caption": "Everyone watched the rate. The real story was in the overlays.\n\nThis week's headline said mortgage rates held steady. Fine. But underneath, a few big investors quietly tightened DSCR (rent-covers-the-payment) overlays on investment properties. Same borrower, same file, different answer than 60 days ago. When I sat in underwriting, this is exactly the kind of move that turns a \"pre-approved\" borrower into a declined one at the worst possible moment. If you're an LO, re-pull your investor guidelines before you promise anything. If you're a realtor, ask your lender partner what changed this month, not last quarter. The rate is the story everyone tells. The overlay is the story that actually kills deals.\n\nSource : https://tinyurl.com/2qlwxrt7\n#mortgageindustry #loanofficer #realestateagent #underwriting #realestateinvesting #housingmarket #MortgageIntelligenceDaily",
+      "hashtags": [
+        "#mortgageindustry",
+        "#loanofficer",
+        "#realestateagent",
+        "#underwriting",
+        "#realestateinvesting",
+        "#housingmarket"
+      ],
+      "hook_tag": "Rate vs. Reality",
+      "hook": "The rate held steady. Your investor approvals didn't.",
+      "what_happened_heading": "The headline everyone read",
+      "what_happened": "Mortgage rates held roughly flat this week after last month's moves. But several large investors quietly tightened DSCR overlays on investment-property loans.",
+      "breakdown": [
+        {
+          "heading": "A rate is not an approval",
+          "body": "The market fixates on the rate number. But approval lives in the overlays (extra lender rules on top of agency guidelines) — and those moved this week while the rate didn't."
+        },
+        {
+          "heading": "What actually changed",
+          "body": "Minimum DSCR ratios crept up and reserve requirements got heavier on investment files. Translation: the same rental property now has to prove more before it clears."
+        },
+        {
+          "heading": "The underwriter's lens",
+          "body": "Here's what this changes when a file hits underwriting: a borrower who penciled at 1.0 DSCR last quarter now gets a suspense or a decline. Nothing about them changed — the goalposts did."
+        },
+        {
+          "heading": "Why nobody's talking about it",
+          "body": "Overlays don't make headlines because they aren't a rate sheet. They live in internal bulletins. By the time it's news, your pipeline has already felt it."
+        }
+      ],
+      "my_take_heading": "Watch what tightens, not what's quoted",
+      "my_take": "The rate is the story everyone tells. The overlay is the story that actually kills deals. Watch what tightens, not what's quoted.",
+      "action_lo": "Re-pull every investor's DSCR matrix this week and re-verify any investment-property pre-approval before you re-promise it.",
+      "action_realtor": "Ask your lender partner one question: what overlays changed this month? Then set investor-buyer expectations accordingly.",
+      "cta_question": "Which overlay change burned a deal in your pipeline this quarter?"
     },
     {
-      "slug": "new-housing-law-affordability",
-      "title": "New Housing Law: What it Means for You",
-      "caption": "A new housing law aims to tackle affordability. Discover what this means for homebuyers and sellers, and when you can expect to see changes.\n\nRead the full story: https://tinyurl.com/28rcqtra\n\n#HousingLaw #Affordability #Homebuyers #MortgageIntelligenceDaily",
-      "hero_tag": "LEGISLATION IMPACT",
-      "hero_stat": "",
-      "hero_heading": "New Housing Law Targets Affordability",
-      "hero_sub": "Explore how the latest housing legislation could shape your home buying or selling journey.",
-      "problem_tag": "THE CHALLENGE",
-      "problem_heading": "Affordability Remains a Hurdle",
-      "problem_sub": "Many prospective homeowners face significant challenges with housing affordability, making it difficult to enter the market.",
-      "problem_label": "Outdated Beliefs:",
-      "problem_pills": [
-        "ONLY HIGH INCOMES QUALIFY",
-        "NO HELP IS AVAILABLE",
-        "PRICES NEVER GO DOWN"
-      ],
-      "solution_tag": "THE SOLUTION",
-      "solution_heading": "A Long-Term Approach to Affordability",
-      "solution_sub": "New legislation aims to address affordability, though experts indicate that its benefits will unfold over time, requiring patience and strategic planning.",
-      "quote_label": "Expert Takeaway:",
-      "quote": "While the legislation targets affordability, its full impact on the market will be a gradual process.",
-      "features_tag": "KEY ASPECTS",
-      "features_heading": "Understanding the New Act",
-      "features": [
-        {
-          "label": "Long-Term Goals",
-          "desc": "The law is designed to create more sustainable affordability over an extended period."
-        },
-        {
-          "label": "Future Market Benefits",
-          "desc": "Improvements like increased inventory and eased pricing are expected to emerge gradually."
-        },
-        {
-          "label": "Governmental Support",
-          "desc": "The legislation signifies a concerted effort by policymakers to address housing market challenges."
-        },
-        {
-          "label": "Consumer Awareness",
-          "desc": "Understanding the law helps homebuyers and sellers anticipate future market conditions."
-        }
-      ],
-      "details_tag": "WHY IT MATTERS",
-      "details_heading": "Impact on Your Home Journey",
-      "details_sub": "While immediate changes may not be visible, this law sets the stage for future positive developments in the housing market.",
-      "details_pills": [
-        "GRADUAL IMPROVEMENT",
-        "FUTURE PROSPECTS",
-        "STRENGTHENS MARKET"
-      ],
-      "howto_tag": "YOUR NEXT STEPS",
-      "howto_heading": "Position Yourself for Success",
-      "steps": [
-        {
-          "title": "Stay Informed",
-          "desc": "Monitor news from reliable sources about the implementation and effects of the new housing law."
-        },
-        {
-          "title": "Plan Ahead",
-          "desc": "Consider long-term financial planning in anticipation of future market benefits."
-        },
-        {
-          "title": "Consult a Professional",
-          "desc": "Discuss how the evolving market might affect your mortgage options with SafeTrust Mortgage."
-        },
-        {
-          "title": "Get Pre-Approved",
-          "desc": "Be ready to act when market conditions align with your homeownership goals."
-        }
-      ],
-      "cta_tag": "YOUR NEXT MOVE",
-      "cta_heading": "Ready for Future Opportunities?",
-      "cta_sub": "SafeTrust Mortgage is here to help you understand market changes and make informed decisions.",
-      "cta_button": "TALK TO AN EXPERT",
+      "slug": "new-housing-law-supply",
+      "title": "New Housing Law: Supply Story, Not a Buyer Story",
       "source": "Inman",
-      "source_url": "https://www.inman.com/2026/07/13/new-housing-law-explained/"
+      "source_url": "https://www.inman.com/2026/07/13/new-housing-law-explained/",
+      "cover_text": "This law helps builders before buyers.",
+      "caption": "Read the headline as a buyer and you'll misread the whole law.\n\nA new housing measure is being framed as affordability relief. Read the fine print like an underwriter and it's really a supply-side play: it moves faster for builders and developers than for the family trying to qualify next month. That timing gap matters. The demand is here now; the units it unlocks arrive later. If you're an LO, this won't change a single file in your pipeline this quarter — don't let a client think it will. If you're a realtor, it's a great reason to reconnect with builder reps about what's actually breaking ground. Affordability headlines feel good. Supply timelines close deals.\n\nSource : https://tinyurl.com/28rcqtra\n#mortgageindustry #realestateagent #housingpolicy #newconstruction #loanofficer #realestate #MortgageIntelligenceDaily",
+      "hashtags": [
+        "#mortgageindustry",
+        "#realestateagent",
+        "#housingpolicy",
+        "#newconstruction",
+        "#loanofficer",
+        "#realestate"
+      ],
+      "hook_tag": "Read The Fine Print",
+      "hook": "This housing law helps builders before it helps buyers.",
+      "what_happened_heading": "What passed",
+      "what_happened": "A new housing law aims to tackle affordability through incentives tied to construction. It's being covered as buyer relief.",
+      "breakdown": [
+        {
+          "heading": "It's a supply bill in a demand costume",
+          "body": "The relief flows to what gets built, not to who qualifies. That's a supply-side lever (adding units) dressed up as a buyer headline."
+        },
+        {
+          "heading": "The timing gap",
+          "body": "Demand is here this month. The units this unlocks show up in quarters or years. Your borrower can't finance a home that isn't framed yet."
+        },
+        {
+          "heading": "The underwriter's lens",
+          "body": "Here's what this changes when a file hits underwriting today: nothing. No new program, no new ratio, no new income source. It's a market-shape story, not a file story."
+        },
+        {
+          "heading": "Where it actually lands",
+          "body": "Builder balance sheets and new-construction pipelines feel this first. If you're near those, there's opportunity — just not on next month's rate lock."
+        }
+      ],
+      "my_take_heading": "Sell the timeline, not the headline",
+      "my_take": "Affordability headlines feel good. Supply timelines close deals. Sell the timeline you can actually underwrite, not the one the press release promises.",
+      "action_lo": "Don't let a client believe this changes their qualifying today; redirect the conversation to what they can lock now.",
+      "action_realtor": "Reconnect with builder reps about what's breaking ground this year and line up new-construction buyers early.",
+      "cta_question": "Are you positioning clients around this law's timeline, or ignoring it until units exist?"
     }
   ]
 }

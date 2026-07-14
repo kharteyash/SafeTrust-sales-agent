@@ -28,100 +28,91 @@ MODEL = "gemini-2.5-flash"
 
 
 # ---------------------------------------------------------------- output schema
-class Feature(BaseModel):
-    label: str
-    desc: str
-
-
-class Step(BaseModel):
-    title: str
-    desc: str
+class Breakdown(BaseModel):
+    heading: str              # short slide heading (a few words)
+    body: str                 # one idea, max 30 words
 
 
 class Carousel(BaseModel):
-    slug: str                 # short kebab id for the story, e.g. "rates-rising"
-    title: str                # internal title (not shown on slides)
-    caption: str              # Instagram caption; may end with a single emoji
-    source: str               # news outlet the story came from, e.g. "HousingWire", "CNBC", "Inman"
+    slug: str                 # short kebab id for the story, e.g. "dscr-tightening"
+    title: str                # short internal title (used for the email subject)
+    source: str               # news outlet the story came from, e.g. "HousingWire", "Inman"
     source_url: str           # exact link of the article this carousel is based on (the `link:` value)
-    # Slide 1 — Hero (light)
-    hero_tag: str             # short uppercase category label
-    hero_stat: str            # a big number like "74%" ONLY if the story leads with one, else ""
-    hero_heading: str         # bold scroll-stopping hook, plain text (no HTML)
-    hero_sub: str             # one supporting sentence
-    # Slide 2 — Problem / tension (dark)
-    problem_tag: str
-    problem_heading: str
-    problem_sub: str
-    problem_label: str        # tiny label above the pills, e.g. "What everyone assumed:"
-    problem_pills: List[str]  # 3 short strike-through phrases (what's outdated/wrong)
-    # Slide 3 — Solution / key insight (brand gradient)
-    solution_tag: str
-    solution_heading: str
-    solution_sub: str
-    quote_label: str          # tiny uppercase label above the quote
-    quote: str                # one punchy takeaway sentence (no surrounding quotes)
-    # Slide 4 — Features / the facts (light)
-    features_tag: str
-    features_heading: str
-    features: List[Feature]   # exactly 4
-    # Slide 5 — Details / why it matters (dark)
-    details_tag: str
-    details_heading: str
-    details_sub: str
-    details_pills: List[str]  # 3-4 short tag phrases
-    # Slide 6 — How-to steps (light)
-    howto_tag: str
-    howto_heading: str
-    steps: List[Step]         # exactly 4, numbered 01-04 by the renderer
-    # Slide 7 — CTA (brand gradient)
-    cta_tag: str              # a theme tag, NOT the brand name
-    cta_heading: str          # call to action
-    cta_sub: str
-    cta_button: str           # short button label, may end with an arrow
+    cover_text: str           # cover overlay, MAX 8 words, punchy
+    caption: str              # 100-150 words; the FIRST line must stand alone as a hook
+    hashtags: List[str]       # exactly 6, mixing industry + reach tags
+    # Slide 1 — Hook / cover (light)
+    hook_tag: str             # 2-3 word category label
+    hook: str                 # bold claim or question reframing the story, MAX 12 words
+    # Slide 2 — What happened (dark)
+    what_happened_heading: str
+    what_happened: str        # the news in exactly 2 plain sentences
+    # Slides 3-6 — The breakdown (one idea per slide)
+    breakdown: List[Breakdown]  # EXACTLY 4
+    # Slide 7 — My take (gradient) — the contrarian, screenshot slide
+    my_take_heading: str
+    my_take: str              # the non-obvious angle, quotable
+    # Slide 8 — What to do (light)
+    action_lo: str            # one concrete move for loan officers
+    action_realtor: str       # one concrete move for realtors
+    # Slide 9 — CTA (gradient)
+    cta_question: str         # ONE sharp question inviting executives to comment
 
 
 class Output(BaseModel):
     carousels: List[Carousel]  # exactly 3
 
 
-SYSTEM = """You write Instagram carousel copy for SafeTrust Mortgage, a trustworthy \
-mortgage lender. The audience is prospective and current home buyers (consumers, not \
-industry insiders).
+SYSTEM = """ROLE
+You are a 20-year mortgage veteran: 10 years as a producing loan officer, 10 years as an \
+underwriter. You've originated the loans AND decided which ones live or die. This dual lens \
+is your signature — you don't just report mortgage news, you explain what it means at the \
+file level, the pipeline level, and the P&L level.
 
-From the day's mortgage/housing headlines, pick the THREE most engaging stories for \
-that audience — scroll-stopping, relatable, shareable, and useful. Skip pure B2B / \
-industry-politics stories (lender rankings, trade-org renames, antitrust procedure). \
-Write one carousel per chosen story. Return exactly 3 carousels.
+TASK
+From the day's mortgage/housing headlines below, pick the THREE stories with the strongest, \
+most non-obvious takes for an industry audience and turn each into an Instagram carousel \
+script. Return exactly 3 carousels.
 
-Each carousel follows this fixed 7-slide arc — fill the fields for all seven:
- 1 Hero      — a bold hook that stops the scroll (a value proposition or surprising claim).
- 2 Problem   — the tension, myth, or pain point, with 3 strike-through pills of what's outdated.
- 3 Solution  — the key insight that resolves it, plus one quotable takeaway line.
- 4 Features  — exactly 4 concrete facts/benefits (label + short description each).
- 5 Details   — why it matters, with 3-4 short tag pills.
- 6 How-to    — exactly 4 practical steps (title + short description each).
- 7 CTA       — a call to action driving toward pre-approval / getting today's rate / talking to SafeTrust.
+AUDIENCE
+Mortgage executives, high-level loan officers, and top-producing realtors. They're smart and \
+busy — but write at a 10th-grade reading level anyway. Short sentences. Any industry term gets \
+a plain-English translation in parentheses the first time it appears, e.g., "DTI (how much of \
+your income goes to debt)."
 
-Voice: professional, clear, warm, credible — never hypey or clickbait. Tags are SHORT \
-and UPPERCASE-style (2-4 words). Headings are punchy and concrete. Body lines are one \
-sentence. Plain text only — no HTML, no markdown, no emoji except a single optional one \
-at the end of each caption.
+POSITIONING RULES
+1. Never summarize the news like a reporter. Lead with what everyone else missed or got wrong.
+2. Use the underwriter lens as the differentiator at least once per carousel: "Here's what this \
+actually changes when a file hits underwriting..."
+3. Confident, direct, zero clickbait. No "You WON'T believe this." The hook earns attention with \
+insight, not hype.
+4. Write like a sharp colleague talking at a bar after a conference — not a compliance memo, not \
+a LinkedIn influencer.
 
-Set `source` to the name of the news outlet the chosen story came from — a clean, \
-human-readable publication name derived from the article's link/domain (e.g. \
-"HousingWire", "CNBC", "Inman", "Redfin", "Mortgage News Daily", "The Truth About \
-Mortgage"), never a raw URL. Set `source_url` to the EXACT article link (the `link:` \
-value shown for that story) that this carousel is based on.
+FILL THESE FIELDS FOR EACH CAROUSEL (they map to a 9-slide carousel):
+- cover_text: the cover overlay, MAX 8 words, punchy.
+- hook: slide 1 — one bold claim or question that reframes the story, MAX 12 words.
+- hook_tag: a 2-3 word category label.
+- what_happened_heading + what_happened: slide 2 — the news in EXACTLY 2 plain sentences.
+- breakdown: slides 3-6 — EXACTLY 4 items, each {heading, body}. One idea per slide, body MAX 30 \
+words. Build the argument step by step, using the underwriter lens at least once.
+- my_take_heading + my_take: slide 7 — the contrarian or non-obvious angle. This is the screenshot \
+slide, so make my_take quotable.
+- action_lo + action_realtor: slide 8 — one concrete move for loan officers, one for realtors.
+- cta_question: slide 9 — ONE sharp question that invites executives to comment. Never "follow for more".
+- caption: 100-150 words. The FIRST line must work as a standalone hook (it gets cut off in feed).
+- hashtags: EXACTLY 6, mixing industry (e.g. #mortgageindustry) and reach (e.g. #realestateagent). \
+Do not include #MortgageIntelligenceDaily (it is added automatically).
+- source + source_url: the outlet name and the EXACT article link (the `link:` value) this carousel \
+is based on.
 
-Grounding: base every carousel on the actual reporting provided. Use the real figures \
-that appear in the summaries (rates, percentages, dates) when relevant. NEVER invent \
-statistics, quotes, or numbers that aren't supported by the source. Set hero_stat only \
-when the story genuinely leads with a single striking number (like a survey percentage); \
-otherwise leave hero_stat as an empty string.
-
-The CTA tag must be a theme (e.g. "LET'S TALK RATES", "YOUR NEXT MOVE", "MAKE IT YOURS") \
-— never just the brand name, since the brand already appears on the slide."""
+HARD RULES
+- Use ONLY numbers and facts from the provided reporting. Never add outside statistics. If context \
+is needed that the source doesn't provide, write "[VERIFY: ...]" inline so it can be fact-checked.
+- No rate quotes, no guarantees, no "now is the best time to buy." Educational framing only.
+- Prefer stories that genuinely support a strong take. If a headline only supports a weak take, pick \
+a different one — you must still return 3 carousels, each with a real, earned insight.
+- Plain text only — no HTML, no markdown."""
 
 
 def clean(text):
@@ -206,18 +197,30 @@ def main():
         result = Output.model_validate_json(response.text)
 
     # Rebuild each caption as: body, then the article link, then ALL hashtags in
-    # one grouped block (the model's own tags + the brand hashtag).
+    # one grouped block (the model's 6 tags + any inline tags + the brand hashtag).
     BRAND_TAG = "#MortgageIntelligenceDaily"
     for c in result.carousels:
-        body, tags = _split_trailing_hashtags(c.caption)
-        if BRAND_TAG not in tags:
-            tags.append(BRAND_TAG)
+        body, inline_tags = _split_trailing_hashtags(c.caption)
+        seen, tags = set(), []
+        for t in list(c.hashtags) + inline_tags + [BRAND_TAG]:
+            t = t.strip()
+            if not t:
+                continue
+            if not t.startswith("#"):
+                t = "#" + t
+            if t.lower() not in seen:
+                seen.add(t.lower())
+                tags.append(t)
         link = shorten_url(c.source_url)
-        parts = [body]
+        # Tail block: the shortened article link, then all hashtags on the next line.
+        tail = []
         if link:
-            parts.append(f"Read the full story: {link}")
+            tail.append(f"Source : {link}")
         if tags:
-            parts.append(" ".join(tags))
+            tail.append(" ".join(tags))
+        parts = [body]
+        if tail:
+            parts.append("\n".join(tail))
         c.caption = "\n\n".join(p for p in parts if p.strip())
 
     OUT.write_text(json.dumps(result.model_dump(), indent=2), encoding="utf-8")

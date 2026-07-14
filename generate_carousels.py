@@ -288,6 +288,19 @@ def source_line(source, on_light=False):
     return (f'<p class="sans" style="font-size:11px;color:{color};margin-top:6px;'
             f'letter-spacing:0.3px;">Source: {html.escape(source)}</p>')
 
+def ghost_number(num, bg):
+    """Oversized, very faint index numeral filling the upper area of a slide as a
+    background accent — anchors sparse text slides so the top doesn't read empty."""
+    if bg == "light":
+        color = "rgba(20,40,66,0.055)"
+    elif bg == "gradient":
+        color = "rgba(255,255,255,0.09)"
+    else:
+        color = "rgba(255,255,255,0.055)"
+    return (f'<div class="serif" style="position:absolute;top:2px;left:26px;z-index:1;'
+            f'font-size:210px;font-weight:700;line-height:1;letter-spacing:-8px;'
+            f'color:{color};pointer-events:none;user-select:none;">{num}</div>')
+
 def render_slide(slide, index, total):
     bg = slide["bg"]
     is_light = bg == "light"
@@ -300,8 +313,9 @@ def render_slide(slide, index, total):
     last = index == total - 1
     arrow = "" if last else swipe_arrow(is_light)
     badge = eho_badge(is_light) if last else ""
+    ghost = ghost_number(f"{index + 1:02d}", bg) if slide.get("ghost") else ""
     justify = slide.get("justify", "flex-end")
-    return (f'<div class="slide" style="{bgcss}">{arrow}{badge}'
+    return (f'<div class="slide" style="{bgcss}">{arrow}{badge}{ghost}'
             f'<div class="slide-content" style="justify-content:{justify};">{slide["content"]}</div>'
             f'{progress_bar(index, total, is_light)}</div>')
 
@@ -339,7 +353,7 @@ body{background:#E9ECF1;display:flex;align-items:center;justify-content:center;m
 .ig-dot.active{background:#1E3A5F;}
 .ig-actions{display:flex;align-items:center;gap:15px;padding:6px 14px 2px;}
 .ig-actions svg{width:24px;height:24px;}
-.ig-caption{padding:6px 14px 16px;font-size:13px;color:#111;line-height:1.45;}
+.ig-caption{padding:6px 14px 16px;font-size:13px;color:#111;line-height:1.45;white-space:pre-line;}
 .ig-caption .h{font-weight:600;}
 .ig-time{font-size:10px;color:#8e8e8e;letter-spacing:.5px;margin-top:8px;text-transform:uppercase;}
 </style></head><body>""".replace("__TITLE__", html.escape(title))
@@ -374,55 +388,52 @@ go(0);
 
 # ---------------------------------------------------------------- data -> slides
 def render_carousel_slides(c):
-    """Build the 7-slide arc from a structured carousel dict (see write_carousels.py)."""
+    """Build the ~9-slide industry-analysis script from a structured carousel dict
+    (see write_carousels.py): Hook, What Happened, 4x Breakdown, My Take, What To
+    Do, CTA."""
     e = html.escape
 
-    # 1 — Hero (light, centered)
-    hero = logo_lockup(True) + tag(e(c["hero_tag"]), "light")
-    if c.get("hero_stat", "").strip():
-        hero += big_stat(e(c["hero_stat"])) + h_light(e(c["hero_heading"]), 27)
-    else:
-        hero += h_light(e(c["hero_heading"]), 32)
-    hero += p_light(e(c["hero_sub"]))
+    # 1 — Hook / cover (light, centered) — SafeTrust-only masthead
+    hook = logo_lockup(True, show_mid=False) + tag(e(c["hook_tag"]), "light")
+    hook += h_light(e(c["cover_text"]), 33) + p_light(e(c["hook"]))
+    slides = [{"bg": "light", "justify": "center", "content": hook}]
 
-    # 2 — Problem (dark)
-    prob = tag(e(c["problem_tag"]), "dark") + h_dark(e(c["problem_heading"])) + p_dark(e(c["problem_sub"]))
-    if c.get("problem_label", "").strip():
-        prob += minilabel_dark(e(c["problem_label"]))
-    prob += pills_row([e(x) for x in c["problem_pills"]], strike=True)
+    # 2 — What happened (dark)
+    wh = (tag("What Happened", "dark") + h_dark(e(c["what_happened_heading"]))
+          + p_dark(e(c["what_happened"])))
+    slides.append({"bg": "dark", "content": wh, "ghost": True})
 
-    # 3 — Solution (brand gradient, centered)
-    sol = (tag(e(c["solution_tag"]), "gradient") + h_dark(e(c["solution_heading"]))
-           + p_dark(e(c["solution_sub"])) + quote_box(e(c["quote_label"]), e(c["quote"])))
+    # 3-6 — The breakdown (one idea per slide, alternating backgrounds)
+    bgs = ["light", "gradient", "dark", "light"]
+    for i, b in enumerate(c["breakdown"]):
+        bg = bgs[i % len(bgs)]
+        head = h_light if bg == "light" else h_dark
+        body = p_light if bg == "light" else p_dark
+        content = (tag("The Breakdown", bg)
+                   + head(e(b["heading"])) + body(e(b["body"])))
+        slides.append({"bg": bg, "content": content, "ghost": True})
 
-    # 4 — Features (light)
-    feats = tag(e(c["features_tag"]), "light") + h_light(e(c["features_heading"]))
-    fr = c["features"]
-    feats += stack([feature_row(e(f["label"]), e(f["desc"]), last=(i == len(fr) - 1)) for i, f in enumerate(fr)])
+    # 7 — My take (gradient, centered) — the contrarian, screenshot slide
+    mt = (tag("My Take", "gradient") + h_dark(e(c["my_take_heading"]))
+          + quote_box("The Angle", e(c["my_take"])))
+    slides.append({"bg": "gradient", "justify": "center", "content": mt})
 
-    # 5 — Details (dark)
-    det = (tag(e(c["details_tag"]), "dark") + h_dark(e(c["details_heading"]))
-           + p_dark(e(c["details_sub"])) + pills_row([e(x) for x in c["details_pills"]]))
+    # 8 — What to do (light) — one move for LOs, one for realtors
+    wtd = tag("What To Do", "light") + h_light("Your next move")
+    wtd += stack([
+        feature_row("For Loan Officers", e(c["action_lo"]), last=False),
+        feature_row("For Realtors", e(c["action_realtor"]), last=True),
+    ])
+    slides.append({"bg": "light", "content": wtd, "ghost": True})
 
-    # 6 — How-to (light)
-    how = tag(e(c["howto_tag"]), "light") + h_light(e(c["howto_heading"]))
-    st = c["steps"]
-    how += stack([step_row(f"{i + 1:02d}", e(s["title"]), e(s["desc"]), last=(i == len(st) - 1)) for i, s in enumerate(st)])
-
-    # 7 — CTA (brand gradient, centered) — no arrow, full progress bar
-    cta = (logo_lockup(False, show_mid=False) + tag(e(c["cta_tag"]), "gradient") + h_dark(e(c["cta_heading"]), 30)
-           + p_dark(e(c["cta_sub"])) + cta_button(e(c["cta_button"])) + handle_line()
+    # 9 — CTA (gradient, centered) — both logos + date, handle, source, EHO badge
+    cta = (logo_lockup(False) + tag("Join The Conversation", "gradient")
+           + h_dark(e(c["cta_question"]), 27) + handle_line()
            + source_line(c.get("source", "")))
+    slides.append({"bg": "gradient", "justify": "center", "content": cta,
+                   "source": c.get("source", "")})
 
-    return [
-        {"bg": "light",    "justify": "center", "content": hero},
-        {"bg": "dark",     "content": prob},
-        {"bg": "gradient", "justify": "center", "content": sol},
-        {"bg": "light",    "content": feats},
-        {"bg": "dark",     "content": det},
-        {"bg": "light",    "content": how},
-        {"bg": "gradient", "justify": "center", "content": cta, "source": c.get("source", "")},
-    ]
+    return slides
 
 # ---------------------------------------------------------------- output
 def main():
