@@ -36,10 +36,11 @@ DARK        = "#142842"   # BRAND_DARK
 LIGHT_BG    = "#F4F6F9"   # light slide base (cool off-white)
 LIGHT_BORDER= "#E2E6EC"   # dividers on light slides
 DARK_BG     = "#0F172A"   # dark slide base (navy-tinted near-black)
-# Subtle top-down gradients give each slide a little depth without hurting legibility.
-LIGHT_GRAD  = "linear-gradient(180deg, #FAFBFD 0%, #F1F4F8 55%, #E6EBF1 100%)"
-DARK_GRAD   = "linear-gradient(180deg, #17263F 0%, #0F1829 55%, #0A0F1C 100%)"
-GRAD        = "linear-gradient(180deg, #142842 0%, #1E3A5F 52%, #3B6AA0 100%)"
+# Cinematic corner-glow gradients: a blue/teal light blooms from the bottom-left
+# into near-black (dark) or off-white (light) — the "1 Billion Followers" look.
+LIGHT_GRAD  = "radial-gradient(135% 120% at 12% 112%, #DCE9F5 0%, #EAF0F7 38%, #F4F7FB 72%, #F7F9FC 100%)"
+DARK_GRAD   = "radial-gradient(130% 115% at 12% 112%, #1F5F8F 0%, #123A5C 22%, #0B2036 48%, #060C16 100%)"
+GRAD        = "radial-gradient(130% 118% at 10% 112%, #2E82B6 0%, #1B5484 22%, #123A61 48%, #0A2138 100%)"
 MUTED       = "#5A6B7E"   # body text on light
 SUBTLE      = "#8A94A0"   # descriptions on light
 HANDLE      = "safetrust_mortgage"
@@ -146,10 +147,15 @@ def logo_lockup(on_light, show_mid=True):
                      f'color:{stcolor};">SafeTrust Mortgage</div>')
     left = f'<div style="text-align:center;">{safetrust}{_nmls_line(on_light)}</div>'
 
-    # Final slide: SafeTrust logo only (no MID masthead).
+    # First slide: SafeTrust logo only, at its original size, left-justified.
     if not show_mid:
-        return (f'<div style="margin-bottom:22px;width:100%;text-align:center;'
-                f'transform:translateY(-18px);">{left}</div>')
+        if LOGO_URI:
+            hero_st = (f'<img src="{st_src}" alt="SafeTrust Mortgage" '
+                       f'style="height:42px;width:auto;max-width:230px;display:block;margin:0;{st_filt}">')
+        else:
+            hero_st = safetrust
+        return (f'<div style="margin-bottom:24px;width:100%;text-align:left;">'
+                f'{hero_st}{_nmls_line(on_light)}</div>')
 
     # --- Mortgage Intelligence Daily logo + date ---
     if MID_URI:
