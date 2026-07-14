@@ -33,10 +33,13 @@ DATE_HTML = (f'{_TODAY.strftime("%B")} {_TODAY.day}'
 B           = "#1E3A5F"   # BRAND_PRIMARY  (navy)
 LIGHT       = "#3B6AA0"   # BRAND_LIGHT
 DARK        = "#142842"   # BRAND_DARK
-LIGHT_BG    = "#F4F6F9"   # light slide bg (cool off-white)
+LIGHT_BG    = "#F4F6F9"   # light slide base (cool off-white)
 LIGHT_BORDER= "#E2E6EC"   # dividers on light slides
-DARK_BG     = "#0F172A"   # dark slide bg (navy-tinted near-black)
-GRAD        = "linear-gradient(165deg, #142842 0%, #1E3A5F 50%, #3B6AA0 100%)"
+DARK_BG     = "#0F172A"   # dark slide base (navy-tinted near-black)
+# Subtle top-down gradients give each slide a little depth without hurting legibility.
+LIGHT_GRAD  = "linear-gradient(180deg, #FAFBFD 0%, #F1F4F8 55%, #E6EBF1 100%)"
+DARK_GRAD   = "linear-gradient(180deg, #17263F 0%, #0F1829 55%, #0A0F1C 100%)"
+GRAD        = "linear-gradient(180deg, #142842 0%, #1E3A5F 52%, #3B6AA0 100%)"
 MUTED       = "#5A6B7E"   # body text on light
 SUBTLE      = "#8A94A0"   # descriptions on light
 HANDLE      = "safetrust_mortgage"
@@ -305,9 +308,9 @@ def render_slide(slide, index, total):
     bg = slide["bg"]
     is_light = bg == "light"
     if bg == "light":
-        bgcss = f"background:{LIGHT_BG};"
+        bgcss = f"background:{LIGHT_GRAD};"
     elif bg == "dark":
-        bgcss = f"background:{DARK_BG};"
+        bgcss = f"background:{DARK_GRAD};"
     else:
         bgcss = f"background:{GRAD};"
     last = index == total - 1
