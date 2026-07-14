@@ -147,15 +147,17 @@ def logo_lockup(on_light, show_mid=True):
                      f'color:{stcolor};">SafeTrust Mortgage</div>')
     left = f'<div style="text-align:center;">{safetrust}{_nmls_line(on_light)}</div>'
 
-    # First slide: SafeTrust logo only, at its original size, left-justified.
+    # SafeTrust logo only, at its original size, left-justified, with the NMLS
+    # line centered under the logo (shrink-wrapped block stays left).
     if not show_mid:
         if LOGO_URI:
             hero_st = (f'<img src="{st_src}" alt="SafeTrust Mortgage" '
-                       f'style="height:42px;width:auto;max-width:230px;display:block;margin:0;{st_filt}">')
+                       f'style="height:42px;width:auto;max-width:230px;display:block;margin:0 auto;{st_filt}">')
         else:
             hero_st = safetrust
         return (f'<div style="margin-bottom:24px;width:100%;text-align:left;">'
-                f'{hero_st}{_nmls_line(on_light)}</div>')
+                f'<div style="display:inline-block;text-align:center;">'
+                f'{hero_st}{_nmls_line(on_light)}</div></div>')
 
     # --- Mortgage Intelligence Daily logo + date ---
     if MID_URI:
@@ -402,8 +404,8 @@ def render_carousel_slides(c):
     Do, CTA."""
     e = html.escape
 
-    # 1 — Hook / cover (light, centered) — SafeTrust-only masthead
-    hook = logo_lockup(True, show_mid=False) + tag(e(c["hook_tag"]), "light")
+    # 1 — Hook / cover (light, centered) — SafeTrust + MID paired masthead
+    hook = logo_lockup(True) + tag(e(c["hook_tag"]), "light")
     hook += h_light(e(c["cover_text"]), 33) + p_light(e(c["hook"]))
     slides = [{"bg": "light", "justify": "center", "content": hook}]
 
@@ -435,8 +437,8 @@ def render_carousel_slides(c):
     ])
     slides.append({"bg": "light", "content": wtd, "ghost": True})
 
-    # 9 — CTA (gradient, centered) — both logos + date, handle, source, EHO badge
-    cta = (logo_lockup(False) + tag("Join The Conversation", "gradient")
+    # 9 — CTA (gradient, centered) — SafeTrust-only masthead, handle, source, EHO badge
+    cta = (logo_lockup(False, show_mid=False) + tag("Join The Conversation", "gradient")
            + h_dark(e(c["cta_question"]), 27) + handle_line()
            + source_line(c.get("source", "")))
     slides.append({"bg": "gradient", "justify": "center", "content": cta,
