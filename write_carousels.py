@@ -40,7 +40,7 @@ class Carousel(BaseModel):
     source_url: str           # exact link of the article this carousel is based on (the `link:` value)
     cover_text: str           # cover overlay, MAX 8 words, punchy
     caption: str              # 100-150 words; the FIRST line must stand alone as a hook
-    hashtags: List[str]       # exactly 6, mixing industry + reach tags
+    hashtags: List[str]       # exactly 3, high-usage tags matched to the story
     # Slide 1 — Hook / cover (light)
     hook_tag: str             # 2-3 word category label
     hook: str                 # bold claim or question reframing the story, MAX 12 words
@@ -101,8 +101,11 @@ slide, so make my_take quotable.
 - action_lo + action_realtor: slide 8 — one concrete move for loan officers, one for realtors.
 - cta_question: slide 9 — ONE sharp question that invites executives to comment. Never "follow for more".
 - caption: 100-150 words. The FIRST line must work as a standalone hook (it gets cut off in feed).
-- hashtags: EXACTLY 6, mixing industry (e.g. #mortgageindustry) and reach (e.g. #realestateagent). \
-Do not include #MortgageIntelligenceDaily (it is added automatically).
+- hashtags: EXACTLY 3, each specific to THIS story's topic and chosen from established, high-usage \
+tags on Instagram (e.g. #mortgagerates, #housingmarket, #realestateagent, #firsttimehomebuyer, \
+#mortgagebroker, #loanofficer, #realestateinvesting, #homebuying) — pick the 3 with the best mix of \
+topical fit and reach; never invent obscure tags. Do NOT include #SafetrustMortgage or \
+#MortgageIntelligenceDaily (they are added automatically). Do not put hashtags inside the caption text.
 - source + source_url: the outlet name and the EXACT article link (the `link:` value) this carousel \
 is based on.
 
@@ -196,13 +199,15 @@ def main():
     if result is None:
         result = Output.model_validate_json(response.text)
 
-    # Rebuild each caption as: body, then the article link, then ALL hashtags in
-    # one grouped block (the model's 6 tags + any inline tags + the brand hashtag).
-    BRAND_TAG = "#MortgageIntelligenceDaily"
+    # Rebuild each caption as: body, then the article link, then EXACTLY 5 hashtags
+    # in one grouped block: the 2 permanent brand tags first, then the model's
+    # 3 dynamic story tags (inline caption tags fill in if the model returned <3).
+    PERMANENT_TAGS = ["#SafetrustMortgage", "#MortgageIntelligenceDaily"]
+    MAX_TAGS = 5
     for c in result.carousels:
         body, inline_tags = _split_trailing_hashtags(c.caption)
         seen, tags = set(), []
-        for t in list(c.hashtags) + inline_tags + [BRAND_TAG]:
+        for t in PERMANENT_TAGS + list(c.hashtags) + inline_tags:
             t = t.strip()
             if not t:
                 continue
@@ -211,6 +216,8 @@ def main():
             if t.lower() not in seen:
                 seen.add(t.lower())
                 tags.append(t)
+        tags = tags[:MAX_TAGS]
+        c.hashtags = tags
         link = shorten_url(c.source_url)
         # Tail block: the shortened article link, then all hashtags on the next line.
         tail = []
