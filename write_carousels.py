@@ -12,6 +12,7 @@ import json
 import os
 import re
 import sys
+import time
 import urllib.parse
 import urllib.request
 from pathlib import Path
@@ -24,7 +25,52 @@ from pydantic import BaseModel
 BASE = Path(__file__).parent
 NEWS = BASE / "daily_news.json"
 OUT = BASE / "carousel_content.json"
-MODEL = "gemini-2.5-flash"
+
+# Try these Gemini models in order — if one is overloaded/unavailable (e.g. a 503
+# "model is overloaded" under heavy traffic), fall through to the next until one works.
+MODELS = [
+    "gemini-2.5-flash",
+    "gemini-2.5-flash-lite",
+    "gemini-2.0-flash",
+    "gemini-2.0-flash-lite",
+]
+
+# Substrings that mark a transient/availability error worth retrying or failing over.
+_TRANSIENT = ("503", "overloaded", "unavailable", "429", "resource_exhausted",
+              "500", "internal", "deadline", "timeout")
+
+
+def generate_with_fallback(client, contents, *, system_instruction, response_schema,
+                           max_output_tokens=8192, models=None, attempts_per_model=2,
+                           base_delay=3):
+    """Call Gemini, trying each model in MODELS until one succeeds. Each model gets a
+    quick retry on transient errors before moving on. thinking_budget=0 is only sent
+    to the 2.5 "thinking" family (older models reject it). Raises if all fail."""
+    models = models or MODELS
+    last_exc = None
+    for model in models:
+        cfg = dict(system_instruction=system_instruction,
+                   response_mime_type="application/json",
+                   response_schema=response_schema,
+                   max_output_tokens=max_output_tokens)
+        if model.startswith("gemini-2.5"):
+            cfg["thinking_config"] = types.ThinkingConfig(thinking_budget=0)
+        config = types.GenerateContentConfig(**cfg)
+        for attempt in range(1, attempts_per_model + 1):
+            try:
+                resp = client.models.generate_content(model=model, contents=contents, config=config)
+                print(f"Gemini: generated with {model}")
+                return resp
+            except Exception as exc:  # noqa: BLE001 — fail over across models
+                last_exc = exc
+                msg = str(exc).lower()
+                print(f"Gemini model {model} attempt {attempt} failed: {str(exc)[:160]}")
+                transient = any(s in msg for s in _TRANSIENT)
+                if transient and attempt < attempts_per_model:
+                    time.sleep(base_delay * attempt)
+                    continue
+                break  # non-transient, or out of attempts for this model — try the next
+    raise RuntimeError(f"All Gemini models failed ({', '.join(models)}). Last error: {last_exc}")
 
 
 # ---------------------------------------------------------------- output schema
@@ -177,20 +223,16 @@ def main():
                  "https://aistudio.google.com/app/apikey")
 
     client = genai.Client(api_key=api_key)
-    response = client.models.generate_content(
-        model=MODEL,
+    response = generate_with_fallback(
+        client,
         contents=(
             f"Today's mortgage and housing headlines:\n\n{news_block}\n\n"
             "Pick the 3 most engaging stories for prospective home buyers and write "
             "all three carousels."
         ),
-        config=types.GenerateContentConfig(
-            system_instruction=SYSTEM,
-            response_mime_type="application/json",
-            response_schema=Output,
-            max_output_tokens=8192,
-            thinking_config=types.ThinkingConfig(thinking_budget=0),
-        ),
+        system_instruction=SYSTEM,
+        response_schema=Output,
+        max_output_tokens=8192,
     )
 
     # response.parsed is an Output instance when response_schema is a Pydantic model;
