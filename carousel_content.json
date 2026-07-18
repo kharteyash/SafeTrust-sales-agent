@@ -1,130 +1,130 @@
 {
   "carousels": [
     {
-      "slug": "builder-confidence-drops",
-      "title": "Builder Confidence Falls Again",
+      "slug": "housing-starts-permits-disconnect",
+      "title": "Housing Starts Jump, Permits Dip: What It Means for Supply",
       "source": "HousingWire",
-      "source_url": "https://www.housingwire.com/articles/builder-confidence-dips-again-in-july/",
-      "cover_text": "Builder Confidence: What It Really Means",
-      "caption": "Builder confidence dropping isn't just a headline \u2013 it's a critical signal about future housing supply and pricing. This isn't just about 'affordability' in the abstract. It's about what types of homes get built, where, and for whom. Understanding the nuanced impact on new construction is key for anyone in the housing market, from originators to realtors. Don't just read the top line; dig into what this means for your clients and your pipeline.\n\nSource : https://tinyurl.com/2ynvkf2f\n#SafetrustMortgage #MortgageIntelligenceDaily #housingmarket #homebuilding #realestateinvesting",
+      "source_url": "https://www.housingwire.com/articles/june-housing-starts-jump-19-fueled-by-strong-multifamily-gains/",
+      "cover_text": "Starts Up, Permits Down: Red Flag?",
+      "caption": "Everyone's celebrating the 19% jump in June housing starts, but the permit data tells a different, more concerning story. As an underwriter, I see this as a red flag for future housing supply and builder sentiment. It's a disconnect that could mean less inventory down the road, impacting both purchase pipelines and home values. Don't get caught flat-footed \u2013 understand what this data really means for your market and your clients.\n\nSource : https://tinyurl.com/24ovfcg5\n#SafetrustMortgage #MortgageIntelligenceDaily #housingmarket #newconstruction #realestateinvesting",
       "hashtags": [
         "#SafetrustMortgage",
         "#MortgageIntelligenceDaily",
         "#housingmarket",
-        "#homebuilding",
+        "#newconstruction",
         "#realestateinvesting"
       ],
-      "hook_tag": "Builder Sentiment",
-      "hook": "Builder confidence is down. Don't fall for the simple narratives.",
-      "what_happened_heading": "The Headlines: Builder Confidence Wanes",
-      "what_happened": "Homebuilder confidence fell again in July, marking a decline due to ongoing affordability pressures and economic uncertainty. The National Association of Home Builders/Wells Fargo Housing Market Index reported the drop.",
+      "hook_tag": "Market Insight",
+      "hook": "June's Housing Starts: A Misleading Win?",
+      "what_happened_heading": "The Headlines",
+      "what_happened": "June housing starts jumped 19% to 1.3 million, largely due to multifamily construction. However, building permits simultaneously fell 3% to 1.367 million.",
       "breakdown": [
         {
-          "heading": "Beyond the Index Number",
-          "body": "The NAHB/Wells Fargo Housing Market Index (HMI) reflects sentiment, not immediate output. A dip signals builders' reduced optimism about future sales conditions."
+          "heading": "The 'Starts' Surge",
+          "body": "The 19% rise in starts is mostly multifamily projects, which tend to be large and move quickly once approved. This boosts the headline number significantly."
         },
         {
-          "heading": "Underwriter Lens: Future Inventory",
-          "body": "When builder confidence drops, fewer new construction loans get funded. This means a slower pipeline for new homes coming to market 6-12 months out. Less supply, more demand pressure later."
+          "heading": "Permits: The Real Indicator",
+          "body": "Permits are a forward-looking metric. A 3% drop signals that fewer projects are entering the pipeline, which means less future supply in 6-12 months."
         },
         {
-          "heading": "Affordability's Double Edge",
-          "body": "High rates and prices make new homes less accessible for buyers. Builders respond by pulling back, which paradoxically tightens future supply and can exacerbate price issues."
+          "heading": "Underwriting's View",
+          "body": "As an underwriter, I'd look past the starts number. The permit decline tells me builders are still cautious, and the pipeline for *new* projects is shrinking."
         },
         {
-          "heading": "Custom vs. Spec Homes",
-          "body": "Expect builders to shift focus from speculative (spec) homes to custom builds with pre-sold contracts. This reduces their risk but limits immediate, move-in-ready inventory for most buyers."
+          "heading": "Builder Sentiment Aligns",
+          "body": "Builder confidence also fell, staying near post-recession lows. This sentiment aligns with the permit data, not the surge in starts, indicating ongoing uncertainty."
         }
       ],
-      "my_take_heading": "My Take: It's Not Just About Rates",
-      "my_take": "The builder confidence drop isn't just about current mortgage rates. It's a leading indicator for future housing supply constraints, which will hit the market long after today's rates are forgotten.",
-      "action_lo": "Proactively build relationships with local custom builders now. Position yourself as the expert for construction-to-perm financing.",
-      "action_realtor": "Educate buyers that new construction options may shrink or shift to longer timelines. Help them understand custom build processes.",
-      "cta_question": "What's the one metric you track that builders are missing?"
+      "my_take_heading": "My Take",
+      "my_take": "The June housing starts headline is like celebrating a sprint win while ignoring the marathon. Permits are down, and builder confidence is low \u2013 that\u2019s the real story for future inventory.",
+      "action_lo": "Educate referral partners that new construction supply might tighten again soon; help them set realistic buyer expectations.",
+      "action_realtor": "Focus on finding existing inventory and connect with builders on their *committed* pipeline, not just current starts.",
+      "cta_question": "Are you seeing a real pickup in new construction *projects*, or just completions of older ones?"
     },
     {
-      "slug": "stanley-martin-holiday-builders-acquisition",
-      "title": "Stanley Martin Acquires Holiday Builders",
+      "slug": "non-qm-credit-risk-model",
+      "title": "Non-QM Loans Get Sophisticated: What It Means for Borrowers",
       "source": "HousingWire",
-      "source_url": "https://www.housingwire.com/articles/holiday-builders-deal-density/",
-      "cover_text": "Big Builders Get Bigger. Why it matters.",
-      "caption": "The acquisition of Holiday Builders by Stanley Martin isn't just another M&A headline. It's a clear signal of a 'hyper-scale shift' in homebuilding, reshaping local markets and competitive landscapes. For loan officers, this means understanding who the dominant players are and how their strategies impact inventory. For realtors, it's about anticipating shifts in available homes and pricing power. This consolidation changes the game for new construction.\n\nSource : https://tinyurl.com/2cvbkh4c\n#SafetrustMortgage #MortgageIntelligenceDaily #homebuilding #realestatemarket #housingmarket",
+      "source_url": "https://www.housingwire.com/articles/riskspan-releases-credit-risk-model-built-for-non-qm-loans/",
+      "cover_text": "Non-QM Just Got Smarter.",
+      "caption": "Non-QM loans are often seen as high-risk, but a new advanced credit risk model from RiskSpan could change that perception. This isn't just a tech upgrade; it's a signal of growing sophistication and stability in the non-QM market. For those serving self-employed borrowers or investors, this could translate to more consistent approvals and potentially better pricing, as lenders gain a clearer picture of true risk. Stay informed on how these models refine the underwriting process.\n\nSource : https://tinyurl.com/2d2ahsmf\n#SafetrustMortgage #MortgageIntelligenceDaily #nonqm #mortgagebroker #realestateinvesting",
       "hashtags": [
         "#SafetrustMortgage",
         "#MortgageIntelligenceDaily",
-        "#homebuilding",
-        "#realestatemarket",
-        "#housingmarket"
+        "#nonqm",
+        "#mortgagebroker",
+        "#realestateinvesting"
       ],
-      "hook_tag": "Industry Consolidation",
-      "hook": "Big builders are getting bigger. This changes everything.",
-      "what_happened_heading": "The Headlines: Homebuilding Consolidation",
-      "what_happened": "Stanley Martin Homes is acquiring Florida-based Holiday Builders, adding 1,050 annual home closings and 40+ communities. This deal brings Stanley Martin's controlled lots to roughly 10,600.",
+      "hook_tag": "Product Update",
+      "hook": "Non-QM's New Model: Is the Market Maturing?",
+      "what_happened_heading": "The Headlines",
+      "what_happened": "RiskSpan launched Credit Model 7.1 specifically for non-QM (non-qualified mortgage) loans. This model was trained on $87 billion in unpaid principal balance (UPB) of non-QM loans.",
       "breakdown": [
         {
-          "heading": "Scale Changes Pricing Power",
-          "body": "Larger builders gain efficiencies in land acquisition and materials. This means they can potentially control pricing more effectively, impacting resale values in their submarkets."
+          "heading": "What is Non-QM?",
+          "body": "Non-QM loans are for borrowers who don't fit standard agency guidelines (e.g., self-employed, investors). They offer flexibility but have historically been harder to price for risk."
         },
         {
-          "heading": "Underwriter Lens: Appraisal Impact",
-          "body": "In markets dominated by fewer, larger builders, appraisal comparisons might shift. Underwriters will see more new construction comps from these major players, influencing valuations for all homes."
+          "heading": "The Data Advantage",
+          "body": "Training on $87B UPB means this model has a massive dataset. It allows for much more accurate risk assessment than traditional FICO scores or manual reviews alone."
         },
         {
-          "heading": "Less Builder Incentives?",
-          "body": "When competition shrinks, so can buyer incentives. Consolidated builders have less pressure to offer significant rate buydowns or closing cost credits to move inventory."
+          "heading": "Underwriting Impact",
+          "body": "As an underwriter, this means faster, more consistent decisions on complex files. It reduces the 'gray area' and brings more objectivity to non-QM approvals."
         },
         {
-          "heading": "Homogenized Product",
-          "body": "Larger builders often prioritize standardized floor plans and finishes for efficiency. This could lead to a less diverse housing stock in new communities, impacting buyer choice."
+          "heading": "Market Legitimacy",
+          "body": "Sophisticated models like this signal a maturing non-QM market. Better risk management attracts more institutional capital, potentially stabilizing product availability and pricing."
         }
       ],
-      "my_take_heading": "My Take: Your Local Market is Shrinking",
-      "my_take": "Every time a regional builder gets bought by a national player, your local market's housing supply becomes less diverse and more controlled by fewer entities. This impacts pricing, inventory, and ultimately, your clients' options.",
-      "action_lo": "Deepen your knowledge of major builder programs and financing options. Become the go-to expert for new construction sales teams.",
-      "action_realtor": "Understand the impact of large builder developments on surrounding resale values. Adjust your pricing strategies and client expectations accordingly.",
-      "cta_question": "How will this consolidation impact new construction commission structures?"
+      "my_take_heading": "My Take",
+      "my_take": "This new non-QM credit model isn't just about better tech; it's about legitimizing a vital market segment. It should lead to more predictable underwriting and broader access for deserving borrowers.",
+      "action_lo": "Deepen your understanding of non-QM guidelines and lenders using advanced models to confidently serve niche borrowers.",
+      "action_realtor": "Partner with LPs (loan officers) fluent in non-QM to capture more self-employed clients and real estate investors.",
+      "cta_question": "How will enhanced risk modeling change your approach to non-QM borrowers?"
     },
     {
-      "slug": "housing-affordability-slips",
-      "title": "Homebuyer Affordability Continues to Decline",
-      "source": "CNBC",
-      "source_url": "https://www.cnbc.com/2026/07/17/homebuyer-affordability.html",
-      "cover_text": "Affordability Hit: What It Actually Means",
-      "caption": "Homebuyer affordability slipping for the fifth straight month isn't just a grim statistic. It's a direct challenge to transaction volume and, more importantly, to the credit quality of the loans we originate. As an underwriter, I'm looking at DTI ratios, reserve requirements, and property valuations with an even sharper eye. This trend demands a proactive strategy from LOs and realtors to educate clients and adjust expectations. It's not just harder to buy; it's harder to qualify. Time to get real about what buyers can truly afford.\n\nSource : https://tinyurl.com/25bozse7\n#SafetrustMortgage #MortgageIntelligenceDaily #homebuying #affordability #firsttimehomebuyer",
+      "slug": "refi-window-next-mortgage-rates",
+      "title": "The Next Refi Window: Faster Than You Think",
+      "source": "National Mortgage Professional",
+      "source_url": "https://nationalmortgageprofessional.com/news/next-refi-window-will-open-fast-and-could-close-even-faster-most-pipelines-arent-ready",
+      "cover_text": "Refi Window: Blink and Miss It.",
+      "caption": "Everyone is waiting for the next refinance boom, but NMP is right: it could open and close faster than most pipelines are ready for. The last mini-window in February showed how quickly rates can shift due to external events. As an underwriter, I see lenders needing to be nimble, with strong tech and clear processes, to capitalize. Don't let your team get caught flat-footed; agility will be the name of the game when rates drop. Are you prepared?\n\nSource : https://tinyurl.com/26rhwgho\n#SafetrustMortgage #MortgageIntelligenceDaily #mortgagerates #refinance #loanofficer",
       "hashtags": [
         "#SafetrustMortgage",
         "#MortgageIntelligenceDaily",
-        "#homebuying",
-        "#affordability",
-        "#firsttimehomebuyer"
+        "#mortgagerates",
+        "#refinance",
+        "#loanofficer"
       ],
-      "hook_tag": "Affordability Crisis",
-      "hook": "Affordability is down. Your buyers aren't just struggling, they're failing underwriting.",
-      "what_happened_heading": "The Headlines: Affordability Continues Slide",
-      "what_happened": "Homebuyer affordability slipped for the fifth consecutive month, driven by increasing home prices and mortgage rates. This trend makes it harder for individuals to afford a home, according to a recent housing affordability index.",
+      "hook_tag": "Market Forecast",
+      "hook": "The Next Refi Window: Are You Actually Ready?",
+      "what_happened_heading": "The Headlines",
+      "what_happened": "National Mortgage Professional warns that the next refinance window will open fast and could close even faster. Many pipelines are not prepared to handle this rapid shift.",
       "breakdown": [
         {
-          "heading": "DTI (Debt-to-Income) is the New Gatekeeper",
-          "body": "Higher rates and prices mean higher monthly payments. This pushes DTI ratios (how much of your income goes to debt) to the limit for many buyers, killing deals in underwriting."
+          "heading": "Past as Prologue",
+          "body": "In February, 30-year fixed rates hit 6.01%, their lowest since September 2022. Refi apps more than doubled year-over-year, but the window closed quickly due to geopolitical events."
         },
         {
-          "heading": "Underwriter Lens: Red Flag for Resale",
-          "body": "When affordability drops significantly, underwriters may view markets with rapidly appreciating prices as higher risk. This can impact appraisal scrutiny and even loan-to-value (LTV) limits on occasion."
+          "heading": "Rate Volatility is Key",
+          "body": "Today's market reacts sharply to news. Rates can drop on inflation reports or rise on global events, creating brief, unpredictable opportunities."
         },
         {
-          "heading": "The 'Move-Up' Buyer Pinch",
-          "body": "It's not just first-timers. Existing homeowners face a huge payment shock to move. They're locked into lower rates, reducing inventory and making even 'affordable' options scarce."
+          "heading": "Underwriting's Challenge",
+          "body": "For underwriters, a fast refi wave means pressure on turn times. Pipelines need to be streamlined and staffed for surge capacity, or loans will bottleneck."
         },
         {
-          "heading": "Refinance Market Impact",
-          "body": "With rates up, the refinance market is already dry. Sustained high rates due to affordability issues mean no 'refi boom' relief for lenders anytime soon, keeping focus squarely on purchase."
+          "heading": "The 'Ready' Pipeline",
+          "body": "Lenders need robust tech, efficient processes, and well-trained staff to capture these quick windows. Waiting to staff up is too late."
         }
       ],
-      "my_take_heading": "My Take: It's Not a Soft Landing. It's a Hard Squeeze.",
-      "my_take": "The continued slide in affordability isn't a 'cooling market' or a 'soft landing.' It's a hard squeeze on buyers' finances and credit profiles, making every approval an uphill battle for originators.",
-      "action_lo": "Focus intensely on DTI management and creative financing solutions. Lead with payment scenarios, not just rates, to set realistic expectations.",
-      "action_realtor": "Pre-qualify aggressively with trusted loan officers. Target homes with lower property taxes or HOA fees to keep overall housing costs manageable for clients.",
-      "cta_question": "What's the most common reason deals are falling apart due to affordability right now?"
+      "my_take_heading": "My Take",
+      "my_take": "The next refi opportunity won't be a prolonged flood, but a series of quick, powerful tides. If your processing isn't dialed in, you'll be leaving money on the table.",
+      "action_lo": "Build a 'warm call' list of past clients. Have your CRM ready to identify and contact potential refinances instantly when rates dip.",
+      "action_realtor": "Understand that lower rates can boost buyer purchasing power, even if short-lived. Stay connected with LPs who can move fast.",
+      "cta_question": "What specific operational changes are you making to ensure your team is ready for a rapid refi surge?"
     }
   ]
 }
