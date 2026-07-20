@@ -38,9 +38,9 @@ LIGHT_BORDER= "#E2E6EC"   # dividers on light slides
 DARK_BG     = "#0F172A"   # dark slide base (navy-tinted near-black)
 # Cinematic corner-glow gradients: a blue/teal light blooms from the bottom-left
 # into near-black (dark) or off-white (light) — the "1 Billion Followers" look.
-LIGHT_GRAD  = "radial-gradient(135% 120% at 12% 112%, #DCE9F5 0%, #EAF0F7 38%, #F4F7FB 72%, #F7F9FC 100%)"
-DARK_GRAD   = "radial-gradient(130% 115% at 12% 112%, #1F5F8F 0%, #123A5C 22%, #0B2036 48%, #060C16 100%)"
-GRAD        = "radial-gradient(130% 118% at 10% 112%, #2E82B6 0%, #1B5484 22%, #123A61 48%, #0A2138 100%)"
+LIGHT_GRAD  = "radial-gradient(140% 130% at 10% 115%, #BFD7EF 0%, #D4E3F3 34%, #E9F0F8 66%, #F4F7FB 100%)"
+DARK_GRAD   = "radial-gradient(140% 130% at 8% 116%, #2E88C8 0%, #1C6098 20%, #124067 42%, #0B2743 66%, #060D18 100%)"
+GRAD        = "radial-gradient(140% 132% at 6% 116%, #3EA0DE 0%, #2379B6 20%, #17568A 42%, #103C64 66%, #0A2138 100%)"
 MUTED       = "#5A6B7E"   # body text on light
 SUBTLE      = "#8A94A0"   # descriptions on light
 HANDLE      = "safetrust_mortgage"
@@ -398,16 +398,21 @@ go(0);
     return head + frame + script
 
 # ---------------------------------------------------------------- data -> slides
-def render_carousel_slides(c):
+def render_carousel_slides(c, cover_blue=False):
     """Build the ~9-slide industry-analysis script from a structured carousel dict
     (see write_carousels.py): Hook, What Happened, 4x Breakdown, My Take, What To
-    Do, CTA."""
+    Do, CTA. cover_blue flips slide 1 from a white cover to a blue-gradient one."""
     e = html.escape
 
-    # 1 — Hook / cover (light, centered) — SafeTrust + MID paired masthead
-    hook = logo_lockup(True) + tag(e(c["hook_tag"]), "light")
-    hook += h_light(e(c["cover_text"]), 33) + p_light(e(c["hook"]))
-    slides = [{"bg": "light", "justify": "center", "content": hook}]
+    # 1 — Hook / cover (centered) — SafeTrust + MID paired masthead.
+    if cover_blue:
+        hook = (logo_lockup(False) + tag(e(c["hook_tag"]), "gradient")
+                + h_dark(e(c["cover_text"]), 33) + p_dark(e(c["hook"])))
+        slides = [{"bg": "gradient", "justify": "center", "content": hook}]
+    else:
+        hook = (logo_lockup(True) + tag(e(c["hook_tag"]), "light")
+                + h_light(e(c["cover_text"]), 33) + p_light(e(c["hook"])))
+        slides = [{"bg": "light", "justify": "center", "content": hook}]
 
     # 2 — What happened (dark)
     wh = (tag("What Happened", "dark") + h_dark(e(c["what_happened_heading"]))
@@ -458,11 +463,21 @@ def main():
     data = json.loads(content_path.read_text(encoding="utf-8"))
     carousels = data["carousels"][:3]
 
+    # Cover colours alternate by day: one day 2 white + 1 blue, the next 2 blue +
+    # 1 white, repeating. The run date drives it (and rotates which cover is blue).
+    n = len(carousels)
+    d = _TODAY.toordinal()
+    blue_count = min(2 if d % 2 == 0 else 1, n)  # even day -> 2 blue, odd day -> 1 blue
+    start = d % n if n else 0
+    blue_covers = {(start + k) % n for k in range(blue_count)}
+    print(f"Cover colours today: {blue_count} blue / {n - blue_count} white "
+          f"(blue = carousels {sorted(i + 1 for i in blue_covers)})")
+
     out_dir = base / "carousels"
     out_dir.mkdir(exist_ok=True)
     index_links = []
     for i, c in enumerate(carousels):
-        slides = render_carousel_slides(c)
+        slides = render_carousel_slides(c, cover_blue=(i in blue_covers))
         doc = build_html(c.get("title", f"Carousel {i + 1}"), html.escape(c.get("caption", "")), slides)
         filename = f"carousel_{i + 1}.html"
         (out_dir / filename).write_text(doc, encoding="utf-8")
