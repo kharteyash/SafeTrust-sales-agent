@@ -39,6 +39,57 @@ MODELS = [
 _TRANSIENT = ("503", "overloaded", "unavailable", "429", "resource_exhausted",
               "500", "internal", "deadline", "timeout")
 
+# Last-resort provider when every Gemini model fails: SambaNova Cloud (OpenAI-compatible,
+# JSON mode). Reads SAMBANOVA_API_KEY from the environment — never hardcode the key.
+SAMBANOVA_URL = "https://api.sambanova.ai/v1/chat/completions"
+SAMBANOVA_MODELS = ["Meta-Llama-3.3-70B-Instruct", "DeepSeek-V3.2"]
+
+
+class _RawResponse:
+    """Mimics the google-genai response shape the call sites expect: `.parsed` is
+    None (so they fall back to `.text`) and `.text` holds the raw JSON string."""
+    def __init__(self, text):
+        self.parsed = None
+        self.text = text
+
+
+def _sambanova_generate(contents, system_instruction, response_schema, max_output_tokens):
+    """Last-resort generation via SambaNova. Returns a _RawResponse with JSON text,
+    or None if no key is set or every SambaNova model fails."""
+    key = os.environ.get("SAMBANOVA_API_KEY")
+    if not key:
+        return None
+    schema = json.dumps(response_schema.model_json_schema())
+    sys_msg = (f"{system_instruction}\n\nReturn ONLY a single JSON object that strictly conforms "
+               f"to this JSON schema — include every required field, no markdown, no code fences, "
+               f"no commentary:\n{schema}")
+    last_exc = None
+    for model in SAMBANOVA_MODELS:
+        body = json.dumps({
+            "model": model,
+            "messages": [{"role": "system", "content": sys_msg},
+                         {"role": "user", "content": contents}],
+            "response_format": {"type": "json_object"},
+            "max_tokens": max_output_tokens,
+            "temperature": 0.4,
+        }).encode("utf-8")
+        req = urllib.request.Request(
+            SAMBANOVA_URL, data=body, method="POST",
+            headers={"Authorization": f"Bearer {key}", "Content-Type": "application/json"})
+        try:
+            with urllib.request.urlopen(req, timeout=120) as resp:
+                data = json.loads(resp.read())
+            text = data["choices"][0]["message"]["content"].strip()
+            if text.startswith("```"):  # strip accidental code fences
+                text = text[text.find("{"):text.rfind("}") + 1]
+            print(f"SambaNova: generated with {model}")
+            return _RawResponse(text)
+        except Exception as exc:  # noqa: BLE001 — try the next SambaNova model
+            last_exc = exc
+            print(f"SambaNova model {model} failed: {str(exc)[:160]}")
+    print(f"SambaNova fallback exhausted. Last error: {last_exc}")
+    return None
+
 
 def generate_with_fallback(client, contents, *, system_instruction, response_schema,
                            max_output_tokens=8192, models=None, attempts_per_model=2,
@@ -70,7 +121,14 @@ def generate_with_fallback(client, contents, *, system_instruction, response_sch
                     time.sleep(base_delay * attempt)
                     continue
                 break  # non-transient, or out of attempts for this model — try the next
-    raise RuntimeError(f"All Gemini models failed ({', '.join(models)}). Last error: {last_exc}")
+
+    # Every Gemini model failed — last resort: SambaNova (if SAMBANOVA_API_KEY set).
+    print("All Gemini models failed — falling back to SambaNova.")
+    sn = _sambanova_generate(contents, system_instruction, response_schema, max_output_tokens)
+    if sn is not None:
+        return sn
+    raise RuntimeError(f"All Gemini models failed ({', '.join(models)}) and SambaNova "
+                       f"fallback was unavailable. Last Gemini error: {last_exc}")
 
 
 # ---------------------------------------------------------------- output schema

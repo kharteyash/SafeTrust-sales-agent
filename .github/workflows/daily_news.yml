@@ -74,6 +74,7 @@ jobs:
         if: steps.guard.outputs.run == 'true'
         env:
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+          SAMBANOVA_API_KEY: ${{ secrets.SAMBANOVA_API_KEY }}
         run: python write_carousels.py
 
       - name: Render carousel HTML
