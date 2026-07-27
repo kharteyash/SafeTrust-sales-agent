@@ -1,130 +1,130 @@
 {
   "carousels": [
     {
-      "slug": "reverse-mortgage-growth",
-      "title": "Reverse Mortgage Growth",
-      "source": "HousingWire",
-      "source_url": "https://www.housingwire.com/articles/smartfi-forward-los-reverse-mortgages/",
-      "cover_text": "Reverse Mortgage",
-      "caption": "Growing the reverse mortgage pie requires educating traditional loan officers. Here's what this means for the industry. SmartFi is taking a unique approach to grow the reverse mortgage market by equipping traditional loan officers with the necessary tools and education. This strategy has the potential to increase reverse mortgage adoption and provide more options for homeowners.\n\nSource : https://tinyurl.com/2dzo3kgd\n#SafetrustMortgage #MortgageIntelligenceDaily #reversmortgage #mortgagemarket #homeequity",
-      "hashtags": [
-        "#SafetrustMortgage",
-        "#MortgageIntelligenceDaily",
-        "#reversmortgage",
-        "#mortgagemarket",
-        "#homeequity"
-      ],
-      "hook_tag": "Reverse Mortgage",
-      "hook": "Growing the pie",
-      "what_happened_heading": "What's Happening",
-      "what_happened": "SmartFi is growing the reverse mortgage market by educating traditional loan officers. The goal is to increase adoption and provide more options for homeowners. This approach could lead to a significant increase in reverse mortgage originations.",
-      "breakdown": [
-        {
-          "heading": "Education",
-          "body": "Loan officers need education on reverse mortgages"
-        },
-        {
-          "heading": "Tools",
-          "body": "Traditional loan officers need tools to offer reverse mortgages"
-        },
-        {
-          "heading": "Adoption",
-          "body": "Increased education and tools can lead to higher adoption"
-        },
-        {
-          "heading": "Underwriting",
-          "body": "Here's what this actually changes when a file hits underwriting: more options for homeowners"
-        }
-      ],
-      "my_take_heading": "My Take",
-      "my_take": "The key to growing the reverse mortgage market is education and providing the necessary tools for traditional loan officers.",
-      "action_lo": "Get educated on reverse mortgages",
-      "action_realtor": "Partner with lenders offering reverse mortgages",
-      "cta_question": "How can you grow your reverse mortgage business?"
-    },
-    {
       "slug": "ai-vendor-liability",
-      "title": "AI Vendor Liability",
+      "title": "When your AI vendor gets it wrong, you\u2019re still responsible",
       "source": "HousingWire",
       "source_url": "https://www.housingwire.com/articles/ai-vendor-servicer-liability/",
-      "cover_text": "AI Liability",
-      "caption": "Mortgage servicers are still responsible when AI vendors get it wrong. Here's what this means for the industry. With the increasing use of AI in mortgage servicing, the liability for errors remains with the servicers. This has significant implications for the industry and requires careful consideration of AI vendor contracts and controls.\n\nSource : https://tinyurl.com/25sv2vuc\n#SafetrustMortgage #MortgageIntelligenceDaily #aimortgage #mortgageservicing #compliance",
+      "cover_text": "AI vendor screw-up? YOU eat the cost.",
+      "caption": "Your AI vendor getting it wrong is NOT a free pass. The OCC, GSEs, and Treasury all agree: you're still on the hook for decisions influenced by AI, especially with Fannie's new guidance coming. This isn't just about compliance; it's about protecting your pipeline and P&L. If you're using AI in any part of your process \u2013 from lead generation to loan servicing \u2013 you need to understand the implications of vendor risk. It's time to scrutinize contracts and ensure your internal controls are robust. Don't let an AI error become your company's liability. Plan now for what happens when vendor AI makes a bad call. It's not a matter of if, but when. Are your contracts ready?\n\nSource : https://tinyurl.com/25sv2vuc\n#SafetrustMortgage #MortgageIntelligenceDaily #mortgagecompliance #aiforbusiness #mortgageservicing",
       "hashtags": [
         "#SafetrustMortgage",
         "#MortgageIntelligenceDaily",
-        "#aimortgage",
-        "#mortgageservicing",
-        "#compliance"
+        "#mortgagecompliance",
+        "#aiforbusiness",
+        "#mortgageservicing"
       ],
-      "hook_tag": "AI Liability",
-      "hook": "You're still responsible",
-      "what_happened_heading": "What's Happening",
-      "what_happened": "Mortgage servicers remain responsible for account decisions influenced by vendor AI. The OCC model risk guidance, GSE requirements, and Treasury AI controls all point to servicer liability. This means that servicers need to carefully manage their AI vendors and ensure that they have strong contracts and controls in place.",
+      "hook_tag": "Risk Management",
+      "hook": "AI vendor error? The buck stops with YOU.",
+      "what_happened_heading": "The News: AI Vendor Liability",
+      "what_happened": "Mortgage servicers remain responsible for account decisions influenced by vendor AI. This is true under OCC model risk guidance, GSE requirements, and Treasury AI controls.",
       "breakdown": [
         {
-          "heading": "Liability",
-          "body": "Servicers are liable for AI vendor errors"
+          "heading": "Fannie's New Rule",
+          "body": "Fannie Mae's LL-2026-04 takes effect August 6, 2026. This mandate makes your AI practices a key part of your relationship with them."
         },
         {
-          "heading": "Contracts",
-          "body": "Strong vendor contracts are necessary to manage liability"
+          "heading": "What Underwriting Sees",
+          "body": "When a file hits underwriting, any AI-driven decision will be scrutinized. We don't care who coded it; we care about the decision's validity and compliance."
         },
         {
-          "heading": "Controls",
-          "body": "Servicers need to implement strong AI controls"
+          "heading": "Inventory Your AI",
+          "body": "You need an inventory of all AI tools used, especially vendor-supplied ones. Understanding their function and potential impact is critical for risk assessment."
         },
         {
-          "heading": "Underwriting",
-          "body": "Here's what this actually changes when a file hits underwriting: increased scrutiny of AI-driven decisions"
+          "heading": "Stronger Contracts Needed",
+          "body": "Review your vendor contracts. Ensure they include robust terms on indemnification and data accuracy when AI is part of their service."
         }
       ],
-      "my_take_heading": "My Take",
-      "my_take": "The key to managing AI vendor liability is to have strong contracts and controls in place.",
-      "action_lo": "Review AI vendor contracts",
-      "action_realtor": "Understand AI-driven mortgage decisions",
-      "cta_question": "How are you managing AI vendor liability?"
+      "my_take_heading": "My Take: It's Not 'Their' AI Problem",
+      "my_take": "Many think vendor AI means vendor liability. Wrong. You're the one holding the bag. Plan for AI failure like you plan for any other operational risk.",
+      "action_lo": "Understand how AI is used in your lead gen or processing. Can you articulate its output if questioned by underwriting?",
+      "action_realtor": "Be aware if your lender partners are using AI. Ask them about their processes for accuracy and compliance.",
+      "cta_question": "What's your plan for when a vendor's AI inevitably makes a mistake?"
     },
     {
-      "slug": "ai-native-land-acquisition",
-      "title": "AI-Native Land Acquisition",
+      "slug": "reverse-mortgage-growth",
+      "title": "Kim Smith on SmartFi\u2019s strategy to grow the reverse mortgage pie",
       "source": "HousingWire",
-      "source_url": "https://www.housingwire.com/articles/ai-native-land-acquisition/",
-      "cover_text": "AI Land Acquisition",
-      "caption": "AI-native land acquisition is changing the game for homebuilders. Here's what this means for the industry. With the ability to analyze parcels in minutes, homebuilders can now evaluate thousands of parcels per month. This has significant implications for the homebuilding industry and could lead to increased efficiency and productivity.\n\nSource : https://tinyurl.com/24kpw9mr\n#SafetrustMortgage #MortgageIntelligenceDaily #aihomebuilding #landacquisition #homeconstruction",
+      "source_url": "https://www.housingwire.com/articles/smartfi-forward-los-reverse-mortgages/",
+      "cover_text": "Forward LOs: untapped reverse mortgage gold.",
+      "caption": "The reverse mortgage market is poised for significant growth, not by focusing solely on existing reverse specialists, but by empowering forward-centric loan officers. Think about your existing database: how many clients over 62 are sitting on substantial home equity? This strategy isn't just about diversification; it's about providing a complete solution set for your clients throughout their homeownership journey. When a file comes to underwriting, a reverse mortgage looks different, but the core principles of asset and income verification remain. The key is understanding how to present it as a strategic financial tool, not a last resort. Don't leave money on the table \u2013 educate your team and unlock this overlooked segment of the market. Who in your pipeline could benefit from this conversation?\n\nSource : https://tinyurl.com/2dzo3kgd\n#SafetrustMortgage #MortgageIntelligenceDaily #reversemortgage #loanofficer #mortgagebroker",
       "hashtags": [
         "#SafetrustMortgage",
         "#MortgageIntelligenceDaily",
-        "#aihomebuilding",
-        "#landacquisition",
-        "#homeconstruction"
+        "#reversemortgage",
+        "#loanofficer",
+        "#mortgagebroker"
       ],
-      "hook_tag": "AI Land Acquisition",
-      "hook": "From weeks to minutes",
-      "what_happened_heading": "What's Happening",
-      "what_happened": "AI-native land acquisition can cut site analysis from hours to minutes. This enables homebuilders to evaluate 1,000-2,000 parcels per user each month. With only 1.5% to 2% of US parcels listed at a time, the approach targets off-market discovery and pipeline management.",
+      "hook_tag": "Market Opportunity",
+      "hook": "The biggest reverse mortgage growth is NOT where you think.",
+      "what_happened_heading": "The News: Reverse Mortgage Strategy",
+      "what_happened": "SmartFi's strategy aims to grow the reverse mortgage market by equipping traditional, forward-centric loan officers. This involves providing them with the tools and education to offer reverse mortgages to their clients.",
       "breakdown": [
         {
-          "heading": "Analysis",
-          "body": "AI can analyze parcels in minutes"
+          "heading": "Access Existing Relationships",
+          "body": "Forward LOs already have trusted relationships with clients. This makes them ideal for introducing complex products like reverse mortgages."
         },
         {
-          "heading": "Evaluation",
-          "body": "Homebuilders can evaluate thousands of parcels per month"
+          "heading": "Underwriter View: Asset-Rich Clients",
+          "body": "Underwriting sees many clients with significant home equity but limited liquidity. Reverse mortgages can bridge that gap, turning illiquid equity into usable funds."
         },
         {
-          "heading": "Discovery",
-          "body": "AI-native land acquisition targets off-market discovery"
+          "heading": "Not a Niche Product Anymore",
+          "body": "Treating reverse mortgages as a niche limits growth. Integrating them into a full product suite diversifies your offerings and client solutions."
         },
         {
-          "heading": "Underwriting",
-          "body": "Here's what this actually changes when a file hits underwriting: increased focus on parcel analysis"
+          "heading": "Education is Key",
+          "body": "The biggest hurdle is often a lack of LO education. Training on how reverse products actually function and serve client needs is crucial."
         }
       ],
-      "my_take_heading": "My Take",
-      "my_take": "The key to successful AI-native land acquisition is to leverage the technology to analyze and evaluate parcels quickly and efficiently.",
-      "action_lo": "Explore AI-native land acquisition",
-      "action_realtor": "Partner with homebuilders using AI-native land acquisition",
-      "cta_question": "How can you leverage AI-native land acquisition?"
+      "my_take_heading": "My Take: Stop Ignoring Your Best Prospect List",
+      "my_take": "Your existing book of business is gold. Many homeowners over 62 could benefit from a reverse mortgage, and you're already their trusted advisor. The opportunity is staring us in the face.",
+      "action_lo": "Identify clients aged 62+ in your database. Proactively educate yourself and them on how reverse mortgages can be a powerful financial tool.",
+      "action_realtor": "Partner with LOs who understand reverse mortgages. This helps your senior clients make smart moves, whether buying, selling, or staying put.",
+      "cta_question": "How many clients in your existing database are missing out on reverse mortgage solutions?"
+    },
+    {
+      "slug": "home-equity-loans-record-share",
+      "title": "Home Equity Loans Capture Record Share As Homeowners Stay Put",
+      "source": "National Mortgage Professional",
+      "source_url": "https://nationalmortgageprofessional.com/news/home-equity-loans-capture-record-share-homeowners-stay-put",
+      "cover_text": "Home Equity: The New Refi.",
+      "caption": "Home equity loans and HELOCs are no longer just niche products; they're becoming the primary way homeowners access cash without giving up their low first mortgage rates. With record-low recapture rates on refinances, this shift isn't surprising. From an underwriting perspective, these loans present different risks and opportunities, focusing heavily on current LTV and DTI, not just the original purchase. This trend is a massive signal: homeowners are staying put, and they need strategic ways to leverage their equity. Are you equipped to serve this growing segment? If not, you're leaving a significant portion of the market to competitors. This isn't a temporary fad; it's a structural change in how people use their homes as financial assets. Adapt or get left behind.\n\nSource : https://tinyurl.com/23sdqucr\n#SafetrustMortgage #MortgageIntelligenceDaily #homeequity #heloc #mortgageindustry",
+      "hashtags": [
+        "#SafetrustMortgage",
+        "#MortgageIntelligenceDaily",
+        "#homeequity",
+        "#heloc",
+        "#mortgageindustry"
+      ],
+      "hook_tag": "Market Shift",
+      "hook": "Homeowners are getting cash without refinancing. Are you ready?",
+      "what_happened_heading": "The News: Record Home Equity Share",
+      "what_happened": "Homeowners are increasingly using HELOCs and second mortgages to access cash without refinancing their low first-mortgage rates. This pushed home equity lending to a record share of mortgage transactions in 2025.",
+      "breakdown": [
+        {
+          "heading": "Growth is Significant",
+          "body": "Home equity loan volume increased 15% between 2021 and 2025. This growth signals a major shift in how homeowners access capital."
+        },
+        {
+          "heading": "Underwriter Lens: LTV vs. DTI",
+          "body": "When a file hits underwriting, these loans emphasize current LTV (loan-to-value) and DTI (debt-to-income). The borrower\u2019s original purchase price is less relevant."
+        },
+        {
+          "heading": "Retention Opportunity",
+          "body": "With refinance recapture rates around 20-30%, home equity products are crucial. They keep clients engaged with you even when rates are high."
+        },
+        {
+          "heading": "It's Not Just a Refi Alternative",
+          "body": "This isn't a temporary workaround. Home equity products are becoming a primary, strategic financial tool for long-term homeowners."
+        }
+      ],
+      "my_take_heading": "My Take: Home Equity IS the New Refinance",
+      "my_take": "Stop treating home equity products as secondary. For many, they're the only viable option to tap wealth without rate shock. This is where your clients are moving.",
+      "action_lo": "Actively market home equity products. Re-engage past clients with low rates to show them how they can still access their equity.",
+      "action_realtor": "Educate clients on how HELOCs or second mortgages can finance improvements. This makes homes more attractive, or helps buyers with down payment strategies.",
+      "cta_question": "Are you leaving money on the table by underemphasizing home equity products?"
     }
   ]
 }
