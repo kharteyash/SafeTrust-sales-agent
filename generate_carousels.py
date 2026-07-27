@@ -112,6 +112,11 @@ LOGO_URI = _find_logo(["logo.png", "logo.jpg", "logo.jpeg", "logo.svg"])
 LOGO_WHITE_URI = _find_logo(["logo-white.png", "logo-white.svg", "logo_white.png"])
 # Equal Housing Opportunity badge (white) — shown bottom-right on the final slide.
 BADGE_URI = _find_logo(["equal-housing.png", "equal-housing.svg", "badge.png", "badge.svg"])
+# Headshot for the "My Take" slide — embedded raw (it's a photo, so the logo
+# white-knockout in _process_raster must not run on it).
+_HEADSHOT = ASSETS / "marsel-headshot.jpg"
+HEADSHOT_URI = ("data:image/jpeg;base64," + base64.b64encode(_HEADSHOT.read_bytes()).decode()
+                if _HEADSHOT.exists() else None)
 
 # ---------------------------------------------------------------- components
 def tag(text, bg):
@@ -326,7 +331,8 @@ def render_slide(slide, index, total):
     badge = eho_badge(is_light) if last else ""
     ghost = ghost_number(f"{index + 1:02d}", bg) if slide.get("ghost") else ""
     justify = slide.get("justify", "flex-end")
-    return (f'<div class="slide" style="{bgcss}">{arrow}{badge}{ghost}'
+    underlay = slide.get("underlay", "")
+    return (f'<div class="slide" style="{bgcss}">{underlay}{arrow}{badge}{ghost}'
             f'<div class="slide-content" style="justify-content:{justify};">{slide["content"]}</div>'
             f'{progress_bar(index, total, is_light)}</div>')
 
@@ -429,10 +435,19 @@ def render_carousel_slides(c, cover_blue=False):
                    + head(e(b["heading"])) + body(e(b["body"])))
         slides.append({"bg": bg, "content": content, "ghost": True})
 
-    # 7 — My take (gradient, centered) — the contrarian, screenshot slide
+    # 7 — My take (gradient, centered) — the contrarian, screenshot slide.
+    # Full-bleed headshot in its natural colours; a neutral dark scrim (no blue
+    # tint) keeps the white copy sitting on top of it readable.
     mt = (tag("My Take", "gradient") + h_dark(e(c["my_take_heading"]))
           + quote_box("The Angle", e(c["my_take"])))
-    slides.append({"bg": "gradient", "justify": "center", "content": mt})
+    slide7 = {"bg": "gradient", "justify": "center", "content": mt}
+    if HEADSHOT_URI:
+        slide7["underlay"] = (
+            f'<img src="{HEADSHOT_URI}" alt="" style="position:absolute;top:0;left:0;'
+            f'width:100%;height:100%;object-fit:cover;object-position:50% 0%;">'
+            f'<div style="position:absolute;top:0;left:0;width:100%;height:100%;'
+            f'background:rgba(0,0,0,0.45);"></div>')
+    slides.append(slide7)
 
     # 8 — What to do (light) — one move for LOs, one for realtors
     wtd = tag("What To Do", "light") + h_light("Your next move")
