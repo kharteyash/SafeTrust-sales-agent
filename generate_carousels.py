@@ -117,6 +117,10 @@ BADGE_URI = _find_logo(["equal-housing.png", "equal-housing.svg", "badge.png", "
 _HEADSHOT = ASSETS / "marsel-headshot.jpg"
 HEADSHOT_URI = ("data:image/jpeg;base64," + base64.b64encode(_HEADSHOT.read_bytes()).decode()
                 if _HEADSHOT.exists() else None)
+# Background-removed cutout of the same headshot — stands along the right edge of
+# the "My Take" slide. _embed trims the transparent margins around the figure.
+_CUTOUT = ASSETS / "marsel-cutout.png"
+CUTOUT_URI = _embed(_CUTOUT) if _CUTOUT.exists() else None
 
 # ---------------------------------------------------------------- components
 def tag(text, bg):
@@ -436,17 +440,17 @@ def render_carousel_slides(c, cover_blue=False):
         slides.append({"bg": bg, "content": content, "ghost": True})
 
     # 7 — My take (gradient, centered) — the contrarian, screenshot slide.
-    # Full-bleed headshot in its natural colours; a neutral dark scrim (no blue
-    # tint) keeps the white copy sitting on top of it readable.
-    mt = (tag("My Take", "gradient") + h_dark(e(c["my_take_heading"]))
+    # The background-removed cutout stands along the right edge; the copy keeps
+    # to a narrower left column so the figure stays clear of the text.
+    mt = (tag("My Take", "gradient") + h_dark(e(c["my_take_heading"]), 25)
           + quote_box("The Angle", e(c["my_take"])))
     slide7 = {"bg": "gradient", "justify": "center", "content": mt}
-    if HEADSHOT_URI:
+    if CUTOUT_URI:
         slide7["underlay"] = (
-            f'<img src="{HEADSHOT_URI}" alt="" style="position:absolute;top:0;left:0;'
-            f'width:100%;height:100%;object-fit:cover;object-position:50% 0%;">'
-            f'<div style="position:absolute;top:0;left:0;width:100%;height:100%;'
-            f'background:rgba(0,0,0,0.45);"></div>')
+            f'<img src="{CUTOUT_URI}" alt="" style="position:absolute;right:-24px;'
+            f'bottom:0;height:240px;width:auto;'
+            f'filter:drop-shadow(0 12px 28px rgba(0,0,0,0.4));">')
+        slide7["content"] = f'<div style="width:64%;">{mt}</div>'
     slides.append(slide7)
 
     # 8 — What to do (light) — one move for LOs, one for realtors
