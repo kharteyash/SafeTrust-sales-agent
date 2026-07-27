@@ -39,10 +39,23 @@ MODELS = [
 _TRANSIENT = ("503", "overloaded", "unavailable", "429", "resource_exhausted",
               "500", "internal", "deadline", "timeout")
 
-# Fallback providers when every Gemini model fails, tried in order: xAI (Grok)
-# first, then SambaNova Cloud. Both are OpenAI-compatible (JSON mode) and read
-# their API keys from the environment — never hardcode a key.
+# Fallback providers when every Gemini model fails, tried in order: Groq (free
+# tier), then Cerebras, then xAI (Grok), then SambaNova Cloud. All are
+# OpenAI-compatible (JSON mode) and read their API keys from the environment —
+# never hardcode a key. Providers whose account has no credit fail over cleanly.
 FALLBACK_PROVIDERS = [
+    {
+        "name": "Groq",
+        "url": "https://api.groq.com/openai/v1/chat/completions",
+        "key_env": "GROQ_API_KEY",
+        "models": ["llama-3.3-70b-versatile", "openai/gpt-oss-120b", "llama-3.1-8b-instant"],
+    },
+    {
+        "name": "Cerebras",
+        "url": "https://api.cerebras.ai/v1/chat/completions",
+        "key_env": "CEREBRAS_API_KEY",
+        "models": ["gpt-oss-120b", "zai-glm-4.7", "gemma-4-31b"],
+    },
     {
         "name": "xAI",
         "url": "https://api.x.ai/v1/chat/completions",
