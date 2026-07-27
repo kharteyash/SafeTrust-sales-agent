@@ -39,10 +39,24 @@ MODELS = [
 _TRANSIENT = ("503", "overloaded", "unavailable", "429", "resource_exhausted",
               "500", "internal", "deadline", "timeout")
 
-# Last-resort provider when every Gemini model fails: SambaNova Cloud (OpenAI-compatible,
-# JSON mode). Reads SAMBANOVA_API_KEY from the environment — never hardcode the key.
-SAMBANOVA_URL = "https://api.sambanova.ai/v1/chat/completions"
-SAMBANOVA_MODELS = ["Meta-Llama-3.3-70B-Instruct", "DeepSeek-V3.2"]
+# Fallback providers when every Gemini model fails, tried in order: xAI (Grok)
+# first, then SambaNova Cloud. Both are OpenAI-compatible (JSON mode) and read
+# their API keys from the environment — never hardcode a key.
+FALLBACK_PROVIDERS = [
+    {
+        "name": "xAI",
+        "url": "https://api.x.ai/v1/chat/completions",
+        "key_env": "XAI_API_KEY",
+        # Unknown model ids just fail over to the next entry, so newer-first is safe.
+        "models": ["grok-4-1-fast-non-reasoning", "grok-4-fast-non-reasoning", "grok-3-mini"],
+    },
+    {
+        "name": "SambaNova",
+        "url": "https://api.sambanova.ai/v1/chat/completions",
+        "key_env": "SAMBANOVA_API_KEY",
+        "models": ["Meta-Llama-3.3-70B-Instruct", "DeepSeek-V3.2"],
+    },
+]
 
 
 class _RawResponse:
@@ -53,41 +67,44 @@ class _RawResponse:
         self.text = text
 
 
-def _sambanova_generate(contents, system_instruction, response_schema, max_output_tokens):
-    """Last-resort generation via SambaNova. Returns a _RawResponse with JSON text,
-    or None if no key is set or every SambaNova model fails."""
-    key = os.environ.get("SAMBANOVA_API_KEY")
-    if not key:
-        return None
+def _fallback_generate(contents, system_instruction, response_schema, max_output_tokens):
+    """Last-resort generation via the OpenAI-compatible FALLBACK_PROVIDERS, in order.
+    Returns a _RawResponse with JSON text, or None if no provider has a key set or
+    every model of every keyed provider fails."""
     schema = json.dumps(response_schema.model_json_schema())
     sys_msg = (f"{system_instruction}\n\nReturn ONLY a single JSON object that strictly conforms "
                f"to this JSON schema — include every required field, no markdown, no code fences, "
                f"no commentary:\n{schema}")
     last_exc = None
-    for model in SAMBANOVA_MODELS:
-        body = json.dumps({
-            "model": model,
-            "messages": [{"role": "system", "content": sys_msg},
-                         {"role": "user", "content": contents}],
-            "response_format": {"type": "json_object"},
-            "max_tokens": max_output_tokens,
-            "temperature": 0.4,
-        }).encode("utf-8")
-        req = urllib.request.Request(
-            SAMBANOVA_URL, data=body, method="POST",
-            headers={"Authorization": f"Bearer {key}", "Content-Type": "application/json"})
-        try:
-            with urllib.request.urlopen(req, timeout=120) as resp:
-                data = json.loads(resp.read())
-            text = data["choices"][0]["message"]["content"].strip()
-            if text.startswith("```"):  # strip accidental code fences
-                text = text[text.find("{"):text.rfind("}") + 1]
-            print(f"SambaNova: generated with {model}")
-            return _RawResponse(text)
-        except Exception as exc:  # noqa: BLE001 — try the next SambaNova model
-            last_exc = exc
-            print(f"SambaNova model {model} failed: {str(exc)[:160]}")
-    print(f"SambaNova fallback exhausted. Last error: {last_exc}")
+    for provider in FALLBACK_PROVIDERS:
+        key = os.environ.get(provider["key_env"])
+        if not key:
+            print(f"{provider['name']}: no {provider['key_env']} set — skipping.")
+            continue
+        for model in provider["models"]:
+            body = json.dumps({
+                "model": model,
+                "messages": [{"role": "system", "content": sys_msg},
+                             {"role": "user", "content": contents}],
+                "response_format": {"type": "json_object"},
+                "max_tokens": max_output_tokens,
+                "temperature": 0.4,
+            }).encode("utf-8")
+            req = urllib.request.Request(
+                provider["url"], data=body, method="POST",
+                headers={"Authorization": f"Bearer {key}", "Content-Type": "application/json"})
+            try:
+                with urllib.request.urlopen(req, timeout=120) as resp:
+                    data = json.loads(resp.read())
+                text = data["choices"][0]["message"]["content"].strip()
+                if text.startswith("```"):  # strip accidental code fences
+                    text = text[text.find("{"):text.rfind("}") + 1]
+                print(f"{provider['name']}: generated with {model}")
+                return _RawResponse(text)
+            except Exception as exc:  # noqa: BLE001 — try the next model/provider
+                last_exc = exc
+                print(f"{provider['name']} model {model} failed: {str(exc)[:160]}")
+    print(f"Fallback providers exhausted. Last error: {last_exc}")
     return None
 
 
@@ -122,13 +139,13 @@ def generate_with_fallback(client, contents, *, system_instruction, response_sch
                     continue
                 break  # non-transient, or out of attempts for this model — try the next
 
-    # Every Gemini model failed — last resort: SambaNova (if SAMBANOVA_API_KEY set).
-    print("All Gemini models failed — falling back to SambaNova.")
-    sn = _sambanova_generate(contents, system_instruction, response_schema, max_output_tokens)
-    if sn is not None:
-        return sn
-    raise RuntimeError(f"All Gemini models failed ({', '.join(models)}) and SambaNova "
-                       f"fallback was unavailable. Last Gemini error: {last_exc}")
+    # Every Gemini model failed — last resort: xAI, then SambaNova (keyed via env).
+    print("All Gemini models failed — falling back to xAI/SambaNova.")
+    fb = _fallback_generate(contents, system_instruction, response_schema, max_output_tokens)
+    if fb is not None:
+        return fb
+    raise RuntimeError(f"All Gemini models failed ({', '.join(models)}) and every "
+                       f"fallback provider was unavailable. Last Gemini error: {last_exc}")
 
 
 # ---------------------------------------------------------------- output schema
