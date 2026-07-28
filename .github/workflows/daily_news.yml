@@ -135,7 +135,7 @@ jobs:
           username: ${{ secrets.MAIL_USERNAME }}
           password: ${{ secrets.MAIL_PASSWORD }}
           subject: "Carousel 1/3 — ${{ steps.titles.outputs.t1 }} (${{ steps.guard.outputs.today }})"
-          to: pkaur@safetrustmtg.com,malaez@safetrustmtg.com
+          to: malaez@safetrustmtg.com
           from: SafeTrust Carousels <${{ secrets.MAIL_USERNAME }}>
           body: |
             Carousel 1 of 3 — ${{ steps.titles.outputs.t1 }}
@@ -155,7 +155,7 @@ jobs:
           username: ${{ secrets.MAIL_USERNAME }}
           password: ${{ secrets.MAIL_PASSWORD }}
           subject: "Carousel 2/3 — ${{ steps.titles.outputs.t2 }} (${{ steps.guard.outputs.today }})"
-          to: pkaur@safetrustmtg.com,malaez@safetrustmtg.com
+          to: malaez@safetrustmtg.com
           from: SafeTrust Carousels <${{ secrets.MAIL_USERNAME }}>
           body: |
             Carousel 2 of 3 — ${{ steps.titles.outputs.t2 }}
@@ -175,7 +175,7 @@ jobs:
           username: ${{ secrets.MAIL_USERNAME }}
           password: ${{ secrets.MAIL_PASSWORD }}
           subject: "Carousel 3/3 — ${{ steps.titles.outputs.t3 }} (${{ steps.guard.outputs.today }})"
-          to: pkaur@safetrustmtg.com,malaez@safetrustmtg.com
+          to: malaez@safetrustmtg.com
           from: SafeTrust Carousels <${{ secrets.MAIL_USERNAME }}>
           body: |
             Carousel 3 of 3 — ${{ steps.titles.outputs.t3 }}
