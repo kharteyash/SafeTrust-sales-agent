@@ -1,130 +1,130 @@
 {
   "carousels": [
     {
-      "slug": "fed-holds-rates-mortgage-paradox",
-      "title": "Fed Holds Rates, Mortgage Paradox",
-      "source": "Mortgage News Daily",
-      "source_url": "https://www.mortgagenewsdaily.com/markets/mortgage-rates-07292026",
-      "cover_text": "Fed Holds Rates. What gives with Mortgages?",
-      "caption": "The Fed held rates steady today, but mortgage rates still crept up. Why the disconnect? It's not about the Fed Funds Rate directly controlling your 30-year fixed. It\u2019s about market expectations and the long game. Don't fall for the simple headlines \u2013 understand the nuances that actually drive your pipeline and borrower conversations. This isn't just news; it's a playbook for explaining market moves to your clients.\n\nSource : https://tinyurl.com/2xl8647t\n#SafetrustMortgage #MortgageIntelligenceDaily #mortgagerates #housingmarket #fed",
-      "hashtags": [
-        "#SafetrustMortgage",
-        "#MortgageIntelligenceDaily",
-        "#mortgagerates",
-        "#housingmarket",
-        "#fed"
-      ],
-      "hook_tag": "Market Insight",
-      "hook": "Fed holds, yet mortgage rates went UP. Don't be fooled.",
-      "what_happened_heading": "The News: Fed Pauses, Rates Up",
-      "what_happened": "The Federal Reserve left its benchmark interest rate unchanged for the fifth consecutive meeting. Despite this, average mortgage rates still saw a slight increase today.",
-      "breakdown": [
-        {
-          "heading": "Short vs. Long Duration",
-          "body": "The Fed Funds Rate (the federal funds rate target range) directly influences short-term loans, like credit cards. Mortgage rates are tied to longer-duration bonds."
-        },
-        {
-          "heading": "Market Already Priced It In",
-          "body": "The market had already largely anticipated a Fed pause. Traders expected roughly a 1 in 3 chance of a hike, so the 'no hike' news was already factored into bond pricing."
-        },
-        {
-          "heading": "The 'Hawkish Pause' Effect",
-          "body": "Despite no hike, the Fed's rhetoric and projections may have been more 'hawkish' (favoring higher rates) than expected. This signals future rate strength."
-        },
-        {
-          "heading": "Underwriter Lens: Yields Matter",
-          "body": "When a file hits underwriting, we care about market yields on mortgage-backed securities (MBS). If MBS yields rise, so do borrower rates, regardless of the Fed Funds Rate."
-        }
-      ],
-      "my_take_heading": "My Take: Simple Headlines Miss the Point",
-      "my_take": "The Fed's actions are one piece. Mortgage rates are driven by the bond market, which reacts to expectations and future outlook. Don't confuse the two.",
-      "action_lo": "Explain the difference between the Fed Funds Rate and long-term mortgage rates. It builds trust and positions you as an expert.",
-      "action_realtor": "Educate clients that 'Fed holds' doesn't mean mortgage rates instantly drop. Set realistic expectations on pricing.",
-      "cta_question": "How are you explaining this market nuance to your clients without sounding like a finance professor?"
-    },
-    {
-      "slug": "fannie-mae-purchase-volume-jumps",
-      "title": "Fannie Mae Purchase Volume Jumps",
-      "source": "National Mortgage Professional",
-      "source_url": "https://nationalmortgageprofessional.com/news/fannie-mae-purchase-volume-jumps-33-second-quarter",
-      "cover_text": "Fannie Mae Purchase Volume: The Silver Lining",
-      "caption": "Fannie Mae's Q2 purchase volume jumped significantly, showing real momentum despite higher rates. This isn't just a number; it's proof that demand exists if we know where to look. For LOs and Realtors, this signals that the market is adapting, and opportunities are there for those who understand how to find and serve the eligible buyers. Let's dig into what this means for your everyday business and how to leverage it.\n\nSource : https://tinyurl.com/24qe7cby\n#SafetrustMortgage #MortgageIntelligenceDaily #homebuying #realestateagent #mortgagebroker",
-      "hashtags": [
-        "#SafetrustMortgage",
-        "#MortgageIntelligenceDaily",
-        "#homebuying",
-        "#realestateagent",
-        "#mortgagebroker"
-      ],
-      "hook_tag": "Market Activity",
-      "hook": "Fannie Mae purchase volume is UP. Are you catching this wave?",
-      "what_happened_heading": "The News: Fannie Mae's Q2 Boost",
-      "what_happened": "Fannie Mae acquired $72.8 billion in single-family purchase loans in Q2. This represents a 32.6% increase from Q1 and a 13.2% jump year-over-year.",
-      "breakdown": [
-        {
-          "heading": "Defying the Narrative",
-          "body": "This significant increase shows strong purchase activity, even with high rates and affordability concerns. It counters the 'market is dead' narrative."
-        },
-        {
-          "heading": "First-Time Buyers Still Active",
-          "body": "Fannie Mae is a major player in the conforming loan space, often supporting first-time homebuyers (FTHBs) and moderate-income borrowers. They are still buying."
-        },
-        {
-          "heading": "Underwriter Lens: Program Eligibility",
-          "body": "More Fannie Mae volume means more conforming loans are making it through underwriting. We're seeing buyers who fit standard agency guidelines finding homes."
-        },
-        {
-          "heading": "Focus on Qualifiable Borrowers",
-          "body": "This trend highlights the importance of finding buyers who meet agency credit, income, and DTI (how much of your income goes to debt) requirements, not just those with huge down payments."
-        }
-      ],
-      "my_take_heading": "My Take: It's Not About Who *Can* Buy, But Who *Is*",
-      "my_take": "The data shows that buyers meeting agency guidelines are actively purchasing homes. Our job is to find and qualify them, not lament the market.",
-      "action_lo": "Focus on pre-qualifying buyers for conforming loans. Understand agency DTI and LTV (loan-to-value) guidelines inside and out to identify ready buyers.",
-      "action_realtor": "Partner with LOs who specialize in agency-backed loans. Target marketing to demographics that typically fit these programs.",
-      "cta_question": "How are you proactively seeking out buyers who fit conforming loan profiles?"
-    },
-    {
-      "slug": "payment-first-search-inventory",
-      "title": "Payment-First Search Expands Inventory",
+      "slug": "construction-demand-vs-housing-supply",
+      "title": "Unpacking the Construction Demand Crisis",
       "source": "HousingWire",
-      "source_url": "https://www.housingwire.com/articles/payment-first-search-inventory/",
-      "cover_text": "Payment-First Search: Unlock More Inventory",
-      "caption": "The traditional 'price-first' home search limits buyers and sellers. Shifting to a 'payment-first' approach could unlock a hidden inventory of homes, better matching buyers with what they can truly afford. This isn't just a tech trend; it's a strategic pivot for how we present homes and structure deals. For top producers, understanding this shift is key to expanding your addressable market and helping more clients succeed in a tough market.\n\nSource : https://tinyurl.com/2yyvtbld\n#SafetrustMortgage #MortgageIntelligenceDaily #homebuying #realestate #housingmarket",
+      "source_url": "https://www.housingwire.com/articles/construction-labor-housing-supply/",
+      "cover_text": "Construction Demand is Impeding Housing",
+      "caption": "The US faces a 4 million home supply deficit, and it's not just about land. Construction demand is outstripping capacity, with competition from unexpected sources like AI data centers. This isn't just a builder's problem; it's driving up costs and timelines across the board. Understanding these underlying pressures helps us set realistic expectations for clients and strategically navigate a tight market. The underwriter's desk sees the fallout from delays and cost overruns. Stay informed on these macro factors to better serve your buyers and sellers.\n\nSource : https://tinyurl.com/2azzjysd\n#SafetrustMortgage #MortgageIntelligenceDaily #housingmarket #construction #realestateinvesting",
       "hashtags": [
         "#SafetrustMortgage",
         "#MortgageIntelligenceDaily",
-        "#homebuying",
-        "#realestate",
-        "#housingmarket"
+        "#housingmarket",
+        "#construction",
+        "#realestateinvesting"
       ],
-      "hook_tag": "Inventory Strategy",
-      "hook": "Price-first search is killing your deals. Try payment-first.",
-      "what_happened_heading": "The News: Payment-First Search",
-      "what_happened": "A 'payment-first' approach reframes available supply as payment-qualified inventory. This method aims to expand usable options for buyers and support transaction chains.",
+      "hook_tag": "Market Forces",
+      "hook": "AI data centers are competing for construction labor. Seriously.",
+      "what_happened_heading": "What Happened:",
+      "what_happened": "US construction demand is now impeding housing market success, facing a 4 million home supply deficit. Luxury home prices are up about 5%, highlighting a disconnect in the market.",
       "breakdown": [
         {
-          "heading": "Current Problem: Price Blinders",
-          "body": "Many buyers search strictly by list price, missing homes that might have slightly higher prices but lower payments due to different loan terms or specific financing options."
+          "heading": "The Real Supply Problem",
+          "body": "It's not just land or materials. The core issue is a labor and resource bottleneck for *all* construction, not just residential."
         },
         {
-          "heading": "New Solution: Affordability Focus",
-          "body": "Payment-first shifts the focus to the monthly payment, allowing buyers to see more homes within their actual affordability range, regardless of list price."
+          "heading": "AI's Unexpected Impact",
+          "body": "AI data centers are massive projects. They're pulling skilled labor and materials, intensifying competition and driving up costs for residential builds."
         },
         {
-          "heading": "Underwriter Lens: DTI is King",
-          "body": "When a file hits underwriting, the DTI (how much of your income goes to debt) is a primary factor. A payment-first search aligns perfectly by focusing on what a buyer can truly afford monthly."
+          "heading": "Underwriter's Lens: Cost Overruns",
+          "body": "When a builder faces higher costs or delays, it can impact project completion and loan conditions, potentially changing a file's viability. I've seen files stall from this directly."
         },
         {
-          "heading": "Unlocking 'Hidden' Inventory",
-          "body": "This approach can surface homes that were previously discarded due to price, expanding choices for buyers and increasing opportunities for sellers."
+          "heading": "Luxury vs. Starter Homes",
+          "body": "Luxury home price increases (up 5%) show where builders are focusing. Entry-level homes get squeezed, making the supply deficit worse where it hurts most."
         }
       ],
-      "my_take_heading": "My Take: It's Not About Supply, It's About Qualified Supply",
-      "my_take": "The market doesn't lack inventory; it lacks *payment-qualified* inventory. Helping buyers search by payment will unlock more viable options for everyone.",
-      "action_lo": "Lead with payment scenarios. Frame affordability around monthly PITI (Principal, Interest, Taxes, Insurance), not just sales price. Utilize payment calculators.",
-      "action_realtor": "Encourage clients to think about their monthly housing budget first. Work with LOs to present homes based on payment estimates, not just list price.",
-      "cta_question": "How are you adapting your buyer education to a 'payment-first' mindset?"
+      "my_take_heading": "My Take:",
+      "my_take": "The 'housing supply crisis' isn't just about how many homes exist; it's about who gets to build what, when, and for how much. AI is now a direct competitor for our resources.",
+      "action_lo": "Educate clients on potential construction delays and escalating costs, especially for new builds or major renovations. Set realistic expectations.",
+      "action_realtor": "Partner with diverse builders. Understand their project pipelines and resource constraints to better advise buyers on new construction timelines.",
+      "cta_question": "How are you seeing these construction pressures impact your local market and client expectations?"
+    },
+    {
+      "slug": "proprietary-reverse-mortgages",
+      "title": "Proprietary Reverse Mortgages & Fee Transparency",
+      "source": "HousingWire",
+      "source_url": "https://www.housingwire.com/articles/proprietary-reverse-fee-transparency/",
+      "cover_text": "Proprietary Reverse: Higher Fees, New Scrutiny",
+      "caption": "Proprietary reverse mortgages are now outpacing HECMs (Home Equity Conversion Mortgages), but with this growth comes increased scrutiny on fees. Unlike HECMs, proprietary products don't have federal caps on origination fees, creating a potential for higher costs to the borrower. This shift is a huge opportunity, but it also means we, as an industry, need to be hyper-transparent. As an underwriter, I\u2019ve seen firsthand how fees impact loan viability and borrower perception. The industry needs to get ahead of this now. It\u2019s about building trust and sustainable business.\n\nSource : https://tinyurl.com/2ydp33s2\n#SafetrustMortgage #MortgageIntelligenceDaily #reversemortgage #financialplanning #homebuying",
+      "hashtags": [
+        "#SafetrustMortgage",
+        "#MortgageIntelligenceDaily",
+        "#reversemortgage",
+        "#financialplanning",
+        "#homebuying"
+      ],
+      "hook_tag": "Reverse Mortgage",
+      "hook": "Proprietary reverse mortgages are booming. So are fee concerns.",
+      "what_happened_heading": "What Happened:",
+      "what_happened": "Proprietary reverse mortgages (non-government-insured products) outpaced HECMs (federally insured reverse mortgages) in Q1 2026, with $953 million vs $875 million in originations. This shift raises concerns about fee transparency due to the lack of federal caps.",
+      "breakdown": [
+        {
+          "heading": "The Rise of Proprietary",
+          "body": "Proprietary reverse mortgages are gaining traction, surpassing HECMs in Q1 originations. They offer flexibility beyond HECM limits for certain homeowners."
+        },
+        {
+          "heading": "No Federal Fee Caps",
+          "body": "Unlike HECMs, proprietary products don't have federal caps on origination fees. This creates potential for higher costs, which borrowers might not fully understand."
+        },
+        {
+          "heading": "Underwriter's Lens: Disclosure",
+          "body": "When a file hits underwriting, clear fee disclosure is paramount. Any ambiguity can trigger red flags and delay or even kill a deal due to RESPA violations or borrower confusion."
+        },
+        {
+          "heading": "Industry Pressure on Transparency",
+          "body": "With increased volume, the industry faces growing pressure to improve fee benchmarks and disclosure. Proactive transparency builds trust and avoids future regulations."
+        }
+      ],
+      "my_take_heading": "My Take:",
+      "my_take": "The growth of proprietary reverse mortgages is a clear market signal, but without federal fee caps, it\u2019s a direct call for proactive, radical transparency from originators. Don't wait for regulators.",
+      "action_lo": "Lead with fee transparency. Provide clear, itemized breakdowns of all costs for proprietary reverse mortgages and explain how they compare to HECMs.",
+      "action_realtor": "Understand the differences between HECM and proprietary reverse mortgages to better guide clients considering these options, especially regarding fees.",
+      "cta_question": "How are you ensuring fee transparency with proprietary reverse mortgages, and what best practices are you seeing?"
+    },
+    {
+      "slug": "vantagescore-4.0-optimal-blue",
+      "title": "VantageScore 4.0: Now in Optimal Blue",
+      "source": "HousingWire",
+      "source_url": "https://www.housingwire.com/articles/vantagescore-4-0-integrated-optimal-blue-mortgage-capital-markets/",
+      "cover_text": "VantageScore 4.0: New Reality for Rates",
+      "caption": "VantageScore 4.0's integration into Optimal Blue is a bigger deal than it sounds. This isn't just a tech update; it's a foundational shift for how loans are priced, hedged, and traded. With Fannie Mae and Freddie Mac transitioning to VantageScore 4.0, every loan officer needs to understand its implications for borrower eligibility and pricing. As an underwriter, I know that changes to credit scoring models directly impact who qualifies and at what rate. This is the operational reality of the new credit landscape for agency mortgages. Get ahead of it now.\n\nSource : https://tinyurl.com/22lu6q2k\n#SafetrustMortgage #MortgageIntelligenceDaily #mortgagebroker #loanofficer #mortgagerates",
+      "hashtags": [
+        "#SafetrustMortgage",
+        "#MortgageIntelligenceDaily",
+        "#mortgagebroker",
+        "#loanofficer",
+        "#mortgagerates"
+      ],
+      "hook_tag": "Credit Scoring",
+      "hook": "VantageScore 4.0 integration: bigger than you think.",
+      "what_happened_heading": "What Happened:",
+      "what_happened": "VantageScore 4.0, the new credit scoring model for Fannie Mae and Freddie Mac, is now integrated into Optimal Blue's capital markets platform. This impacts pricing, hedging, and trading workflows for agency mortgages.",
+      "breakdown": [
+        {
+          "heading": "The New Agency Standard",
+          "body": "Fannie Mae and Freddie Mac are transitioning to VantageScore 4.0. This makes its integration into Optimal Blue critical for all agency-backed loans."
+        },
+        {
+          "heading": "Impact on Pricing",
+          "body": "Optimal Blue is where most loans get priced. A new scoring model means changes to how risk is assessed, directly affecting borrower rates and eligibility."
+        },
+        {
+          "heading": "Underwriter's Lens: Credit Profile Shifts",
+          "body": "I'll be looking for how VantageScore 4.0 re-scores borrowers. Some profiles may improve, others may decline, impacting DTI (how much of your income goes to debt) and LTV (loan-to-value) thresholds."
+        },
+        {
+          "heading": "Hedging & Trading Realities",
+          "body": "This isn't just front-end. It redefines how loans are packaged and sold on the secondary market, influencing overall liquidity and product availability."
+        }
+      ],
+      "my_take_heading": "My Take:",
+      "my_take": "The Optimal Blue integration isn't just software; it's the operational reality of VantageScore 4.0. If you don't understand how it affects credit profiles, you're already behind on pricing and eligibility.",
+      "action_lo": "Review borrower credit reports with an understanding of VantageScore 4.0's methodology to anticipate potential shifts in eligibility and pricing.",
+      "action_realtor": "Advise buyers to understand their credit scores deeply, especially how the new VantageScore 4.0 model might be impacting their pre-approval and rate.",
+      "cta_question": "How are you preparing your team and clients for the full impact of VantageScore 4.0 on loan eligibility and pricing?"
     }
   ]
 }
