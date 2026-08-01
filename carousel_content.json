@@ -1,130 +1,258 @@
 {
   "carousels": [
     {
-      "slug": "construction-demand-vs-housing-supply",
-      "title": "Unpacking the Construction Demand Crisis",
-      "source": "HousingWire",
-      "source_url": "https://www.housingwire.com/articles/construction-labor-housing-supply/",
-      "cover_text": "Construction Demand is Impeding Housing",
-      "caption": "The US faces a 4 million home supply deficit, and it's not just about land. Construction demand is outstripping capacity, with competition from unexpected sources like AI data centers. This isn't just a builder's problem; it's driving up costs and timelines across the board. Understanding these underlying pressures helps us set realistic expectations for clients and strategically navigate a tight market. The underwriter's desk sees the fallout from delays and cost overruns. Stay informed on these macro factors to better serve your buyers and sellers.\n\nSource : https://tinyurl.com/2azzjysd\n#SafetrustMortgage #MortgageIntelligenceDaily #housingmarket #construction #realestateinvesting",
-      "hashtags": [
-        "#SafetrustMortgage",
-        "#MortgageIntelligenceDaily",
-        "#housingmarket",
-        "#construction",
-        "#realestateinvesting"
-      ],
-      "hook_tag": "Market Forces",
-      "hook": "AI data centers are competing for construction labor. Seriously.",
-      "what_happened_heading": "What Happened:",
-      "what_happened": "US construction demand is now impeding housing market success, facing a 4 million home supply deficit. Luxury home prices are up about 5%, highlighting a disconnect in the market.",
-      "breakdown": [
-        {
-          "heading": "The Real Supply Problem",
-          "body": "It's not just land or materials. The core issue is a labor and resource bottleneck for *all* construction, not just residential."
-        },
-        {
-          "heading": "AI's Unexpected Impact",
-          "body": "AI data centers are massive projects. They're pulling skilled labor and materials, intensifying competition and driving up costs for residential builds."
-        },
-        {
-          "heading": "Underwriter's Lens: Cost Overruns",
-          "body": "When a builder faces higher costs or delays, it can impact project completion and loan conditions, potentially changing a file's viability. I've seen files stall from this directly."
-        },
-        {
-          "heading": "Luxury vs. Starter Homes",
-          "body": "Luxury home price increases (up 5%) show where builders are focusing. Entry-level homes get squeezed, making the supply deficit worse where it hurts most."
-        }
-      ],
-      "my_take_heading": "My Take:",
-      "my_take": "The 'housing supply crisis' isn't just about how many homes exist; it's about who gets to build what, when, and for how much. AI is now a direct competitor for our resources.",
-      "action_lo": "Educate clients on potential construction delays and escalating costs, especially for new builds or major renovations. Set realistic expectations.",
-      "action_realtor": "Partner with diverse builders. Understand their project pipelines and resource constraints to better advise buyers on new construction timelines.",
-      "cta_question": "How are you seeing these construction pressures impact your local market and client expectations?"
-    },
-    {
-      "slug": "proprietary-reverse-mortgages",
-      "title": "Proprietary Reverse Mortgages & Fee Transparency",
-      "source": "HousingWire",
-      "source_url": "https://www.housingwire.com/articles/proprietary-reverse-fee-transparency/",
-      "cover_text": "Proprietary Reverse: Higher Fees, New Scrutiny",
-      "caption": "Proprietary reverse mortgages are now outpacing HECMs (Home Equity Conversion Mortgages), but with this growth comes increased scrutiny on fees. Unlike HECMs, proprietary products don't have federal caps on origination fees, creating a potential for higher costs to the borrower. This shift is a huge opportunity, but it also means we, as an industry, need to be hyper-transparent. As an underwriter, I\u2019ve seen firsthand how fees impact loan viability and borrower perception. The industry needs to get ahead of this now. It\u2019s about building trust and sustainable business.\n\nSource : https://tinyurl.com/2ydp33s2\n#SafetrustMortgage #MortgageIntelligenceDaily #reversemortgage #financialplanning #homebuying",
-      "hashtags": [
-        "#SafetrustMortgage",
-        "#MortgageIntelligenceDaily",
-        "#reversemortgage",
-        "#financialplanning",
-        "#homebuying"
-      ],
-      "hook_tag": "Reverse Mortgage",
-      "hook": "Proprietary reverse mortgages are booming. So are fee concerns.",
-      "what_happened_heading": "What Happened:",
-      "what_happened": "Proprietary reverse mortgages (non-government-insured products) outpaced HECMs (federally insured reverse mortgages) in Q1 2026, with $953 million vs $875 million in originations. This shift raises concerns about fee transparency due to the lack of federal caps.",
-      "breakdown": [
-        {
-          "heading": "The Rise of Proprietary",
-          "body": "Proprietary reverse mortgages are gaining traction, surpassing HECMs in Q1 originations. They offer flexibility beyond HECM limits for certain homeowners."
-        },
-        {
-          "heading": "No Federal Fee Caps",
-          "body": "Unlike HECMs, proprietary products don't have federal caps on origination fees. This creates potential for higher costs, which borrowers might not fully understand."
-        },
-        {
-          "heading": "Underwriter's Lens: Disclosure",
-          "body": "When a file hits underwriting, clear fee disclosure is paramount. Any ambiguity can trigger red flags and delay or even kill a deal due to RESPA violations or borrower confusion."
-        },
-        {
-          "heading": "Industry Pressure on Transparency",
-          "body": "With increased volume, the industry faces growing pressure to improve fee benchmarks and disclosure. Proactive transparency builds trust and avoids future regulations."
-        }
-      ],
-      "my_take_heading": "My Take:",
-      "my_take": "The growth of proprietary reverse mortgages is a clear market signal, but without federal fee caps, it\u2019s a direct call for proactive, radical transparency from originators. Don't wait for regulators.",
-      "action_lo": "Lead with fee transparency. Provide clear, itemized breakdowns of all costs for proprietary reverse mortgages and explain how they compare to HECMs.",
-      "action_realtor": "Understand the differences between HECM and proprietary reverse mortgages to better guide clients considering these options, especially regarding fees.",
-      "cta_question": "How are you ensuring fee transparency with proprietary reverse mortgages, and what best practices are you seeing?"
-    },
-    {
-      "slug": "vantagescore-4.0-optimal-blue",
-      "title": "VantageScore 4.0: Now in Optimal Blue",
-      "source": "HousingWire",
-      "source_url": "https://www.housingwire.com/articles/vantagescore-4-0-integrated-optimal-blue-mortgage-capital-markets/",
-      "cover_text": "VantageScore 4.0: New Reality for Rates",
-      "caption": "VantageScore 4.0's integration into Optimal Blue is a bigger deal than it sounds. This isn't just a tech update; it's a foundational shift for how loans are priced, hedged, and traded. With Fannie Mae and Freddie Mac transitioning to VantageScore 4.0, every loan officer needs to understand its implications for borrower eligibility and pricing. As an underwriter, I know that changes to credit scoring models directly impact who qualifies and at what rate. This is the operational reality of the new credit landscape for agency mortgages. Get ahead of it now.\n\nSource : https://tinyurl.com/22lu6q2k\n#SafetrustMortgage #MortgageIntelligenceDaily #mortgagebroker #loanofficer #mortgagerates",
+      "slug": "ai-governance-deadline",
+      "title": "Fannie Mae AI Governance Deadline Arrives Aug. 6",
+      "source": "National Mortgage Professional",
+      "source_url": "https://nationalmortgageprofessional.com/news/fannie-mae-ai-governance-deadline-arrives-aug-6",
+      "cover_text": "Fannie Mae's AI deadline: Don't get caught.",
+      "caption": "The August 6th deadline for Fannie Mae's AI governance is here. This isn't just about compliance; it's about your operational risk and future profitability. Underwriters are already looking at how AI is implemented. If your models or processes touch Fannie Mae loans, you need documented, transparent governance. This isn't just a tech department issue; it's an enterprise-wide imperative that impacts your ability to sell loans. How are you adapting to this new landscape?\n\nSource : https://tinyurl.com/22e5khhw\n#SafetrustMortgage #MortgageIntelligenceDaily #mortgagebroker #loanofficer #mortgagetech",
       "hashtags": [
         "#SafetrustMortgage",
         "#MortgageIntelligenceDaily",
         "#mortgagebroker",
         "#loanofficer",
-        "#mortgagerates"
+        "#mortgagetech"
       ],
-      "hook_tag": "Credit Scoring",
-      "hook": "VantageScore 4.0 integration: bigger than you think.",
-      "what_happened_heading": "What Happened:",
-      "what_happened": "VantageScore 4.0, the new credit scoring model for Fannie Mae and Freddie Mac, is now integrated into Optimal Blue's capital markets platform. This impacts pricing, hedging, and trading workflows for agency mortgages.",
+      "hook_tag": "Regulatory Impact",
+      "hook": "Fannie Mae's AI deadline: It's not just for IT.",
+      "what_happened_heading": "The News: Fannie Mae AI Governance",
+      "what_happened": "Fannie Mae's AI and machine-learning governance requirements take effect August 6th. This formalizes how seller/servicers use AI in loans sold to or guaranteed by Fannie Mae.",
       "breakdown": [
         {
-          "heading": "The New Agency Standard",
-          "body": "Fannie Mae and Freddie Mac are transitioning to VantageScore 4.0. This makes its integration into Optimal Blue critical for all agency-backed loans."
+          "heading": "Underwriter Lens: New Questions",
+          "body": "When a file hits underwriting, we're not just checking loan docs. We'll be looking for signs that AI was used responsibly and ethically in origination."
         },
         {
-          "heading": "Impact on Pricing",
-          "body": "Optimal Blue is where most loans get priced. A new scoring model means changes to how risk is assessed, directly affecting borrower rates and eligibility."
+          "heading": "Beyond Compliance Checkboxes",
+          "body": "This isn't just a 'check the box' exercise. Fannie Mae wants to see a thoughtful, documented process for how you manage AI risk across your operation."
         },
         {
-          "heading": "Underwriter's Lens: Credit Profile Shifts",
-          "body": "I'll be looking for how VantageScore 4.0 re-scores borrowers. Some profiles may improve, others may decline, impacting DTI (how much of your income goes to debt) and LTV (loan-to-value) thresholds."
+          "heading": "Data Integrity is Key",
+          "body": "Any AI model is only as good as its data. Expect increased scrutiny on data sources, bias detection, and validation processes tied to AI usage."
         },
         {
-          "heading": "Hedging & Trading Realities",
-          "body": "This isn't just front-end. It redefines how loans are packaged and sold on the secondary market, influencing overall liquidity and product availability."
+          "heading": "Training & Oversight are Critical",
+          "body": "Underwriting will favor lenders who can demonstrate clear training protocols and robust human oversight of their AI-driven decisions."
         }
       ],
-      "my_take_heading": "My Take:",
-      "my_take": "The Optimal Blue integration isn't just software; it's the operational reality of VantageScore 4.0. If you don't understand how it affects credit profiles, you're already behind on pricing and eligibility.",
-      "action_lo": "Review borrower credit reports with an understanding of VantageScore 4.0's methodology to anticipate potential shifts in eligibility and pricing.",
-      "action_realtor": "Advise buyers to understand their credit scores deeply, especially how the new VantageScore 4.0 model might be impacting their pre-approval and rate.",
-      "cta_question": "How are you preparing your team and clients for the full impact of VantageScore 4.0 on loan eligibility and pricing?"
+      "my_take_heading": "My Take: This is about Risk Management, Not Just Tech",
+      "my_take": "The real story isn't about AI itself, but about Fannie Mae forcing lenders to finally get serious about AI's operational risk. It's about protecting the secondary market from unforeseen algorithmic failures or biases. Compliance here directly impacts your salability and buyback risk.",
+      "action_lo": "Understand how AI is used in your origination process and ensure transparent client communication about any automated steps.",
+      "action_realtor": "Be aware of lender processes. If a deal hits a snag due to AI governance, understand it's about lender risk, not necessarily the buyer.",
+      "cta_question": "Are you treating AI governance as a compliance task or a strategic business imperative?"
+    },
+    {
+      "slug": "mortgage-rates-near-highs",
+      "title": "Mortgage Rates Back Near Long-Term Highs",
+      "source": "Mortgage News Daily",
+      "source_url": "https://www.mortgagenewsdaily.com/markets/mortgage-rates-07312026",
+      "cover_text": "Rates near highs: What really drives them.",
+      "caption": "Mortgage rates are hovering near long-term highs again, but the 'why' is more complex than a single headline. It's not just the Fed; global events and nuanced bond market moves play a huge role. For loan officers and realtors, understanding these underlying drivers helps manage client expectations and strategize better. Don't just report the rate; explain the forces at play to truly differentiate yourself. What's your biggest challenge when rates fluctuate like this?\n\nSource : https://tinyurl.com/2bzw3fza\n#SafetrustMortgage #MortgageIntelligenceDaily #mortgagerates #housingmarket #realestateagent",
+      "hashtags": [
+        "#SafetrustMortgage",
+        "#MortgageIntelligenceDaily",
+        "#mortgagerates",
+        "#housingmarket",
+        "#realestateagent"
+      ],
+      "hook_tag": "Market Dynamics",
+      "hook": "Rates near highs: It's not just about the Fed.",
+      "what_happened_heading": "The News: Mortgage Rates Climb Again",
+      "what_happened": "Mortgage rates are back near their long-term highs, with the 30-year fixed index hitting 6.83%. This increase is driven by weakness in the bond market.",
+      "breakdown": [
+        {
+          "heading": "Underwriter Lens: Affordability Check",
+          "body": "Higher rates directly impact DTI (how much of your income goes to debt). We're seeing more marginal files struggle with qualifying at these levels."
+        },
+        {
+          "heading": "Beyond the Fed Narrative",
+          "body": "While Fed policy is crucial, global events like currency interventions or rising oil prices also move the bond market, directly impacting mortgage rates."
+        },
+        {
+          "heading": "Bond Market Dictates Rates",
+          "body": "Mortgage rates track the 10-year Treasury yield. When bonds sell off for any reason, yields rise, and so do mortgage rates. It's a direct correlation."
+        },
+        {
+          "heading": "Volatility is the New Normal",
+          "body": "Expect continued rate swings. The market is reacting to a complex mix of economic data, geopolitical events, and central bank actions."
+        }
+      ],
+      "my_take_heading": "My Take: Focus on the 'Why' Not Just the 'What'",
+      "my_take": "Everyone can report the current rate. Top professionals explain *why* rates are where they are. Understanding the bond market's esoteric moves – like currency intervention – helps you anticipate trends and educate clients better than your competition. It's about genuine market intelligence, not just headline grabbing.",
+      "action_lo": "Help clients understand the impact of slight rate increases on their DTI and monthly payment, preparing them for potential shifts.",
+      "action_realtor": "Set realistic expectations for buyers regarding monthly payments. Focus on total housing cost, not just purchase price, given current rates.",
+      "cta_question": "What's the one obscure market factor you watch that others miss?"
+    },
+    {
+      "slug": "public-service-homeownership",
+      "title": "Even Stable Public-Service Careers No Longer Guarantee Homeownership",
+      "source": "National Mortgage Professional",
+      "source_url": "https://nationalmortgageprofessional.com/news/even-stable-public-service-careers-no-longer-guarantee-homeownership",
+      "cover_text": "Public service: Homeownership slipping away?",
+      "caption": "The idea that a stable public service job guarantees homeownership is quickly becoming a myth. For teachers, healthcare workers, and first responders, the path to buying a home is getting harder, especially for younger or single-income households. This isn't just a moral issue; it's a fundamental challenge to the housing market and our communities. As mortgage professionals, we need to adapt our strategies to serve these critical buyers better. How are you approaching this challenge?\n\nSource : https://tinyurl.com/238kxwcx\n#SafetrustMortgage #MortgageIntelligenceDaily #housingaffordability #firsttimehomebuyer #realestate",
+      "hashtags": [
+        "#SafetrustMortgage",
+        "#MortgageIntelligenceDaily",
+        "#housingaffordability",
+        "#firsttimehomebuyer",
+        "#realestate"
+      ],
+      "hook_tag": "Affordability Crisis",
+      "hook": "Stable jobs no longer mean homeownership. Why?",
+      "what_happened_heading": "The News: Public Service Struggles",
+      "what_happened": "Even stable public service careers like teaching and healthcare no longer guarantee homeownership. This is particularly true for younger and single-income buyers in many major metros.",
+      "breakdown": [
+        {
+          "heading": "Underwriter Lens: Income vs. Debt",
+          "body": "For these buyers, even with steady income, increasing housing costs (PITI) combined with student loan debt pushes DTI (debt-to-income) ratios too high. It's a math problem."
+        },
+        {
+          "heading": "Median Home Price Challenge",
+          "body": "An analysis shows established households in these professions could afford the median home in only up to 39 of 50 largest metros. Younger buyers fare even worse."
+        },
+        {
+          "heading": "Single-Income Struggles",
+          "body": "The traditional single-income household is severely challenged. Dual-income is often the only path to qualify for today's home prices and rates."
+        },
+        {
+          "heading": "Community Impact is Real",
+          "body": "If essential workers can't afford to live in the communities they serve, it creates broader societal problems and impacts local economies."
+        }
+      ],
+      "my_take_heading": "My Take: This is a Pipeline Problem, Not Just a Social Issue",
+      "my_take": "We used to count on public service employees as reliable, low-risk borrowers. Now, many are priced out. This isn't just a social justice talking point; it's a shrinking buyer pool for our industry. If we don't find ways to serve them, our pipelines suffer.",
+      "action_lo": "Master programs for first responders, teachers, and healthcare workers. Focus on down payment assistance and grant programs.",
+      "action_realtor": "Partner with lenders who specialize in public service programs. Target marketing efforts to these essential worker groups.",
+      "cta_question": "What specific programs are you leveraging to help essential workers achieve homeownership?"
+    }
+  ],
+  "carousels_es": [
+    {
+      "slug": "ai-governance-deadline",
+      "title": "Se acerca la fecha límite de gobernanza de IA de Fannie Mae: 6 de agosto",
+      "source": "National Mortgage Professional",
+      "source_url": "https://nationalmortgageprofessional.com/news/fannie-mae-ai-governance-deadline-arrives-aug-6",
+      "cover_text": "Fannie Mae: Fecha límite de IA. No se quede atrás.",
+      "caption": "La fecha límite del 6 de agosto para la gobernanza de IA de Fannie Mae ya llegó. Esto no se trata solo de cumplimiento; se trata de su riesgo operativo y rentabilidad futura. Los suscriptores ya están analizando cómo se implementa la IA. Si sus modelos o procesos tocan los préstamos de Fannie Mae, necesita una gobernanza documentada y transparente. Esto no es solo un problema del departamento de tecnología; es un imperativo para toda la empresa que afecta su capacidad para vender préstamos. ¿Cómo se está adaptando a este nuevo panorama?\n\nFuente : https://tinyurl.com/22e5khhw\n#SafetrustMortgage #MortgageIntelligenceDaily #mortgagebroker #loanofficer #mortgagetech",
+      "hashtags": [
+        "#SafetrustMortgage",
+        "#MortgageIntelligenceDaily",
+        "#mortgagebroker",
+        "#loanofficer",
+        "#mortgagetech"
+      ],
+      "hook_tag": "Impacto Regulador",
+      "hook": "Fannie Mae: Fecha límite de IA no solo para TI.",
+      "what_happened_heading": "Noticia: Gobernanza de IA de Fannie Mae",
+      "what_happened": "Los requisitos de gobernanza de inteligencia artificial (IA) y aprendizaje automático de Fannie Mae entran en vigor el 6 de agosto. Esto formaliza cómo los vendedores/administradores utilizan la IA en los préstamos vendidos o garantizados por Fannie Mae.",
+      "breakdown": [
+        {
+          "heading": "Óptica del Suscriptor: Nuevas Preguntas",
+          "body": "Cuando un archivo llega a suscripción, no solo revisamos los documentos del préstamo. Buscaremos señales de que la IA se usó de manera responsable y ética en la originación."
+        },
+        {
+          "heading": "Más Allá de Casillas de Cumplimiento",
+          "body": "Esto no es solo una actividad de 'marcar casillas'. Fannie Mae quiere ver un proceso bien pensado y documentado sobre cómo gestiona el riesgo de la IA en toda su operación."
+        },
+        {
+          "heading": "La Integridad de Datos es Clave",
+          "body": "Cualquier modelo de IA solo es tan bueno como sus datos. Espere un mayor escrutinio sobre las fuentes de datos, la detección de sesgos y los procesos de validación vinculados al uso de la IA."
+        },
+        {
+          "heading": "Capacitación y Supervisión Críticas",
+          "body": "La suscripción favorecerá a los prestamistas que puedan demostrar protocolos de capacitación claros y una sólida supervisión humana de sus decisiones impulsadas por la IA."
+        }
+      ],
+      "my_take_heading": "Mi Opinión: Es Gestión de Riesgos, No Solo Tecnología",
+      "my_take": "La verdadera historia no se trata de la IA en sí, sino de que Fannie Mae obliga a los prestamistas a tomarse en serio el riesgo operativo de la IA. Se trata de proteger el mercado secundario de fallas algorítmicas o sesgos imprevistos. El cumplimiento aquí afecta directamente su capacidad de venta y riesgo de recompra.",
+      "action_lo": "Comprenda cómo se utiliza la IA en su proceso de originación y asegure una comunicación transparente con el cliente sobre cualquier paso automatizado.",
+      "action_realtor": "Esté atento a los procesos del prestamista. Si un trato se estanca debido a la gobernanza de IA, entienda que se trata de riesgo del prestamista, no necesariamente del comprador.",
+      "cta_question": "¿Está tratando la gobernanza de IA como una tarea de cumplimiento o un imperativo estratégico de negocio?"
+    },
+    {
+      "slug": "mortgage-rates-near-highs",
+      "title": "Las tasas hipotecarias vuelven a estar cerca de máximos históricos",
+      "source": "Mortgage News Daily",
+      "source_url": "https://www.mortgagenewsdaily.com/markets/mortgage-rates-07312026",
+      "cover_text": "Tasas cerca de máximos: Su verdadero motor.",
+      "caption": "Las tasas hipotecarias se mantienen cerca de sus máximos históricos, pero la razón es más compleja que un simple titular. No es solo la Fed; los eventos globales y los movimientos del mercado de bonos juegan un papel enorme. Para los oficiales de préstamos y agentes inmobiliarios, comprender estos motores ayuda a manejar las expectativas del cliente y a elaborar mejores estrategias. No solo informe la tasa; explique las fuerzas en juego para diferenciarse realmente. ¿Cuál es su mayor desafío cuando las tasas fluctúan así?\n\nFuente : https://tinyurl.com/2bzw3fza\n#SafetrustMortgage #MortgageIntelligenceDaily #mortgagerates #housingmarket #realestateagent",
+      "hashtags": [
+        "#SafetrustMortgage",
+        "#MortgageIntelligenceDaily",
+        "#mortgagerates",
+        "#housingmarket",
+        "#realestateagent"
+      ],
+      "hook_tag": "Dinámica del Mercado",
+      "hook": "Tasas cerca de máximos: No solo es la Fed.",
+      "what_happened_heading": "Noticia: Las tasas hipotecarias vuelven a subir",
+      "what_happened": "Las tasas hipotecarias están de nuevo cerca de sus máximos históricos, con el índice fijo a 30 años alcanzando el 6.83%. Este aumento se debe a la debilidad en el mercado de bonos.",
+      "breakdown": [
+        {
+          "heading": "Óptica del Suscriptor: Revisión de Asequibilidad",
+          "body": "Las tasas más altas impactan directamente el DTI (cuánto de sus ingresos se destina a la deuda). Estamos viendo que más archivos marginales tienen dificultades para calificar a estos niveles."
+        },
+        {
+          "heading": "Más Allá de la Narrativa de la Fed",
+          "body": "Aunque la política de la Fed es crucial, eventos globales como las intervenciones monetarias o el aumento de los precios del petróleo también mueven el mercado de bonos, impactando directamente las tasas hipotecarias."
+        },
+        {
+          "heading": "El Mercado de Bonos Dicta las Tasas",
+          "body": "Las tasas hipotecarias siguen el rendimiento del bono del Tesoro a 10 años. Cuando los bonos se venden por cualquier razón, los rendimientos suben, y también lo hacen las tasas hipotecarias. Es una correlación directa."
+        },
+        {
+          "heading": "La Volatilidad es la Nueva Normalidad",
+          "body": "Espere continuas fluctuaciones de las tasas. El mercado está reaccionando a una compleja mezcla de datos económicos, eventos geopolíticos y acciones de bancos centrales."
+        }
+      ],
+      "my_take_heading": "Mi Opinión: Concéntrese en el 'Por Qué' No Solo en el 'Qué'",
+      "my_take": "Todos pueden informar la tasa actual. Los mejores profesionales explican *por qué* las tasas están donde están. Comprender los movimientos esotéricos del mercado de bonos, como la intervención monetaria, le ayuda a anticipar tendencias y educar a los clientes mejor que su competencia. Se trata de inteligencia de mercado genuina, no solo de acaparar titulares.",
+      "action_lo": "Ayude a los clientes a comprender el impacto de los ligeros aumentos de las tasas en su DTI y pago mensual, preparándolos para posibles cambios.",
+      "action_realtor": "Establezca expectativas realistas para los compradores con respecto a los pagos mensuales. Concéntrese en el costo total de la vivienda, no solo en el precio de compra, dadas las tasas actuales.",
+      "cta_question": "¿Cuál es el factor de mercado más oscuro que usted observa y que otros pasan por alto?"
+    },
+    {
+      "slug": "public-service-homeownership",
+      "title": "Ni siquiera las carreras estables en el servicio público garantizan ya la propiedad de vivienda",
+      "source": "National Mortgage Professional",
+      "source_url": "https://nationalmortgageprofessional.com/news/even-stable-public-service-careers-no-longer-guarantee-homeownership",
+      "cover_text": "Servicio público: ¿La vivienda se escapa?",
+      "caption": "La idea de que un trabajo estable en el servicio público garantiza la propiedad de vivienda se está convirtiendo rápidamente en un mito. Para los maestros, trabajadores de la salud y personal de primera respuesta, el camino para comprar una casa se vuelve más difícil, especialmente para hogares más jóvenes o de un solo ingreso. Esto no es solo un problema moral; es un desafío fundamental para el mercado de la vivienda y nuestras comunidades. Como profesionales hipotecarios, debemos adaptar nuestras estrategias para servir mejor a estos compradores clave. ¿Cómo está abordando este desafío?\n\nFuente : https://tinyurl.com/238kxwcx\n#SafetrustMortgage #MortgageIntelligenceDaily #housingaffordability #firsttimehomebuyer #realestate",
+      "hashtags": [
+        "#SafetrustMortgage",
+        "#MortgageIntelligenceDaily",
+        "#housingaffordability",
+        "#firsttimehomebuyer",
+        "#realestate"
+      ],
+      "hook_tag": "Crisis de Asequibilidad",
+      "hook": "Trabajos estables ya no significan ser propietario. ¿Por qué?",
+      "what_happened_heading": "Noticia: El servicio público en dificultades",
+      "what_happened": "Ni siquiera las carreras estables en el servicio público, como la enseñanza y la atención médica, garantizan ya la propiedad de vivienda. Esto es particularmente cierto para los compradores más jóvenes y de un solo ingreso en muchas de las principales ciudades.",
+      "breakdown": [
+        {
+          "heading": "Óptica del Suscriptor: Ingresos vs. Deuda",
+          "body": "Para estos compradores, incluso con ingresos estables, los crecientes costos de la vivienda (PITI) combinados con la deuda de préstamos estudiantiles elevan demasiado las relaciones DTI (deuda-ingreso). Es un problema de matemáticas."
+        },
+        {
+          "heading": "Reto del Precio Medio de la Vivienda",
+          "body": "Un análisis muestra que los hogares establecidos en estas profesiones solo podrían pagar la vivienda media en hasta 39 de las 50 ciudades más grandes. A los compradores más jóvenes les va aún peor."
+        },
+        {
+          "heading": "Dificultades del Ingreso Único",
+          "body": "El hogar tradicional de un solo ingreso está seriamente desafiado. El doble ingreso suele ser el único camino para calificar para los precios y tasas de vivienda actuales."
+        },
+        {
+          "heading": "El Impacto Comunitario es Real",
+          "body": "Si los trabajadores esenciales no pueden permitirse vivir en las comunidades a las que sirven, esto crea problemas sociales más amplios e impacta las economías locales."
+        }
+      ],
+      "my_take_heading": "Mi Opinión: Es un Problema de la Cartera, No Solo Social",
+      "my_take": "Solíamos contar con los empleados del servicio público como prestatarios confiables y de bajo riesgo. Ahora, muchos están fuera de precio. Esto no es solo un argumento de justicia social; es una reducción del grupo de compradores para nuestra industria. Si no encontramos formas de servirles, nuestras carteras sufrirán.",
+      "action_lo": "Domine los programas para personal de primera respuesta, maestros y trabajadores de la salud. Concéntrese en programas de asistencia para el pago inicial y subvenciones.",
+      "action_realtor": "Asóciese con prestamistas especializados en programas de servicio público. Dirija los esfuerzos de marketing a estos grupos de trabajadores esenciales.",
+      "cta_question": "¿Qué programas específicos está utilizando para ayudar a los trabajadores esenciales a lograr la propiedad de vivienda?"
     }
   ]
 }
