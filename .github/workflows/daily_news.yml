@@ -115,7 +115,9 @@ jobs:
           python - <<'PY' >> "$GITHUB_OUTPUT"
           import json
           data = json.load(open("carousel_content.json"))
-          for i, c in enumerate(data["carousels"][:3], 1):
+          cars = data["carousels"][:3] + data.get("carousels_es", [])[:3]
+          print(f"has_es={'true' if len(cars) > 3 else 'false'}")
+          for i, c in enumerate(cars, 1):
               title = c.get("title", f"Carousel {i}").replace("\n", " ").strip()
               caption = c.get("caption", "").replace("\r", "").strip()
               print(f"t{i}={title}")
@@ -184,3 +186,63 @@ jobs:
             Caption:
             ${{ steps.titles.outputs.c3 }}
           attachments: carousels/slides/carousel_3/slide_*.png
+
+      - name: Email carousel 4 (Spanish 1)
+        if: steps.guard.outputs.run == 'true' && steps.titles.outputs.has_es == 'true'
+        uses: dawidd6/action-send-mail@v3
+        with:
+          server_address: smtp.gmail.com
+          server_port: 465
+          secure: true
+          username: ${{ secrets.MAIL_USERNAME }}
+          password: ${{ secrets.MAIL_PASSWORD }}
+          subject: "Carrusel 1/3 (Español) — ${{ steps.titles.outputs.t4 }} (${{ steps.guard.outputs.today }})"
+          to: malaez@safetrustmtg.com
+          from: SafeTrust Carousels <${{ secrets.MAIL_USERNAME }}>
+          body: |
+            Carrusel 1 de 3 en español (QuieroUnaCasa.com) — ${{ steps.titles.outputs.t4 }}
+            9 slides attached (1080x1350 PNG).
+
+            Caption:
+            ${{ steps.titles.outputs.c4 }}
+          attachments: carousels/slides/carousel_4/slide_*.png
+
+      - name: Email carousel 5 (Spanish 2)
+        if: steps.guard.outputs.run == 'true' && steps.titles.outputs.has_es == 'true'
+        uses: dawidd6/action-send-mail@v3
+        with:
+          server_address: smtp.gmail.com
+          server_port: 465
+          secure: true
+          username: ${{ secrets.MAIL_USERNAME }}
+          password: ${{ secrets.MAIL_PASSWORD }}
+          subject: "Carrusel 2/3 (Español) — ${{ steps.titles.outputs.t5 }} (${{ steps.guard.outputs.today }})"
+          to: malaez@safetrustmtg.com
+          from: SafeTrust Carousels <${{ secrets.MAIL_USERNAME }}>
+          body: |
+            Carrusel 2 de 3 en español (QuieroUnaCasa.com) — ${{ steps.titles.outputs.t5 }}
+            9 slides attached (1080x1350 PNG).
+
+            Caption:
+            ${{ steps.titles.outputs.c5 }}
+          attachments: carousels/slides/carousel_5/slide_*.png
+
+      - name: Email carousel 6 (Spanish 3)
+        if: steps.guard.outputs.run == 'true' && steps.titles.outputs.has_es == 'true'
+        uses: dawidd6/action-send-mail@v3
+        with:
+          server_address: smtp.gmail.com
+          server_port: 465
+          secure: true
+          username: ${{ secrets.MAIL_USERNAME }}
+          password: ${{ secrets.MAIL_PASSWORD }}
+          subject: "Carrusel 3/3 (Español) — ${{ steps.titles.outputs.t6 }} (${{ steps.guard.outputs.today }})"
+          to: malaez@safetrustmtg.com
+          from: SafeTrust Carousels <${{ secrets.MAIL_USERNAME }}>
+          body: |
+            Carrusel 3 de 3 en español (QuieroUnaCasa.com) — ${{ steps.titles.outputs.t6 }}
+            9 slides attached (1080x1350 PNG).
+
+            Caption:
+            ${{ steps.titles.outputs.c6 }}
+          attachments: carousels/slides/carousel_6/slide_*.png

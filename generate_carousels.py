@@ -29,6 +29,11 @@ DATE_HTML = (f'{_TODAY.strftime("%B")} {_TODAY.day}'
              f'<sup style="font-size:0.6em;letter-spacing:0;">{_ordinal_suffix(_TODAY.day)}</sup>'
              f' {_TODAY.year}')
 
+# Spanish date, e.g. "13 de julio de 2026" (Spanish months are lowercase).
+_MONTHS_ES = ["enero", "febrero", "marzo", "abril", "mayo", "junio", "julio",
+              "agosto", "septiembre", "octubre", "noviembre", "diciembre"]
+DATE_HTML_ES = f'{_TODAY.day} de {_MONTHS_ES[_TODAY.month - 1]} de {_TODAY.year}'
+
 # ---------------------------------------------------------------- brand tokens
 B           = "#1E3A5F"   # BRAND_PRIMARY  (navy)
 LIGHT       = "#3B6AA0"   # BRAND_LIGHT
@@ -112,6 +117,31 @@ LOGO_URI = _find_logo(["logo.png", "logo.jpg", "logo.jpeg", "logo.svg"])
 LOGO_WHITE_URI = _find_logo(["logo-white.png", "logo-white.svg", "logo_white.png"])
 # Equal Housing Opportunity badge (white) — shown bottom-right on the final slide.
 BADGE_URI = _find_logo(["equal-housing.png", "equal-housing.svg", "badge.png", "badge.svg"])
+# QuieroUnaCasa.com logo — replaces the SafeTrust logo on the Spanish carousels.
+# Taller than the SafeTrust wordmark (house art + stacked text), hence its own heights.
+QUC_URI = _find_logo(["QUC.png", "quc.png", "quierounacasa.png"])
+QUC_H      = 48   # masthead height on slide 1
+QUC_HERO_H = 68   # hero height on the final CTA slide
+
+# Per-language chrome labels (the model translates the copy; these are the fixed
+# slide labels). Spanish is formal ("usted").
+LABELS = {
+    "en": {
+        "what_happened": "What Happened", "breakdown": "The Breakdown",
+        "my_take": "My Take", "angle": "The Angle", "what_to_do": "What To Do",
+        "next_move": "Your next move", "for_lo": "For Loan Officers",
+        "for_realtor": "For Realtors", "join": "Join The Conversation",
+        "source": "Source",
+    },
+    "es": {
+        "what_happened": "Qu&eacute; Pas&oacute;", "breakdown": "El Desglose",
+        "my_take": "Mi Opini&oacute;n", "angle": "El &Aacute;ngulo",
+        "what_to_do": "Qu&eacute; Hacer", "next_move": "Su pr&oacute;ximo paso",
+        "for_lo": "Para Oficiales de Pr&eacute;stamo",
+        "for_realtor": "Para Agentes de Bienes Ra&iacute;ces",
+        "join": "&Uacute;nase a la Conversaci&oacute;n", "source": "Fuente",
+    },
+}
 # Headshot for the "My Take" slide — embedded raw (it's a photo, so the logo
 # white-knockout in _process_raster must not run on it).
 _HEADSHOT = ASSETS / "marsel-headshot.jpg"
@@ -136,34 +166,41 @@ def _nmls_line(on_light):
             f'<span style="color:{num};">{NMLS_NUMBER}</span></p>')
 
 
-def logo_lockup(on_light, show_mid=True):
-    """Masthead: the SafeTrust Mortgage logo (+ NMLS) and the larger Mortgage
-    Intelligence Daily logo (+ run date) side by side, split by a thin divider.
-    When show_mid=False (the final CTA slide) only the SafeTrust logo is shown."""
-    # --- SafeTrust Mortgage logo + NMLS ---
-    if LOGO_URI:
+def logo_lockup(on_light, show_mid=True, es=False):
+    """Masthead: the brand logo (+ NMLS) and the larger Mortgage Intelligence
+    Daily logo (+ run date) side by side, split by a thin divider. The brand is
+    SafeTrust Mortgage, or QuieroUnaCasa.com on the Spanish carousels. When
+    show_mid=False (the final CTA slide) only the brand logo is shown."""
+    # --- brand logo + NMLS ---
+    use_quc = es and QUC_URI
+    brand_uri   = QUC_URI if use_quc else LOGO_URI
+    brand_white = None if use_quc else LOGO_WHITE_URI  # QUC has no white variant
+    brand_alt   = "QuieroUnaCasa.com" if use_quc else "SafeTrust Mortgage"
+    brand_h     = QUC_H if use_quc else ST_H
+    hero_h      = QUC_HERO_H if use_quc else 42
+    if brand_uri:
         if on_light:
-            st_src, st_filt = LOGO_URI, ""
-        elif LOGO_WHITE_URI:
-            st_src, st_filt = LOGO_WHITE_URI, ""
+            st_src, st_filt = brand_uri, ""
+        elif brand_white:
+            st_src, st_filt = brand_white, ""
         else:
-            st_src, st_filt = LOGO_URI, "filter:brightness(0) invert(1);"
-        safetrust = (f'<img src="{st_src}" alt="SafeTrust Mortgage" '
-                     f'style="height:{ST_H}px;width:auto;max-width:150px;display:block;margin:0 auto;{st_filt}">')
+            st_src, st_filt = brand_uri, "filter:brightness(0) invert(1);"
+        brand = (f'<img src="{st_src}" alt="{brand_alt}" '
+                 f'style="height:{brand_h}px;width:auto;max-width:150px;display:block;margin:0 auto;{st_filt}">')
     else:
         stcolor = DARK if on_light else "#fff"
-        safetrust = (f'<div class="sans" style="font-size:14px;font-weight:600;letter-spacing:0.5px;'
-                     f'color:{stcolor};">SafeTrust Mortgage</div>')
-    left = f'<div style="text-align:center;">{safetrust}{_nmls_line(on_light)}</div>'
+        brand = (f'<div class="sans" style="font-size:14px;font-weight:600;letter-spacing:0.5px;'
+                 f'color:{stcolor};">{brand_alt}</div>')
+    left = f'<div style="text-align:center;">{brand}{_nmls_line(on_light)}</div>'
 
-    # SafeTrust logo only, at its original size, left-justified, with the NMLS
-    # line centered under the logo (shrink-wrapped block stays left).
+    # Brand logo only, at hero size, left-justified, with the NMLS line
+    # centered under the logo (shrink-wrapped block stays left).
     if not show_mid:
-        if LOGO_URI:
-            hero_st = (f'<img src="{st_src}" alt="SafeTrust Mortgage" '
-                       f'style="height:42px;width:auto;max-width:230px;display:block;margin:0 auto;{st_filt}">')
+        if brand_uri:
+            hero_st = (f'<img src="{st_src}" alt="{brand_alt}" '
+                       f'style="height:{hero_h}px;width:auto;max-width:230px;display:block;margin:0 auto;{st_filt}">')
         else:
-            hero_st = safetrust
+            hero_st = brand
         return (f'<div style="margin-bottom:24px;width:100%;text-align:left;">'
                 f'<div style="display:inline-block;text-align:center;">'
                 f'{hero_st}{_nmls_line(on_light)}</div></div>')
@@ -180,7 +217,7 @@ def logo_lockup(on_light, show_mid=True):
     date_color = "#000" if on_light else "rgba(255,255,255,0.7)"
     # Date sits just below the MID logo text (the PNG is trimmed tight to the text).
     date_html = (f'<p class="sans" style="font-size:11px;font-weight:500;color:{date_color};'
-                 f'letter-spacing:1px;margin-top:5px;">{DATE_HTML}</p>')
+                 f'letter-spacing:1px;margin-top:5px;">{DATE_HTML_ES if es else DATE_HTML}</p>')
     right = f'<div style="text-align:center;">{mid}{date_html}</div>'
 
     divcolor = "rgba(0,0,0,0.22)" if on_light else "rgba(255,255,255,0.35)"
@@ -299,14 +336,14 @@ def eho_badge(is_light):
             f'z-index:8;opacity:0.9;{filt}">')
 
 
-def source_line(source, on_light=False):
+def source_line(source, on_light=False, label="Source"):
     """"Source: <outlet>" shown under the @handle on the final slide."""
     source = (source or "").strip()
     if not source:
         return ""
     color = SUBTLE if on_light else "rgba(255,255,255,0.5)"
     return (f'<p class="sans" style="font-size:11px;color:{color};margin-top:6px;'
-            f'letter-spacing:0.3px;">Source: {html.escape(source)}</p>')
+            f'letter-spacing:0.3px;">{label}: {html.escape(source)}</p>')
 
 def ghost_number(num, bg):
     """Oversized, very faint index numeral filling the upper area of a slide as a
@@ -408,24 +445,27 @@ go(0);
     return head + frame + script
 
 # ---------------------------------------------------------------- data -> slides
-def render_carousel_slides(c, cover_blue=False):
+def render_carousel_slides(c, cover_blue=False, lang="en"):
     """Build the ~9-slide industry-analysis script from a structured carousel dict
     (see write_carousels.py): Hook, What Happened, 4x Breakdown, My Take, What To
-    Do, CTA. cover_blue flips slide 1 from a white cover to a blue-gradient one."""
+    Do, CTA. cover_blue flips slide 1 from a white cover to a blue-gradient one.
+    lang="es" renders the fixed chrome (labels, date, brand logo) in Spanish."""
     e = html.escape
+    L = LABELS[lang]
+    es = lang == "es"
 
-    # 1 — Hook / cover (centered) — SafeTrust + MID paired masthead.
+    # 1 — Hook / cover (centered) — brand + MID paired masthead.
     if cover_blue:
-        hook = (logo_lockup(False) + tag(e(c["hook_tag"]), "gradient")
+        hook = (logo_lockup(False, es=es) + tag(e(c["hook_tag"]), "gradient")
                 + h_dark(e(c["cover_text"]), 33) + p_dark(e(c["hook"])))
         slides = [{"bg": "gradient", "justify": "center", "content": hook}]
     else:
-        hook = (logo_lockup(True) + tag(e(c["hook_tag"]), "light")
+        hook = (logo_lockup(True, es=es) + tag(e(c["hook_tag"]), "light")
                 + h_light(e(c["cover_text"]), 33) + p_light(e(c["hook"])))
         slides = [{"bg": "light", "justify": "center", "content": hook}]
 
     # 2 — What happened (dark)
-    wh = (tag("What Happened", "dark") + h_dark(e(c["what_happened_heading"]))
+    wh = (tag(L["what_happened"], "dark") + h_dark(e(c["what_happened_heading"]))
           + p_dark(e(c["what_happened"])))
     slides.append({"bg": "dark", "content": wh, "ghost": True})
 
@@ -435,15 +475,15 @@ def render_carousel_slides(c, cover_blue=False):
         bg = bgs[i % len(bgs)]
         head = h_light if bg == "light" else h_dark
         body = p_light if bg == "light" else p_dark
-        content = (tag("The Breakdown", bg)
+        content = (tag(L["breakdown"], bg)
                    + head(e(b["heading"])) + body(e(b["body"])))
         slides.append({"bg": bg, "content": content, "ghost": True})
 
     # 7 — My take (gradient, centered) — the contrarian, screenshot slide.
     # The background-removed cutout stands along the right edge; the copy keeps
     # to a narrower left column so the figure stays clear of the text.
-    mt = (tag("My Take", "gradient") + h_dark(e(c["my_take_heading"]), 25)
-          + quote_box("The Angle", e(c["my_take"])))
+    mt = (tag(L["my_take"], "gradient") + h_dark(e(c["my_take_heading"]), 25)
+          + quote_box(L["angle"], e(c["my_take"])))
     slide7 = {"bg": "gradient", "justify": "center", "content": mt}
     if CUTOUT_URI:
         slide7["underlay"] = (
@@ -454,17 +494,17 @@ def render_carousel_slides(c, cover_blue=False):
     slides.append(slide7)
 
     # 8 — What to do (light) — one move for LOs, one for realtors
-    wtd = tag("What To Do", "light") + h_light("Your next move")
+    wtd = tag(L["what_to_do"], "light") + h_light(L["next_move"])
     wtd += stack([
-        feature_row("For Loan Officers", e(c["action_lo"]), last=False),
-        feature_row("For Realtors", e(c["action_realtor"]), last=True),
+        feature_row(L["for_lo"], e(c["action_lo"]), last=False),
+        feature_row(L["for_realtor"], e(c["action_realtor"]), last=True),
     ])
     slides.append({"bg": "light", "content": wtd, "ghost": True})
 
-    # 9 — CTA (gradient, centered) — SafeTrust-only masthead, handle, source, EHO badge
-    cta = (logo_lockup(False, show_mid=False) + tag("Join The Conversation", "gradient")
+    # 9 — CTA (gradient, centered) — brand-only masthead, handle, source, EHO badge
+    cta = (logo_lockup(False, show_mid=False, es=es) + tag(L["join"], "gradient")
            + h_dark(e(c["cta_question"]), 27) + handle_line()
-           + source_line(c.get("source", "")))
+           + source_line(c.get("source", ""), label=L["source"]))
     slides.append({"bg": "gradient", "justify": "center", "content": cta,
                    "source": c.get("source", "")})
 
@@ -481,9 +521,11 @@ def main():
         )
     data = json.loads(content_path.read_text(encoding="utf-8"))
     carousels = data["carousels"][:3]
+    carousels_es = data.get("carousels_es", [])[:3]
 
     # Cover colours alternate by day: one day 2 white + 1 blue, the next 2 blue +
     # 1 white, repeating. The run date drives it (and rotates which cover is blue).
+    # Each Spanish carousel mirrors its English counterpart's cover colour.
     n = len(carousels)
     d = _TODAY.toordinal()
     blue_count = min(2 if d % 2 == 0 else 1, n)  # even day -> 2 blue, odd day -> 1 blue
@@ -492,16 +534,25 @@ def main():
     print(f"Cover colours today: {blue_count} blue / {n - blue_count} white "
           f"(blue = carousels {sorted(i + 1 for i in blue_covers)})")
 
+    # Carousels 1-3: English. Carousels 4-6: the Spanish translations (QUC brand).
+    renders = [(c, "en", i in blue_covers) for i, c in enumerate(carousels)]
+    renders += [(c, "es", i in blue_covers) for i, c in enumerate(carousels_es)]
+
     out_dir = base / "carousels"
     out_dir.mkdir(exist_ok=True)
+    # Drop stale renders from a previous (possibly larger) set so exports and
+    # emails never pick up yesterday's carousels beyond today's count.
+    for old in out_dir.glob("carousel_*.html"):
+        old.unlink()
     index_links = []
-    for i, c in enumerate(carousels):
-        slides = render_carousel_slides(c, cover_blue=(i in blue_covers))
+    for i, (c, lang, blue) in enumerate(renders):
+        slides = render_carousel_slides(c, cover_blue=blue, lang=lang)
         doc = build_html(c.get("title", f"Carousel {i + 1}"), html.escape(c.get("caption", "")), slides)
         filename = f"carousel_{i + 1}.html"
         (out_dir / filename).write_text(doc, encoding="utf-8")
-        index_links.append(f'<li><a href="{filename}">{html.escape(c.get("title", filename))}</a> &mdash; {len(slides)} slides</li>')
-        print(f"Wrote carousels/{filename}  ({len(slides)} slides) — {c.get('title', '')}")
+        label = f'{c.get("title", filename)} [{lang.upper()}]'
+        index_links.append(f'<li><a href="{filename}">{html.escape(label)}</a> &mdash; {len(slides)} slides</li>')
+        print(f"Wrote carousels/{filename}  ({len(slides)} slides) [{lang}] — {c.get('title', '')}")
 
     index = ("<!doctype html><meta charset='utf-8'><title>SafeTrust Carousels</title>"
              "<body style=\"font-family:sans-serif;max-width:640px;margin:60px auto;padding:0 20px;color:#142842;\">"

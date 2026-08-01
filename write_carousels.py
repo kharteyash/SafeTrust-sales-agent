@@ -13,6 +13,7 @@ import os
 import re
 import sys
 import time
+import urllib.error
 import urllib.parse
 import urllib.request
 from pathlib import Path
@@ -105,18 +106,38 @@ def _fallback_generate(contents, system_instruction, response_schema, max_output
             }).encode("utf-8")
             req = urllib.request.Request(
                 provider["url"], data=body, method="POST",
-                headers={"Authorization": f"Bearer {key}", "Content-Type": "application/json"})
-            try:
-                with urllib.request.urlopen(req, timeout=120) as resp:
-                    data = json.loads(resp.read())
-                text = data["choices"][0]["message"]["content"].strip()
-                if text.startswith("```"):  # strip accidental code fences
-                    text = text[text.find("{"):text.rfind("}") + 1]
-                print(f"{provider['name']}: generated with {model}")
-                return _RawResponse(text)
-            except Exception as exc:  # noqa: BLE001 — try the next model/provider
-                last_exc = exc
-                print(f"{provider['name']} model {model} failed: {str(exc)[:160]}")
+                headers={"Authorization": f"Bearer {key}", "Content-Type": "application/json",
+                         # Cloudflare fronts these APIs and rejects Python's
+                         # default urllib UA with error 1010 — send a real UA.
+                         "User-Agent": "Mozilla/5.0 (MortgageIntelligenceDaily bot)"})
+            for attempt in (1, 2):
+                try:
+                    with urllib.request.urlopen(req, timeout=120) as resp:
+                        data = json.loads(resp.read())
+                    text = data["choices"][0]["message"]["content"].strip()
+                    if text.startswith("```"):  # strip accidental code fences
+                        text = text[text.find("{"):text.rfind("}") + 1]
+                    print(f"{provider['name']}: generated with {model}")
+                    return _RawResponse(text)
+                except urllib.error.HTTPError as exc:
+                    last_exc = exc
+                    # Free tiers rate-limit per minute; two back-to-back calls
+                    # (generate, then translate) trip this — wait once and retry.
+                    if exc.code == 429 and attempt == 1:
+                        try:
+                            wait = min(int(float(exc.headers.get("Retry-After", 30))), 90)
+                        except (TypeError, ValueError):
+                            wait = 30
+                        print(f"{provider['name']} model {model} rate-limited (429) — "
+                              f"retrying in {wait}s.")
+                        time.sleep(wait)
+                        continue
+                    print(f"{provider['name']} model {model} failed: {str(exc)[:160]}")
+                    break
+                except Exception as exc:  # noqa: BLE001 — try the next model/provider
+                    last_exc = exc
+                    print(f"{provider['name']} model {model} failed: {str(exc)[:160]}")
+                    break
     print(f"Fallback providers exhausted. Last error: {last_exc}")
     return None
 
@@ -195,6 +216,62 @@ class Carousel(BaseModel):
 
 class Output(BaseModel):
     carousels: List[Carousel]  # exactly 3
+
+
+TRANSLATE_SYSTEM = """You are a professional English-to-Spanish translator for \
+QuieroUnaCasa.com, the Spanish-language brand of a U.S. mortgage company.
+
+TASK
+Translate the given Instagram carousel scripts (JSON) into Spanish.
+
+RULES
+- Formal Spanish: always address the reader as "usted", never "tu". Neutral Latin \
+American business Spanish — no regional slang.
+- 10th-grade reading level: short sentences, plain everyday words, no bureaucratic phrasing.
+- Keep slug, source, source_url and hashtags EXACTLY as given — never translate or alter them.
+- Keep all numbers, percentages, dollar figures and program names (FHA, VA, DSCR, HELOC, \
+Non-QM...) unchanged. Where the English industry term is standard in the U.S. market, keep \
+it in parentheses after the Spanish the first time, e.g. "linea de credito con garantia \
+hipotecaria (HELOC)".
+- Respect the same field limits as the original: cover_text MAX 8 words; hook MAX 12 words; \
+what_happened EXACTLY 2 sentences; each breakdown body MAX 30 words; caption 100-150 words \
+whose FIRST line stands alone as a hook.
+- Translate the meaning, not word-for-word — the result must read like it was written in \
+Spanish by a mortgage professional.
+- Return the same JSON structure with exactly 3 carousels in the same order.
+- Plain text only — no HTML, no markdown."""
+
+
+def translate_carousels(client, carousels):
+    """Translate the English carousels into formal Spanish (usted, 10th-grade level).
+    Returns a list of Carousel or [] if translation fails — the Spanish set is
+    optional and must never break the English run."""
+    # Compact JSON — free-tier fallbacks (Groq) reject large requests with 413,
+    # and indentation alone roughly doubles the token count of the payload.
+    payload = json.dumps({"carousels": [c.model_dump() for c in carousels]},
+                         ensure_ascii=False, separators=(",", ":"))
+    try:
+        resp = generate_with_fallback(
+            client,
+            contents=f"Translate these carousels into Spanish:\n\n{payload}",
+            system_instruction=TRANSLATE_SYSTEM,
+            response_schema=Output,
+            max_output_tokens=8192,
+        )
+        parsed = resp.parsed
+        if parsed is None:
+            parsed = Output.model_validate_json(resp.text)
+        es = parsed.carousels
+        if len(es) != len(carousels):
+            raise ValueError(f"expected {len(carousels)} translated carousels, got {len(es)}")
+        # Pin the fields translation must never touch.
+        for en, s in zip(carousels, es):
+            s.slug, s.source, s.source_url = en.slug, en.source, en.source_url
+            s.hashtags = list(en.hashtags)
+        return es
+    except Exception as exc:  # noqa: BLE001 — Spanish is best-effort
+        print(f"Spanish translation failed — continuing with English only. ({str(exc)[:200]})")
+        return []
 
 
 SYSTEM = """ROLE
@@ -290,6 +367,42 @@ def _split_trailing_hashtags(caption):
     return caption[:m.start()].rstrip(), tags
 
 
+def _finalize_captions(carousels, link_cache, source_label="Source"):
+    """Rebuild each caption as: body, then the article link, then EXACTLY 5 hashtags
+    in one grouped block: the 2 permanent brand tags first, then the model's
+    3 dynamic story tags (inline caption tags fill in if the model returned <3).
+    link_cache dedupes TinyURL calls when both languages share an article."""
+    PERMANENT_TAGS = ["#SafetrustMortgage", "#MortgageIntelligenceDaily"]
+    MAX_TAGS = 5
+    for c in carousels:
+        body, inline_tags = _split_trailing_hashtags(c.caption)
+        seen, tags = set(), []
+        for t in PERMANENT_TAGS + list(c.hashtags) + inline_tags:
+            t = t.strip()
+            if not t:
+                continue
+            if not t.startswith("#"):
+                t = "#" + t
+            if t.lower() not in seen:
+                seen.add(t.lower())
+                tags.append(t)
+        tags = tags[:MAX_TAGS]
+        c.hashtags = tags
+        if c.source_url not in link_cache:
+            link_cache[c.source_url] = shorten_url(c.source_url)
+        link = link_cache[c.source_url]
+        # Tail block: the shortened article link, then all hashtags on the next line.
+        tail = []
+        if link:
+            tail.append(f"{source_label} : {link}")
+        if tags:
+            tail.append(" ".join(tags))
+        parts = [body]
+        if tail:
+            parts.append("\n".join(tail))
+        c.caption = "\n\n".join(p for p in parts if p.strip())
+
+
 def main():
     if not NEWS.exists():
         sys.exit("daily_news.json not found — run scrape.py first.")
@@ -329,40 +442,20 @@ def main():
     if result is None:
         result = Output.model_validate_json(response.text)
 
-    # Rebuild each caption as: body, then the article link, then EXACTLY 5 hashtags
-    # in one grouped block: the 2 permanent brand tags first, then the model's
-    # 3 dynamic story tags (inline caption tags fill in if the model returned <3).
-    PERMANENT_TAGS = ["#SafetrustMortgage", "#MortgageIntelligenceDaily"]
-    MAX_TAGS = 5
-    for c in result.carousels:
-        body, inline_tags = _split_trailing_hashtags(c.caption)
-        seen, tags = set(), []
-        for t in PERMANENT_TAGS + list(c.hashtags) + inline_tags:
-            t = t.strip()
-            if not t:
-                continue
-            if not t.startswith("#"):
-                t = "#" + t
-            if t.lower() not in seen:
-                seen.add(t.lower())
-                tags.append(t)
-        tags = tags[:MAX_TAGS]
-        c.hashtags = tags
-        link = shorten_url(c.source_url)
-        # Tail block: the shortened article link, then all hashtags on the next line.
-        tail = []
-        if link:
-            tail.append(f"Source : {link}")
-        if tags:
-            tail.append(" ".join(tags))
-        parts = [body]
-        if tail:
-            parts.append("\n".join(tail))
-        c.caption = "\n\n".join(p for p in parts if p.strip())
+    # Translate into Spanish BEFORE the captions get their link/hashtag tail, so
+    # the tail is built (not translated) for both languages.
+    es_carousels = translate_carousels(client, result.carousels)
 
-    OUT.write_text(json.dumps(result.model_dump(), indent=2), encoding="utf-8")
-    print(f"Wrote {OUT.name}: {len(result.carousels)} carousels")
-    for c in result.carousels:
+    link_cache = {}
+    _finalize_captions(result.carousels, link_cache, source_label="Source")
+    _finalize_captions(es_carousels, link_cache, source_label="Fuente")
+
+    out = result.model_dump()
+    out["carousels_es"] = [c.model_dump() for c in es_carousels]
+    OUT.write_text(json.dumps(out, indent=2, ensure_ascii=False), encoding="utf-8")
+    print(f"Wrote {OUT.name}: {len(result.carousels)} English + "
+          f"{len(es_carousels)} Spanish carousels")
+    for c in result.carousels + es_carousels:
         print(f"  - {c.title}")
 
 
