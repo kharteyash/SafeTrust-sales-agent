@@ -216,9 +216,14 @@ def logo_lockup(on_light, show_mid=True, es=False):
                f'line-height:1.1;">Mortgage<br>Intelligence Daily</div>')
     date_color = "#000" if on_light else "rgba(255,255,255,0.7)"
     # Date sits just below the MID logo text (the PNG is trimmed tight to the text).
+    # Spanish carousels flag the edition between the logo and the date.
+    edition = ""
+    if es:
+        edition = (f'<p class="sans" style="font-size:10px;font-weight:600;color:{date_color};'
+                   f'letter-spacing:2px;margin-top:5px;">- En Espa&ntilde;ol -</p>')
     date_html = (f'<p class="sans" style="font-size:11px;font-weight:500;color:{date_color};'
-                 f'letter-spacing:1px;margin-top:5px;">{DATE_HTML_ES if es else DATE_HTML}</p>')
-    right = f'<div style="text-align:center;">{mid}{date_html}</div>'
+                 f'letter-spacing:1px;margin-top:{3 if es else 5}px;">{DATE_HTML_ES if es else DATE_HTML}</p>')
+    right = f'<div style="text-align:center;">{mid}{edition}{date_html}</div>'
 
     divcolor = "rgba(0,0,0,0.22)" if on_light else "rgba(255,255,255,0.35)"
     divider = f'<div style="width:1px;height:46px;background:{divcolor};align-self:center;flex-shrink:0;"></div>'
@@ -260,13 +265,27 @@ def pills_row(items, strike=False):
     inner = "".join((strike_pill(t) if strike else pill(t)) for t in items)
     return f'<div style="display:flex;flex-wrap:wrap;gap:8px;margin-top:4px;">{inner}</div>'
 
-def quote_box(label, quote):
+def _fit_quote_size(text):
+    """Quote font size stepped down by text length so long quotes (Spanish runs
+    ~25% longer than English) never overflow the My Take slide."""
+    n = len(text)
+    if n <= 180:
+        return 16
+    if n <= 240:
+        return 14
+    if n <= 300:
+        return 12.5
+    return 11.5
+
+
+def quote_box(label, quote, qsize=16):
+    lh = 1.45 if qsize >= 14 else 1.4
     return (f'<div style="padding:16px 18px;background:rgba(255,255,255,0.07);border-radius:12px;'
             f'border:1px solid rgba(255,255,255,0.14);margin-top:6px;">'
             f'<p class="sans" style="font-size:11px;color:rgba(255,255,255,0.55);margin-bottom:8px;'
             f'letter-spacing:1px;text-transform:uppercase;">{label}</p>'
-            f'<p class="serif" style="font-size:16px;color:#fff;font-style:italic;'
-            f'line-height:1.45;">&ldquo;{quote}&rdquo;</p></div>')
+            f'<p class="serif" style="font-size:{qsize}px;color:#fff;font-style:italic;'
+            f'line-height:{lh};">&ldquo;{quote}&rdquo;</p></div>')
 
 def feature_row(label, desc, last=False):
     border = "" if last else f"border-bottom:1px solid {LIGHT_BORDER};"
@@ -482,8 +501,9 @@ def render_carousel_slides(c, cover_blue=False, lang="en"):
     # 7 — My take (gradient, centered) — the contrarian, screenshot slide.
     # The background-removed cutout stands along the right edge; the copy keeps
     # to a narrower left column so the figure stays clear of the text.
-    mt = (tag(L["my_take"], "gradient") + h_dark(e(c["my_take_heading"]), 25)
-          + quote_box(L["angle"], e(c["my_take"])))
+    mt = (tag(L["my_take"], "gradient")
+          + h_dark(e(c["my_take_heading"]), 21 if es else 25)
+          + quote_box(L["angle"], e(c["my_take"]), qsize=_fit_quote_size(c["my_take"])))
     slide7 = {"bg": "gradient", "justify": "center", "content": mt}
     if CUTOUT_URI:
         slide7["underlay"] = (

@@ -236,6 +236,10 @@ hipotecaria (HELOC)".
 - Respect the same field limits as the original: cover_text MAX 8 words; hook MAX 12 words; \
 what_happened EXACTLY 2 sentences; each breakdown body MAX 30 words; caption 100-150 words \
 whose FIRST line stands alone as a hook.
+- my_take: MAX 45 words in Spanish — tighten the wording if the English runs longer; it must \
+fit on one slide.
+- my_take_heading: never start it with "Mi Opinion:" or similar — the slide already carries \
+that label.
 - Translate the meaning, not word-for-word — the result must read like it was written in \
 Spanish by a mortgage professional.
 - Return the same JSON structure with exactly 3 carousels in the same order.
