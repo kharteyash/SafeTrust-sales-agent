@@ -49,6 +49,7 @@ GRAD        = "radial-gradient(140% 132% at 6% 116%, #3EA0DE 0%, #2379B6 20%, #1
 MUTED       = "#5A6B7E"   # body text on light
 SUBTLE      = "#8A94A0"   # descriptions on light
 HANDLE      = "safetrust_mortgage"
+HANDLE_ES   = "quierounacasa_com"   # IG handle shown on the Spanish carousels' CTA slide
 NMLS_NUMBER = "2178036"
 LOGO_BLUE   = "#1E56A4"   # sampled from the logo wordmark
 LOGO_GRAY   = "#818285"   # sampled from the logo subtitle
@@ -313,10 +314,10 @@ def cta_button(text):
             f'background:{LIGHT_BG};color:{DARK};font-family:\'Work Sans\',sans-serif;'
             f'font-weight:600;font-size:14px;border-radius:28px;margin-top:6px;">{text}</div>')
 
-def handle_line(on_light=False):
+def handle_line(on_light=False, handle=HANDLE):
     color = SUBTLE if on_light else "rgba(255,255,255,0.6)"
     return (f'<p class="sans" style="font-size:12px;color:{color};margin-top:16px;'
-            f'letter-spacing:0.5px;">@{HANDLE}</p>')
+            f'letter-spacing:0.5px;">@{handle}</p>')
 
 def big_stat(text):
     return (f'<div class="serif" style="font-size:78px;font-weight:700;color:{B};line-height:1;'
@@ -523,7 +524,7 @@ def render_carousel_slides(c, cover_blue=False, lang="en"):
 
     # 9 — CTA (gradient, centered) — brand-only masthead, handle, source, EHO badge
     cta = (logo_lockup(False, show_mid=False, es=es) + tag(L["join"], "gradient")
-           + h_dark(e(c["cta_question"]), 27) + handle_line()
+           + h_dark(e(c["cta_question"]), 27) + handle_line(handle=HANDLE_ES if es else HANDLE)
            + source_line(c.get("source", ""), label=L["source"]))
     slides.append({"bg": "gradient", "justify": "center", "content": cta,
                    "source": c.get("source", "")})
