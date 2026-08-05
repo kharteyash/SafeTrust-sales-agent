@@ -233,6 +233,8 @@ American business Spanish — no regional slang.
 Non-QM...) unchanged. Where the English industry term is standard in the U.S. market, keep \
 it in parentheses after the Spanish the first time, e.g. "linea de credito con garantia \
 hipotecaria (HELOC)".
+- GLOSSARY: translate "underwriter" as "asesor" — NEVER "suscriptor" (it reads as \
+"subscriber" to Spanish speakers).
 - Respect the same field limits as the original: cover_text MAX 8 words; hook MAX 12 words; \
 what_happened EXACTLY 2 sentences; each breakdown body MAX 30 words; caption 100-150 words \
 whose FIRST line stands alone as a hook.
