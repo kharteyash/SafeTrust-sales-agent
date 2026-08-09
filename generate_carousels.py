@@ -49,7 +49,6 @@ GRAD        = "radial-gradient(140% 132% at 6% 116%, #3EA0DE 0%, #2379B6 20%, #1
 MUTED       = "#5A6B7E"   # body text on light
 SUBTLE      = "#8A94A0"   # descriptions on light
 HANDLE      = "safetrust_mortgage"
-HANDLE_ES   = "quierounacasa_com"   # IG handle shown on the Spanish carousels' CTA slide
 NMLS_NUMBER = "2178036"
 LOGO_BLUE   = "#1E56A4"   # sampled from the logo wordmark
 LOGO_GRAY   = "#818285"   # sampled from the logo subtitle
@@ -118,6 +117,13 @@ LOGO_URI = _find_logo(["logo.png", "logo.jpg", "logo.jpeg", "logo.svg"])
 LOGO_WHITE_URI = _find_logo(["logo-white.png", "logo-white.svg", "logo_white.png"])
 # Equal Housing Opportunity badge (white) — shown bottom-right on the final slide.
 BADGE_URI = _find_logo(["equal-housing.png", "equal-housing.svg", "badge.png", "badge.svg"])
+# Brand icon (house + trend line) — replaces the SafeTrust logo AND the NMLS
+# line on the English carousels. The -white variant keeps the cyan glow but
+# turns the navy ink white for dark/gradient slides.
+ICON_URI = _find_logo(["brand-icon.png"])
+ICON_WHITE_URI = _find_logo(["brand-icon-white.png"])
+ICON_H      = 44   # masthead height on slide 1 (icon is ~2.2:1 wide)
+ICON_HERO_H = 60   # hero height on the final CTA slide
 # QuieroUnaCasa.com logo — replaces the SafeTrust logo on the Spanish carousels.
 # Taller than the SafeTrust wordmark (house art + stacked text), hence its own heights.
 QUC_URI = _find_logo(["QUC.png", "quc.png", "quierounacasa.png"])
@@ -172,13 +178,21 @@ def logo_lockup(on_light, show_mid=True, es=False):
     Daily logo (+ run date) side by side, split by a thin divider. The brand is
     SafeTrust Mortgage, or QuieroUnaCasa.com on the Spanish carousels. When
     show_mid=False (the final CTA slide) only the brand logo is shown."""
-    # --- brand logo + NMLS ---
+    # --- brand logo (+ NMLS, except with the brand icon) ---
+    # Both languages use the brand icon alone, no NMLS line; the old SafeTrust/
+    # QUC lockups remain as fallbacks if the icon asset is missing.
+    use_icon = ICON_URI
     use_quc = es and QUC_URI
-    brand_uri   = QUC_URI if use_quc else LOGO_URI
-    brand_white = None if use_quc else LOGO_WHITE_URI  # QUC has no white variant
-    brand_alt   = "QuieroUnaCasa.com" if use_quc else "SafeTrust Mortgage"
-    brand_h     = QUC_H if use_quc else ST_H
-    hero_h      = QUC_HERO_H if use_quc else 42
+    if use_icon:
+        brand_uri, brand_white, brand_alt = ICON_URI, ICON_WHITE_URI, "SafeTrust Mortgage"
+        brand_h, hero_h = ICON_H, ICON_HERO_H
+    else:
+        brand_uri   = QUC_URI if use_quc else LOGO_URI
+        brand_white = None if use_quc else LOGO_WHITE_URI  # QUC has no white variant
+        brand_alt   = "QuieroUnaCasa.com" if use_quc else "SafeTrust Mortgage"
+        brand_h     = QUC_H if use_quc else ST_H
+        hero_h      = QUC_HERO_H if use_quc else 42
+    nmls = "" if use_icon else _nmls_line(on_light)
     if brand_uri:
         if on_light:
             st_src, st_filt = brand_uri, ""
@@ -192,7 +206,7 @@ def logo_lockup(on_light, show_mid=True, es=False):
         stcolor = DARK if on_light else "#fff"
         brand = (f'<div class="sans" style="font-size:14px;font-weight:600;letter-spacing:0.5px;'
                  f'color:{stcolor};">{brand_alt}</div>')
-    left = f'<div style="text-align:center;">{brand}{_nmls_line(on_light)}</div>'
+    left = f'<div style="text-align:center;">{brand}{nmls}</div>'
 
     # Brand logo only, at hero size, left-justified, with the NMLS line
     # centered under the logo (shrink-wrapped block stays left).
@@ -204,7 +218,7 @@ def logo_lockup(on_light, show_mid=True, es=False):
             hero_st = brand
         return (f'<div style="margin-bottom:24px;width:100%;text-align:left;">'
                 f'<div style="display:inline-block;text-align:center;">'
-                f'{hero_st}{_nmls_line(on_light)}</div></div>')
+                f'{hero_st}{nmls}</div></div>')
 
     # --- Mortgage Intelligence Daily logo + date ---
     if MID_URI:
@@ -313,11 +327,6 @@ def cta_button(text):
     return (f'<div style="display:inline-flex;align-items:center;gap:8px;padding:13px 30px;'
             f'background:{LIGHT_BG};color:{DARK};font-family:\'Work Sans\',sans-serif;'
             f'font-weight:600;font-size:14px;border-radius:28px;margin-top:6px;">{text}</div>')
-
-def handle_line(on_light=False, handle=HANDLE):
-    color = SUBTLE if on_light else "rgba(255,255,255,0.6)"
-    return (f'<p class="sans" style="font-size:12px;color:{color};margin-top:16px;'
-            f'letter-spacing:0.5px;">@{handle}</p>')
 
 def big_stat(text):
     return (f'<div class="serif" style="font-size:78px;font-weight:700;color:{B};line-height:1;'
@@ -524,7 +533,7 @@ def render_carousel_slides(c, cover_blue=False, lang="en"):
 
     # 9 — CTA (gradient, centered) — brand-only masthead, handle, source, EHO badge
     cta = (logo_lockup(False, show_mid=False, es=es) + tag(L["join"], "gradient")
-           + h_dark(e(c["cta_question"]), 27) + handle_line(handle=HANDLE_ES if es else HANDLE)
+           + h_dark(e(c["cta_question"]), 27)
            + source_line(c.get("source", ""), label=L["source"]))
     slides.append({"bg": "gradient", "justify": "center", "content": cta,
                    "source": c.get("source", "")})
