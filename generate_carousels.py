@@ -49,6 +49,7 @@ GRAD        = "radial-gradient(140% 132% at 6% 116%, #3EA0DE 0%, #2379B6 20%, #1
 MUTED       = "#5A6B7E"   # body text on light
 SUBTLE      = "#8A94A0"   # descriptions on light
 HANDLE      = "safetrust_mortgage"
+HANDLE_ES   = "quierounacasa_com"   # IG handle shown on the Spanish carousels' CTA slide
 NMLS_NUMBER = "2178036"
 LOGO_BLUE   = "#1E56A4"   # sampled from the logo wordmark
 LOGO_GRAY   = "#818285"   # sampled from the logo subtitle
@@ -532,8 +533,11 @@ def render_carousel_slides(c, cover_blue=False, lang="en"):
     slides.append({"bg": "light", "content": wtd, "ghost": True})
 
     # 9 — CTA (gradient, centered) — brand-only masthead, handle, source, EHO badge
+    # Spanish keeps its IG handle on the CTA slide; English shows none.
+    handle = (f'<p class="sans" style="font-size:12px;color:rgba(255,255,255,0.6);'
+              f'margin-top:16px;letter-spacing:0.5px;">@{HANDLE_ES}</p>') if es else ""
     cta = (logo_lockup(False, show_mid=False, es=es) + tag(L["join"], "gradient")
-           + h_dark(e(c["cta_question"]), 27)
+           + h_dark(e(c["cta_question"]), 27) + handle
            + source_line(c.get("source", ""), label=L["source"]))
     slides.append({"bg": "gradient", "justify": "center", "content": cta,
                    "source": c.get("source", "")})
