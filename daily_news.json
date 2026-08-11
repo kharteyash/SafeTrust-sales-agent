@@ -1,38 +1,170 @@
 [
   {
-    "title": "Smith Douglas Homes doubles down on pace despite margin pain",
-    "summary": "Smith Douglas Homes grew Q2 closings 25% year over year and new home orders increased 32%, but gross margin fell 560 basis points as incentives rose and prices fell.",
-    "link": "https://www.housingwire.com/articles/smith-douglas-homes-doubles-down-on-pace-despite-margin-pain/",
-    "published": "2026-08-10T09:23:37"
+    "title": "Why late payments are stalling construction projects, and how to break the cycle",
+    "summary": "Late payments affect 70% of contractors, and average construction payment cycles run 90 days, creating operational risk for materials and payroll. The piece outlines standardized estimates, clear invoice terms and automation to improve timing and visibility.",
+    "link": "https://www.housingwire.com/articles/late-payments-construction-cashflow/",
+    "published": "2026-08-11T07:00:00"
   },
   {
-    "title": "M/I Homes Texas strategy, repeatable plans and fewer options",
-    "summary": "I first saw the production logic in Columbus. M/I Homes later paired a similar discipline with Texas talent, southern scale and national capital. I first encountered M/I Homes indirectly when I joined Brian Esher and his merry band of SWAT team members at STORM Consulting, where we worked on behalf of Silver Point Capital. I [&#8230;]",
-    "link": "https://www.housingwire.com/articles/mi-homes-texas-growth/",
-    "published": "2026-08-10T09:18:36"
+    "title": "Waiting until fall won\u2019t make homes more affordable, but here\u2019s what will",
+    "summary": "Income needed to afford a median-priced home rose to over $120,000, up from $66,000 in 2020. With rates forecast near 6.5% and prices still rising, the column argues buyer preparation and loan options matter more than timing.",
+    "link": "https://www.housingwire.com/articles/fall-home-affordability-preparation/",
+    "published": "2026-08-11T07:00:00"
   },
   {
-    "title": "NYC homeowners sue over pied a terre tax notices and roll",
-    "summary": "New York City homeowners sued the city and Mayor Zohran Mamdani on Friday, challenging how officials rolled out the so-called pied-\u00e0-terre tax on high-value homes. The lawsuit does not dispute the underlying tax. Instead, the owners argue the rollout swept in thousands of primary residences that should not owe the surcharge. Mamdani warned owners of [&#8230;]",
-    "link": "https://www.housingwire.com/articles/nyc-pied-a-terre-lawsuit/",
-    "published": "2026-08-10T09:12:57"
+    "title": "Six keys to tuning up the $15 trillion mortgage servicing sector",
+    "summary": "The article argues that AI impact in servicing depends on modernization fundamentals, migration automation, API-based integrations, recapture workflows and a single default lifecycle view. It also highlights real-time event automation for disasters and faster regulatory change monitoring.",
+    "link": "https://www.housingwire.com/articles/six-keys-mortgage-servicing-modernization/",
+    "published": "2026-08-11T07:00:00"
   },
   {
-    "title": "As America turns 250,\u00a0let\u2019s\u00a0renew the promise of home",
-    "summary": "As the US approaches its 250th anniversary, the column argues housing is central to economic opportunity, citing 12 million renters paying over 50% of income on rent and utilities. It highlights the 21st Century ROAD to Housing Act and urges funding for home repair and starter home financing programs.",
-    "link": "https://www.housingwire.com/articles/renew-housing-opportunity-250/",
-    "published": "2026-08-10T07:00:00"
+    "title": "Splitero expands home equity investment offering to four new states",
+    "summary": "U.S. homeowners hold $35 trillion in home equity, with many locked into low mortgage rates or facing strict income requirements.",
+    "link": "https://www.housingwire.com/articles/splitero-expands-home-equity-investment-offering-to-four-new-states/",
+    "published": "2026-08-10T20:54:41"
   },
   {
-    "title": "The pressure that reveals who you really are",
-    "summary": "A leadership reflection on how pressure can flip internal dialogue without any external change. A quiet long run becomes a framework for noticing self-talk and resetting it by pausing and paying attention.",
-    "link": "https://www.housingwire.com/articles/leadership-pressure-internal-dialogue/",
-    "published": "2026-08-10T07:00:00"
+    "title": "CCM to issue $500M in senior notes as Two Harbors deal nears closing",
+    "summary": "CrossCountry Intermediate Holdco (CCM) is expected to issue $500 million of senior unsecured notes, coinciding with the projected August closing of its Two Harbors Investment Corp. acquisition.",
+    "link": "https://www.housingwire.com/articles/ccm-500m-senior-unsecured-notes-fitch/",
+    "published": "2026-08-10T20:15:27"
   },
   {
-    "title": "Mortgage spreads keeping housing demand intact for now",
-    "summary": "Mortgage spreads at 2.01% are keeping 2026 mortgage rates near 6.74%, supporting pending sales and limiting year-over-year declines.",
-    "link": "https://www.housingwire.com/articles/mortgage-spreads-keeping-housing-demand-intact-for-now/",
-    "published": "2026-08-09T12:23:44"
+    "title": "After scaling Real and eXp, Erinn Nobel wants to build a brokerage with intention",
+    "summary": "ENRG. Realty, founded by Erinn and Peter Nobel, is in 16 states and uses revenue share and equity awards without prioritizing recruiting.",
+    "link": "https://www.housingwire.com/articles/enrg-realty-revenue-share/",
+    "published": "2026-08-10T19:57:46"
+  },
+  {
+    "title": "Consumer groups warn CFPB rollback of mortgage rules could expose borrowers",
+    "summary": "A coalition advocacy organizations is warning that proposed changes to federal lending rules could leave consumers vulnerable.",
+    "link": "https://www.housingwire.com/articles/consumer-groups-warn-cfpb-rollback-of-mortgage-rules-could-expose-borrowers/",
+    "published": "2026-08-10T19:02:35"
+  },
+  {
+    "title": "UWM faces law firm fraud probe, analyst stock price cuts after Q2 loss, Oaktree deal",
+    "summary": "UWM Holdings Corp.\u00a0is facing a securities fraud investigation and fresh cuts on Wall Street after reporting a loss for the second quarter and a $2.05 billion capital raise.",
+    "link": "https://www.housingwire.com/articles/uwm-securities-probe-q2-loss/",
+    "published": "2026-08-10T18:41:05"
+  },
+  {
+    "title": "UWM sues Two Harbors over failed merger deal, seeks to recover more than $500M",
+    "summary": "United Wholesale Mortgage filed a lawsuit on Monday accusing Two Harbors Investment Corp. of willfully breaching its merger agreement and committing fraud while pursuing a competing deal with CrossCountry Mortgage.",
+    "link": "https://www.housingwire.com/articles/uwm-sues-two-harbors-crosscountry-merger/",
+    "published": "2026-08-10T18:16:07"
+  },
+  {
+    "title": "KBW labels Ellington, Longbridge as outperformers after robust Q2 earnings report",
+    "summary": "Following a strong second-quarter earnings report, analysts at Keefe, Bruyette &#038; Woods released a positive forecast for Ellington Financial and its reverse mortgage subsidiary, Longbridge Financial.",
+    "link": "https://www.housingwire.com/articles/kbw-raises-ellington-eps-outlook/",
+    "published": "2026-08-10T17:35:16"
+  },
+  {
+    "title": "Can You Get a 4% Mortgage Rate Still?",
+    "summary": "<p>Mortgage rate Q&#38;A: \u201cCan you get a 4% mortgage rate?\u201d This seems to come up a lot now that mortgage rates are no longer on sale. Prospective home buyers want to know if you can still get a super-low mortgage rate. Maybe not a 2-3% rate, but something in between, such as a 4-handle. Even&#8230;&#160;<a href=\"https://www.thetruthaboutmortgage.com/can-you-get-a-4-mortgage-rate-still/\" rel=\"bookmark\">Read More &#187;<span class=\"screen-reader-text\">Can You Get a 4% Mortgage Rate Still?</span></a></p>\n<p>The post <a href=\"https://www.thetruthaboutmortgage.com/can-you-get-a-4-mortgage-rate-still/\">Can You Get a 4% Mortgage Rate Still?</a> appeared first on <a href=\"https://www.thetruthaboutmortgage.com\">The Truth About Mortgage</a>.</p>",
+    "link": "https://www.thetruthaboutmortgage.com/can-you-get-a-4-mortgage-rate-still/",
+    "published": "2026-08-10T22:55:26"
+  },
+  {
+    "title": "The Case for Putting 20% Down on Your Next Home",
+    "summary": "<div><img alt=\"The Case for Putting 20% Down on Your Next Home | Keeping Current Matters\" class=\"attachment-featured-large size-featured-large wp-post-image\" height=\"410\" src=\"https://files.keepingcurrentmatters.com/KeepingCurrentMatters/content/images/20260805/Header-Image-GettyImages-1206008735-original.png\" style=\"margin-bottom: 15px;\" width=\"750\" /></div>If you\u2019re planning to buy your next home soon, you\u2019ve probably heard the old rule about saving 20% for your down payment.",
+    "link": "https://www.keepingcurrentmatters.com/2026/08/10/the-case-for-putting-20-down-on-your-next-home/",
+    "published": "2026-08-10T10:30:00"
+  },
+  {
+    "title": "Trump\u2019s foreign licensing business booms to $59.5 million as Gulf developers pay",
+    "summary": "Nearly two-thirds of Trump\u2019s foreign licensing fees came from two Gulf developers, in the UAE and Qatar, including one pursuing a $20 billion U.S. expansion.",
+    "link": "https://www.cnbc.com/2026/08/10/trump-foreign-real-estate-licensing-income-gulf-deals.html",
+    "published": "2026-08-10T15:06:58"
+  },
+  {
+    "title": "Mortgage Rates Could Move This Week as Inflation Data Tests the Fed\u2019s Path",
+    "summary": "<p>In A Nutshell: Rates remain precarious this week with highly anticipated inflation data coming Wednesday, which could determine if the Fed hikes at their next meeting. Upcoming Attractions Wednesday\u2019s CPI print will be the most important data release of the week by a long shot. Odds for a hike at the September 16th\u2019s meeting are [&#8230;]</p>\n<p>The post <a href=\"https://www.redfin.com/news/mortgage-rate-could-move-from-inflation-data-august-2026/\">Mortgage Rates Could Move This Week as Inflation Data Tests the Fed\u2019s Path</a> appeared first on <a href=\"https://www.redfin.com/news\">Redfin Real Estate News</a>.</p>",
+    "link": "https://www.redfin.com/news/mortgage-rate-could-move-from-inflation-data-august-2026/",
+    "published": "2026-08-10T18:27:26"
+  },
+  {
+    "title": "Best Home Equity Investment Companies in 2026",
+    "summary": "Home equity investment companies let you tap cash without debt. The Mortgage Reports compared leading providers, terms, and alternatives to find your best fit.",
+    "link": "https://themortgagereports.com/122275/top-home-equity-investment-companies-in-current_year",
+    "published": "2026-08-10T22:38:58"
+  },
+  {
+    "title": "Waiting for Mortgage Rates to Drop? What the Jobs Report Actually Changed at the Fed",
+    "summary": "A weak jobs report likely killed a September Fed hike, but forecasters still see 6.4%-6.5% mortgage rates through 2026. What that means if you're buying.",
+    "link": "https://themortgagereports.com/133438/mortgage-rates-jobs-report-fed",
+    "published": "2026-08-10T21:38:14"
+  },
+  {
+    "title": "Issuance and Oil Strike Back",
+    "summary": "Issuance and Oil Strike Back \n\n             \n             \n            Oil prices continue to ebb and flow in concert with the Iran war news cycle. There's no set schedule for such things, but there have been several Mondays where that narrative shifts in the opposite direction from wherever we left off at the end of the previous week. Last&nbsp;Wednesday&nbsp;was a recent low for oil and prices have risen since then. Today's increase was&nbsp;a bit of an acceleration so it's no surprise to see bond yields follow. Bonds also saw some mid-day pressure from an active corporate debt issuance landscape, but it's just as fair to say both oil prices and bonds yields have returned to the exact same levels seen during Tuesday's pre-market hours before the early rally. \n\n             \n     \n        \n     \n      Market Movement Recap\n     \n     \n             \n             09:47 AM    Weaker overnight and losing more ground now. 10yr up 4.1bps at 4.688.&nbsp; MBS down 7 ticks (.22). \n \n             \n             \n             12:53 PM    MBS at lows, down 9 ticks (.28) and 10yr up 5.4bps at 4.701",
+    "link": "https://www.mortgagenewsdaily.com/markets/mbs-recap-08102026",
+    "published": "2026-08-10T20:00:34"
+  },
+  {
+    "title": "Mortgage Rates Rise Modestly From 3 Week Lows",
+    "summary": "As of last Friday, average top-tier mortgage rates hit their lowest levels since July 20th. If they'd managed to drop even 0.01% today, it would have been a new 3-week low.&nbsp;  As it stands, rates moved modestly higher in response to higher oil prices. Throughout the Iran war, oil and rates have had a broadly strong correlation because oil informs inflation expectations and inflation is a key input for the rate market.  Even after today's rise, rates remain much closer to the lower end of the range over the past 3 weeks. Logically, any positive developments in the war or diplomacy should result in lower rates. Beyond that, there's separate volatility potential related to inflation reports that come out later this week, but as always, that could be for better or worse depending on the outcome of the reports.&nbsp;",
+    "link": "https://www.mortgagenewsdaily.com/markets/mortgage-rates-08102026",
+    "published": "2026-08-10T19:32:00"
+  },
+  {
+    "title": "Land Loan, Agentic AI Tools; Deep Dive Into Earnings; Pennymac's Spector on Servicing Value",
+    "summary": "Here in the hallways at the Western Secondary in L.A., there isn\u2019t a lot of talk about GSE reform, although this short clip from Sam Valverde, ex-acting president of Ginnie Mae, revisits the subject: The GSE reform trigger nobody's watching closely enough. More of the talk is about 2nd quarter earnings, and I received this note: \u201cRob, I am a broker in Missouri. Last week there was a lot of news about UWM. All I try to do is help my clients. Why should I care about UWM\u2019s earnings, or write downs on the value of their servicing, or losses on hedges?\u201d Thank you for the note: see below for some perspective originators and others should have on earnings and counterparty relationships. Meanwhile, the California MBA, and national MBA, has a patient strategy: absorb shocks and respond to consumer demand, advocate for continuation of programs and policies, and promote competition in the $2 trillion \u201926 market. There is needed regulatory reform to be discussed (\u201cwe need better, not more\u201d), as well as seeing the rate lock affect easing. \u201cFor sale\u201d inventories are recovering. First time home buyers &amp; low-income borrowers have been disproportionately affected. The MBA has avoided spats with Agency officials. Consumers are safe from abusive trigger leads. (Today\u2019s podcast can be found here. This week\u2019s \u2018casts are sponsored by Optimal Blue. Optimal Blue\u2019s Profitability Center unifies pricing, hedge performance, pipeline activity, profitability, and market intelligence into one personalized dashboard, giving mortgage lenders faster, more complete insights to make better capital markets decisions. Today\u2019s has an interview with California MBA\u2019s Paul Gigliotti on the Western Secondary Conference, and cohesive advocacy efforts.)",
+    "link": "https://www.mortgagenewsdaily.com/opinion/pipelinepress-08102026",
+    "published": "2026-08-10T15:42:58"
+  },
+  {
+    "title": "Another Week, Another Oil Price Pivot",
+    "summary": "Recent experience suggests the safest assumption about oil prices and bond yields is that they will pop and drop with reasonable regularity. In other words, lower prices/yields for a few days following friendly war-related headlines tend to give way to unfriendly headlines and a market reversal. Wash, rinse, repeat. The new week is starting off with unfriendly news and higher oil/yields. There's not much sense in attempting to dig any deeper on market analysis so far today.",
+    "link": "https://www.mortgagenewsdaily.com/markets/mbs-morning-08102026",
+    "published": "2026-08-10T14:32:20"
+  },
+  {
+    "title": "UWM Seeks More Than $500M From Two Harbors After Failed Deal",
+    "summary": "The fight over Two Harbors Investment Corp. did not end when shareholders approved its sale to CrossCountry Mortgage.Now United Wholesale Mortgage wants damages.UWM Holdings Corp. and UWM Acquisitions 1 LLC sued Two Harbors in federal court Monday, seeking more than $500 million and alleging breach of contract and fraud in connection with the collapse of the companies\u2019 original $1.3 billion merger.The lawsuit lands just days after UWM disclosed how expensive that collapse became.",
+    "link": "https://nationalmortgageprofessional.com/news/uwm-seeks-more-500m-two-harbors-after-failed-deal",
+    "published": "2026-08-10T20:50:44"
+  },
+  {
+    "title": "UWM Offers LOs 90-Bps Incentive On One Agency Loan",
+    "summary": "United Wholesale Mortgage is giving each loan originator a one-time, 90-basis-point pricing incentive to use on a qualifying agency loan.The wholesaler\u2019s new Bullseye 90 program applies to new locks from Aug. 5 through Sept. 8 on conventional, FHA, VA, and USDA purchase and refinance loans.Unlike a broad pricing reduction, the incentive can be used on only one loan of the LO\u2019s choice. That allows originators to reserve the discount for a borrower who is shopping aggressively or a difficult deal where pricing could determine who wins the loan.",
+    "link": "https://nationalmortgageprofessional.com/news/uwm-offers-los-90-bps-incentive-one-agency-loan",
+    "published": "2026-08-10T20:18:08"
+  },
+  {
+    "title": "CHLA Uses Trump Mortgage Order To Renew Push For LO Comp Reform",
+    "summary": "The Community Home Lenders of America (CHLA) is using the Trump administration\u2019s mortgage-credit review to reopen one of the industry\u2019s longest-running regulatory fights: whether lenders should be allowed to reduce an individual originator\u2019s compensation to save a loan.CHLA asked the Consumer Financial Protection Bureau on Monday to limit the federal loan originator compensation rule to payments between separate companies\u2014not what a lender pays its own employees.",
+    "link": "https://nationalmortgageprofessional.com/news/chla-uses-trump-mortgage-order-renew-push-lo-comp-reform",
+    "published": "2026-08-10T16:29:32"
+  },
+  {
+    "title": "Jonathan Warrick Takes Helm At dv01 As Founder Perry Rahbar Moves To Fitch Advisory Role",
+    "summary": "Jonathan Warrick has been named head of dv01, succeeding founder Perry Rahbar in the top leadership role at the structured-finance data and analytics provider.Warrick, dv01\u2019s first employee, most recently served as chief operating officer. Rahbar is transitioning to a strategic adviser role at Fitch, where he said he will support Warrick and remain involved in dv01\u2019s long-term direction.",
+    "link": "https://nationalmortgageprofessional.com/news/jonathan-warrick-takes-helm-dv01-founder-perry-rahbar-moves-fitch-advisory-role",
+    "published": "2026-08-10T14:11:19"
+  },
+  {
+    "title": "UWM\u2019s $2.05 Billion Capital Reset Doesn\u2019t Erase Its Leverage",
+    "summary": "United Wholesale Mortgage\u2019s $2.05 billion capital reset may strengthen its liquidity and replace secured borrowings, but Fitch Ratings does not believe the transaction immediately reduces the wholesale lender\u2019s debt burden.",
+    "link": "https://nationalmortgageprofessional.com/news/uwms-205-billion-capital-reset-doesnt-erase-its-leverage",
+    "published": "2026-08-10T13:28:42"
+  },
+  {
+    "title": "Weak Jobs Report Helps Mortgage Rates, But Exposes A Bigger Industry Risk",
+    "summary": "The weakest employment report in months gave mortgage rates some relief Friday, but it delivered a less comfortable message beneath the bond-market rally: The labor market may no longer be strong enough to support housing demand.U.S. nonfarm payroll employment declined by 23,000 jobs in July, according to the Bureau of Labor Statistics (BLS), falling far short of economists\u2019 expectations for a gain of roughly 80,000.",
+    "link": "https://nationalmortgageprofessional.com/news/weak-jobs-report-helps-mortgage-rates-exposes-bigger-industry-risk",
+    "published": "2026-08-10T12:57:00"
+  },
+  {
+    "title": "Blend Reports Early AI Gains While Mortgage Revenue Trails Volume",
+    "summary": "Blend Labs handled considerably more mortgage loans in the second quarter, but its revenue did not keep pace.Funded loans on Blend\u2019s platform increased 14% year over year to approximately 233,000. Mortgage Suite revenue rose half as fast, increasing 7% to $19.2 million.",
+    "link": "https://nationalmortgageprofessional.com/news/blend-reports-early-ai-gains-while-mortgage-revenue-trails-volume",
+    "published": "2026-08-10T12:12:19"
+  },
+  {
+    "title": "Newrez Grows Profit Without Chasing Mortgage Volume",
+    "summary": "Newrez\u2019s mortgage production barely moved in the second quarter, but its operating profit climbed 12%, reflecting a strategy built less around chasing market share and more around servicing income, borrower recapture, nonagency lending, and lower operating costs.The mortgage origination and servicing subsidiary of Rithm Capital generated $307.6 million in pretax operating income, excluding mortgage servicing rights mark-to-market changes, hedging effects, and other nonoperating items. That was up from $273.7 million in the first quarter, according to Rithm\u2019s second-quarter earnings release.",
+    "link": "https://nationalmortgageprofessional.com/news/newrez-grows-profit-without-chasing-mortgage-volume",
+    "published": "2026-08-10T11:26:35"
   }
 ]
