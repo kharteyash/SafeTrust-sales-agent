@@ -1,258 +1,258 @@
 {
   "carousels": [
     {
-      "slug": "ai-generated-docs-risk",
-      "title": "AI-Generated Paystubs & Bank Statements: New Underwriting Risk",
+      "slug": "fannie-mae-distressed-loan-sale",
+      "title": "Fannie Mae Returns To Distressed-Loan Market With $214 Million Sale",
       "source": "National Mortgage Professional",
-      "source_url": "https://nationalmortgageprofessional.com/news/why-ai-generated-paystubs-and-bank-statements-are-creating-new-mortgage-underwriting-risk",
-      "cover_text": "AI Docs: The New Underwriting Minefield",
-      "caption": "AI-generated paystubs and bank statements are not just a possibility — they're here, and they're creating a silent storm in mortgage underwriting. This isn't about faster workflows; it's about fundamental trust in documentation. As an underwriter, I'm seeing a real shift in how we need to approach verification. Lenders relying solely on traditional document review are exposed. This requires a proactive, tech-driven solution to protect your pipeline and your business from new forms of fraud.\n\nSource : https://tinyurl.com/2dgts34e\n#SafetrustMortgage #MortgageIntelligenceDaily #mortgagefraud #underwriting #mortgagetech",
-      "hashtags": [
-        "#SafetrustMortgage",
-        "#MortgageIntelligenceDaily",
-        "#mortgagefraud",
-        "#underwriting",
-        "#mortgagetech"
-      ],
-      "hook_tag": "Fraud Risk",
-      "hook": "AI makes fake documents look too real. Are you ready?",
-      "what_happened_heading": "The News: AI & Mortgage Fraud",
-      "what_happened": "Generative AI can now create highly convincing paystubs and bank statements in seconds. This speed and polish make it much harder for lenders to detect fraudulent documents using traditional review methods.",
-      "breakdown": [
-        {
-          "heading": "The AI Advantage",
-          "body": "Before AI, faking documents took design skill and patience. Now, AI drafts language, calculates figures, and polishes presentation in less time than it takes to fill an application."
-        },
-        {
-          "heading": "Underwriter's Nightmare",
-          "body": "This changes everything when a file hits underwriting. Visual cues and common red flags on fake docs are disappearing, making human review less effective for detecting sophisticated fraud."
-        },
-        {
-          "heading": "The Tech Gap",
-          "body": "Current anti-fraud tech often focuses on data anomalies, not document authenticity. AI-generated documents can contain plausible data, passing initial checks."
-        },
-        {
-          "heading": "Impact on Approval Rates",
-          "body": "Lenders must either increase scrutiny, slowing down the process, or risk approving loans based on fake income/assets. Neither is good for your P&L."
-        }
-      ],
-      "my_take_heading": "My Take: Don't Get Caught Flat-Footed",
-      "my_take": "The new standard for income and asset verification isn't just about reviewing documents, it's about verifying data at the source. Any lender still relying heavily on document-based verification is sitting on a ticking time bomb of potential buybacks and losses.",
-      "action_lo": "Lead with employment and asset verification systems (like Checkr/Truv) that connect directly to payroll and financial institutions, bypassing document review.",
-      "action_realtor": "Educate your clients on the importance of legitimate, verifiable income/asset data. Help them understand why deep verification is now standard, not just an extra step.",
-      "cta_question": "How quickly are you implementing direct data verification to combat AI fraud?"
-    },
-    {
-      "slug": "clear-capital-gse-test",
-      "title": "Clear Capital Clears GSE Test for New Property Data Standard",
-      "source": "National Mortgage Professional",
-      "source_url": "https://nationalmortgageprofessional.com/news/clear-capital-clears-gse-test-new-property-data-standard",
-      "cover_text": "Appraisal Alternatives: It Just Got Real",
-      "caption": "Clear Capital just passed a major hurdle, getting GSE verification for their property data collection platform. This isn't just another tech update; it's a huge step towards making inspection-based alternatives to traditional appraisals a mainstream reality. For originators, this means faster turn times and potentially lower costs for eligible loans. For underwriters, it's about trusting a new data standard. This will change how properties are valued, impacting efficiency and risk across the board. Don't underestimate the ripple effect.\n\nSource : https://tinyurl.com/2ctaq8h5\n#SafetrustMortgage #MortgageIntelligenceDaily #appraisal #mortgageinnovation #fanniemae",
-      "hashtags": [
-        "#SafetrustMortgage",
-        "#MortgageIntelligenceDaily",
-        "#appraisal",
-        "#mortgageinnovation",
-        "#fanniemae"
-      ],
-      "hook_tag": "Appraisal Innovation",
-      "hook": "GSE-approved appraisal alternatives just got a huge boost.",
-      "what_happened_heading": "The News: Clear Capital & GSEs",
-      "what_happened": "Clear Capital's Universal Data Collection platform can now produce reports compliant with new Fannie Mae and Freddie Mac property data standards. This gives lenders another verified vendor option for loans eligible for inspection-based alternatives to traditional appraisals.",
-      "breakdown": [
-        {
-          "heading": "Beyond the Traditional Appraisal",
-          "body": "This move accelerates the shift away from full appraisals for certain loan types. It's not a complete replacement, but a significant expansion of alternative valuation options."
-        },
-        {
-          "heading": "Faster Turn Times",
-          "body": "Inspection-based valuations generally have quicker turnarounds than traditional appraisals. This can significantly speed up the loan closing process for eligible properties."
-        },
-        {
-          "heading": "Underwriter's New Checklist",
-          "body": "When a file hits underwriting, we're no longer just looking for a full appraisal. We'll be validating the eligibility for these new data standards and the quality of the submitted report."
-        },
-        {
-          "heading": "Cost Savings Potential",
-          "body": "These alternative valuations are often less expensive than full appraisals, which can reduce closing costs for borrowers and make deals more competitive."
-        }
-      ],
-      "my_take_heading": "My Take: Educate Your Team NOW",
-      "my_take": "This isn't just a pilot program anymore; it's a validated, scalable solution. Lenders who integrate these options effectively will gain a competitive edge in speed and cost, provided they understand the eligibility rules deeply.",
-      "action_lo": "Understand the specific loan types and property conditions eligible for these new property data reports. Offer this as a competitive advantage for appropriate clients.",
-      "action_realtor": "Be aware that not all properties will require a traditional appraisal. Partner with L.O.s who can explain these options and manage expectations on timeline and cost.",
-      "cta_question": "How are you training your teams on the nuances of these new appraisal alternatives?"
-    },
-    {
-      "slug": "cash-sales-retreat",
-      "title": "Cash Sales Retreat: More Room for Financed Buyers",
-      "source": "National Mortgage Professional",
-      "source_url": "https://nationalmortgageprofessional.com/news/cash-sales-retreat-giving-financed-buyers-more-room-compete",
-      "cover_text": "Cash Buyers Retreating. Opportunity Knocks?",
-      "caption": "Good news for financed buyers: the all-cash purchase juggernaut is losing steam. Cash sales accounted for 31.4% of home sales in the first four months of 2026, down from 32.3% last year. This small but significant shift means less intense competition for borrowers needing a mortgage. It’s not a dramatic market flip, but it’s a tangible improvement for those who felt squeezed out by cash offers. As an underwriter, I'm watching closely to see if this trend continues and how it impacts overall market velocity and buyer behavior.\n\nSource : https://tinyurl.com/28fzqwua\n#SafetrustMortgage #MortgageIntelligenceDaily #housingmarket #firsttimehomebuyer #realestateinvesting",
+      "source_url": "https://nationalmortgageprofessional.com/news/fannie-mae-returns-distressed-loan-market-214-million-sale",
+      "cover_text": "Fannie's Distressed Loans: What It Means",
+      "caption": "Fannie Mae is back selling distressed loans after a year-long break. Don't mistake this for a market crash signal. This is a targeted risk management move, not a sign of widespread defaults. Savvy pros need to understand the nuances of these sales, especially if you deal with investors looking for specific asset types. It's about optimizing their portfolio, not dumping bad assets. Your job is to translate what this means for investors and potentially for future inventory, however small.\n\nSource : https://tinyurl.com/23re4l9t\n#SafetrustMortgage #MortgageIntelligenceDaily #housingmarket #realestateinvesting #mortgagebroker",
       "hashtags": [
         "#SafetrustMortgage",
         "#MortgageIntelligenceDaily",
         "#housingmarket",
-        "#firsttimehomebuyer",
-        "#realestateinvesting"
+        "#realestateinvesting",
+        "#mortgagebroker"
       ],
-      "hook_tag": "Buyer Advantage",
-      "hook": "Financed buyers get a small break. Cash offers cool down.",
-      "what_happened_heading": "The News: Cash Sales Dip",
-      "what_happened": "All-cash home purchases accounted for 31.4% of sales in the first four months of 2026. This is down from 32.3% during the same period last year, giving financed buyers slightly more room to compete.",
+      "hook_tag": "Market Signals",
+      "hook": "Fannie's distressed loan sale is NOT a market crash.",
+      "what_happened_heading": "What Happened:",
+      "what_happened": "Fannie Mae announced its first sale of nonperforming loans in over a year, totaling nearly $214 million in deeply delinquent mortgages. This offering includes 969 loans, split into a larger pool and a smaller Community Impact Pool.",
       "breakdown": [
         {
-          "heading": "A Small Shift, Big Impact",
-          "body": "While less than a percentage point, this retreat of cash buyers removes some of the fiercest competition, especially in multiple-offer situations. It's a psychological win for financed buyers."
+          "heading": "Risk Management, Not Crisis",
+          "body": "Fannie Mae is actively managing its portfolio, not reacting to a crisis. Selling these loans offloads risk and optimizes capital allocation for the government-sponsored enterprise (GSE)."
         },
         {
-          "heading": "Underwriter's View: Less Pressure",
-          "body": "With fewer all-cash bids, the pressure to close quickly often eases. This reduces stress on underwriting teams and can lead to smoother file flow, reducing rushed exceptions."
+          "heading": "Investor Opportunity",
+          "body": "These sales attract investors specializing in distressed assets. They buy these loans at a discount, then work to resolve them through modification, short sale, or foreclosure. This is business as usual for sophisticated investors."
         },
         {
-          "heading": "Investor Behavior Changing",
-          "body": "Many cash buyers are investors. Their pullback suggests a shift in investment strategy, possibly due to higher holding costs or less attractive immediate returns in some markets."
+          "heading": "Underwriter Lens: Deep Dilinquency",
+          "body": "These are 'deeply delinquent' loans, meaning borrowers are far behind on payments. When a file hits underwriting, deeply delinquent often means extensive documentation and workout efforts have already failed."
         },
         {
-          "heading": "Affordability Still Key",
-          "body": "Even with less cash competition, high rates and prices mean affordability (the ability to pay for a home, including the mortgage, taxes, and insurance) remains the primary hurdle for many financed buyers."
+          "heading": "Limited Market Impact",
+          "body": "The sale of 969 loans, though significant for Fannie, is a tiny fraction of the overall housing market. This won't flood the market with foreclosures or significantly impact inventory or pricing."
         }
       ],
-      "my_take_heading": "My Take: Don't Wait for a Flood, Ride the Trickle",
-      "my_take": "This isn't the opening of the floodgates, but it's a real, measurable crack in the cash-buyer dominance. For serious financed buyers, this is a clear signal: the playing field is slightly more balanced than it was a year ago, increasing their odds of success.",
-      "action_lo": "Coach your financed buyers on how to make their offer stand out even if it's not cash. Emphasize pre-approvals, quick turnarounds, and robust financial documentation.",
-      "action_realtor": "Use this data to encourage qualified, financed buyers who may have been discouraged previously. Highlight that competition has marginally eased for them.",
-      "cta_question": "How are you leveraging this shift to empower your financed buyers?"
+      "my_take_heading": "My Take:",
+      "my_take": "Don't confuse targeted risk management with a systemic market issue. Fannie Mae is doing its job, not signaling a collapse. Your clients need to understand the difference.",
+      "action_lo": "Educate investor clients on the mechanics of distressed asset sales and their limited impact on the broader market.",
+      "action_realtor": "Reassure clients that these sales are normal portfolio management and not an indicator of imminent foreclosure waves.",
+      "cta_question": "What's your biggest concern about headlines like these influencing client perception?"
+    },
+    {
+      "slug": "new-american-funding-ai-agents",
+      "title": "New American Funding Extends AI Push To Borrower Calls",
+      "source": "National Mortgage Professional",
+      "source_url": "https://nationalmortgageprofessional.com/news/new-american-funding-extends-ai-push-borrower-calls",
+      "cover_text": "NAF's AI Agents: Beyond the Hype",
+      "caption": "New American Funding is pushing AI into direct borrower interactions. This isn't just about chatbots — it's about reshaping customer service and compliance. The move could free up loan officers for more complex problem-solving, but also demands a new level of diligence in how information is captured and verified. For underwriters, it's about ensuring AI-driven interactions meet regulatory standards, not just efficiency metrics. Are we ready for AI to be the first (and sometimes only) point of contact?\n\nSource : https://tinyurl.com/2au9aocc\n#SafetrustMortgage #MortgageIntelligenceDaily #mortgageindustry #loanofficer #housingmarket",
+      "hashtags": [
+        "#SafetrustMortgage",
+        "#MortgageIntelligenceDaily",
+        "#mortgageindustry",
+        "#loanofficer",
+        "#housingmarket"
+      ],
+      "hook_tag": "Tech Shift",
+      "hook": "AI agents are more than a call center upgrade.",
+      "what_happened_heading": "What Happened:",
+      "what_happened": "New American Funding (NAF) is partnering with Kastle to deploy AI voice agents for end-to-end customer interactions in originations and servicing. This initiative aims to provide 24-hour self-service and support compliance.",
+      "breakdown": [
+        {
+          "heading": "The New Front Line",
+          "body": "AI agents will handle customer interactions from start to finish. This means AI could be the first point of contact for many borrowers, impacting the initial customer experience."
+        },
+        {
+          "heading": "Compliance Challenge",
+          "body": "NAF claims the platform supports compliance. However, every AI interaction must generate an audit trail that meets regulatory standards, which is a new hurdle for underwriting and quality control (QC)."
+        },
+        {
+          "heading": "Underwriter Lens: Data Integrity",
+          "body": "Underwriters will scrutinize how AI-generated information is captured and verified. 'Self-service' must still provide data robust enough to support loan decisions and stand up to post-close review."
+        },
+        {
+          "heading": "LO Shift: Complex Over Simple",
+          "body": "If AI handles routine inquiries, LOs will focus more on complex scenarios. This demands a higher level of problem-solving skills, making your expertise more valuable, not less."
+        }
+      ],
+      "my_take_heading": "My Take:",
+      "my_take": "AI agents are not just a cost-cutting measure. They represent a fundamental shift in how we capture borrower intent and data, demanding new compliance rigor.",
+      "action_lo": "Understand where AI agents fit into the borrower journey and how to leverage them to focus on high-value interactions.",
+      "action_realtor": "Be aware that initial borrower conversations might be with an AI, and prepare clients for that experience.",
+      "cta_question": "How will you ensure AI-driven interactions still meet the 'human touch' expectations of borrowers?"
+    },
+    {
+      "slug": "compliance-refinance-shift",
+      "title": "Brief Refinance Shift Tests Mortgage Lenders’ Compliance Controls",
+      "source": "National Mortgage Professional",
+      "source_url": "https://nationalmortgageprofessional.com/news/brief-refinance-shift-tests-mortgage-lenders-compliance-controls",
+      "cover_text": "Refi Surge: A Compliance Stress Test",
+      "caption": "A small blip in refinance activity was enough to expose critical compliance weaknesses across the industry. The critical defect rate jumped to 1.71% in Q1 2026, up from 1.38%. This isn't just about sloppy work; it’s about a lack of robust, adaptable controls. Underwriters see these defects firsthand, often after the fact. We need systems that can scale and pivot without compromising quality, especially as market conditions shift. What are you doing to harden your compliance foundation?\n\nSource : https://tinyurl.com/2andw45k\n#SafetrustMortgage #MortgageIntelligenceDaily #mortgagecompliance #mortgageindustry #loanofficer",
+      "hashtags": [
+        "#SafetrustMortgage",
+        "#MortgageIntelligenceDaily",
+        "#mortgagecompliance",
+        "#mortgageindustry",
+        "#loanofficer"
+      ],
+      "hook_tag": "Compliance Alert",
+      "hook": "Small refi shift exposed big compliance gaps.",
+      "what_happened_heading": "What Happened:",
+      "what_happened": "A brief increase in refinance activity revealed weaknesses in mortgage lenders' compliance controls. The critical defect rate climbed to 1.71% in the first quarter of 2026, up from 1.38% in the previous quarter.",
+      "breakdown": [
+        {
+          "heading": "Defect Rate Jump",
+          "body": "The critical defect rate, meaning serious errors that could impact loan saleability or borrower, rose significantly. This indicates systemic issues, not isolated mistakes."
+        },
+        {
+          "heading": "Market Sensitivity",
+          "body": "Even a minor shift in market conditions, like a small increase in refis, stressed existing compliance frameworks. This highlights a lack of agility in many operations."
+        },
+        {
+          "heading": "Underwriter Lens: Scalability Failures",
+          "body": "When volume spikes, manual processes break down first. Underwriting sees the fallout: missing disclosures, incorrect calculations, and compliance violations due to inadequate controls during peak times."
+        },
+        {
+          "heading": "Risk to Profitability",
+          "body": "High defect rates mean increased repurchase risk, fines, and reputational damage. These issues directly hit the P&L (profit and loss) bottom line, even in a small shift."
+        }
+      ],
+      "my_take_heading": "My Take:",
+      "my_take": "If a brief refi uptick exposed this many critical defects, imagine the fallout during a full-blown boom. Your compliance framework needs to be bulletproof for any market.",
+      "action_lo": "Review your internal processes for consistency, especially during volume fluctuations. Don't rely solely on manual checks.",
+      "action_realtor": "Understand that lender compliance issues can delay closings. Partner with lenders who demonstrate robust quality control.",
+      "cta_question": "What's the one compliance weakness you're actively working to eliminate in your operation?"
     }
   ],
   "carousels_es": [
     {
-      "slug": "ai-generated-docs-risk",
-      "title": "Nuevos riesgos de suscripción por recibos de nómina y extractos bancarios generados por IA",
+      "slug": "fannie-mae-distressed-loan-sale",
+      "title": "Fannie Mae regresa al mercado de préstamos en mora con una venta de $214 millones",
       "source": "National Mortgage Professional",
-      "source_url": "https://nationalmortgageprofessional.com/news/why-ai-generated-paystubs-and-bank-statements-are-creating-new-mortgage-underwriting-risk",
-      "cover_text": "Documentos con IA: Nuevo riesgo hipotecario",
-      "caption": "Los recibos de nómina y extractos bancarios generados por IA no son solo una posibilidad, son una realidad y están creando una tormenta silenciosa en la evaluación de hipotecas. No se trata de flujos de trabajo más rápidos, sino de la confianza fundamental en la documentación. Como asesor, veo un cambio real en cómo debemos abordar la verificación. Los prestamistas que dependen únicamente de la revisión de documentos tradicionales están expuestos. Esto requiere una solución proactiva impulsada por la tecnología para proteger su cartera y su negocio de nuevas formas de fraude.\n\nFuente : https://tinyurl.com/2dgts34e\n#SafetrustMortgage #MortgageIntelligenceDaily #mortgagefraud #underwriting #mortgagetech",
-      "hashtags": [
-        "#SafetrustMortgage",
-        "#MortgageIntelligenceDaily",
-        "#mortgagefraud",
-        "#underwriting",
-        "#mortgagetech"
-      ],
-      "hook_tag": "Riesgo de Fraude",
-      "hook": "La IA hace que los documentos falsos parezcan demasiado reales. ¿Está usted listo?",
-      "what_happened_heading": "Noticia: IA y fraude hipotecario",
-      "what_happened": "La IA generativa ahora puede crear recibos de nómina y extractos bancarios muy convincentes en segundos. Esta velocidad y pulcritud hacen que sea mucho más difícil para los prestamistas detectar documentos fraudulentos usando métodos de revisión tradicionales.",
-      "breakdown": [
-        {
-          "heading": "La ventaja de la IA",
-          "body": "Antes de la IA, falsificar documentos requería habilidades de diseño y paciencia. Ahora, la IA redacta el lenguaje, calcula cifras y pule la presentación en menos tiempo del que se tarda en llenar una solicitud."
-        },
-        {
-          "heading": "La pesadilla del asesor",
-          "body": "Esto cambia todo cuando un archivo llega a suscripción. Las señales visuales y las banderas rojas comunes en los documentos falsos están desapareciendo, haciendo que la revisión humana sea menos efectiva para detectar fraudes sofisticados."
-        },
-        {
-          "heading": "La brecha tecnológica",
-          "body": "La tecnología antifraude actual a menudo se enfoca en anomalías de datos, no en la autenticidad del documento. Los documentos generados por IA pueden contener datos plausibles, pasando las verificaciones iniciales."
-        },
-        {
-          "heading": "Impacto en las tasas de aprobación",
-          "body": "Los prestamistas deben aumentar el escrutinio, ralentizando el proceso, o arriesgarse a aprobar préstamos basados en ingresos o activos falsos. Ninguna opción es buena para sus resultados financieros."
-        }
-      ],
-      "my_take_heading": "Mi opinión: no se deje tomar por sorpresa",
-      "my_take": "El nuevo estándar para la verificación de ingresos y activos no se trata solo de revisar documentos, se trata de verificar los datos en la fuente. Cualquier prestamista que siga dependiendo en gran medida de la verificación basada en documentos está sentado sobre una bomba de tiempo de posibles recompras y pérdidas.",
-      "action_lo": "Lidere con sistemas de verificación de empleo y activos (como Checkr/Truv) que se conectan directamente a la nómina y las instituciones financieras, evitando la revisión de documentos.",
-      "action_realtor": "Eduque a sus clientes sobre la importancia de datos legítimos y verificables de ingresos/activos. Ayúdelos a entender por qué la verificación profunda ahora es estándar, no solo un paso adicional.",
-      "cta_question": "¿Con qué rapidez está implementando la verificación directa de datos para combatir el fraude de IA?"
-    },
-    {
-      "slug": "clear-capital-gse-test",
-      "title": "Clear Capital aprueba la prueba GSE para el nuevo estándar de datos de propiedades",
-      "source": "National Mortgage Professional",
-      "source_url": "https://nationalmortgageprofessional.com/news/clear-capital-clears-gse-test-new-property-data-standard",
-      "cover_text": "Alternativas de avalúo: ¡Es real!",
-      "caption": "Clear Capital acaba de superar un obstáculo importante al obtener la verificación de las GSE para su plataforma de recopilación de datos de propiedades. Esto no es solo otra actualización tecnológica; es un gran paso para hacer realidad las alternativas basadas en inspecciones a los avalúos tradicionales. Para los originadores, esto significa tiempos de respuesta más rápidos y, potencialmente, costos más bajos para los préstamos elegibles. Para los asesores, se trata de confiar en un nuevo estándar de datos. Esto cambiará cómo se valoran las propiedades, impactando la eficiencia y el riesgo en todos los ámbitos. No subestime el efecto dominó.\n\nFuente : https://tinyurl.com/2ctaq8h5\n#SafetrustMortgage #MortgageIntelligenceDaily #appraisal #mortgageinnovation #fanniemae",
-      "hashtags": [
-        "#SafetrustMortgage",
-        "#MortgageIntelligenceDaily",
-        "#appraisal",
-        "#mortgageinnovation",
-        "#fanniemae"
-      ],
-      "hook_tag": "Innovación en Avalúos",
-      "hook": "Las alternativas de avalúo aprobadas por GSE recibieron un gran impulso.",
-      "what_happened_heading": "Noticia: Clear Capital y las GSE",
-      "what_happened": "La plataforma Universal Data Collection de Clear Capital ahora puede producir informes que cumplen con los nuevos estándares de datos de propiedades de Fannie Mae y Freddie Mac. Esto brinda a los prestamistas otra opción de proveedor verificado para préstamos elegibles para alternativas basadas en inspecciones a los avalúos tradicionales.",
-      "breakdown": [
-        {
-          "heading": "Más allá del avalúo tradicional",
-          "body": "Este movimiento acelera el cambio de los avalúos completos para ciertos tipos de préstamos. No es un reemplazo completo, sino una expansión significativa de las opciones de valoración alternativas."
-        },
-        {
-          "heading": "Tiempos de respuesta más rápidos",
-          "body": "Las valoraciones basadas en inspecciones generalmente tienen tiempos de respuesta más rápidos que los avalúos tradicionales. Esto puede acelerar significativamente el proceso de cierre de préstamos para propiedades elegibles."
-        },
-        {
-          "heading": "Nueva lista de verificación del asesor",
-          "body": "Cuando un archivo llega a suscripción, ya no solo buscamos un avalúo completo. Validaremos la elegibilidad para estos nuevos estándares de datos y la calidad del informe presentado."
-        },
-        {
-          "heading": "Potencial de ahorro de costos",
-          "body": "Estas valoraciones alternativas suelen ser menos costosas que los avalúos completos, lo que puede reducir los costos de cierre para los prestatarios y hacer que las ofertas sean más competitivas."
-        }
-      ],
-      "my_take_heading": "Mi opinión: eduque a su equipo AHORA",
-      "my_take": "Esto ya no es solo un programa piloto; es una solución validada y escalable. Los prestamistas que integren estas opciones de manera efectiva obtendrán una ventaja competitiva en velocidad y costo, siempre que comprendan profundamente las reglas de elegibilidad.",
-      "action_lo": "Comprenda los tipos de préstamos específicos y las condiciones de la propiedad elegibles para estos nuevos informes de datos de propiedades. Ofrezca esto como una ventaja competitiva para los clientes adecuados.",
-      "action_realtor": "Tenga en cuenta que no todas las propiedades requerirán un avalúo tradicional. Asóciese con O.P. que puedan explicar estas opciones y gestionar las expectativas sobre el cronograma y el costo.",
-      "cta_question": "¿Cómo está capacitando a sus equipos sobre los matices de estas nuevas alternativas de avalúo?"
-    },
-    {
-      "slug": "cash-sales-retreat",
-      "title": "Retiro de ventas en efectivo: más espacio para compradores financiados",
-      "source": "National Mortgage Professional",
-      "source_url": "https://nationalmortgageprofessional.com/news/cash-sales-retreat-giving-financed-buyers-more-room-compete",
-      "cover_text": "Compradores en efectivo se retiran. ¿Oportunidad?",
-      "caption": "Buenas noticias para los compradores financiados: la fuerza imparable de las compras en efectivo está perdiendo impulso. Las ventas en efectivo representaron el 31.4% de las ventas de viviendas en los primeros cuatro meses de 2026, por debajo del 32.3% del año pasado. Este pequeño pero significativo cambio significa una competencia menos intensa para los prestatarios que necesitan una hipoteca. No es un cambio drástico del mercado, pero es una mejora tangible para aquellos que se sintieron excluidos por las ofertas en efectivo. Como asesor, estoy observando de cerca para ver si esta tendencia continúa y cómo impacta la velocidad general del mercado y el comportamiento del comprador.\n\nFuente : https://tinyurl.com/28fzqwua\n#SafetrustMortgage #MortgageIntelligenceDaily #housingmarket #firsttimehomebuyer #realestateinvesting",
+      "source_url": "https://nationalmortgageprofessional.com/news/fannie-mae-returns-distressed-loan-market-214-million-sale",
+      "cover_text": "Préstamos en mora de Fannie: su significado",
+      "caption": "Fannie Mae vuelve a vender préstamos en mora después de un año de pausa. No confunda esto con una señal de colapso del mercado. Este es un movimiento dirigido de gestión de riesgos, no una señal de incumplimientos generalizados. Los profesionales expertos deben comprender los matices de estas ventas, especialmente si trata con inversores que buscan tipos de activos específicos. Se trata de optimizar su cartera, no de deshacerse de activos malos. Su trabajo es traducir lo que esto significa para los inversores y, potencialmente, para el inventario futuro, por pequeño que sea.\n\nFuente : https://tinyurl.com/23re4l9t\n#SafetrustMortgage #MortgageIntelligenceDaily #housingmarket #realestateinvesting #mortgagebroker",
       "hashtags": [
         "#SafetrustMortgage",
         "#MortgageIntelligenceDaily",
         "#housingmarket",
-        "#firsttimehomebuyer",
-        "#realestateinvesting"
+        "#realestateinvesting",
+        "#mortgagebroker"
       ],
-      "hook_tag": "Ventaja para el comprador",
-      "hook": "Los compradores financiados obtienen un pequeño respiro. Las ofertas en efectivo se enfrían.",
-      "what_happened_heading": "Noticia: Las ventas en efectivo disminuyen",
-      "what_happened": "Las compras de viviendas totalmente en efectivo representaron el 31.4% de las ventas en los primeros cuatro meses de 2026. Esto es una disminución del 32.3% durante el mismo período del año pasado, dando a los compradores financiados un poco más de espacio para competir.",
+      "hook_tag": "Señales del mercado",
+      "hook": "La venta de préstamos en mora de Fannie NO es un colapso.",
+      "what_happened_heading": "Lo que sucedió:",
+      "what_happened": "Fannie Mae anunció su primera venta de préstamos en mora en más de un año, por un total de casi $214 millones en hipotecas con mora profunda. Esta oferta incluye 969 préstamos, divididos en un grupo más grande y un grupo más pequeño de Impacto Comunitario.",
       "breakdown": [
         {
-          "heading": "Un pequeño cambio, gran impacto",
-          "body": "Aunque es menos de un punto porcentual, este retiro de compradores en efectivo elimina parte de la competencia más feroz, especialmente en situaciones de múltiples ofertas. Es una victoria psicológica para los compradores financiados."
+          "heading": "Gestión de riesgos, no crisis",
+          "body": "Fannie Mae está gestionando activamente su cartera, no reaccionando a una crisis. La venta de estos préstamos descarga riesgos y optimiza la asignación de capital para la empresa patrocinada por el gobierno (GSE)."
         },
         {
-          "heading": "Visión del asesor: menos presión",
-          "body": "Con menos ofertas totalmente en efectivo, la presión para cerrar rápidamente a menudo disminuye. Esto reduce el estrés en los equipos de suscripción y puede conducir a un flujo de archivos más fluido, reduciendo las excepciones apresuradas."
+          "heading": "Oportunidad para inversores",
+          "body": "Estas ventas atraen a inversores especializados en activos en mora. Compran estos préstamos con descuento y luego trabajan para resolverlos mediante modificación, venta corta o ejecución hipotecaria. Esto es algo habitual para inversores sofisticados."
         },
         {
-          "heading": "Cambio en el comportamiento del inversor",
-          "body": "Muchos compradores en efectivo son inversores. Su retroceso sugiere un cambio en la estrategia de inversión, posiblemente debido a mayores costos de mantenimiento o retornos inmediatos menos atractivos en algunos mercados."
+          "heading": "La perspectiva del asesor: mora profunda",
+          "body": "Estos son préstamos 'con mora profunda', lo que significa que los prestatarios están muy atrasados en los pagos. Cuando un expediente llega a la evaluación, la mora profunda a menudo significa que los esfuerzos de documentación y reestructuración ya han fallado."
         },
         {
-          "heading": "La asequibilidad sigue siendo clave",
-          "body": "Incluso con menos competencia en efectivo, las altas tasas y precios significan que la asequibilidad (la capacidad de pagar una vivienda, incluyendo la hipoteca, impuestos y seguros) sigue siendo el principal obstáculo para muchos compradores financiados."
+          "heading": "Impacto limitado en el mercado",
+          "body": "La venta de 969 préstamos, aunque significativa para Fannie, es una fracción minúscula del mercado inmobiliario general. Esto no inundará el mercado con ejecuciones hipotecarias ni afectará significativamente el inventario o los precios."
         }
       ],
-      "my_take_heading": "Mi opinión: no espere una inundación, aproveche el goteo",
-      "my_take": "Esto no es la apertura de las compuertas, pero es una grieta real y medible en el dominio del comprador en efectivo. Para los compradores financiados serios, esta es una señal clara: el campo de juego está un poco más equilibrado que hace un año, lo que aumenta sus posibilidades de éxito.",
-      "action_lo": "Capacite a sus compradores financiados sobre cómo hacer que su oferta se destaque incluso si no es en efectivo. Enfatice las preaprobaciones, los tiempos de respuesta rápidos y la documentación financiera sólida.",
-      "action_realtor": "Utilice estos datos para animar a los compradores calificados y financiados que pudieron haberse desanimado anteriormente. Resalte que la competencia ha disminuido marginalmente para ellos.",
-      "cta_question": "¿Cómo está aprovechando este cambio para empoderar a sus compradores financiados?"
+      "my_take_heading": "Mi opinión:",
+      "my_take": "No confunda la gestión de riesgos dirigida con un problema sistémico del mercado. Fannie Mae está haciendo su trabajo, no señalando un colapso. Sus clientes necesitan entender la diferencia.",
+      "action_lo": "Eduque a los clientes inversionistas sobre la mecánica de las ventas de activos en mora y su impacto limitado en el mercado en general.",
+      "action_realtor": "Tranquilice a los clientes de que estas ventas son una gestión normal de cartera y no un indicador de olas inminentes de ejecuciones hipotecarias.",
+      "cta_question": "¿Cuál es su mayor preocupación sobre cómo titulares como estos influyen en la percepción del cliente?"
+    },
+    {
+      "slug": "new-american-funding-ai-agents",
+      "title": "New American Funding extiende el impulso de la IA a las llamadas de los prestatarios",
+      "source": "National Mortgage Professional",
+      "source_url": "https://nationalmortgageprofessional.com/news/new-american-funding-extends-ai-push-borrower-calls",
+      "cover_text": "Agentes de IA de NAF: más allá del bombo",
+      "caption": "New American Funding está impulsando la IA en las interacciones directas con los prestatarios. Esto no se trata solo de chatbots, sino de remodelar el servicio al cliente y el cumplimiento. La medida podría liberar a los agentes de préstamos para una resolución de problemas más compleja, pero también exige un nuevo nivel de diligencia en cómo se captura y verifica la información. Para los asesores, se trata de garantizar que las interacciones impulsadas por la IA cumplan con los estándares regulatorios, no solo con las métricas de eficiencia. ¿Estamos listos para que la IA sea el primer (y a veces el único) punto de contacto?\n\nFuente : https://tinyurl.com/2au9aocc\n#SafetrustMortgage #MortgageIntelligenceDaily #mortgageindustry #loanofficer #housingmarket",
+      "hashtags": [
+        "#SafetrustMortgage",
+        "#MortgageIntelligenceDaily",
+        "#mortgageindustry",
+        "#loanofficer",
+        "#housingmarket"
+      ],
+      "hook_tag": "Cambio tecnológico",
+      "hook": "Los agentes de IA son más que una mejora del centro de llamadas.",
+      "what_happened_heading": "Lo que sucedió:",
+      "what_happened": "New American Funding (NAF) se asocia con Kastle para implementar agentes de voz de IA para interacciones completas con el cliente en originaciones y servicio. Esta iniciativa busca brindar autoservicio las 24 horas y apoyar el cumplimiento.",
+      "breakdown": [
+        {
+          "heading": "La nueva línea del frente",
+          "body": "Los agentes de IA manejarán las interacciones con los clientes de principio a fin. Esto significa que la IA podría ser el primer punto de contacto para muchos prestatarios, impactando la experiencia inicial del cliente."
+        },
+        {
+          "heading": "Desafío de cumplimiento",
+          "body": "NAF afirma que la plataforma apoya el cumplimiento. Sin embargo, cada interacción de IA debe generar un registro de auditoría que cumpla con los estándares regulatorios, lo cual es un nuevo obstáculo para la evaluación y el control de calidad (QC)."
+        },
+        {
+          "heading": "La perspectiva del asesor: integridad de datos",
+          "body": "Los asesores examinarán cómo se captura y verifica la información generada por la IA. El 'autoservicio' debe seguir proporcionando datos lo suficientemente robustos para respaldar las decisiones de préstamos y resistir una revisión posterior al cierre."
+        },
+        {
+          "heading": "Cambio de LO: lo complejo sobre lo simple",
+          "body": "Si la IA maneja consultas rutinarias, los agentes de préstamos se centrarán más en escenarios complejos. Esto exige un mayor nivel de habilidades para resolver problemas, haciendo su experiencia más valiosa, no menos."
+        }
+      ],
+      "my_take_heading": "Mi opinión:",
+      "my_take": "Los agentes de IA no son solo una medida de reducción de costos. Representan un cambio fundamental en cómo capturamos la intención y los datos del prestatario, exigiendo un nuevo rigor en el cumplimiento.",
+      "action_lo": "Comprenda dónde encajan los agentes de IA en el recorrido del prestatario y cómo aprovecharlos para centrarse en interacciones de alto valor.",
+      "action_realtor": "Sea consciente de que las conversaciones iniciales con los prestatarios podrían ser con una IA, y prepare a los clientes para esa experiencia.",
+      "cta_question": "¿Cómo se asegurará de que las interacciones impulsadas por la IA sigan cumpliendo con las expectativas de 'toque humano' de los prestatarios?"
+    },
+    {
+      "slug": "compliance-refinance-shift",
+      "title": "Un breve cambio en la refinanciación pone a prueba los controles de cumplimiento de los prestamistas hipotecarios",
+      "source": "National Mortgage Professional",
+      "source_url": "https://nationalmortgageprofessional.com/news/brief-refinance-shift-tests-mortgage-lenders-compliance-controls",
+      "cover_text": "Aumento de refinanciaciones: una prueba de estrés de cumplimiento",
+      "caption": "Un pequeño repunte en la actividad de refinanciación fue suficiente para exponer debilidades críticas de cumplimiento en toda la industria. La tasa de defectos críticos saltó al 1.71% en el primer trimestre de 2026, frente al 1.38%. Esto no se trata solo de trabajo descuidado; se trata de una falta de controles robustos y adaptables. Los asesores ven estos defectos de primera mano, a menudo después de los hechos. Necesitamos sistemas que puedan escalar y girar sin comprometer la calidad, especialmente a medida que cambian las condiciones del mercado. ¿Qué está haciendo para fortalecer su base de cumplimiento?\n\nFuente : https://tinyurl.com/2andw45k\n#SafetrustMortgage #MortgageIntelligenceDaily #mortgagecompliance #mortgageindustry #loanofficer",
+      "hashtags": [
+        "#SafetrustMortgage",
+        "#MortgageIntelligenceDaily",
+        "#mortgagecompliance",
+        "#mortgageindustry",
+        "#loanofficer"
+      ],
+      "hook_tag": "Alerta de cumplimiento",
+      "hook": "Un pequeño cambio en la refinanciación expuso grandes lagunas de cumplimiento.",
+      "what_happened_heading": "Lo que sucedió:",
+      "what_happened": "Un breve aumento en la actividad de refinanciación reveló debilidades en los controles de cumplimiento de los prestamistas hipotecarios. La tasa de defectos críticos subió al 1.71% en el primer trimestre de 2026, frente al 1.38% del trimestre anterior.",
+      "breakdown": [
+        {
+          "heading": "Salto en la tasa de defectos",
+          "body": "La tasa de defectos críticos, que significa errores graves que podrían afectar la vendibilidad del préstamo o al prestatario, aumentó significativamente. Esto indica problemas sistémicos, no errores aislados."
+        },
+        {
+          "heading": "Sensibilidad del mercado",
+          "body": "Incluso un cambio menor en las condiciones del mercado, como un pequeño aumento en las refinanciaciones, estresó los marcos de cumplimiento existentes. Esto destaca una falta de agilidad en muchas operaciones."
+        },
+        {
+          "heading": "La perspectiva del asesor: fallas de escalabilidad",
+          "body": "Cuando el volumen aumenta, los procesos manuales son los primeros en fallar. La evaluación ve las consecuencias: falta de divulgaciones, cálculos incorrectos y violaciones de cumplimiento debido a controles inadecuados durante los períodos pico."
+        },
+        {
+          "heading": "Riesgo para la rentabilidad",
+          "body": "Las altas tasas de defectos significan un mayor riesgo de recompra, multas y daño a la reputación. Estos problemas afectan directamente el resultado final del P&L (ganancias y pérdidas), incluso con un pequeño cambio."
+        }
+      ],
+      "my_take_heading": "Mi opinión:",
+      "my_take": "Si un breve repunte en la refinanciación expuso tantos defectos críticos, imagine las consecuencias durante un auge completo. Su marco de cumplimiento debe ser infalible para cualquier mercado.",
+      "action_lo": "Revise sus procesos internos para verificar la coherencia, especialmente durante las fluctuaciones de volumen. No dependa únicamente de las verificaciones manuales.",
+      "action_realtor": "Comprenda que los problemas de cumplimiento del prestamista pueden retrasar los cierres. Asóciese con prestamistas que demuestren un control de calidad sólido.",
+      "cta_question": "¿Cuál es la debilidad de cumplimiento que está trabajando activamente para eliminar en su operación?"
     }
   ]
 }
