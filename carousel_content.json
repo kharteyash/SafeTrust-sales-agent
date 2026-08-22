@@ -1,258 +1,258 @@
 {
   "carousels": [
     {
-      "slug": "cancellation-surge",
-      "title": "Home-Purchase Cancellations Hit Highest Level in Nearly 3 Years",
-      "source": "Redfin",
-      "source_url": "https://www.redfin.com/news/contract-cancellations-july-2026/",
-      "cover_text": "Cancellations Spike: What it means for YOU.",
-      "caption": "Homebuyers are walking away from deals at the highest rate in nearly three years. This isn't just a market shift; it's a power shift. We're seeing a direct correlation between increased inventory and buyers feeling more confident to renegotiate or cancel if terms aren't right. As an underwriter, I see this as a warning for originators to tighten up pre-approvals and for realtors to guide buyers on solid offers. Don't get caught off guard. Understand why deals are breaking and how to prevent it.\n\nSource : https://tinyurl.com/265xuoax\n#SafetrustMortgage #MortgageIntelligenceDaily #homebuying #realestateagent #housingmarket",
+      "slug": "ai-trust-mortgage",
+      "title": "AI Exposes Hidden Trust Gaps in Mortgage Files",
+      "source": "HousingWire",
+      "source_url": "https://www.housingwire.com/articles/mortgage-trust-ai-relationship/",
+      "cover_text": "AI vs. Mortgage Trust",
+      "caption": "Borrowers think their loan file is airtight, but AI is revealing blind spots no human ever catches. The fallout isn’t just a tech story—it’s a underwriting reality check that will reshape risk models. If you’re still trusting legacy checks, you’re leaving money on the table.\n\nSource : https://tinyurl.com/2bak2jgt\n#SafetrustMortgage #MortgageIntelligenceDaily #mortgagerisk #AIinFinance #underwriting",
       "hashtags": [
         "#SafetrustMortgage",
         "#MortgageIntelligenceDaily",
-        "#homebuying",
-        "#realestateagent",
-        "#housingmarket"
+        "#mortgagerisk",
+        "#AIinFinance",
+        "#underwriting"
       ],
-      "hook_tag": "Buyer Power",
-      "hook": "Buyers now have the power to walk away.",
-      "what_happened_heading": "What Happened:",
-      "what_happened": "In July, 14% of homebuying deals fell through, the highest share since November 2023. This trend is most prevalent in buyer-friendly Southern markets with more inventory.",
+      "hook_tag": "Tech Risk",
+      "hook": "AI is finding trust failures you never saw coming",
+      "what_happened_heading": "What Happened",
+      "what_happened": "HousingWire reported new AI tools can flag invisible borrower trust failures. The industry is scrambling to integrate these insights into existing workflows.",
       "breakdown": [
         {
-          "heading": "More Inventory, More Options",
-          "body": "When there are fewer buyers and more homes, buyers have leverage. They're less afraid to cancel if a better option appears or if issues arise during inspection."
+          "heading": "Four Trust Mechanisms",
+          "body": "Borrower trust hinges on documentation, verification, consistency, and intent. AI can cross‑check each at scale, catching mismatches humans miss."
         },
         {
-          "heading": "Underwriter Lens: Weak Offers Exposed",
-          "body": "As an underwriter, this means a loan officer's initial pre-approval needs to be rock-solid. Deals with soft contingencies or incomplete documentation are at higher risk."
+          "heading": "Underwriter Impact",
+          "body": "When a file hits underwriting, AI flags raise the DTI (debt‑to‑income) risk score instantly, forcing a deeper review before approval."
         },
         {
-          "heading": "Realtor Impact: Negotiation Power",
-          "body": "Realtors should educate buyers on the new negotiation landscape. Offers that stand out on terms, not just price, can reduce cancellation risk in a shifting market."
+          "heading": "Margin Pressure",
+          "body": "Detecting hidden issues early reduces post‑close loss reserves, tightening profit margins but improving long‑term P&L health."
         },
         {
-          "heading": "Southern Markets Lead",
-          "body": "The report specifically calls out Southern markets. This suggests that the inventory gains in these regions are significantly impacting buyer confidence and willingness to cancel."
+          "heading": "Actionable Insight",
+          "body": "Integrate AI alerts into your LOS (loan origination system) as a mandatory pre‑underwriting step, not an after‑thought."
         }
       ],
-      "my_take_heading": "My Take:",
-      "my_take": "This isn't just about market inventory; it's about the erosion of the 'fear of missing out.' Buyers are now confident enough to be picky, and deals that aren't buttoned up will fall apart.",
-      "action_lo": "Tighten your pre-approval process and educate clients on the impact of contingencies. A solid pre-approval reduces cancellation risk.",
-      "action_realtor": "Advise buyers to make strong, well-vetted offers. Guide them on when to walk away and how to structure deals that stick, even with more options.",
-      "cta_question": "How are you adapting your process to reduce cancellations in this new market dynamic?"
+      "my_take_heading": "My Take",
+      "my_take": "Most firms treat AI as a marketing buzzword; the real win is using it to rewrite the trust checklist before underwriting ever sees the file.",
+      "action_lo": "Add an AI‑driven trust audit checkpoint before you send files to underwriting.",
+      "action_realtor": "Ask agents to collect any atypical documents early; it will smooth the AI review.",
+      "cta_question": "How are you redesigning your trust checks with AI?"
     },
     {
-      "slug": "best-time-to-buy",
-      "title": "Now’s the Time: Late Summer Is the Best Season For Homebuyers to Score a Deal in These U.S. Metros",
-      "source": "Redfin",
-      "source_url": "https://www.redfin.com/news/best-time-to-buy-home-late-summer/",
-      "cover_text": "Late Summer Deals: Myth or Reality?",
-      "caption": "The idea that late summer is the best time to 'score a deal' isn't just anecdotal. Data shows specific windows for buyers to gain leverage in key metros, especially in parts of California, Texas, and NYC suburbs. This isn't about market crashes; it's about seasonal inventory shifts and seller motivation. From an underwriting perspective, getting pre-approved now means you're ready to jump when these windows open. For realtors, it's about precision targeting. Don't wait for 'the market' to change, focus on micro-seasons within your local market.\n\nSource : https://tinyurl.com/25ktyn9k\n#SafetrustMortgage #MortgageIntelligenceDaily #homebuying #realestateinvesting #housingmarket",
+      "slug": "unlock-mls-data-licensing",
+      "title": "Unlock MLS Data Licensing Changes the Broker Game",
+      "source": "HousingWire",
+      "source_url": "https://www.housingwire.com/articles/unlock-mls-data-licensing/",
+      "cover_text": "MLS Data Fees Arrive",
+      "caption": "Starting Sept. 15, brokerages must pay to license MLS listings. It sounds like a cost increase, but the real shift is in data ownership and how underwriters will price risk. Those who treat the feed as a commodity will fall behind.\n\nSource : https://tinyurl.com/24sw5k5d\n#SafetrustMortgage #MortgageIntelligenceDaily #MLS #realestate #mortgagetech",
       "hashtags": [
         "#SafetrustMortgage",
         "#MortgageIntelligenceDaily",
-        "#homebuying",
-        "#realestateinvesting",
-        "#housingmarket"
+        "#MLS",
+        "#realestate",
+        "#mortgagetech"
       ],
-      "hook_tag": "Timing Deals",
-      "hook": "Late summer offers a deal-making window. Is it real?",
-      "what_happened_heading": "What Happened:",
-      "what_happened": "Late August is the prime time for homebuyers to secure deals in specific metros like parts of California, Austin, TX, and certain NYC suburbs. Mid-September favors buyers in Baltimore, Nashville, Southern California, and other parts of Texas.",
+      "hook_tag": "Policy Shift",
+      "hook": "MLS fees will rewrite how brokers price loans",
+      "what_happened_heading": "What Happened",
+      "what_happened": "Unlock MLS announced that platform brokerages must commercially license listing data and pay a fee beginning September 15. The move aims to monetize data sharing.",
       "breakdown": [
         {
-          "heading": "Seasonal Inventory Shifts",
-          "body": "Fewer buyers are house hunting in late summer. This often leads to less competition and more motivated sellers, especially if their homes have been on the market for a while."
+          "heading": "Cost Redistribution",
+          "body": "Fees will flow from large brokerages to MLS operators, squeezing margins on high‑volume deals."
         },
         {
-          "heading": "Micro-Market Timing is Key",
-          "body": "The report highlights specific windows (late Aug, mid-Sept) and specific metros. This isn't a blanket rule; it requires a targeted approach based on local conditions."
+          "heading": "Underwriter Lens",
+          "body": "When a file includes MLS data, underwriters will now factor licensing costs into the loan‑to‑value (LTV) risk model."
         },
         {
-          "heading": "Underwriter Lens: Preparedness Wins",
-          "body": "Buyers who are fully pre-approved (not just pre-qualified) are best positioned. When a deal appears, they can move fast, a critical factor for securing competitive offers."
+          "heading": "Data Quality Incentive",
+          "body": "Paid access should improve listing accuracy, reducing appraisal gaps that often stall closing."
         },
         {
-          "heading": "Seller Motivation Rises",
-          "body": "Many sellers aim to close before the school year or holidays. As these deadlines approach, they may be more open to negotiation, creating a 'deal' environment."
+          "heading": "Strategic Response",
+          "body": "Brokerages can negotiate bulk licenses or build proprietary feeds to keep costs predictable."
         }
       ],
-      "my_take_heading": "My Take:",
-      "my_take": "General market sentiment often misses these granular, seasonal opportunities. The 'best time to buy' isn't a broad market call; it's a surgical strike based on local timing and seller psychology.",
-      "action_lo": "Educate clients on specific local market windows. Get them fully underwritten and pre-approved so they can act immediately when deals surface.",
-      "action_realtor": "Leverage this data. Target buyers in these specific metros during these specific weeks. Show them the data on why this is their best opportunity.",
-      "cta_question": "How do you identify and capitalize on these micro-seasonal shifts in your local market?"
+      "my_take_heading": "My Take",
+      "my_take": "The fee isn’t just a line‑item expense; it’s a lever to demand better data, which underwriters will reward with tighter pricing.",
+      "action_lo": "Model the new MLS fee into your cost‑of‑sale calculations now.",
+      "action_realtor": "Push your brokerage to lock in a multi‑year license before rates rise.",
+      "cta_question": "Will you treat MLS data as a cost center or a competitive advantage?"
     },
     {
-      "slug": "mortgage-rates-damage-control",
-      "title": "Mortgage Rates Simply Trying to Limit the Damage Right Now",
-      "source": "The Truth About Mortgage",
-      "source_url": "https://www.thetruthaboutmortgage.com/mortgage-rates-simply-trying-to-limit-the-damage-right-now/",
-      "cover_text": "Rates: Damage Control, Not Drops.",
-      "caption": "Many buyers are waiting for significant drops in mortgage rates, but the reality is more about preventing further increases. Even with some 'good news' in financial markets, rates are primarily stabilizing, not falling substantially. From an underwriter's perspective, this means locking a rate is more strategic than ever, especially given market volatility. Don't get caught chasing the bottom; focus on what's real and actionable now. This isn't a market for big gambles, it's a market for smart, informed decisions.\n\nSource : https://tinyurl.com/22ns44ex\n#SafetrustMortgage #MortgageIntelligenceDaily #mortgagerates #homebuying #housingmarket",
+      "slug": "fhfa-foreclosure-prevention-drop",
+      "title": "Why GSE Foreclosure Prevention Decline Matters More Than Rates",
+      "source": "HousingWire",
+      "source_url": "https://www.housingwire.com/articles/fhfa-says-gse-foreclosure-prevention-actions-fell-in-may/",
+      "cover_text": "Foreclosure Drop Alert",
+      "caption": "FHFA data shows GSE (government‑sponsored enterprise) foreclosure prevention actions fell 30% in May as rates climbed. The headline focuses on rates, but the deeper story is a pipeline choke that will hit loan loss reserves and underwriting appetites for months.\n\nSource : https://tinyurl.com/2y7oczfu\n#SafetrustMortgage #MortgageIntelligenceDaily #foreclosure #GSE #mortgageloss",
       "hashtags": [
         "#SafetrustMortgage",
         "#MortgageIntelligenceDaily",
-        "#mortgagerates",
-        "#homebuying",
-        "#housingmarket"
+        "#foreclosure",
+        "#GSE",
+        "#mortgageloss"
       ],
-      "hook_tag": "Rate Reality",
-      "hook": "Mortgage rates are in damage control, not dropping.",
-      "what_happened_heading": "What Happened:",
-      "what_happened": "Mortgage rates are primarily focused on limiting further increases. Recent 'good news' in the financial markets has only helped rates avoid getting worse, not achieve sizable drops.",
+      "hook_tag": "Risk Trend",
+      "hook": "Lower prevention actions = future loss spikes",
+      "what_happened_heading": "What Happened",
+      "what_happened": "FHFA reported GSE foreclosure prevention actions dropped 29.9% in May, coinciding with a 6.44% average 30‑year rate. Refinance volume also fell sharply.",
       "breakdown": [
         {
-          "heading": "No Sizable Drops",
-          "body": "Despite positive financial news, mortgage rates aren't seeing significant downward movement. They are mostly holding steady, preventing a further climb."
+          "heading": "Pipeline Bottleneck",
+          "body": "Fewer prevention programs mean more distressed loans stay in the pipeline, raising default risk."
         },
         {
-          "heading": "Underwriter Lens: Lock Strategy",
-          "body": "This environment reinforces the importance of a well-timed rate lock. Chasing a hypothetical lower rate could lead to missing out as volatility remains a factor."
+          "heading": "Underwriter Reaction",
+          "body": "Underwriters will tighten DTI and credit score thresholds on new applications to offset higher loss exposure."
         },
         {
-          "heading": "External Factors Drive Rates",
-          "body": "Bond market movements, influenced by things like oil prices and Treasury announcements, dictate rate trends more than general 'good news.' Fuel prices specifically played a role recently."
+          "heading": "P&L Pressure",
+          "body": "Higher defaults will inflate loss reserves, squeezing profit margins for lenders relying on GSE sales."
         },
         {
-          "heading": "Volatility is the Norm",
-          "body": "The market remains sensitive to various inputs. Any positive news primarily serves to stabilize, rather than dramatically reduce, current rate levels."
+          "heading": "Strategic Hedge",
+          "body": "Shift a portion of new volume to non‑GSE products with higher upfront fees to buffer reserve impacts."
         }
       ],
-      "my_take_heading": "My Take:",
-      "my_take": "Hope isn't a strategy. Buyers waiting for a 'crash' in rates are missing the nuance: the market's current win is simply not getting worse. Focus on stability, not speculation.",
-      "action_lo": "Educate clients on current rate realities. Focus on locking strategies and securing a stable rate rather than chasing unlikely steep drops.",
-      "action_realtor": "Manage buyer expectations on rates. Help them understand that 'stability' is the new 'good news' and that waiting indefinitely might not be beneficial.",
-      "cta_question": "How are you communicating the 'damage control' reality of current mortgage rates to your clients?"
+      "my_take_heading": "My Take",
+      "my_take": "The market’s focus on rates blinds us to the real danger: a sudden surge in loss reserves as GSEs pull back prevention support.",
+      "action_lo": "Re‑price new GSE loans to include a modest reserve buffer.",
+      "action_realtor": "Educate buyers on alternative loan programs that aren’t GSE‑dependent.",
+      "cta_question": "Are you adjusting your underwriting standards for the looming loss reserve gap?"
     }
   ],
   "carousels_es": [
     {
-      "slug": "cancellation-surge",
-      "title": "Cancelaciones de compras de vivienda alcanzan el nivel más alto en casi 3 años",
-      "source": "Redfin",
-      "source_url": "https://www.redfin.com/news/contract-cancellations-july-2026/",
-      "cover_text": "Aumento de cancelaciones: ¿Qué significa para USTED?",
-      "caption": "Los compradores de viviendas están abandonando los tratos a la tasa más alta en casi tres años. Esto no es solo un cambio de mercado, es un cambio de poder. Estamos viendo una correlación directa entre el aumento del inventario y una mayor confianza de los compradores para renegociar o cancelar si los términos no son correctos. Como asesor, veo esto como una advertencia para que los originadores ajusten las pre-aprobaciones y para que los agentes guíen a los compradores sobre ofertas sólidas. No se deje sorprender. Entienda por qué se rompen los tratos y cómo prevenirlo.\n\nFuente : https://tinyurl.com/265xuoax\n#SafetrustMortgage #MortgageIntelligenceDaily #homebuying #realestateagent #housingmarket",
+      "slug": "ai-trust-mortgage",
+      "title": "La IA revela brechas ocultas de confianza en los archivos hipotecarios",
+      "source": "HousingWire",
+      "source_url": "https://www.housingwire.com/articles/mortgage-trust-ai-relationship/",
+      "cover_text": "IA vs. Confianza Hipotecaria",
+      "caption": "Los prestatarios creen que su expediente está impecable, pero la IA muestra puntos ciegos que nadie detecta. No es solo una historia tecnológica; es una revisión de la suscripción que cambiará los modelos de riesgo. Si sigue confiando en controles tradicionales, está dejando dinero sobre la mesa.\n\nFuente : https://tinyurl.com/2bak2jgt\n#SafetrustMortgage #MortgageIntelligenceDaily #mortgagerisk #AIinFinance #underwriting",
       "hashtags": [
         "#SafetrustMortgage",
         "#MortgageIntelligenceDaily",
-        "#homebuying",
-        "#realestateagent",
-        "#housingmarket"
+        "#mortgagerisk",
+        "#AIinFinance",
+        "#underwriting"
       ],
-      "hook_tag": "Poder del comprador",
-      "hook": "Los compradores ahora tienen el poder de retirarse.",
-      "what_happened_heading": "Lo que pasó:",
-      "what_happened": "En julio, el 14% de las transacciones de compra de vivienda se cayeron, la proporción más alta desde noviembre de 2023. Esta tendencia es más frecuente en los mercados del sur, favorables para el comprador, que tienen más inventario.",
+      "hook_tag": "Tech Risk",
+      "hook": "La IA descubre fallas de confianza que usted no vio venir",
+      "what_happened_heading": "What Happened",
+      "what_happened": "HousingWire informó que nuevas herramientas de IA pueden señalar fallas invisibles de confianza del prestatario. La industria se apresura a integrar estos hallazgos en los flujos de trabajo existentes.",
       "breakdown": [
         {
-          "heading": "Más inventario, más opciones",
-          "body": "Cuando hay menos compradores y más viviendas, los compradores tienen ventaja. Temen menos cancelar si aparece una mejor opción o si surgen problemas durante la inspección."
+          "heading": "Cuatro mecanismos de confianza",
+          "body": "La confianza del prestatario depende de documentación, verificación, consistencia e intención. La IA puede cruzar cada uno a gran escala, detectando incongruencias que los humanos pasan por alto."
         },
         {
-          "heading": "Perspectiva del asesor: ofertas débiles expuestas",
-          "body": "Como asesor, esto significa que la pre-aprobación inicial del oficial de crédito debe ser muy sólida. Las transacciones con contingencias flexibles o documentación incompleta tienen mayor riesgo."
+          "heading": "Impacto en el asesor",
+          "body": "Cuando un expediente llega a la suscripción, las alertas de IA elevan instantáneamente el puntaje de riesgo DTI, obligando a una revisión más profunda antes de aprobar."
         },
         {
-          "heading": "Impacto del agente inmobiliario: poder de negociación",
-          "body": "Los agentes deben educar a los compradores sobre el nuevo panorama de negociación. Las ofertas que se destacan por sus términos, no solo por el precio, pueden reducir el riesgo de cancelación en un mercado cambiante."
+          "heading": "Presión de margen",
+          "body": "Detectar problemas ocultos temprano reduce las reservas de pérdida post‑cierre, estrechando márgenes pero mejorando la salud del P&L a largo plazo."
         },
         {
-          "heading": "Los mercados del sur lideran",
-          "body": "El informe menciona específicamente los mercados del sur. Esto sugiere que el aumento de inventario en estas regiones está impactando significativamente la confianza de los compradores y su disposición a cancelar."
+          "heading": "Información accionable",
+          "body": "Integre las alertas de IA en su LOS (sistema de originación de préstamos) como paso obligatorio previo a la suscripción, no como un añadido."
         }
       ],
-      "my_take_heading": "Mi opinión:",
-      "my_take": "Esto no se trata solo del inventario del mercado; se trata de la erosión del 'miedo a perderse algo'. Los compradores ahora confían lo suficiente como para ser exigentes, y los acuerdos que no estén bien cerrados se desmoronarán.",
-      "action_lo": "Ajuste su proceso de pre-aprobación y eduque a los clientes sobre el impacto de las contingencias. Una pre-aprobación sólida reduce el riesgo de cancelación.",
-      "action_realtor": "Aconseje a los compradores que hagan ofertas sólidas y bien investigadas. Guíelos sobre cuándo retirarse y cómo estructurar acuerdos que se mantengan, incluso con más opciones.",
-      "cta_question": "¿Cómo está adaptando su proceso para reducir las cancelaciones en esta nueva dinámica del mercado?"
+      "my_take_heading": "My Take",
+      "my_take": "Muchas firmas tratan la IA como un eslogan publicitario; la verdadera ventaja es usarla para rehacer la lista de verificación de confianza antes de que el asesor vea el expediente.",
+      "action_lo": "Añada un punto de auditoría de confianza impulsado por IA antes de enviar los expedientes a suscripción.",
+      "action_realtor": "Pida a los agentes que recopilen documentos atípicos temprano; facilitará la revisión de IA.",
+      "cta_question": "¿Cómo está rediseñando sus controles de confianza con IA?"
     },
     {
-      "slug": "best-time-to-buy",
-      "title": "Ahora es el momento: el final del verano es la mejor temporada para que los compradores de viviendas consigan un buen trato en estas grandes ciudades de EE. UU.",
-      "source": "Redfin",
-      "source_url": "https://www.redfin.com/news/best-time-to-buy-home-late-summer/",
-      "cover_text": "Ofertas de fin de verano: ¿Mito o realidad?",
-      "caption": "La idea de que el final del verano es el mejor momento para 'conseguir una ganga' no es solo anecdótica. Los datos muestran ventanas específicas para que los compradores obtengan ventaja en mercados clave, especialmente en partes de California, Texas y los suburbios de Nueva York. No se trata de caídas del mercado; se trata de cambios estacionales de inventario y motivación del vendedor. Desde una perspectiva de asesoría, obtener la pre-aprobación ahora significa que está listo para actuar cuando se abran estas ventanas. Para los agentes inmobiliarios, se trata de una orientación precisa. No espere a que 'el mercado' cambie, céntrese en las micro-temporadas dentro de su mercado local.\n\nFuente : https://tinyurl.com/25ktyn9k\n#SafetrustMortgage #MortgageIntelligenceDaily #homebuying #realestateinvesting #housingmarket",
+      "slug": "unlock-mls-data-licensing",
+      "title": "Licenciar datos MLS transforma el juego de los corredores",
+      "source": "HousingWire",
+      "source_url": "https://www.housingwire.com/articles/unlock-mls-data-licensing/",
+      "cover_text": "Llegan tarifas de datos MLS",
+      "caption": "A partir del 15 de septiembre, las corredurías deberán pagar por licenciar listados MLS. Parece un aumento de costos, pero el verdadero cambio está en la propiedad de los datos y cómo los asesores valorarán el riesgo. Quienes traten el feed como una mercancía quedarán rezagados.\n\nFuente : https://tinyurl.com/24sw5k5d\n#SafetrustMortgage #MortgageIntelligenceDaily #MLS #realestate #mortgagetech",
       "hashtags": [
         "#SafetrustMortgage",
         "#MortgageIntelligenceDaily",
-        "#homebuying",
-        "#realestateinvesting",
-        "#housingmarket"
+        "#MLS",
+        "#realestate",
+        "#mortgagetech"
       ],
-      "hook_tag": "Momento de las ofertas",
-      "hook": "El final del verano ofrece una ventana para hacer tratos. ¿Es real?",
-      "what_happened_heading": "Lo que pasó:",
-      "what_happened": "Finales de agosto es el momento ideal para que los compradores de viviendas aseguren ofertas en ciudades específicas como partes de California, Austin, TX, y ciertos suburbios de NYC. Mediados de septiembre favorece a los compradores en Baltimore, Nashville, el sur de California y otras partes de Texas.",
+      "hook_tag": "Policy Shift",
+      "hook": "Las tarifas MLS redefinirán cómo los corredores fijan precios de préstamos",
+      "what_happened_heading": "What Happened",
+      "what_happened": "Unlock MLS anunció que las corredurías de la plataforma deben licenciar comercialmente los datos de listados y pagar una tarifa a partir del 15 de septiembre. La medida busca monetizar el intercambio de datos.",
       "breakdown": [
         {
-          "heading": "Cambios estacionales de inventario",
-          "body": "Menos compradores buscan casa a finales del verano. Esto a menudo lleva a menos competencia y a vendedores más motivados, especialmente si sus casas han estado en el mercado por un tiempo."
+          "heading": "Redistribución de costos",
+          "body": "Las tarifas pasarán de las grandes corredurías a los operadores MLS, comprimiendo márgenes en operaciones de alto volumen."
         },
         {
-          "heading": "El momento del micro-mercado es clave",
-          "body": "El informe destaca ventanas específicas (finales de agosto, mediados de septiembre) y ciudades específicas. Esto no es una regla general; requiere un enfoque dirigido basado en las condiciones locales."
+          "heading": "Perspectiva del asesor",
+          "body": "Cuando un expediente incluye datos MLS, los asesores incorporarán ahora los costos de licencia en el modelo de riesgo LTV."
         },
         {
-          "heading": "Perspectiva del asesor: la preparación gana",
-          "body": "Los compradores que están completamente pre-aprobados (no solo pre-calificados) están mejor posicionados. Cuando aparece una oferta, pueden actuar rápido, un factor crítico para asegurar ofertas competitivas."
+          "heading": "Incentivo de calidad de datos",
+          "body": "El acceso pagado debería mejorar la precisión de los listados, reduciendo brechas de tasación que retrasan cierres."
         },
         {
-          "heading": "Aumenta la motivación del vendedor",
-          "body": "Muchos vendedores buscan cerrar antes del año escolar o las vacaciones. A medida que se acercan estas fechas límite, pueden estar más abiertos a la negociación, creando un ambiente de 'oferta'."
+          "heading": "Respuesta estratégica",
+          "body": "Las corredurías pueden negociar licencias en bloque o crear feeds propios para mantener costos predecibles."
         }
       ],
-      "my_take_heading": "Mi opinión:",
-      "my_take": "El sentimiento general del mercado a menudo pasa por alto estas oportunidades granulares y estacionales. El 'mejor momento para comprar' no es un llamado general del mercado; es un ataque quirúrgico basado en el momento local y la psicología del vendedor.",
-      "action_lo": "Eduque a los clientes sobre las ventanas específicas del mercado local. Consiga que estén completamente aprobados para que puedan actuar inmediatamente cuando surjan las ofertas.",
-      "action_realtor": "Aproveche estos datos. Diríjase a los compradores en estas ciudades específicas durante estas semanas específicas. Muéstreles los datos de por qué esta es su mejor oportunidad.",
-      "cta_question": "¿Cómo identifica y capitaliza estos cambios micro-estacionales en su mercado local?"
+      "my_take_heading": "My Take",
+      "my_take": "La tarifa no es solo un gasto; es una palanca para exigir datos mejores, lo que los asesores recompensarán con precios más ajustados.",
+      "action_lo": "Modelice la nueva tarifa MLS en sus cálculos de costo de venta ahora mismo.",
+      "action_realtor": "Impulse a su correduría a asegurar una licencia multianual antes de que suban las tarifas.",
+      "cta_question": "¿Tratará los datos MLS como un centro de costos o como una ventaja competitiva?"
     },
     {
-      "slug": "mortgage-rates-damage-control",
-      "title": "Las tasas hipotecarias simplemente están tratando de limitar el daño en este momento",
-      "source": "The Truth About Mortgage",
-      "source_url": "https://www.thetruthaboutmortgage.com/mortgage-rates-simply-trying-to-limit-the-damage-right-now/",
-      "cover_text": "Tasas: Control de daños, no caídas.",
-      "caption": "Muchos compradores están esperando caídas significativas en las tasas hipotecarias, pero la realidad es más sobre prevenir aumentos adicionales. Incluso con algunas 'buenas noticias' en los mercados financieros, las tasas se están estabilizando principalmente, no cayendo sustancialmente. Desde la perspectiva de un asesor, esto significa que fijar una tasa es más estratégico que nunca, especialmente dada la volatilidad del mercado. No se quede persiguiendo el fondo; concéntrese en lo que es real y procesable ahora. Este no es un mercado para grandes apuestas, es un mercado para decisiones inteligentes e informadas.\n\nFuente : https://tinyurl.com/22ns44ex\n#SafetrustMortgage #MortgageIntelligenceDaily #mortgagerates #homebuying #housingmarket",
+      "slug": "fhfa-foreclosure-prevention-drop",
+      "title": "Por qué la caída en la prevención de ejecuciones del GSE importa más que las tasas",
+      "source": "HousingWire",
+      "source_url": "https://www.housingwire.com/articles/fhfa-says-gse-foreclosure-prevention-actions-fell-in-may/",
+      "cover_text": "Alerta de caída de ejecuciones",
+      "caption": "Los datos de FHFA muestran que las acciones de prevención de ejecuciones de los GSE disminuyeron un 30 % en mayo mientras subían las tasas. El titular se centra en las tasas, pero la historia profunda es un cuello de botella en el pipeline que afectará reservas de pérdidas y apetitos de suscripción durante meses.\n\nFuente : https://tinyurl.com/2y7oczfu\n#SafetrustMortgage #MortgageIntelligenceDaily #foreclosure #GSE #mortgageloss",
       "hashtags": [
         "#SafetrustMortgage",
         "#MortgageIntelligenceDaily",
-        "#mortgagerates",
-        "#homebuying",
-        "#housingmarket"
+        "#foreclosure",
+        "#GSE",
+        "#mortgageloss"
       ],
-      "hook_tag": "Realidad de las tasas",
-      "hook": "Las tasas hipotecarias están en control de daños, no cayendo.",
-      "what_happened_heading": "Lo que pasó:",
-      "what_happened": "Las tasas hipotecarias se centran principalmente en limitar nuevos aumentos. Las recientes 'buenas noticias' en los mercados financieros solo han ayudado a que las tasas no empeoren, no a lograr caídas considerables.",
+      "hook_tag": "Risk Trend",
+      "hook": "Menos acciones de prevención = picos de pérdida futuros",
+      "what_happened_heading": "What Happened",
+      "what_happened": "FHFA informó que las acciones de prevención de ejecuciones del GSE cayeron 29.9 % en mayo, coincidiendo con una tasa promedio de 30 años del 6.44 %. El volumen de refinanciamiento también cayó drásticamente.",
       "breakdown": [
         {
-          "heading": "Sin caídas considerables",
-          "body": "A pesar de las noticias financieras positivas, las tasas hipotecarias no están experimentando un movimiento descendente significativo. Se mantienen estables, evitando una mayor subida."
+          "heading": "Cuello de botella en el pipeline",
+          "body": "Menos programas de prevención dejan más préstamos en riesgo en el pipeline, aumentando el riesgo de incumplimiento."
         },
         {
-          "heading": "Perspectiva del asesor: estrategia de bloqueo",
-          "body": "Este entorno refuerza la importancia de un bloqueo de tasa bien programado. Perseguir una tasa hipotéticamente más baja podría llevar a perder oportunidades, ya que la volatilidad sigue siendo un factor."
+          "heading": "Reacción del asesor",
+          "body": "Los asesores endurecerán los umbrales de DTI y puntaje crediticio en nuevas solicitudes para compensar la mayor exposición a pérdidas."
         },
         {
-          "heading": "Factores externos impulsan las tasas",
-          "body": "Los movimientos del mercado de bonos, influenciados por factores como los precios del petróleo y los anuncios del Tesoro, dictan las tendencias de las tasas más que las 'buenas noticias' generales. Los precios del combustible desempeñaron un papel recientemente."
+          "heading": "Presión en P&L",
+          "body": "Más incumplimientos inflarán las reservas de pérdida, comprimiendo márgenes de ganancia para los prestamistas que dependen de ventas GSE."
         },
         {
-          "heading": "La volatilidad es la norma",
-          "body": "El mercado sigue siendo sensible a varias entradas. Cualquier noticia positiva sirve principalmente para estabilizar, en lugar de reducir drásticamente, los niveles de tasas actuales."
+          "heading": "Cobertura estratégica",
+          "body": "Desvíe parte del nuevo volumen a productos no GSE con tarifas iniciales más altas para amortiguar el impacto en reservas."
         }
       ],
-      "my_take_heading": "Mi opinión:",
-      "my_take": "La esperanza no es una estrategia. Los compradores que esperan una 'caída' en las tasas no están entendiendo el matiz: la victoria actual del mercado es simplemente no empeorar. Concéntrese en la estabilidad, no en la especulación.",
-      "action_lo": "Eduque a los clientes sobre las realidades actuales de las tasas. Concéntrese en las estrategias de bloqueo y en asegurar una tasa estable en lugar de perseguir caídas pronunciadas poco probables.",
-      "action_realtor": "Maneje las expectativas de los compradores sobre las tasas. Ayúdelos a entender que la 'estabilidad' es la nueva 'buena noticia' y que esperar indefinidamente podría no ser beneficioso.",
-      "cta_question": "¿Cómo comunica la realidad del 'control de daños' de las tasas hipotecarias actuales a sus clientes?"
+      "my_take_heading": "My Take",
+      "my_take": "El foco del mercado en las tasas nos ciega al verdadero peligro: un aumento repentino de reservas de pérdida cuando los GSE reducen su apoyo de prevención.",
+      "action_lo": "Re‑precio los nuevos préstamos GSE incluyendo un modesto colchón de reserva.",
+      "action_realtor": "Eduque a los compradores sobre programas de préstamo alternativos que no dependan del GSE.",
+      "cta_question": "¿Está ajustando sus estándares de suscripción ante la inminente brecha de reservas de pérdida?"
     }
   ]
 }

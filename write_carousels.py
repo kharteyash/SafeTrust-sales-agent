@@ -29,11 +29,13 @@ OUT = BASE / "carousel_content.json"
 
 # Try these Gemini models in order — if one is overloaded/unavailable (e.g. a 503
 # "model is overloaded" under heavy traffic), fall through to the next until one works.
+# Retired models 404 with "update your code to use models/<replacement>" — that
+# replacement is parsed and queued automatically, so this list self-heals; still,
+# keep it current (the 2.x family was retired in Aug 2026).
 MODELS = [
+    "gemini-3.6-flash",
+    "gemini-3.5-flash-lite",
     "gemini-2.5-flash",
-    "gemini-2.5-flash-lite",
-    "gemini-2.0-flash",
-    "gemini-2.0-flash-lite",
 ]
 
 # Substrings that mark a transient/availability error worth retrying or failing over.
@@ -49,7 +51,11 @@ FALLBACK_PROVIDERS = [
         "name": "Groq",
         "url": "https://api.groq.com/openai/v1/chat/completions",
         "key_env": "GROQ_API_KEY",
-        "models": ["llama-3.3-70b-versatile", "openai/gpt-oss-120b", "llama-3.1-8b-instant"],
+        # Groq retired its Llama models in Aug 2026 — these are the current ones.
+        "models": ["openai/gpt-oss-120b", "qwen/qwen3.6-27b", "openai/gpt-oss-20b"],
+        # Free tier rejects any request where input + max_tokens > 8000 (413),
+        # so requests are pre-sized to fit.
+        "req_cap": 8000,
     },
     {
         "name": "Cerebras",
@@ -81,6 +87,18 @@ class _RawResponse:
         self.text = text
 
 
+def _shrink_contents(contents, limit=6500):
+    """Cut a newline-separated payload (the headlines list) at an item boundary so
+    it fits a free tier's per-request token cap. Single-line payloads (the compact
+    JSON sent for translation) are returned unchanged — cutting would corrupt them."""
+    if len(contents) <= limit:
+        return contents
+    cut = contents.rfind("\n", 0, limit)
+    if cut < limit // 2:
+        return contents
+    return contents[:cut] + "\n[additional headlines omitted for length]"
+
+
 def _fallback_generate(contents, system_instruction, response_schema, max_output_tokens):
     """Last-resort generation via the OpenAI-compatible FALLBACK_PROVIDERS, in order.
     Returns a _RawResponse with JSON text, or None if no provider has a key set or
@@ -95,44 +113,79 @@ def _fallback_generate(contents, system_instruction, response_schema, max_output
         if not key:
             print(f"{provider['name']}: no {provider['key_env']} set — skipping.")
             continue
+        cap = provider.get("req_cap")
         for model in provider["models"]:
-            body = json.dumps({
-                "model": model,
-                "messages": [{"role": "system", "content": sys_msg},
-                             {"role": "user", "content": contents}],
-                "response_format": {"type": "json_object"},
-                "max_tokens": max_output_tokens,
-                "temperature": 0.4,
-            }).encode("utf-8")
-            req = urllib.request.Request(
-                provider["url"], data=body, method="POST",
-                headers={"Authorization": f"Bearer {key}", "Content-Type": "application/json",
-                         # Cloudflare fronts these APIs and rejects Python's
-                         # default urllib UA with error 1010 — send a real UA.
-                         "User-Agent": "Mozilla/5.0 (MortgageIntelligenceDaily bot)"})
-            for attempt in (1, 2):
+            mt = max_output_tokens
+            cont = contents
+            if cap:
+                # Pre-size to the provider's per-request cap: leave the model a
+                # real completion budget, trimming the headline list if needed.
+                # (chars/4 slightly overestimates tokens — a safety margin.)
+                budget = cap - 200 - (len(sys_msg) + len(cont)) // 4
+                if budget < 4500:
+                    cont = _shrink_contents(contents, 3800)
+                    budget = cap - 200 - (len(sys_msg) + len(cont)) // 4
+                mt = max(2500, min(mt, budget))
+            for attempt in (1, 2, 3):
+                payload = {
+                    "model": model,
+                    "messages": [{"role": "system", "content": sys_msg},
+                                 {"role": "user", "content": cont}],
+                    "response_format": {"type": "json_object"},
+                    "max_tokens": mt,
+                    "temperature": 0.4,
+                }
+                if "gpt-oss" in model:
+                    # Reasoning burns completion budget the JSON needs.
+                    payload["reasoning_effort"] = "low"
+                body = json.dumps(payload).encode("utf-8")
+                req = urllib.request.Request(
+                    provider["url"], data=body, method="POST",
+                    headers={"Authorization": f"Bearer {key}", "Content-Type": "application/json",
+                             # Cloudflare fronts these APIs and rejects Python's
+                             # default urllib UA with error 1010 — send a real UA.
+                             "User-Agent": "Mozilla/5.0 (MortgageIntelligenceDaily bot)"})
                 try:
                     with urllib.request.urlopen(req, timeout=120) as resp:
                         data = json.loads(resp.read())
                     text = data["choices"][0]["message"]["content"].strip()
                     if text.startswith("```"):  # strip accidental code fences
                         text = text[text.find("{"):text.rfind("}") + 1]
+                    # Validate here so truncated/malformed JSON tries the next
+                    # model instead of crashing the run later.
+                    response_schema.model_validate_json(text)
                     print(f"{provider['name']}: generated with {model}")
                     return _RawResponse(text)
                 except urllib.error.HTTPError as exc:
                     last_exc = exc
+                    try:
+                        detail = exc.read().decode("utf-8", "replace")[:200]
+                    except Exception:  # noqa: BLE001 — body may be unreadable
+                        detail = ""
+                    # Free-tier per-request caps count input AND max_tokens (Groq:
+                    # 8000/request) — shrink the headline list and size the
+                    # completion budget to what fits, then retry.
+                    if exc.code == 413 and attempt == 1:
+                        cont = _shrink_contents(contents)
+                        est_input = (len(sys_msg) + len(cont)) // 4 + 200
+                        mt = max(2500, min(mt, 7800 - est_input))
+                        print(f"{provider['name']} model {model} payload too large (413) — "
+                              f"retrying with max_tokens={mt} and "
+                              f"{len(cont)}/{len(contents)} chars of input.")
+                        continue
                     # Free tiers rate-limit per minute; two back-to-back calls
-                    # (generate, then translate) trip this — wait once and retry.
-                    if exc.code == 429 and attempt == 1:
+                    # (generate, then translate) trip this — wait and retry.
+                    if exc.code == 429 and attempt < 3:
                         try:
-                            wait = min(int(float(exc.headers.get("Retry-After", 30))), 90)
+                            wait = min(int(float(exc.headers.get("Retry-After", 45))), 90)
                         except (TypeError, ValueError):
-                            wait = 30
+                            wait = 45
                         print(f"{provider['name']} model {model} rate-limited (429) — "
                               f"retrying in {wait}s.")
                         time.sleep(wait)
                         continue
-                    print(f"{provider['name']} model {model} failed: {str(exc)[:160]}")
+                    print(f"{provider['name']} model {model} failed: "
+                          f"HTTP {exc.code} {detail}")
                     break
                 except Exception as exc:  # noqa: BLE001 — try the next model/provider
                     last_exc = exc
@@ -143,14 +196,21 @@ def _fallback_generate(contents, system_instruction, response_schema, max_output
 
 
 def generate_with_fallback(client, contents, *, system_instruction, response_schema,
-                           max_output_tokens=8192, models=None, attempts_per_model=2,
-                           base_delay=3):
-    """Call Gemini, trying each model in MODELS until one succeeds. Each model gets a
-    quick retry on transient errors before moving on. thinking_budget=0 is only sent
-    to the 2.5 "thinking" family (older models reject it). Raises if all fail."""
-    models = models or MODELS
+                           max_output_tokens=8192, models=None, attempts_per_model=3,
+                           base_delay=6):
+    """Call Gemini, trying each model in MODELS until one succeeds. Each model gets
+    retries on transient errors (6am ET demand spikes 503 for a minute or two)
+    before moving on. When a retired model's 404 names its replacement, that model
+    is queued and tried too, so retirements never kill the run. thinking_budget=0
+    is only sent to the 2.5 "thinking" family (older models reject it). Raises if
+    all fail."""
+    models = list(models or MODELS)
+    tried = set()
     last_exc = None
-    for model in models:
+    for model in models:  # appends during iteration are picked up by the loop
+        if model in tried:
+            continue
+        tried.add(model)
         cfg = dict(system_instruction=system_instruction,
                    response_mime_type="application/json",
                    response_schema=response_schema,
@@ -167,6 +227,12 @@ def generate_with_fallback(client, contents, *, system_instruction, response_sch
                 last_exc = exc
                 msg = str(exc).lower()
                 print(f"Gemini model {model} attempt {attempt} failed: {str(exc)[:160]}")
+                # A retired model's 404 names its successor ("update your code to
+                # use models/<id>") — queue that model so retirements self-heal.
+                repl = re.search(r"use models/([\w.\-]+)", str(exc))
+                if repl and repl.group(1) not in tried and repl.group(1) not in models:
+                    print(f"Gemini suggests replacement model {repl.group(1)} — queueing it.")
+                    models.append(repl.group(1))
                 transient = any(s in msg for s in _TRANSIENT)
                 if transient and attempt < attempts_per_model:
                     time.sleep(base_delay * attempt)

@@ -2,9 +2,24 @@ name: Daily News
 on:
   # Triggered by an external scheduler (cron-job.org) that POSTs a
   # repository_dispatch:daily-run at exactly 6:00am ET — fires on time, unlike
-  # GitHub's own delayed cron schedule (removed).
+  # GitHub's own delayed cron schedule.
   repository_dispatch:
     types: [daily-run]
+  # Retry safety net: if the 6am run failed, these firings re-run it every ~30
+  # minutes (6:30, 7:00, 7:30, ... ET) until one succeeds. The guard step skips
+  # every firing after today's carousels are done (.last_run) and anything
+  # outside the 6-11am ET window. Crons are UTC; during EST the first one lands
+  # at 5:30am ET and is skipped by the window check. GitHub cron can run a few
+  # minutes late — that's fine for a retry.
+  schedule:
+    - cron: "30 10 * * *"
+    - cron: "0 11 * * *"
+    - cron: "30 11 * * *"
+    - cron: "0 12 * * *"
+    - cron: "30 12 * * *"
+    - cron: "0 13 * * *"
+    - cron: "30 13 * * *"
+    - cron: "0 14 * * *"
   workflow_dispatch:
 permissions:
   contents: write
