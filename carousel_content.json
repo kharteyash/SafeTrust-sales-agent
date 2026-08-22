@@ -1,258 +1,258 @@
 {
   "carousels": [
     {
-      "slug": "ai-trust-mortgage",
-      "title": "AI Exposes Hidden Trust Gaps in Mortgage Files",
+      "slug": "fannie-mae-exec-cuts",
+      "title": "Fannie Mae Senior Leadership Cuts",
       "source": "HousingWire",
-      "source_url": "https://www.housingwire.com/articles/mortgage-trust-ai-relationship/",
-      "cover_text": "AI vs. Mortgage Trust",
-      "caption": "Borrowers think their loan file is airtight, but AI is revealing blind spots no human ever catches. The fallout isn’t just a tech story—it’s a underwriting reality check that will reshape risk models. If you’re still trusting legacy checks, you’re leaving money on the table.\n\nSource : https://tinyurl.com/2bak2jgt\n#SafetrustMortgage #MortgageIntelligenceDaily #mortgagerisk #AIinFinance #underwriting",
+      "source_url": "https://www.housingwire.com/articles/fannie-mae-senior-departures/",
+      "cover_text": "What Fannie Mae Cuts Mean For Lenders",
+      "caption": "Fannie Mae just cut senior leaders across core business lines, and lenders need to pay attention right now. This structural move is not just standard corporate downsizing. It signals a broad shift toward rigid, automated underwriting operations across the agency landscape. As a former loan officer and underwriter, I know that when agency headcount drops, policy exception waivers dry up extremely fast. Automated desktop underwriting engine rules will dominate file decisions with zero room for manual leniency or flexible interpretations. Lenders must focus on cleaning up borrower income and credit documentation earlier in the process. Realtors must ensure buyers are fully vetted through automated desktop underwriting before writing purchase contracts on non-standard properties or complex condominium files.\n\nSource : https://tinyurl.com/2cu9k5o7\n#SafetrustMortgage #MortgageIntelligenceDaily #loanofficer #mortgagebroker #housingmarket",
       "hashtags": [
         "#SafetrustMortgage",
         "#MortgageIntelligenceDaily",
-        "#mortgagerisk",
-        "#AIinFinance",
-        "#underwriting"
+        "#loanofficer",
+        "#mortgagebroker",
+        "#housingmarket"
       ],
-      "hook_tag": "Tech Risk",
-      "hook": "AI is finding trust failures you never saw coming",
-      "what_happened_heading": "What Happened",
-      "what_happened": "HousingWire reported new AI tools can flag invisible borrower trust failures. The industry is scrambling to integrate these insights into existing workflows.",
+      "hook_tag": "Agency Strategy",
+      "hook": "Fannie Mae senior cuts aren't just corporate cost savings.",
+      "what_happened_heading": "The Big Move",
+      "what_happened": "Fannie Mae eliminated multiple senior executive positions across its core business lines this week. The Wall Street Journal first reported the sudden restructuring and departures.",
       "breakdown": [
         {
-          "heading": "Four Trust Mechanisms",
-          "body": "Borrower trust hinges on documentation, verification, consistency, and intent. AI can cross‑check each at scale, catching mismatches humans miss."
+          "heading": "Beyond Cost Cutting",
+          "body": "Executive layoffs at government-sponsored entities signal a pivot toward automated technology and streamlined operations over hands-on management."
         },
         {
-          "heading": "Underwriter Impact",
-          "body": "When a file hits underwriting, AI flags raise the DTI (debt‑to‑income) risk score instantly, forcing a deeper review before approval."
+          "heading": "The Underwriter Lens",
+          "body": "When agency staff thins, manual underwriting (human risk evaluation) variance requests take longer and guidelines become strictly automated through software."
         },
         {
-          "heading": "Margin Pressure",
-          "body": "Detecting hidden issues early reduces post‑close loss reserves, tightening profit margins but improving long‑term P&L health."
+          "heading": "Seller-Servicer Pressure",
+          "body": "Less senior oversight means stricter automated audit trails and lower tolerance for rep and warrant (lender liability for faulty loans) flexibilities."
         },
         {
-          "heading": "Actionable Insight",
-          "body": "Integrate AI alerts into your LOS (loan origination system) as a mandatory pre‑underwriting step, not an after‑thought."
+          "heading": "Pipeline Impact",
+          "body": "Lenders relying on custom policy exceptions or complex condo approvals will face longer wait times and harder rejections."
         }
       ],
-      "my_take_heading": "My Take",
-      "my_take": "Most firms treat AI as a marketing buzzword; the real win is using it to rewrite the trust checklist before underwriting ever sees the file.",
-      "action_lo": "Add an AI‑driven trust audit checkpoint before you send files to underwriting.",
-      "action_realtor": "Ask agents to collect any atypical documents early; it will smooth the AI review.",
-      "cta_question": "How are you redesigning your trust checks with AI?"
+      "my_take_heading": "The Bottom Line",
+      "my_take": "Less human leadership at Fannie means rigid, automated underwriting algorithms will dictate loan approvals more than ever.",
+      "action_lo": "Clean up your DU files upfront and stop relying on manual agency rep exceptions to save messy deals.",
+      "action_realtor": "Get buyers pre-approved strictly through automated underwriting before writing offers on complex properties or condos.",
+      "cta_question": "Is your pipeline ready for stricter automated agency underwriting without human exception waivers?"
     },
     {
-      "slug": "unlock-mls-data-licensing",
-      "title": "Unlock MLS Data Licensing Changes the Broker Game",
+      "slug": "veterans-united-respa-suit",
+      "title": "RESPA Kickback Suit Survives Court Challenge",
       "source": "HousingWire",
-      "source_url": "https://www.housingwire.com/articles/unlock-mls-data-licensing/",
-      "cover_text": "MLS Data Fees Arrive",
-      "caption": "Starting Sept. 15, brokerages must pay to license MLS listings. It sounds like a cost increase, but the real shift is in data ownership and how underwriters will price risk. Those who treat the feed as a commodity will fall behind.\n\nSource : https://tinyurl.com/24sw5k5d\n#SafetrustMortgage #MortgageIntelligenceDaily #MLS #realestate #mortgagetech",
+      "source_url": "https://www.housingwire.com/articles/missouri-judge-veterans-united-respa-kickback-claims/",
+      "cover_text": "RESPA Rules Are Getting Strictly Enforced",
+      "caption": "The legal battle involving Veterans United lost its state law claims, but federal RESPA kickback allegations survived intact. If you assume regulatory pressure on lender and real estate agent referral partnerships is fading, you are mistaken. Lead generation splits, desk rentals, and joint advertising stay under intense federal oversight. From an underwriter and compliance perspective, non-compliant marketing arrangements directly threaten a mortgage loan's saleability on the secondary market. Never assume standard marketing service agreements shield your team from regulatory enforcement actions. Now is the exact right time to audit all co-marketing platforms, verify equal financial contributions, and strictly enforce clear fair market value guidelines across your entire origination network.\n\nSource : https://tinyurl.com/2c2s6nu6\n#SafetrustMortgage #MortgageIntelligenceDaily #realestateagent #loanofficer #mortgagebroker",
       "hashtags": [
         "#SafetrustMortgage",
         "#MortgageIntelligenceDaily",
-        "#MLS",
-        "#realestate",
-        "#mortgagetech"
+        "#realestateagent",
+        "#loanofficer",
+        "#mortgagebroker"
       ],
-      "hook_tag": "Policy Shift",
-      "hook": "MLS fees will rewrite how brokers price loans",
-      "what_happened_heading": "What Happened",
-      "what_happened": "Unlock MLS announced that platform brokerages must commercially license listing data and pay a fee beginning September 15. The move aims to monetize data sharing.",
+      "hook_tag": "Regulatory Risk",
+      "hook": "Dismissing state claims does not save your RESPA agreement.",
+      "what_happened_heading": "The Court Ruling",
+      "what_happened": "A federal judge narrowed a lawsuit against Veterans United by dismissing state consumer claims. However, the court allowed federal RESPA kickback allegations to move forward.",
       "breakdown": [
         {
-          "heading": "Cost Redistribution",
-          "body": "Fees will flow from large brokerages to MLS operators, squeezing margins on high‑volume deals."
+          "heading": "RESPA Stays Alive",
+          "body": "Clearing state law hurdles means nothing when federal anti-kickback statutes are triggered by co-marketing or referral arrangements."
         },
         {
-          "heading": "Underwriter Lens",
-          "body": "When a file includes MLS data, underwriters will now factor licensing costs into the loan‑to‑value (LTV) risk model."
+          "heading": "Co-Marketing Scrutiny",
+          "body": "Regulatory focus remains heavily fixed on desk rentals, joint advertising, and lead generation payments between lenders and agents."
         },
         {
-          "heading": "Data Quality Incentive",
-          "body": "Paid access should improve listing accuracy, reducing appraisal gaps that often stall closing."
+          "heading": "The Underwriter Lens",
+          "body": "Underwriters and compliance officers flag unverified marketing fees because non-compliant referral agreements threaten loan saleability on secondary markets."
         },
         {
-          "heading": "Strategic Response",
-          "body": "Brokerages can negotiate bulk licenses or build proprietary feeds to keep costs predictable."
+          "heading": "Market Realities",
+          "body": "Regulators are actively auditing formal and informal marketing services agreements to ensure fair market value pricing."
         }
       ],
-      "my_take_heading": "My Take",
-      "my_take": "The fee isn’t just a line‑item expense; it’s a lever to demand better data, which underwriters will reward with tighter pricing.",
-      "action_lo": "Model the new MLS fee into your cost‑of‑sale calculations now.",
-      "action_realtor": "Push your brokerage to lock in a multi‑year license before rates rise.",
-      "cta_question": "Will you treat MLS data as a cost center or a competitive advantage?"
+      "my_take_heading": "The Bottom Line",
+      "my_take": "Winning on state legal technicalities will not protect bad marketing arrangements from federal RESPA enforcement.",
+      "action_lo": "Audit every co-marketing agreement and desk rental fee to guarantee true fair market value compliance.",
+      "action_realtor": "Ensure all shared marketing platforms with lenders represent documented, equal financial contributions.",
+      "cta_question": "Have you audited your marketing service agreements to survive renewed RESPA scrutiny this year?"
     },
     {
-      "slug": "fhfa-foreclosure-prevention-drop",
-      "title": "Why GSE Foreclosure Prevention Decline Matters More Than Rates",
+      "slug": "private-listings-scarcity-myth",
+      "title": "The Scarcity Myth in Off-Market Listings",
       "source": "HousingWire",
-      "source_url": "https://www.housingwire.com/articles/fhfa-says-gse-foreclosure-prevention-actions-fell-in-may/",
-      "cover_text": "Foreclosure Drop Alert",
-      "caption": "FHFA data shows GSE (government‑sponsored enterprise) foreclosure prevention actions fell 30% in May as rates climbed. The headline focuses on rates, but the deeper story is a pipeline choke that will hit loan loss reserves and underwriting appetites for months.\n\nSource : https://tinyurl.com/2y7oczfu\n#SafetrustMortgage #MortgageIntelligenceDaily #foreclosure #GSE #mortgageloss",
+      "source_url": "https://www.housingwire.com/articles/listing-visibility-scarcity/",
+      "cover_text": "Why Pocket Listings Can Hurt Sales",
+      "caption": "Private listings and off-market pocket listings are often marketed as exclusive strategies, but new research proves they can suppress contract sales prices. Hiding home inventory from the open market prevents willing, qualified buyers from competing. As a former loan officer and underwriter, I see the negative ripple effect this creates on property valuations. Appraisers rely on public MLS comps to justify transaction values, and off-market sales weaken broader neighborhood pricing data. Artificial scarcity damages real seller contract leverage. Real estate professionals and loan officers must educate clients that maximum public market exposure, rather than restricted off-market deals, consistently generates the highest purchase price and strongest loan appraisal backing.\n\nSource : https://tinyurl.com/2dooxkz8\n#SafetrustMortgage #MortgageIntelligenceDaily #housingmarket #realestateagent #homebuying",
       "hashtags": [
         "#SafetrustMortgage",
         "#MortgageIntelligenceDaily",
-        "#foreclosure",
-        "#GSE",
-        "#mortgageloss"
+        "#housingmarket",
+        "#realestateagent",
+        "#homebuying"
       ],
-      "hook_tag": "Risk Trend",
-      "hook": "Lower prevention actions = future loss spikes",
-      "what_happened_heading": "What Happened",
-      "what_happened": "FHFA reported GSE foreclosure prevention actions dropped 29.9% in May, coinciding with a 6.44% average 30‑year rate. Refinance volume also fell sharply.",
+      "hook_tag": "Listing Strategy",
+      "hook": "Off-market scarcity pitches can actually drive selling prices down.",
+      "what_happened_heading": "What Studies Show",
+      "what_happened": "New research reveals that marketing properties privately off-market often suppresses final sale prices. Restricting listing visibility prevents serious buyers from entering competitive bidding processes.",
       "breakdown": [
         {
-          "heading": "Pipeline Bottleneck",
-          "body": "Fewer prevention programs mean more distressed loans stay in the pipeline, raising default risk."
+          "heading": "The Scarcity Trap",
+          "body": "Sellers believe private listings create luxury exclusivity, but limiting market exposure actively reduces total buyer demand."
         },
         {
-          "heading": "Underwriter Reaction",
-          "body": "Underwriters will tighten DTI and credit score thresholds on new applications to offset higher loss exposure."
+          "heading": "Valuation Gaps",
+          "body": "Hidden property listings prevent full market price discovery, causing buyers to submit lower baseline offers."
         },
         {
-          "heading": "P&L Pressure",
-          "body": "Higher defaults will inflate loss reserves, squeezing profit margins for lenders relying on GSE sales."
+          "heading": "The Underwriter Lens",
+          "body": "Appraisers and underwriters rely on public sales for comps (comparable property valuations), meaning off-market sales weaken appraisals across neighborhoods."
         },
         {
-          "heading": "Strategic Hedge",
-          "body": "Shift a portion of new volume to non‑GSE products with higher upfront fees to buffer reserve impacts."
+          "heading": "Reduced Competition",
+          "body": "Without full public exposure, listings miss competitive multi-offer dynamics that drive top-tier market valuations."
         }
       ],
-      "my_take_heading": "My Take",
-      "my_take": "The market’s focus on rates blinds us to the real danger: a sudden surge in loss reserves as GSEs pull back prevention support.",
-      "action_lo": "Re‑price new GSE loans to include a modest reserve buffer.",
-      "action_realtor": "Educate buyers on alternative loan programs that aren’t GSE‑dependent.",
-      "cta_question": "Are you adjusting your underwriting standards for the looming loss reserve gap?"
+      "my_take_heading": "The Bottom Line",
+      "my_take": "Artificial scarcity sounds exclusive, but hiding properties from the broad market destroys real contract leverage.",
+      "action_lo": "Warn sellers and buyers about appraisal valuation gaps caused by off-market comparable sale voids.",
+      "action_realtor": "Educate home sellers on how broad MLS visibility creates true competitive tension and higher prices.",
+      "cta_question": "Are pocket listings actively hurting your appraisal values and contract prices in your local market?"
     }
   ],
   "carousels_es": [
     {
-      "slug": "ai-trust-mortgage",
-      "title": "La IA revela brechas ocultas de confianza en los archivos hipotecarios",
+      "slug": "fannie-mae-exec-cuts",
+      "title": "Fannie Mae Senior Leadership Cuts",
       "source": "HousingWire",
-      "source_url": "https://www.housingwire.com/articles/mortgage-trust-ai-relationship/",
-      "cover_text": "IA vs. Confianza Hipotecaria",
-      "caption": "Los prestatarios creen que su expediente está impecable, pero la IA muestra puntos ciegos que nadie detecta. No es solo una historia tecnológica; es una revisión de la suscripción que cambiará los modelos de riesgo. Si sigue confiando en controles tradicionales, está dejando dinero sobre la mesa.\n\nFuente : https://tinyurl.com/2bak2jgt\n#SafetrustMortgage #MortgageIntelligenceDaily #mortgagerisk #AIinFinance #underwriting",
+      "source_url": "https://www.housingwire.com/articles/fannie-mae-senior-departures/",
+      "cover_text": "Lo que los recortes de Fannie Mae significan para los prestamistas",
+      "caption": "Fannie Mae acaba de recortar líderes senior en líneas de negocio principales, y los prestamistas deben prestar atención ahora mismo. Este movimiento estructural no es solo una reducción corporativa estándar. Señala un cambio amplio hacia operaciones de suscripción automatizada y rígidas en todo el panorama de las agencias. Como ex oficial de préstamos (loan officer) y asesor, sé que cuando el personal de las agencia baja, las excepciones de políticas desaparecen extremadamente rápido. Las reglas del motor de suscripción automatizada dominarán las decisiones de los expedientes sin margen para indulgencia manual o interpretaciones flexibles. Los prestamistas deben enfocarse en limpiar los ingresos del prestatario y la documentación de crédito antes en el proceso. Los agentes inmobiliarios (realtors) deben asegurar que los compradores estén totalmente evaluados mediante suscripción automatizada antes de redactar contratos de compra en propiedades no estándar o archivos de condominios complejos.\n\nFuente : https://tinyurl.com/2cu9k5o7\n#SafetrustMortgage #MortgageIntelligenceDaily #loanofficer #mortgagebroker #housingmarket",
       "hashtags": [
         "#SafetrustMortgage",
         "#MortgageIntelligenceDaily",
-        "#mortgagerisk",
-        "#AIinFinance",
-        "#underwriting"
+        "#loanofficer",
+        "#mortgagebroker",
+        "#housingmarket"
       ],
-      "hook_tag": "Tech Risk",
-      "hook": "La IA descubre fallas de confianza que usted no vio venir",
-      "what_happened_heading": "What Happened",
-      "what_happened": "HousingWire informó que nuevas herramientas de IA pueden señalar fallas invisibles de confianza del prestatario. La industria se apresura a integrar estos hallazgos en los flujos de trabajo existentes.",
+      "hook_tag": "Estrategia de Agencia",
+      "hook": "Los recortes senior de Fannie Mae no son solo ahorros corporativos.",
+      "what_happened_heading": "El Gran Movimiento",
+      "what_happened": "Fannie Mae eliminó múltiples puestos ejecutivos senior en sus líneas de negocio principales esta semana. The Wall Street Journal informó primero sobre la reestructuración repentina y las salidas.",
       "breakdown": [
         {
-          "heading": "Cuatro mecanismos de confianza",
-          "body": "La confianza del prestatario depende de documentación, verificación, consistencia e intención. La IA puede cruzar cada uno a gran escala, detectando incongruencias que los humanos pasan por alto."
+          "heading": "Más Allá del Costo",
+          "body": "Los despidos ejecutivos en entidades patrocinadas por el gobierno señalan un giro hacia tecnología automatizada y operaciones simplificadas sobre la gestión directa."
         },
         {
-          "heading": "Impacto en el asesor",
-          "body": "Cuando un expediente llega a la suscripción, las alertas de IA elevan instantáneamente el puntaje de riesgo DTI, obligando a una revisión más profunda antes de aprobar."
+          "heading": "La Lupa del Asesor",
+          "body": "Cuando el personal de la agencia se reduce, las solicitudes de variación de suscripción manual toman más tiempo y las guías se vuelven estrictamente automatizadas mediante software."
         },
         {
-          "heading": "Presión de margen",
-          "body": "Detectar problemas ocultos temprano reduce las reservas de pérdida post‑cierre, estrechando márgenes pero mejorando la salud del P&L a largo plazo."
+          "heading": "Presión al Vendedor",
+          "body": "Menos supervisión senior significa auditorías automatizadas más estrictas y menor tolerancia para las flexibilidades de responsabilidad del prestamista por préstamos defectuosos."
         },
         {
-          "heading": "Información accionable",
-          "body": "Integre las alertas de IA en su LOS (sistema de originación de préstamos) como paso obligatorio previo a la suscripción, no como un añadido."
+          "heading": "Impacto en el Pipeline",
+          "body": "Los prestamistas que dependen de excepciones de políticas personalizadas o aprobaciones complejas de condominios enfrentarán esperas más largas y rechazos más duros."
         }
       ],
-      "my_take_heading": "My Take",
-      "my_take": "Muchas firmas tratan la IA como un eslogan publicitario; la verdadera ventaja es usarla para rehacer la lista de verificación de confianza antes de que el asesor vea el expediente.",
-      "action_lo": "Añada un punto de auditoría de confianza impulsado por IA antes de enviar los expedientes a suscripción.",
-      "action_realtor": "Pida a los agentes que recopilen documentos atípicos temprano; facilitará la revisión de IA.",
-      "cta_question": "¿Cómo está rediseñando sus controles de confianza con IA?"
+      "my_take_heading": "Punto Clave",
+      "my_take": "Menos liderazgo humano en Fannie significa que los algoritmos de suscripción automatizada dictarán las aprobaciones de préstamos más que nunca.",
+      "action_lo": "Limpie sus expedientes de DU desde el inicio y deje de depender de excepciones manuales de las agencias para salvar negocios complicados.",
+      "action_realtor": "Obtenga preaprobaciones de compradores estrictamente mediante suscripción automatizada antes de redactar ofertas en propiedades complejas o condominios.",
+      "cta_question": "¿Está su pipeline listo para una suscripción de agencia automatizada más estricta sin exenciones humanas?"
     },
     {
-      "slug": "unlock-mls-data-licensing",
-      "title": "Licenciar datos MLS transforma el juego de los corredores",
+      "slug": "veterans-united-respa-suit",
+      "title": "RESPA Kickback Suit Survives Court Challenge",
       "source": "HousingWire",
-      "source_url": "https://www.housingwire.com/articles/unlock-mls-data-licensing/",
-      "cover_text": "Llegan tarifas de datos MLS",
-      "caption": "A partir del 15 de septiembre, las corredurías deberán pagar por licenciar listados MLS. Parece un aumento de costos, pero el verdadero cambio está en la propiedad de los datos y cómo los asesores valorarán el riesgo. Quienes traten el feed como una mercancía quedarán rezagados.\n\nFuente : https://tinyurl.com/24sw5k5d\n#SafetrustMortgage #MortgageIntelligenceDaily #MLS #realestate #mortgagetech",
+      "source_url": "https://www.housingwire.com/articles/missouri-judge-veterans-united-respa-kickback-claims/",
+      "cover_text": "Las reglas de RESPA se aplican con más rigor",
+      "caption": "La batalla legal relacionada con Veterans United perdió sus demandas de ley estatal, pero las acusaciones federales de sobornos de RESPA sobrevivieron intactas. Si usted asume que la presión regulatoria sobre las asociaciones de referencia entre prestamistas y agentes inmobiliarios (realtors) se desvanece, está equivocado. Las divisiones de generación de prospectos, alquileres de escritorios y publicidad conjunta siguen bajo una intensa supervisión federal. Desde la perspectiva de un asesor y de cumplimiento, los acuerdos de marketing que no cumplen amenazan directamente la capacidad de venta de un préstamo hipotecario en el mercado secundario. Nunca asuma que los acuerdos de servicios de marketing estándar protegen a su equipo de acciones de cumplimiento regulatorio. Ahora es el momento perfecto para auditar todas las plataformas de co-marketing, verificar contribuciones financieras iguales y hacer cumplir estrictamente pautas claras de valor justo de mercado en toda su red de originación.\n\nFuente : https://tinyurl.com/2c2s6nu6\n#SafetrustMortgage #MortgageIntelligenceDaily #realestateagent #loanofficer #mortgagebroker",
       "hashtags": [
         "#SafetrustMortgage",
         "#MortgageIntelligenceDaily",
-        "#MLS",
-        "#realestate",
-        "#mortgagetech"
+        "#realestateagent",
+        "#loanofficer",
+        "#mortgagebroker"
       ],
-      "hook_tag": "Policy Shift",
-      "hook": "Las tarifas MLS redefinirán cómo los corredores fijan precios de préstamos",
-      "what_happened_heading": "What Happened",
-      "what_happened": "Unlock MLS anunció que las corredurías de la plataforma deben licenciar comercialmente los datos de listados y pagar una tarifa a partir del 15 de septiembre. La medida busca monetizar el intercambio de datos.",
+      "hook_tag": "Riesgo Regulatorio",
+      "hook": "Descartar reclamos estatales no salva su acuerdo de RESPA.",
+      "what_happened_heading": "El Fallo Judicial",
+      "what_happened": "Un juez federal redujo una demanda contra Veterans United al desestimar reclamos de los consumidores estatales. Sin embargo, el tribunal permitió que avanzaran las acusaciones federales de sobornos bajo RESPA.",
       "breakdown": [
         {
-          "heading": "Redistribución de costos",
-          "body": "Las tarifas pasarán de las grandes corredurías a los operadores MLS, comprimiendo márgenes en operaciones de alto volumen."
+          "heading": "RESPA Sigue Vivo",
+          "body": "Superar los obstáculos de la ley estatal no significa nada cuando se activan los estatutos federales contra sobornos mediante acuerdos de co-marketing o referencias."
         },
         {
-          "heading": "Perspectiva del asesor",
-          "body": "Cuando un expediente incluye datos MLS, los asesores incorporarán ahora los costos de licencia en el modelo de riesgo LTV."
+          "heading": "Escrutinio de Marketing",
+          "body": "El enfoque regulatorio sigue fijado fuertemente en alquileres de escritorios, publicidad conjunta y pagos por generación de prospectos entre prestamistas y agentes."
         },
         {
-          "heading": "Incentivo de calidad de datos",
-          "body": "El acceso pagado debería mejorar la precisión de los listados, reduciendo brechas de tasación que retrasan cierres."
+          "heading": "La Lupa del Asesor",
+          "body": "Los asesores y oficiales de cumplimiento marcan tarifas de marketing no verificadas porque los acuerdos de referencia no conformes amenazan la venta de préstamos en mercados secundarios."
         },
         {
-          "heading": "Respuesta estratégica",
-          "body": "Las corredurías pueden negociar licencias en bloque o crear feeds propios para mantener costos predecibles."
+          "heading": "Realidades del Mercado",
+          "body": "Los reguladores auditan activamente los acuerdos de servicios de marketing formales e informales para garantizar precios de valor justo de mercado."
         }
       ],
-      "my_take_heading": "My Take",
-      "my_take": "La tarifa no es solo un gasto; es una palanca para exigir datos mejores, lo que los asesores recompensarán con precios más ajustados.",
-      "action_lo": "Modelice la nueva tarifa MLS en sus cálculos de costo de venta ahora mismo.",
-      "action_realtor": "Impulse a su correduría a asegurar una licencia multianual antes de que suban las tarifas.",
-      "cta_question": "¿Tratará los datos MLS como un centro de costos o como una ventaja competitiva?"
+      "my_take_heading": "Punto Clave",
+      "my_take": "Ganar en tecnicismos legales estatales no protegerá los malos acuerdos de marketing del cumplimiento federal de RESPA.",
+      "action_lo": "Audite cada acuerdo de co-marketing y tarifa de alquiler de escritorio para garantizar el cumplimiento del valor justo de mercado verdadero.",
+      "action_realtor": "Asegure que todas las plataformas de marketing compartidas con prestamistas representen contribuciones financieras documentadas e iguales.",
+      "cta_question": "¿Ha auditado sus acuerdos de servicios de marketing para sobrevivir al escrutinio renovado de RESPA este año?"
     },
     {
-      "slug": "fhfa-foreclosure-prevention-drop",
-      "title": "Por qué la caída en la prevención de ejecuciones del GSE importa más que las tasas",
+      "slug": "private-listings-scarcity-myth",
+      "title": "The Scarcity Myth in Off-Market Listings",
       "source": "HousingWire",
-      "source_url": "https://www.housingwire.com/articles/fhfa-says-gse-foreclosure-prevention-actions-fell-in-may/",
-      "cover_text": "Alerta de caída de ejecuciones",
-      "caption": "Los datos de FHFA muestran que las acciones de prevención de ejecuciones de los GSE disminuyeron un 30 % en mayo mientras subían las tasas. El titular se centra en las tasas, pero la historia profunda es un cuello de botella en el pipeline que afectará reservas de pérdidas y apetitos de suscripción durante meses.\n\nFuente : https://tinyurl.com/2y7oczfu\n#SafetrustMortgage #MortgageIntelligenceDaily #foreclosure #GSE #mortgageloss",
+      "source_url": "https://www.housingwire.com/articles/listing-visibility-scarcity/",
+      "cover_text": "Por qué los listados privados pueden dañar las ventas",
+      "caption": "Los listados privados y listados de bolsillo fuera del mercado a menudo se promocionan como estrategias exclusivas, pero una nueva investigación prueba que pueden reducir los precios de venta por contrato. Ocultar el inventario de viviendas del mercado abierto evita que los compradores dispuestos y calificados compitan. Como ex oficial de préstamos (loan officer) y asesor, veo el efecto dominó negativo que esto crea en las valoraciones de las propiedades. Los tasadores dependen de comparables públicos de MLS para justificar los valores de las transacciones, y las ventas fuera del mercado debilitan los datos de precios de vecindarios más amplios. La escasez artificial daña el verdadero poder de negociación del vendedor. Los profesionales inmobiliarios y oficiales de préstamos deben educar a los clientes sobre que la máxima exposición al mercado público genera consistentemente el precio de compra más alto.\n\nFuente : https://tinyurl.com/2dooxkz8\n#SafetrustMortgage #MortgageIntelligenceDaily #housingmarket #realestateagent #homebuying",
       "hashtags": [
         "#SafetrustMortgage",
         "#MortgageIntelligenceDaily",
-        "#foreclosure",
-        "#GSE",
-        "#mortgageloss"
+        "#housingmarket",
+        "#realestateagent",
+        "#homebuying"
       ],
-      "hook_tag": "Risk Trend",
-      "hook": "Menos acciones de prevención = picos de pérdida futuros",
-      "what_happened_heading": "What Happened",
-      "what_happened": "FHFA informó que las acciones de prevención de ejecuciones del GSE cayeron 29.9 % en mayo, coincidiendo con una tasa promedio de 30 años del 6.44 %. El volumen de refinanciamiento también cayó drásticamente.",
+      "hook_tag": "Estrategia de Listado",
+      "hook": "Las tácticas de escasez fuera del mercado pueden bajar los precios.",
+      "what_happened_heading": "Lo que Muestran los Estudios",
+      "what_happened": "Una nueva investigación revela que comercializar propiedades de manera privada fuera del mercado a menudo suprime los precios finales de venta. Restringir la visibilidad del listado evita que compradores serios entren en procesos de ofertas competitivas.",
       "breakdown": [
         {
-          "heading": "Cuello de botella en el pipeline",
-          "body": "Menos programas de prevención dejan más préstamos en riesgo en el pipeline, aumentando el riesgo de incumplimiento."
+          "heading": "La Trampa de Escasez",
+          "body": "Los vendedores creen que los listados privados crean exclusividad de lujo, pero limitar la exposición al mercado reduce activamente la demanda total de los compradores."
         },
         {
-          "heading": "Reacción del asesor",
-          "body": "Los asesores endurecerán los umbrales de DTI y puntaje crediticio en nuevas solicitudes para compensar la mayor exposición a pérdidas."
+          "heading": "Brechas de Tasación",
+          "body": "Los listados de propiedades ocultas evitan el descubrimiento completo del precio de mercado, lo que hace que los compradores presenten ofertas base más bajas."
         },
         {
-          "heading": "Presión en P&L",
-          "body": "Más incumplimientos inflarán las reservas de pérdida, comprimiendo márgenes de ganancia para los prestamistas que dependen de ventas GSE."
+          "heading": "La Lupa del Asesor",
+          "body": "Los tasadores y asesores dependen de ventas públicas para comparables (valoraciones de propiedades similares), lo que significa que las ventas fuera del mercado debilitan las tasaciones."
         },
         {
-          "heading": "Cobertura estratégica",
-          "body": "Desvíe parte del nuevo volumen a productos no GSE con tarifas iniciales más altas para amortiguar el impacto en reservas."
+          "heading": "Menos Competencia",
+          "body": "Sin una exposición pública completa, los listados pierden dinámicas competitivas de múltiples ofertas que impulsan las valoraciones de mercado de primer nivel."
         }
       ],
-      "my_take_heading": "My Take",
-      "my_take": "El foco del mercado en las tasas nos ciega al verdadero peligro: un aumento repentino de reservas de pérdida cuando los GSE reducen su apoyo de prevención.",
-      "action_lo": "Re‑precio los nuevos préstamos GSE incluyendo un modesto colchón de reserva.",
-      "action_realtor": "Eduque a los compradores sobre programas de préstamo alternativos que no dependan del GSE.",
-      "cta_question": "¿Está ajustando sus estándares de suscripción ante la inminente brecha de reservas de pérdida?"
+      "my_take_heading": "Punto Clave",
+      "my_take": "La escasez artificial suena exclusiva, pero ocultar propiedades del mercado amplio destruye el verdadero poder de negociación en el contrato.",
+      "action_lo": "Advierta a vendedores y compradores sobre las brechas de valoración en las tasaciones causadas por vacíos de ventas comparables fuera del mercado.",
+      "action_realtor": "Eduque a los vendedores sobre cómo la visibilidad amplia en MLS crea una verdadera tensión competitiva y precios más altos.",
+      "cta_question": "¿Están los listados de bolsillo dañando los valores de tasación y los precios de contrato en su mercado local?"
     }
   ]
 }
