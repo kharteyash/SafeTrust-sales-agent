@@ -1,258 +1,258 @@
 {
   "carousels": [
     {
-      "slug": "origination-cost-ai-divide",
-      "title": "The $11,898 Origination Cost Reality Check",
+      "slug": "new-home-prices-5-year-low",
+      "title": "New home demand swoons even as sales prices hit a 5-year low",
       "source": "HousingWire",
-      "source_url": "https://www.housingwire.com/articles/loan-officer-engineer/",
-      "cover_text": "Tech Spending Is Not Cutting Origination Costs",
-      "caption": "Mortgage tech was supposed to trim production costs, but lenders are spending nearly $12,000 to originate a single loan. Net pre-tax profit sits at just 727 dollars or 16 bps (basis points, or hundredths of a percentage point), with personnel driving two-thirds of total expense. For years, executive teams bought point solutions hoping for instant efficiency. Instead, they added expensive software subscriptions without reducing operational headcount. When files hit underwriting, human reviewers still manually double-check every automated data point. Real margin expansion comes from restructuring redundant workflows, not paying for flashy front-end portals. Lenders must streamline operational handoffs to survive high fixed overhead.\n\nSource : https://tinyurl.com/25oo2x5f\n#SafetrustMortgage #MortgageIntelligenceDaily #mortgagebroker #loanofficer #housingmarket",
+      "source_url": "https://www.housingwire.com/articles/new-home-demand-swoons-even-as-sales-prices-hit-a-5-year-low/",
+      "cover_text": "Price Cuts Are Failing New Construction",
+      "caption": "Why price drops on new builds are not moving the needle right now. Median new home prices dropped to $393,800 in July, hitting their lowest point since July 2021, yet buyer demand still weakened. As a veteran underwriter, I can tell you why: raw price cuts barely budge a borrower's DTI (how much of your income goes to debt). A minor drop in purchase price does not fix monthly payment shock created by elevated mortgage rates. If a file fails automated underwriting on debt ratios, a small price cut will not flip it to an approval. Builders need to stop relying on base price cuts and start structuring temporary or permanent rate buydowns to move inventory.\n\nSource : https://tinyurl.com/295btcer\n#SafetrustMortgage #MortgageIntelligenceDaily #housingmarket #firsttimehomebuyer #mortgagebroker",
+      "hashtags": [
+        "#SafetrustMortgage",
+        "#MortgageIntelligenceDaily",
+        "#housingmarket",
+        "#firsttimehomebuyer",
+        "#mortgagebroker"
+      ],
+      "hook_tag": "Housing Market Trends",
+      "hook": "Lowering prices on new homes will not fix buyer qualifying power.",
+      "what_happened_heading": "The July Price Drop",
+      "what_happened": "New home orders weakened significantly in July across the country. Meanwhile, the median new home price fell to $393,800, reaching its lowest level since July 2021.",
+      "breakdown": [
+        {
+          "heading": "Price Cuts Miss The Mark",
+          "body": "A lower sale price helps, but high interest rates keep monthly payments stretched tight for typical buyers."
+        },
+        {
+          "heading": "The Underwriting Reality",
+          "body": "Here is what this actually changes when a file hits underwriting: lower prices barely budge DTI (how much of your income goes to debt) without rate relief."
+        },
+        {
+          "heading": "Incentives Over Discounts",
+          "body": "Builders cutting prices lose margin without solving buyer qualification. Forward rate commitments and temporary buydowns move files faster than price slashes."
+        },
+        {
+          "heading": "Inventory Stalls Out",
+          "body": "Unsold inventory builds up when buyers fail automated underwriting systems. Price cuts alone do not turn automated rejections into approvals."
+        }
+      ],
+      "my_take_heading": "The Builder Pricing Fallacy",
+      "my_take": "Slashing base prices without structural financing support is empty marketing. If the monthly debt ratio does not clear underwriting, price drops leave inventory sitting on the dirt.",
+      "action_lo": "Structure permanent builder buydown packages instead of accepting simple price cuts on new builds.",
+      "action_realtor": "Advise builder clients to trade direct price reductions for financing concessions that fix debt ratios.",
+      "cta_question": "Are your builder partners relying on price drops or rate concessions to move inventory?"
+    },
+    {
+      "slug": "cash-is-no-longer-king",
+      "title": "Cash is no longer king in home sales",
+      "source": "CNBC",
+      "source_url": "https://www.cnbc.com/2026/08/25/cash-is-no-longer-king-in-home-sales.html",
+      "cover_text": "Cash Buyers Are Losing Their Dominance",
+      "caption": "Cash buyers are losing their grip on the housing market. As inventory rises and home prices cool, all-cash buyers represent a shrinking percentage of total sales. This gives financed buyers real negotiating power for the first time in years. Here is what this actually changes when a file hits underwriting: property appraisals and financing contingencies are back in full force. Sellers can no longer ignore financed offers or demand waived protections. For loan officers and realtors, this means a bulletproof pre-approval letter is now your strongest tool to win deals against lazy cash bids.\n\nSource : https://tinyurl.com/2832r4wv\n#SafetrustMortgage #MortgageIntelligenceDaily #housingmarket #realestateagent #loanofficer",
+      "hashtags": [
+        "#SafetrustMortgage",
+        "#MortgageIntelligenceDaily",
+        "#housingmarket",
+        "#realestateagent",
+        "#loanofficer"
+      ],
+      "hook_tag": "Market Dynamics",
+      "hook": "Financed buyers are regaining leverage as cash buyer market share declines.",
+      "what_happened_heading": "The Shift Away From Cash",
+      "what_happened": "Cash buyers now represent a shrinking share of total home purchases across the market. Growing housing inventory and softening home prices are giving financed buyers improved purchasing power.",
+      "breakdown": [
+        {
+          "heading": "Inventory Changes Leverage",
+          "body": "More available listings mean sellers can no longer demand all-cash offers or waive critical purchase contingencies."
+        },
+        {
+          "heading": "The Underwriting Reality",
+          "body": "Here is what this actually changes when a file hits underwriting: appraisal contingencies return, making accurate collateral valuation critical for approval again."
+        },
+        {
+          "heading": "Financing Wins Contracts",
+          "body": "Financed buyers who secure fully underwritten pre-approvals can now beat unorganized cash offers on terms and price."
+        },
+        {
+          "heading": "Execution Speed Matters",
+          "body": "With cash share falling, loan originators who deliver fast clear-to-close turn times become the ultimate asset for agents."
+        }
+      ],
+      "my_take_heading": "The Return of Financed Power",
+      "my_take": "The retreat of cash buyers marks the end of panic purchasing. Financed buyers with strong pre-approvals now hold the leverage to negotiate price, repairs, and closing timelines.",
+      "action_lo": "Provide upfront underwritten pre-approval letters to make your financed buyers as strong as cash.",
+      "action_realtor": "Stop assuming cash is king; negotiate aggressive seller concessions for financed clients on long-standing listings.",
+      "cta_question": "How are your listing agents adjusting their offer strategy now that cash buyer share is shrinking?"
+    },
+    {
+      "slug": "hidden-non-qm-pipeline",
+      "title": "Brokers May Be Sitting On Their Best Non-QM Leads",
+      "source": "National Mortgage Professional",
+      "source_url": "https://nationalmortgageprofessional.com/news/brokers-may-be-sitting-their-best-non-qm-leads",
+      "cover_text": "Your Best Non-QM Leads Are Already Saved",
+      "caption": "Stop buying new leads until you mine your database. Mortgage originators looking for Non-QM (non-qualified mortgage) loans are sitting on untapped revenue right inside their own database. Over the past year, underwriting guidelines for self-employed bank statement loans and asset depletion programs have continuously evolved. Here is what this actually changes when a file hits underwriting: a self-employed borrower turned down six months ago might easily qualify under today's expanded investor guidelines. Instead of spending thousands on cold leads, smart loan officers are re-underwriting past turn-downs to create instant pipeline velocity.\n\nSource : https://tinyurl.com/2y8nh3my\n#SafetrustMortgage #MortgageIntelligenceDaily #mortgagebroker #loanofficer #realestateinvesting",
       "hashtags": [
         "#SafetrustMortgage",
         "#MortgageIntelligenceDaily",
         "#mortgagebroker",
         "#loanofficer",
-        "#housingmarket"
+        "#realestateinvesting"
       ],
-      "hook_tag": "Production Efficiency",
-      "hook": "Tech spending failed to lower production costs below twelve thousand dollars.",
-      "what_happened_heading": "High Costs and Slim Margins",
-      "what_happened": "Origination costs averaged $11,898 per loan while lenders earned just $727 or 16 basis points in pre-tax profit. Freddie Mac data shows personnel accounts for 67 percent of total origination cost despite years of digital investment.",
+      "hook_tag": "Pipeline Strategy",
+      "hook": "Stop buying expensive leads when your past turn-downs hold immediate revenue.",
+      "what_happened_heading": "Database Goldmine",
+      "what_happened": "Originators searching for Non-QM (non-qualified mortgage) deals do not need new lead sources. They need to re-examine existing borrower files already saved inside their CRM databases.",
       "breakdown": [
         {
-          "heading": "Software Costs Stack Up",
-          "body": "Lenders added expensive tech stacks without eliminating legacy operational roles. This created software overhead on top of existing baseline labor expenses across originations."
+          "heading": "The Cold Lead Trap",
+          "body": "Loan originators waste thousands purchasing cold triggers while past dead files sit untouched in their system."
         },
         {
-          "heading": "Human Touch Stays High",
-          "body": "Personnel still eats up 67 percent of total costs because manual touches persist throughout processing. Automation has largely failed to reduce operational headcount in mortgage pipelines."
+          "heading": "Guidelines Shift Constantly",
+          "body": "Non-QM guidelines for bank statement loans and asset depletion expand frequently, turning past rejections into viable deals."
         },
         {
-          "heading": "The Underwriter Lens",
-          "body": "Here's what this actually changes when a file hits underwriting: automated findings still require manual verification of income and assets, double-checking data points rather than speeding approval."
+          "heading": "The Underwriting Reality",
+          "body": "Here is what this actually changes when a file hits underwriting: bank statement calculations and asset depletion guidelines update often, making old declines pass automated guidelines today."
         },
         {
-          "heading": "Margin Compression Hurts",
-          "body": "Net profits resting at 16 bps leave zero margin for operational waste. Fixed compensation structures kill profitability during low-volume periods."
+          "heading": "High Intent Borrowers",
+          "body": "Past clients who were previously turned down already know you and have high intent to close quickly."
         }
       ],
-      "my_take_heading": "Tech Isn't Replacing Labor",
-      "my_take": "Digital mortgage tools only created expensive data collectors, not leaner operations. True margin expansion requires rewiring manual workflow, not layering extra software onto broken processes.",
-      "action_lo": "Audit your file handoffs to eliminate redundant document requests before sending loans to processing.",
-      "action_realtor": "Partner with lenders whose operations clear conditions quickly to avoid late closing delays.",
-      "cta_question": "Are you cutting tech vendors or restructuring personnel to save your production margin?"
-    },
-    {
-      "slug": "veterans-united-respa-ruling",
-      "title": "Federal Court Denies RESPA Safe Harbor Shield",
-      "source": "National Mortgage Professional",
-      "source_url": "https://nationalmortgageprofessional.com/news/veterans-united-fails-knock-out-core-respa-theory",
-      "cover_text": "RESPA Safe Harbor Fails in Federal Court",
-      "caption": "Affiliated business arrangements face a major legal challenge after a federal judge rejected RESPA safe harbor protections. The ruling allows a proposed class action against Veterans United Home Loans and Veterans United Realty to move forward. For years, lenders relied on affiliated real estate brokerages to capture purchase volume, assuming disclosures provided full immunity under RESPA (Real Estate Settlement Procedures Act, federal law banning kickbacks). But courts are examining whether these structures pay unearned fees. When files hit underwriting, compliance teams must verify every referral disclosure and compensation agreement. Lenders must audit joint ventures immediately before regulatory scrutiny expands.\n\nSource : https://tinyurl.com/2d47z7us\n#SafetrustMortgage #MortgageIntelligenceDaily #realestateagent #mortgagebroker #loanofficer",
-      "hashtags": [
-        "#SafetrustMortgage",
-        "#MortgageIntelligenceDaily",
-        "#realestateagent",
-        "#mortgagebroker",
-        "#loanofficer"
-      ],
-      "hook_tag": "Legal and Compliance",
-      "hook": "Affiliated real estate referral arrangements just lost key legal protection.",
-      "what_happened_heading": "Judge Rejects Safe Harbor Defense",
-      "what_happened": "A federal judge allowed a proposed class action against Veterans United Home Loans and Veterans United Realty to move forward. The court rejected the lender's argument that its affiliated real estate referral arrangement is categorically protected by RESPA safe harbor.",
-      "breakdown": [
-        {
-          "heading": "The Core Allegation",
-          "body": "Plaintiffs claim affiliated desk arrangements violate RESPA rules. Lenders can no longer assume standard customer disclosures grant complete legal immunity."
-        },
-        {
-          "heading": "Joint Venture Vulnerability",
-          "body": "Co-owned real estate and mortgage operations face intense court scrutiny. Passing client leads internally without proving independent market value creates massive legal exposure."
-        },
-        {
-          "heading": "The Underwriter Lens",
-          "body": "Here's what this actually changes when a file hits underwriting: referral fees and affiliated disclosures must show strict compliance, ensuring no unearned fees impact loan closing costs."
-        },
-        {
-          "heading": "Industry-Wide Impact",
-          "body": "Lenders relying on affiliated realty entities to capture purchase volume face potential liability. Legal precedents could dismantle standard lead-sharing joint venture structures."
-        }
-      ],
-      "my_take_heading": "Joint Ventures Are Under Fire",
-      "my_take": "Disclosure paperwork will not shield non-compliant referral desks anymore. If your referral structure depends on fee splitting without distinct market services, your business model is on borrowed time.",
-      "action_lo": "Review all affiliated business disclosures and lead distribution practices with legal counsel immediately.",
-      "action_realtor": "Ensure affiliated mortgage partnerships strictly comply with independent market valuation rules.",
-      "cta_question": "Is your company reviewing its affiliated business arrangements after this federal ruling?"
-    },
-    {
-      "slug": "va-partial-claim-delay",
-      "title": "VA Partial Claim Program Servicer Delay",
-      "source": "The Mortgage Reports",
-      "source_url": "https://themortgagereports.com/133801/va-partial-claim-program",
-      "cover_text": "The Nov 28 VA Loan Servicing Gap",
-      "caption": "A critical gap in VA loan servicing guidelines could leave distressed veteran borrowers without immediate relief. The new VA Partial Claim Program replaced VASP (Veterans Affairs Servicing Purchase, a loss mitigation tool) on June 15, 2026. However, loan servicers have until November 28 to fully offer the program to consumers. This five-month implementation delay creates confusion for delinquent borrowers seeking assistance. When files hit underwriting or loss mitigation, servicers must navigate manual workouts while updating system infrastructure. Loan officers and realtors must educate veteran homeowners on timeline delays to prevent avoidable foreclosures.\n\nSource : https://tinyurl.com/23pznmnp\n#SafetrustMortgage #MortgageIntelligenceDaily #homebuying #firsttimehomebuyer #loanofficer",
-      "hashtags": [
-        "#SafetrustMortgage",
-        "#MortgageIntelligenceDaily",
-        "#homebuying",
-        "#firsttimehomebuyer",
-        "#loanofficer"
-      ],
-      "hook_tag": "Loan Servicing",
-      "hook": "Distressed VA borrowers face a five-month gap in servicer implementation.",
-      "what_happened_heading": "New Program Has Implementation Delay",
-      "what_happened": "The VA Partial Claim Program replaced VASP on June 15, 2026, to assist struggling veteran borrowers. However, loan servicers have until November 28 to fully offer the program.",
-      "breakdown": [
-        {
-          "heading": "VASP Is Officially Gone",
-          "body": "The prior loss mitigation structure was replaced in June. Borrowers needing immediate relief must navigate a transition period while servicers update backend systems."
-        },
-        {
-          "heading": "Five-Month Servicer Window",
-          "body": "Servicers are given until November 28 to deploy the partial claim option. This creates inconsistent assistance options depending on which servicer holds the note."
-        },
-        {
-          "heading": "The Underwriter Lens",
-          "body": "Here's what this actually changes when a file hits underwriting: workout options for delinquent VA loans require precise servicer verification of hardship before executing partial claims."
-        },
-        {
-          "heading": "Pipeline Risk For Lenders",
-          "body": "Delayed implementation puts defaulting veteran loans at risk of extended delinquency. Servicing desks must manually process workout requests until systems fully integrate."
-        }
-      ],
-      "my_take_heading": "Policy Timing Leaves Veterans Exposed",
-      "my_take": "Launching a loss mitigation policy months before forcing servicer compliance leaves vulnerable borrowers stranded. Servicers that delay implementation are creating unnecessary default risk.",
-      "action_lo": "Educate veteran clients on loss mitigation options and proactively connect struggling borrowers with servicers.",
-      "action_realtor": "Counsel veteran sellers behind on payments to contact their servicer regarding partial claim timelines.",
-      "cta_question": "Is your servicing department ready for the November 28 VA partial claim deadline?"
+      "my_take_heading": "Database Over Acquisition",
+      "my_take": "Buying cold leads while ignoring past turn-downs is burning cash. The fastest path to Non-QM volume is re-underwriting the files you already lost.",
+      "action_lo": "Run a database filter on all turned-down self-employed files from the last 12 months.",
+      "action_realtor": "Partner with LOs to re-contact self-employed buyers who stopped searching after an initial loan denial.",
+      "cta_question": "When was the last time your team audited turned-down files against updated Non-QM guidelines?"
     }
   ],
   "carousels_es": [
     {
-      "slug": "origination-cost-ai-divide",
-      "title": "La realidad del costo de originación de $11,898",
+      "slug": "new-home-prices-5-year-low",
+      "title": "La demanda de viviendas nuevas cae aunque los precios alcanzan un mínimo de 5 años",
       "source": "HousingWire",
-      "source_url": "https://www.housingwire.com/articles/loan-officer-engineer/",
-      "cover_text": "El gasto tecnológico no reduce costos originación",
-      "caption": "Los prestamistas gastan casi $12,000 para originar un solo préstamo hipotecario. La tecnología debía reducir los costos de producción, pero la ganancia neta antes de impuestos es de solo $727 o 16 bps (puntos básicos). El personal representa dos tercios del gasto total. Durante años, los ejecutivos compraron software con la esperanza de obtener eficiencia inmediata. Sin embargo, sumaron suscripciones costosas sin reducir el personal operativo. Cuando los expedientes llegan a la revisión del asesor, el personal verifica manualmente cada dato automatizado. La verdadera expansión del margen proviene de reestructurar flujos de trabajo redundantes, no de pagar portales llamativos. Los prestamistas deben optimizar los procesos operativos para sobrevivir a los altos costos fijos.\n\nFuente : https://tinyurl.com/25oo2x5f\n#SafetrustMortgage #MortgageIntelligenceDaily #mortgagebroker #loanofficer #housingmarket",
+      "source_url": "https://www.housingwire.com/articles/new-home-demand-swoons-even-as-sales-prices-hit-a-5-year-low/",
+      "cover_text": "Rebajar precios no activa las nuevas viviendas",
+      "caption": "Por qué bajar los precios de viviendas nuevas no está funcionando hoy. El precio mediano bajó a $393,800 en julio, alcanzando su punto más bajo desde julio de 2021, pero la demanda continuó debilitándose. Como asesor de préstamos con experiencia, le explico la razón: una simple rebaja de precio casi no mueve la relación deuda-ingreso (DTI) del solicitante. Un pequeño ajuste en el valor de compra no resuelve el impacto del pago mensual causado por las altas tasas hipotecarias. Si un expediente falla la evaluación automatizada por razones de endeudamiento, una leve reducción no logrará la aprobación. Los constructores deben dejar de confiar en bajadas al precio base y comenzar a estructurar reducciones de tasa temporales o permanentes (buydowns) para mover su inventario disponible eficazmente.\n\nFuente : https://tinyurl.com/295btcer\n#SafetrustMortgage #MortgageIntelligenceDaily #housingmarket #firsttimehomebuyer #mortgagebroker",
+      "hashtags": [
+        "#SafetrustMortgage",
+        "#MortgageIntelligenceDaily",
+        "#housingmarket",
+        "#firsttimehomebuyer",
+        "#mortgagebroker"
+      ],
+      "hook_tag": "Tendencias del mercado inmobiliario",
+      "hook": "Bajar precios en viviendas nuevas no solucionará la calificación del comprador.",
+      "what_happened_heading": "La caída de precios en julio",
+      "what_happened": "Los pedidos de viviendas nuevas cayeron significativamente en todo el país durante julio. Mientras tanto, el precio mediano bajó a $393,800, alcanzando su nivel más bajo desde julio de 2021.",
+      "breakdown": [
+        {
+          "heading": "Las rebajas no son suficientes",
+          "body": "Un precio menor ayuda, pero las altas tasas de interés mantienen ajustados los pagos mensuales para los compradores típicos."
+        },
+        {
+          "heading": "La realidad de la evaluación",
+          "body": "Esto es lo que cambia al evaluar el crédito: bajar precios casi no reduce la relación deuda-ingreso (DTI) sin ayuda en la tasa."
+        },
+        {
+          "heading": "Incentivos antes que descuentos",
+          "body": "Reducir precios reduce el margen sin resolver la calificación. Los compromisos de tasa y las reducciones temporales de tasa aprueban casos más rápido."
+        },
+        {
+          "heading": "El inventario se estanca",
+          "body": "El inventario acumulado crece cuando los compradores fallan en los sistemas automáticos. Los bajones de precio no convierten rechazos en aprobaciones."
+        }
+      ],
+      "my_take_heading": "La falacia de precios del constructor",
+      "my_take": "Reducir el precio base sin financiamiento estructurado es marketing vacío. Si la relación de deuda mensual no califica ante el asesor, las rebajas dejan las casas sin vender.",
+      "action_lo": "Estructure paquetes de reducción de tasa con el constructor en vez de aceptar simples bajadas de precio.",
+      "action_realtor": "Aconseje a sus constructores cambiar rebajas directas por concesiones financieras que mejoren la relación de deuda.",
+      "cta_question": "¿Sus constructores aliados usan reducciones de precio o concesiones de tasa para mover el inventario?"
+    },
+    {
+      "slug": "cash-is-no-longer-king",
+      "title": "El efectivo ya no es el rey en las ventas de viviendas",
+      "source": "CNBC",
+      "source_url": "https://www.cnbc.com/2026/08/25/cash-is-no-longer-king-in-home-sales.html",
+      "cover_text": "Compradores en efectivo pierden su dominio",
+      "caption": "Los compradores en efectivo están perdiendo el control del mercado inmobiliario. Con el aumento del inventario y la moderación de precios, las compras totalmente en efectivo representan un porcentaje cada vez menor del total de ventas. Esto otorga a los compradores financiados un verdadero poder de negociación por primera vez en años. Esto es lo que cambia cuando un expediente llega al asesor: las tasaciones de propiedad y las contingencias de financiamiento regresan con fuerza. Los vendedores ya no pueden ignorar ofertas financiadas ni exigir la eliminación de protecciones. Para los oficiales de crédito y agentes inmobiliarios, una carta de preaprobación impecable es hoy la herramienta más poderosa para ganar negocios frente a ofertas en efectivo descuidadas.\n\nFuente : https://tinyurl.com/2832r4wv\n#SafetrustMortgage #MortgageIntelligenceDaily #housingmarket #realestateagent #loanofficer",
+      "hashtags": [
+        "#SafetrustMortgage",
+        "#MortgageIntelligenceDaily",
+        "#housingmarket",
+        "#realestateagent",
+        "#loanofficer"
+      ],
+      "hook_tag": "Dinámica del mercado",
+      "hook": "Los compradores con financiamiento recuperan ventaja frente al efectivo.",
+      "what_happened_heading": "El cambio frente al efectivo",
+      "what_happened": "Los compradores en efectivo representan una proporción cada vez menor de las compras de viviendas. El aumento del inventario y la moderación de precios brindan mayor poder de compra a quienes financian.",
+      "breakdown": [
+        {
+          "heading": "El inventario cambia el poder",
+          "body": "Más propiedades disponibles significan que los vendedores ya no pueden exigir ofertas solo en efectivo ni eliminar contingencias esenciales."
+        },
+        {
+          "heading": "La realidad de la evaluación",
+          "body": "Esto cambia al evaluar el crédito: regresan las contingencias de tasación, haciendo vital la valoración exacta de la propiedad para aprobar."
+        },
+        {
+          "heading": "El financiamiento gana contratos",
+          "body": "Los compradores financiados con preaprobaciones completas ahora pueden superar a ofertas en efectivo mal organizadas en precio y términos."
+        },
+        {
+          "heading": "La velocidad de ejecución importa",
+          "body": "Al caer el efectivo, los prestamistas con cierres rápidos se convierten en el recurso más valioso para los agentes inmobiliarios."
+        }
+      ],
+      "my_take_heading": "El regreso del poder financiado",
+      "my_take": "El retroceso del efectivo marca el fin de las compras por pánico. Los compradores financiados con preaprobaciones sólidas ahora tienen la ventaja para negociar precios, reparaciones y plazos de cierre.",
+      "action_lo": "Entregue cartas de preaprobación evaluadas desde el inicio para fortalecer a sus compradores financiados.",
+      "action_realtor": "Deje de asumir que el efectivo domina; negocie concesiones firmes del vendedor para sus clientes financiados.",
+      "cta_question": "¿Cómo ajustan su estrategia los agentes ante la baja de compradores en efectivo?"
+    },
+    {
+      "slug": "hidden-non-qm-pipeline",
+      "title": "Los corredores podrían tener sus mejores clientes Non-QM guardados",
+      "source": "National Mortgage Professional",
+      "source_url": "https://nationalmortgageprofessional.com/news/brokers-may-be-sitting-their-best-non-qm-leads",
+      "cover_text": "Sus mejores prospectos Non-QM ya están guardados",
+      "caption": "Deje de comprar contactos nuevos antes de explorar su propia base de datos. Los originadores de préstamos que buscan créditos no calificados (Non-QM) tienen ingresos sin aprovechar dentro de sus propios sistemas. Durante el último año, las pautas de evaluación para préstamos con estados de cuenta bancarios y programas de agotamiento de activos han evolucionado constantemente. Esto es lo que cambia cuando un expediente llega al asesor: un comprador independiente rechazado hace seis meses podría calificar hoy bajo las pautas ampliadas de los inversionistas. En lugar de gastar miles en contactos fríos, los oficiales de crédito astutos están evaluando nuevamente los casos rechazados para generar negocios de inmediato.\n\nFuente : https://tinyurl.com/2y8nh3my\n#SafetrustMortgage #MortgageIntelligenceDaily #mortgagebroker #loanofficer #realestateinvesting",
       "hashtags": [
         "#SafetrustMortgage",
         "#MortgageIntelligenceDaily",
         "#mortgagebroker",
         "#loanofficer",
-        "#housingmarket"
+        "#realestateinvesting"
       ],
-      "hook_tag": "Eficiencia de producción",
-      "hook": "El gasto tecnológico no logró reducir los costos de producción.",
-      "what_happened_heading": "Costos altos y márgenes estrechos",
-      "what_happened": "Los costos de originación promediaron $11,898 por préstamo, mientras que los prestamistas ganaron solo $727 o 16 puntos básicos en ganancias antes de impuestos. Datos de Freddie Mac muestran que el personal representa el 67 por ciento del costo total de originación a pesar de años de inversión digital.",
+      "hook_tag": "Estrategia de prospectos",
+      "hook": "Deje de comprar prospectos costosos cuando sus casos denegados valen dinero.",
+      "what_happened_heading": "La mina de oro en su base",
+      "what_happened": "Los originadores que buscan préstamos no calificados (Non-QM) no necesitan nuevos prospectos. Solo deben reexaminar los expedientes de clientes archivados en sus sistemas.",
       "breakdown": [
         {
-          "heading": "Los costos de software aumentan",
-          "body": "Los prestamistas agregaron costosas plataformas tecnológicas sin eliminar puestos operativos tradicionales. Esto generó gastos adicionales de software sobre los costos laborales existentes en toda la originación."
+          "heading": "La trampa de prospectos fríos",
+          "body": "Muchos originadores gastan miles en contactos nuevos mientras expedientes anteriores permanecen archivados sin revisar en sus sistemas."
         },
         {
-          "heading": "La intervención humana sigue alta",
-          "body": "El personal representa el 67 por ciento de los costos totales porque persisten las revisiones manuales. La automatización no ha logrado reducir el personal operativo en los procesos hipotecarios."
+          "heading": "Guías en cambio constante",
+          "body": "Las pautas de Non-QM para préstamos con estados bancarios se amplían con frecuencia, convirtiendo rechazos pasados en casos viables."
         },
         {
-          "heading": "La perspectiva del asesor",
-          "body": "Esto es lo que cambia cuando un expediente llega al asesor: los hallazgos automatizados aún requieren verificación manual de ingresos y activos, revisando datos en lugar de agilizar aprobaciones."
+          "heading": "La realidad de la evaluación",
+          "body": "Esto cambia al evaluar el crédito: los cálculos de estados bancarios se actualizan seguido, permitiendo aprobar casos rechazados antes."
         },
         {
-          "heading": "La compresión de márgenes perjudica",
-          "body": "Las ganancias netas del 16 bps no dejan margen para desperdicios operativos. Las estructuras de compensación fija destruyen la rentabilidad durante los períodos de bajo volumen."
+          "heading": "Prestatarios con alto interés",
+          "body": "Los clientes rechazados anteriormente ya le conocen y tienen un gran interés en cerrar su operación rápidamente."
         }
       ],
-      "my_take_heading": "La tecnología no reemplaza al trabajo",
-      "my_take": "Las herramientas digitales solo crearon recolectores de datos costosos, no operaciones más eficientes. Ampliar los márgenes requiere reestructurar el flujo de trabajo manual, no agregar más programas de software a procesos deficientes.",
-      "action_lo": "Audite la transferencia de expedientes para eliminar solicitudes repetitivas de documentos antes de enviar los préstamos al procesador.",
-      "action_realtor": "Asóciese con prestamistas cuya área operativa resuelva condiciones rápidamente para evitar retrasos en el cierre.",
-      "cta_question": "¿Está reduciendo proveedores de tecnología o reestructurando personal para proteger su margen de producción?"
-    },
-    {
-      "slug": "veterans-united-respa-ruling",
-      "title": "Tribunal federal niega protección de RESPA",
-      "source": "National Mortgage Professional",
-      "source_url": "https://nationalmortgageprofessional.com/news/veterans-united-fails-knock-out-core-respa-theory",
-      "cover_text": "Protección de RESPA falla en tribunal federal",
-      "caption": "Los convenios comerciales afiliados enfrentan un desafío legal importante tras el rechazo de las protecciones de RESPA. Un fallo judicial permite que continúe una demanda colectiva contra Veterans United Home Loans y Veterans United Realty. Durante años, los prestamistas utilizaron corredurías inmobiliarias afiliadas para captar volumen de compra, asumiendo que las divulgaciones daban inmunidad bajo RESPA (Ley de Procedimientos de Liquidación de Bienes Raíces, ley federal que prohíbe comisiones ilegales). Sin embargo, los tribunales analizan si estas estructuras pagan tarifas no devengadas. Cuando los expedientes llegan a la revisión del asesor, los equipos de cumplimiento deben verificar cada acuerdo de compensación. Los prestamistas deben auditar sus empresas conjuntas de inmediato antes de que aumente la supervisión regulatoria.\n\nFuente : https://tinyurl.com/2d47z7us\n#SafetrustMortgage #MortgageIntelligenceDaily #realestateagent #mortgagebroker #loanofficer",
-      "hashtags": [
-        "#SafetrustMortgage",
-        "#MortgageIntelligenceDaily",
-        "#realestateagent",
-        "#mortgagebroker",
-        "#loanofficer"
-      ],
-      "hook_tag": "Legal y cumplimiento",
-      "hook": "Convenios de referidos inmobiliarios afiliados perdieron una protección legal clave.",
-      "what_happened_heading": "Juez rechaza defensa de protección garantizada",
-      "what_happened": "Un juez federal permitió que avance una demanda colectiva contra Veterans United Home Loans y Veterans United Realty. El tribunal rechazó el argumento del prestamista de que su convenio de referidos inmobiliarios afiliados está protegido categóricamente por RESPA.",
-      "breakdown": [
-        {
-          "heading": "La acusación principal",
-          "body": "Los demandantes afirman que los acuerdos de escritorios afiliados violan las reglas de RESPA. Los prestamistas ya no pueden asumir que las divulgaciones estándar otorgan inmunidad legal completa."
-        },
-        {
-          "heading": "Vulnerabilidad en empresas conjuntas",
-          "body": "Las operaciones de bienes raíces e hipotecas compartidas enfrentan un estricto escrutinio judicial. Transferir clientes internamente sin demostrar un valor de mercado independiente genera un gran riesgo legal."
-        },
-        {
-          "heading": "La perspectiva del asesor",
-          "body": "Esto es lo que cambia cuando un expediente llega al asesor: las divulgaciones y tarifas de referidos deben demostrar un cumplimiento estricto, garantizando que no afecten los costos de cierre."
-        },
-        {
-          "heading": "Impacto en toda la industria",
-          "body": "Los prestamistas que dependen de entidades inmobiliarias afiliadas para captar clientes enfrentan posibles responsabilidades legales. Estos antecedentes judiciales podrían desmantelar las estructuras habituales de intercambio de prospectos."
-        }
-      ],
-      "my_take_heading": "Empresas conjuntas bajo la mira",
-      "my_take": "Los documentos de divulgación ya no protegerán a las oficinas de referidos que no cumplan la ley. Si su estructura depende de dividir tarifas sin prestar servicios de mercado independientes, su modelo de negocio tiene los días contados.",
-      "action_lo": "Revise de inmediato todas las divulgaciones de empresas afiliadas y prácticas de distribución de clientes con su asesor legal.",
-      "action_realtor": "Asegúrese de que las alianzas hipotecarias afiliadas cumplan estrictamente con las reglas de valoración independiente del mercado.",
-      "cta_question": "¿Está su empresa revisando sus convenios comerciales afiliados tras este fallo federal?"
-    },
-    {
-      "slug": "va-partial-claim-delay",
-      "title": "Demora de administradores en programa de reclamo parcial del VA",
-      "source": "The Mortgage Reports",
-      "source_url": "https://themortgagereports.com/133801/va-partial-claim-program",
-      "cover_text": "Brecha en servicio de préstamos del VA",
-      "caption": "Una brecha crítica en las guías del VA podría dejar a veteranos en dificultades sin ayuda inmediata. El nuevo Programa de Reclamo Parcial del VA reemplazó al VASP (Compra de Servicios de Asuntos de Veteranos, una herramienta de mitigación de pérdidas) el 15 de junio de 2026. Sin embargo, los administradores de préstamos tienen hasta el 28 de noviembre para ofrecer el programa a los consumidores. Este retraso de cinco meses genera confusión para los prestatarios en mora que buscan asistencia. Cuando los expedientes llegan a la revisión del asesor o mitigación de pérdidas, los administradores deben gestionar soluciones manuales mientras actualizan sus sistemas. Los oficiales de préstamos y agentes inmobiliarios deben orientar a los propietarios veteranos sobre estos plazos para prevenir ejecuciones hipotecarias evitables.\n\nFuente : https://tinyurl.com/23pznmnp\n#SafetrustMortgage #MortgageIntelligenceDaily #homebuying #firsttimehomebuyer #loanofficer",
-      "hashtags": [
-        "#SafetrustMortgage",
-        "#MortgageIntelligenceDaily",
-        "#homebuying",
-        "#firsttimehomebuyer",
-        "#loanofficer"
-      ],
-      "hook_tag": "Administración de préstamos",
-      "hook": "Prestatarios del VA enfrentan brecha de cinco meses en la implementación.",
-      "what_happened_heading": "Nuevo programa tiene retraso de implementación",
-      "what_happened": "El Programa de Reclamo Parcial del VA reemplazó al programa VASP el 15 de junio de 2026 para ayudar a veteranos con dificultades financieras. Sin embargo, los administradores de préstamos tienen hasta el 28 de noviembre para ofrecer el programa completamente.",
-      "breakdown": [
-        {
-          "heading": "El VASP ha finalizado oficialmente",
-          "body": "La estructura anterior de mitigación de pérdidas fue reemplazada en junio. Los prestatarios que necesitan ayuda inmediata deben atravesar una transición mientras los administradores actualizan sus sistemas internos."
-        },
-        {
-          "heading": "Plazo de cinco meses",
-          "body": "Los administradores tienen hasta el 28 de noviembre para implementar el reclamo parcial. Esto genera opciones de asistencia inconsistentes dependiendo de qué empresa administre la hipoteca."
-        },
-        {
-          "heading": "La perspectiva del asesor",
-          "body": "Esto es lo que cambia cuando un expediente llega al asesor: las opciones para préstamos del VA en mora requieren una verificación precisa del administrador sobre la dificultad financiera."
-        },
-        {
-          "heading": "Riesgo para los prestamistas",
-          "body": "El retraso en la implementación expone a los préstamos de veteranos en mora a prolongar su incumplimiento. Las áreas de administración deben procesar solicitudes manualmente mientras integran los sistemas."
-        }
-      ],
-      "my_take_heading": "El calendario de la política expone a veteranos",
-      "my_take": "Lanzar una política de mitigación de pérdidas meses antes de exigir su cumplimiento deja desprotegidos a los prestatarios vulnerables. Los administradores de préstamos que demoran la implementación generan un riesgo de mora totalmente innecesario para las familias.",
-      "action_lo": "Oriente a los clientes veteranos sobre las opciones de mitigación de pérdidas y conecte proactivamente a los prestatarios con sus administradores.",
-      "action_realtor": "Aconseje a los vendedores veteranos atrasados en sus pagos que contacten a su administrador sobre los plazos del reclamo parcial.",
-      "cta_question": "¿Está su departamento de administración preparado para la fecha límite del 28 de noviembre del reclamo parcial del VA?"
+      "my_take_heading": "Base de datos antes que compras",
+      "my_take": "Comprar contactos fríos ignorando rechazos pasados es malgastar dinero. La vía más rápida para sumar volumen Non-QM es evaluar de nuevo los casos que ya había perdido.",
+      "action_lo": "Filtre en su base de datos los clientes independientes denegados en los últimos 12 meses.",
+      "action_realtor": "Colabore con oficiales de crédito para recontactar compradores independientes que frenaron su búsqueda tras una denegación.",
+      "cta_question": "¿Cuándo fue la última vez que revisó sus casos denegados con las nuevas pautas Non-QM?"
     }
   ]
 }
