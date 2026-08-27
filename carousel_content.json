@@ -1,258 +1,131 @@
 {
   "carousels": [
     {
-      "slug": "new-home-prices-5-year-low",
-      "title": "New home demand swoons even as sales prices hit a 5-year low",
+      "slug": "mortgage-operating-model-redesign",
+      "title": "The Operating Model Redesign Opportunity",
       "source": "HousingWire",
-      "source_url": "https://www.housingwire.com/articles/new-home-demand-swoons-even-as-sales-prices-hit-a-5-year-low/",
-      "cover_text": "Price Cuts Are Failing New Construction",
-      "caption": "Why price drops on new builds are not moving the needle right now. Median new home prices dropped to $393,800 in July, hitting their lowest point since July 2021, yet buyer demand still weakened. As a veteran underwriter, I can tell you why: raw price cuts barely budge a borrower's DTI (how much of your income goes to debt). A minor drop in purchase price does not fix monthly payment shock created by elevated mortgage rates. If a file fails automated underwriting on debt ratios, a small price cut will not flip it to an approval. Builders need to stop relying on base price cuts and start structuring temporary or permanent rate buydowns to move inventory.\n\nSource : https://tinyurl.com/295btcer\n#SafetrustMortgage #MortgageIntelligenceDaily #housingmarket #firsttimehomebuyer #mortgagebroker",
+      "source_url": "https://www.housingwire.com/articles/mortgage-operating-model-redesign/",
+      "cover_text": "Tech Spend Failed to Lower Loan Costs",
+      "caption": "Technology was supposed to lower mortgage production costs, but loan expenses actually tripled over the last decade and a half. Industry data reveals that cost per loan (the total expense to originate and fund a single mortgage) surged from $3,685 in 2009 to $11,094 in 2025 despite heavy software investment. Most lenders simply layered shiny software over outdated, redundant workflows. When a file hits underwriting, underwriters spend hours cross-checking mismatched screens instead of making quick credit decisions. Moving to a specialized, task-based operating model is the only way to rescue net margins and improve turn times in this market.\n\nSource : https://tinyurl.com/2b2ds5qm\n#SafetrustMortgage #MortgageIntelligenceDaily #loanofficer #mortgagebroker #housingmarket",
       "hashtags": [
         "#SafetrustMortgage",
         "#MortgageIntelligenceDaily",
-        "#housingmarket",
+        "#loanofficer",
+        "#mortgagebroker",
+        "#housingmarket"
+      ],
+      "hook_tag": "Mortgage Operations",
+      "hook": "Mortgage tech spend tripled your loan cost instead of cutting it.",
+      "what_happened_heading": "The Production Cost Explosion",
+      "what_happened": "Mortgage production costs surged from $3,685 per loan in 2009 to $11,094 in 2025. This increase occurred despite massive industry investments in modern technology systems.",
+      "breakdown": [
+        {
+          "heading": "Tech Added Complexity",
+          "body": "Lenders added software layered on legacy systems without changing workflows. Staff re-enters data across multiple platforms, driving up cost per loan (the expense to produce one mortgage)."
+        },
+        {
+          "heading": "The Underwriter Lens",
+          "body": "Here is what this actually changes when a file hits underwriting: underwriters act as manual data validators for fragmented software tools, creating massive file friction and unnecessary payroll overhead."
+        },
+        {
+          "heading": "Task Based Processing",
+          "body": "Successful lenders are replacing end-to-end loan officers with task-based operating models. Specializing operational staff by discrete tasks speeds up file velocity and cuts redundant touchpoints."
+        },
+        {
+          "heading": "Margin Compression Fix",
+          "body": "Slashing operational cost requires stripping out redundant manual verifications. Automation must execute repeatable tasks rather than giving underwriters more screens to review before conditional approval."
+        }
+      ],
+      "my_take_heading": "The Uncomfortable Truth",
+      "my_take": "Throwing software at a broken mortgage pipeline does not reduce costs; it just digitizes waste.",
+      "action_lo": "Audit your processing team's touchpoints per file to eliminate repeated data entry before submission.",
+      "action_realtor": "Partner with lenders using task-based processing models to ensure faster setup and clearer clearance dates.",
+      "cta_question": "Is your organization redesigning its operating model or just paying more for tech?"
+    },
+    {
+      "slug": "mortgage-credit-ai-alternative-data",
+      "title": "Mortgage Lenders Weigh AI and Alternative Data",
+      "source": "HousingWire",
+      "source_url": "https://www.housingwire.com/articles/mortgage-credit-ai-alternative-data/",
+      "cover_text": "AI and Rental Data Change Mortgage Approvals",
+      "caption": "Alternative credit data is changing how lenders evaluate borrower creditworthiness. MISMO panelists highlighted that rental payment history and bank account cash flow data are becoming central to mortgage approvals. However, artificial intelligence rules are simultaneously raising the compliance bar for licensing and regulatory standards. When a file hits underwriting, automated cash flow analysis alters how residual income (money remaining after paying monthly bills) is measured. While using non-traditional data helps qualify more buyers, strict AI compliance rules mean lenders must tread carefully. Loan originators who collect bank permissions upfront will gain a massive speed advantage.\n\nSource : https://tinyurl.com/2a7wenwl\n#SafetrustMortgage #MortgageIntelligenceDaily #firsttimehomebuyer #loanofficer #mortgagebroker",
+      "hashtags": [
+        "#SafetrustMortgage",
+        "#MortgageIntelligenceDaily",
         "#firsttimehomebuyer",
+        "#loanofficer",
         "#mortgagebroker"
       ],
-      "hook_tag": "Housing Market Trends",
-      "hook": "Lowering prices on new homes will not fix buyer qualifying power.",
-      "what_happened_heading": "The July Price Drop",
-      "what_happened": "New home orders weakened significantly in July across the country. Meanwhile, the median new home price fell to $393,800, reaching its lowest level since July 2021.",
+      "hook_tag": "Underwriting Tech",
+      "hook": "Cash flow data is replacing traditional credit scores in underwriting.",
+      "what_happened_heading": "Mortgage AI and Credit Models",
+      "what_happened": "Industry panelists at MISMO highlighted growing lender adoption of rental history and cash flow data for credit evaluation. They also emphasized new artificial intelligence rules that directly impact mortgage licensing and compliance standards.",
       "breakdown": [
         {
-          "heading": "Price Cuts Miss The Mark",
-          "body": "A lower sale price helps, but high interest rates keep monthly payments stretched tight for typical buyers."
+          "heading": "Beyond Credit Scores",
+          "body": "Lenders are expanding credit assessment beyond traditional scores. Using rental payments and bank account cash flow provides a clearer picture of borrower capability for non-traditional applicants."
         },
         {
-          "heading": "The Underwriting Reality",
-          "body": "Here is what this actually changes when a file hits underwriting: lower prices barely budge DTI (how much of your income goes to debt) without rate relief."
+          "heading": "The Underwriter Lens",
+          "body": "Here is what this actually changes when a file hits underwriting: manual verification of bank statements shifts to automated cash flow analysis, altering how residual income (money left after debts) gets calculated."
         },
         {
-          "heading": "Incentives Over Discounts",
-          "body": "Builders cutting prices lose margin without solving buyer qualification. Forward rate commitments and temporary buydowns move files faster than price slashes."
+          "heading": "Compliance Tightening",
+          "body": "AI decisioning rules bring strict regulatory oversight. Regulators are monitoring automated underwriting systems to prevent algorithmic bias and ensure full compliance with consumer financial protection laws."
         },
         {
-          "heading": "Inventory Stalls Out",
-          "body": "Unsold inventory builds up when buyers fail automated underwriting systems. Price cuts alone do not turn automated rejections into approvals."
+          "heading": "Operational Shifts",
+          "body": "Loan originators must adapt by collecting electronic bank data early. Proper data consent speeds up automated review and reduces back-and-forth documentation requests later in the process."
         }
       ],
-      "my_take_heading": "The Builder Pricing Fallacy",
-      "my_take": "Slashing base prices without structural financing support is empty marketing. If the monthly debt ratio does not clear underwriting, price drops leave inventory sitting on the dirt.",
-      "action_lo": "Structure permanent builder buydown packages instead of accepting simple price cuts on new builds.",
-      "action_realtor": "Advise builder clients to trade direct price reductions for financing concessions that fix debt ratios.",
-      "cta_question": "Are your builder partners relying on price drops or rate concessions to move inventory?"
+      "my_take_heading": "The New Risk Reality",
+      "my_take": "Alternative data widens the top of the funnel, but compliance oversight will determine who survives.",
+      "action_lo": "Start gathering bank statement permission upfront to leverage cash flow data for tough approvals.",
+      "action_realtor": "Identify buyers with solid rent histories who previously struggled with traditional credit scoring limits.",
+      "cta_question": "Is your underwriting team ready for automated cash flow assessments and new AI compliance rules?"
     },
     {
-      "slug": "cash-is-no-longer-king",
-      "title": "Cash is no longer king in home sales",
-      "source": "CNBC",
-      "source_url": "https://www.cnbc.com/2026/08/25/cash-is-no-longer-king-in-home-sales.html",
-      "cover_text": "Cash Buyers Are Losing Their Dominance",
-      "caption": "Cash buyers are losing their grip on the housing market. As inventory rises and home prices cool, all-cash buyers represent a shrinking percentage of total sales. This gives financed buyers real negotiating power for the first time in years. Here is what this actually changes when a file hits underwriting: property appraisals and financing contingencies are back in full force. Sellers can no longer ignore financed offers or demand waived protections. For loan officers and realtors, this means a bulletproof pre-approval letter is now your strongest tool to win deals against lazy cash bids.\n\nSource : https://tinyurl.com/2832r4wv\n#SafetrustMortgage #MortgageIntelligenceDaily #housingmarket #realestateagent #loanofficer",
-      "hashtags": [
-        "#SafetrustMortgage",
-        "#MortgageIntelligenceDaily",
-        "#housingmarket",
-        "#realestateagent",
-        "#loanofficer"
-      ],
-      "hook_tag": "Market Dynamics",
-      "hook": "Financed buyers are regaining leverage as cash buyer market share declines.",
-      "what_happened_heading": "The Shift Away From Cash",
-      "what_happened": "Cash buyers now represent a shrinking share of total home purchases across the market. Growing housing inventory and softening home prices are giving financed buyers improved purchasing power.",
-      "breakdown": [
-        {
-          "heading": "Inventory Changes Leverage",
-          "body": "More available listings mean sellers can no longer demand all-cash offers or waive critical purchase contingencies."
-        },
-        {
-          "heading": "The Underwriting Reality",
-          "body": "Here is what this actually changes when a file hits underwriting: appraisal contingencies return, making accurate collateral valuation critical for approval again."
-        },
-        {
-          "heading": "Financing Wins Contracts",
-          "body": "Financed buyers who secure fully underwritten pre-approvals can now beat unorganized cash offers on terms and price."
-        },
-        {
-          "heading": "Execution Speed Matters",
-          "body": "With cash share falling, loan originators who deliver fast clear-to-close turn times become the ultimate asset for agents."
-        }
-      ],
-      "my_take_heading": "The Return of Financed Power",
-      "my_take": "The retreat of cash buyers marks the end of panic purchasing. Financed buyers with strong pre-approvals now hold the leverage to negotiate price, repairs, and closing timelines.",
-      "action_lo": "Provide upfront underwritten pre-approval letters to make your financed buyers as strong as cash.",
-      "action_realtor": "Stop assuming cash is king; negotiate aggressive seller concessions for financed clients on long-standing listings.",
-      "cta_question": "How are your listing agents adjusting their offer strategy now that cash buyer share is shrinking?"
-    },
-    {
-      "slug": "hidden-non-qm-pipeline",
-      "title": "Brokers May Be Sitting On Their Best Non-QM Leads",
+      "slug": "new-home-sales-tumble-builder-concessions",
+      "title": "New-Home Sales Tumble Giving Buyers Leverage",
       "source": "National Mortgage Professional",
-      "source_url": "https://nationalmortgageprofessional.com/news/brokers-may-be-sitting-their-best-non-qm-leads",
-      "cover_text": "Your Best Non-QM Leads Are Already Saved",
-      "caption": "Stop buying new leads until you mine your database. Mortgage originators looking for Non-QM (non-qualified mortgage) loans are sitting on untapped revenue right inside their own database. Over the past year, underwriting guidelines for self-employed bank statement loans and asset depletion programs have continuously evolved. Here is what this actually changes when a file hits underwriting: a self-employed borrower turned down six months ago might easily qualify under today's expanded investor guidelines. Instead of spending thousands on cold leads, smart loan officers are re-underwriting past turn-downs to create instant pipeline velocity.\n\nSource : https://tinyurl.com/2y8nh3my\n#SafetrustMortgage #MortgageIntelligenceDaily #mortgagebroker #loanofficer #realestateinvesting",
+      "source_url": "https://nationalmortgageprofessional.com/news/new-home-sales-tumble-giving-buyers-more-leverage-builders",
+      "cover_text": "Builder Sales Decline Creates Buyer Leverage",
+      "caption": "Falling new-home sales are handing power back to buyers and real estate agents. New-home sales dropped sharply in July as elevated mortgage rates constrained buyer affordability. Motivated builders are responding with aggressive seller concessions, including temporary rate buydowns (paying cash upfront to reduce mortgage rates). Here is what this changes when a file hits underwriting: builder contribution caps limits how much cash a builder can credit a buyer. If structured incorrectly, excess concessions get rejected by underwriting right before closing. Loan officers and realtors who collaborate early can convert builder desperation into perfectly structured loans that clear underwriting smoothly.\n\nSource : https://tinyurl.com/25svysmo\n#SafetrustMortgage #MortgageIntelligenceDaily #realestateagent #homebuying #housingmarket",
       "hashtags": [
         "#SafetrustMortgage",
         "#MortgageIntelligenceDaily",
-        "#mortgagebroker",
-        "#loanofficer",
-        "#realestateinvesting"
+        "#realestateagent",
+        "#homebuying",
+        "#housingmarket"
       ],
-      "hook_tag": "Pipeline Strategy",
-      "hook": "Stop buying expensive leads when your past turn-downs hold immediate revenue.",
-      "what_happened_heading": "Database Goldmine",
-      "what_happened": "Originators searching for Non-QM (non-qualified mortgage) deals do not need new lead sources. They need to re-examine existing borrower files already saved inside their CRM databases.",
+      "hook_tag": "Builder Market",
+      "hook": "Builder sales are falling, opening massive negotiation opportunities for buyers.",
+      "what_happened_heading": "July Sales Drop",
+      "what_happened": "New-home sales fell sharply in July as persistent elevated mortgage rates squeezed prospective buyers out of the market. This slowdown is forcing builders to offer expanded concessions and price adjustments to move inventory.",
       "breakdown": [
         {
-          "heading": "The Cold Lead Trap",
-          "body": "Loan originators waste thousands purchasing cold triggers while past dead files sit untouched in their system."
+          "heading": "Builder Concessions",
+          "body": "Motivated builders offer temporary rate buydowns (paying upfront to reduce interest rates) and closing cost credits to keep transaction volumes moving despite higher borrowing costs."
         },
         {
-          "heading": "Guidelines Shift Constantly",
-          "body": "Non-QM guidelines for bank statement loans and asset depletion expand frequently, turning past rejections into viable deals."
+          "heading": "The Underwriter Lens",
+          "body": "Here is what this actually changes when a file hits underwriting: strict seller concession limits (maximum builder contributions allowed) are triggered, requiring careful balance between buydowns and closing costs."
         },
         {
-          "heading": "The Underwriting Reality",
-          "body": "Here is what this actually changes when a file hits underwriting: bank statement calculations and asset depletion guidelines update often, making old declines pass automated guidelines today."
+          "heading": "Rate Sensitivity",
+          "body": "High mortgage rates continue to restrict traditional home buyer purchasing power. Builder incentives offer a direct workaround by temporarily lowering monthly payments without lowering base appraisal values."
         },
         {
-          "heading": "High Intent Borrowers",
-          "body": "Past clients who were previously turned down already know you and have high intent to close quickly."
+          "heading": "Strategic Structuring",
+          "body": "Originators must structure builder contributions correctly before signing purchase agreements. Misallocating builder credits can result in unallowed funds that underwriters will reject prior to closing."
         }
       ],
-      "my_take_heading": "Database Over Acquisition",
-      "my_take": "Buying cold leads while ignoring past turn-downs is burning cash. The fastest path to Non-QM volume is re-underwriting the files you already lost.",
-      "action_lo": "Run a database filter on all turned-down self-employed files from the last 12 months.",
-      "action_realtor": "Partner with LOs to re-contact self-employed buyers who stopped searching after an initial loan denial.",
-      "cta_question": "When was the last time your team audited turned-down files against updated Non-QM guidelines?"
+      "my_take_heading": "Strategic Opportunity",
+      "my_take": "Builder incentives only work if structured properly before the file reaches the underwriter.",
+      "action_lo": "Structure builder concessions specifically toward permanent or temporary rate buydowns to maximize borrower qualification.",
+      "action_realtor": "Negotiate builder credits instead of price cuts to preserve seller dollars and reduce buyer outlay.",
+      "cta_question": "Are your loan originators actively guiding realtors on builder concession caps before contracts are signed?"
     }
   ],
-  "carousels_es": [
-    {
-      "slug": "new-home-prices-5-year-low",
-      "title": "La demanda de viviendas nuevas cae aunque los precios alcanzan un mínimo de 5 años",
-      "source": "HousingWire",
-      "source_url": "https://www.housingwire.com/articles/new-home-demand-swoons-even-as-sales-prices-hit-a-5-year-low/",
-      "cover_text": "Rebajar precios no activa las nuevas viviendas",
-      "caption": "Por qué bajar los precios de viviendas nuevas no está funcionando hoy. El precio mediano bajó a $393,800 en julio, alcanzando su punto más bajo desde julio de 2021, pero la demanda continuó debilitándose. Como asesor de préstamos con experiencia, le explico la razón: una simple rebaja de precio casi no mueve la relación deuda-ingreso (DTI) del solicitante. Un pequeño ajuste en el valor de compra no resuelve el impacto del pago mensual causado por las altas tasas hipotecarias. Si un expediente falla la evaluación automatizada por razones de endeudamiento, una leve reducción no logrará la aprobación. Los constructores deben dejar de confiar en bajadas al precio base y comenzar a estructurar reducciones de tasa temporales o permanentes (buydowns) para mover su inventario disponible eficazmente.\n\nFuente : https://tinyurl.com/295btcer\n#SafetrustMortgage #MortgageIntelligenceDaily #housingmarket #firsttimehomebuyer #mortgagebroker",
-      "hashtags": [
-        "#SafetrustMortgage",
-        "#MortgageIntelligenceDaily",
-        "#housingmarket",
-        "#firsttimehomebuyer",
-        "#mortgagebroker"
-      ],
-      "hook_tag": "Tendencias del mercado inmobiliario",
-      "hook": "Bajar precios en viviendas nuevas no solucionará la calificación del comprador.",
-      "what_happened_heading": "La caída de precios en julio",
-      "what_happened": "Los pedidos de viviendas nuevas cayeron significativamente en todo el país durante julio. Mientras tanto, el precio mediano bajó a $393,800, alcanzando su nivel más bajo desde julio de 2021.",
-      "breakdown": [
-        {
-          "heading": "Las rebajas no son suficientes",
-          "body": "Un precio menor ayuda, pero las altas tasas de interés mantienen ajustados los pagos mensuales para los compradores típicos."
-        },
-        {
-          "heading": "La realidad de la evaluación",
-          "body": "Esto es lo que cambia al evaluar el crédito: bajar precios casi no reduce la relación deuda-ingreso (DTI) sin ayuda en la tasa."
-        },
-        {
-          "heading": "Incentivos antes que descuentos",
-          "body": "Reducir precios reduce el margen sin resolver la calificación. Los compromisos de tasa y las reducciones temporales de tasa aprueban casos más rápido."
-        },
-        {
-          "heading": "El inventario se estanca",
-          "body": "El inventario acumulado crece cuando los compradores fallan en los sistemas automáticos. Los bajones de precio no convierten rechazos en aprobaciones."
-        }
-      ],
-      "my_take_heading": "La falacia de precios del constructor",
-      "my_take": "Reducir el precio base sin financiamiento estructurado es marketing vacío. Si la relación de deuda mensual no califica ante el asesor, las rebajas dejan las casas sin vender.",
-      "action_lo": "Estructure paquetes de reducción de tasa con el constructor en vez de aceptar simples bajadas de precio.",
-      "action_realtor": "Aconseje a sus constructores cambiar rebajas directas por concesiones financieras que mejoren la relación de deuda.",
-      "cta_question": "¿Sus constructores aliados usan reducciones de precio o concesiones de tasa para mover el inventario?"
-    },
-    {
-      "slug": "cash-is-no-longer-king",
-      "title": "El efectivo ya no es el rey en las ventas de viviendas",
-      "source": "CNBC",
-      "source_url": "https://www.cnbc.com/2026/08/25/cash-is-no-longer-king-in-home-sales.html",
-      "cover_text": "Compradores en efectivo pierden su dominio",
-      "caption": "Los compradores en efectivo están perdiendo el control del mercado inmobiliario. Con el aumento del inventario y la moderación de precios, las compras totalmente en efectivo representan un porcentaje cada vez menor del total de ventas. Esto otorga a los compradores financiados un verdadero poder de negociación por primera vez en años. Esto es lo que cambia cuando un expediente llega al asesor: las tasaciones de propiedad y las contingencias de financiamiento regresan con fuerza. Los vendedores ya no pueden ignorar ofertas financiadas ni exigir la eliminación de protecciones. Para los oficiales de crédito y agentes inmobiliarios, una carta de preaprobación impecable es hoy la herramienta más poderosa para ganar negocios frente a ofertas en efectivo descuidadas.\n\nFuente : https://tinyurl.com/2832r4wv\n#SafetrustMortgage #MortgageIntelligenceDaily #housingmarket #realestateagent #loanofficer",
-      "hashtags": [
-        "#SafetrustMortgage",
-        "#MortgageIntelligenceDaily",
-        "#housingmarket",
-        "#realestateagent",
-        "#loanofficer"
-      ],
-      "hook_tag": "Dinámica del mercado",
-      "hook": "Los compradores con financiamiento recuperan ventaja frente al efectivo.",
-      "what_happened_heading": "El cambio frente al efectivo",
-      "what_happened": "Los compradores en efectivo representan una proporción cada vez menor de las compras de viviendas. El aumento del inventario y la moderación de precios brindan mayor poder de compra a quienes financian.",
-      "breakdown": [
-        {
-          "heading": "El inventario cambia el poder",
-          "body": "Más propiedades disponibles significan que los vendedores ya no pueden exigir ofertas solo en efectivo ni eliminar contingencias esenciales."
-        },
-        {
-          "heading": "La realidad de la evaluación",
-          "body": "Esto cambia al evaluar el crédito: regresan las contingencias de tasación, haciendo vital la valoración exacta de la propiedad para aprobar."
-        },
-        {
-          "heading": "El financiamiento gana contratos",
-          "body": "Los compradores financiados con preaprobaciones completas ahora pueden superar a ofertas en efectivo mal organizadas en precio y términos."
-        },
-        {
-          "heading": "La velocidad de ejecución importa",
-          "body": "Al caer el efectivo, los prestamistas con cierres rápidos se convierten en el recurso más valioso para los agentes inmobiliarios."
-        }
-      ],
-      "my_take_heading": "El regreso del poder financiado",
-      "my_take": "El retroceso del efectivo marca el fin de las compras por pánico. Los compradores financiados con preaprobaciones sólidas ahora tienen la ventaja para negociar precios, reparaciones y plazos de cierre.",
-      "action_lo": "Entregue cartas de preaprobación evaluadas desde el inicio para fortalecer a sus compradores financiados.",
-      "action_realtor": "Deje de asumir que el efectivo domina; negocie concesiones firmes del vendedor para sus clientes financiados.",
-      "cta_question": "¿Cómo ajustan su estrategia los agentes ante la baja de compradores en efectivo?"
-    },
-    {
-      "slug": "hidden-non-qm-pipeline",
-      "title": "Los corredores podrían tener sus mejores clientes Non-QM guardados",
-      "source": "National Mortgage Professional",
-      "source_url": "https://nationalmortgageprofessional.com/news/brokers-may-be-sitting-their-best-non-qm-leads",
-      "cover_text": "Sus mejores prospectos Non-QM ya están guardados",
-      "caption": "Deje de comprar contactos nuevos antes de explorar su propia base de datos. Los originadores de préstamos que buscan créditos no calificados (Non-QM) tienen ingresos sin aprovechar dentro de sus propios sistemas. Durante el último año, las pautas de evaluación para préstamos con estados de cuenta bancarios y programas de agotamiento de activos han evolucionado constantemente. Esto es lo que cambia cuando un expediente llega al asesor: un comprador independiente rechazado hace seis meses podría calificar hoy bajo las pautas ampliadas de los inversionistas. En lugar de gastar miles en contactos fríos, los oficiales de crédito astutos están evaluando nuevamente los casos rechazados para generar negocios de inmediato.\n\nFuente : https://tinyurl.com/2y8nh3my\n#SafetrustMortgage #MortgageIntelligenceDaily #mortgagebroker #loanofficer #realestateinvesting",
-      "hashtags": [
-        "#SafetrustMortgage",
-        "#MortgageIntelligenceDaily",
-        "#mortgagebroker",
-        "#loanofficer",
-        "#realestateinvesting"
-      ],
-      "hook_tag": "Estrategia de prospectos",
-      "hook": "Deje de comprar prospectos costosos cuando sus casos denegados valen dinero.",
-      "what_happened_heading": "La mina de oro en su base",
-      "what_happened": "Los originadores que buscan préstamos no calificados (Non-QM) no necesitan nuevos prospectos. Solo deben reexaminar los expedientes de clientes archivados en sus sistemas.",
-      "breakdown": [
-        {
-          "heading": "La trampa de prospectos fríos",
-          "body": "Muchos originadores gastan miles en contactos nuevos mientras expedientes anteriores permanecen archivados sin revisar en sus sistemas."
-        },
-        {
-          "heading": "Guías en cambio constante",
-          "body": "Las pautas de Non-QM para préstamos con estados bancarios se amplían con frecuencia, convirtiendo rechazos pasados en casos viables."
-        },
-        {
-          "heading": "La realidad de la evaluación",
-          "body": "Esto cambia al evaluar el crédito: los cálculos de estados bancarios se actualizan seguido, permitiendo aprobar casos rechazados antes."
-        },
-        {
-          "heading": "Prestatarios con alto interés",
-          "body": "Los clientes rechazados anteriormente ya le conocen y tienen un gran interés en cerrar su operación rápidamente."
-        }
-      ],
-      "my_take_heading": "Base de datos antes que compras",
-      "my_take": "Comprar contactos fríos ignorando rechazos pasados es malgastar dinero. La vía más rápida para sumar volumen Non-QM es evaluar de nuevo los casos que ya había perdido.",
-      "action_lo": "Filtre en su base de datos los clientes independientes denegados en los últimos 12 meses.",
-      "action_realtor": "Colabore con oficiales de crédito para recontactar compradores independientes que frenaron su búsqueda tras una denegación.",
-      "cta_question": "¿Cuándo fue la última vez que revisó sus casos denegados con las nuevas pautas Non-QM?"
-    }
-  ]
+  "carousels_es": []
 }
