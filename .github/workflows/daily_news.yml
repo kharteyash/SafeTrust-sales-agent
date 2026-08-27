@@ -109,6 +109,10 @@ jobs:
         if: steps.guard.outputs.run == 'true'
         run: python export_slides.py
 
+      - name: Render 10-year treasury market card
+        if: steps.guard.outputs.run == 'true'
+        run: python generate_treasury.py
+
       - name: Commit the day's output
         if: steps.guard.outputs.run == 'true'
         run: |
@@ -261,3 +265,19 @@ jobs:
             Caption:
             ${{ steps.titles.outputs.c6 }}
           attachments: carousels/slides/carousel_6/slide_*.png
+
+      - name: Email market card
+        if: steps.guard.outputs.run == 'true'
+        uses: dawidd6/action-send-mail@v3
+        with:
+          server_address: smtp.gmail.com
+          server_port: 465
+          secure: true
+          username: ${{ secrets.MAIL_USERNAME }}
+          password: ${{ secrets.MAIL_PASSWORD }}
+          subject: "Market Card — 10-Year Treasury (${{ steps.guard.outputs.today }})"
+          to: malaez@safetrustmtg.com
+          from: SafeTrust Carousels <${{ secrets.MAIL_USERNAME }}>
+          body: |
+            Daily market card attached: 10-Year Treasury with 7-day trend (1080x1350 PNG).
+          attachments: carousels/slides/treasury.png
