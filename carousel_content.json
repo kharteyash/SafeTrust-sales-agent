@@ -1,131 +1,258 @@
 {
   "carousels": [
     {
-      "slug": "mortgage-operating-model-redesign",
-      "title": "The Operating Model Redesign Opportunity",
-      "source": "HousingWire",
-      "source_url": "https://www.housingwire.com/articles/mortgage-operating-model-redesign/",
-      "cover_text": "Tech Spend Failed to Lower Loan Costs",
-      "caption": "Technology was supposed to lower mortgage production costs, but loan expenses actually tripled over the last decade and a half. Industry data reveals that cost per loan (the total expense to originate and fund a single mortgage) surged from $3,685 in 2009 to $11,094 in 2025 despite heavy software investment. Most lenders simply layered shiny software over outdated, redundant workflows. When a file hits underwriting, underwriters spend hours cross-checking mismatched screens instead of making quick credit decisions. Moving to a specialized, task-based operating model is the only way to rescue net margins and improve turn times in this market.\n\nSource : https://tinyurl.com/2b2ds5qm\n#SafetrustMortgage #MortgageIntelligenceDaily #loanofficer #mortgagebroker #housingmarket",
-      "hashtags": [
-        "#SafetrustMortgage",
-        "#MortgageIntelligenceDaily",
-        "#loanofficer",
-        "#mortgagebroker",
-        "#housingmarket"
-      ],
-      "hook_tag": "Mortgage Operations",
-      "hook": "Mortgage tech spend tripled your loan cost instead of cutting it.",
-      "what_happened_heading": "The Production Cost Explosion",
-      "what_happened": "Mortgage production costs surged from $3,685 per loan in 2009 to $11,094 in 2025. This increase occurred despite massive industry investments in modern technology systems.",
-      "breakdown": [
-        {
-          "heading": "Tech Added Complexity",
-          "body": "Lenders added software layered on legacy systems without changing workflows. Staff re-enters data across multiple platforms, driving up cost per loan (the expense to produce one mortgage)."
-        },
-        {
-          "heading": "The Underwriter Lens",
-          "body": "Here is what this actually changes when a file hits underwriting: underwriters act as manual data validators for fragmented software tools, creating massive file friction and unnecessary payroll overhead."
-        },
-        {
-          "heading": "Task Based Processing",
-          "body": "Successful lenders are replacing end-to-end loan officers with task-based operating models. Specializing operational staff by discrete tasks speeds up file velocity and cuts redundant touchpoints."
-        },
-        {
-          "heading": "Margin Compression Fix",
-          "body": "Slashing operational cost requires stripping out redundant manual verifications. Automation must execute repeatable tasks rather than giving underwriters more screens to review before conditional approval."
-        }
-      ],
-      "my_take_heading": "The Uncomfortable Truth",
-      "my_take": "Throwing software at a broken mortgage pipeline does not reduce costs; it just digitizes waste.",
-      "action_lo": "Audit your processing team's touchpoints per file to eliminate repeated data entry before submission.",
-      "action_realtor": "Partner with lenders using task-based processing models to ensure faster setup and clearer clearance dates.",
-      "cta_question": "Is your organization redesigning its operating model or just paying more for tech?"
-    },
-    {
-      "slug": "mortgage-credit-ai-alternative-data",
-      "title": "Mortgage Lenders Weigh AI and Alternative Data",
-      "source": "HousingWire",
-      "source_url": "https://www.housingwire.com/articles/mortgage-credit-ai-alternative-data/",
-      "cover_text": "AI and Rental Data Change Mortgage Approvals",
-      "caption": "Alternative credit data is changing how lenders evaluate borrower creditworthiness. MISMO panelists highlighted that rental payment history and bank account cash flow data are becoming central to mortgage approvals. However, artificial intelligence rules are simultaneously raising the compliance bar for licensing and regulatory standards. When a file hits underwriting, automated cash flow analysis alters how residual income (money remaining after paying monthly bills) is measured. While using non-traditional data helps qualify more buyers, strict AI compliance rules mean lenders must tread carefully. Loan originators who collect bank permissions upfront will gain a massive speed advantage.\n\nSource : https://tinyurl.com/2a7wenwl\n#SafetrustMortgage #MortgageIntelligenceDaily #firsttimehomebuyer #loanofficer #mortgagebroker",
-      "hashtags": [
-        "#SafetrustMortgage",
-        "#MortgageIntelligenceDaily",
-        "#firsttimehomebuyer",
-        "#loanofficer",
-        "#mortgagebroker"
-      ],
-      "hook_tag": "Underwriting Tech",
-      "hook": "Cash flow data is replacing traditional credit scores in underwriting.",
-      "what_happened_heading": "Mortgage AI and Credit Models",
-      "what_happened": "Industry panelists at MISMO highlighted growing lender adoption of rental history and cash flow data for credit evaluation. They also emphasized new artificial intelligence rules that directly impact mortgage licensing and compliance standards.",
-      "breakdown": [
-        {
-          "heading": "Beyond Credit Scores",
-          "body": "Lenders are expanding credit assessment beyond traditional scores. Using rental payments and bank account cash flow provides a clearer picture of borrower capability for non-traditional applicants."
-        },
-        {
-          "heading": "The Underwriter Lens",
-          "body": "Here is what this actually changes when a file hits underwriting: manual verification of bank statements shifts to automated cash flow analysis, altering how residual income (money left after debts) gets calculated."
-        },
-        {
-          "heading": "Compliance Tightening",
-          "body": "AI decisioning rules bring strict regulatory oversight. Regulators are monitoring automated underwriting systems to prevent algorithmic bias and ensure full compliance with consumer financial protection laws."
-        },
-        {
-          "heading": "Operational Shifts",
-          "body": "Loan originators must adapt by collecting electronic bank data early. Proper data consent speeds up automated review and reduces back-and-forth documentation requests later in the process."
-        }
-      ],
-      "my_take_heading": "The New Risk Reality",
-      "my_take": "Alternative data widens the top of the funnel, but compliance oversight will determine who survives.",
-      "action_lo": "Start gathering bank statement permission upfront to leverage cash flow data for tough approvals.",
-      "action_realtor": "Identify buyers with solid rent histories who previously struggled with traditional credit scoring limits.",
-      "cta_question": "Is your underwriting team ready for automated cash flow assessments and new AI compliance rules?"
-    },
-    {
-      "slug": "new-home-sales-tumble-builder-concessions",
-      "title": "New-Home Sales Tumble Giving Buyers Leverage",
+      "slug": "mismo-ai-vendor-certifications",
+      "title": "Why Your AI Mortgage Tech Won't Pass Underwriting",
       "source": "National Mortgage Professional",
-      "source_url": "https://nationalmortgageprofessional.com/news/new-home-sales-tumble-giving-buyers-more-leverage-builders",
-      "cover_text": "Builder Sales Decline Creates Buyer Leverage",
-      "caption": "Falling new-home sales are handing power back to buyers and real estate agents. New-home sales dropped sharply in July as elevated mortgage rates constrained buyer affordability. Motivated builders are responding with aggressive seller concessions, including temporary rate buydowns (paying cash upfront to reduce mortgage rates). Here is what this changes when a file hits underwriting: builder contribution caps limits how much cash a builder can credit a buyer. If structured incorrectly, excess concessions get rejected by underwriting right before closing. Loan officers and realtors who collaborate early can convert builder desperation into perfectly structured loans that clear underwriting smoothly.\n\nSource : https://tinyurl.com/25svysmo\n#SafetrustMortgage #MortgageIntelligenceDaily #realestateagent #homebuying #housingmarket",
+      "source_url": "https://nationalmortgageprofessional.com/news/mismo-gives-lenders-new-test-mortgage-ai-vendors",
+      "cover_text": "AI Mortgage Tech Just Hit a Legal Wall",
+      "caption": "AI hype is crashing into mortgage compliance reality. MISMO just launched two new industry certifications to audit AI mortgage vendors and advisory firms. For years, tech vendors sold mortgage executives on zero-touch processing without explaining how algorithms make underwriting decisions. Now, uncertified AI tools pose a massive balance sheet and regulatory risk. Quality control (checking loan files for accuracy) teams cannot defend black-box approvals to auditors. When a file hits underwriting, automated outputs without proven data standards get thrown out immediately. Lenders who blindly adopt unverified software face severe repurchase risk from investors. Winning in today's market requires verified technology, clear governance, and strict vendor transparency. Before buying your next tech stack, make sure your vendors can actually pass regulatory scrutiny.\n\nSource : https://tinyurl.com/23fj48k6\n#SafetrustMortgage #MortgageIntelligenceDaily #mortgagebroker #loanofficer #housingmarket",
       "hashtags": [
         "#SafetrustMortgage",
         "#MortgageIntelligenceDaily",
-        "#realestateagent",
-        "#homebuying",
+        "#mortgagebroker",
+        "#loanofficer",
         "#housingmarket"
       ],
-      "hook_tag": "Builder Market",
-      "hook": "Builder sales are falling, opening massive negotiation opportunities for buyers.",
-      "what_happened_heading": "July Sales Drop",
-      "what_happened": "New-home sales fell sharply in July as persistent elevated mortgage rates squeezed prospective buyers out of the market. This slowdown is forcing builders to offer expanded concessions and price adjustments to move inventory.",
+      "hook_tag": "TECH & GOVERNANCE",
+      "hook": "Your slick new AI tool might fail audit tomorrow.",
+      "what_happened_heading": "The News",
+      "what_happened": "MISMO released two new certifications to evaluate AI tech vendors and advisory firms. This gives mortgage lenders an industry standard to test vendor compliance and governance practices.",
       "breakdown": [
         {
-          "heading": "Builder Concessions",
-          "body": "Motivated builders offer temporary rate buydowns (paying upfront to reduce interest rates) and closing cost credits to keep transaction volumes moving despite higher borrowing costs."
+          "heading": "The AI Hype Machine",
+          "body": "Tech vendors promise instant approvals and zero-touch processing. But flashy demos rarely explain how algorithms make credit decisions or protect consumer data."
+        },
+        {
+          "heading": "Compliance Enters the Room",
+          "body": "Regulatory audits require lenders to explain why a loan was denied or approved. Black-box algorithms fail compliance checks instantly if logic cannot be audited."
         },
         {
           "heading": "The Underwriter Lens",
-          "body": "Here is what this actually changes when a file hits underwriting: strict seller concession limits (maximum builder contributions allowed) are triggered, requiring careful balance between buydowns and closing costs."
+          "body": "Here's what this actually changes when a file hits underwriting. Underwriters cannot rely on AI outputs if the vendor cannot prove data lineage and compliance standards."
         },
         {
-          "heading": "Rate Sensitivity",
-          "body": "High mortgage rates continue to restrict traditional home buyer purchasing power. Builder incentives offer a direct workaround by temporarily lowering monthly payments without lowering base appraisal values."
-        },
-        {
-          "heading": "Strategic Structuring",
-          "body": "Originators must structure builder contributions correctly before signing purchase agreements. Misallocating builder credits can result in unallowed funds that underwriters will reject prior to closing."
+          "heading": "Vendor Vetting Escalates",
+          "body": "MISMO credentials force vendors to prove their systems meet strict standards. Buying uncertified software now creates massive balance sheet and repurchase risk."
         }
       ],
-      "my_take_heading": "Strategic Opportunity",
-      "my_take": "Builder incentives only work if structured properly before the file reaches the underwriter.",
-      "action_lo": "Structure builder concessions specifically toward permanent or temporary rate buydowns to maximize borrower qualification.",
-      "action_realtor": "Negotiate builder credits instead of price cuts to preserve seller dollars and reduce buyer outlay.",
-      "cta_question": "Are your loan originators actively guiding realtors on builder concession caps before contracts are signed?"
+      "my_take_heading": "Verification Beats Automation",
+      "my_take": "Fancy demos do not clear conditions. If your AI vendor cannot show its work to an auditor, it is just an expensive operational liability.",
+      "action_lo": "Ask your management team if current tech vendors meet new governance standards before relying on automated tools.",
+      "action_realtor": "Partner with lenders whose technology speeds up approvals without risking loan denials during final quality control reviews.",
+      "cta_question": "Is your leadership team auditing vendor AI logic yet, or waiting for regulators to do it for you?"
+    },
+    {
+      "slug": "single-parent-fannie-freddie-proposal",
+      "title": "Why Merging Fannie and Freddie Backends Threatens Deals",
+      "source": "National Mortgage Professional",
+      "source_url": "https://nationalmortgageprofessional.com/news/one-owner-two-gses-would-fannie-and-freddie-still-compete-0",
+      "cover_text": "The Single-Parent GSE Proposal Risk",
+      "caption": "Sharing a backend sounds efficient until it kills your toughest mortgage deals. An investor proposal suggests placing Fannie Mae and Freddie Mac under one parent company while sharing infrastructure. While cost reduction sounds great to Wall Street, originators know that subtle guideline differences keep transactions alive. Loan officers rely heavily on variations between automated underwriting systems (software engines that evaluate loan risk). When DU (Desktop Underwriter) denies a file based on strict reserve requirements, LPA (Loan Product Advisor) often approves it. When a file hits underwriting, having two distinct agencies gives originators essential flexibility. Merging backend machinery risks creating a single rigid system across both entities. Protecting agency separation is critical to preserving loan options for non-perfect borrowers.\n\nSource : https://tinyurl.com/2xpdz9vb\n#SafetrustMortgage #MortgageIntelligenceDaily #mortgagebroker #loanofficer #homebuying",
+      "hashtags": [
+        "#SafetrustMortgage",
+        "#MortgageIntelligenceDaily",
+        "#mortgagebroker",
+        "#loanofficer",
+        "#homebuying"
+      ],
+      "hook_tag": "CAPITAL MARKETS",
+      "hook": "Consolidating Fannie and Freddie backends risks destroying loan options.",
+      "what_happened_heading": "The News",
+      "what_happened": "An investor proposed putting Fannie Mae and Freddie Mac under one publicly traded parent company. The plan claims both GSEs (government-sponsored enterprises) would compete while sharing backend infrastructure.",
+      "breakdown": [
+        {
+          "heading": "The Shared Engine Plan",
+          "body": "The proposal argues sharing expensive loan processing machinery reduces costs. On paper, single ownership streamlines operations while keeping brand-level competition alive."
+        },
+        {
+          "heading": "The Illusion of Competition",
+          "body": "Real competition between GSEs happens in guideline nuances. If one entity controls the backend, underwriting engines will eventually merge into a single rigid system."
+        },
+        {
+          "heading": "The Underwriter Lens",
+          "body": "Here's what this actually changes when a file hits underwriting. Loan officers rely on differences between automated engines when a tricky file gets rejected by one agency."
+        },
+        {
+          "heading": "Loss of Execution",
+          "body": "When Fannie says no on reserves or debt ratios, Freddie often says yes. Homogenizing infrastructure threatens the secondary execution flexibility originators count on."
+        }
+      ],
+      "my_take_heading": "Guidelines Need Separation",
+      "my_take": "Merging backend machinery inevitably merges guidelines. When agencies share a brain, originators lose the exact flexibility that saves tough deals.",
+      "action_lo": "Master the guideline differences between automated systems now so you know how to structure edge-case loans.",
+      "action_realtor": "Work with lenders who run dual-submission automated underwriting to save buyers who barely miss single-agency approval.",
+      "cta_question": "Would a shared backend preserve agency competition, or eventually flatten automated underwriting rules?"
+    },
+    {
+      "slug": "better-coinbase-crypto-mortgages",
+      "title": "The Real Strategy Behind Better’s Crypto Partnership",
+      "source": "National Mortgage Professional",
+      "source_url": "https://nationalmortgageprofessional.com/news/better-turns-coinbase-partnership-mortgage-lead-channel",
+      "cover_text": "Crypto Mortgages Are Actually a Lead Play",
+      "caption": "Better’s latest move isn’t about crypto hype; it’s a masterclass in direct borrower acquisition. Better Mortgage and Coinbase just expanded their token-backed mortgage program nationwide, allowing crypto holders to pledge digital assets for loans. While headline readers focus on bitcoin, mortgage veterans see the real play: embedded finance distribution. By partnering directly with asset custodians, Better accesses high-net-worth borrowers without paying traditional lead generation costs. However, when a file hits underwriting, papering digital assets requires strict verification of deposit (confirming liquid balances) and volatility buffers. Lenders who rely on outdated cold outreach will struggle against competitors who embed loan origination directly inside financial management platforms.\n\nSource : https://tinyurl.com/2aolempn\n#SafetrustMortgage #MortgageIntelligenceDaily #mortgagebroker #loanofficer #realestateinvesting",
+      "hashtags": [
+        "#SafetrustMortgage",
+        "#MortgageIntelligenceDaily",
+        "#mortgagebroker",
+        "#loanofficer",
+        "#realestateinvesting"
+      ],
+      "hook_tag": "STRATEGY & ORIGINATION",
+      "hook": "Better's new crypto mortgage isn't about bitcoin.",
+      "what_happened_heading": "The News",
+      "what_happened": "Better Mortgage expanded its Coinbase partnership into general availability for token-backed mortgages. The program targets crypto holders while creating a direct borrower acquisition channel.",
+      "breakdown": [
+        {
+          "heading": "The Digital Borrower",
+          "body": "Better is using crypto integration to build outside distribution channels. They are capturing high-net-worth, tech-focused buyers directly where their assets sit."
+        },
+        {
+          "heading": "Asset-Backed Mechanics",
+          "body": "Pledging crypto lets borrowers secure financing without liquidating digital assets. This avoids triggering capital gains taxes while leveraging modern portfolio wealth."
+        },
+        {
+          "heading": "The Underwriter Lens",
+          "body": "Here's what this actually changes when a file hits underwriting. Underwriters must carefully verify asset ownership, platform security, and volatile price buffers before granting approval."
+        },
+        {
+          "heading": "The Distribution Shift",
+          "body": "Traditional lead gen relies on purchased lists and ad spend. Partnering directly with asset custodians creates an exclusive customer pipeline competitors cannot touch."
+        }
+      ],
+      "my_take_heading": "Distribution Beats Rate Paper",
+      "my_take": "The winning mortgage strategy isn’t selling lower rates. It is embedding loan origination directly into wealthy asset platforms.",
+      "action_lo": "Identify non-traditional asset holders in your market and learn how non-conforming asset documentation rules apply.",
+      "action_realtor": "Target tech-savvy buyers with strategies that utilize digital asset wealth without requiring liquidation for down payments.",
+      "cta_question": "Will embedded finance partnerships replace traditional real estate agent referrals for tech-native buyers?"
     }
   ],
-  "carousels_es": []
+  "carousels_es": [
+    {
+      "slug": "mismo-ai-vendor-certifications",
+      "title": "Por qué su tecnología de IA hipotecaria no pasará la evaluación",
+      "source": "National Mortgage Professional",
+      "source_url": "https://nationalmortgageprofessional.com/news/mismo-gives-lenders-new-test-mortgage-ai-vendors",
+      "cover_text": "La IA hipotecaria enfrenta un obstáculo legal",
+      "caption": "La fiebre de la IA choca contra el cumplimiento hipotecario. MISMO acaba de lanzar dos nuevas certificaciones para auditar a proveedores de IA y firmas consultoras. Durante años, los proveedores vendieron procesamiento sin intervención humana sin explicar cómo los algoritmos toman decisiones de evaluación. Ahora, las herramientas no certificadas representan un gran riesgo financiero y regulatorio. Los equipos de control de calidad (quality control) no pueden defender aprobaciones automatizadas no explicables ante los auditores. Cuando un expediente llega a evaluación, los resultados sin estándares de datos comprobados se descartan de inmediato. Los prestamistas que adoptan software no verificado enfrentan un grave riesgo de recompra. Para ganar hoy se requiere tecnología verificada, gobernanza clara y transparencia total. Antes de comprar su próximo software, asegúrese de que sus proveedores puedan superar las auditorías regulatorias.\n\nFuente : https://tinyurl.com/23fj48k6\n#SafetrustMortgage #MortgageIntelligenceDaily #mortgagebroker #loanofficer #housingmarket",
+      "hashtags": [
+        "#SafetrustMortgage",
+        "#MortgageIntelligenceDaily",
+        "#mortgagebroker",
+        "#loanofficer",
+        "#housingmarket"
+      ],
+      "hook_tag": "TECNOLOGÍA Y GOBERNANZA",
+      "hook": "Su nueva herramienta de IA podría fallar la auditoría mañana.",
+      "what_happened_heading": "La noticia",
+      "what_happened": "MISMO lanzó dos nuevas certificaciones para evaluar proveedores tecnológicos de IA y firmas consultoras. Esto otorga a los prestamistas un estándar industrial para verificar el cumplimiento regulatorio de sus proveedores.",
+      "breakdown": [
+        {
+          "heading": "La promesa de la IA",
+          "body": "Los proveedores prometen aprobaciones instantáneas y procesamiento automático. Sin embargo, las demostraciones raras veces explican cómo los algoritmos toman decisiones crediticias o protegen los datos del consumidor."
+        },
+        {
+          "heading": "El cumplimiento entra en juego",
+          "body": "Las auditorías exigen explicar por qué se aprobó o rechazó un préstamo. Los algoritmos no explicables fallan de inmediato si no se puede auditar su lógica."
+        },
+        {
+          "heading": "La perspectiva del asesor",
+          "body": "Esto cambia las cosas cuando el expediente llega a evaluación. Los asesores no pueden confiar en la IA si el proveedor no demuestra estándares de cumplimiento claros."
+        },
+        {
+          "heading": "Evaluación más estricta",
+          "body": "Las credenciales de MISMO obligan a los proveedores a demostrar sus estándares. Comprar software no certificado crea ahora un gran riesgo financiero y de recompra."
+        }
+      ],
+      "my_take_heading": "La verificación supera a la automatización",
+      "my_take": "Las demostraciones atractivas no resuelven las condiciones del préstamo. Si su proveedor de IA no puede justificar su trabajo ante un auditor, representa solo un riesgo operativo muy costoso.",
+      "action_lo": "Consulte a su equipo directivo si los proveedores actuales cumplen los nuevos estándares antes de confiar en herramientas automatizadas.",
+      "action_realtor": "Colabore con prestamistas cuya tecnología agilice aprobaciones sin arriesgar rechazos durante la revisión final de control de calidad.",
+      "cta_question": "¿Su equipo directivo ya está auditando la IA de sus proveedores o espera a que los reguladores lo hagan?"
+    },
+    {
+      "slug": "single-parent-fannie-freddie-proposal",
+      "title": "Por qué fusionar los sistemas de Fannie y Freddie pone en riesgo sus préstamos",
+      "source": "National Mortgage Professional",
+      "source_url": "https://nationalmortgageprofessional.com/news/one-owner-two-gses-would-fannie-and-freddie-still-compete-0",
+      "cover_text": "El riesgo de fusionar Fannie y Freddie",
+      "caption": "Compartir infraestructura parece eficiente hasta que frena sus transacciones hipotecarias más difíciles. Una propuesta de inversionistas sugiere colocar a Fannie Mae y Freddie Mac bajo una sola empresa matriz mientras comparten infraestructura. Aunque reducir costos suena genial para Wall Street, los originadores saben que las pequeñas diferencias en las guías mantienen vivos los negocios. Los oficiales de préstamos dependen de las diferencias entre los sistemas automatizados de evaluación (software que evalúa el riesgo crediticio). Cuando DU (Desktop Underwriter) rechaza un expediente por requisitos de reservas, LPA (Loan Product Advisor) suele aprobarlo. Cuando un expediente llega a evaluación, contar con dos agencias distintas otorga a los originadores una flexibilidad esencial. Fusionar la infraestructura corre el riesgo de crear un sistema único y rígido. Proteger la separación entre agencias es vital para preservar las opciones crediticias de sus clientes.\n\nFuente : https://tinyurl.com/2xpdz9vb\n#SafetrustMortgage #MortgageIntelligenceDaily #mortgagebroker #loanofficer #homebuying",
+      "hashtags": [
+        "#SafetrustMortgage",
+        "#MortgageIntelligenceDaily",
+        "#mortgagebroker",
+        "#loanofficer",
+        "#homebuying"
+      ],
+      "hook_tag": "MERCADOS DE CAPITALES",
+      "hook": "Consolidar la infraestructura de Fannie y Freddie arriesga opciones crediticias.",
+      "what_happened_heading": "La noticia",
+      "what_happened": "Un inversionista propuso colocar a Fannie Mae y Freddie Mac bajo una misma empresa matriz que cotice en bolsa. El plan afirma que ambas empresas patrocinadas por el gobierno (GSE) competirían mientras comparten su infraestructura operativa.",
+      "breakdown": [
+        {
+          "heading": "El plan de infraestructura compartida",
+          "body": "La propuesta sostiene que compartir la costosa infraestructura de procesamiento reduce costos. En papel, una sola propiedad optimiza la operación manteniendo la competencia comercial."
+        },
+        {
+          "heading": "La ilusión de la competencia",
+          "body": "La verdadera competencia entre GSEs ocurre en los detalles de sus guías. Si una entidad controla la infraestructura, los motores de evaluación terminarán unificándose."
+        },
+        {
+          "heading": "La perspectiva del asesor",
+          "body": "Esto cambia las cosas en la evaluación. Los oficiales de préstamos aprovechan las diferencias entre motores automatizados cuando un caso complejo es rechazado por una agencia."
+        },
+        {
+          "heading": "Pérdida de flexibilidad",
+          "body": "Cuando Fannie rechaza reservas o relaciones de deuda, Freddie suele aprobarlas. Homogeneizar la infraestructura amenaza la flexibilidad que los originadores necesitan para cerrar negocios."
+        }
+      ],
+      "my_take_heading": "Las guías requieren independencia",
+      "my_take": "Fusionar la infraestructura operativa inevitablemente fusionará las guías. Cuando las agencias comparten el mismo cerebro, los originadores pierden la flexibilidad exacta necesaria para salvar préstamos difíciles.",
+      "action_lo": "Domine ahora las diferencias en las guías de los sistemas automatizados para estructurar con éxito préstamos complejos.",
+      "action_realtor": "Trabaje con prestamistas que procesen evaluaciones automatizadas dobles para salvar a compradores rechazados por una sola agencia.",
+      "cta_question": "¿Cree que compartir la infraestructura mantendría la competencia o terminaría unificando las reglas de evaluación automatizada?"
+    },
+    {
+      "slug": "better-coinbase-crypto-mortgages",
+      "title": "La verdadera estrategia detrás de la alianza de Better con cripto",
+      "source": "National Mortgage Professional",
+      "source_url": "https://nationalmortgageprofessional.com/news/better-turns-coinbase-partnership-mortgage-lead-channel",
+      "cover_text": "Las hipotecas cripto son captación de clientes",
+      "caption": "La última jugada de Better no busca especular con criptomonedas, sino dominar la captación directa de clientes. Better Mortgage y Coinbase ampliaron a nivel nacional su programa de hipotecas respaldadas por tokens, permitiendo que propietarios de activos digitales garanticen sus préstamos. Mientras la mayoría se enfoca en bitcoin, los expertos ven la verdadera estrategia: distribución financiera integrada. Al aliarse directamente con custodios de activos, Better accede a prestatarios de alto patrimonio sin gastar en generación tradicional de prospectos. Sin embargo, en la evaluación, respaldar activos digitales exige una estricta verificación de depósito (confirmando saldos líquidos) y coberturas de volatilidad. Los prestamistas que dependen de prospección tradicional sufrirán frente a competidores integrados directamente en plataformas financieras.\n\nFuente : https://tinyurl.com/2aolempn\n#SafetrustMortgage #MortgageIntelligenceDaily #mortgagebroker #loanofficer #realestateinvesting",
+      "hashtags": [
+        "#SafetrustMortgage",
+        "#MortgageIntelligenceDaily",
+        "#mortgagebroker",
+        "#loanofficer",
+        "#realestateinvesting"
+      ],
+      "hook_tag": "ESTRATEGIA Y ORIGINACIÓN",
+      "hook": "La nueva hipoteca cripto de Better no se trata de bitcoin.",
+      "what_happened_heading": "La noticia",
+      "what_happened": "Better Mortgage amplió su alianza con Coinbase para ofrecer hipotecas respaldadas por tokens a nivel nacional. El programa se dirige a inversionistas de criptomonedas mientras crea un canal directo de captación de prestatarios.",
+      "breakdown": [
+        {
+          "heading": "El prestatario digital",
+          "body": "Better utiliza la integración con criptomonedas para crear nuevos canales de distribución. Captan compradores de alto patrimonio directamente en las plataformas donde mantienen sus activos."
+        },
+        {
+          "heading": "Mecanismo del respaldo",
+          "body": "Garantizar con cripto permite obtener financiamiento sin liquidar activos digitales. Esto evita impuestos sobre ganancias de capital mientras aprovecha el patrimonio de portafolios modernos."
+        },
+        {
+          "heading": "La perspectiva del asesor",
+          "body": "Esto cambia la evaluación del préstamo. Los asesores deben verificar rigurosamente la titularidad de los activos, la seguridad de la plataforma y los márgenes de volatilidad."
+        },
+        {
+          "heading": "El cambio en distribución",
+          "body": "La captación tradicional depende de listas compradas y publicidad. Asociarse directamente con custodios de activos crea una fuente exclusiva de clientes fuera del alcance de la competencia."
+        }
+      ],
+      "my_take_heading": "La distribución supera a la tasa",
+      "my_take": "La estrategia hipotecaria ganadora no consiste en ofrecer tasas más bajas. Consiste en integrar la originación de préstamos directamente dentro de las plataformas donde los clientes gestionan su riqueza.",
+      "action_lo": "Identifique clientes con activos no tradicionales en su mercado y aprenda cómo aplican las reglas de documentación de activos no convenientes.",
+      "action_realtor": "Atraiga a compradores tecnológicos mediante estrategias que utilicen su patrimonio digital sin exigir la liquidación de activos para el pago inicial.",
+      "cta_question": "¿Cree que las alianzas de finanzas integradas reemplazarán las referencias tradicionales de agentes inmobiliarios para compradores tecnológicos?"
+    }
+  ]
 }
