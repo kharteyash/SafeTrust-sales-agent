@@ -1,96 +1,96 @@
 {
   "carousels": [
     {
-      "slug": "mismo-ai-vendor-certifications",
-      "title": "Why Your AI Mortgage Tech Won't Pass Underwriting",
+      "slug": "smaller-homes-mortgage-affordability",
+      "title": "Why Shrinking Home Sizes Won't Solve Affordability",
       "source": "National Mortgage Professional",
-      "source_url": "https://nationalmortgageprofessional.com/news/mismo-gives-lenders-new-test-mortgage-ai-vendors",
-      "cover_text": "AI Mortgage Tech Just Hit a Legal Wall",
-      "caption": "AI hype is crashing into mortgage compliance reality. MISMO just launched two new industry certifications to audit AI mortgage vendors and advisory firms. For years, tech vendors sold mortgage executives on zero-touch processing without explaining how algorithms make underwriting decisions. Now, uncertified AI tools pose a massive balance sheet and regulatory risk. Quality control (checking loan files for accuracy) teams cannot defend black-box approvals to auditors. When a file hits underwriting, automated outputs without proven data standards get thrown out immediately. Lenders who blindly adopt unverified software face severe repurchase risk from investors. Winning in today's market requires verified technology, clear governance, and strict vendor transparency. Before buying your next tech stack, make sure your vendors can actually pass regulatory scrutiny.\n\nSource : https://tinyurl.com/23fj48k6\n#SafetrustMortgage #MortgageIntelligenceDaily #mortgagebroker #loanofficer #housingmarket",
+      "source_url": "https://nationalmortgageprofessional.com/news/builders-shrink-homes-affordability-keeps-slipping",
+      "cover_text": "Smaller Homes Will Not Fix Mortgage Affordability",
+      "caption": "Builders are shrinking square footage, but buyers are not getting real relief. Census data shows average new single-family homes dropped 11.6 percent over ten years to 2,409 square feet. Yet monthly housing payments remain locked near historic highs. Cutting physical space does not alter basic market dynamics when land and labor costs stay elevated. From an underwriting perspective, smaller floor plans mean appraisers face higher price-per-square-foot ratios, making comparable sales harder to justify. If builders want to capture buyers today, rate buydowns and concession packages will move inventory much faster than removing three hundred square feet from a floor plan. What are you seeing in your local market?\n\nSource : https://tinyurl.com/2a76qwj7\n#SafetrustMortgage #MortgageIntelligenceDaily #housingmarket #firsttimehomebuyer #loanofficer",
+      "hashtags": [
+        "#SafetrustMortgage",
+        "#MortgageIntelligenceDaily",
+        "#housingmarket",
+        "#firsttimehomebuyer",
+        "#loanofficer"
+      ],
+      "hook_tag": "NEW CONSTRUCTION MATH",
+      "hook": "Shrinking house sizes will not lower buyer payments enough to matter.",
+      "what_happened_heading": "The Size Shift",
+      "what_happened": "Builders have reduced average new home sizes by 11.6 percent over ten years to 2,409 square feet. Despite building smaller floor plans, homebuyer affordability continues to fall across the country.",
+      "breakdown": [
+        {
+          "heading": "A Decade of Trimming",
+          "body": "Census data analyzed by LendingTree shows average new single-family homes dropped from 2,724 square feet in 2015 down to 2,409 square feet in 2025."
+        },
+        {
+          "heading": "Cost Per Square Foot",
+          "body": "Cutting square footage reduces baseline construction costs for home builders. However, land, labor, and materials expenses keep pushing final sales prices out of reach."
+        },
+        {
+          "heading": "The Underwriter Lens",
+          "body": "Here is what this actually changes when a file hits underwriting: smaller square footage forces higher cost-per-square-foot appraisal comps, triggering strict valuation reviews."
+        },
+        {
+          "heading": "Payment Reality",
+          "body": "Trimming three hundred square feet does not solve high monthly payments. Borrowers still face severe debt-to-income (ratio of monthly debt to gross income) pressure."
+        }
+      ],
+      "my_take_heading": "The Hard Truth",
+      "my_take": "Builders cannot shrink their way out of a high-cost environment. Cutting square footage without lowering price per foot just gives buyers less asset for the same monthly burden.",
+      "action_lo": "Educate buyers on cost-per-square-foot appraisal risks before they sign builder contracts.",
+      "action_realtor": "Target builders offering permanent rate buydowns rather than just smaller footprint floor plans.",
+      "cta_question": "Are your buyers willing to trade square footage for lower monthly payments?"
+    },
+    {
+      "slug": "foreclosure-filings-july-attom",
+      "title": "What Rising REOs Mean for Mortgage Underwriting",
+      "source": "HousingWire",
+      "source_url": "https://www.housingwire.com/articles/foreclosure-filings-july-attom/",
+      "cover_text": "Foreclosure Filings and REO Properties Are Climbing",
+      "caption": "Bank repossessions are climbing even as overall foreclosure inventory looks manageable. ATTOM reported 39,906 foreclosure filings in July, up 10 percent year-over-year. More importantly, bank-owned REO properties surged 23 percent compared to July 2025. When distressed loans move all the way to bank repossession, it signals that home equity buffers are no longer rescuing every struggling borrower. In underwriting, rising default activity triggers tighter appraisal guidelines and closer scrutiny on property condition overlays. Originators need to scrutinize borrower reserve requirements early, while realtors should prepare clients for bank-owned purchase contract addendums. How is your team adjusting to shifting distress metrics?\n\nSource : https://tinyurl.com/27hy8xuc\n#SafetrustMortgage #MortgageIntelligenceDaily #mortgagebroker #realestateagent #housingmarket",
       "hashtags": [
         "#SafetrustMortgage",
         "#MortgageIntelligenceDaily",
         "#mortgagebroker",
-        "#loanofficer",
+        "#realestateagent",
         "#housingmarket"
       ],
-      "hook_tag": "TECH & GOVERNANCE",
-      "hook": "Your slick new AI tool might fail audit tomorrow.",
-      "what_happened_heading": "The News",
-      "what_happened": "MISMO released two new certifications to evaluate AI tech vendors and advisory firms. This gives mortgage lenders an industry standard to test vendor compliance and governance practices.",
+      "hook_tag": "DISTRESSED PROPERTY TRENDS",
+      "hook": "Rising bank repossessions reveal structural pressure beneath stable surface numbers.",
+      "what_happened_heading": "July Foreclosure Data",
+      "what_happened": "ATTOM reported 39,906 foreclosure filings in July, marking a 10 percent annual increase. Bank-owned repossessions spiked 23 percent compared to July 2025 figures.",
       "breakdown": [
         {
-          "heading": "The AI Hype Machine",
-          "body": "Tech vendors promise instant approvals and zero-touch processing. But flashy demos rarely explain how algorithms make credit decisions or protect consumer data."
+          "heading": "Monthly and Yearly Tracking",
+          "body": "Foreclosure filings rose 1 percent from June to July, reaching 39,906 total properties according to ATTOM data."
         },
         {
-          "heading": "Compliance Enters the Room",
-          "body": "Regulatory audits require lenders to explain why a loan was denied or approved. Black-box algorithms fail compliance checks instantly if logic cannot be audited."
+          "heading": "The REO Surge",
+          "body": "REOs (real estate owned by banks) jumped 23 percent year-over-year, indicating more defaulted properties are completing the foreclosure process."
         },
         {
           "heading": "The Underwriter Lens",
-          "body": "Here's what this actually changes when a file hits underwriting. Underwriters cannot rely on AI outputs if the vendor cannot prove data lineage and compliance standards."
+          "body": "Here is what this actually changes when a file hits underwriting: appraisers face stricter scrutiny on comparable sales in neighborhoods showing increased bank-owned properties."
         },
         {
-          "heading": "Vendor Vetting Escalates",
-          "body": "MISMO credentials force vendors to prove their systems meet strict standards. Buying uncertified software now creates massive balance sheet and repurchase risk."
+          "heading": "Servicing Reality",
+          "body": "Rising repossession numbers mean default servicing teams face operational bottlenecks while lenders review credit policy risk profiles on new originations."
         }
       ],
-      "my_take_heading": "Verification Beats Automation",
-      "my_take": "Fancy demos do not clear conditions. If your AI vendor cannot show its work to an auditor, it is just an expensive operational liability.",
-      "action_lo": "Ask your management team if current tech vendors meet new governance standards before relying on automated tools.",
-      "action_realtor": "Partner with lenders whose technology speeds up approvals without risking loan denials during final quality control reviews.",
-      "cta_question": "Is your leadership team auditing vendor AI logic yet, or waiting for regulators to do it for you?"
+      "my_take_heading": "The Repossession Signal",
+      "my_take": "A 23 percent jump in REOs shows equity buffers are no longer rescuing every struggling homeowner. Default servicing capacity will test lender operations.",
+      "action_lo": "Audit pipeline files for non-occupant co-signers and tight reserve requirements early.",
+      "action_realtor": "Prepare buyers for bank-owned purchase addendums and strict property condition requirements.",
+      "cta_question": "How is your team preparing for shifts in distressed inventory?"
     },
     {
-      "slug": "single-parent-fannie-freddie-proposal",
-      "title": "Why Merging Fannie and Freddie Backends Threatens Deals",
+      "slug": "prosperity-retains-msrs-servicing-strategy",
+      "title": "Why Retaining Servicing Builds a Database Moat",
       "source": "National Mortgage Professional",
-      "source_url": "https://nationalmortgageprofessional.com/news/one-owner-two-gses-would-fannie-and-freddie-still-compete-0",
-      "cover_text": "The Single-Parent GSE Proposal Risk",
-      "caption": "Sharing a backend sounds efficient until it kills your toughest mortgage deals. An investor proposal suggests placing Fannie Mae and Freddie Mac under one parent company while sharing infrastructure. While cost reduction sounds great to Wall Street, originators know that subtle guideline differences keep transactions alive. Loan officers rely heavily on variations between automated underwriting systems (software engines that evaluate loan risk). When DU (Desktop Underwriter) denies a file based on strict reserve requirements, LPA (Loan Product Advisor) often approves it. When a file hits underwriting, having two distinct agencies gives originators essential flexibility. Merging backend machinery risks creating a single rigid system across both entities. Protecting agency separation is critical to preserving loan options for non-perfect borrowers.\n\nSource : https://tinyurl.com/2xpdz9vb\n#SafetrustMortgage #MortgageIntelligenceDaily #mortgagebroker #loanofficer #homebuying",
-      "hashtags": [
-        "#SafetrustMortgage",
-        "#MortgageIntelligenceDaily",
-        "#mortgagebroker",
-        "#loanofficer",
-        "#homebuying"
-      ],
-      "hook_tag": "CAPITAL MARKETS",
-      "hook": "Consolidating Fannie and Freddie backends risks destroying loan options.",
-      "what_happened_heading": "The News",
-      "what_happened": "An investor proposed putting Fannie Mae and Freddie Mac under one publicly traded parent company. The plan claims both GSEs (government-sponsored enterprises) would compete while sharing backend infrastructure.",
-      "breakdown": [
-        {
-          "heading": "The Shared Engine Plan",
-          "body": "The proposal argues sharing expensive loan processing machinery reduces costs. On paper, single ownership streamlines operations while keeping brand-level competition alive."
-        },
-        {
-          "heading": "The Illusion of Competition",
-          "body": "Real competition between GSEs happens in guideline nuances. If one entity controls the backend, underwriting engines will eventually merge into a single rigid system."
-        },
-        {
-          "heading": "The Underwriter Lens",
-          "body": "Here's what this actually changes when a file hits underwriting. Loan officers rely on differences between automated engines when a tricky file gets rejected by one agency."
-        },
-        {
-          "heading": "Loss of Execution",
-          "body": "When Fannie says no on reserves or debt ratios, Freddie often says yes. Homogenizing infrastructure threatens the secondary execution flexibility originators count on."
-        }
-      ],
-      "my_take_heading": "Guidelines Need Separation",
-      "my_take": "Merging backend machinery inevitably merges guidelines. When agencies share a brain, originators lose the exact flexibility that saves tough deals.",
-      "action_lo": "Master the guideline differences between automated systems now so you know how to structure edge-case loans.",
-      "action_realtor": "Work with lenders who run dual-submission automated underwriting to save buyers who barely miss single-agency approval.",
-      "cta_question": "Would a shared backend preserve agency competition, or eventually flatten automated underwriting rules?"
-    },
-    {
-      "slug": "better-coinbase-crypto-mortgages",
-      "title": "The Real Strategy Behind Better’s Crypto Partnership",
-      "source": "National Mortgage Professional",
-      "source_url": "https://nationalmortgageprofessional.com/news/better-turns-coinbase-partnership-mortgage-lead-channel",
-      "cover_text": "Crypto Mortgages Are Actually a Lead Play",
-      "caption": "Better’s latest move isn’t about crypto hype; it’s a masterclass in direct borrower acquisition. Better Mortgage and Coinbase just expanded their token-backed mortgage program nationwide, allowing crypto holders to pledge digital assets for loans. While headline readers focus on bitcoin, mortgage veterans see the real play: embedded finance distribution. By partnering directly with asset custodians, Better accesses high-net-worth borrowers without paying traditional lead generation costs. However, when a file hits underwriting, papering digital assets requires strict verification of deposit (confirming liquid balances) and volatility buffers. Lenders who rely on outdated cold outreach will struggle against competitors who embed loan origination directly inside financial management platforms.\n\nSource : https://tinyurl.com/2aolempn\n#SafetrustMortgage #MortgageIntelligenceDaily #mortgagebroker #loanofficer #realestateinvesting",
+      "source_url": "https://nationalmortgageprofessional.com/news/prosperity-retain-msrs-40-agency-eligible-originations",
+      "cover_text": "Lenders Retain Servicing To Control Borrower Relationships",
+      "caption": "Selling off mortgage servicing rights might generate quick cash, but retaining them protects your client base. Prosperity Home Mortgage is keeping servicing rights on 40 percent of its agency-eligible originations under parent company HomeServices of America. Controlling servicing transforms a single closing transaction into a multi-year customer relationship. When a lender holds the servicing, they secure direct access to future refinance cycles without spending money on external lead generation. In underwriting, portfolio servicing retention shifts focus toward long-term file quality and post-closing compliance because repurchase risk remains on the balance sheet. Are you building a long-term servicing moat or selling your database?\n\nSource : https://tinyurl.com/2469k7l8\n#SafetrustMortgage #MortgageIntelligenceDaily #mortgagebroker #loanofficer #realestateinvesting",
       "hashtags": [
         "#SafetrustMortgage",
         "#MortgageIntelligenceDaily",
@@ -98,127 +98,127 @@
         "#loanofficer",
         "#realestateinvesting"
       ],
-      "hook_tag": "STRATEGY & ORIGINATION",
-      "hook": "Better's new crypto mortgage isn't about bitcoin.",
-      "what_happened_heading": "The News",
-      "what_happened": "Better Mortgage expanded its Coinbase partnership into general availability for token-backed mortgages. The program targets crypto holders while creating a direct borrower acquisition channel.",
+      "hook_tag": "VERTICAL INTEGRATION STRATEGY",
+      "hook": "Retaining loan servicing is the ultimate long-term borrower retention play.",
+      "what_happened_heading": "Servicing Strategy Shift",
+      "what_happened": "Prosperity Home Mortgage will retain servicing rights on 40 percent of its agency-eligible loans. Parent company HomeServices of America is extending its vertically integrated model past closing.",
       "breakdown": [
         {
-          "heading": "The Digital Borrower",
-          "body": "Better is using crypto integration to build outside distribution channels. They are capturing high-net-worth, tech-focused buyers directly where their assets sit."
+          "heading": "Servicing Retention Plan",
+          "body": "Prosperity Home Mortgage announced plans to retain mortgage servicing rights on approximately 40 percent of agency-eligible conventional loans."
         },
         {
-          "heading": "Asset-Backed Mechanics",
-          "body": "Pledging crypto lets borrowers secure financing without liquidating digital assets. This avoids triggering capital gains taxes while leveraging modern portfolio wealth."
+          "heading": "Vertical Integration",
+          "body": "HomeServices of America is expanding its real estate model, keeping customer relationships long after title transfer and closing."
         },
         {
           "heading": "The Underwriter Lens",
-          "body": "Here's what this actually changes when a file hits underwriting. Underwriters must carefully verify asset ownership, platform security, and volatile price buffers before granting approval."
+          "body": "Here is what this actually changes when a file hits underwriting: retained servicing requires pristine post-closing QC (quality control) because loan repurchase risk stays on balance sheet."
         },
         {
-          "heading": "The Distribution Shift",
-          "body": "Traditional lead gen relies on purchased lists and ad spend. Partnering directly with asset custodians creates an exclusive customer pipeline competitors cannot touch."
+          "heading": "Portfolio Value",
+          "body": "Holding servicing generates recurring cash flow and secures first position for future refinance opportunities without acquiring external leads."
         }
       ],
-      "my_take_heading": "Distribution Beats Rate Paper",
-      "my_take": "The winning mortgage strategy isn’t selling lower rates. It is embedding loan origination directly into wealthy asset platforms.",
-      "action_lo": "Identify non-traditional asset holders in your market and learn how non-conforming asset documentation rules apply.",
-      "action_realtor": "Target tech-savvy buyers with strategies that utilize digital asset wealth without requiring liquidation for down payments.",
-      "cta_question": "Will embedded finance partnerships replace traditional real estate agent referrals for tech-native buyers?"
+      "my_take_heading": "The Servicing Moat",
+      "my_take": "Origination margins thin out, but retaining servicing builds a permanent moat. Control the customer relationship, control the future refinance pipeline.",
+      "action_lo": "Leverage in-house servicing stability when pitching real estate partners on borrower retention.",
+      "action_realtor": "Partner with lenders who retain servicing to ensure long-term client care after closing.",
+      "cta_question": "Is your firm retaining servicing rights or selling off the customer relationship?"
     }
   ],
   "carousels_es": [
     {
-      "slug": "mismo-ai-vendor-certifications",
-      "title": "Por qué su tecnología de IA hipotecaria no pasará la evaluación",
+      "slug": "smaller-homes-mortgage-affordability",
+      "title": "Por qué reducir el tamaño de las casas no resolverá la asequibilidad",
       "source": "National Mortgage Professional",
-      "source_url": "https://nationalmortgageprofessional.com/news/mismo-gives-lenders-new-test-mortgage-ai-vendors",
-      "cover_text": "La IA hipotecaria enfrenta un obstáculo legal",
-      "caption": "La fiebre de la IA choca contra el cumplimiento hipotecario. MISMO acaba de lanzar dos nuevas certificaciones para auditar a proveedores de IA y firmas consultoras. Durante años, los proveedores vendieron procesamiento sin intervención humana sin explicar cómo los algoritmos toman decisiones de evaluación. Ahora, las herramientas no certificadas representan un gran riesgo financiero y regulatorio. Los equipos de control de calidad (quality control) no pueden defender aprobaciones automatizadas no explicables ante los auditores. Cuando un expediente llega a evaluación, los resultados sin estándares de datos comprobados se descartan de inmediato. Los prestamistas que adoptan software no verificado enfrentan un grave riesgo de recompra. Para ganar hoy se requiere tecnología verificada, gobernanza clara y transparencia total. Antes de comprar su próximo software, asegúrese de que sus proveedores puedan superar las auditorías regulatorias.\n\nFuente : https://tinyurl.com/23fj48k6\n#SafetrustMortgage #MortgageIntelligenceDaily #mortgagebroker #loanofficer #housingmarket",
+      "source_url": "https://nationalmortgageprofessional.com/news/builders-shrink-homes-affordability-keeps-slipping",
+      "cover_text": "Casas más pequeñas no arreglarán la asequibilidad hipotecaria",
+      "caption": "Los constructores reducen el tamaño de las viviendas, pero los compradores no reciben un alivio real. Datos del Censo muestran que las casas unifamiliares nuevas cayeron un 11.6 por ciento en diez años a 2,409 pies cuadrados. Sin embargo, los pagos mensuales de vivienda permanecen cerca de máximos históricos. Reducir el espacio físico no altera la dinámica del mercado cuando los costos de terreno y mano de obra siguen elevados. Desde la perspectiva de la evaluación de riesgo, los planos más pequeños significan que los tasadores enfrentan relaciones de precio por pie cuadrado más altas, complicando la justificación de ventas comparables. Si los constructores quieren atraer compradores hoy, las reducciones de tasa de interés y las concesiones moverán el inventario mucho más rápido que quitar trescientos pies cuadrados a un plano. ¿Qué observa usted en su mercado local?\n\nFuente : https://tinyurl.com/2a76qwj7\n#SafetrustMortgage #MortgageIntelligenceDaily #housingmarket #firsttimehomebuyer #loanofficer",
+      "hashtags": [
+        "#SafetrustMortgage",
+        "#MortgageIntelligenceDaily",
+        "#housingmarket",
+        "#firsttimehomebuyer",
+        "#loanofficer"
+      ],
+      "hook_tag": "CÁLCULO DE NUEVA CONSTRUCCIÓN",
+      "hook": "Reducir el tamaño de la casa no bajará los pagos lo suficiente.",
+      "what_happened_heading": "El cambio de tamaño",
+      "what_happened": "Los constructores han reducido el tamaño promedio de las viviendas nuevas en un 11.6 por ciento durante diez años a 2,409 pies cuadrados. A pesar de construir planos más pequeños, la asequibilidad para los compradores sigue cayendo en todo el país.",
+      "breakdown": [
+        {
+          "heading": "Una década de recortes",
+          "body": "Datos del Censo analizados por LendingTree muestran que las casas unifamiliares pasaron de 2,724 pies cuadrados en 2015 a 2,409 pies cuadrados en 2025."
+        },
+        {
+          "heading": "Costo por pie cuadrado",
+          "body": "Reducir pies cuadrados baja los costos base de construcción. Sin embargo, los gastos de terreno, mano de obra y materiales siguen elevando los precios finales."
+        },
+        {
+          "heading": "El lente del asesor",
+          "body": "Esto cambia al evaluar el crédito: menos pies cuadrados fuerzan comparables de avalúo con mayor costo por pie cuadrado, generando revisiones de valoración más estrictas."
+        },
+        {
+          "heading": "La realidad del pago",
+          "body": "Recortar trescientos pies cuadrados no resuelve los pagos mensuales altos. Los prestatarios aún enfrentan una severa presión en su relación deuda-ingreso (DTI)."
+        }
+      ],
+      "my_take_heading": "La dura realidad",
+      "my_take": "Los constructores no pueden superar los altos costos reduciendo espacio. Cortar pies cuadrados sin bajar el precio por pie da al comprador menos activo por la misma carga mensual.",
+      "action_lo": "Eduque a los compradores sobre los riesgos de avalúo por pie cuadrado antes de firmar contratos con constructores.",
+      "action_realtor": "Enfóquese en constructores que ofrezcan reducciones permanentes de tasa en lugar de planos más pequeños.",
+      "cta_question": "¿Están sus compradores dispuestos a sacrificar espacio por un pago mensual más bajo?"
+    },
+    {
+      "slug": "foreclosure-filings-july-attom",
+      "title": "Qué significan las ejecuciones hipotecarias en aumento para la evaluación de crédito",
+      "source": "HousingWire",
+      "source_url": "https://www.housingwire.com/articles/foreclosure-filings-july-attom/",
+      "cover_text": "Las ejecuciones hipotecarias y propiedades REO están aumentando",
+      "caption": "Las adjudicaciones bancarias aumentan aunque el inventario general de ejecuciones parezca manejable. ATTOM reportó 39,906 solicitudes de ejecución hipotecaria en julio, un 10 por ciento más interanual. Más importante aún, las propiedades en posesión de bancos (REO) aumentaron un 23 por ciento en comparación con julio de 2025. Cuando los préstamos problemáticos llegan a la adjudicación bancaria, indica que el capital de la vivienda ya no rescata a todos los prestatarios con dificultades. En la evaluación de riesgo, el aumento de morosidad activa pautas de avalúo más estrictas. Los originadores deben verificar las reservas del prestatario desde el principio, mientras que los agentes inmobiliarios deben preparar a los clientes para los anexos de compra de propiedades bancarias. ¿Cómo se adapta su equipo a estas métricas?\n\nFuente : https://tinyurl.com/27hy8xuc\n#SafetrustMortgage #MortgageIntelligenceDaily #mortgagebroker #realestateagent #housingmarket",
       "hashtags": [
         "#SafetrustMortgage",
         "#MortgageIntelligenceDaily",
         "#mortgagebroker",
-        "#loanofficer",
+        "#realestateagent",
         "#housingmarket"
       ],
-      "hook_tag": "TECNOLOGÍA Y GOBERNANZA",
-      "hook": "Su nueva herramienta de IA podría fallar la auditoría mañana.",
-      "what_happened_heading": "La noticia",
-      "what_happened": "MISMO lanzó dos nuevas certificaciones para evaluar proveedores tecnológicos de IA y firmas consultoras. Esto otorga a los prestamistas un estándar industrial para verificar el cumplimiento regulatorio de sus proveedores.",
+      "hook_tag": "TENDENCIAS EN PROPIEDADES ADJUDICADAS",
+      "hook": "El aumento de ejecuciones bancarias revela presiones estructurales en el mercado.",
+      "what_happened_heading": "Datos de ejecuciones en julio",
+      "what_happened": "ATTOM reportó 39,906 solicitudes de ejecución hipotecaria en julio, lo que representa un aumento anual del 10 por ciento. Las ejecuciones bancarias aumentaron un 23 por ciento en comparación con las cifras de julio de 2025.",
       "breakdown": [
         {
-          "heading": "La promesa de la IA",
-          "body": "Los proveedores prometen aprobaciones instantáneas y procesamiento automático. Sin embargo, las demostraciones raras veces explican cómo los algoritmos toman decisiones crediticias o protegen los datos del consumidor."
+          "heading": "Seguimiento mensual y anual",
+          "body": "Las solicitudes de ejecución subieron un 1 por ciento de junio a julio, alcanzando un total de 39,906 propiedades según datos de ATTOM."
         },
         {
-          "heading": "El cumplimiento entra en juego",
-          "body": "Las auditorías exigen explicar por qué se aprobó o rechazó un préstamo. Los algoritmos no explicables fallan de inmediato si no se puede auditar su lógica."
+          "heading": "El aumento de REO",
+          "body": "Las propiedades REO (propiedad del banco) aumentaron un 23 por ciento interanual, indicando que más préstamos incumplidos están completando el proceso de ejecución."
         },
         {
-          "heading": "La perspectiva del asesor",
-          "body": "Esto cambia las cosas cuando el expediente llega a evaluación. Los asesores no pueden confiar en la IA si el proveedor no demuestra estándares de cumplimiento claros."
+          "heading": "El lente del asesor",
+          "body": "Esto cambia al evaluar el crédito: los tasadores enfrentan mayor rigor en ventas comparables dentro de vecindarios con un incremento de propiedades bancarias."
         },
         {
-          "heading": "Evaluación más estricta",
-          "body": "Las credenciales de MISMO obligan a los proveedores a demostrar sus estándares. Comprar software no certificado crea ahora un gran riesgo financiero y de recompra."
+          "heading": "Realidad del servicio",
+          "body": "El aumento en adjudicaciones genera cuellos de botella operativos en el servicio de préstamos mientras los prestamistas revisan los perfiles de riesgo crediticio."
         }
       ],
-      "my_take_heading": "La verificación supera a la automatización",
-      "my_take": "Las demostraciones atractivas no resuelven las condiciones del préstamo. Si su proveedor de IA no puede justificar su trabajo ante un auditor, representa solo un riesgo operativo muy costoso.",
-      "action_lo": "Consulte a su equipo directivo si los proveedores actuales cumplen los nuevos estándares antes de confiar en herramientas automatizadas.",
-      "action_realtor": "Colabore con prestamistas cuya tecnología agilice aprobaciones sin arriesgar rechazos durante la revisión final de control de calidad.",
-      "cta_question": "¿Su equipo directivo ya está auditando la IA de sus proveedores o espera a que los reguladores lo hagan?"
+      "my_take_heading": "La señal de las adjudicaciones",
+      "my_take": "Un salto del 23 por ciento en REOs muestra que el capital acumulado ya no salva a todos los propietarios con problemas. La capacidad de administración de morosidad pondrá a prueba las operaciones de los prestamistas.",
+      "action_lo": "Audite expedientes buscando avales no ocupantes y verifique los requisitos de reservas desde el inicio.",
+      "action_realtor": "Prepare a los compradores para anexos de compra de bienes bancarios y requisitos estrictos sobre la condición del inmueble.",
+      "cta_question": "¿Cómo se está preparando su equipo para los cambios en el inventario adjudicado?"
     },
     {
-      "slug": "single-parent-fannie-freddie-proposal",
-      "title": "Por qué fusionar los sistemas de Fannie y Freddie pone en riesgo sus préstamos",
+      "slug": "prosperity-retains-msrs-servicing-strategy",
+      "title": "Por qué retener la administración de préstamos protege su base de datos",
       "source": "National Mortgage Professional",
-      "source_url": "https://nationalmortgageprofessional.com/news/one-owner-two-gses-would-fannie-and-freddie-still-compete-0",
-      "cover_text": "El riesgo de fusionar Fannie y Freddie",
-      "caption": "Compartir infraestructura parece eficiente hasta que frena sus transacciones hipotecarias más difíciles. Una propuesta de inversionistas sugiere colocar a Fannie Mae y Freddie Mac bajo una sola empresa matriz mientras comparten infraestructura. Aunque reducir costos suena genial para Wall Street, los originadores saben que las pequeñas diferencias en las guías mantienen vivos los negocios. Los oficiales de préstamos dependen de las diferencias entre los sistemas automatizados de evaluación (software que evalúa el riesgo crediticio). Cuando DU (Desktop Underwriter) rechaza un expediente por requisitos de reservas, LPA (Loan Product Advisor) suele aprobarlo. Cuando un expediente llega a evaluación, contar con dos agencias distintas otorga a los originadores una flexibilidad esencial. Fusionar la infraestructura corre el riesgo de crear un sistema único y rígido. Proteger la separación entre agencias es vital para preservar las opciones crediticias de sus clientes.\n\nFuente : https://tinyurl.com/2xpdz9vb\n#SafetrustMortgage #MortgageIntelligenceDaily #mortgagebroker #loanofficer #homebuying",
-      "hashtags": [
-        "#SafetrustMortgage",
-        "#MortgageIntelligenceDaily",
-        "#mortgagebroker",
-        "#loanofficer",
-        "#homebuying"
-      ],
-      "hook_tag": "MERCADOS DE CAPITALES",
-      "hook": "Consolidar la infraestructura de Fannie y Freddie arriesga opciones crediticias.",
-      "what_happened_heading": "La noticia",
-      "what_happened": "Un inversionista propuso colocar a Fannie Mae y Freddie Mac bajo una misma empresa matriz que cotice en bolsa. El plan afirma que ambas empresas patrocinadas por el gobierno (GSE) competirían mientras comparten su infraestructura operativa.",
-      "breakdown": [
-        {
-          "heading": "El plan de infraestructura compartida",
-          "body": "La propuesta sostiene que compartir la costosa infraestructura de procesamiento reduce costos. En papel, una sola propiedad optimiza la operación manteniendo la competencia comercial."
-        },
-        {
-          "heading": "La ilusión de la competencia",
-          "body": "La verdadera competencia entre GSEs ocurre en los detalles de sus guías. Si una entidad controla la infraestructura, los motores de evaluación terminarán unificándose."
-        },
-        {
-          "heading": "La perspectiva del asesor",
-          "body": "Esto cambia las cosas en la evaluación. Los oficiales de préstamos aprovechan las diferencias entre motores automatizados cuando un caso complejo es rechazado por una agencia."
-        },
-        {
-          "heading": "Pérdida de flexibilidad",
-          "body": "Cuando Fannie rechaza reservas o relaciones de deuda, Freddie suele aprobarlas. Homogeneizar la infraestructura amenaza la flexibilidad que los originadores necesitan para cerrar negocios."
-        }
-      ],
-      "my_take_heading": "Las guías requieren independencia",
-      "my_take": "Fusionar la infraestructura operativa inevitablemente fusionará las guías. Cuando las agencias comparten el mismo cerebro, los originadores pierden la flexibilidad exacta necesaria para salvar préstamos difíciles.",
-      "action_lo": "Domine ahora las diferencias en las guías de los sistemas automatizados para estructurar con éxito préstamos complejos.",
-      "action_realtor": "Trabaje con prestamistas que procesen evaluaciones automatizadas dobles para salvar a compradores rechazados por una sola agencia.",
-      "cta_question": "¿Cree que compartir la infraestructura mantendría la competencia o terminaría unificando las reglas de evaluación automatizada?"
-    },
-    {
-      "slug": "better-coinbase-crypto-mortgages",
-      "title": "La verdadera estrategia detrás de la alianza de Better con cripto",
-      "source": "National Mortgage Professional",
-      "source_url": "https://nationalmortgageprofessional.com/news/better-turns-coinbase-partnership-mortgage-lead-channel",
-      "cover_text": "Las hipotecas cripto son captación de clientes",
-      "caption": "La última jugada de Better no busca especular con criptomonedas, sino dominar la captación directa de clientes. Better Mortgage y Coinbase ampliaron a nivel nacional su programa de hipotecas respaldadas por tokens, permitiendo que propietarios de activos digitales garanticen sus préstamos. Mientras la mayoría se enfoca en bitcoin, los expertos ven la verdadera estrategia: distribución financiera integrada. Al aliarse directamente con custodios de activos, Better accede a prestatarios de alto patrimonio sin gastar en generación tradicional de prospectos. Sin embargo, en la evaluación, respaldar activos digitales exige una estricta verificación de depósito (confirmando saldos líquidos) y coberturas de volatilidad. Los prestamistas que dependen de prospección tradicional sufrirán frente a competidores integrados directamente en plataformas financieras.\n\nFuente : https://tinyurl.com/2aolempn\n#SafetrustMortgage #MortgageIntelligenceDaily #mortgagebroker #loanofficer #realestateinvesting",
+      "source_url": "https://nationalmortgageprofessional.com/news/prosperity-retain-msrs-40-agency-eligible-originations",
+      "cover_text": "Los prestamistas retienen la administración de préstamos",
+      "caption": "Vender los derechos de administración de hipotecas genera efectivo rápido, pero retenerlos protege a sus clientes. Prosperity Home Mortgage mantendrá los derechos de servicio en el 40 por ciento de sus originaciones elegibles por agencias bajo su matriz HomeServices of America. Controlar el servicio transforma una transacción única en una relación de varios años. Al conservar el servicio, el prestamista asegura acceso directo a futuros ciclos de refinanciación sin gastar dinero en prospectos externos. En la evaluación de riesgo, retener el portafolio enfoca la atención en la calidad del expediente a largo plazo y el cumplimiento posterior al cierre, porque el riesgo de recompra permanece en el balance general. ¿Está construyendo una protección a largo plazo o vendiendo su base de datos?\n\nFuente : https://tinyurl.com/2469k7l8\n#SafetrustMortgage #MortgageIntelligenceDaily #mortgagebroker #loanofficer #realestateinvesting",
       "hashtags": [
         "#SafetrustMortgage",
         "#MortgageIntelligenceDaily",
@@ -226,33 +226,33 @@
         "#loanofficer",
         "#realestateinvesting"
       ],
-      "hook_tag": "ESTRATEGIA Y ORIGINACIÓN",
-      "hook": "La nueva hipoteca cripto de Better no se trata de bitcoin.",
-      "what_happened_heading": "La noticia",
-      "what_happened": "Better Mortgage amplió su alianza con Coinbase para ofrecer hipotecas respaldadas por tokens a nivel nacional. El programa se dirige a inversionistas de criptomonedas mientras crea un canal directo de captación de prestatarios.",
+      "hook_tag": "ESTRATEGIA DE INTEGRACIÓN VERTICAL",
+      "hook": "Retener la administración de préstamos es la mejor estrategia de retención.",
+      "what_happened_heading": "Cambio en la estrategia de administración",
+      "what_happened": "Prosperity Home Mortgage retendrá los derechos de administración en el 40 por ciento de sus préstamos elegibles por agencias. Su empresa matriz, HomeServices of America, extiende su modelo integrado más allá del cierre.",
       "breakdown": [
         {
-          "heading": "El prestatario digital",
-          "body": "Better utiliza la integración con criptomonedas para crear nuevos canales de distribución. Captan compradores de alto patrimonio directamente en las plataformas donde mantienen sus activos."
+          "heading": "Plan de retención de administración",
+          "body": "Prosperity Home Mortgage anunció planes para retener los derechos de servicio hipotecario en aproximadamente el 40 por ciento de los préstamos convencionales elegibles."
         },
         {
-          "heading": "Mecanismo del respaldo",
-          "body": "Garantizar con cripto permite obtener financiamiento sin liquidar activos digitales. Esto evita impuestos sobre ganancias de capital mientras aprovecha el patrimonio de portafolios modernos."
+          "heading": "Integración vertical",
+          "body": "HomeServices of America expande su modelo inmobiliario, manteniendo relaciones con los clientes mucho después de la transferencia del título y el cierre."
         },
         {
-          "heading": "La perspectiva del asesor",
-          "body": "Esto cambia la evaluación del préstamo. Los asesores deben verificar rigurosamente la titularidad de los activos, la seguridad de la plataforma y los márgenes de volatilidad."
+          "heading": "El lente del asesor",
+          "body": "Al evaluar el crédito, retener el servicio exige un control de calidad impecable tras el cierre, pues el riesgo de recompra permanece en el balance."
         },
         {
-          "heading": "El cambio en distribución",
-          "body": "La captación tradicional depende de listas compradas y publicidad. Asociarse directamente con custodios de activos crea una fuente exclusiva de clientes fuera del alcance de la competencia."
+          "heading": "Valor del portafolio",
+          "body": "Mantener la administración genera flujo de caja recurrente y asegura primera posición para futuras refinanciaciones sin gastar en la compra de nuevos prospectos."
         }
       ],
-      "my_take_heading": "La distribución supera a la tasa",
-      "my_take": "La estrategia hipotecaria ganadora no consiste en ofrecer tasas más bajas. Consiste en integrar la originación de préstamos directamente dentro de las plataformas donde los clientes gestionan su riqueza.",
-      "action_lo": "Identifique clientes con activos no tradicionales en su mercado y aprenda cómo aplican las reglas de documentación de activos no convenientes.",
-      "action_realtor": "Atraiga a compradores tecnológicos mediante estrategias que utilicen su patrimonio digital sin exigir la liquidación de activos para el pago inicial.",
-      "cta_question": "¿Cree que las alianzas de finanzas integradas reemplazarán las referencias tradicionales de agentes inmobiliarios para compradores tecnológicos?"
+      "my_take_heading": "La protección del servicio",
+      "my_take": "Los márgenes de originación disminuyen, pero retener la administración crea una ventaja permanente. Controle la relación con el cliente y controlará las refinanciaciones futuras.",
+      "action_lo": "Aproveche la estabilidad del servicio interno al presentar alianzas inmobiliarias sobre la retención de clientes.",
+      "action_realtor": "Asóciese con prestamistas que retengan la administración para garantizar la atención del cliente a largo plazo.",
+      "cta_question": "¿Su empresa retiene los derechos de administración o vende la relación con el cliente?"
     }
   ]
 }
