@@ -1,258 +1,258 @@
 {
   "carousels": [
     {
-      "slug": "smaller-homes-mortgage-affordability",
-      "title": "Why Shrinking Home Sizes Won't Solve Affordability",
-      "source": "National Mortgage Professional",
-      "source_url": "https://nationalmortgageprofessional.com/news/builders-shrink-homes-affordability-keeps-slipping",
-      "cover_text": "Smaller Homes Will Not Fix Mortgage Affordability",
-      "caption": "Builders are shrinking square footage, but buyers are not getting real relief. Census data shows average new single-family homes dropped 11.6 percent over ten years to 2,409 square feet. Yet monthly housing payments remain locked near historic highs. Cutting physical space does not alter basic market dynamics when land and labor costs stay elevated. From an underwriting perspective, smaller floor plans mean appraisers face higher price-per-square-foot ratios, making comparable sales harder to justify. If builders want to capture buyers today, rate buydowns and concession packages will move inventory much faster than removing three hundred square feet from a floor plan. What are you seeing in your local market?\n\nSource : https://tinyurl.com/2a76qwj7\n#SafetrustMortgage #MortgageIntelligenceDaily #housingmarket #firsttimehomebuyer #loanofficer",
-      "hashtags": [
-        "#SafetrustMortgage",
-        "#MortgageIntelligenceDaily",
-        "#housingmarket",
-        "#firsttimehomebuyer",
-        "#loanofficer"
-      ],
-      "hook_tag": "NEW CONSTRUCTION MATH",
-      "hook": "Shrinking house sizes will not lower buyer payments enough to matter.",
-      "what_happened_heading": "The Size Shift",
-      "what_happened": "Builders have reduced average new home sizes by 11.6 percent over ten years to 2,409 square feet. Despite building smaller floor plans, homebuyer affordability continues to fall across the country.",
-      "breakdown": [
-        {
-          "heading": "A Decade of Trimming",
-          "body": "Census data analyzed by LendingTree shows average new single-family homes dropped from 2,724 square feet in 2015 down to 2,409 square feet in 2025."
-        },
-        {
-          "heading": "Cost Per Square Foot",
-          "body": "Cutting square footage reduces baseline construction costs for home builders. However, land, labor, and materials expenses keep pushing final sales prices out of reach."
-        },
-        {
-          "heading": "The Underwriter Lens",
-          "body": "Here is what this actually changes when a file hits underwriting: smaller square footage forces higher cost-per-square-foot appraisal comps, triggering strict valuation reviews."
-        },
-        {
-          "heading": "Payment Reality",
-          "body": "Trimming three hundred square feet does not solve high monthly payments. Borrowers still face severe debt-to-income (ratio of monthly debt to gross income) pressure."
-        }
-      ],
-      "my_take_heading": "The Hard Truth",
-      "my_take": "Builders cannot shrink their way out of a high-cost environment. Cutting square footage without lowering price per foot just gives buyers less asset for the same monthly burden.",
-      "action_lo": "Educate buyers on cost-per-square-foot appraisal risks before they sign builder contracts.",
-      "action_realtor": "Target builders offering permanent rate buydowns rather than just smaller footprint floor plans.",
-      "cta_question": "Are your buyers willing to trade square footage for lower monthly payments?"
-    },
-    {
-      "slug": "foreclosure-filings-july-attom",
-      "title": "What Rising REOs Mean for Mortgage Underwriting",
+      "slug": "fha-classic-fico-january-update",
+      "title": "FHA Keeps Classic FICO for 2026 Rollout",
       "source": "HousingWire",
-      "source_url": "https://www.housingwire.com/articles/foreclosure-filings-july-attom/",
-      "cover_text": "Foreclosure Filings and REO Properties Are Climbing",
-      "caption": "Bank repossessions are climbing even as overall foreclosure inventory looks manageable. ATTOM reported 39,906 foreclosure filings in July, up 10 percent year-over-year. More importantly, bank-owned REO properties surged 23 percent compared to July 2025. When distressed loans move all the way to bank repossession, it signals that home equity buffers are no longer rescuing every struggling borrower. In underwriting, rising default activity triggers tighter appraisal guidelines and closer scrutiny on property condition overlays. Originators need to scrutinize borrower reserve requirements early, while realtors should prepare clients for bank-owned purchase contract addendums. How is your team adjusting to shifting distress metrics?\n\nSource : https://tinyurl.com/27hy8xuc\n#SafetrustMortgage #MortgageIntelligenceDaily #mortgagebroker #realestateagent #housingmarket",
-      "hashtags": [
-        "#SafetrustMortgage",
-        "#MortgageIntelligenceDaily",
-        "#mortgagebroker",
-        "#realestateagent",
-        "#housingmarket"
-      ],
-      "hook_tag": "DISTRESSED PROPERTY TRENDS",
-      "hook": "Rising bank repossessions reveal structural pressure beneath stable surface numbers.",
-      "what_happened_heading": "July Foreclosure Data",
-      "what_happened": "ATTOM reported 39,906 foreclosure filings in July, marking a 10 percent annual increase. Bank-owned repossessions spiked 23 percent compared to July 2025 figures.",
-      "breakdown": [
-        {
-          "heading": "Monthly and Yearly Tracking",
-          "body": "Foreclosure filings rose 1 percent from June to July, reaching 39,906 total properties according to ATTOM data."
-        },
-        {
-          "heading": "The REO Surge",
-          "body": "REOs (real estate owned by banks) jumped 23 percent year-over-year, indicating more defaulted properties are completing the foreclosure process."
-        },
-        {
-          "heading": "The Underwriter Lens",
-          "body": "Here is what this actually changes when a file hits underwriting: appraisers face stricter scrutiny on comparable sales in neighborhoods showing increased bank-owned properties."
-        },
-        {
-          "heading": "Servicing Reality",
-          "body": "Rising repossession numbers mean default servicing teams face operational bottlenecks while lenders review credit policy risk profiles on new originations."
-        }
-      ],
-      "my_take_heading": "The Repossession Signal",
-      "my_take": "A 23 percent jump in REOs shows equity buffers are no longer rescuing every struggling homeowner. Default servicing capacity will test lender operations.",
-      "action_lo": "Audit pipeline files for non-occupant co-signers and tight reserve requirements early.",
-      "action_realtor": "Prepare buyers for bank-owned purchase addendums and strict property condition requirements.",
-      "cta_question": "How is your team preparing for shifts in distressed inventory?"
-    },
-    {
-      "slug": "prosperity-retains-msrs-servicing-strategy",
-      "title": "Why Retaining Servicing Builds a Database Moat",
-      "source": "National Mortgage Professional",
-      "source_url": "https://nationalmortgageprofessional.com/news/prosperity-retain-msrs-40-agency-eligible-originations",
-      "cover_text": "Lenders Retain Servicing To Control Borrower Relationships",
-      "caption": "Selling off mortgage servicing rights might generate quick cash, but retaining them protects your client base. Prosperity Home Mortgage is keeping servicing rights on 40 percent of its agency-eligible originations under parent company HomeServices of America. Controlling servicing transforms a single closing transaction into a multi-year customer relationship. When a lender holds the servicing, they secure direct access to future refinance cycles without spending money on external lead generation. In underwriting, portfolio servicing retention shifts focus toward long-term file quality and post-closing compliance because repurchase risk remains on the balance sheet. Are you building a long-term servicing moat or selling your database?\n\nSource : https://tinyurl.com/2469k7l8\n#SafetrustMortgage #MortgageIntelligenceDaily #mortgagebroker #loanofficer #realestateinvesting",
+      "source_url": "https://www.housingwire.com/articles/fha-credit-score-january-launch/",
+      "cover_text": "FHA FICO Update: What Changes in January",
+      "caption": "FHA is keeping Classic FICO (the traditional credit score system) as it introduces new credit scoring models this coming January, but there is a major catch for mortgage lenders. FHA expects strict loan-level consistency, meaning originators cannot mix and match scoring models across credit bureaus to get a higher borrower score on a single transaction. For underwriting teams and mortgage executives, this decision keeps automated underwriting system evaluation stable while eliminating post-closing audit risk. Originators who were hoping dual-scoring models would instantly solve debt ratio challenges will need to adjust their strategy. Model consistency keeps file reviews clean, but technology vendors must be configured properly before January hits. Here is what this shift changes for your file flow, compliance standards, and pipeline strategy.\n\nSource : https://tinyurl.com/22ykndoo\n#SafetrustMortgage #MortgageIntelligenceDaily #mortgagebroker #loanofficer #firsttimehomebuyer",
       "hashtags": [
         "#SafetrustMortgage",
         "#MortgageIntelligenceDaily",
         "#mortgagebroker",
         "#loanofficer",
-        "#realestateinvesting"
+        "#firsttimehomebuyer"
       ],
-      "hook_tag": "VERTICAL INTEGRATION STRATEGY",
-      "hook": "Retaining loan servicing is the ultimate long-term borrower retention play.",
-      "what_happened_heading": "Servicing Strategy Shift",
-      "what_happened": "Prosperity Home Mortgage will retain servicing rights on 40 percent of its agency-eligible loans. Parent company HomeServices of America is extending its vertically integrated model past closing.",
+      "hook_tag": "CREDIT POLICY",
+      "hook": "Why FHA keeping Classic FICO is a massive win for underwriters.",
+      "what_happened_heading": "The News",
+      "what_happened": "FHA is expected to keep Classic FICO (the traditional credit score model) when it introduces new credit models in January. Lenders expect that model consistency will be strictly required at the individual loan level.",
       "breakdown": [
         {
-          "heading": "Servicing Retention Plan",
-          "body": "Prosperity Home Mortgage announced plans to retain mortgage servicing rights on approximately 40 percent of agency-eligible conventional loans."
+          "heading": "The January Shift",
+          "body": "FHA is rolling out new credit scoring options in January. However, Classic FICO (the traditional credit scoring system) is remaining in place."
         },
         {
-          "heading": "Vertical Integration",
-          "body": "HomeServices of America is expanding its real estate model, keeping customer relationships long after title transfer and closing."
+          "heading": "Loan-Level Consistency",
+          "body": "Lenders expect FHA to mandate model consistency per file. Originators cannot mix scoring models across different credit bureaus for the same borrower."
         },
         {
-          "heading": "The Underwriter Lens",
-          "body": "Here is what this actually changes when a file hits underwriting: retained servicing requires pristine post-closing QC (quality control) because loan repurchase risk stays on balance sheet."
+          "heading": "Underwriter Perspective",
+          "body": "Here is what this actually changes when a file hits underwriting: single-model rules stop loan officers from score-shopping across bureaus, keeping automated underwriting system guidelines clean."
         },
         {
-          "heading": "Portfolio Value",
-          "body": "Holding servicing generates recurring cash flow and secures first position for future refinance opportunities without acquiring external leads."
+          "heading": "Operational Impact",
+          "body": "Enforcing model consistency protects lenders from post-closing audit risk. Operations teams will not need to recalculate debt ratios under competing score standards."
         }
       ],
-      "my_take_heading": "The Servicing Moat",
-      "my_take": "Origination margins thin out, but retaining servicing builds a permanent moat. Control the customer relationship, control the future refinance pipeline.",
-      "action_lo": "Leverage in-house servicing stability when pitching real estate partners on borrower retention.",
-      "action_realtor": "Partner with lenders who retain servicing to ensure long-term client care after closing.",
-      "cta_question": "Is your firm retaining servicing rights or selling off the customer relationship?"
+      "my_take_heading": "The Real Take",
+      "my_take": "Maintaining Classic FICO alongside new models prevents originators from gaming credit pulls, keeping underwriting predictable during a major policy transition.",
+      "action_lo": "Audit your credit vendor integration now to ensure your pull setup enforces single-model consistency before January.",
+      "action_realtor": "Educate buyers that credit score changes will not suddenly lower FHA qualifications or create shortcut approvals overnight.",
+      "cta_question": "Will loan-level model consistency simplify your pipeline or create operational bottlenecks in January?"
+    },
+    {
+      "slug": "inventory-up-contracts-down-buydowns",
+      "title": "Rising Inventory Opens Window for Seller Buydowns",
+      "source": "National Mortgage Professional",
+      "source_url": "https://nationalmortgageprofessional.com/news/more-listings-fewer-contracts-put-rate-buydowns-play",
+      "cover_text": "Listings Rise, Contracts Fall: Time for Buydowns",
+      "caption": "New inventory reached its highest level since April with new listings up 0.4 percent and active listings up 0.5 percent, but buyer contract activity is lagging behind. This gap gives sharp originators and realtors immediate leverage to structure seller-funded rate buydowns before broader affordability shifts occur across local markets. Instead of encouraging sellers to slash list prices—which damages neighborhood comparable sales—originators can use seller dollars to temporarily reduce the buyer's payment. This lowers the buyer's initial DTI (debt-to-income ratio) while keeping transaction valuation intact for appraisal review. Negotiating buydowns gives buyers immediate relief while preserving seller net equity during a market slowdown. Here is how to structure buydowns over price cuts to convert stalled listings into signed contracts.\n\nSource : https://tinyurl.com/2xnyduua\n#SafetrustMortgage #MortgageIntelligenceDaily #housingmarket #realestateagent #mortgagerates",
+      "hashtags": [
+        "#SafetrustMortgage",
+        "#MortgageIntelligenceDaily",
+        "#housingmarket",
+        "#realestateagent",
+        "#mortgagerates"
+      ],
+      "hook_tag": "MARKET STRATEGY",
+      "hook": "Fewer buyer contracts mean seller buydowns are officially back in play.",
+      "what_happened_heading": "The News",
+      "what_happened": "New listings rose 0.4 percent over four weeks ending August 23 to their highest level since April, while active listings grew 0.5 percent. With contract signings slowing down, originators have a prime window to negotiate seller concessions.",
+      "breakdown": [
+        {
+          "heading": "Listing Surge",
+          "body": "Seasonally adjusted new listings hit their highest point since April. Active inventory grew 0.5 percent as homes sat longer without pending contracts."
+        },
+        {
+          "heading": "Leverage Shifts",
+          "body": "Fewer signed contracts mean sellers must compete for buyers. This creates immediate leverage to request seller-paid financing assistance."
+        },
+        {
+          "heading": "Underwriter Perspective",
+          "body": "Here is what this actually changes when a file hits underwriting: temporary buydowns lower qualifying DTI (debt-to-income ratio) while keeping transaction loan-to-value clean."
+        },
+        {
+          "heading": "Strategic Pricing",
+          "body": "Applying seller concessions toward rate buydowns protects property comps (comparable sales) while lowering monthly payments for cash-conscious buyers."
+        }
+      ],
+      "my_take_heading": "The Real Take",
+      "my_take": "Price drops destroy neighborhood valuation, but seller-funded rate buydowns solve buyer affordability while keeping closing prices intact.",
+      "action_lo": "Run side-by-side comparisons showing buyers the payment difference between a price cut and a seller-paid rate buydown.",
+      "action_realtor": "Pitch seller concessions for rate buydowns on stale listings instead of taking immediate listing price reductions.",
+      "cta_question": "Are your originators actively structuring seller buydowns, or are sellers still defaulting to price cuts?"
+    },
+    {
+      "slug": "velocity-acquires-toorak-dscr-platform",
+      "title": "Velocity Buys Toorak Platform Without $3B Portfolio",
+      "source": "National Mortgage Professional",
+      "source_url": "https://nationalmortgageprofessional.com/news/velocity-add-tooraks-dscr-and-bridge-lending-platform",
+      "cover_text": "Velocity Buys Toorak Platform: What It Means",
+      "caption": "Velocity Financial is acquiring Toorak Capital's operating platform, expanding its business-purpose lending footprint and projecting a massive 76 percent boost in annual origination volume. But the most important detail for mortgage executives isn't the volume growth—it is what Velocity left behind: Toorak's 3 billion dollar existing loan portfolio. By acquiring only the operational infrastructure, direct retail distribution, and expanded DSCR (debt service coverage ratio) product menu, Velocity gains massive distribution scale without acquiring legacy credit risk. In today's high-rate environment, non-QM and investor lending growth hinges on platform efficiency and investor distribution rather than holding balance sheet debt. Here is why acquiring operational scale over portfolio assets is becoming the new playbook for independent mortgage lenders.\n\nSource : https://tinyurl.com/25mlskrg\n#SafetrustMortgage #MortgageIntelligenceDaily #realestateinvesting #mortgagebroker #loanofficer",
+      "hashtags": [
+        "#SafetrustMortgage",
+        "#MortgageIntelligenceDaily",
+        "#realestateinvesting",
+        "#mortgagebroker",
+        "#loanofficer"
+      ],
+      "hook_tag": "M&A ANALYSIS",
+      "hook": "Why Velocity bought Toorak's platform but left $3B in loans behind.",
+      "what_happened_heading": "The News",
+      "what_happened": "Velocity Financial is acquiring Toorak Capital’s operating platform to expand its business-purpose lending presence. The deal boosts Velocity's annual originations by 76 percent but explicitly excludes Toorak’s 3 billion dollar loan portfolio.",
+      "breakdown": [
+        {
+          "heading": "Massive Scale Surge",
+          "body": "Acquiring Toorak's operational engine increases Velocity's annual origination volume by 76 percent while immediately adding a direct retail distribution channel."
+        },
+        {
+          "heading": "Menu Expansion",
+          "body": "The acquisition expands Velocity's offerings in DSCR (debt service coverage ratio - investor cash flow ratio) loans and bridge financing while expanding fee-based revenue."
+        },
+        {
+          "heading": "Underwriter Perspective",
+          "body": "Here is what this actually changes when a file hits underwriting: platform integration scales underwriting capacity without introducing balance sheet risk from existing debt."
+        },
+        {
+          "heading": "Leaving the Portfolio",
+          "body": "By refusing Toorak's $3 billion legacy loan portfolio, Velocity buys operational infrastructure and market share without acquiring potential credit default risk."
+        }
+      ],
+      "my_take_heading": "The Real Take",
+      "my_take": "Smart M&A in non-QM lending is about acquiring origination capacity and distribution channels, not taking on legacy portfolio credit risk.",
+      "action_lo": "Prepare for broader investor product menus by learning DSCR (debt service coverage ratio) investor cash flow guidelines.",
+      "action_realtor": "Partner with investor-focused lenders as institutional platforms consolidate and expand bridge and DSCR financing options.",
+      "cta_question": "Is scale in non-QM better achieved through platform acquisition or organic channel expansion in today's market?"
     }
   ],
   "carousels_es": [
     {
-      "slug": "smaller-homes-mortgage-affordability",
-      "title": "Por qué reducir el tamaño de las casas no resolverá la asequibilidad",
-      "source": "National Mortgage Professional",
-      "source_url": "https://nationalmortgageprofessional.com/news/builders-shrink-homes-affordability-keeps-slipping",
-      "cover_text": "Casas más pequeñas no arreglarán la asequibilidad hipotecaria",
-      "caption": "Los constructores reducen el tamaño de las viviendas, pero los compradores no reciben un alivio real. Datos del Censo muestran que las casas unifamiliares nuevas cayeron un 11.6 por ciento en diez años a 2,409 pies cuadrados. Sin embargo, los pagos mensuales de vivienda permanecen cerca de máximos históricos. Reducir el espacio físico no altera la dinámica del mercado cuando los costos de terreno y mano de obra siguen elevados. Desde la perspectiva de la evaluación de riesgo, los planos más pequeños significan que los tasadores enfrentan relaciones de precio por pie cuadrado más altas, complicando la justificación de ventas comparables. Si los constructores quieren atraer compradores hoy, las reducciones de tasa de interés y las concesiones moverán el inventario mucho más rápido que quitar trescientos pies cuadrados a un plano. ¿Qué observa usted en su mercado local?\n\nFuente : https://tinyurl.com/2a76qwj7\n#SafetrustMortgage #MortgageIntelligenceDaily #housingmarket #firsttimehomebuyer #loanofficer",
-      "hashtags": [
-        "#SafetrustMortgage",
-        "#MortgageIntelligenceDaily",
-        "#housingmarket",
-        "#firsttimehomebuyer",
-        "#loanofficer"
-      ],
-      "hook_tag": "CÁLCULO DE NUEVA CONSTRUCCIÓN",
-      "hook": "Reducir el tamaño de la casa no bajará los pagos lo suficiente.",
-      "what_happened_heading": "El cambio de tamaño",
-      "what_happened": "Los constructores han reducido el tamaño promedio de las viviendas nuevas en un 11.6 por ciento durante diez años a 2,409 pies cuadrados. A pesar de construir planos más pequeños, la asequibilidad para los compradores sigue cayendo en todo el país.",
-      "breakdown": [
-        {
-          "heading": "Una década de recortes",
-          "body": "Datos del Censo analizados por LendingTree muestran que las casas unifamiliares pasaron de 2,724 pies cuadrados en 2015 a 2,409 pies cuadrados en 2025."
-        },
-        {
-          "heading": "Costo por pie cuadrado",
-          "body": "Reducir pies cuadrados baja los costos base de construcción. Sin embargo, los gastos de terreno, mano de obra y materiales siguen elevando los precios finales."
-        },
-        {
-          "heading": "El lente del asesor",
-          "body": "Esto cambia al evaluar el crédito: menos pies cuadrados fuerzan comparables de avalúo con mayor costo por pie cuadrado, generando revisiones de valoración más estrictas."
-        },
-        {
-          "heading": "La realidad del pago",
-          "body": "Recortar trescientos pies cuadrados no resuelve los pagos mensuales altos. Los prestatarios aún enfrentan una severa presión en su relación deuda-ingreso (DTI)."
-        }
-      ],
-      "my_take_heading": "La dura realidad",
-      "my_take": "Los constructores no pueden superar los altos costos reduciendo espacio. Cortar pies cuadrados sin bajar el precio por pie da al comprador menos activo por la misma carga mensual.",
-      "action_lo": "Eduque a los compradores sobre los riesgos de avalúo por pie cuadrado antes de firmar contratos con constructores.",
-      "action_realtor": "Enfóquese en constructores que ofrezcan reducciones permanentes de tasa en lugar de planos más pequeños.",
-      "cta_question": "¿Están sus compradores dispuestos a sacrificar espacio por un pago mensual más bajo?"
-    },
-    {
-      "slug": "foreclosure-filings-july-attom",
-      "title": "Qué significan las ejecuciones hipotecarias en aumento para la evaluación de crédito",
+      "slug": "fha-classic-fico-january-update",
+      "title": "FHA Keeps Classic FICO for 2026 Rollout",
       "source": "HousingWire",
-      "source_url": "https://www.housingwire.com/articles/foreclosure-filings-july-attom/",
-      "cover_text": "Las ejecuciones hipotecarias y propiedades REO están aumentando",
-      "caption": "Las adjudicaciones bancarias aumentan aunque el inventario general de ejecuciones parezca manejable. ATTOM reportó 39,906 solicitudes de ejecución hipotecaria en julio, un 10 por ciento más interanual. Más importante aún, las propiedades en posesión de bancos (REO) aumentaron un 23 por ciento en comparación con julio de 2025. Cuando los préstamos problemáticos llegan a la adjudicación bancaria, indica que el capital de la vivienda ya no rescata a todos los prestatarios con dificultades. En la evaluación de riesgo, el aumento de morosidad activa pautas de avalúo más estrictas. Los originadores deben verificar las reservas del prestatario desde el principio, mientras que los agentes inmobiliarios deben preparar a los clientes para los anexos de compra de propiedades bancarias. ¿Cómo se adapta su equipo a estas métricas?\n\nFuente : https://tinyurl.com/27hy8xuc\n#SafetrustMortgage #MortgageIntelligenceDaily #mortgagebroker #realestateagent #housingmarket",
-      "hashtags": [
-        "#SafetrustMortgage",
-        "#MortgageIntelligenceDaily",
-        "#mortgagebroker",
-        "#realestateagent",
-        "#housingmarket"
-      ],
-      "hook_tag": "TENDENCIAS EN PROPIEDADES ADJUDICADAS",
-      "hook": "El aumento de ejecuciones bancarias revela presiones estructurales en el mercado.",
-      "what_happened_heading": "Datos de ejecuciones en julio",
-      "what_happened": "ATTOM reportó 39,906 solicitudes de ejecución hipotecaria en julio, lo que representa un aumento anual del 10 por ciento. Las ejecuciones bancarias aumentaron un 23 por ciento en comparación con las cifras de julio de 2025.",
-      "breakdown": [
-        {
-          "heading": "Seguimiento mensual y anual",
-          "body": "Las solicitudes de ejecución subieron un 1 por ciento de junio a julio, alcanzando un total de 39,906 propiedades según datos de ATTOM."
-        },
-        {
-          "heading": "El aumento de REO",
-          "body": "Las propiedades REO (propiedad del banco) aumentaron un 23 por ciento interanual, indicando que más préstamos incumplidos están completando el proceso de ejecución."
-        },
-        {
-          "heading": "El lente del asesor",
-          "body": "Esto cambia al evaluar el crédito: los tasadores enfrentan mayor rigor en ventas comparables dentro de vecindarios con un incremento de propiedades bancarias."
-        },
-        {
-          "heading": "Realidad del servicio",
-          "body": "El aumento en adjudicaciones genera cuellos de botella operativos en el servicio de préstamos mientras los prestamistas revisan los perfiles de riesgo crediticio."
-        }
-      ],
-      "my_take_heading": "La señal de las adjudicaciones",
-      "my_take": "Un salto del 23 por ciento en REOs muestra que el capital acumulado ya no salva a todos los propietarios con problemas. La capacidad de administración de morosidad pondrá a prueba las operaciones de los prestamistas.",
-      "action_lo": "Audite expedientes buscando avales no ocupantes y verifique los requisitos de reservas desde el inicio.",
-      "action_realtor": "Prepare a los compradores para anexos de compra de bienes bancarios y requisitos estrictos sobre la condición del inmueble.",
-      "cta_question": "¿Cómo se está preparando su equipo para los cambios en el inventario adjudicado?"
-    },
-    {
-      "slug": "prosperity-retains-msrs-servicing-strategy",
-      "title": "Por qué retener la administración de préstamos protege su base de datos",
-      "source": "National Mortgage Professional",
-      "source_url": "https://nationalmortgageprofessional.com/news/prosperity-retain-msrs-40-agency-eligible-originations",
-      "cover_text": "Los prestamistas retienen la administración de préstamos",
-      "caption": "Vender los derechos de administración de hipotecas genera efectivo rápido, pero retenerlos protege a sus clientes. Prosperity Home Mortgage mantendrá los derechos de servicio en el 40 por ciento de sus originaciones elegibles por agencias bajo su matriz HomeServices of America. Controlar el servicio transforma una transacción única en una relación de varios años. Al conservar el servicio, el prestamista asegura acceso directo a futuros ciclos de refinanciación sin gastar dinero en prospectos externos. En la evaluación de riesgo, retener el portafolio enfoca la atención en la calidad del expediente a largo plazo y el cumplimiento posterior al cierre, porque el riesgo de recompra permanece en el balance general. ¿Está construyendo una protección a largo plazo o vendiendo su base de datos?\n\nFuente : https://tinyurl.com/2469k7l8\n#SafetrustMortgage #MortgageIntelligenceDaily #mortgagebroker #loanofficer #realestateinvesting",
+      "source_url": "https://www.housingwire.com/articles/fha-credit-score-january-launch/",
+      "cover_text": "Actualización FHA FICO: Qué cambia en enero",
+      "caption": "La FHA mantendrá Classic FICO (el sistema tradicional de puntaje crediticio) al presentar sus nuevos modelos de crédito en enero, pero hay una condición importante para los prestamistas. La FHA exigirá una estricta consistencia a nivel de préstamo. Esto significa que los originadores no podrán combinar modelos de puntaje entre agencias de crédito para obtener un puntaje más alto en una sola transacción. Para los equipos de evaluación y ejecutivos hipotecarios, esta decisión mantiene estable la evaluación del sistema de suscripción automatizado y elimina riesgos de auditoría posterior al cierre. Quienes esperaban que los modelos dobles resolvieran de inmediato los problemas de relación deuda-ingreso deberán ajustar su estrategia. La consistencia en los modelos mantiene limpias las revisiones de archivos, pero los proveedores de tecnología deben estar configurados correctamente antes de enero. Esto es lo que este cambio significa para su flujo de archivos, estándares de cumplimiento y estrategia.\n\nFuente : https://tinyurl.com/22ykndoo\n#SafetrustMortgage #MortgageIntelligenceDaily #mortgagebroker #loanofficer #firsttimehomebuyer",
       "hashtags": [
         "#SafetrustMortgage",
         "#MortgageIntelligenceDaily",
         "#mortgagebroker",
         "#loanofficer",
-        "#realestateinvesting"
+        "#firsttimehomebuyer"
       ],
-      "hook_tag": "ESTRATEGIA DE INTEGRACIÓN VERTICAL",
-      "hook": "Retener la administración de préstamos es la mejor estrategia de retención.",
-      "what_happened_heading": "Cambio en la estrategia de administración",
-      "what_happened": "Prosperity Home Mortgage retendrá los derechos de administración en el 40 por ciento de sus préstamos elegibles por agencias. Su empresa matriz, HomeServices of America, extiende su modelo integrado más allá del cierre.",
+      "hook_tag": "POLÍTICA DE CRÉDITO",
+      "hook": "Que la FHA mantenga Classic FICO es una gran victoria.",
+      "what_happened_heading": "La Noticia",
+      "what_happened": "Se espera que la FHA mantenga Classic FICO (el modelo tradicional) al presentar nuevos modelos de crédito en enero. Los prestamistas prevén que se exigirá strictly la consistencia del modelo en cada préstamo.",
       "breakdown": [
         {
-          "heading": "Plan de retención de administración",
-          "body": "Prosperity Home Mortgage anunció planes para retener los derechos de servicio hipotecario en aproximadamente el 40 por ciento de los préstamos convencionales elegibles."
+          "heading": "El Cambio de Enero",
+          "body": "La FHA presentará nuevas opciones de puntaje crediticio en enero. Sin embargo, Classic FICO (el sistema de puntaje crediticio tradicional) se mantendrá vigente."
         },
         {
-          "heading": "Integración vertical",
-          "body": "HomeServices of America expande su modelo inmobiliario, manteniendo relaciones con los clientes mucho después de la transferencia del título y el cierre."
+          "heading": "Consistencia por Préstamo",
+          "body": "Los prestamistas prevén que la FHA exigirá consistencia de modelo por archivo. Los originadores no podrán combinar modelos de puntaje entre distintas agencias de crédito."
         },
         {
-          "heading": "El lente del asesor",
-          "body": "Al evaluar el crédito, retener el servicio exige un control de calidad impecable tras el cierre, pues el riesgo de recompra permanece en el balance."
+          "heading": "Perspectiva del Asesor",
+          "body": "Esto cambia cuando el archivo llega al asesor: la regla de un solo modelo evita buscar puntajes ventajosos y mantiene limpias las pautas automatizadas."
         },
         {
-          "heading": "Valor del portafolio",
-          "body": "Mantener la administración genera flujo de caja recurrente y asegura primera posición para futuras refinanciaciones sin gastar en la compra de nuevos prospectos."
+          "heading": "Impacto Operativo",
+          "body": "Exigir consistencia en el modelo protege a los prestamistas contra auditorías tras el cierre. Los equipos de operaciones no recalcularán deudas bajo estándares opuestos."
         }
       ],
-      "my_take_heading": "La protección del servicio",
-      "my_take": "Los márgenes de originación disminuyen, pero retener la administración crea una ventaja permanente. Controle la relación con el cliente y controlará las refinanciaciones futuras.",
-      "action_lo": "Aproveche la estabilidad del servicio interno al presentar alianzas inmobiliarias sobre la retención de clientes.",
-      "action_realtor": "Asóciese con prestamistas que retengan la administración para garantizar la atención del cliente a largo plazo.",
-      "cta_question": "¿Su empresa retiene los derechos de administración o vende la relación con el cliente?"
+      "my_take_heading": "El Análisis Real",
+      "my_take": "Mantener Classic FICO junto a los nuevos modelos evita que los originadores manipulen las consultas de crédito. Esto mantiene predecible la evaluación durante esta importante transición de políticas.",
+      "action_lo": "Audite ahora la integración con su proveedor de crédito para asegurar la consistencia de modelo único antes de enero.",
+      "action_realtor": "Eduque a los compradores: los cambios en puntajes de crédito no reducirán de inmediato las calificaciones FHA ni crearán atajos de aprobación.",
+      "cta_question": "¿La consistencia de modelos simplificará su trabajo o creará cuellos de botella operativos en enero?"
+    },
+    {
+      "slug": "inventory-up-contracts-down-buydowns",
+      "title": "Rising Inventory Opens Window for Seller Buydowns",
+      "source": "National Mortgage Professional",
+      "source_url": "https://nationalmortgageprofessional.com/news/more-listings-fewer-contracts-put-rate-buydowns-play",
+      "cover_text": "Más propiedades, menos contratos: momento de reducciones",
+      "caption": "El nuevo inventario alcanzó su nivel más alto desde abril, pero la firma de contratos de compradores se está retrasando. Esta brecha da a originadores y agentes inmobiliarios la oportunidad de estructurar reducciones de tasa (buydowns) financiadas por vendedores antes de que cambie la asequibilidad local. En lugar de pedir a los vendedores que bajen precios, lo que daña las ventas comparables del vecindario, los originadores pueden usar fondos del vendedor para reducir temporalmente el pago del comprador. Esto baja la relación deuda-ingreso (DTI) inicial del comprador y mantiene intacta la valoración para el avalúo. Negociar reducciones de tasa ofrece alivio inmediato al comprador y protege la ganancia del vendedor durante una desaceleración del mercado. Así puede estructurar reducciones de tasa en lugar de cortes de precio para convertir propiedades estancadas en contratos firmados.\n\nFuente : https://tinyurl.com/2xnyduua\n#SafetrustMortgage #MortgageIntelligenceDaily #housingmarket #realestateagent #mortgagerates",
+      "hashtags": [
+        "#SafetrustMortgage",
+        "#MortgageIntelligenceDaily",
+        "#housingmarket",
+        "#realestateagent",
+        "#mortgagerates"
+      ],
+      "hook_tag": "ESTRATEGIA DE MERCADO",
+      "hook": "Menos contratos firmados significan que las reducciones de tasa regresaron.",
+      "what_happened_heading": "La Noticia",
+      "what_happened": "Las nuevas propiedades en venta subieron un 0.4 por ciento hacia el 23 de agosto, alcanzando su punto más alto desde abril, mientras el inventario activo creció 0.5 por ciento. Con la desaceleración de contratos, los originadores tienen una gran oportunidad para negociar concesiones del vendedor.",
+      "breakdown": [
+        {
+          "heading": "Aumento de Inventario",
+          "body": "Las nuevas propiedades alcanzaron su nivel más alto desde abril. El inventario activo creció 0.5 por ciento porque las casas pasan más tiempo sin contratos pendientes."
+        },
+        {
+          "heading": "Cambio en la Negociación",
+          "body": "Menos contratos firmados obligan a los vendedores a competir por compradores. Esto crea una oportunidad inmediata para solicitar ayuda financiera pagada por el vendedor."
+        },
+        {
+          "heading": "Perspectiva del Asesor",
+          "body": "Al llegar al asesor, las reducciones temporales bajan la relación deuda-ingreso (DTI) necesaria para calificar, manteniendo limpia la relación préstamo-valor del expediente."
+        },
+        {
+          "heading": "Precios Estratégicos",
+          "body": "Usar concesiones del vendedor para reducir la tasa protege las ventas comparables del área y reduce los pagos mensuales de compradores enfocados en el costo."
+        }
+      ],
+      "my_take_heading": "El Análisis Real",
+      "my_take": "Bajar precios destruye las comparables del vecindario. En cambio, las reducciones de tasa pagadas por el vendedor resuelven la asequibilidad del comprador manteniendo intactos los precios finales de venta.",
+      "action_lo": "Presente comparaciones detalladas a los compradores mostrando la diferencia de pago entre bajar el precio y una reducción de tasa pagada por el vendedor.",
+      "action_realtor": "Proponga concesiones del vendedor para reducciones de tasa en propiedades estancadas, en lugar de reducir el precio de lista de inmediato.",
+      "cta_question": "¿Sus originadores estructuran reducciones de tasa con el vendedor o los vendedores siguen recurriendo a recortar precios?"
+    },
+    {
+      "slug": "velocity-acquires-toorak-dscr-platform",
+      "title": "Velocity Buys Toorak Platform Without $3B Portfolio",
+      "source": "National Mortgage Professional",
+      "source_url": "https://nationalmortgageprofessional.com/news/velocity-add-tooraks-dscr-and-bridge-lending-platform",
+      "cover_text": "Velocity compra la plataforma Toorak: Qué significa",
+      "caption": "Velocity Financial está adquiriendo la plataforma operativa de Toorak Capital, ampliando su presencia en préstamos comerciales y proyectando un aumento del 76 por ciento en volumen anual. Pero el detalle más importante para los ejecutivos hipotecarios no es el crecimiento del volumen, sino lo que Velocity dejó atrás: la cartera de préstamos de 3 mil millones de dólares de Toorak. Al adquirir solo la infraestructura operativa, la distribución minorista directa y el menú de productos DSCR (relación de cobertura del servicio de la deuda), Velocity gana escala sin asumir riesgo crediticio heredado. En el entorno actual de tasas altas, el crecimiento de préstamos para inversionistas depende de la eficiencia operativa y no de mantener deudas en el balance. Por eso adquirir escala operativa es la nueva estrategia.\n\nFuente : https://tinyurl.com/25mlskrg\n#SafetrustMortgage #MortgageIntelligenceDaily #realestateinvesting #mortgagebroker #loanofficer",
+      "hashtags": [
+        "#SafetrustMortgage",
+        "#MortgageIntelligenceDaily",
+        "#realestateinvesting",
+        "#mortgagebroker",
+        "#loanofficer"
+      ],
+      "hook_tag": "ANÁLISIS DE M&A",
+      "hook": "Por qué Velocity compró la plataforma Toorak sin su cartera.",
+      "what_happened_heading": "La Noticia",
+      "what_happened": "Velocity Financial adquirirá la plataforma operativa de Toorak Capital para expandir su presencia en préstamos comerciales. El acuerdo aumentará sus originaciones anuales un 76 por ciento, pero excluye la cartera de préstamos de 3 mil millones de dólares de Toorak.",
+      "breakdown": [
+        {
+          "heading": "Gran Aumento de Escala",
+          "body": "Adquirir el sistema operativo de Toorak aumenta el volumen de originación anual de Velocity en un 76 por ciento y suma de inmediato un canal de distribución minorista directo."
+        },
+        {
+          "heading": "Expansión de Menú",
+          "body": "La adquisición amplía los productos de Velocity en préstamos DSCR (cobertura del servicio de la deuda) y financiamiento puente, aumentando los ingresos por comisiones."
+        },
+        {
+          "heading": "Perspectiva del Asesor",
+          "body": "Al revisar el archivo en evaluación, integrar esta plataforma aumenta la capacidad de análisis sin introducir el riesgo de balance de la deuda existente."
+        },
+        {
+          "heading": "Dejar la Cartera Atrás",
+          "body": "Al rechazar la cartera heredada de 3 mil millones de dólares, Velocity adquiere infraestructura y cuota de mercado sin asumir posibles riesgos de incumplimiento crediticio."
+        }
+      ],
+      "my_take_heading": "El Análisis Real",
+      "my_take": "Las fusiones inteligentes en préstamos Non-QM buscan adquirir capacidad de originación y canales de distribución, no asumir el riesgo crediticio de carteras anteriores.",
+      "action_lo": "Prepárese para un menú de productos más amplio aprendiendo las pautas para inversionistas basadas en el flujo de caja del préstamo DSCR.",
+      "action_realtor": "Asóciese con prestamistas para inversionistas a medida que las plataformas institucionales se consolidan y amplían las opciones de financiamiento DSCR y puente.",
+      "cta_question": "¿En el mercado actual, la escala en Non-QM se logra mejor adquiriendo plataformas o mediante la expansión orgánica de canales?"
     }
   ]
 }
