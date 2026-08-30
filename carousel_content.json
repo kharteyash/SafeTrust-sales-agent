@@ -1,258 +1,258 @@
 {
   "carousels": [
     {
-      "slug": "fha-classic-fico-january-update",
-      "title": "FHA Keeps Classic FICO for 2026 Rollout",
+      "slug": "housing-demand-stabilizing",
+      "title": "Housing Demand Normalizing as Inventory Rises",
       "source": "HousingWire",
-      "source_url": "https://www.housingwire.com/articles/fha-credit-score-january-launch/",
-      "cover_text": "FHA FICO Update: What Changes in January",
-      "caption": "FHA is keeping Classic FICO (the traditional credit score system) as it introduces new credit scoring models this coming January, but there is a major catch for mortgage lenders. FHA expects strict loan-level consistency, meaning originators cannot mix and match scoring models across credit bureaus to get a higher borrower score on a single transaction. For underwriting teams and mortgage executives, this decision keeps automated underwriting system evaluation stable while eliminating post-closing audit risk. Originators who were hoping dual-scoring models would instantly solve debt ratio challenges will need to adjust their strategy. Model consistency keeps file reviews clean, but technology vendors must be configured properly before January hits. Here is what this shift changes for your file flow, compliance standards, and pipeline strategy.\n\nSource : https://tinyurl.com/22ykndoo\n#SafetrustMortgage #MortgageIntelligenceDaily #mortgagebroker #loanofficer #firsttimehomebuyer",
-      "hashtags": [
-        "#SafetrustMortgage",
-        "#MortgageIntelligenceDaily",
-        "#mortgagebroker",
-        "#loanofficer",
-        "#firsttimehomebuyer"
-      ],
-      "hook_tag": "CREDIT POLICY",
-      "hook": "Why FHA keeping Classic FICO is a massive win for underwriters.",
-      "what_happened_heading": "The News",
-      "what_happened": "FHA is expected to keep Classic FICO (the traditional credit score model) when it introduces new credit models in January. Lenders expect that model consistency will be strictly required at the individual loan level.",
-      "breakdown": [
-        {
-          "heading": "The January Shift",
-          "body": "FHA is rolling out new credit scoring options in January. However, Classic FICO (the traditional credit scoring system) is remaining in place."
-        },
-        {
-          "heading": "Loan-Level Consistency",
-          "body": "Lenders expect FHA to mandate model consistency per file. Originators cannot mix scoring models across different credit bureaus for the same borrower."
-        },
-        {
-          "heading": "Underwriter Perspective",
-          "body": "Here is what this actually changes when a file hits underwriting: single-model rules stop loan officers from score-shopping across bureaus, keeping automated underwriting system guidelines clean."
-        },
-        {
-          "heading": "Operational Impact",
-          "body": "Enforcing model consistency protects lenders from post-closing audit risk. Operations teams will not need to recalculate debt ratios under competing score standards."
-        }
-      ],
-      "my_take_heading": "The Real Take",
-      "my_take": "Maintaining Classic FICO alongside new models prevents originators from gaming credit pulls, keeping underwriting predictable during a major policy transition.",
-      "action_lo": "Audit your credit vendor integration now to ensure your pull setup enforces single-model consistency before January.",
-      "action_realtor": "Educate buyers that credit score changes will not suddenly lower FHA qualifications or create shortcut approvals overnight.",
-      "cta_question": "Will loan-level model consistency simplify your pipeline or create operational bottlenecks in January?"
-    },
-    {
-      "slug": "inventory-up-contracts-down-buydowns",
-      "title": "Rising Inventory Opens Window for Seller Buydowns",
-      "source": "National Mortgage Professional",
-      "source_url": "https://nationalmortgageprofessional.com/news/more-listings-fewer-contracts-put-rate-buydowns-play",
-      "cover_text": "Listings Rise, Contracts Fall: Time for Buydowns",
-      "caption": "New inventory reached its highest level since April with new listings up 0.4 percent and active listings up 0.5 percent, but buyer contract activity is lagging behind. This gap gives sharp originators and realtors immediate leverage to structure seller-funded rate buydowns before broader affordability shifts occur across local markets. Instead of encouraging sellers to slash list prices—which damages neighborhood comparable sales—originators can use seller dollars to temporarily reduce the buyer's payment. This lowers the buyer's initial DTI (debt-to-income ratio) while keeping transaction valuation intact for appraisal review. Negotiating buydowns gives buyers immediate relief while preserving seller net equity during a market slowdown. Here is how to structure buydowns over price cuts to convert stalled listings into signed contracts.\n\nSource : https://tinyurl.com/2xnyduua\n#SafetrustMortgage #MortgageIntelligenceDaily #housingmarket #realestateagent #mortgagerates",
+      "source_url": "https://www.housingwire.com/articles/housing-demand-has-slowed-but-still-stable-for-now/",
+      "cover_text": "Slowing Housing Demand Is Not A Crash",
+      "caption": "Slowing buyer demand feels like a crash only if you expect permanent bidding wars. Housing demand has slowed down while new listings data remains positive year over year. The market shows signs of stabilization rather than a sudden structural collapse. In underwriting, a cooler pace means appraisers look far more critically at recent comparable sales and seller concessions. When bidding frenzies pause, appraisal comps must reflect true baseline valuation rather than emotional overbidding. For mortgage executives and producers, this environment favors solid structuring over order-taking. Use seller concessions to fund temporary buydowns and keep monthly payments manageable.\n\nSource : https://tinyurl.com/2do7wrv5\n#SafetrustMortgage #MortgageIntelligenceDaily #housingmarket #loanofficer #realestateagent",
       "hashtags": [
         "#SafetrustMortgage",
         "#MortgageIntelligenceDaily",
         "#housingmarket",
-        "#realestateagent",
-        "#mortgagerates"
+        "#loanofficer",
+        "#realestateagent"
       ],
-      "hook_tag": "MARKET STRATEGY",
-      "hook": "Fewer buyer contracts mean seller buydowns are officially back in play.",
-      "what_happened_heading": "The News",
-      "what_happened": "New listings rose 0.4 percent over four weeks ending August 23 to their highest level since April, while active listings grew 0.5 percent. With contract signings slowing down, originators have a prime window to negotiate seller concessions.",
+      "hook_tag": "Market Trend",
+      "hook": "Slowing buyer demand is actually restoring sanity to purchase contracts.",
+      "what_happened_heading": "The Latest Data",
+      "what_happened": "Housing demand has slowed down while new listings data remains positive year over year. The market shows signs of stabilization rather than a sudden structural collapse.",
       "breakdown": [
         {
-          "heading": "Listing Surge",
-          "body": "Seasonally adjusted new listings hit their highest point since April. Active inventory grew 0.5 percent as homes sat longer without pending contracts."
+          "heading": "Listing Inventory Growth",
+          "body": "More new listings year over year give buyers room to breathe and negotiate instead of rushing into desperate bids."
         },
         {
-          "heading": "Leverage Shifts",
-          "body": "Fewer signed contracts mean sellers must compete for buyers. This creates immediate leverage to request seller-paid financing assistance."
+          "heading": "Demand Cools Down",
+          "body": "Buyer activity has decelerated, bringing contract terms back toward balanced historic norms."
         },
         {
-          "heading": "Underwriter Perspective",
-          "body": "Here is what this actually changes when a file hits underwriting: temporary buydowns lower qualifying DTI (debt-to-income ratio) while keeping transaction loan-to-value clean."
+          "heading": "Underwriting Reality Check",
+          "body": "When speed drops, underwriters scrutinize appraisals tighter because recent comps must reflect actual true buyer sentiment rather than bidding frenzy spikes."
         },
         {
-          "heading": "Strategic Pricing",
-          "body": "Applying seller concessions toward rate buydowns protects property comps (comparable sales) while lowering monthly payments for cash-conscious buyers."
+          "heading": "Pricing Restraint",
+          "body": "Sellers can no longer test outrageous price ceilings without sitting on the market longer."
         }
       ],
-      "my_take_heading": "The Real Take",
-      "my_take": "Price drops destroy neighborhood valuation, but seller-funded rate buydowns solve buyer affordability while keeping closing prices intact.",
-      "action_lo": "Run side-by-side comparisons showing buyers the payment difference between a price cut and a seller-paid rate buydown.",
-      "action_realtor": "Pitch seller concessions for rate buydowns on stale listings instead of taking immediate listing price reductions.",
-      "cta_question": "Are your originators actively structuring seller buydowns, or are sellers still defaulting to price cuts?"
+      "my_take_heading": "The Real Story",
+      "my_take": "Stability feels like a crash to agents addicted to bidding wars, but it is healthy market balance.",
+      "action_lo": "Educate buyers that longer days on market open doors for seller-paid rate buydowns.",
+      "action_realtor": "Price listings to actual sold comps rather than relying on aspirational peak pricing.",
+      "cta_question": "Are your buyers finding more room to negotiate in your market right now?"
     },
     {
-      "slug": "velocity-acquires-toorak-dscr-platform",
-      "title": "Velocity Buys Toorak Platform Without $3B Portfolio",
-      "source": "National Mortgage Professional",
-      "source_url": "https://nationalmortgageprofessional.com/news/velocity-add-tooraks-dscr-and-bridge-lending-platform",
-      "cover_text": "Velocity Buys Toorak Platform: What It Means",
-      "caption": "Velocity Financial is acquiring Toorak Capital's operating platform, expanding its business-purpose lending footprint and projecting a massive 76 percent boost in annual origination volume. But the most important detail for mortgage executives isn't the volume growth—it is what Velocity left behind: Toorak's 3 billion dollar existing loan portfolio. By acquiring only the operational infrastructure, direct retail distribution, and expanded DSCR (debt service coverage ratio) product menu, Velocity gains massive distribution scale without acquiring legacy credit risk. In today's high-rate environment, non-QM and investor lending growth hinges on platform efficiency and investor distribution rather than holding balance sheet debt. Here is why acquiring operational scale over portfolio assets is becoming the new playbook for independent mortgage lenders.\n\nSource : https://tinyurl.com/25mlskrg\n#SafetrustMortgage #MortgageIntelligenceDaily #realestateinvesting #mortgagebroker #loanofficer",
+      "slug": "fha-nonbank-debunked",
+      "title": "Debunking the FHA Nonbank Risk Myth",
+      "source": "HousingWire",
+      "source_url": "https://www.housingwire.com/articles/the-wsj-is-wrong-about-fha-loans-and-nonbanks-and-they-know-it/",
+      "cover_text": "The WSJ Is Wrong About FHA Loans",
+      "caption": "Mainstream media headlines love resurrecting 2008 housing collapse ghosts whenever nonbanks grow. A recent op-ed claimed nonbank FHA lending poses systemic risks reminiscent of 2008. Industry veterans note FHA underwriting safeguards make that comparison entirely inaccurate. Inside the underwriting portal, modern FHA files face rigorous automated risk assessment and strict debt ratio checks. DTI (how much of your income goes to debt) and credit documentation are fully validated before any loan clear-to-close is issued. Nonbank originators follow federal compliance standards designed specifically to prevent default spikes. Loan officers and realtors should educate borrowers with facts instead of letting sensational commentary stall qualified buyers.\n\nSource : https://tinyurl.com/2azl48zs\n#SafetrustMortgage #MortgageIntelligenceDaily #firsttimehomebuyer #mortgagebroker #homebuying",
+      "hashtags": [
+        "#SafetrustMortgage",
+        "#MortgageIntelligenceDaily",
+        "#firsttimehomebuyer",
+        "#mortgagebroker",
+        "#homebuying"
+      ],
+      "hook_tag": "Mortgage Myth",
+      "hook": "Blaming nonbanks for FHA risk recycled outdated pre-2008 panic narratives.",
+      "what_happened_heading": "The Media Claim",
+      "what_happened": "A recent op-ed claimed nonbank FHA lending poses systemic risks reminiscent of 2008. Industry veterans note FHA underwriting safeguards make that comparison entirely inaccurate.",
+      "breakdown": [
+        {
+          "heading": "Modern Guidelines",
+          "body": "FHA loans today require full documentation and automated underwriting standards unthinkable back in 2007."
+        },
+        {
+          "heading": "Nonbank Capital",
+          "body": "Nonbank lenders service FHA loans under strict federal capital and liquidity requirements."
+        },
+        {
+          "heading": "Underwriting Shield",
+          "body": "Underwriters verify DTI (how much income goes to debt) and reserves strictly through AUS (automated underwriting system) rules before approval."
+        },
+        {
+          "heading": "Risk Redistribution",
+          "body": "FHA mortgage insurance protects taxpayers while expanding homeownership safely for qualified borrowers."
+        }
+      ],
+      "my_take_heading": "The Bottom Line",
+      "my_take": "Confusing accessible government backed lending with subprime reckless lending is lazy analysis.",
+      "action_lo": "Show nervous buyers how FHA credit guidelines offer robust, safe path to ownership.",
+      "action_realtor": "Stop treating FHA offers like inferior contracts when buyers have verified approvals.",
+      "cta_question": "How do you counter client fear created by inaccurate mainstream financial media?"
+    },
+    {
+      "slug": "yosemite-land-swap-developer",
+      "title": "Yosemite Land Swap and Infrastructure Impact",
+      "source": "CNBC",
+      "source_url": "https://www.cnbc.com/2026/08/29/trump-yosemite-land-swap-kingsbarn.html",
+      "cover_text": "Yosemite Land Swap Drives Real Estate Value",
+      "caption": "Infrastructure and access rights dictate real estate value long before groundbreaking starts. The federal administration is evaluating a Yosemite land swap to grant a private developer access road privileges. The deal would reshape entry access near key park land parcels. In file underwriting, access easements (legal rights to cross land) are essential elements of property title work. If property access rests on contested or conditional government deals, lender collateral security is compromised. High-end developments live or die based on legal access guarantees. Understanding land swap policy gives real estate leaders foresight on prime asset valuation.\n\nSource : https://tinyurl.com/25b3hscv\n#SafetrustMortgage #MortgageIntelligenceDaily #realestateinvesting #housingmarket #realestateagent",
       "hashtags": [
         "#SafetrustMortgage",
         "#MortgageIntelligenceDaily",
         "#realestateinvesting",
-        "#mortgagebroker",
-        "#loanofficer"
+        "#housingmarket",
+        "#realestateagent"
       ],
-      "hook_tag": "M&A ANALYSIS",
-      "hook": "Why Velocity bought Toorak's platform but left $3B in loans behind.",
-      "what_happened_heading": "The News",
-      "what_happened": "Velocity Financial is acquiring Toorak Capital’s operating platform to expand its business-purpose lending presence. The deal boosts Velocity's annual originations by 76 percent but explicitly excludes Toorak’s 3 billion dollar loan portfolio.",
+      "hook_tag": "Land Policy",
+      "hook": "Public land access decisions quietly redefine adjacent private real estate values.",
+      "what_happened_heading": "The Proposed Deal",
+      "what_happened": "The federal administration is evaluating a Yosemite land swap to grant a private developer access road privileges. The deal would reshape entry access near key park land parcels.",
       "breakdown": [
         {
-          "heading": "Massive Scale Surge",
-          "body": "Acquiring Toorak's operational engine increases Velocity's annual origination volume by 76 percent while immediately adding a direct retail distribution channel."
+          "heading": "Infrastructure Value",
+          "body": "Direct access roads instantly transform land utility and long-term valuation metrics for developers."
         },
         {
-          "heading": "Menu Expansion",
-          "body": "The acquisition expands Velocity's offerings in DSCR (debt service coverage ratio - investor cash flow ratio) loans and bridge financing while expanding fee-based revenue."
+          "heading": "Regulatory Complexity",
+          "body": "Federal environmental reviews and public land exchanges create unique regulatory hurdles for projects."
         },
         {
-          "heading": "Underwriter Perspective",
-          "body": "Here is what this actually changes when a file hits underwriting: platform integration scales underwriting capacity without introducing balance sheet risk from existing debt."
+          "heading": "Underwriting Lens",
+          "body": "Underwriters review access easements (legal rights to cross land) thoroughly because unrecorded or contested access destroys property collateral value."
         },
         {
-          "heading": "Leaving the Portfolio",
-          "body": "By refusing Toorak's $3 billion legacy loan portfolio, Velocity buys operational infrastructure and market share without acquiring potential credit default risk."
+          "heading": "Luxury Market Ripple",
+          "body": "Exclusive access points drive premium pricing for niche resort and hospitality developments."
         }
       ],
-      "my_take_heading": "The Real Take",
-      "my_take": "Smart M&A in non-QM lending is about acquiring origination capacity and distribution channels, not taking on legacy portfolio credit risk.",
-      "action_lo": "Prepare for broader investor product menus by learning DSCR (debt service coverage ratio) investor cash flow guidelines.",
-      "action_realtor": "Partner with investor-focused lenders as institutional platforms consolidate and expand bridge and DSCR financing options.",
-      "cta_question": "Is scale in non-QM better achieved through platform acquisition or organic channel expansion in today's market?"
+      "my_take_heading": "Industry Reality",
+      "my_take": "Access rights create real estate value faster than raw square footage ever can.",
+      "action_lo": "Verify access easements early when financing rural or custom land developments.",
+      "action_realtor": "Identify access infrastructure plans before pricing specialty acreage or mountain developments.",
+      "cta_question": "How often do access rights or land easements complicate your luxury deals?"
     }
   ],
   "carousels_es": [
     {
-      "slug": "fha-classic-fico-january-update",
-      "title": "FHA Keeps Classic FICO for 2026 Rollout",
+      "slug": "housing-demand-stabilizing",
+      "title": "La demanda de vivienda se normaliza a medida que aumenta el inventario",
       "source": "HousingWire",
-      "source_url": "https://www.housingwire.com/articles/fha-credit-score-january-launch/",
-      "cover_text": "Actualización FHA FICO: Qué cambia en enero",
-      "caption": "La FHA mantendrá Classic FICO (el sistema tradicional de puntaje crediticio) al presentar sus nuevos modelos de crédito en enero, pero hay una condición importante para los prestamistas. La FHA exigirá una estricta consistencia a nivel de préstamo. Esto significa que los originadores no podrán combinar modelos de puntaje entre agencias de crédito para obtener un puntaje más alto en una sola transacción. Para los equipos de evaluación y ejecutivos hipotecarios, esta decisión mantiene estable la evaluación del sistema de suscripción automatizado y elimina riesgos de auditoría posterior al cierre. Quienes esperaban que los modelos dobles resolvieran de inmediato los problemas de relación deuda-ingreso deberán ajustar su estrategia. La consistencia en los modelos mantiene limpias las revisiones de archivos, pero los proveedores de tecnología deben estar configurados correctamente antes de enero. Esto es lo que este cambio significa para su flujo de archivos, estándares de cumplimiento y estrategia.\n\nFuente : https://tinyurl.com/22ykndoo\n#SafetrustMortgage #MortgageIntelligenceDaily #mortgagebroker #loanofficer #firsttimehomebuyer",
-      "hashtags": [
-        "#SafetrustMortgage",
-        "#MortgageIntelligenceDaily",
-        "#mortgagebroker",
-        "#loanofficer",
-        "#firsttimehomebuyer"
-      ],
-      "hook_tag": "POLÍTICA DE CRÉDITO",
-      "hook": "Que la FHA mantenga Classic FICO es una gran victoria.",
-      "what_happened_heading": "La Noticia",
-      "what_happened": "Se espera que la FHA mantenga Classic FICO (el modelo tradicional) al presentar nuevos modelos de crédito en enero. Los prestamistas prevén que se exigirá strictly la consistencia del modelo en cada préstamo.",
-      "breakdown": [
-        {
-          "heading": "El Cambio de Enero",
-          "body": "La FHA presentará nuevas opciones de puntaje crediticio en enero. Sin embargo, Classic FICO (el sistema de puntaje crediticio tradicional) se mantendrá vigente."
-        },
-        {
-          "heading": "Consistencia por Préstamo",
-          "body": "Los prestamistas prevén que la FHA exigirá consistencia de modelo por archivo. Los originadores no podrán combinar modelos de puntaje entre distintas agencias de crédito."
-        },
-        {
-          "heading": "Perspectiva del Asesor",
-          "body": "Esto cambia cuando el archivo llega al asesor: la regla de un solo modelo evita buscar puntajes ventajosos y mantiene limpias las pautas automatizadas."
-        },
-        {
-          "heading": "Impacto Operativo",
-          "body": "Exigir consistencia en el modelo protege a los prestamistas contra auditorías tras el cierre. Los equipos de operaciones no recalcularán deudas bajo estándares opuestos."
-        }
-      ],
-      "my_take_heading": "El Análisis Real",
-      "my_take": "Mantener Classic FICO junto a los nuevos modelos evita que los originadores manipulen las consultas de crédito. Esto mantiene predecible la evaluación durante esta importante transición de políticas.",
-      "action_lo": "Audite ahora la integración con su proveedor de crédito para asegurar la consistencia de modelo único antes de enero.",
-      "action_realtor": "Eduque a los compradores: los cambios en puntajes de crédito no reducirán de inmediato las calificaciones FHA ni crearán atajos de aprobación.",
-      "cta_question": "¿La consistencia de modelos simplificará su trabajo o creará cuellos de botella operativos en enero?"
-    },
-    {
-      "slug": "inventory-up-contracts-down-buydowns",
-      "title": "Rising Inventory Opens Window for Seller Buydowns",
-      "source": "National Mortgage Professional",
-      "source_url": "https://nationalmortgageprofessional.com/news/more-listings-fewer-contracts-put-rate-buydowns-play",
-      "cover_text": "Más propiedades, menos contratos: momento de reducciones",
-      "caption": "El nuevo inventario alcanzó su nivel más alto desde abril, pero la firma de contratos de compradores se está retrasando. Esta brecha da a originadores y agentes inmobiliarios la oportunidad de estructurar reducciones de tasa (buydowns) financiadas por vendedores antes de que cambie la asequibilidad local. En lugar de pedir a los vendedores que bajen precios, lo que daña las ventas comparables del vecindario, los originadores pueden usar fondos del vendedor para reducir temporalmente el pago del comprador. Esto baja la relación deuda-ingreso (DTI) inicial del comprador y mantiene intacta la valoración para el avalúo. Negociar reducciones de tasa ofrece alivio inmediato al comprador y protege la ganancia del vendedor durante una desaceleración del mercado. Así puede estructurar reducciones de tasa en lugar de cortes de precio para convertir propiedades estancadas en contratos firmados.\n\nFuente : https://tinyurl.com/2xnyduua\n#SafetrustMortgage #MortgageIntelligenceDaily #housingmarket #realestateagent #mortgagerates",
+      "source_url": "https://www.housingwire.com/articles/housing-demand-has-slowed-but-still-stable-for-now/",
+      "cover_text": "Una menor demanda no significa un colapso",
+      "caption": "Una menor demanda de compradores no significa que el mercado se esté derrumbando. La actividad se ha moderado mientras la llegada de nuevas propiedades se mantiene positiva en comparación con el año anterior. El mercado actual muestra claras señales de estabilización en lugar de un colapso. Durante la evaluación crediticia, un ritmo más pausado exige que el asesor (underwriter) analice detalladamente las ventas comparables recientes y las concesiones del vendedor. Sin la presión de las guerras de ofertas, las tasaciones deben reflejar el valor real del inmueble y no sobreprecios emocionales. Para los profesionales hipotecarios, este entorno premia la buena estructuración de préstamos sobre el simple trámite. Aproveche las concesiones del vendedor para financiar reducciones temporales de tasa y mantener pagos mensuales accesibles para sus clientes.\n\nFuente : https://tinyurl.com/2do7wrv5\n#SafetrustMortgage #MortgageIntelligenceDaily #housingmarket #loanofficer #realestateagent",
       "hashtags": [
         "#SafetrustMortgage",
         "#MortgageIntelligenceDaily",
         "#housingmarket",
-        "#realestateagent",
-        "#mortgagerates"
+        "#loanofficer",
+        "#realestateagent"
       ],
-      "hook_tag": "ESTRATEGIA DE MERCADO",
-      "hook": "Menos contratos firmados significan que las reducciones de tasa regresaron.",
-      "what_happened_heading": "La Noticia",
-      "what_happened": "Las nuevas propiedades en venta subieron un 0.4 por ciento hacia el 23 de agosto, alcanzando su punto más alto desde abril, mientras el inventario activo creció 0.5 por ciento. Con la desaceleración de contratos, los originadores tienen una gran oportunidad para negociar concesiones del vendedor.",
+      "hook_tag": "Tendencia del mercado",
+      "hook": "La menor demanda de compradores devuelve la sensatez a los contratos.",
+      "what_happened_heading": "Los datos más recientes",
+      "what_happened": "La demanda de vivienda se ha desacelerado, mientras que los nuevos inventarios mantienen un crecimiento anual positivo. El mercado muestra señales de estabilización en lugar de un colapso estructural repentino.",
       "breakdown": [
         {
-          "heading": "Aumento de Inventario",
-          "body": "Las nuevas propiedades alcanzaron su nivel más alto desde abril. El inventario activo creció 0.5 por ciento porque las casas pasan más tiempo sin contratos pendientes."
+          "heading": "Crecimiento del inventario",
+          "body": "El aumento de propiedades en venta permite a los compradores negociar con calma, evitando ofertas desesperadas."
         },
         {
-          "heading": "Cambio en la Negociación",
-          "body": "Menos contratos firmados obligan a los vendedores a competir por compradores. Esto crea una oportunidad inmediata para solicitar ayuda financiera pagada por el vendedor."
+          "heading": "La demanda se modera",
+          "body": "La menor actividad de los compradores devuelve las condiciones contractuales a niveles históricos más equilibrados."
         },
         {
-          "heading": "Perspectiva del Asesor",
-          "body": "Al llegar al asesor, las reducciones temporales bajan la relación deuda-ingreso (DTI) necesaria para calificar, manteniendo limpia la relación préstamo-valor del expediente."
+          "heading": "Realidad en la evaluación crediticia",
+          "body": "Al bajar el ritmo, el asesor (underwriter) revisa las tasaciones con mayor rigor para reflejar el valor real."
         },
         {
-          "heading": "Precios Estratégicos",
-          "body": "Usar concesiones del vendedor para reducir la tasa protege las ventas comparables del área y reduce los pagos mensuales de compradores enfocados en el costo."
+          "heading": "Moderación en los precios",
+          "body": "Los vendedores ya no pueden fijar precios desmedidos sin arriesgarse a pasar meses en el mercado."
         }
       ],
-      "my_take_heading": "El Análisis Real",
-      "my_take": "Bajar precios destruye las comparables del vecindario. En cambio, las reducciones de tasa pagadas por el vendedor resuelven la asequibilidad del comprador manteniendo intactos los precios finales de venta.",
-      "action_lo": "Presente comparaciones detalladas a los compradores mostrando la diferencia de pago entre bajar el precio y una reducción de tasa pagada por el vendedor.",
-      "action_realtor": "Proponga concesiones del vendedor para reducciones de tasa en propiedades estancadas, en lugar de reducir el precio de lista de inmediato.",
-      "cta_question": "¿Sus originadores estructuran reducciones de tasa con el vendedor o los vendedores siguen recurriendo a recortar precios?"
+      "my_take_heading": "La realidad del mercado",
+      "my_take": "La estabilidad parece una crisis para quienes se acostumbraron a las guerras de ofertas, pero representa un equilibrio saludable.",
+      "action_lo": "Explique a los compradores que más días en el mercado facilitan conseguir concesiones del vendedor para reducir su tasa.",
+      "action_realtor": "Fije los precios según ventas comparables reales y no en metas aspiracionales fuera de la realidad.",
+      "cta_question": "¿Están sus compradores encontrando más espacio para negociar en su mercado actualmente?"
     },
     {
-      "slug": "velocity-acquires-toorak-dscr-platform",
-      "title": "Velocity Buys Toorak Platform Without $3B Portfolio",
-      "source": "National Mortgage Professional",
-      "source_url": "https://nationalmortgageprofessional.com/news/velocity-add-tooraks-dscr-and-bridge-lending-platform",
-      "cover_text": "Velocity compra la plataforma Toorak: Qué significa",
-      "caption": "Velocity Financial está adquiriendo la plataforma operativa de Toorak Capital, ampliando su presencia en préstamos comerciales y proyectando un aumento del 76 por ciento en volumen anual. Pero el detalle más importante para los ejecutivos hipotecarios no es el crecimiento del volumen, sino lo que Velocity dejó atrás: la cartera de préstamos de 3 mil millones de dólares de Toorak. Al adquirir solo la infraestructura operativa, la distribución minorista directa y el menú de productos DSCR (relación de cobertura del servicio de la deuda), Velocity gana escala sin asumir riesgo crediticio heredado. En el entorno actual de tasas altas, el crecimiento de préstamos para inversionistas depende de la eficiencia operativa y no de mantener deudas en el balance. Por eso adquirir escala operativa es la nueva estrategia.\n\nFuente : https://tinyurl.com/25mlskrg\n#SafetrustMortgage #MortgageIntelligenceDaily #realestateinvesting #mortgagebroker #loanofficer",
+      "slug": "fha-nonbank-debunked",
+      "title": "Desmintiendo el mito de riesgo en préstamos FHA no bancarios",
+      "source": "HousingWire",
+      "source_url": "https://www.housingwire.com/articles/the-wsj-is-wrong-about-fha-loans-and-nonbanks-and-they-know-it/",
+      "cover_text": "El WSJ se equivoca sobre los FHA",
+      "caption": "Los titulares sensacionalistas insisten en revivir los fantasmas de la crisis hipotecaria de 2008. Un artículo reciente afirmó que los préstamos FHA de entidades no bancarias generan un riesgo sistémico. Sin embargo, las salvaguardas actuales de la evaluación crediticia desmienten completamente esa afirmación. Hoy en día, cada expediente FHA pasa por rigurosas verificaciones automáticas de riesgo y límites estrictos de deuda. La relación deuda-ingreso (DTI) y la documentación de ingresos se analizan minuciosamente antes de emitir la aprobación final. Las entidades no bancarias cumplen estándares federales diseñados específicamente para evitar tasas elevadas de incumplimiento. Como profesional hipotecario o agente inmobiliario, oriente a sus compradores con datos reales y evite que noticias alarmistas detengan a clientes completamente calificados para comprar su hogar.\n\nFuente : https://tinyurl.com/2azl48zs\n#SafetrustMortgage #MortgageIntelligenceDaily #firsttimehomebuyer #mortgagebroker #homebuying",
+      "hashtags": [
+        "#SafetrustMortgage",
+        "#MortgageIntelligenceDaily",
+        "#firsttimehomebuyer",
+        "#mortgagebroker",
+        "#homebuying"
+      ],
+      "hook_tag": "Mito hipotecario",
+      "hook": "Culpar a las financieras no bancarias por el riesgo FHA revive mitos obsoletos.",
+      "what_happened_heading": "Lo que afirma la prensa",
+      "what_happened": "Una columna reciente afirmó que los préstamos FHA no bancarios generan riesgos sistémicos similares a los de 2008. Expertos del sector señalan que las protecciones en la evaluación crediticia hacen que esa comparación sea totalmente incorrecta.",
+      "breakdown": [
+        {
+          "heading": "Normas modernas",
+          "body": "Hoy los préstamos FHA exigen documentación completa y evaluaciones automatizadas muy superiores a las vigentes en 2007."
+        },
+        {
+          "heading": "Capital no bancario",
+          "body": "Las entidades no bancarias administran préstamos FHA bajo estrictos requisitos federales de capital y liquidez."
+        },
+        {
+          "heading": "Protección en la evaluación",
+          "body": "El asesor (underwriter) verifica rigurosamente la relación deuda-ingreso (DTI) y las reservas mediante un sistema automatizado (AUS) antes de aprobar."
+        },
+        {
+          "heading": "Redistribución del riesgo",
+          "body": "El seguro hipotecario FHA protege a los contribuyentes y amplía el acceso a la vivienda de forma segura."
+        }
+      ],
+      "my_take_heading": "Conclusión clave",
+      "my_take": "Confundir el crédito garantizado por el gobierno con préstamos de alto riesgo es un análisis simplista e incorrecto.",
+      "action_lo": "Muestre a sus clientes cómo las pautas de crédito FHA ofrecen un camino seguro hacia la compra de vivienda.",
+      "action_realtor": "Deje de considerar las ofertas FHA como inferiores cuando los compradores cuentan con aprobaciones verificadas.",
+      "cta_question": "¿Cómo responde usted al temor de sus clientes causado por titulares financieros inexactos?"
+    },
+    {
+      "slug": "yosemite-land-swap-developer",
+      "title": "Permuta de tierras en Yosemite e impacto en infraestructura",
+      "source": "CNBC",
+      "source_url": "https://www.cnbc.com/2026/08/29/trump-yosemite-land-swap-kingsbarn.html",
+      "cover_text": "Permuta en Yosemite impulsa el valor inmobiliario",
+      "caption": "La infraestructura y los derechos de acceso determinan el valor de un inmueble antes de construir. El gobierno federal analiza una permuta de tierras en Yosemite para otorgar accesos viales a un desarrollador privado. Este acuerdo modificaría la entrada a parcelas clave situadas junto al parque nacional. En la evaluación crediticia, las servidumbres de paso (derechos legales para cruzar un terreno) son fundamentales en los títulos de propiedad. Si el acceso depende de acuerdos gubernamentales condicionales o disputados, la garantía del prestamista se ve comprometida. Los proyectos de gran escala dependen completamente de la certeza legal de sus accesos. Comprender estas decisiones sobre tierras públicas permite a los profesionales inmobiliarios anticipar el valor real de activos estratégicos.\n\nFuente : https://tinyurl.com/25b3hscv\n#SafetrustMortgage #MortgageIntelligenceDaily #realestateinvesting #housingmarket #realestateagent",
       "hashtags": [
         "#SafetrustMortgage",
         "#MortgageIntelligenceDaily",
         "#realestateinvesting",
-        "#mortgagebroker",
-        "#loanofficer"
+        "#housingmarket",
+        "#realestateagent"
       ],
-      "hook_tag": "ANÁLISIS DE M&A",
-      "hook": "Por qué Velocity compró la plataforma Toorak sin su cartera.",
-      "what_happened_heading": "La Noticia",
-      "what_happened": "Velocity Financial adquirirá la plataforma operativa de Toorak Capital para expandir su presencia en préstamos comerciales. El acuerdo aumentará sus originaciones anuales un 76 por ciento, pero excluye la cartera de préstamos de 3 mil millones de dólares de Toorak.",
+      "hook_tag": "Política del suelo",
+      "hook": "Las decisiones de acceso a tierras públicas redefinen el valor privado adyacente.",
+      "what_happened_heading": "El acuerdo propuesto",
+      "what_happened": "El gobierno federal evalúa una permuta de tierras en Yosemite para otorgar acceso vial a un desarrollador privado. El acuerdo modificaría el ingreso a parcelas clave cercanas al parque nacional.",
       "breakdown": [
         {
-          "heading": "Gran Aumento de Escala",
-          "body": "Adquirir el sistema operativo de Toorak aumenta el volumen de originación anual de Velocity en un 76 por ciento y suma de inmediato un canal de distribución minorista directo."
+          "heading": "Valor de la infraestructura",
+          "body": "Los caminos de acceso directo transforman al instante la utilidad del terreno y su valor futuro para los desarrolladores."
         },
         {
-          "heading": "Expansión de Menú",
-          "body": "La adquisición amplía los productos de Velocity en préstamos DSCR (cobertura del servicio de la deuda) y financiamiento puente, aumentando los ingresos por comisiones."
+          "heading": "Complejidad regulatoria",
+          "body": "Las revisiones ambientales federales y el intercambio de tierras públicas crean desafíos regulatorios únicos en estos proyectos."
         },
         {
-          "heading": "Perspectiva del Asesor",
-          "body": "Al revisar el archivo en evaluación, integrar esta plataforma aumenta la capacidad de análisis sin introducir el riesgo de balance de la deuda existente."
+          "heading": "Enfoque de evaluación",
+          "body": "El asesor (underwriter) analiza detenidamente las servidumbres de paso (derechos legales de acceso), pues cualquier conflicto destruye el valor de garantía del inmueble."
         },
         {
-          "heading": "Dejar la Cartera Atrás",
-          "body": "Al rechazar la cartera heredada de 3 mil millones de dólares, Velocity adquiere infraestructura y cuota de mercado sin asumir posibles riesgos de incumplimiento crediticio."
+          "heading": "Efecto en el mercado de lujo",
+          "body": "Los accesos exclusivos incrementan el precio en desarrollos turísticos y residenciales de alto nivel."
         }
       ],
-      "my_take_heading": "El Análisis Real",
-      "my_take": "Las fusiones inteligentes en préstamos Non-QM buscan adquirir capacidad de originación y canales de distribución, no asumir el riesgo crediticio de carteras anteriores.",
-      "action_lo": "Prepárese para un menú de productos más amplio aprendiendo las pautas para inversionistas basadas en el flujo de caja del préstamo DSCR.",
-      "action_realtor": "Asóciese con prestamistas para inversionistas a medida que las plataformas institucionales se consolidan y amplían las opciones de financiamiento DSCR y puente.",
-      "cta_question": "¿En el mercado actual, la escala en Non-QM se logra mejor adquiriendo plataformas o mediante la expansión orgánica de canales?"
+      "my_take_heading": "Realidad del sector",
+      "my_take": "Los derechos de acceso incrementan el valor inmobiliario mucho más rápido que la simple extensión del terreno.",
+      "action_lo": "Verifique las servidumbres de paso desde el inicio al financiar desarrollos rurales o terrenos personalizados.",
+      "action_realtor": "Identifique los planes de acceso vial antes de valuar terrenos especiales o desarrollos en zonas de montaña.",
+      "cta_question": "¿Con qué frecuencia las servidumbres de paso o derechos de acceso complican sus transacciones de lujo?"
     }
   ]
 }
