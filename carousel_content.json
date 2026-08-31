@@ -1,258 +1,131 @@
 {
   "carousels": [
     {
-      "slug": "housing-demand-stabilizing",
-      "title": "Housing Demand Normalizing as Inventory Rises",
+      "slug": "waive-title-insurance-risk",
+      "title": "Affordability Shouldn't Come at Expense of Property Rights",
       "source": "HousingWire",
-      "source_url": "https://www.housingwire.com/articles/housing-demand-has-slowed-but-still-stable-for-now/",
-      "cover_text": "Slowing Housing Demand Is Not A Crash",
-      "caption": "Slowing buyer demand feels like a crash only if you expect permanent bidding wars. Housing demand has slowed down while new listings data remains positive year over year. The market shows signs of stabilization rather than a sudden structural collapse. In underwriting, a cooler pace means appraisers look far more critically at recent comparable sales and seller concessions. When bidding frenzies pause, appraisal comps must reflect true baseline valuation rather than emotional overbidding. For mortgage executives and producers, this environment favors solid structuring over order-taking. Use seller concessions to fund temporary buydowns and keep monthly payments manageable.\n\nSource : https://tinyurl.com/2do7wrv5\n#SafetrustMortgage #MortgageIntelligenceDaily #housingmarket #loanofficer #realestateagent",
+      "source_url": "https://www.housingwire.com/articles/waive-title-insurance-risk/",
+      "cover_text": "Waiving Title Insurance Endangers Property Rights",
+      "caption": "Waiving title insurance to boost affordability creates massive hidden risk for lenders and homeowners. Recent analysis reveals that removing curative title work creates six hundred billion dollars in annual risk exposure, reaching over one trillion dollars in peak years. As a former underwriter, I know that uncleared title issues freeze loan closings and destroy property marketability. True affordability shouldn't compromise fundamental property rights. Cutting title fees might look attractive on a Loan Estimate (the disclosure showing loan fees), but it leaves buyers exposed to unrecorded liens and boundary disputes. Loan officers and realtors must educate clients on why title protection matters. Are you willing to trade property rights for lower upfront closing costs?\n\nSource : https://tinyurl.com/2dogh9sw\n#SafetrustMortgage #MortgageIntelligenceDaily #mortgagebroker #homebuying #realestateagent",
       "hashtags": [
         "#SafetrustMortgage",
         "#MortgageIntelligenceDaily",
-        "#housingmarket",
-        "#loanofficer",
+        "#mortgagebroker",
+        "#homebuying",
         "#realestateagent"
       ],
-      "hook_tag": "Market Trend",
-      "hook": "Slowing buyer demand is actually restoring sanity to purchase contracts.",
-      "what_happened_heading": "The Latest Data",
-      "what_happened": "Housing demand has slowed down while new listings data remains positive year over year. The market shows signs of stabilization rather than a sudden structural collapse.",
+      "hook_tag": "Title Risk Warning",
+      "hook": "Skipping title insurance exposes lenders and buyers to massive hidden risks.",
+      "what_happened_heading": "Title Protection Policy Debate",
+      "what_happened": "Proposals suggest waiving title insurance (protection against property ownership disputes) to lower closing costs for prospective buyers. Analysis shows removing curative title work creates six hundred billion dollars in annual exposure.",
       "breakdown": [
         {
-          "heading": "Listing Inventory Growth",
-          "body": "More new listings year over year give buyers room to breathe and negotiate instead of rushing into desperate bids."
+          "heading": "Curative Title Work",
+          "body": "Curative title work fixes ownership defects before loan closing. Removing this process leaves unresolved property liens and ownership disputes behind."
         },
         {
-          "heading": "Demand Cools Down",
-          "body": "Buyer activity has decelerated, bringing contract terms back toward balanced historic norms."
+          "heading": "The Underwriter Lens",
+          "body": "Underwriters require clear title commitments before clear-to-close approval. Unresolved title defects make mortgages completely unmarketable on the secondary market."
         },
         {
-          "heading": "Underwriting Reality Check",
-          "body": "When speed drops, underwriters scrutinize appraisals tighter because recent comps must reflect actual true buyer sentiment rather than bidding frenzy spikes."
+          "heading": "Massive Annual Exposure",
+          "body": "The analysis reveals six hundred billion dollars in annual financial exposure if title work is waived, rising past one trillion dollars during peak years."
         },
         {
-          "heading": "Pricing Restraint",
-          "body": "Sellers can no longer test outrageous price ceilings without sitting on the market longer."
+          "heading": "Misguided Cost Reduction",
+          "body": "Saving upfront closing dollars does not help buyers if their underlying property ownership rights are compromised long after the loan closes."
         }
       ],
-      "my_take_heading": "The Real Story",
-      "my_take": "Stability feels like a crash to agents addicted to bidding wars, but it is healthy market balance.",
-      "action_lo": "Educate buyers that longer days on market open doors for seller-paid rate buydowns.",
-      "action_realtor": "Price listings to actual sold comps rather than relying on aspirational peak pricing.",
-      "cta_question": "Are your buyers finding more room to negotiate in your market right now?"
+      "my_take_heading": "Property Rights Over Savings",
+      "my_take": "Saving closing fees is not true affordability if it sacrifices clear property rights and creates trillion-dollar exposure.",
+      "action_lo": "Educate your borrowers on why title insurance protects their homeownership rights and long-term equity.",
+      "action_realtor": "Review title preliminary reports early with buyers to identify ownership defects before reaching closing day.",
+      "cta_question": "Should lenders absorb title risk for lower closing costs, or does that compromise market safety?"
     },
     {
-      "slug": "fha-nonbank-debunked",
-      "title": "Debunking the FHA Nonbank Risk Myth",
+      "slug": "mortgage-operating-model-advantage",
+      "title": "The Next Competitive Advantage Isn't AI, It's Operating Model",
       "source": "HousingWire",
-      "source_url": "https://www.housingwire.com/articles/the-wsj-is-wrong-about-fha-loans-and-nonbanks-and-they-know-it/",
-      "cover_text": "The WSJ Is Wrong About FHA Loans",
-      "caption": "Mainstream media headlines love resurrecting 2008 housing collapse ghosts whenever nonbanks grow. A recent op-ed claimed nonbank FHA lending poses systemic risks reminiscent of 2008. Industry veterans note FHA underwriting safeguards make that comparison entirely inaccurate. Inside the underwriting portal, modern FHA files face rigorous automated risk assessment and strict debt ratio checks. DTI (how much of your income goes to debt) and credit documentation are fully validated before any loan clear-to-close is issued. Nonbank originators follow federal compliance standards designed specifically to prevent default spikes. Loan officers and realtors should educate borrowers with facts instead of letting sensational commentary stall qualified buyers.\n\nSource : https://tinyurl.com/2azl48zs\n#SafetrustMortgage #MortgageIntelligenceDaily #firsttimehomebuyer #mortgagebroker #homebuying",
+      "source_url": "https://www.housingwire.com/articles/mortgage-operating-model-advantage/",
+      "cover_text": "Why AI Alone Cannot Save Mortgage Operations",
+      "caption": "Standalone AI tools will not solve mortgage operational inefficiencies without a modern operating model. Industry expert Bonnie Chong highlights that real competitive advantage requires connecting data, intelligent platforms, and human expertise. From an underwriter perspective, automated tools speed up document reading, but human judgment remains essential for complex loan scenario decisions. Buying new AI software without fixing broken data workflows just accelerates bad loan processing outcomes. Mortgage executives must focus on connecting platforms and training staff to handle underwriting exceptions effectively. Smart technology should empower loan teams rather than attempt to replace human experience entirely. How is your organization balancing AI software adoption with operational model restructuring this year?\n\nSource : https://tinyurl.com/282jecyj\n#SafetrustMortgage #MortgageIntelligenceDaily #loanofficer #mortgagebroker #housingmarket",
+      "hashtags": [
+        "#SafetrustMortgage",
+        "#MortgageIntelligenceDaily",
+        "#loanofficer",
+        "#mortgagebroker",
+        "#housingmarket"
+      ],
+      "hook_tag": "Mortgage Operating Model",
+      "hook": "Real competitive advantage comes from operating models, not standalone AI technology.",
+      "what_happened_heading": "AI vs Operating Model",
+      "what_happened": "Industry analysis shows standalone AI adoption fails to deliver long-term mortgage business value. Sustainable competitive advantage requires integrating connected data, intelligent platforms, and human expertise.",
+      "breakdown": [
+        {
+          "heading": "Beyond Tech Hype",
+          "body": "Standalone AI tools cannot repair broken operational workflows. Technology only amplifies the efficiency of your underlying process architecture."
+        },
+        {
+          "heading": "The Underwriter Lens",
+          "body": "AI can quickly extract income numbers, but underwriters are still needed to evaluate complex tax returns and borrower credit nuances."
+        },
+        {
+          "heading": "Connected Data Value",
+          "body": "Connecting data across platforms eliminates manual re-entry and reduces processing errors across your entire loan pipeline."
+        },
+        {
+          "heading": "Human Expertise Role",
+          "body": "True scale occurs when intelligent platforms empower experienced mortgage staff to resolve file exceptions efficiently."
+        }
+      ],
+      "my_take_heading": "Process Architecture Wins",
+      "my_take": "AI is an engine; without a clean operating model, you are just running bad mortgage processes faster.",
+      "action_lo": "Audit your loan origination workflow to eliminate manual data entry bottlenecks before purchasing new AI software.",
+      "action_realtor": "Partner with loan officers using connected platforms that deliver clear-to-close (final loan approval) decisions without skipping file review.",
+      "cta_question": "Is your company building a modern operating model, or just pasting AI onto legacy processes?"
+    },
+    {
+      "slug": "trillion-dollar-title-risk",
+      "title": "The Hidden $1 Trillion Risk in Skipping Title Checks",
+      "source": "HousingWire",
+      "source_url": "https://www.housingwire.com/articles/waive-title-insurance-risk/",
+      "cover_text": "The Trillion Dollar Title Insurance Danger",
+      "caption": "Stripping out curative title work exposes the housing market to a trillion dollars in potential risk. Analysis shows that waiving title clearance creates six hundred billion dollars in annual risk exposure, climbing above one trillion in peak years. Having spent ten years underwriting loans, I know clear title is mandatory for secondary market liquidity (selling loans to investors). Removing title protections under the guise of affordability jeopardizes buyer property rights and lender safety. Industry professionals must explain the necessity of thorough title checks to protect consumers and loan investors alike. Waiving title standards risks destabilizing loan delivery to the secondary market. Is the industry prepared for unaddressed title clouds?\n\nSource : https://tinyurl.com/2dogh9sw\n#SafetrustMortgage #MortgageIntelligenceDaily #firsttimehomebuyer #realestateinvesting #mortgagerates",
       "hashtags": [
         "#SafetrustMortgage",
         "#MortgageIntelligenceDaily",
         "#firsttimehomebuyer",
-        "#mortgagebroker",
-        "#homebuying"
-      ],
-      "hook_tag": "Mortgage Myth",
-      "hook": "Blaming nonbanks for FHA risk recycled outdated pre-2008 panic narratives.",
-      "what_happened_heading": "The Media Claim",
-      "what_happened": "A recent op-ed claimed nonbank FHA lending poses systemic risks reminiscent of 2008. Industry veterans note FHA underwriting safeguards make that comparison entirely inaccurate.",
-      "breakdown": [
-        {
-          "heading": "Modern Guidelines",
-          "body": "FHA loans today require full documentation and automated underwriting standards unthinkable back in 2007."
-        },
-        {
-          "heading": "Nonbank Capital",
-          "body": "Nonbank lenders service FHA loans under strict federal capital and liquidity requirements."
-        },
-        {
-          "heading": "Underwriting Shield",
-          "body": "Underwriters verify DTI (how much income goes to debt) and reserves strictly through AUS (automated underwriting system) rules before approval."
-        },
-        {
-          "heading": "Risk Redistribution",
-          "body": "FHA mortgage insurance protects taxpayers while expanding homeownership safely for qualified borrowers."
-        }
-      ],
-      "my_take_heading": "The Bottom Line",
-      "my_take": "Confusing accessible government backed lending with subprime reckless lending is lazy analysis.",
-      "action_lo": "Show nervous buyers how FHA credit guidelines offer robust, safe path to ownership.",
-      "action_realtor": "Stop treating FHA offers like inferior contracts when buyers have verified approvals.",
-      "cta_question": "How do you counter client fear created by inaccurate mainstream financial media?"
-    },
-    {
-      "slug": "yosemite-land-swap-developer",
-      "title": "Yosemite Land Swap and Infrastructure Impact",
-      "source": "CNBC",
-      "source_url": "https://www.cnbc.com/2026/08/29/trump-yosemite-land-swap-kingsbarn.html",
-      "cover_text": "Yosemite Land Swap Drives Real Estate Value",
-      "caption": "Infrastructure and access rights dictate real estate value long before groundbreaking starts. The federal administration is evaluating a Yosemite land swap to grant a private developer access road privileges. The deal would reshape entry access near key park land parcels. In file underwriting, access easements (legal rights to cross land) are essential elements of property title work. If property access rests on contested or conditional government deals, lender collateral security is compromised. High-end developments live or die based on legal access guarantees. Understanding land swap policy gives real estate leaders foresight on prime asset valuation.\n\nSource : https://tinyurl.com/25b3hscv\n#SafetrustMortgage #MortgageIntelligenceDaily #realestateinvesting #housingmarket #realestateagent",
-      "hashtags": [
-        "#SafetrustMortgage",
-        "#MortgageIntelligenceDaily",
         "#realestateinvesting",
-        "#housingmarket",
-        "#realestateagent"
+        "#mortgagerates"
       ],
-      "hook_tag": "Land Policy",
-      "hook": "Public land access decisions quietly redefine adjacent private real estate values.",
-      "what_happened_heading": "The Proposed Deal",
-      "what_happened": "The federal administration is evaluating a Yosemite land swap to grant a private developer access road privileges. The deal would reshape entry access near key park land parcels.",
+      "hook_tag": "Systemic Risk Analysis",
+      "hook": "Bypassing title curative work endangers secondary mortgage market liquidity.",
+      "what_happened_heading": "Curative Title Work Risk",
+      "what_happened": "New analysis demonstrates that eliminating curative title work generates six hundred billion dollars in yearly exposure. During peak mortgage volume years, that risk expands beyond one trillion dollars.",
       "breakdown": [
         {
-          "heading": "Infrastructure Value",
-          "body": "Direct access roads instantly transform land utility and long-term valuation metrics for developers."
+          "heading": "Curative Title Functions",
+          "body": "Curative title work resolves tax liens, unreleased mortgages, and legal description errors prior to closing."
         },
         {
-          "heading": "Regulatory Complexity",
-          "body": "Federal environmental reviews and public land exchanges create unique regulatory hurdles for projects."
+          "heading": "The Underwriter Lens",
+          "body": "Underwriters rely on clear title policies to ensure secondary market liquidity (the ability to sell loans to investors)."
         },
         {
-          "heading": "Underwriting Lens",
-          "body": "Underwriters review access easements (legal rights to cross land) thoroughly because unrecorded or contested access destroys property collateral value."
+          "heading": "Annual Risk Scale",
+          "body": "Removing title clearance creates six hundred billion dollars in annual risk exposure across real estate transactions."
         },
         {
-          "heading": "Luxury Market Ripple",
-          "body": "Exclusive access points drive premium pricing for niche resort and hospitality developments."
+          "heading": "Peak Year Amplification",
+          "body": "During high-volume peak origination years, unaddressed title risks scale rapidly to over one trillion dollars in potential market damage."
         }
       ],
-      "my_take_heading": "Industry Reality",
-      "my_take": "Access rights create real estate value faster than raw square footage ever can.",
-      "action_lo": "Verify access easements early when financing rural or custom land developments.",
-      "action_realtor": "Identify access infrastructure plans before pricing specialty acreage or mountain developments.",
-      "cta_question": "How often do access rights or land easements complicate your luxury deals?"
+      "my_take_heading": "Title Enables Liquidity",
+      "my_take": "Title insurance is not unnecessary paperwork; it is the structural glue that allows loan secondary market trading.",
+      "action_lo": "Review title commitment requirements with processing staff to clear cloud-on-title issues early in underwriting.",
+      "action_realtor": "Encourage home sellers to verify title status early to avoid unexpected liens delaying transaction closings.",
+      "cta_question": "Can secondary mortgage investors maintain liquidity if title clearance requirements are significantly reduced?"
     }
   ],
-  "carousels_es": [
-    {
-      "slug": "housing-demand-stabilizing",
-      "title": "La demanda de vivienda se normaliza a medida que aumenta el inventario",
-      "source": "HousingWire",
-      "source_url": "https://www.housingwire.com/articles/housing-demand-has-slowed-but-still-stable-for-now/",
-      "cover_text": "Una menor demanda no significa un colapso",
-      "caption": "Una menor demanda de compradores no significa que el mercado se esté derrumbando. La actividad se ha moderado mientras la llegada de nuevas propiedades se mantiene positiva en comparación con el año anterior. El mercado actual muestra claras señales de estabilización en lugar de un colapso. Durante la evaluación crediticia, un ritmo más pausado exige que el asesor (underwriter) analice detalladamente las ventas comparables recientes y las concesiones del vendedor. Sin la presión de las guerras de ofertas, las tasaciones deben reflejar el valor real del inmueble y no sobreprecios emocionales. Para los profesionales hipotecarios, este entorno premia la buena estructuración de préstamos sobre el simple trámite. Aproveche las concesiones del vendedor para financiar reducciones temporales de tasa y mantener pagos mensuales accesibles para sus clientes.\n\nFuente : https://tinyurl.com/2do7wrv5\n#SafetrustMortgage #MortgageIntelligenceDaily #housingmarket #loanofficer #realestateagent",
-      "hashtags": [
-        "#SafetrustMortgage",
-        "#MortgageIntelligenceDaily",
-        "#housingmarket",
-        "#loanofficer",
-        "#realestateagent"
-      ],
-      "hook_tag": "Tendencia del mercado",
-      "hook": "La menor demanda de compradores devuelve la sensatez a los contratos.",
-      "what_happened_heading": "Los datos más recientes",
-      "what_happened": "La demanda de vivienda se ha desacelerado, mientras que los nuevos inventarios mantienen un crecimiento anual positivo. El mercado muestra señales de estabilización en lugar de un colapso estructural repentino.",
-      "breakdown": [
-        {
-          "heading": "Crecimiento del inventario",
-          "body": "El aumento de propiedades en venta permite a los compradores negociar con calma, evitando ofertas desesperadas."
-        },
-        {
-          "heading": "La demanda se modera",
-          "body": "La menor actividad de los compradores devuelve las condiciones contractuales a niveles históricos más equilibrados."
-        },
-        {
-          "heading": "Realidad en la evaluación crediticia",
-          "body": "Al bajar el ritmo, el asesor (underwriter) revisa las tasaciones con mayor rigor para reflejar el valor real."
-        },
-        {
-          "heading": "Moderación en los precios",
-          "body": "Los vendedores ya no pueden fijar precios desmedidos sin arriesgarse a pasar meses en el mercado."
-        }
-      ],
-      "my_take_heading": "La realidad del mercado",
-      "my_take": "La estabilidad parece una crisis para quienes se acostumbraron a las guerras de ofertas, pero representa un equilibrio saludable.",
-      "action_lo": "Explique a los compradores que más días en el mercado facilitan conseguir concesiones del vendedor para reducir su tasa.",
-      "action_realtor": "Fije los precios según ventas comparables reales y no en metas aspiracionales fuera de la realidad.",
-      "cta_question": "¿Están sus compradores encontrando más espacio para negociar en su mercado actualmente?"
-    },
-    {
-      "slug": "fha-nonbank-debunked",
-      "title": "Desmintiendo el mito de riesgo en préstamos FHA no bancarios",
-      "source": "HousingWire",
-      "source_url": "https://www.housingwire.com/articles/the-wsj-is-wrong-about-fha-loans-and-nonbanks-and-they-know-it/",
-      "cover_text": "El WSJ se equivoca sobre los FHA",
-      "caption": "Los titulares sensacionalistas insisten en revivir los fantasmas de la crisis hipotecaria de 2008. Un artículo reciente afirmó que los préstamos FHA de entidades no bancarias generan un riesgo sistémico. Sin embargo, las salvaguardas actuales de la evaluación crediticia desmienten completamente esa afirmación. Hoy en día, cada expediente FHA pasa por rigurosas verificaciones automáticas de riesgo y límites estrictos de deuda. La relación deuda-ingreso (DTI) y la documentación de ingresos se analizan minuciosamente antes de emitir la aprobación final. Las entidades no bancarias cumplen estándares federales diseñados específicamente para evitar tasas elevadas de incumplimiento. Como profesional hipotecario o agente inmobiliario, oriente a sus compradores con datos reales y evite que noticias alarmistas detengan a clientes completamente calificados para comprar su hogar.\n\nFuente : https://tinyurl.com/2azl48zs\n#SafetrustMortgage #MortgageIntelligenceDaily #firsttimehomebuyer #mortgagebroker #homebuying",
-      "hashtags": [
-        "#SafetrustMortgage",
-        "#MortgageIntelligenceDaily",
-        "#firsttimehomebuyer",
-        "#mortgagebroker",
-        "#homebuying"
-      ],
-      "hook_tag": "Mito hipotecario",
-      "hook": "Culpar a las financieras no bancarias por el riesgo FHA revive mitos obsoletos.",
-      "what_happened_heading": "Lo que afirma la prensa",
-      "what_happened": "Una columna reciente afirmó que los préstamos FHA no bancarios generan riesgos sistémicos similares a los de 2008. Expertos del sector señalan que las protecciones en la evaluación crediticia hacen que esa comparación sea totalmente incorrecta.",
-      "breakdown": [
-        {
-          "heading": "Normas modernas",
-          "body": "Hoy los préstamos FHA exigen documentación completa y evaluaciones automatizadas muy superiores a las vigentes en 2007."
-        },
-        {
-          "heading": "Capital no bancario",
-          "body": "Las entidades no bancarias administran préstamos FHA bajo estrictos requisitos federales de capital y liquidez."
-        },
-        {
-          "heading": "Protección en la evaluación",
-          "body": "El asesor (underwriter) verifica rigurosamente la relación deuda-ingreso (DTI) y las reservas mediante un sistema automatizado (AUS) antes de aprobar."
-        },
-        {
-          "heading": "Redistribución del riesgo",
-          "body": "El seguro hipotecario FHA protege a los contribuyentes y amplía el acceso a la vivienda de forma segura."
-        }
-      ],
-      "my_take_heading": "Conclusión clave",
-      "my_take": "Confundir el crédito garantizado por el gobierno con préstamos de alto riesgo es un análisis simplista e incorrecto.",
-      "action_lo": "Muestre a sus clientes cómo las pautas de crédito FHA ofrecen un camino seguro hacia la compra de vivienda.",
-      "action_realtor": "Deje de considerar las ofertas FHA como inferiores cuando los compradores cuentan con aprobaciones verificadas.",
-      "cta_question": "¿Cómo responde usted al temor de sus clientes causado por titulares financieros inexactos?"
-    },
-    {
-      "slug": "yosemite-land-swap-developer",
-      "title": "Permuta de tierras en Yosemite e impacto en infraestructura",
-      "source": "CNBC",
-      "source_url": "https://www.cnbc.com/2026/08/29/trump-yosemite-land-swap-kingsbarn.html",
-      "cover_text": "Permuta en Yosemite impulsa el valor inmobiliario",
-      "caption": "La infraestructura y los derechos de acceso determinan el valor de un inmueble antes de construir. El gobierno federal analiza una permuta de tierras en Yosemite para otorgar accesos viales a un desarrollador privado. Este acuerdo modificaría la entrada a parcelas clave situadas junto al parque nacional. En la evaluación crediticia, las servidumbres de paso (derechos legales para cruzar un terreno) son fundamentales en los títulos de propiedad. Si el acceso depende de acuerdos gubernamentales condicionales o disputados, la garantía del prestamista se ve comprometida. Los proyectos de gran escala dependen completamente de la certeza legal de sus accesos. Comprender estas decisiones sobre tierras públicas permite a los profesionales inmobiliarios anticipar el valor real de activos estratégicos.\n\nFuente : https://tinyurl.com/25b3hscv\n#SafetrustMortgage #MortgageIntelligenceDaily #realestateinvesting #housingmarket #realestateagent",
-      "hashtags": [
-        "#SafetrustMortgage",
-        "#MortgageIntelligenceDaily",
-        "#realestateinvesting",
-        "#housingmarket",
-        "#realestateagent"
-      ],
-      "hook_tag": "Política del suelo",
-      "hook": "Las decisiones de acceso a tierras públicas redefinen el valor privado adyacente.",
-      "what_happened_heading": "El acuerdo propuesto",
-      "what_happened": "El gobierno federal evalúa una permuta de tierras en Yosemite para otorgar acceso vial a un desarrollador privado. El acuerdo modificaría el ingreso a parcelas clave cercanas al parque nacional.",
-      "breakdown": [
-        {
-          "heading": "Valor de la infraestructura",
-          "body": "Los caminos de acceso directo transforman al instante la utilidad del terreno y su valor futuro para los desarrolladores."
-        },
-        {
-          "heading": "Complejidad regulatoria",
-          "body": "Las revisiones ambientales federales y el intercambio de tierras públicas crean desafíos regulatorios únicos en estos proyectos."
-        },
-        {
-          "heading": "Enfoque de evaluación",
-          "body": "El asesor (underwriter) analiza detenidamente las servidumbres de paso (derechos legales de acceso), pues cualquier conflicto destruye el valor de garantía del inmueble."
-        },
-        {
-          "heading": "Efecto en el mercado de lujo",
-          "body": "Los accesos exclusivos incrementan el precio en desarrollos turísticos y residenciales de alto nivel."
-        }
-      ],
-      "my_take_heading": "Realidad del sector",
-      "my_take": "Los derechos de acceso incrementan el valor inmobiliario mucho más rápido que la simple extensión del terreno.",
-      "action_lo": "Verifique las servidumbres de paso desde el inicio al financiar desarrollos rurales o terrenos personalizados.",
-      "action_realtor": "Identifique los planes de acceso vial antes de valuar terrenos especiales o desarrollos en zonas de montaña.",
-      "cta_question": "¿Con qué frecuencia las servidumbres de paso o derechos de acceso complican sus transacciones de lujo?"
-    }
-  ]
+  "carousels_es": []
 }
