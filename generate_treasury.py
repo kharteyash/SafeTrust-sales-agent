@@ -16,6 +16,8 @@ Output: carousels/treasury.html and carousels/slides/treasury.png
 """
 import datetime
 import json
+import os
+import sys
 import time
 import urllib.request
 from pathlib import Path
@@ -33,6 +35,50 @@ CNBC_URL = ("https://quote.cnbc.com/quote-html-webservice/restQuote/symbolType/s
 YAHOO_URLS = ["https://query1.finance.yahoo.com/v8/finance/chart/%5ETNX?range=1mo&interval=1d",
               "https://query2.finance.yahoo.com/v8/finance/chart/%5ETNX?range=1mo&interval=1d"]
 FRED_URL = "https://fred.stlouisfed.org/graph/fredgraph.csv?id=DGS10"
+
+# The 6am quote snapshot. The workflow saves and commits it in a tiny early step,
+# so if the run fails and a scheduled retry fires later in the morning, the card
+# still shows the 6am value. Manual runs always use the live quote instead.
+SNAPSHOT = Path(__file__).parent / "treasury_snapshot.json"
+
+
+def _today_et():
+    try:
+        from zoneinfo import ZoneInfo
+        return datetime.datetime.now(ZoneInfo("America/New_York")).date().isoformat()
+    except Exception:  # noqa: BLE001 — local clock is close enough as a fallback
+        return datetime.date.today().isoformat()
+
+
+def save_snapshot():
+    """Snapshot mode: record the current CNBC quote for today, once. Later calls
+    the same day (retry runs) keep the earliest snapshot."""
+    if SNAPSHOT.exists():
+        try:
+            if json.loads(SNAPSHOT.read_text(encoding="utf-8")).get("date") == _today_et():
+                print("Snapshot for today already exists — keeping it.")
+                return
+        except Exception:  # noqa: BLE001 — overwrite a corrupt snapshot
+            pass
+    live = _retry(fetch_cnbc, "CNBC quote")
+    if live is None:
+        print("WARNING: could not snapshot the treasury quote (CNBC down).")
+        return
+    last, prev, as_of = live
+    SNAPSHOT.write_text(json.dumps({"date": _today_et(), "last": last, "prev": prev,
+                                    "as_of": as_of}), encoding="utf-8")
+    print(f"Snapshot saved: {last:.2f}% as of {as_of}")
+
+
+def load_snapshot():
+    """Today's snapshot as (last, prev, as_of), or None."""
+    try:
+        snap = json.loads(SNAPSHOT.read_text(encoding="utf-8"))
+        if snap.get("date") == _today_et():
+            return float(snap["last"]), float(snap["prev"]), str(snap["as_of"])
+    except Exception:  # noqa: BLE001 — missing/corrupt snapshot means none
+        pass
+    return None
 
 
 def _retry(fn, name, attempts=3, delay=8):
@@ -148,10 +194,23 @@ def fetch_fred(days=DAYS):
     return series[-days:]
 
 
-def get_data():
+def get_data(mode="live"):
     """Returns (series, last, prev, as_of, source_label) or None if every source
-    is down (the card is then skipped without failing the daily run)."""
-    live = _retry(fetch_cnbc, "CNBC quote")
+    is down (the card is then skipped without failing the daily run).
+    mode "snapshot" (scheduled 6am runs and their retries): the headline number
+    comes from today's committed 6am snapshot, so a 9am retry still shows the
+    6am value. mode "live" (manual runs): always the current quote."""
+    live = load_snapshot() if mode == "snapshot" else None
+    if live:
+        print(f"Using today's 6am snapshot: {live[0]:.2f}% as of {live[2]}")
+    else:
+        live = _retry(fetch_cnbc, "CNBC quote")
+        if live and mode == "snapshot":
+            # First firing of the day (no snapshot yet) — record this value so
+            # any later retry shows the same number.
+            SNAPSHOT.write_text(json.dumps({"date": _today_et(), "last": live[0],
+                                            "prev": live[1], "as_of": live[2]}),
+                                encoding="utf-8")
     series = _retry(fetch_yahoo, "Yahoo history")
     hist_src = "Yahoo Finance (^TNX)"
     if series is None:
@@ -161,14 +220,35 @@ def get_data():
         return None
     if live:
         last, prev, as_of = live
-        # Keep the chart's newest point in sync with the live headline number.
+        # Keep the chart's newest point in sync with the headline number.
         series[-1] = (series[-1][0], last)
-        source = f"Live quote: CNBC (US10Y) &mdash; History: {hist_src}"
+        source = f"Quote: CNBC (US10Y) &mdash; History: {hist_src}"
     else:
         last, prev = series[-1][1], series[-2][1]
         as_of = _short_date(series[-1][0]) + f"/{series[-1][0][:4]} close"
         source = f"Source: {hist_src}"
     return series, last, prev, as_of, source
+
+
+def build_caption(series, last, prev, as_of):
+    """Email/posting commentary: today's move in bps plus the week's trend."""
+    d_today = round((last - prev) * 100)
+    week_delta = round((last - series[0][1]) * 100)
+    span = f"{series[0][1]:.2f}% on {_short_date(series[0][0])} to {last:.2f}%"
+    if d_today > 0:
+        today_txt = f"up {d_today} bps from the previous close"
+    elif d_today < 0:
+        today_txt = f"down {abs(d_today)} bps from the previous close"
+    else:
+        today_txt = "unchanged from the previous close"
+    if week_delta > 2:
+        week_txt = f"This week it has been trending up: +{week_delta} bps ({span})."
+    elif week_delta < -2:
+        week_txt = f"This week it has been trending down: {week_delta} bps ({span})."
+    else:
+        week_txt = (f"This week it has been roughly flat: {week_delta:+d} bps ({span}).")
+    return (f"The 10-Year Treasury is at {last:.2f}%, {today_txt} (as of {as_of}). "
+            f"{week_txt}")
 
 
 def _short_date(iso):
@@ -267,7 +347,17 @@ body{{margin:0;font-family:'Work Sans',sans-serif;}}
 
 
 def main():
-    data = get_data()
+    if len(sys.argv) > 1 and sys.argv[1] == "snapshot":
+        save_snapshot()
+        return
+
+    # Scheduled runs (the 6am trigger and its retries) pin the headline to the
+    # 6am snapshot; manual runs (workflow_dispatch or a local invocation) are
+    # always live.
+    mode = ("snapshot" if os.environ.get("GITHUB_EVENT_NAME")
+            in ("repository_dispatch", "schedule") else "live")
+    print(f"Treasury card mode: {mode}")
+    data = get_data(mode)
     if data is None:
         # Every source down after retries: keep the previous day's committed
         # card rather than failing the whole 6am run over a market-data outage.
@@ -297,7 +387,11 @@ def main():
             print(f"Wrote carousels/treasury_{theme}.html and "
                   f"carousels/slides/treasury_{theme}.png")
         browser.close()
-    print(f"10Y: {last:.2f}%, {round((last - prev) * 100):+d} bps, as of {as_of}")
+
+    caption = build_caption(series, last, prev, as_of)
+    (BASE / "carousels" / "treasury_caption.txt").write_text(caption + "\n",
+                                                             encoding="utf-8")
+    print(f"Caption: {caption}")
 
 
 if __name__ == "__main__":

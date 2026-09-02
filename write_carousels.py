@@ -308,6 +308,8 @@ whose FIRST line stands alone as a hook.
 fit on one slide.
 - my_take_heading: never start it with "Mi Opinion:" or similar — the slide already carries \
 that label.
+- Headings stay in sentence case — NEVER ALL CAPS, and never a generic label like \
+"Lo que sucedio" as a heading.
 - Translate the meaning, not word-for-word — the result must read like it was written in \
 Spanish by a mortgage professional.
 - Return the same JSON structure with exactly 3 carousels in the same order.
@@ -377,6 +379,10 @@ FILL THESE FIELDS FOR EACH CAROUSEL (they map to a 9-slide carousel):
 - hook: slide 1 — one bold claim or question that reframes the story, MAX 12 words.
 - hook_tag: a 2-3 word category label.
 - what_happened_heading + what_happened: slide 2 — the news in EXACTLY 2 plain sentences.
+- HEADING STYLE: every heading (what_happened_heading, breakdown headings, my_take_heading, \
+cover_text) is written in sentence case — NEVER ALL CAPS. Headings must be specific to the \
+story; never reuse the slide's own label ("What Happened", "My Take", "The Breakdown") as \
+the heading text.
 - breakdown: slides 3-6 — EXACTLY 4 items, each {heading, body}. One idea per slide, body MAX 30 \
 words. Build the argument step by step, using the underwriter lens at least once.
 - my_take_heading + my_take: slide 7 — the contrarian or non-obvious angle. This is the screenshot \
