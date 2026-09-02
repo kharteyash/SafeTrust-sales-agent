@@ -1,258 +1,258 @@
 {
   "carousels": [
     {
-      "slug": "pre-ipo-equity-underwriting",
-      "title": "Pre-IPO Equity Rules Change Borrowing Requirements",
+      "slug": "property-tax-underwriting-trap",
+      "title": "The Property Tax Trap Hiding in Underwriting",
       "source": "HousingWire",
-      "source_url": "https://www.housingwire.com/articles/pre-ipo-equity-mortgage-underwriting/",
-      "cover_text": "Pre-IPO Equity Won't Qualify Your Tech Buyers",
-      "caption": "That tech buyer with paper millions might look like a slam dunk on paper, but Fannie Mae guidelines tell a totally different story. Private-company receipt history doesn't count for qualifying income, and underwriters need 200 days of public trading history post-IPO before that equity touches the file. If you are issuing pre-approvals based on upcoming liquidity events, you are setting up your pipeline for major stress. Here is how to structure these deals correctly before they hit an underwriter's desk. You must review liquid down payment funds and establish baseline income without speculative stock valuation. When pre-IPO tech clients ask for pre-approval letters, educate them on the 200-day public seasoning rule immediately so their transactions close smoothly.\n\nSource : https://tinyurl.com/2brkecda\n#SafetrustMortgage #MortgageIntelligenceDaily #mortgagebroker #loanofficer #homebuying",
+      "source_url": "https://www.housingwire.com/articles/property-tax-reassessment-risk/",
+      "cover_text": "The Hidden Tax Trap In Your Underwriting",
+      "caption": "Quoting monthly mortgage payments based on a seller's historical property taxes is setting your borrower up for failure. When real estate reassessments hit post-closing, low escrows (accounts set aside for taxes and insurance) quickly convert into massive monthly payment shocks. Underwriters look past historical tax bills to stabilized tax projections because DTI (debt-to-income ratio, or how much income goes to debt) must hold up after reassessment. If your pipeline relies on unadjusted current taxes, your client retention and loan quality are taking on hidden default risks. Prepare borrowers early so payment adjustments do not trigger late payments or early payment defaults.\n\nSource : https://tinyurl.com/28e2q6h2\n#SafetrustMortgage #MortgageIntelligenceDaily #mortgagebroker #loanofficer #housingmarket",
       "hashtags": [
         "#SafetrustMortgage",
         "#MortgageIntelligenceDaily",
         "#mortgagebroker",
         "#loanofficer",
-        "#homebuying"
+        "#housingmarket"
       ],
-      "hook_tag": "Underwriting Update",
-      "hook": "That tech worker's stock wealth is completely useless to underwriting right now.",
-      "what_happened_heading": "Fannie Mae's Pre-IPO Stance",
-      "what_happened": "Fannie Mae guidelines can ignore private-company receipt history for equity income. Lenders now require a 200-day trading average after an initial public offering (when a private company goes public).",
+      "hook_tag": "UNDERWRITING RISK",
+      "hook": "Current property taxes on new deals are an illusion.",
+      "what_happened_heading": "WHAT HAPPENED",
+      "what_happened": "Property tax underwriting must separate current taxes from stabilized taxes to account for local reassessment rules. The valuation gap between current seller taxes and post-sale assessments often leads to severe payment shock.",
       "breakdown": [
         {
-          "heading": "Paper Wealth Illusion",
-          "body": "Millions in private stock looks great on paper. But underwriters cannot count that paper wealth toward qualifying income until public trading history exists."
+          "heading": "Current Tax Vs Stabilized Tax",
+          "body": "Current taxes reflect the seller's historical baseline, not the buyer's future bill. Stabilized taxes project what happens after local reassessments trigger post-closing."
         },
         {
-          "heading": "The 200-Day Clock",
-          "body": "Once the company goes public, the clock starts. Underwriting needs 200 days of stock history to average out volatility before using it as income."
+          "heading": "Reassessment Rules Matter",
+          "body": "Local tax authorities reassess properties upon transfer. Ignoring post-sale adjustments leads to understated escrows (accounts set aside for taxes and insurance) and severe escrow shortages later."
         },
         {
-          "heading": "Underwriter Lens",
-          "body": "Here is what changes when a file hits underwriting: we cannot clear income conditions using pre-IPO grant documents. We need seasoned public shares and liquidation history."
+          "heading": "Underwriter Lens Perspective",
+          "body": "Here's what this actually changes when a file hits underwriting: underwriters must calculate housing expense ratios using projected post-sale taxes rather than current billings to prevent default risk."
         },
         {
-          "heading": "Liquid Cash Pivot",
-          "body": "Buyers cannot rely on future stock liquidity to lower their DTI (how much of your income goes to debt). They must pivot to liquid savings instead."
+          "heading": "Protecting Pipeline Quality",
+          "body": "Prequalifying buyers on unadjusted property taxes inflates approval amounts artificially. When the true tax bill hits, DTI (debt-to-income ratio) blows past maximum allowable thresholds."
         }
       ],
-      "my_take_heading": "Paper Millions Do Not Pay Mortgages",
-      "my_take": "Equity wealth isn't qualifying income until the market proves it over 200 days. Stop pre-approving tech buyers based on private valuation promises.",
-      "action_lo": "Audit tech clients for private stock income before issuing pre-approvals dependent on that equity.",
-      "action_realtor": "Ask tech buyers for proof of liquid down payment funds rather than relying on upcoming IPO payouts.",
-      "cta_question": "Are your local tech buyers getting caught off guard by the 200-day post-IPO requirement?"
+      "my_take_heading": "THE CONTRARIAN TAKE",
+      "my_take": "Quoting monthly payments on historical seller taxes isn't aggressive sales—it's delayed loan failure. If you don't underwrite the tax reassessment upfront, the escrow shortage will destroy your client retention.",
+      "action_lo": "Calculate pre-approvals using post-sale reassessed tax estimates rather than the seller's current property tax bill.",
+      "action_realtor": "Warn buyers upfront about post-sale tax reassessments so payment changes don't destroy their post-closing budget.",
+      "cta_question": "How is your operation factoring tax reassessments into upfront buyer pre-approvals today?"
     },
     {
-      "slug": "fed-warsh-housing-strain-hikes",
-      "title": "Fed Chair Warsh Keeps Rate Hikes Alive Despite Housing Strain",
-      "source": "National Mortgage Professional",
-      "source_url": "https://nationalmortgageprofessional.com/news/warsh-sees-housing-strain-keeps-rate-hikes-play",
-      "cover_text": "The Fed Warsh Speech Everyone Misunderstood",
-      "caption": "Don't confuse Fed sympathy with monetary relief for home buyers. Chair Kevin Warsh explicitly pointed out that housing is under strain at Jackson Hole, but he quickly clarified that rate hikes remain on the table if economic data calls for them. If your business strategy relies on central bank cuts to save your pipeline, you are playing a dangerous game. Here is why loan officers and realtors need to build a rate buffer into every pre-approval right now. Inflation control remains the central bank's primary target, meaning housing volume takes a backseat. Protect your borrowers by locking rates early and stress-testing debt ratios before market volatility strikes.\n\nSource : https://tinyurl.com/25gjqe4n\n#SafetrustMortgage #MortgageIntelligenceDaily #mortgagerates #housingmarket #loanofficer",
-      "hashtags": [
-        "#SafetrustMortgage",
-        "#MortgageIntelligenceDaily",
-        "#mortgagerates",
-        "#housingmarket",
-        "#loanofficer"
-      ],
-      "hook_tag": "Fed Policy Shift",
-      "hook": "Fed Chair Warsh acknowledged housing pain, but rate cuts aren't coming.",
-      "what_happened_heading": "Warsh Speaks at Jackson Hole",
-      "what_happened": "Federal Reserve Chair Kevin Warsh singled out housing as a weak spot during his Jackson Hole speech. However, he warned that housing strain will not prevent future interest rate hikes.",
-      "breakdown": [
-        {
-          "heading": "Housing Under Pressure",
-          "body": "Warsh admitted housing is feeling real pain under current monetary policy. Yet inflation concerns still outweigh sector-specific weakness in the Fed's primary decision framework."
-        },
-        {
-          "heading": "Rate Hikes Still Alive",
-          "body": "Wall Street hoped for clear rate cut signals. Instead, Warsh put potential rate hikes right back on the table if incoming inflation data warrants it."
-        },
-        {
-          "heading": "Underwriter Lens",
-          "body": "Here is what this changes when a file hits underwriting: pipeline rate-lock risk is spiking. Buyers sitting on floating rates face sudden qualification failure if yields jump."
-        },
-        {
-          "heading": "Margin of Safety",
-          "body": "Loan officers cannot write pre-approvals right up to the maximum debt ratio. Volatile Fed expectations demand a buffer for interest rate changes before closing."
-        }
-      ],
-      "my_take_heading": "The Fed Will Not Rescue Real Estate",
-      "my_take": "Acknowledging housing pain isn't a promise to ease it. The Fed will gladly sacrifice housing volume to crush stubborn inflation metrics.",
-      "action_lo": "Stress-test all floating pipeline files against a 50 basis point rate increase today.",
-      "action_realtor": "Prepare sellers for volatile buyer purchasing power while rate hike threats linger in macro data.",
-      "cta_question": "Are you currently locking rate quotes earlier in the process, or floating through macro volatility?"
-    },
-    {
-      "slug": "compass-nwmls-first-look-rule",
-      "title": "NWMLS First Look Policy Changes Coming Soon Listings",
+      "slug": "california-condo-defect-reform-fails",
+      "title": "California Condo Defect Reform Fails at Deadline",
       "source": "HousingWire",
-      "source_url": "https://www.housingwire.com/articles/compass-nwmls-coming-soon-settlement/",
-      "cover_text": "Seattle's New Off-Market Rule Changes Everything",
-      "caption": "The Compass and NWMLS settlement marks a major shift in how listings enter the market. Starting September 2026, the new First Look status lets sellers market properties for 21 days without accumulating public days on market or price history tracks. For buyers and loan officers, this means off-market deals require ultra-fast execution and upfront underwriting clearings. Here is what this settlement means for your local deal flow and appraisal timelines. When listings stay dark from public aggregators, private agent networks become essential for finding inventory. Make sure your buyers are fully pre-approved so they can submit competitive offers before the property hits standard public MLS status.\n\nSource : https://tinyurl.com/22tmayjo\n#SafetrustMortgage #MortgageIntelligenceDaily #realestateagent #housingmarket #firsttimehomebuyer",
+      "source_url": "https://www.housingwire.com/articles/california-condo-defect-reform-fails/",
+      "cover_text": "California Condo Defect Reform Fails",
+      "caption": "California's Assembly Bill 1903 failed at the legislative deadline after late Senate amendments sent it back to the Assembly without a vote. This failure leaves condo defect rules unchanged, keeping developer liability high and attached housing inventory constrained. When a condo file hits underwriting, project approval guidelines for warrantable condos (condos that meet Fannie or Freddie guidelines) remain a massive bottleneck due to strict HOA review requirements. Loan officers who master non-QM (non-qualifying mortgage) condo guidelines will win market share while conventional pipelines stall. Navigating non-warrantable condo project approvals will be key to unlocking attached housing deals in tight markets.\n\nSource : https://tinyurl.com/2d6rt97g\n#SafetrustMortgage #MortgageIntelligenceDaily #realestateagent #mortgagebroker #firsttimehomebuyer",
       "hashtags": [
         "#SafetrustMortgage",
         "#MortgageIntelligenceDaily",
         "#realestateagent",
-        "#housingmarket",
+        "#mortgagebroker",
         "#firsttimehomebuyer"
       ],
-      "hook_tag": "MLS Listing Rules",
-      "hook": "The Northwest MLS settlement permanently alters how coming soon listings operate.",
-      "what_happened_heading": "The NWMLS Settlement",
-      "what_happened": "Compass settled its lawsuit with Northwest MLS, creating a new First Look listing status. Sellers get up to 21 days off-market without accumulating public days on market.",
+      "hook_tag": "CONDO MARKET",
+      "hook": "Condo defect reform died, keeping high-risk condo inventory locked.",
+      "what_happened_heading": "WHAT HAPPENED",
+      "what_happened": "California Assembly Bill 1903 failed to pass before the legislative session ended. Late Senate amendments sent AB 1903 back to the Assembly, where time ran out before a vote.",
       "breakdown": [
         {
-          "heading": "The 21-Day Window",
-          "body": "Sellers gain 21 days of marketing flexibility under First Look. During this window, public systems hide days on market (DOM) and price history tracking completely."
+          "heading": "AB 1903 Clock Ran Out",
+          "body": "Assembly Bill 1903 aimed to reform condo defect rules in California. Late Senate amendments delayed the measure until the legislative session clock ran out."
         },
         {
-          "heading": "Off-Market Advantage",
-          "body": "Agents can test seller pricing strategies quietly. Buyers get early access before listings hit public aggregate sites, altering traditional search workflows completely."
+          "heading": "Locked Inventory Continues",
+          "body": "Without reform, developers face ongoing liability risks that restrict new condo construction. Existing attached inventory remains tight as litigation fears deter new builds."
         },
         {
-          "heading": "Underwriter Lens",
-          "body": "Here is what this changes when a file hits underwriting: appraisers lose instant public MLS visibility for comparable sales during that dark period, complicating valuation timing."
+          "heading": "Underwriter Lens Perspective",
+          "body": "Here's what this actually changes when a file hits underwriting: non-warrantable condo (condos that fail agency guidelines) reviews remain rigorous, requiring strict review of HOAs, deferred maintenance, and litigation reserves."
         },
         {
-          "heading": "Pre-Approval Speed",
-          "body": "Buyers targeting First Look properties must be fully pre-underwritten. Instant off-market offers require cleared financing before standard public listing exposure occurs."
+          "heading": "Market Financing Impact",
+          "body": "Buyers seeking affordable entry-level housing face limited inventory and tougher project approvals. Lenders must rely heavily on specialized non-QM (non-qualifying mortgage) condo programs to execute deals."
         }
       ],
-      "my_take_heading": "Public DOM Metrics Are Becoming Irrelevant",
-      "my_take": "Hiding days on market for 21 days shifts power back to inventory gatekeepers. Your market data is only as good as your private network.",
-      "action_lo": "Build direct pipelines with top listing agents to get buyer files pre-underwritten before the 21-day window opens.",
-      "action_realtor": "Educate sellers on using the 21-day First Look status to test pricing without accumulating visible market fatigue.",
-      "cta_question": "Will 21-day hidden DOM windows spread to other MLS systems across the country?"
+      "my_take_heading": "THE CONTRARIAN TAKE",
+      "my_take": "The death of AB 1903 isn't just a political delay; it permanently locks affordable attached housing in California. Lenders who master non-warrantable condo underwriting will capture market share while traditional lenders walk away.",
+      "action_lo": "Partner with non-QM non-warrantable condo outlets to clear condo projects that fail conventional Fannie or Freddie standards.",
+      "action_realtor": "Review HOA litigation status early in listing or buying conversations to avoid surprises during condo project approval.",
+      "cta_question": "Will failure of condo reform accelerate non-QM condo lending in your market?"
+    },
+    {
+      "slug": "figure-acquires-kiavi-dscr-lending",
+      "title": "Figure Closes Kiavi Acquisition as DSCR Competition Tightens",
+      "source": "National Mortgage Professional",
+      "source_url": "https://nationalmortgageprofessional.com/news/figure-closes-kiavi-deal-dscr-competition-tightens",
+      "cover_text": "Figure Acquires Kiavi In Major Tech Consolidation",
+      "caption": "Figure Technology Solutions has completed its acquisition of Kiavi, creating a massive footprint in the DSCR (debt-service coverage ratio, comparing property cash flow to debt payments) market. As competition tightens across investor lending, capital marketplaces are automating underwriting reviews for cash-flowing properties. When an investor file hits underwriting, fast lease-to-debt verification and appraisal rental analysis will separate winning lenders from slow originators. Scaled capital platforms are squeezing margins, making fast execution critical for loan officers serving real estate investors. Understanding automated DSCR underwriting parameters will give originators a distinct edge in closing investor transactions quickly.\n\nSource : https://tinyurl.com/26w2au2p\n#SafetrustMortgage #MortgageIntelligenceDaily #realestateinvesting #mortgagebroker #loanofficer",
+      "hashtags": [
+        "#SafetrustMortgage",
+        "#MortgageIntelligenceDaily",
+        "#realestateinvesting",
+        "#mortgagebroker",
+        "#loanofficer"
+      ],
+      "hook_tag": "INVESTOR LENDING",
+      "hook": "Tech scale is reshaping DSCR lending for investor properties.",
+      "what_happened_heading": "WHAT HAPPENED",
+      "what_happened": "Figure Technology Solutions completed its acquisition of Kiavi. The deal brings a top residential real estate investor lender onto Figure's capital marketplace as DSCR competition intensifies.",
+      "breakdown": [
+        {
+          "heading": "Major DSCR Consolidation",
+          "body": "Figure acquired Kiavi, combining capital marketplace tech with one of the largest residential investor lenders. The deal focuses heavily on DSCR (debt-service coverage ratio) lending products."
+        },
+        {
+          "heading": "Capital Marketplace Integration",
+          "body": "Placing Kiavi's volume on Figure's marketplace targets speed and liquidity. Higher competition drives scale efficiency across investor financing channels."
+        },
+        {
+          "heading": "Underwriter Lens Perspective",
+          "body": "Here's what this actually changes when a file hits underwriting: tech-driven DSCR reviews prioritize automated lease verification and appraisal rental schedules, forcing traditional underwriters to adapt to algorithmic guidelines."
+        },
+        {
+          "heading": "Margin Pressure On Lenders",
+          "body": "Institutional capital consolidation lowers execution costs for scaled platforms. Smaller originators must offer distinct local expertise as investor yields get squeezed."
+        }
+      ],
+      "my_take_heading": "THE CONTRARIAN TAKE",
+      "my_take": "DSCR lending is shifting from niche private lending to a tech-driven liquidity game. Scale wins pricing, but speed in underwriting investor cash flows will dictate who retains loan officer relationships.",
+      "action_lo": "Streamline your DSCR buyer intake process around rent rolls and lease docs to compete with automated marketplace execution.",
+      "action_realtor": "Work with real estate investors on cash-flowing 1-4 unit properties that meet strict lease coverage benchmarks.",
+      "cta_question": "How is tech consolidation in DSCR lending affecting your investor pipeline pricing?"
     }
   ],
   "carousels_es": [
     {
-      "slug": "pre-ipo-equity-underwriting",
-      "title": "Las reglas de capital previo a una OPI cambian los requisitos de préstamo",
+      "slug": "property-tax-underwriting-trap",
+      "title": "La trampa de los impuestos inmobiliarios en la evaluación de préstamos",
       "source": "HousingWire",
-      "source_url": "https://www.housingwire.com/articles/pre-ipo-equity-mortgage-underwriting/",
-      "cover_text": "El capital previo a OPI no calificará compradores",
-      "caption": "Ese comprador del sector tecnológico con millones en papel puede parecer calificado, pero las pautas de Fannie Mae dicen otra cosa.\n\nEl historial de ingresos de empresas privadas no se considera para calificar el crédito. Los asesores (underwriters) exigen 200 días de cotización pública tras una oferta pública inicial (IPO) antes de incluir esas acciones en el expediente. Si usted emite preaprobaciones basadas en liquidez futura, está exponiendo su proceso a serios problemas. Para estructurar estas operaciones correctamente antes de llegar al asesor, revise los fondos líquidos para el pago inicial y determine los ingresos base sin contar con valoraciones bursátiles especulativas. Cuando estos clientes soliciten su carta de preaprobación, explíqueles de inmediato la regla de antigüedad pública de 200 días para asegurar un cierre sin inconvenientes.\n\nFuente : https://tinyurl.com/2brkecda\n#SafetrustMortgage #MortgageIntelligenceDaily #mortgagebroker #loanofficer #homebuying",
+      "source_url": "https://www.housingwire.com/articles/property-tax-reassessment-risk/",
+      "cover_text": "La trampa fiscal oculta en su evaluación",
+      "caption": "Cotizar pagos hipotecarios mensuales basados en los impuestos inmobiliarios históricos del vendedor condena al fracaso a su prestatario. Cuando ocurren las reevaluaciones fiscales tras el cierre, los fondos de reserva (cuentas destinadas a impuestos y seguros) insuficientes causan un fuerte aumento en las cuotas mensuales. Los asesores (underwriters) miran más allá de los impuestos históricos y analizan proyecciones estabilizadas, ya que la relación deuda-ingreso (DTI, por sus siglas en inglés) debe sostenerse tras la reevaluación. Si su cartera de préstamos depende de impuestos actuales sin ajustar, está asumiendo riesgos de incumplimiento. Prepare a sus clientes con anticipación para que los ajustes de pago no provoquen atrasos o ejecuciones tempranas.\n\nFuente : https://tinyurl.com/28e2q6h2\n#SafetrustMortgage #MortgageIntelligenceDaily #mortgagebroker #loanofficer #housingmarket",
       "hashtags": [
         "#SafetrustMortgage",
         "#MortgageIntelligenceDaily",
         "#mortgagebroker",
         "#loanofficer",
-        "#homebuying"
+        "#housingmarket"
       ],
-      "hook_tag": "Actualización de evaluación crediticia",
-      "hook": "Las acciones de ese trabajador tecnológico no sirven para evaluar su crédito.",
-      "what_happened_heading": "La postura de Fannie Mae antes de una OPI",
-      "what_happened": "Las pautas de Fannie Mae pueden ignorar el historial de acciones en empresas privadas para calificar ingresos. Los prestamistas ahora exigen un promedio de 200 días de cotización tras la oferta pública inicial.",
+      "hook_tag": "RIESGO EN EVALUACIÓN",
+      "hook": "Los impuestos inmobiliarios actuales en nuevos tratos son una ilusión.",
+      "what_happened_heading": "LO QUE SUCEDIÓ",
+      "what_happened": "La evaluación de impuestos inmobiliarios debe separar los impuestos actuales de los impuestos proyectados para considerar las reglas locales de reevaluación. La diferencia de valor entre los impuestos actuales del vendedor y las evaluaciones posteriores a la venta suele causar un gran impacto financiero.",
       "breakdown": [
         {
-          "heading": "La ilusión de la riqueza en papel",
-          "body": "Tener millones en acciones privadas se ve muy bien en papel. Sin embargo, los asesores no pueden considerar esa riqueza como ingreso calificado sin un historial de cotización pública."
+          "heading": "Impuesto actual frente a proyectado",
+          "body": "Los impuestos actuales reflejan el historial del vendedor, no la futura cuenta del comprador. Los impuestos proyectados estiman lo que sucederá tras la reevaluación local posterior al cierre."
         },
         {
-          "heading": "El reloj de los 200 días",
-          "body": "El plazo inicia cuando la empresa sale a la bolsa. La evaluación requiere 200 días de historial accionario para promediar la volatilidad antes de considerar esos ingresos."
+          "heading": "Las reglas de reevaluación importan",
+          "body": "Las autoridades fiscales reevalúan las propiedades al transferirse. Ignorar los ajustes posteriores a la venta genera fondos de reserva (cuentas para impuestos y seguros) insuficientes y graves faltantes futuros."
         },
         {
           "heading": "La perspectiva del asesor",
-          "body": "Esto cambia al evaluar el expediente: no podemos aprobar ingresos usando documentos de concesión previa a la OPI. Necesitamos acciones públicas consolidadas e historial de liquidación."
+          "body": "Esto cambia al evaluar el expediente: los asesores (underwriters) deben calcular la relación de gastos de vivienda usando impuestos proyectados para evitar riesgos de incumplimiento de pago."
         },
         {
-          "heading": "Cambio hacia dinero líquido",
-          "body": "Los compradores no pueden confiar en la liquidez futura de acciones para reducir su DTI (relación deuda-ingreso). Deben recurrir a sus ahorros líquidos disponibles."
+          "heading": "Proteja la calidad de su cartera",
+          "body": "Precalificar compradores con impuestos sin ajustar infla falsamente el monto aprobado. Cuando llega la factura real, la relación deuda-ingreso (DTI) supera los límites máximos permitidos."
         }
       ],
-      "my_take_heading": "Los millones en papel no pagan hipotecas",
-      "my_take": "La riqueza en acciones no es ingreso calificado hasta que el mercado lo demuestre durante 200 días. Deje de preaprobar compradores tecnológicos basándose en promesas de valoraciones privadas.",
-      "action_lo": "Audite los ingresos por acciones privadas de sus clientes tecnológicos antes de emitir preaprobaciones dependientes de ese capital.",
-      "action_realtor": "Solicite a los compradores tecnológicos comprobantes de fondos líquidos para el pago inicial en lugar de confiar en futuras OPI.",
-      "cta_question": "¿Sus compradores del sector tecnológico se están viendo sorprendidos por el requisito de los 200 días tras la OPI?"
+      "my_take_heading": "PERSPECTIVA DIVERGENTE",
+      "my_take": "Cotizar pagos mensuales con impuestos históricos del vendedor no es una venta agresiva, es un fallo garantizado del préstamo. Si no evalúa la reevaluación fiscal desde el inicio, el déficit de reserva destruirá la retención de sus clientes.",
+      "action_lo": "Calcule las preaprobaciones utilizando estimaciones fiscales reevaluadas posteriores a la venta en lugar de la factura actual del vendedor.",
+      "action_realtor": "Advierta a los compradores con anticipación sobre la reevaluación fiscal para que los cambios en las cuotas no afecten su presupuesto.",
+      "cta_question": "¿Cómo calcula su empresa las reevaluaciones fiscales en las preaprobaciones de compradores hoy en día?"
     },
     {
-      "slug": "fed-warsh-housing-strain-hikes",
-      "title": "El presidente de la Reserva Federal, Warsh, mantiene vivas las alzas de tasas a pesar de la presión en la vivienda",
-      "source": "National Mortgage Professional",
-      "source_url": "https://nationalmortgageprofessional.com/news/warsh-sees-housing-strain-keeps-rate-hikes-play",
-      "cover_text": "El discurso de la Fed que todos malinterpretaron",
-      "caption": "No confunda la empatía de la Reserva Federal con un alivio monetario para los compradores.\n\nEl presidente Kevin Warsh señaló en Jackson Hole que la vivienda está bajo presión, pero aclaró que las alzas de tasas siguen vigentes si los datos económicos lo exigen. Si su estrategia depende de que el banco central baje los intereses para salvar sus operaciones, está jugando un juego peligroso. Por ello, los oficiales de crédito y agentes inmobiliarios deben incluir un margen en cada preaprobación. El control de la inflación sigue siendo la prioridad del banco central, por lo que el volumen de viviendas pasa a segundo plano. Proteja a sus prestatarios bloqueando las tasas a tiempo y evaluando las relaciones de deuda antes de que llegue la volatilidad.\n\nFuente : https://tinyurl.com/25gjqe4n\n#SafetrustMortgage #MortgageIntelligenceDaily #mortgagerates #housingmarket #loanofficer",
-      "hashtags": [
-        "#SafetrustMortgage",
-        "#MortgageIntelligenceDaily",
-        "#mortgagerates",
-        "#housingmarket",
-        "#loanofficer"
-      ],
-      "hook_tag": "Cambio en la política de la Fed",
-      "hook": "El presidente Warsh reconoció la presión inmobiliaria, pero no habrá recortes.",
-      "what_happened_heading": "Warsh habla en Jackson Hole",
-      "what_happened": "El presidente de la Reserva Federal, Kevin Warsh, señaló la vivienda como un punto débil durante su discurso en Jackson Hole. Sin embargo, advirtió que la presión inmobiliaria no impedirá futuras alzas de tasas.",
-      "breakdown": [
-        {
-          "heading": "La vivienda bajo presión",
-          "body": "Warsh admitió que el sector inmobiliario sufre por la política monetaria actual. Sin embargo, la inflación sigue siendo la prioridad del banco central por encima de la vivienda."
-        },
-        {
-          "heading": "Las alzas de tasas siguen vigentes",
-          "body": "Wall Street esperaba señales claras de recortes. En cambio, Warsh dejó abierta la posibilidad de aumentar las tasas si los datos de inflación entrantes así lo requieren."
-        },
-        {
-          "heading": "La perspectiva del asesor",
-          "body": "Esto cambia al evaluar el expediente: el riesgo de bloqueo de tasa aumenta. Los compradores con tasas flotantes pueden no calificar si los rendimientos suben repentinamente."
-        },
-        {
-          "heading": "Margen de seguridad",
-          "body": "Los oficiales de crédito no deben emitir preaprobaciones al límite de la capacidad de deuda. La volatilidad exige prever cambios en las tasas antes del cierre."
-        }
-      ],
-      "my_take_heading": "La Reserva Federal no rescatará al sector inmobiliario",
-      "my_take": "Reconocer la presión inmobiliaria no es una promesa de alivio. La Reserva Federal sacrificará gustosamente el volumen de viviendas con tal de frenar la inflación persistente.",
-      "action_lo": "Evalúe hoy mismo sus préstamos con tasa flotante ante un posible aumento de 50 puntos básicos.",
-      "action_realtor": "Prepare a los vendedores para una capacidad de compra volátil mientras persista la amenaza de alzas de tasas.",
-      "cta_question": "¿Está bloqueando las cotizaciones de tasa más temprano en el proceso o prefiere flotar ante la volatilidad?"
-    },
-    {
-      "slug": "compass-nwmls-first-look-rule",
-      "title": "La política First Look de NWMLS cambia las propiedades de próxima publicación",
+      "slug": "california-condo-defect-reform-fails",
+      "title": "Fracasa la reforma de defectos en condominios en California",
       "source": "HousingWire",
-      "source_url": "https://www.housingwire.com/articles/compass-nwmls-coming-soon-settlement/",
-      "cover_text": "La nueva regla fuera del mercado en Seattle",
-      "caption": "El acuerdo entre Compass y NWMLS marca un cambio importante en cómo ingresan las propiedades al mercado.\n\nA partir de septiembre de 2026, el estado First Look permitirá promocionar inmuebles durante 21 días sin acumular días en el mercado ni historial de precios públicos. Para compradores y oficiales de crédito, esto exige una ejecución rápida y una evaluación crediticia (underwriting) previa. Esto afectará el flujo de sus operaciones y los plazos de tasación. Cuando los listados no aparecen en los portales públicos, las redes privadas de agentes son esenciales para encontrar inventario. Asegúrese de que sus compradores tengan una preaprobación completa para presentar ofertas competitivas antes de que la propiedad llegue al MLS público tradicional.\n\nFuente : https://tinyurl.com/22tmayjo\n#SafetrustMortgage #MortgageIntelligenceDaily #realestateagent #housingmarket #firsttimehomebuyer",
+      "source_url": "https://www.housingwire.com/articles/california-condo-defect-reform-fails/",
+      "cover_text": "Fracasa reforma de condominios en California",
+      "caption": "El proyecto de ley 1903 de la Asamblea de California fracasó al vencer el plazo legislativo tras enmiendas tardías del Senado. Este fallo mantiene sin cambios las normas de defectos en condominios, conservando una alta responsabilidad para los desarrolladores y limitando el inventario de viviendas adosadas. Cuando un expediente de condominio entra a evaluación, la aprobación de proyectos elegibles (que cumplen con las guías de Fannie o Freddie) sigue siendo un gran obstáculo debido a las estrictas revisiones de la asociación de propietarios (HOA). Los oficiales de crédito que dominen las pautas de préstamos no calificados (Non-QM) ganarán cuota de mercado mientras los préstamos convencionales se estancan.\n\nFuente : https://tinyurl.com/2d6rt97g\n#SafetrustMortgage #MortgageIntelligenceDaily #realestateagent #mortgagebroker #firsttimehomebuyer",
       "hashtags": [
         "#SafetrustMortgage",
         "#MortgageIntelligenceDaily",
         "#realestateagent",
-        "#housingmarket",
+        "#mortgagebroker",
         "#firsttimehomebuyer"
       ],
-      "hook_tag": "Reglas de listados en el MLS",
-      "hook": "El acuerdo de NWMLS cambia el funcionamiento de los listados próximos.",
-      "what_happened_heading": "El acuerdo de NWMLS",
-      "what_happened": "Compass resolvió su demanda con Northwest MLS creando la categoría de listado First Look. Los vendedores obtienen hasta 21 días fuera del mercado sin acumular días de cotización pública.",
+      "hook_tag": "MERCADO DE CONDOMINIOS",
+      "hook": "Fracasó la reforma de condominios, manteniendo bloqueado el inventario de alto riesgo.",
+      "what_happened_heading": "LO QUE SUCEDIÓ",
+      "what_happened": "El proyecto de ley 1903 de la Asamblea de California no logró aprobarse antes de finalizar la sesión legislativa. Las enmiendas tardías del Senado devolvieron la propuesta a la Asamblea, donde se agotó el tiempo antes de votar.",
       "breakdown": [
         {
-          "heading": "La ventana de 21 días",
-          "body": "Los vendedores ganan 21 días de flexibilidad comercial bajo First Look. Durante este periodo, los sistemas públicos ocultan el historial de precios y los días en mercado."
+          "heading": "Se agotó el tiempo para el AB 1903",
+          "body": "El proyecto AB 1903 buscaba reformar las normas de defectos en condominios en California. Las enmiendas tardías del Senado retrasaron la medida hasta que finalizó el período legislativo."
         },
         {
-          "heading": "Ventaja fuera del mercado",
-          "body": "Los agentes pueden probar precios discretamente. Los compradores obtienen acceso anticipado antes de la publicación masiva, lo que transforma por completo el flujo tradicional de búsqueda."
+          "heading": "El inventario continúa bloqueado",
+          "body": "Sin reformas, los desarrolladores enfrentan riesgos legales constantes que limitan la construcción de condominios. El inventario disponible sigue siendo escaso debido al temor a posibles demandas judiciales."
         },
         {
           "heading": "La perspectiva del asesor",
-          "body": "Esto cambia al evaluar el expediente: los tasadores pierden visibilidad en el MLS de ventas comparables durante ese periodo, lo que complica los plazos de valoración."
+          "body": "Esto cambia al evaluar el expediente: las revisiones de condominios no elegibles (Non-warrantable) siguen siendo rigurosas, exigiendo un análisis estricto de la HOA, mantenimiento diferido y reservas legales."
         },
         {
-          "heading": "Velocidad de preaprobación",
-          "body": "Los compradores interesados en First Look requieren una evaluación crediticia previa completa. Las ofertas privadas exigen financiamiento aprobado antes de la exposición pública de la vivienda."
+          "heading": "Impacto en el financiamiento",
+          "body": "Los compradores de primera vivienda enfrentan inventario limitado y aprobaciones de proyectos más difíciles. Los prestamistas deberán apoyarse en programas no calificados (Non-QM) para concretar operaciones."
         }
       ],
-      "my_take_heading": "Los días en mercado públicos pierden relevancia",
-      "my_take": "Ocultar los días en mercado por 21 días otorga más poder a quienes controlan el inventario. Sus datos de mercado valen tanto como la calidad de su red privada.",
-      "action_lo": "Establezca contacto directo con los mejores agentes de listado para evaluar previamente a sus compradores antes de los 21 días.",
-      "action_realtor": "Eduque a los vendedores sobre el uso del estado First Look de 21 días para probar precios sin generar desgaste público.",
-      "cta_question": "¿Se extenderá la ventana de 21 días sin días públicos en el mercado a otros sistemas MLS del país?"
+      "my_take_heading": "PERSPECTIVA DIVERGENTE",
+      "my_take": "El fracaso del AB 1903 mantiene bloqueada la vivienda accesible en California. Los prestamistas que dominen la evaluación de condominios no elegibles (Non-warrantable) ganarán mercado mientras las entidades tradicionales se alejan.",
+      "action_lo": "Asóciese con especialistas en préstamos no calificados (Non-QM) para aprobar proyectos de condominios que no cumplen con los estándares convencionales de Fannie o Freddie.",
+      "action_realtor": "Revise el estado de litigios de la asociación de propietarios (HOA) al inicio para evitar sorpresas durante la aprobación del proyecto.",
+      "cta_question": "¿El fracaso de la reforma impulsará los préstamos de condominios Non-QM en su mercado?"
+    },
+    {
+      "slug": "figure-acquires-kiavi-dscr-lending",
+      "title": "Figure completa la adquisición de Kiavi ante mayor competencia en DSCR",
+      "source": "National Mortgage Professional",
+      "source_url": "https://nationalmortgageprofessional.com/news/figure-closes-kiavi-deal-dscr-competition-tightens",
+      "cover_text": "Figure adquiere Kiavi en gran consolidación tecnológica",
+      "caption": "Figure Technology Solutions completó la adquisición de Kiavi, consolidando una enorme presencia en el mercado de DSCR (relación de cobertura del servicio de la deuda, que compara el flujo de caja con los pagos). A medida que aumenta la competencia en financiamiento para inversionistas, las plataformas de capital automatizan la evaluación de propiedades con ingresos por renta. Al evaluar un expediente de inversión, la verificación rápida de contratos de arrendamiento y el análisis de rentas definirán a los prestamistas ganadores. La escala operativa presiona los márgenes, haciendo fundamental la ejecución rápida para oficiales de crédito. Comprender los parámetros automáticos de evaluación DSCR brindará una ventaja competitiva decisiva.\n\nFuente : https://tinyurl.com/26w2au2p\n#SafetrustMortgage #MortgageIntelligenceDaily #realestateinvesting #mortgagebroker #loanofficer",
+      "hashtags": [
+        "#SafetrustMortgage",
+        "#MortgageIntelligenceDaily",
+        "#realestateinvesting",
+        "#mortgagebroker",
+        "#loanofficer"
+      ],
+      "hook_tag": "PRÉSTAMOS PARA INVERSIONISTAS",
+      "hook": "La tecnología a escala está transformando los préstamos DSCR para inversionistas.",
+      "what_happened_heading": "LO QUE SUCEDIÓ",
+      "what_happened": "Figure Technology Solutions completó la adquisición de Kiavi. Este acuerdo integra a uno de los principales prestamistas inmobiliarios para inversionistas a la plataforma de Figure en pleno aumento de la competencia en DSCR.",
+      "breakdown": [
+        {
+          "heading": "Gran consolidación en DSCR",
+          "body": "Figure adquirió Kiavi, uniendo tecnología bursátil con un líder en financiamiento residencial para inversionistas. El acuerdo se enfoca fuertemente en productos de préstamo por cobertura de deuda (DSCR)."
+        },
+        {
+          "heading": "Integración tecnológica",
+          "body": "Incorporar el volumen de Kiavi en Figure busca mayor velocidad y liquidez. La alta competencia impulsa la eficiencia a escala en los canales de financiamiento para inversionistas."
+        },
+        {
+          "heading": "La perspectiva del asesor",
+          "body": "Esto cambia al evaluar el expediente: la evaluación automatizada de DSCR prioriza la verificación digital de contratos y rentas, obligando a los asesores (underwriters) tradicionales a adaptarse a reglas algorítmicas."
+        },
+        {
+          "heading": "Presión de márgenes",
+          "body": "La consolidación de capital institucional reduce los costos de ejecución para plataformas grandes. Los prestamistas más pequeños deben ofrecer un conocimiento local especializado frente a márgenes más estrechos."
+        }
+      ],
+      "my_take_heading": "PERSPECTIVA DIVERGENTE",
+      "my_take": "Los préstamos DSCR pasaron de ser un nicho privado a un juego de liquidez tecnológica. La escala mejora precios, pero la rapidez evaluando flujos de caja determinará quién conserva la lealtad del cliente.",
+      "action_lo": "Agilice la recepción de documentos de sus clientes DSCR recopilando contratos de arrendamiento y registros de renta para competir con plataformas automatizadas.",
+      "action_realtor": "Trabaje con inversionistas en propiedades de 1 a 4 unidades que generen flujos de caja acordes a los parámetros de cobertura de arrendamiento.",
+      "cta_question": "¿Cómo afecta la consolidación tecnológica en préstamos DSCR a los precios de su cartera de inversionistas?"
     }
   ]
 }
