@@ -1,258 +1,258 @@
 {
   "carousels": [
     {
-      "slug": "property-tax-underwriting-trap",
-      "title": "The Property Tax Trap Hiding in Underwriting",
+      "slug": "new-homes-cheaper-than-resale",
+      "title": "Think New Homes Cost More? Not Right Now",
+      "source": "Keeping Current Matters",
+      "source_url": "https://www.keepingcurrentmatters.com/2026/09/02/think-new-homes-cost-more-not-right-now/",
+      "cover_text": "New homes are cheaper than existing ones",
+      "caption": "New construction is undercutting resale homes, flipping traditional housing market pricing on its head. Most buyers assume brand new homes cost more than existing ones, but right now that script is reversed. Resale sellers are clinging to yesterday's peak valuations while builders cut prices to keep inventory moving. Here is what this actually changes when a file hits underwriting: clean new builds dodge appraisal repair issues and lower DTI (debt-to-income, how much income goes to debt) through structured credits. If you are trying to write clean loans today, new construction is offering the path of least resistance. Resale sellers will have to adapt or keep losing buyers to corporate builder balance sheets.\n\nSource : https://tinyurl.com/2b4t726g\n#SafetrustMortgage #MortgageIntelligenceDaily #housingmarket #realestateagent #loanofficer",
+      "hashtags": [
+        "#SafetrustMortgage",
+        "#MortgageIntelligenceDaily",
+        "#housingmarket",
+        "#realestateagent",
+        "#loanofficer"
+      ],
+      "hook_tag": "New Construction Math",
+      "hook": "New builds are actually undercutting existing home prices right now.",
+      "what_happened_heading": "Builder pricing flips the traditional market script",
+      "what_happened": "Buyers typically expect to pay a premium for brand new construction over existing homes. Right now, that math is turned upside down as new build prices drop below resale homes.",
+      "breakdown": [
+        {
+          "heading": "Resale sellers are stuck in the past",
+          "body": "Existing homeowners are anchoring to peak valuation numbers from previous years. Builders operate on cash flow and clear inventory fast by cutting base prices aggressively."
+        },
+        {
+          "heading": "What this changes in underwriting",
+          "body": "Here is what this actually changes when a file hits underwriting: builder price cuts and incentives directly lower DTI (debt-to-income, the percent of income buying debt) without appraisal hurdles."
+        },
+        {
+          "heading": "Rate buydowns shift the monthly payment",
+          "body": "Builders use scale to subsidize financing instead of holding firm on price. That structured financing lowers the buyer's PITI (principal, interest, taxes, and insurance) far more effectively."
+        },
+        {
+          "heading": "Clean approvals on new builds",
+          "body": "Resale deals frequently stall over repair escrows and property condition reports. New construction files clear automated underwriting systems faster with zero deferred maintenance flags."
+        }
+      ],
+      "my_take_heading": "Existing home sellers are losing buyers to builder balance sheets",
+      "my_take": "Resale sellers are competing with corporate balance sheets, not other families. Until resale prices adjust to reality, builders will capture every price-sensitive buyer in the market.",
+      "action_lo": "Pitch new build financing options to buyers squeezed by high resale prices.",
+      "action_realtor": "Guide resale sellers to match builder incentives or risk sitting on the market.",
+      "cta_question": "Are your buyers choosing new builds over resale purely based on monthly payment?"
+    },
+    {
+      "slug": "florida-insurance-market-rebounds",
+      "title": "Florida Homebuyers Can Breathe Easier as Insurance Market Rebounds",
       "source": "HousingWire",
-      "source_url": "https://www.housingwire.com/articles/property-tax-reassessment-risk/",
-      "cover_text": "The Hidden Tax Trap In Your Underwriting",
-      "caption": "Quoting monthly mortgage payments based on a seller's historical property taxes is setting your borrower up for failure. When real estate reassessments hit post-closing, low escrows (accounts set aside for taxes and insurance) quickly convert into massive monthly payment shocks. Underwriters look past historical tax bills to stabilized tax projections because DTI (debt-to-income ratio, or how much income goes to debt) must hold up after reassessment. If your pipeline relies on unadjusted current taxes, your client retention and loan quality are taking on hidden default risks. Prepare borrowers early so payment adjustments do not trigger late payments or early payment defaults.\n\nSource : https://tinyurl.com/28e2q6h2\n#SafetrustMortgage #MortgageIntelligenceDaily #mortgagebroker #loanofficer #housingmarket",
+      "source_url": "https://www.housingwire.com/articles/florida-insurance-citizens-drop/",
+      "cover_text": "Florida insurance market is finally turning around",
+      "caption": "Florida home insurance relief is quietly fixing the biggest silent deal killer in the state. Nearly 20 insurers entered or reentered the market following legislative reforms from 2022 and 2023. That creates real competition and simplifies the closing process for buyers. Here is what this actually changes when a file hits underwriting: consistent insurance quotes keep PITI (principal, interest, taxes, and insurance) predictable, preventing DTI (debt-to-income, how much of your income goes to debt) from blowing up at clear to close. For years, late insurance spikes killed conditional approvals right before closing. Now, stabilized property coverage gives loan officers and realtors a reliable path to get buyers approved without last-minute scrambling.\n\nSource : https://tinyurl.com/25arbuf9\n#SafetrustMortgage #MortgageIntelligenceDaily #homebuying #loanofficer #mortgagebroker",
+      "hashtags": [
+        "#SafetrustMortgage",
+        "#MortgageIntelligenceDaily",
+        "#homebuying",
+        "#loanofficer",
+        "#mortgagebroker"
+      ],
+      "hook_tag": "Insurance Market Shift",
+      "hook": "Florida home insurance relief changes the game for loan approvals.",
+      "what_happened_heading": "Florida home insurance options expand after state legislative reforms",
+      "what_happened": "Nearly 20 insurers entered or reentered Florida following legislative reforms passed in 2022 and 2023. This influx is easing property insurance quoting and closing challenges across the state.",
+      "breakdown": [
+        {
+          "heading": "Insurance premiums previously spiked buyer debt ratios",
+          "body": "Unpredictable homeowners insurance quotes were pushing buyer DTI (debt-to-income, your monthly debt vs gross income) past maximum limits right before closing dates."
+        },
+        {
+          "heading": "What this changes in underwriting",
+          "body": "Here is what this actually changes when a file hits underwriting: insurance quotes are now stable enough to calculate precise PITI (principal, interest, taxes, insurance) early in processing."
+        },
+        {
+          "heading": "Lower fallout at clear to close",
+          "body": "Lenders were seeing conditional approvals die late in the loan cycle when insurance binders came in higher than projected. Stable carrier options eliminate these last-minute underwriting rejections."
+        },
+        {
+          "heading": "Closing timelines get fast again",
+          "body": "Loan originators no longer waste weeks hunting down specialized surplus line policies to satisfy guidelines. Standard insurance binders speed up loan file sign-offs."
+        }
+      ],
+      "my_take_heading": "Insurance stability matters far more than minor rate fluctuations",
+      "my_take": "Rate cuts do not matter if insurance spikes blow up your buyer's debt ratio. Restoring carrier competition fixes the silent deal killer that ruined Florida pipelines for years.",
+      "action_lo": "Recalculate pre-approvals for past Florida clients who failed DTI limits on insurance costs.",
+      "action_realtor": "Re-engage stalled Florida buyers now that property insurance quoting has stabilized.",
+      "cta_question": "Are you seeing lower property insurance quotes save previously dead Florida files?"
+    },
+    {
+      "slug": "nexa-removes-guardrails-100-percent-revenue",
+      "title": "NEXA Removes The Guardrails From Its 100% Revenue Model",
+      "source": "National Mortgage Professional",
+      "source_url": "https://nationalmortgageprofessional.com/news/nexa-removes-guardrails-its-100-revenue-model",
+      "cover_text": "Free loan compensation models carry hidden tradeoffs",
+      "caption": "NEXA Unlimited is dropping fees and production minimums for 100 percent compensation, but every broker business model has tradeoffs. The company is removing per-file fees and recruiting requirements on qualifying loans through select wholesale lenders. Here is what this actually changes when a file hits underwriting: limiting files to specific participating lenders can mean facing tougher underwriting overlays (extra rules added by lenders) when a borrower has a complex scenario. Zero-fee structures sound incredible on paper, but loan officers must look at overall pricing, execution speed, and investor flexibility. Keeping 100 percent of zero deals is still zero. Smart originators evaluate whole-platform capability over pure commission splits.\n\nSource : https://tinyurl.com/23w82eks\n#SafetrustMortgage #MortgageIntelligenceDaily #mortgagebroker #loanofficer #mortgagerates",
       "hashtags": [
         "#SafetrustMortgage",
         "#MortgageIntelligenceDaily",
         "#mortgagebroker",
         "#loanofficer",
-        "#housingmarket"
+        "#mortgagerates"
       ],
-      "hook_tag": "UNDERWRITING RISK",
-      "hook": "Current property taxes on new deals are an illusion.",
-      "what_happened_heading": "WHAT HAPPENED",
-      "what_happened": "Property tax underwriting must separate current taxes from stabilized taxes to account for local reassessment rules. The valuation gap between current seller taxes and post-sale assessments often leads to severe payment shock.",
+      "hook_tag": "Loan Originator Compensation",
+      "hook": "100 percent compensation with no fee sounds too good.",
+      "what_happened_heading": "NEXA removes volume and recruiting requirements for full payout",
+      "what_happened": "NEXA Lending launched NEXA Unlimited, removing production and recruiting requirements to access 100 percent revenue on qualifying loans through select lenders. The program eliminates flat fees, added per-file fees, and correspondent funding charges on these specific options.",
       "breakdown": [
         {
-          "heading": "Current Tax Vs Stabilized Tax",
-          "body": "Current taxes reflect the seller's historical baseline, not the buyer's future bill. Stabilized taxes project what happens after local reassessments trigger post-closing."
+          "heading": "Free models always shift operating expenses somewhere",
+          "body": "No broker operates for zero cost. When per-file fees disappear on select products, the revenue loss is offset by lender pricing adjustments or platform concessions."
         },
         {
-          "heading": "Reassessment Rules Matter",
-          "body": "Local tax authorities reassess properties upon transfer. Ignoring post-sale adjustments leads to understated escrows (accounts set aside for taxes and insurance) and severe escrow shortages later."
+          "heading": "What this changes in underwriting",
+          "body": "Here is what this actually changes when a file hits underwriting: restricted lender lists limit your loan options, forcing non-standard files into underwriters with stricter underwriting overlays (extra lender rules)."
         },
         {
-          "heading": "Underwriter Lens Perspective",
-          "body": "Here's what this actually changes when a file hits underwriting: underwriters must calculate housing expense ratios using projected post-sale taxes rather than current billings to prevent default risk."
+          "heading": "Production quotas replaced by lender restriction",
+          "body": "Removing production thresholds gives solo originators flexibility, but limits choice to participating wholesale investors who compensate the platform directly behind the scenes."
         },
         {
-          "heading": "Protecting Pipeline Quality",
-          "body": "Prequalifying buyers on unadjusted property taxes inflates approval amounts artificially. When the true tax bill hits, DTI (debt-to-income ratio) blows past maximum allowable thresholds."
+          "heading": "Operational support determines real loan velocity",
+          "body": "Full compensation models often put processing burdens on originators. If file setup and clear-to-close times stall, higher compensation per file is wiped out by lost deal volume."
         }
       ],
-      "my_take_heading": "THE CONTRARIAN TAKE",
-      "my_take": "Quoting monthly payments on historical seller taxes isn't aggressive sales—it's delayed loan failure. If you don't underwrite the tax reassessment upfront, the escrow shortage will destroy your client retention.",
-      "action_lo": "Calculate pre-approvals using post-sale reassessed tax estimates rather than the seller's current property tax bill.",
-      "action_realtor": "Warn buyers upfront about post-sale tax reassessments so payment changes don't destroy their post-closing budget.",
-      "cta_question": "How is your operation factoring tax reassessments into upfront buyer pre-approvals today?"
-    },
-    {
-      "slug": "california-condo-defect-reform-fails",
-      "title": "California Condo Defect Reform Fails at Deadline",
-      "source": "HousingWire",
-      "source_url": "https://www.housingwire.com/articles/california-condo-defect-reform-fails/",
-      "cover_text": "California Condo Defect Reform Fails",
-      "caption": "California's Assembly Bill 1903 failed at the legislative deadline after late Senate amendments sent it back to the Assembly without a vote. This failure leaves condo defect rules unchanged, keeping developer liability high and attached housing inventory constrained. When a condo file hits underwriting, project approval guidelines for warrantable condos (condos that meet Fannie or Freddie guidelines) remain a massive bottleneck due to strict HOA review requirements. Loan officers who master non-QM (non-qualifying mortgage) condo guidelines will win market share while conventional pipelines stall. Navigating non-warrantable condo project approvals will be key to unlocking attached housing deals in tight markets.\n\nSource : https://tinyurl.com/2d6rt97g\n#SafetrustMortgage #MortgageIntelligenceDaily #realestateagent #mortgagebroker #firsttimehomebuyer",
-      "hashtags": [
-        "#SafetrustMortgage",
-        "#MortgageIntelligenceDaily",
-        "#realestateagent",
-        "#mortgagebroker",
-        "#firsttimehomebuyer"
-      ],
-      "hook_tag": "CONDO MARKET",
-      "hook": "Condo defect reform died, keeping high-risk condo inventory locked.",
-      "what_happened_heading": "WHAT HAPPENED",
-      "what_happened": "California Assembly Bill 1903 failed to pass before the legislative session ended. Late Senate amendments sent AB 1903 back to the Assembly, where time ran out before a vote.",
-      "breakdown": [
-        {
-          "heading": "AB 1903 Clock Ran Out",
-          "body": "Assembly Bill 1903 aimed to reform condo defect rules in California. Late Senate amendments delayed the measure until the legislative session clock ran out."
-        },
-        {
-          "heading": "Locked Inventory Continues",
-          "body": "Without reform, developers face ongoing liability risks that restrict new condo construction. Existing attached inventory remains tight as litigation fears deter new builds."
-        },
-        {
-          "heading": "Underwriter Lens Perspective",
-          "body": "Here's what this actually changes when a file hits underwriting: non-warrantable condo (condos that fail agency guidelines) reviews remain rigorous, requiring strict review of HOAs, deferred maintenance, and litigation reserves."
-        },
-        {
-          "heading": "Market Financing Impact",
-          "body": "Buyers seeking affordable entry-level housing face limited inventory and tougher project approvals. Lenders must rely heavily on specialized non-QM (non-qualifying mortgage) condo programs to execute deals."
-        }
-      ],
-      "my_take_heading": "THE CONTRARIAN TAKE",
-      "my_take": "The death of AB 1903 isn't just a political delay; it permanently locks affordable attached housing in California. Lenders who master non-warrantable condo underwriting will capture market share while traditional lenders walk away.",
-      "action_lo": "Partner with non-QM non-warrantable condo outlets to clear condo projects that fail conventional Fannie or Freddie standards.",
-      "action_realtor": "Review HOA litigation status early in listing or buying conversations to avoid surprises during condo project approval.",
-      "cta_question": "Will failure of condo reform accelerate non-QM condo lending in your market?"
-    },
-    {
-      "slug": "figure-acquires-kiavi-dscr-lending",
-      "title": "Figure Closes Kiavi Acquisition as DSCR Competition Tightens",
-      "source": "National Mortgage Professional",
-      "source_url": "https://nationalmortgageprofessional.com/news/figure-closes-kiavi-deal-dscr-competition-tightens",
-      "cover_text": "Figure Acquires Kiavi In Major Tech Consolidation",
-      "caption": "Figure Technology Solutions has completed its acquisition of Kiavi, creating a massive footprint in the DSCR (debt-service coverage ratio, comparing property cash flow to debt payments) market. As competition tightens across investor lending, capital marketplaces are automating underwriting reviews for cash-flowing properties. When an investor file hits underwriting, fast lease-to-debt verification and appraisal rental analysis will separate winning lenders from slow originators. Scaled capital platforms are squeezing margins, making fast execution critical for loan officers serving real estate investors. Understanding automated DSCR underwriting parameters will give originators a distinct edge in closing investor transactions quickly.\n\nSource : https://tinyurl.com/26w2au2p\n#SafetrustMortgage #MortgageIntelligenceDaily #realestateinvesting #mortgagebroker #loanofficer",
-      "hashtags": [
-        "#SafetrustMortgage",
-        "#MortgageIntelligenceDaily",
-        "#realestateinvesting",
-        "#mortgagebroker",
-        "#loanofficer"
-      ],
-      "hook_tag": "INVESTOR LENDING",
-      "hook": "Tech scale is reshaping DSCR lending for investor properties.",
-      "what_happened_heading": "WHAT HAPPENED",
-      "what_happened": "Figure Technology Solutions completed its acquisition of Kiavi. The deal brings a top residential real estate investor lender onto Figure's capital marketplace as DSCR competition intensifies.",
-      "breakdown": [
-        {
-          "heading": "Major DSCR Consolidation",
-          "body": "Figure acquired Kiavi, combining capital marketplace tech with one of the largest residential investor lenders. The deal focuses heavily on DSCR (debt-service coverage ratio) lending products."
-        },
-        {
-          "heading": "Capital Marketplace Integration",
-          "body": "Placing Kiavi's volume on Figure's marketplace targets speed and liquidity. Higher competition drives scale efficiency across investor financing channels."
-        },
-        {
-          "heading": "Underwriter Lens Perspective",
-          "body": "Here's what this actually changes when a file hits underwriting: tech-driven DSCR reviews prioritize automated lease verification and appraisal rental schedules, forcing traditional underwriters to adapt to algorithmic guidelines."
-        },
-        {
-          "heading": "Margin Pressure On Lenders",
-          "body": "Institutional capital consolidation lowers execution costs for scaled platforms. Smaller originators must offer distinct local expertise as investor yields get squeezed."
-        }
-      ],
-      "my_take_heading": "THE CONTRARIAN TAKE",
-      "my_take": "DSCR lending is shifting from niche private lending to a tech-driven liquidity game. Scale wins pricing, but speed in underwriting investor cash flows will dictate who retains loan officer relationships.",
-      "action_lo": "Streamline your DSCR buyer intake process around rent rolls and lease docs to compete with automated marketplace execution.",
-      "action_realtor": "Work with real estate investors on cash-flowing 1-4 unit properties that meet strict lease coverage benchmarks.",
-      "cta_question": "How is tech consolidation in DSCR lending affecting your investor pipeline pricing?"
+      "my_take_heading": "Compensation structure never replaces loan execution and investor options",
+      "my_take": "Zero fees are marketing; execution is reality. An LO keeping 100 percent of a dead loan makes zero dollars—investor options and underwriting speed beat payout percentages every time.",
+      "action_lo": "Compare total turn times and lender overlays on 100 percent payout products before moving files.",
+      "action_realtor": "Ask your lender partner if their business model restricts which wholesale investors they can use.",
+      "cta_question": "Would you accept restricted wholesale lender options in exchange for 100 percent loan compensation?"
     }
   ],
   "carousels_es": [
     {
-      "slug": "property-tax-underwriting-trap",
-      "title": "La trampa de los impuestos inmobiliarios en la evaluación de préstamos",
+      "slug": "new-homes-cheaper-than-resale",
+      "title": "¿Cree que las casas nuevas cuestan más? Ahora no",
+      "source": "Keeping Current Matters",
+      "source_url": "https://www.keepingcurrentmatters.com/2026/09/02/think-new-homes-cost-more-not-right-now/",
+      "cover_text": "Las casas nuevas están más baratas que antes",
+      "caption": "Las viviendas nuevas están ofreciendo mejores precios que las casas usadas, cambiando las reglas tradicionales del mercado inmobiliario. Muchos compradores asumen que las propiedades a estrenar cuestan más, pero hoy esa realidad ha cambiado. Los vendedores de casas usadas mantienen precios altos del pasado, mientras los constructores reducen precios para mover su inventario. Esto es lo que cambia al evaluar un expediente: las construcciones nuevas evitan reparaciones por avalúo y bajan la relación deuda-ingreso (DTI, por sus siglas en inglés) mediante créditos estructurados. Si usted busca aprobar préstamos fácilmente hoy, las viviendas nuevas ofrecen el camino más directo. Los vendedores particulares tendrán que adaptarse o seguirán perdiendo clientes frente a las grandes empresas constructoras.\n\nFuente : https://tinyurl.com/2b4t726g\n#SafetrustMortgage #MortgageIntelligenceDaily #housingmarket #realestateagent #loanofficer",
+      "hashtags": [
+        "#SafetrustMortgage",
+        "#MortgageIntelligenceDaily",
+        "#housingmarket",
+        "#realestateagent",
+        "#loanofficer"
+      ],
+      "hook_tag": "Cálculos de construcción nueva",
+      "hook": "Las casas nuevas están más baratas que las usadas hoy.",
+      "what_happened_heading": "Los precios de constructores cambian las reglas del mercado",
+      "what_happened": "Los compradores suelen esperar pagar más por una vivienda totalmente nueva que por una usada. En este momento, esa lógica cambió porque los precios de construcciones nuevas cayeron por debajo de las casas existentes.",
+      "breakdown": [
+        {
+          "heading": "Vendedores de casas usadas siguen atrapados en el pasado",
+          "body": "Los propietarios particulares se aferran a precios altos de años anteriores. En cambio, los constructores reducen precios base rápidamente para mantener su flujo de efectivo y vender inventario."
+        },
+        {
+          "heading": "Lo que esto cambia en la evaluación del préstamo",
+          "body": "Esto cambia la evaluación del crédito: los descuentos e incentivos del constructor bajan la relación deuda-ingreso (DTI) del comprador directamente y sin obstáculos en el avalúo."
+        },
+        {
+          "heading": "Las reducciones de tasa bajan el pago mensual",
+          "body": "Los constructores usan su volumen para subsidiar el financiamiento en lugar de sostener precios fijos. Ese financiamiento estructurado reduce eficazmente el pago mensual de principal, intereses, impuestos y seguro."
+        },
+        {
+          "heading": "Aprobaciones más limpias en viviendas nuevas",
+          "body": "Las ventas de casas usadas se detienen por reparaciones pendientes o mal estado. Los expedientes de casas nuevas se aprueban más rápido sin alertas por mantenimiento diferido."
+        }
+      ],
+      "my_take_heading": "Vendedores particulares pierden compradores frente a grandes constructores",
+      "my_take": "Los vendedores particulares compiten contra corporaciones, no contra otras familias. Hasta que los precios de casas usadas se ajusten a la realidad, los constructores captarán a todo comprador que busque cuidar su presupuesto.",
+      "action_lo": "Presente opciones de financiamiento para viviendas nuevas a compradores presionados por precios de casas usadas.",
+      "action_realtor": "Aconseje a los vendedores particulares ofrecer incentivos similares a los constructores para evitar quedarse sin compradores.",
+      "cta_question": "¿Sus compradores prefieren casas nuevas sobre usadas únicamente por el pago mensual?"
+    },
+    {
+      "slug": "florida-insurance-market-rebounds",
+      "title": "Compradores en Florida respiran tranquilos tras la recuperación del mercado de seguros",
       "source": "HousingWire",
-      "source_url": "https://www.housingwire.com/articles/property-tax-reassessment-risk/",
-      "cover_text": "La trampa fiscal oculta en su evaluación",
-      "caption": "Cotizar pagos hipotecarios mensuales basados en los impuestos inmobiliarios históricos del vendedor condena al fracaso a su prestatario. Cuando ocurren las reevaluaciones fiscales tras el cierre, los fondos de reserva (cuentas destinadas a impuestos y seguros) insuficientes causan un fuerte aumento en las cuotas mensuales. Los asesores (underwriters) miran más allá de los impuestos históricos y analizan proyecciones estabilizadas, ya que la relación deuda-ingreso (DTI, por sus siglas en inglés) debe sostenerse tras la reevaluación. Si su cartera de préstamos depende de impuestos actuales sin ajustar, está asumiendo riesgos de incumplimiento. Prepare a sus clientes con anticipación para que los ajustes de pago no provoquen atrasos o ejecuciones tempranas.\n\nFuente : https://tinyurl.com/28e2q6h2\n#SafetrustMortgage #MortgageIntelligenceDaily #mortgagebroker #loanofficer #housingmarket",
+      "source_url": "https://www.housingwire.com/articles/florida-insurance-citizens-drop/",
+      "cover_text": "El mercado de seguros en Florida finalmente se recupera",
+      "caption": "El alivio en los seguros de vivienda en Florida soluciona un gran problema. Cerca de 20 aseguradoras ingresaron o regresaron al mercado tras las reformas legislativas de 2022 y 2023. Esto genera competencia real y simplifica el cierre para los compradores. Esto es lo que cambia al evaluar un expediente: las cotizaciones estables mantienen predecible el pago mensual, evitando que la relación deuda-ingreso (DTI) se eleve antes de la aprobación final. Durante años, los aumentos de seguro a última hora cancelaban préstamos aprobados. Ahora, la cobertura estable ofrece a agentes e intermediarios un camino seguro para aprobar compradores sin contratiempos de último minuto.\n\nFuente : https://tinyurl.com/25arbuf9\n#SafetrustMortgage #MortgageIntelligenceDaily #homebuying #loanofficer #mortgagebroker",
+      "hashtags": [
+        "#SafetrustMortgage",
+        "#MortgageIntelligenceDaily",
+        "#homebuying",
+        "#loanofficer",
+        "#mortgagebroker"
+      ],
+      "hook_tag": "Cambio en el mercado de seguros",
+      "hook": "El alivio en seguros de Florida facilita las aprobaciones de préstamos.",
+      "what_happened_heading": "Aumentan las opciones de seguro de vivienda en Florida tras reformas",
+      "what_happened": "Cerca de 20 aseguradoras ingresaron o regresaron a Florida tras las reformas legislativas aprobadas en 2022 y 2023. Esta llegada de empresas facilita la cotización de seguros y el cierre de préstamos en todo el estado.",
+      "breakdown": [
+        {
+          "heading": "Las primas elevadas afectaban la capacidad de pago del comprador",
+          "body": "Las cotizaciones impredecibles de seguros elevaban la relación deuda-ingreso (DTI) del comprador por encima de los límites permitidos justo antes de la fecha de cierre."
+        },
+        {
+          "heading": "Lo que esto cambia en la evaluación del préstamo",
+          "body": "Esto cambia la evaluación del crédito: las cotizaciones de seguros ahora son estables, permitiendo calcular con precisión el pago total de la vivienda desde el inicio."
+        },
+        {
+          "heading": "Menos cancelaciones antes del cierre final",
+          "body": "Muchos préstamos se cancelaban al final porque la póliza resultaba más costosa de lo estimado. Contar con opciones estables elimina estos rechazos de última hora por el asesor."
+        },
+        {
+          "heading": "Los plazos de cierre vuelven a ser rápidos",
+          "body": "Los profesionales ya no pierden semanas buscando pólizas especiales para cumplir con los requisitos. Las pólizas estándar agilizan la firma de las solicitudes de préstamo."
+        }
+      ],
+      "my_take_heading": "La estabilidad del seguro importa más que pequeñas variaciones de tasa",
+      "my_take": "Bajar las tasas no sirve si un seguro costoso arruina la capacidad de pago del comprador. Restablecer la competencia de aseguradoras resuelve el problema silencioso que afectó al mercado de Florida durante años.",
+      "action_lo": "Recalcule las preaprobaciones de clientes en Florida que superaron los límites de deuda por costos de seguro.",
+      "action_realtor": "Contacte nuevamente a compradores en Florida tras la estabilización de los precios de seguros.",
+      "cta_question": "¿Ha visto que las primas de seguro más bajas rescaten préstamos en Florida que se daban por perdidos?"
+    },
+    {
+      "slug": "nexa-removes-guardrails-100-percent-revenue",
+      "title": "NEXA elimina restricciones en su modelo de ingresos del 100%",
+      "source": "National Mortgage Professional",
+      "source_url": "https://nationalmortgageprofessional.com/news/nexa-removes-guardrails-its-100-revenue-model",
+      "cover_text": "Modelos sin comisiones tienen costos ocultos",
+      "caption": "NEXA Unlimited elimina cargos y mínimos de producción para pagar el 100 por ciento de comisión, pero todo modelo tiene desventajas. La empresa elimina cobros por expediente y requisitos de reclutamiento en préstamos elegibles mediante prestamistas mayoristas seleccionados. Esto es lo que cambia al evaluar un expediente: limitar las solicitudes a prestamistas específicos puede implicar pautas más estrictas cuando el cliente presenta un caso complejo. Las estructuras sin cargos suenan excelentes, pero el profesional debe analizar el precio general, la velocidad de trámite y la flexibilidad. Conservar el 100 por ciento de cero negocios sigue siendo cero. Los profesionales astutos evalúan toda la plataforma antes que las comisiones.\n\nFuente : https://tinyurl.com/23w82eks\n#SafetrustMortgage #MortgageIntelligenceDaily #mortgagebroker #loanofficer #mortgagerates",
       "hashtags": [
         "#SafetrustMortgage",
         "#MortgageIntelligenceDaily",
         "#mortgagebroker",
         "#loanofficer",
-        "#housingmarket"
+        "#mortgagerates"
       ],
-      "hook_tag": "RIESGO EN EVALUACIÓN",
-      "hook": "Los impuestos inmobiliarios actuales en nuevos tratos son una ilusión.",
-      "what_happened_heading": "LO QUE SUCEDIÓ",
-      "what_happened": "La evaluación de impuestos inmobiliarios debe separar los impuestos actuales de los impuestos proyectados para considerar las reglas locales de reevaluación. La diferencia de valor entre los impuestos actuales del vendedor y las evaluaciones posteriores a la venta suele causar un gran impacto financiero.",
+      "hook_tag": "Compensación de originadores de préstamos",
+      "hook": "Ganar el 100 por ciento de comisión sin cobros suena demasiado bien.",
+      "what_happened_heading": "NEXA elimina requisitos de volumen y reclutamiento para el pago total",
+      "what_happened": "NEXA Lending lanzó NEXA Unlimited, eliminando requisitos de producción y reclutamiento para otorgar el 100 por ciento de ingresos en préstamos elegibles con prestamistas seleccionados. El programa elimina cargos fijos, cobros por expediente y costos de financiamiento en estas opciones específicas.",
       "breakdown": [
         {
-          "heading": "Impuesto actual frente a proyectado",
-          "body": "Los impuestos actuales reflejan el historial del vendedor, no la futura cuenta del comprador. Los impuestos proyectados estiman lo que sucederá tras la reevaluación local posterior al cierre."
+          "heading": "Los modelos gratuitos siempre trasladan sus costos operacionales a otro lado",
+          "body": "Ninguna empresa opera gratis. Cuando desaparecen los cargos por expediente en ciertos productos, esa pérdida se compensa con ajustes en los precios del prestamista o concesiones en la plataforma."
         },
         {
-          "heading": "Las reglas de reevaluación importan",
-          "body": "Las autoridades fiscales reevalúan las propiedades al transferirse. Ignorar los ajustes posteriores a la venta genera fondos de reserva (cuentas para impuestos y seguros) insuficientes y graves faltantes futuros."
+          "heading": "Lo que esto cambia en la evaluación del préstamo",
+          "body": "Esto cambia la evaluación del crédito: tener listas limitadas de prestamistas reduce sus opciones, enviando expedientes complejos a asesores con pautas adicionales mucho más estrictas."
         },
         {
-          "heading": "La perspectiva del asesor",
-          "body": "Esto cambia al evaluar el expediente: los asesores (underwriters) deben calcular la relación de gastos de vivienda usando impuestos proyectados para evitar riesgos de incumplimiento de pago."
+          "heading": "Restricciones de prestamistas reemplazan las cuotas de producción",
+          "body": "Eliminar metas de producción da flexibilidad al originador, pero limita sus opciones a inversionistas mayoristas participantes que compensan a la plataforma de forma indirecta."
         },
         {
-          "heading": "Proteja la calidad de su cartera",
-          "body": "Precalificar compradores con impuestos sin ajustar infla falsamente el monto aprobado. Cuando llega la factura real, la relación deuda-ingreso (DTI) supera los límites máximos permitidos."
+          "heading": "El soporte operativo determina la velocidad real del préstamo",
+          "body": "Los modelos de compensación total suelen recargar el procesamiento en el originador. Si los tiempos de aprobación se demoran, la mayor comisión por préstamo se pierde al cerrar menos operaciones."
         }
       ],
-      "my_take_heading": "PERSPECTIVA DIVERGENTE",
-      "my_take": "Cotizar pagos mensuales con impuestos históricos del vendedor no es una venta agresiva, es un fallo garantizado del préstamo. Si no evalúa la reevaluación fiscal desde el inicio, el déficit de reserva destruirá la retención de sus clientes.",
-      "action_lo": "Calcule las preaprobaciones utilizando estimaciones fiscales reevaluadas posteriores a la venta en lugar de la factura actual del vendedor.",
-      "action_realtor": "Advierta a los compradores con anticipación sobre la reevaluación fiscal para que los cambios en las cuotas no afecten su presupuesto.",
-      "cta_question": "¿Cómo calcula su empresa las reevaluaciones fiscales en las preaprobaciones de compradores hoy en día?"
-    },
-    {
-      "slug": "california-condo-defect-reform-fails",
-      "title": "Fracasa la reforma de defectos en condominios en California",
-      "source": "HousingWire",
-      "source_url": "https://www.housingwire.com/articles/california-condo-defect-reform-fails/",
-      "cover_text": "Fracasa reforma de condominios en California",
-      "caption": "El proyecto de ley 1903 de la Asamblea de California fracasó al vencer el plazo legislativo tras enmiendas tardías del Senado. Este fallo mantiene sin cambios las normas de defectos en condominios, conservando una alta responsabilidad para los desarrolladores y limitando el inventario de viviendas adosadas. Cuando un expediente de condominio entra a evaluación, la aprobación de proyectos elegibles (que cumplen con las guías de Fannie o Freddie) sigue siendo un gran obstáculo debido a las estrictas revisiones de la asociación de propietarios (HOA). Los oficiales de crédito que dominen las pautas de préstamos no calificados (Non-QM) ganarán cuota de mercado mientras los préstamos convencionales se estancan.\n\nFuente : https://tinyurl.com/2d6rt97g\n#SafetrustMortgage #MortgageIntelligenceDaily #realestateagent #mortgagebroker #firsttimehomebuyer",
-      "hashtags": [
-        "#SafetrustMortgage",
-        "#MortgageIntelligenceDaily",
-        "#realestateagent",
-        "#mortgagebroker",
-        "#firsttimehomebuyer"
-      ],
-      "hook_tag": "MERCADO DE CONDOMINIOS",
-      "hook": "Fracasó la reforma de condominios, manteniendo bloqueado el inventario de alto riesgo.",
-      "what_happened_heading": "LO QUE SUCEDIÓ",
-      "what_happened": "El proyecto de ley 1903 de la Asamblea de California no logró aprobarse antes de finalizar la sesión legislativa. Las enmiendas tardías del Senado devolvieron la propuesta a la Asamblea, donde se agotó el tiempo antes de votar.",
-      "breakdown": [
-        {
-          "heading": "Se agotó el tiempo para el AB 1903",
-          "body": "El proyecto AB 1903 buscaba reformar las normas de defectos en condominios en California. Las enmiendas tardías del Senado retrasaron la medida hasta que finalizó el período legislativo."
-        },
-        {
-          "heading": "El inventario continúa bloqueado",
-          "body": "Sin reformas, los desarrolladores enfrentan riesgos legales constantes que limitan la construcción de condominios. El inventario disponible sigue siendo escaso debido al temor a posibles demandas judiciales."
-        },
-        {
-          "heading": "La perspectiva del asesor",
-          "body": "Esto cambia al evaluar el expediente: las revisiones de condominios no elegibles (Non-warrantable) siguen siendo rigurosas, exigiendo un análisis estricto de la HOA, mantenimiento diferido y reservas legales."
-        },
-        {
-          "heading": "Impacto en el financiamiento",
-          "body": "Los compradores de primera vivienda enfrentan inventario limitado y aprobaciones de proyectos más difíciles. Los prestamistas deberán apoyarse en programas no calificados (Non-QM) para concretar operaciones."
-        }
-      ],
-      "my_take_heading": "PERSPECTIVA DIVERGENTE",
-      "my_take": "El fracaso del AB 1903 mantiene bloqueada la vivienda accesible en California. Los prestamistas que dominen la evaluación de condominios no elegibles (Non-warrantable) ganarán mercado mientras las entidades tradicionales se alejan.",
-      "action_lo": "Asóciese con especialistas en préstamos no calificados (Non-QM) para aprobar proyectos de condominios que no cumplen con los estándares convencionales de Fannie o Freddie.",
-      "action_realtor": "Revise el estado de litigios de la asociación de propietarios (HOA) al inicio para evitar sorpresas durante la aprobación del proyecto.",
-      "cta_question": "¿El fracaso de la reforma impulsará los préstamos de condominios Non-QM en su mercado?"
-    },
-    {
-      "slug": "figure-acquires-kiavi-dscr-lending",
-      "title": "Figure completa la adquisición de Kiavi ante mayor competencia en DSCR",
-      "source": "National Mortgage Professional",
-      "source_url": "https://nationalmortgageprofessional.com/news/figure-closes-kiavi-deal-dscr-competition-tightens",
-      "cover_text": "Figure adquiere Kiavi en gran consolidación tecnológica",
-      "caption": "Figure Technology Solutions completó la adquisición de Kiavi, consolidando una enorme presencia en el mercado de DSCR (relación de cobertura del servicio de la deuda, que compara el flujo de caja con los pagos). A medida que aumenta la competencia en financiamiento para inversionistas, las plataformas de capital automatizan la evaluación de propiedades con ingresos por renta. Al evaluar un expediente de inversión, la verificación rápida de contratos de arrendamiento y el análisis de rentas definirán a los prestamistas ganadores. La escala operativa presiona los márgenes, haciendo fundamental la ejecución rápida para oficiales de crédito. Comprender los parámetros automáticos de evaluación DSCR brindará una ventaja competitiva decisiva.\n\nFuente : https://tinyurl.com/26w2au2p\n#SafetrustMortgage #MortgageIntelligenceDaily #realestateinvesting #mortgagebroker #loanofficer",
-      "hashtags": [
-        "#SafetrustMortgage",
-        "#MortgageIntelligenceDaily",
-        "#realestateinvesting",
-        "#mortgagebroker",
-        "#loanofficer"
-      ],
-      "hook_tag": "PRÉSTAMOS PARA INVERSIONISTAS",
-      "hook": "La tecnología a escala está transformando los préstamos DSCR para inversionistas.",
-      "what_happened_heading": "LO QUE SUCEDIÓ",
-      "what_happened": "Figure Technology Solutions completó la adquisición de Kiavi. Este acuerdo integra a uno de los principales prestamistas inmobiliarios para inversionistas a la plataforma de Figure en pleno aumento de la competencia en DSCR.",
-      "breakdown": [
-        {
-          "heading": "Gran consolidación en DSCR",
-          "body": "Figure adquirió Kiavi, uniendo tecnología bursátil con un líder en financiamiento residencial para inversionistas. El acuerdo se enfoca fuertemente en productos de préstamo por cobertura de deuda (DSCR)."
-        },
-        {
-          "heading": "Integración tecnológica",
-          "body": "Incorporar el volumen de Kiavi en Figure busca mayor velocidad y liquidez. La alta competencia impulsa la eficiencia a escala en los canales de financiamiento para inversionistas."
-        },
-        {
-          "heading": "La perspectiva del asesor",
-          "body": "Esto cambia al evaluar el expediente: la evaluación automatizada de DSCR prioriza la verificación digital de contratos y rentas, obligando a los asesores (underwriters) tradicionales a adaptarse a reglas algorítmicas."
-        },
-        {
-          "heading": "Presión de márgenes",
-          "body": "La consolidación de capital institucional reduce los costos de ejecución para plataformas grandes. Los prestamistas más pequeños deben ofrecer un conocimiento local especializado frente a márgenes más estrechos."
-        }
-      ],
-      "my_take_heading": "PERSPECTIVA DIVERGENTE",
-      "my_take": "Los préstamos DSCR pasaron de ser un nicho privado a un juego de liquidez tecnológica. La escala mejora precios, pero la rapidez evaluando flujos de caja determinará quién conserva la lealtad del cliente.",
-      "action_lo": "Agilice la recepción de documentos de sus clientes DSCR recopilando contratos de arrendamiento y registros de renta para competir con plataformas automatizadas.",
-      "action_realtor": "Trabaje con inversionistas en propiedades de 1 a 4 unidades que generen flujos de caja acordes a los parámetros de cobertura de arrendamiento.",
-      "cta_question": "¿Cómo afecta la consolidación tecnológica en préstamos DSCR a los precios de su cartera de inversionistas?"
+      "my_take_heading": "La estructura de compensación jamás reemplaza la ejecución y opciones de financiamiento",
+      "my_take": "Cero cargos es publicidad; la ejecución es la realidad. Un originador que conserve el 100 por ciento de un préstamo no aprobado gana cero dólares. Las opciones de inversionistas y la rapidez de evaluación siempre superan los porcentajes de comisión.",
+      "action_lo": "Compare los tiempos de procesamiento y pautas adicionales en productos de comisión total antes de enviar expedientes.",
+      "action_realtor": "Pregunte a su prestamista si su modelo de negocio limita los inversionistas mayoristas con los que puede trabajar.",
+      "cta_question": "¿Aceptaría opciones limitadas de prestamistas mayoristas a cambio del 100 por ciento de compensación?"
     }
   ]
 }
