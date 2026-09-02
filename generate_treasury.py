@@ -16,7 +16,7 @@ Output: carousels/treasury.html and carousels/slides/treasury.png
 """
 import datetime
 import json
-import sys
+import time
 import urllib.request
 from pathlib import Path
 
@@ -29,8 +29,24 @@ UA = {"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.3
 
 CNBC_URL = ("https://quote.cnbc.com/quote-html-webservice/restQuote/symbolType/symbol"
             "?symbols=US10Y&requestMethod=itv&noform=1&partnerId=2&fund=1&exthrs=1&output=json")
-YAHOO_URL = "https://query1.finance.yahoo.com/v8/finance/chart/%5ETNX?range=1mo&interval=1d"
+# Two Yahoo hosts — CI runners occasionally get rate-limited on one of them.
+YAHOO_URLS = ["https://query1.finance.yahoo.com/v8/finance/chart/%5ETNX?range=1mo&interval=1d",
+              "https://query2.finance.yahoo.com/v8/finance/chart/%5ETNX?range=1mo&interval=1d"]
 FRED_URL = "https://fred.stlouisfed.org/graph/fredgraph.csv?id=DGS10"
+
+
+def _retry(fn, name, attempts=3, delay=8):
+    """Run fn() up to `attempts` times with growing waits. Returns its value or
+    None — transient quote-API hiccups must never take the card (or the whole
+    6am run) down."""
+    for i in range(1, attempts + 1):
+        try:
+            return fn()
+        except Exception as exc:  # noqa: BLE001 — sources fail over
+            print(f"{name} attempt {i}/{attempts} failed: {str(exc)[:120]}")
+            if i < attempts:
+                time.sleep(delay * i)
+    return None
 
 # Two themes, matching the carousel covers. The card takes the day's MINORITY
 # cover colour: on 2-blue/1-white days it renders white (and vice versa) so the
@@ -88,36 +104,37 @@ def _get(url, timeout=30):
 
 
 def fetch_cnbc():
-    """Live US10Y quote. Returns (last, previous_close, as_of_text) or None."""
+    """Live US10Y quote. Returns (last, previous_close, as_of_text). Raises on
+    failure — callers wrap with _retry."""
+    q = json.loads(_get(CNBC_URL))["FormattedQuoteResult"]["FormattedQuote"][0]
+    last = float(q["last"].rstrip("%"))
+    prev = float(q["previous_day_closing"].rstrip("%"))
+    as_of = "live"
     try:
-        q = json.loads(_get(CNBC_URL))["FormattedQuoteResult"]["FormattedQuote"][0]
-        last = float(q["last"].rstrip("%"))
-        prev = float(q["previous_day_closing"].rstrip("%"))
-        as_of = "live"
-        try:
-            t = datetime.datetime.fromisoformat(q["last_time"])
-            as_of = (f"{t.month}/{t.day}/{t.year} "
-                     f"{t.strftime('%I:%M %p').lstrip('0')} ET")
-        except Exception:  # noqa: BLE001 — timestamp is cosmetic
-            pass
-        return last, prev, as_of
-    except Exception as exc:  # noqa: BLE001 — fall back to Yahoo/FRED
-        print(f"CNBC quote failed ({str(exc)[:120]}) — falling back.")
-        return None
+        t = datetime.datetime.fromisoformat(q["last_time"])
+        as_of = (f"{t.month}/{t.day}/{t.year} "
+                 f"{t.strftime('%I:%M %p').lstrip('0')} ET")
+    except Exception:  # noqa: BLE001 — timestamp is cosmetic
+        pass
+    return last, prev, as_of
 
 
 def fetch_yahoo(days=DAYS):
     """Last `days` daily closes from Yahoo ^TNX (includes today's intraday bar).
-    Returns [(iso_date, value)] or None."""
-    try:
-        res = json.loads(_get(YAHOO_URL))["chart"]["result"][0]
-        closes = res["indicators"]["quote"][0]["close"]
-        pairs = [(datetime.datetime.fromtimestamp(t).strftime("%Y-%m-%d"), round(c, 3))
-                 for t, c in zip(res["timestamp"], closes) if c is not None]
-        return pairs[-days:] if len(pairs) >= 2 else None
-    except Exception as exc:  # noqa: BLE001 — fall back to FRED
-        print(f"Yahoo history failed ({str(exc)[:120]}) — falling back to FRED.")
-        return None
+    Tries both Yahoo hosts. Raises if neither returns usable data."""
+    last_exc = None
+    for url in YAHOO_URLS:
+        try:
+            res = json.loads(_get(url))["chart"]["result"][0]
+            closes = res["indicators"]["quote"][0]["close"]
+            pairs = [(datetime.datetime.fromtimestamp(t).strftime("%Y-%m-%d"), round(c, 3))
+                     for t, c in zip(res["timestamp"], closes) if c is not None]
+            if len(pairs) >= 2:
+                return pairs[-days:]
+            raise ValueError(f"only {len(pairs)} usable closes")
+        except Exception as exc:  # noqa: BLE001 — try the next host
+            last_exc = exc
+    raise last_exc
 
 
 def fetch_fred(days=DAYS):
@@ -132,15 +149,16 @@ def fetch_fred(days=DAYS):
 
 
 def get_data():
-    """Returns (series, last, prev, as_of, source_label)."""
-    live = fetch_cnbc()
-    series = fetch_yahoo()
+    """Returns (series, last, prev, as_of, source_label) or None if every source
+    is down (the card is then skipped without failing the daily run)."""
+    live = _retry(fetch_cnbc, "CNBC quote")
+    series = _retry(fetch_yahoo, "Yahoo history")
     hist_src = "Yahoo Finance (^TNX)"
     if series is None:
-        series = fetch_fred()
+        series = _retry(fetch_fred, "FRED history")
         hist_src = "FRED (DGS10)"
-    if len(series) < 2:
-        raise SystemExit("No usable 10Y treasury history — cannot build the card.")
+    if series is None or len(series) < 2:
+        return None
     if live:
         last, prev, as_of = live
         # Keep the chart's newest point in sync with the live headline number.
@@ -248,42 +266,38 @@ body{{margin:0;font-family:'Work Sans',sans-serif;}}
 </body></html>"""
 
 
-def export_png(html_path, png_path):
+def main():
+    data = get_data()
+    if data is None:
+        # Every source down after retries: keep the previous day's committed
+        # card rather than failing the whole 6am run over a market-data outage.
+        print("WARNING: all 10Y treasury sources failed — skipping the card today.")
+        return
+    series, last, prev, as_of, source = data
+
+    # Both colour variants every day; the (also committed) HTML is the source
+    # the PNGs are screenshotted from.
+    slides_dir = BASE / "carousels" / "slides"
+    slides_dir.mkdir(parents=True, exist_ok=True)
     from playwright.sync_api import sync_playwright
     with sync_playwright() as p:
         browser = p.chromium.launch()
         page = browser.new_page(viewport={"width": 420, "height": 525},
                                 device_scale_factor=1080 / 420)
-        page.goto(html_path.resolve().as_uri())
-        page.wait_for_timeout(2500)  # let Google Fonts load
-        page.screenshot(path=str(png_path),
-                        clip={"x": 0, "y": 0, "width": 420, "height": 525})
+        for theme in ("light", "dark"):
+            html_path = BASE / "carousels" / f"treasury_{theme}.html"
+            png_path = slides_dir / f"treasury_{theme}.png"
+            html_path.write_text(
+                build_html(series, last, prev, as_of, source, THEMES[theme]),
+                encoding="utf-8")
+            page.goto(html_path.resolve().as_uri())
+            page.wait_for_timeout(2500)  # let Google Fonts load
+            page.screenshot(path=str(png_path),
+                            clip={"x": 0, "y": 0, "width": 420, "height": 525})
+            print(f"Wrote carousels/treasury_{theme}.html and "
+                  f"carousels/slides/treasury_{theme}.png")
         browser.close()
-
-
-def pick_theme():
-    """The card takes the day's MINORITY carousel-cover colour: even ordinal days
-    render 2 blue covers + 1 white (see generate_carousels.main), so the card
-    goes white; odd days it's the other way round. A CLI arg ("light"/"dark")
-    overrides for testing."""
-    if len(sys.argv) > 1 and sys.argv[1] in THEMES:
-        return sys.argv[1]
-    blue_covers = 2 if gc._TODAY.toordinal() % 2 == 0 else 1
-    return "light" if blue_covers == 2 else "dark"
-
-
-def main():
-    theme = pick_theme()
-    series, last, prev, as_of, source = get_data()
-    html_path = BASE / "carousels" / "treasury.html"
-    png_path = BASE / "carousels" / "slides" / "treasury.png"
-    png_path.parent.mkdir(parents=True, exist_ok=True)
-    html_path.write_text(build_html(series, last, prev, as_of, source, THEMES[theme]),
-                         encoding="utf-8")
-    export_png(html_path, png_path)
-    print(f"Wrote {html_path.relative_to(BASE)} and {png_path.relative_to(BASE)} "
-          f"[{theme} theme] ({last:.2f}%, {round((last - prev) * 100):+d} bps, "
-          f"as of {as_of})")
+    print(f"10Y: {last:.2f}%, {round((last - prev) * 100):+d} bps, as of {as_of}")
 
 
 if __name__ == "__main__":

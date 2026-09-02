@@ -279,5 +279,5 @@ jobs:
           to: malaez@safetrustmtg.com
           from: SafeTrust Carousels <${{ secrets.MAIL_USERNAME }}>
           body: |
-            Daily market card attached: 10-Year Treasury with 7-day trend (1080x1350 PNG).
-          attachments: carousels/slides/treasury.png
+            Daily market card attached in both colourways: 10-Year Treasury with 7-day trend (1080x1350 PNG).
+          attachments: carousels/slides/treasury_*.png
