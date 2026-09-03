@@ -16,7 +16,6 @@ Output: carousels/treasury.html and carousels/slides/treasury.png
 """
 import datetime
 import json
-import os
 import sys
 import time
 import urllib.request
@@ -37,8 +36,9 @@ YAHOO_URLS = ["https://query1.finance.yahoo.com/v8/finance/chart/%5ETNX?range=1m
 FRED_URL = "https://fred.stlouisfed.org/graph/fredgraph.csv?id=DGS10"
 
 # The 6am quote snapshot. The workflow saves and commits it in a tiny early step,
-# so if the run fails and a scheduled retry fires later in the morning, the card
-# still shows the 6am value. Manual runs always use the live quote instead.
+# so if the run fails and a retry (or a manual re-run) fires later, the card
+# still shows the 6am value — the number stays consistent however many times the
+# card is regenerated that day. `python generate_treasury.py live` overrides.
 SNAPSHOT = Path(__file__).parent / "treasury_snapshot.json"
 
 
@@ -351,11 +351,11 @@ def main():
         save_snapshot()
         return
 
-    # Scheduled runs (the 6am trigger and its retries) pin the headline to the
-    # 6am snapshot; manual runs (workflow_dispatch or a local invocation) are
-    # always live.
-    mode = ("snapshot" if os.environ.get("GITHUB_EVENT_NAME")
-            in ("repository_dispatch", "schedule") else "live")
+    # Every run — scheduled, retried, or manual — pins the headline to today's
+    # 6am snapshot so the posted card stays consistent all day. If no snapshot
+    # exists yet, the live quote is used and becomes today's snapshot. Pass
+    # "live" to force the current quote instead.
+    mode = "live" if (len(sys.argv) > 1 and sys.argv[1] == "live") else "snapshot"
     print(f"Treasury card mode: {mode}")
     data = get_data(mode)
     if data is None:
