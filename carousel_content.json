@@ -1,258 +1,246 @@
 {
   "carousels": [
     {
-      "slug": "new-homes-cheaper-than-resale",
-      "title": "Think New Homes Cost More? Not Right Now",
-      "source": "Keeping Current Matters",
-      "source_url": "https://www.keepingcurrentmatters.com/2026/09/02/think-new-homes-cost-more-not-right-now/",
-      "cover_text": "New homes are cheaper than existing ones",
-      "caption": "New construction is undercutting resale homes, flipping traditional housing market pricing on its head. Most buyers assume brand new homes cost more than existing ones, but right now that script is reversed. Resale sellers are clinging to yesterday's peak valuations while builders cut prices to keep inventory moving. Here is what this actually changes when a file hits underwriting: clean new builds dodge appraisal repair issues and lower DTI (debt-to-income, how much income goes to debt) through structured credits. If you are trying to write clean loans today, new construction is offering the path of least resistance. Resale sellers will have to adapt or keep losing buyers to corporate builder balance sheets.\n\nSource : https://tinyurl.com/2b4t726g\n#SafetrustMortgage #MortgageIntelligenceDaily #housingmarket #realestateagent #loanofficer",
+      "slug": "demand-for-riskier-mortgages-rises",
+      "title": "Demand for riskier mortgages rises along with interest rates",
+      "source": "CNBC",
+      "source_url": "https://www.cnbc.com/2026/09/02/demand-for-riskier-mortgages-rises-along-with-interest-rates.html",
+      "cover_text": "The hidden trap in arm loans",
+      "caption": "As rates touch levels not seen since June 2025, buyers are reaching for adjustable-rate mortgages to make payments fit their budget. But relying on temporary rate relief is a dangerous pipeline strategy. When an ARM file lands on an underwriter's desk, we do not always judge DTI (how much income goes to debt) on that attractive start rate. Guidelines frequently require us to qualify the borrower at a higher, fully indexed rate or maximum adjustment cap. That means a borrower who looks qualified on paper might get denied mid-process when the real math hits the system. Loan officers need to pre-qualify on maximum stress levels, and realtors need to verify how the approval was built. Stop selling lower teaser rates and start structuring deals that survive underwriting scrutiny.\n\nSource : https://tinyurl.com/26odufxj\n#SafetrustMortgage #MortgageIntelligenceDaily #mortgagerates",
       "hashtags": [
         "#SafetrustMortgage",
         "#MortgageIntelligenceDaily",
-        "#housingmarket",
-        "#realestateagent",
-        "#loanofficer"
-      ],
-      "hook_tag": "New Construction Math",
-      "hook": "New builds are actually undercutting existing home prices right now.",
-      "what_happened_heading": "Builder pricing flips the traditional market script",
-      "what_happened": "Buyers typically expect to pay a premium for brand new construction over existing homes. Right now, that math is turned upside down as new build prices drop below resale homes.",
-      "breakdown": [
-        {
-          "heading": "Resale sellers are stuck in the past",
-          "body": "Existing homeowners are anchoring to peak valuation numbers from previous years. Builders operate on cash flow and clear inventory fast by cutting base prices aggressively."
-        },
-        {
-          "heading": "What this changes in underwriting",
-          "body": "Here is what this actually changes when a file hits underwriting: builder price cuts and incentives directly lower DTI (debt-to-income, the percent of income buying debt) without appraisal hurdles."
-        },
-        {
-          "heading": "Rate buydowns shift the monthly payment",
-          "body": "Builders use scale to subsidize financing instead of holding firm on price. That structured financing lowers the buyer's PITI (principal, interest, taxes, and insurance) far more effectively."
-        },
-        {
-          "heading": "Clean approvals on new builds",
-          "body": "Resale deals frequently stall over repair escrows and property condition reports. New construction files clear automated underwriting systems faster with zero deferred maintenance flags."
-        }
-      ],
-      "my_take_heading": "Existing home sellers are losing buyers to builder balance sheets",
-      "my_take": "Resale sellers are competing with corporate balance sheets, not other families. Until resale prices adjust to reality, builders will capture every price-sensitive buyer in the market.",
-      "action_lo": "Pitch new build financing options to buyers squeezed by high resale prices.",
-      "action_realtor": "Guide resale sellers to match builder incentives or risk sitting on the market.",
-      "cta_question": "Are your buyers choosing new builds over resale purely based on monthly payment?"
-    },
-    {
-      "slug": "florida-insurance-market-rebounds",
-      "title": "Florida Homebuyers Can Breathe Easier as Insurance Market Rebounds",
-      "source": "HousingWire",
-      "source_url": "https://www.housingwire.com/articles/florida-insurance-citizens-drop/",
-      "cover_text": "Florida insurance market is finally turning around",
-      "caption": "Florida home insurance relief is quietly fixing the biggest silent deal killer in the state. Nearly 20 insurers entered or reentered the market following legislative reforms from 2022 and 2023. That creates real competition and simplifies the closing process for buyers. Here is what this actually changes when a file hits underwriting: consistent insurance quotes keep PITI (principal, interest, taxes, and insurance) predictable, preventing DTI (debt-to-income, how much of your income goes to debt) from blowing up at clear to close. For years, late insurance spikes killed conditional approvals right before closing. Now, stabilized property coverage gives loan officers and realtors a reliable path to get buyers approved without last-minute scrambling.\n\nSource : https://tinyurl.com/25arbuf9\n#SafetrustMortgage #MortgageIntelligenceDaily #homebuying #loanofficer #mortgagebroker",
-      "hashtags": [
-        "#SafetrustMortgage",
-        "#MortgageIntelligenceDaily",
-        "#homebuying",
-        "#loanofficer",
-        "#mortgagebroker"
-      ],
-      "hook_tag": "Insurance Market Shift",
-      "hook": "Florida home insurance relief changes the game for loan approvals.",
-      "what_happened_heading": "Florida home insurance options expand after state legislative reforms",
-      "what_happened": "Nearly 20 insurers entered or reentered Florida following legislative reforms passed in 2022 and 2023. This influx is easing property insurance quoting and closing challenges across the state.",
-      "breakdown": [
-        {
-          "heading": "Insurance premiums previously spiked buyer debt ratios",
-          "body": "Unpredictable homeowners insurance quotes were pushing buyer DTI (debt-to-income, your monthly debt vs gross income) past maximum limits right before closing dates."
-        },
-        {
-          "heading": "What this changes in underwriting",
-          "body": "Here is what this actually changes when a file hits underwriting: insurance quotes are now stable enough to calculate precise PITI (principal, interest, taxes, insurance) early in processing."
-        },
-        {
-          "heading": "Lower fallout at clear to close",
-          "body": "Lenders were seeing conditional approvals die late in the loan cycle when insurance binders came in higher than projected. Stable carrier options eliminate these last-minute underwriting rejections."
-        },
-        {
-          "heading": "Closing timelines get fast again",
-          "body": "Loan originators no longer waste weeks hunting down specialized surplus line policies to satisfy guidelines. Standard insurance binders speed up loan file sign-offs."
-        }
-      ],
-      "my_take_heading": "Insurance stability matters far more than minor rate fluctuations",
-      "my_take": "Rate cuts do not matter if insurance spikes blow up your buyer's debt ratio. Restoring carrier competition fixes the silent deal killer that ruined Florida pipelines for years.",
-      "action_lo": "Recalculate pre-approvals for past Florida clients who failed DTI limits on insurance costs.",
-      "action_realtor": "Re-engage stalled Florida buyers now that property insurance quoting has stabilized.",
-      "cta_question": "Are you seeing lower property insurance quotes save previously dead Florida files?"
-    },
-    {
-      "slug": "nexa-removes-guardrails-100-percent-revenue",
-      "title": "NEXA Removes The Guardrails From Its 100% Revenue Model",
-      "source": "National Mortgage Professional",
-      "source_url": "https://nationalmortgageprofessional.com/news/nexa-removes-guardrails-its-100-revenue-model",
-      "cover_text": "Free loan compensation models carry hidden tradeoffs",
-      "caption": "NEXA Unlimited is dropping fees and production minimums for 100 percent compensation, but every broker business model has tradeoffs. The company is removing per-file fees and recruiting requirements on qualifying loans through select wholesale lenders. Here is what this actually changes when a file hits underwriting: limiting files to specific participating lenders can mean facing tougher underwriting overlays (extra rules added by lenders) when a borrower has a complex scenario. Zero-fee structures sound incredible on paper, but loan officers must look at overall pricing, execution speed, and investor flexibility. Keeping 100 percent of zero deals is still zero. Smart originators evaluate whole-platform capability over pure commission splits.\n\nSource : https://tinyurl.com/23w82eks\n#SafetrustMortgage #MortgageIntelligenceDaily #mortgagebroker #loanofficer #mortgagerates",
-      "hashtags": [
-        "#SafetrustMortgage",
-        "#MortgageIntelligenceDaily",
-        "#mortgagebroker",
-        "#loanofficer",
         "#mortgagerates"
       ],
-      "hook_tag": "Loan Originator Compensation",
-      "hook": "100 percent compensation with no fee sounds too good.",
-      "what_happened_heading": "NEXA removes volume and recruiting requirements for full payout",
-      "what_happened": "NEXA Lending launched NEXA Unlimited, removing production and recruiting requirements to access 100 percent revenue on qualifying loans through select lenders. The program eliminates flat fees, added per-file fees, and correspondent funding charges on these specific options.",
+      "hook_tag": "Mortgage Strategy",
+      "hook": "Buyers are pivoting to arms, but underwriters see a trap.",
+      "what_happened_heading": "Rising rates drive buyers toward arms",
+      "what_happened": "Mortgage rates pushed to their highest levels since June 2025. In response, buyer demand for adjustable-rate mortgages increased as borrowers searched for immediate payment savings.",
       "breakdown": [
         {
-          "heading": "Free models always shift operating expenses somewhere",
-          "body": "No broker operates for zero cost. When per-file fees disappear on select products, the revenue loss is offset by lender pricing adjustments or platform concessions."
+          "heading": "The initial payment attraction",
+          "body": "Adjustable-rate loans offer lower introductory rates. Buyers look at the starting monthly check to fit high home prices into today's constrained household budgets."
         },
         {
-          "heading": "What this changes in underwriting",
-          "body": "Here is what this actually changes when a file hits underwriting: restricted lender lists limit your loan options, forcing non-standard files into underwriters with stricter underwriting overlays (extra lender rules)."
+          "heading": "What hits the underwriter desk",
+          "body": "Underwriters do not always qualify files at that lower teaser rate. Guidelines often force us to calculate DTI (how much income goes to debt) at the maximum adjusted rate."
         },
         {
-          "heading": "Production quotas replaced by lender restriction",
-          "body": "Removing production thresholds gives solo originators flexibility, but limits choice to participating wholesale investors who compensate the platform directly behind the scenes."
+          "heading": "The stress test reality check",
+          "body": "A buyer barely passing DTI at the teaser rate gets denied once we apply full qualifying margins. The payment relief on paper creates a qualifying bottleneck in underwriting."
         },
         {
-          "heading": "Operational support determines real loan velocity",
-          "body": "Full compensation models often put processing burdens on originators. If file setup and clear-to-close times stall, higher compensation per file is wiped out by lost deal volume."
+          "heading": "Risk shifts back to pipeline",
+          "body": "Originators pitching ARMs solely for initial rate relief face late-stage rejections. Without proper stress testing during pre-approval, these files collapse right before closing."
         }
       ],
-      "my_take_heading": "Compensation structure never replaces loan execution and investor options",
-      "my_take": "Zero fees are marketing; execution is reality. An LO keeping 100 percent of a dead loan makes zero dollars—investor options and underwriting speed beat payout percentages every time.",
-      "action_lo": "Compare total turn times and lender overlays on 100 percent payout products before moving files.",
-      "action_realtor": "Ask your lender partner if their business model restricts which wholesale investors they can use.",
-      "cta_question": "Would you accept restricted wholesale lender options in exchange for 100 percent loan compensation?"
+      "my_take_heading": "ARMs do not solve capacity issues",
+      "my_take": "An ARM is not a magic pass around high rates. If a borrower cannot qualify at the fully indexed rate, you are just moving paper that will die in underwriting.",
+      "action_lo": "Pre-underwrite ARM files at the maximum qualifying rate before issuing pre-approvals.",
+      "action_realtor": "Ask lenders if the buyer was qualified on the note rate or the fully indexed rate.",
+      "cta_question": "Are your loan officers stress-testing ARM files or just quoting the teaser rate?"
+    },
+    {
+      "slug": "think-new-homes-cost-more-not-right-now",
+      "title": "Think New Homes Cost More? Not Right Now.",
+      "source": "Keeping Current Matters",
+      "source_url": "https://www.keepingcurrentmatters.com/2026/09/02/think-new-homes-cost-more-not-right-now/",
+      "cover_text": "New homes are cheaper than existing",
+      "caption": "The old rule that new construction always carries a premium is broken. Builders have transformed into financial operators, offering aggressive rate buydowns and pricing structures that make new homes more affordable than existing inventory. Traditional home sellers are still anchored to peak valuations, leaving their properties sitting while builders clear inventory. From an underwriting perspective, builder incentives are tailored to fit guideline limits for seller concessions (closing cost credits from the seller) smoothly. Resale listings, on the other hand, often try to slash price instead of fixing the buyer's monthly obligation. If you are representing resale inventory, list price cuts alone will not save the deal. You need to package seller credits into rate buydowns that match what new home builders are putting on the table.\n\nSource : https://tinyurl.com/2b4t726g\n#SafetrustMortgage #MortgageIntelligenceDaily #realestateagent",
+      "hashtags": [
+        "#SafetrustMortgage",
+        "#MortgageIntelligenceDaily",
+        "#realestateagent"
+      ],
+      "hook_tag": "Builder Strategy",
+      "hook": "New build pricing flipped, but existing sellers are lagging.",
+      "what_happened_heading": "New builds undercut existing home costs",
+      "what_happened": "Most buyers assume newly constructed homes cost more than existing properties. Right now, market dynamics have flipped that expectation, making new builds priced lower on relative terms.",
+      "breakdown": [
+        {
+          "heading": "Builders operate like financial firms",
+          "body": "Builders use financing incentives like permanent rate buydowns to drop effective payments. They adjust total acquisition cost faster than individual home sellers can react."
+        },
+        {
+          "heading": "Existing sellers remain anchored high",
+          "body": "Resale sellers cling to peak pricing, ignoring higher holding costs. They view price cuts as losses rather than strategic adjustments needed to clear inventory."
+        },
+        {
+          "heading": "The underwriter view on concessions",
+          "body": "Underwriters evaluate seller concessions (seller-paid closing costs) strictly against guideline caps. Builder incentives are structured cleanly, whereas resale concessions often trigger loan-to-value or appraisal complications."
+        },
+        {
+          "heading": "Financing beats sticker price",
+          "body": "Buyers do not buy price tags; they buy monthly payments. Builders win because they sell financed monthly affordability while traditional sellers offer unyielding list prices."
+        }
+      ],
+      "my_take_heading": "Resale inventory is priced on nostalgia",
+      "my_take": "Builders sell monthly payments; resale sellers sell yesterday's valuations. Until existing inventory embraces structured financing concessions, builders will keep eating resale market share.",
+      "action_lo": "Structure seller concessions for resale clients to mimic builder rate buydowns.",
+      "action_realtor": "Educate sellers that competing with new builds requires rate concessions, not just small list cuts.",
+      "cta_question": "How are you helping resale sellers structure concessions to compete with builder financing?"
+    },
+    {
+      "slug": "school-zone-housing-affordability",
+      "title": "Homes in Highly Rated School Zones Cost 35% More Than the Average U.S. Home",
+      "source": "Redfin",
+      "source_url": "https://www.redfin.com/news/school-zone-housing-affordability-2026/",
+      "cover_text": "The $41,000 school zone trap",
+      "caption": "Buying into a top-rated school zone now requires an annual household income of $159,157, compared to $117,995 for the average U.S. home. That $41,000 income gap covers a median price jump from $430,000 to $580,000, but the price tag is only half the story. High-performing school districts usually come with significantly higher local property tax burdens. When a loan officer pre-approves a buyer using generic county-wide tax estimates, the file looks fine on paper. But when an underwriter pulls the actual tax assessment for that specific school district, DTI (how much income goes to debt) suddenly spikes above automated underwriting limits. That is why so many school zone escrows hit sudden qualification snags. You must factor exact district tax rates into your pre-qualification math before sending buyers out shopping.\n\nSource : https://tinyurl.com/23dzxcm7\n#SafetrustMortgage #MortgageIntelligenceDaily #firsttimehomebuyer",
+      "hashtags": [
+        "#SafetrustMortgage",
+        "#MortgageIntelligenceDaily",
+        "#firsttimehomebuyer"
+      ],
+      "hook_tag": "Affordability Risk",
+      "hook": "Top school zones carry a massive income gap.",
+      "what_happened_heading": "School zone price premiums surge higher",
+      "what_happened": "Homes in highly rated school zones average $580,000, compared to $430,000 for the typical national home. Buyers need $159,157 in annual income to afford them, $41,000 more than average.",
+      "breakdown": [
+        {
+          "heading": "The 35 percent price gap",
+          "body": "A $580,000 median price tag adds significant principal and interest. That base premium inflates down payments and pushes baseline qualifications beyond middle-income reach."
+        },
+        {
+          "heading": "The hidden debt service burden",
+          "body": "Earning $159,157 required income sounds straightforward, but tax and insurance premiums in top school districts often run significantly higher than local county averages."
+        },
+        {
+          "heading": "Underwriting tax and fee spikes",
+          "body": "When a file reaches underwriting, local tax assessments in top school zones routinely blow past estimated DTI calculations. Underwriters calculate exact tax bills, not estimates."
+        },
+        {
+          "heading": "Prequalifications fall apart late",
+          "body": "Loan officers issuing blanket pre-approvals without factoring district-specific tax rates cause mid-escrow failures. The price premium combines with taxes to crush borrower ratios."
+        }
+      ],
+      "my_take_heading": "School premiums are tax traps",
+      "my_take": "That $41,000 income gap is not just purchase price—it is elevated property taxes. If you pre-approve buyers based on county averages, top school zone tax rates will kill your file in underwriting.",
+      "action_lo": "Calculate exact tax millage rates for top school districts before issuing pre-approval letters.",
+      "action_realtor": "Warn buyers about tax-driven monthly payment spikes in top-rated school zones.",
+      "cta_question": "Are your pre-approvals adjusted for local school district property tax variations?"
     }
   ],
   "carousels_es": [
     {
-      "slug": "new-homes-cheaper-than-resale",
-      "title": "¿Cree que las casas nuevas cuestan más? Ahora no",
-      "source": "Keeping Current Matters",
-      "source_url": "https://www.keepingcurrentmatters.com/2026/09/02/think-new-homes-cost-more-not-right-now/",
-      "cover_text": "Las casas nuevas están más baratas que antes",
-      "caption": "Las viviendas nuevas están ofreciendo mejores precios que las casas usadas, cambiando las reglas tradicionales del mercado inmobiliario. Muchos compradores asumen que las propiedades a estrenar cuestan más, pero hoy esa realidad ha cambiado. Los vendedores de casas usadas mantienen precios altos del pasado, mientras los constructores reducen precios para mover su inventario. Esto es lo que cambia al evaluar un expediente: las construcciones nuevas evitan reparaciones por avalúo y bajan la relación deuda-ingreso (DTI, por sus siglas en inglés) mediante créditos estructurados. Si usted busca aprobar préstamos fácilmente hoy, las viviendas nuevas ofrecen el camino más directo. Los vendedores particulares tendrán que adaptarse o seguirán perdiendo clientes frente a las grandes empresas constructoras.\n\nFuente : https://tinyurl.com/2b4t726g\n#SafetrustMortgage #MortgageIntelligenceDaily #housingmarket #realestateagent #loanofficer",
+      "slug": "demand-for-riskier-mortgages-rises",
+      "title": "La demanda de hipotecas con mayor riesgo aumenta con las tasas de interés",
+      "source": "CNBC",
+      "source_url": "https://www.cnbc.com/2026/09/02/demand-for-riskier-mortgages-rises-along-with-interest-rates.html",
+      "cover_text": "La trampa oculta de los préstamos ARM",
+      "caption": "Cuando las tasas suben, los compradores buscan hipotecas de tasa ajustable (ARM) para reducir su cuota mensual. Sin embargo, confiar en un alivio temporal de intereses es una estrategia riesgosa. Cuando una solicitud ARM llega al escritorio del asesor, la relación deuda-ingreso (DTI) no siempre se evalúa con la tasa inicial. Las guías exigen calificar al comprador con una tasa ajustada más alta. Esto significa que un cliente aprobado en el papel puede ser rechazado a mitad del proceso. Los oficiales de crédito deben precalificar bajo niveles exigentes de estrés financiero. Los agentes inmobiliarios deben verificar cómo se estructuró la aprobación. Deje de vender tasas atractivas de oferta y comience a estructurar cierres sólidos que superen la revisión formal del asesor.\n\nFuente : https://tinyurl.com/26odufxj\n#SafetrustMortgage #MortgageIntelligenceDaily #mortgagerates",
       "hashtags": [
         "#SafetrustMortgage",
         "#MortgageIntelligenceDaily",
-        "#housingmarket",
-        "#realestateagent",
-        "#loanofficer"
-      ],
-      "hook_tag": "Cálculos de construcción nueva",
-      "hook": "Las casas nuevas están más baratas que las usadas hoy.",
-      "what_happened_heading": "Los precios de constructores cambian las reglas del mercado",
-      "what_happened": "Los compradores suelen esperar pagar más por una vivienda totalmente nueva que por una usada. En este momento, esa lógica cambió porque los precios de construcciones nuevas cayeron por debajo de las casas existentes.",
-      "breakdown": [
-        {
-          "heading": "Vendedores de casas usadas siguen atrapados en el pasado",
-          "body": "Los propietarios particulares se aferran a precios altos de años anteriores. En cambio, los constructores reducen precios base rápidamente para mantener su flujo de efectivo y vender inventario."
-        },
-        {
-          "heading": "Lo que esto cambia en la evaluación del préstamo",
-          "body": "Esto cambia la evaluación del crédito: los descuentos e incentivos del constructor bajan la relación deuda-ingreso (DTI) del comprador directamente y sin obstáculos en el avalúo."
-        },
-        {
-          "heading": "Las reducciones de tasa bajan el pago mensual",
-          "body": "Los constructores usan su volumen para subsidiar el financiamiento en lugar de sostener precios fijos. Ese financiamiento estructurado reduce eficazmente el pago mensual de principal, intereses, impuestos y seguro."
-        },
-        {
-          "heading": "Aprobaciones más limpias en viviendas nuevas",
-          "body": "Las ventas de casas usadas se detienen por reparaciones pendientes o mal estado. Los expedientes de casas nuevas se aprueban más rápido sin alertas por mantenimiento diferido."
-        }
-      ],
-      "my_take_heading": "Vendedores particulares pierden compradores frente a grandes constructores",
-      "my_take": "Los vendedores particulares compiten contra corporaciones, no contra otras familias. Hasta que los precios de casas usadas se ajusten a la realidad, los constructores captarán a todo comprador que busque cuidar su presupuesto.",
-      "action_lo": "Presente opciones de financiamiento para viviendas nuevas a compradores presionados por precios de casas usadas.",
-      "action_realtor": "Aconseje a los vendedores particulares ofrecer incentivos similares a los constructores para evitar quedarse sin compradores.",
-      "cta_question": "¿Sus compradores prefieren casas nuevas sobre usadas únicamente por el pago mensual?"
-    },
-    {
-      "slug": "florida-insurance-market-rebounds",
-      "title": "Compradores en Florida respiran tranquilos tras la recuperación del mercado de seguros",
-      "source": "HousingWire",
-      "source_url": "https://www.housingwire.com/articles/florida-insurance-citizens-drop/",
-      "cover_text": "El mercado de seguros en Florida finalmente se recupera",
-      "caption": "El alivio en los seguros de vivienda en Florida soluciona un gran problema. Cerca de 20 aseguradoras ingresaron o regresaron al mercado tras las reformas legislativas de 2022 y 2023. Esto genera competencia real y simplifica el cierre para los compradores. Esto es lo que cambia al evaluar un expediente: las cotizaciones estables mantienen predecible el pago mensual, evitando que la relación deuda-ingreso (DTI) se eleve antes de la aprobación final. Durante años, los aumentos de seguro a última hora cancelaban préstamos aprobados. Ahora, la cobertura estable ofrece a agentes e intermediarios un camino seguro para aprobar compradores sin contratiempos de último minuto.\n\nFuente : https://tinyurl.com/25arbuf9\n#SafetrustMortgage #MortgageIntelligenceDaily #homebuying #loanofficer #mortgagebroker",
-      "hashtags": [
-        "#SafetrustMortgage",
-        "#MortgageIntelligenceDaily",
-        "#homebuying",
-        "#loanofficer",
-        "#mortgagebroker"
-      ],
-      "hook_tag": "Cambio en el mercado de seguros",
-      "hook": "El alivio en seguros de Florida facilita las aprobaciones de préstamos.",
-      "what_happened_heading": "Aumentan las opciones de seguro de vivienda en Florida tras reformas",
-      "what_happened": "Cerca de 20 aseguradoras ingresaron o regresaron a Florida tras las reformas legislativas aprobadas en 2022 y 2023. Esta llegada de empresas facilita la cotización de seguros y el cierre de préstamos en todo el estado.",
-      "breakdown": [
-        {
-          "heading": "Las primas elevadas afectaban la capacidad de pago del comprador",
-          "body": "Las cotizaciones impredecibles de seguros elevaban la relación deuda-ingreso (DTI) del comprador por encima de los límites permitidos justo antes de la fecha de cierre."
-        },
-        {
-          "heading": "Lo que esto cambia en la evaluación del préstamo",
-          "body": "Esto cambia la evaluación del crédito: las cotizaciones de seguros ahora son estables, permitiendo calcular con precisión el pago total de la vivienda desde el inicio."
-        },
-        {
-          "heading": "Menos cancelaciones antes del cierre final",
-          "body": "Muchos préstamos se cancelaban al final porque la póliza resultaba más costosa de lo estimado. Contar con opciones estables elimina estos rechazos de última hora por el asesor."
-        },
-        {
-          "heading": "Los plazos de cierre vuelven a ser rápidos",
-          "body": "Los profesionales ya no pierden semanas buscando pólizas especiales para cumplir con los requisitos. Las pólizas estándar agilizan la firma de las solicitudes de préstamo."
-        }
-      ],
-      "my_take_heading": "La estabilidad del seguro importa más que pequeñas variaciones de tasa",
-      "my_take": "Bajar las tasas no sirve si un seguro costoso arruina la capacidad de pago del comprador. Restablecer la competencia de aseguradoras resuelve el problema silencioso que afectó al mercado de Florida durante años.",
-      "action_lo": "Recalcule las preaprobaciones de clientes en Florida que superaron los límites de deuda por costos de seguro.",
-      "action_realtor": "Contacte nuevamente a compradores en Florida tras la estabilización de los precios de seguros.",
-      "cta_question": "¿Ha visto que las primas de seguro más bajas rescaten préstamos en Florida que se daban por perdidos?"
-    },
-    {
-      "slug": "nexa-removes-guardrails-100-percent-revenue",
-      "title": "NEXA elimina restricciones en su modelo de ingresos del 100%",
-      "source": "National Mortgage Professional",
-      "source_url": "https://nationalmortgageprofessional.com/news/nexa-removes-guardrails-its-100-revenue-model",
-      "cover_text": "Modelos sin comisiones tienen costos ocultos",
-      "caption": "NEXA Unlimited elimina cargos y mínimos de producción para pagar el 100 por ciento de comisión, pero todo modelo tiene desventajas. La empresa elimina cobros por expediente y requisitos de reclutamiento en préstamos elegibles mediante prestamistas mayoristas seleccionados. Esto es lo que cambia al evaluar un expediente: limitar las solicitudes a prestamistas específicos puede implicar pautas más estrictas cuando el cliente presenta un caso complejo. Las estructuras sin cargos suenan excelentes, pero el profesional debe analizar el precio general, la velocidad de trámite y la flexibilidad. Conservar el 100 por ciento de cero negocios sigue siendo cero. Los profesionales astutos evalúan toda la plataforma antes que las comisiones.\n\nFuente : https://tinyurl.com/23w82eks\n#SafetrustMortgage #MortgageIntelligenceDaily #mortgagebroker #loanofficer #mortgagerates",
-      "hashtags": [
-        "#SafetrustMortgage",
-        "#MortgageIntelligenceDaily",
-        "#mortgagebroker",
-        "#loanofficer",
         "#mortgagerates"
       ],
-      "hook_tag": "Compensación de originadores de préstamos",
-      "hook": "Ganar el 100 por ciento de comisión sin cobros suena demasiado bien.",
-      "what_happened_heading": "NEXA elimina requisitos de volumen y reclutamiento para el pago total",
-      "what_happened": "NEXA Lending lanzó NEXA Unlimited, eliminando requisitos de producción y reclutamiento para otorgar el 100 por ciento de ingresos en préstamos elegibles con prestamistas seleccionados. El programa elimina cargos fijos, cobros por expediente y costos de financiamiento en estas opciones específicas.",
+      "hook_tag": "Estrategia hipotecaria",
+      "hook": "Los compradores eligen préstamos ARM, pero los asesores ven una trampa.",
+      "what_happened_heading": "Las altas tasas impulsan préstamos de tasa ajustable",
+      "what_happened": "Las tasas hipotecarias alcanzaron sus niveles más altos desde junio de 2025. Como respuesta, la demanda de hipotecas de tasa ajustable (ARM) aumentó porque los compradores buscan pagos iniciales más bajos.",
       "breakdown": [
         {
-          "heading": "Los modelos gratuitos siempre trasladan sus costos operacionales a otro lado",
-          "body": "Ninguna empresa opera gratis. Cuando desaparecen los cargos por expediente en ciertos productos, esa pérdida se compensa con ajustes en los precios del prestamista o concesiones en la plataforma."
+          "heading": "El atractivo del pago inicial",
+          "body": "Los préstamos de tasa ajustable ofrecen cuotas iniciales reducidas. Los compradores usan este pago menor para adaptar viviendas costosas a sus presupuestos mensuales actuales."
         },
         {
-          "heading": "Lo que esto cambia en la evaluación del préstamo",
-          "body": "Esto cambia la evaluación del crédito: tener listas limitadas de prestamistas reduce sus opciones, enviando expedientes complejos a asesores con pautas adicionales mucho más estrictas."
+          "heading": "Lo que analiza el asesor",
+          "body": "El asesor no siempre califica el préstamo con la tasa de oferta inicial. Las pautas exigen evaluar la relación deuda-ingreso (DTI) con la tasa ajustada máxima."
         },
         {
-          "heading": "Restricciones de prestamistas reemplazan las cuotas de producción",
-          "body": "Eliminar metas de producción da flexibilidad al originador, pero limita sus opciones a inversionistas mayoristas participantes que compensan a la plataforma de forma indirecta."
+          "heading": "La prueba de capacidad financiera",
+          "body": "Un comprador con DTI límite usando la tasa inicial será rechazado al aplicar el margen completo. El alivio temporal en el papel frena la aprobación en suscripción."
         },
         {
-          "heading": "El soporte operativo determina la velocidad real del préstamo",
-          "body": "Los modelos de compensación total suelen recargar el procesamiento en el originador. Si los tiempos de aprobación se demoran, la mayor comisión por préstamo se pierde al cerrar menos operaciones."
+          "heading": "El riesgo regresa al trámite",
+          "body": "Ofrecer préstamos ARM solo por la tasa inicial genera rechazos de última hora. Sin pruebas de esfuerzo en la preaprobación, los expedientes colapsan antes del cierre."
         }
       ],
-      "my_take_heading": "La estructura de compensación jamás reemplaza la ejecución y opciones de financiamiento",
-      "my_take": "Cero cargos es publicidad; la ejecución es la realidad. Un originador que conserve el 100 por ciento de un préstamo no aprobado gana cero dólares. Las opciones de inversionistas y la rapidez de evaluación siempre superan los porcentajes de comisión.",
-      "action_lo": "Compare los tiempos de procesamiento y pautas adicionales en productos de comisión total antes de enviar expedientes.",
-      "action_realtor": "Pregunte a su prestamista si su modelo de negocio limita los inversionistas mayoristas con los que puede trabajar.",
-      "cta_question": "¿Aceptaría opciones limitadas de prestamistas mayoristas a cambio del 100 por ciento de compensación?"
+      "my_take_heading": "Los préstamos ARM no resuelven la falta de capacidad",
+      "my_take": "Un préstamo ARM no es un pase mágico ante las tasas altas. Si el cliente no califica con la tasa totalmente ajustada, usted solo tramita un expediente que fracasará con el asesor.",
+      "action_lo": "Evalúe los expedientes ARM a la tasa máxima de calificación antes de emitir cartas de preaprobación.",
+      "action_realtor": "Pregunte a los prestamistas si calificaron al comprador con la tasa inicial o la tasa ajustada completa.",
+      "cta_question": "¿Sus oficiales de préstamo ponen a prueba las hipotecas ARM o solo cotizan la tasa inicial?"
+    },
+    {
+      "slug": "think-new-homes-cost-more-not-right-now",
+      "title": "¿Cree que las casas nuevas cuestan más? Ya no es así.",
+      "source": "Keeping Current Matters",
+      "source_url": "https://www.keepingcurrentmatters.com/2026/09/02/think-new-homes-cost-more-not-right-now/",
+      "cover_text": "Las casas nuevas cuestan menos que las usadas",
+      "caption": "La antigua regla de que una casa nueva siempre es más costosa ha cambiado por completo. Hoy los constructores funcionan como operadores financieros al ofrecer incentivos agresivos para reducir la tasa de interés. Esto hace que las casas nuevas sean más accesibles que las propiedades usadas. Mientras tanto, los vendedores tradicionales mantienen precios elevados y sus casas no se venden. Desde la perspectiva del asesor, los créditos del vendedor para gastos de cierre concedidos por constructores cumplen fácilmente los límites normativos. En cambio, las propiedades de reventa suelen bajar el precio sin resolver la cuota mensual del cliente. Si usted representa casas usadas, reduzca la tasa mediante créditos del vendedor para competir eficazmente.\n\nFuente : https://tinyurl.com/2b4t726g\n#SafetrustMortgage #MortgageIntelligenceDaily #realestateagent",
+      "hashtags": [
+        "#SafetrustMortgage",
+        "#MortgageIntelligenceDaily",
+        "#realestateagent"
+      ],
+      "hook_tag": "Estrategia de constructores",
+      "hook": "El precio de viviendas nuevas cambió, pero los vendedores existentes no reaccionan.",
+      "what_happened_heading": "Las construcciones nuevas superan en costo a las usadas",
+      "what_happened": "Muchos compradores asumen que las casas nuevas son más caras que las propiedades existentes. Actualmente, la dinámica del mercado invirtió esa expectativa y las viviendas nuevas resultan más accesibles.",
+      "breakdown": [
+        {
+          "heading": "Los constructores operan como entidades financieras",
+          "body": "Los constructores ofrecen reducciones permanentes de tasa para bajar los pagos reales. Ellos ajustan los costos totales mucho más rápido que los vendedores individuales de viviendas."
+        },
+        {
+          "heading": "Vendedores existentes aferrados a precios altos",
+          "body": "Los vendedores tradicionales insisten en precios máximos sin considerar el costo de espera. Ven las rebajas como pérdidas y no como ajustes para liquidar el inventario."
+        },
+        {
+          "heading": "La visión del asesor sobre concesiones",
+          "body": "El asesor analiza los créditos del vendedor para gastos de cierre según los límites permitidos. Los incentivos del constructor son limpios; las concesiones usadas suelen causar problemas de avalúo."
+        },
+        {
+          "heading": "La financiación supera al precio de lista",
+          "body": "Los compradores eligen cuotas mensuales accesibles, no solo un precio publicado. Los constructores ganan mercado porque venden pagos financiados mientras los vendedores independientes mantienen precios rígidos."
+        }
+      ],
+      "my_take_heading": "Las casas usadas se venden con precios del pasado",
+      "my_take": "Los constructores venden pagos mensuales; los vendedores de casas usadas ofrecen precios del pasado. Hasta que las propiedades existentes incluyan concesiones financieras, las nuevas construcciones dominarán el mercado.",
+      "action_lo": "Estructure las concesiones de vendedores usados para imitar las reducciones de tasa que ofrecen los constructores.",
+      "action_realtor": "Explique a los vendedores que competir con viviendas nuevas exige concesiones de tasa, no solo pequeñas rebajas de precio.",
+      "cta_question": "¿Cómo ayuda a los vendedores de casas usadas a estructurar concesiones para competir con constructores?"
+    },
+    {
+      "slug": "school-zone-housing-affordability",
+      "title": "Las casas en zonas de excelentes escuelas cuestan 35% más que el promedio en EE. UU.",
+      "source": "Redfin",
+      "source_url": "https://www.redfin.com/news/school-zone-housing-affordability-2026/",
+      "cover_text": "La trampa de $41,000 en zonas escolares",
+      "caption": "Comprar una vivienda en una zona con escuelas de alta calificación requiere un ingreso familiar anual de $159,157, comparado con $117,995 para una casa promedio en EE. UU. Esa brecha de $41,000 cubre el aumento del precio medio de $430,000 a $580,000, pero el precio es solo la mitad del problema. Los distritos escolares destacados conllevan impuestos sobre la propiedad mucho más altos. Cuando el oficial de crédito usa estimados genéricos del condado, la preaprobación parece correcta. Sin embargo, cuando el asesor calcula el impuesto real del distrito, la relación deuda-ingreso (DTI) supera los límites permitidos. Incluya siempre la tasa de impuestos exacta antes de enviar a sus clientes a buscar casa.\n\nFuente : https://tinyurl.com/23dzxcm7\n#SafetrustMortgage #MortgageIntelligenceDaily #firsttimehomebuyer",
+      "hashtags": [
+        "#SafetrustMortgage",
+        "#MortgageIntelligenceDaily",
+        "#firsttimehomebuyer"
+      ],
+      "hook_tag": "Riesgo de capacidad de pago",
+      "hook": "Las mejores zonas escolares exigen ingresos sustancialmente más altos.",
+      "what_happened_heading": "Aumenta la prima de precio en zonas escolares",
+      "what_happened": "Las casas en zonas escolares destacadas promedian $580,000, frente a $430,000 de la vivienda típica nacional. Los compradores necesitan $159,157 en ingresos anuales para comprarlas, $41,000 más que el promedio.",
+      "breakdown": [
+        {
+          "heading": "La brecha de precio del 35 por ciento",
+          "body": "Un precio medio de $580,000 incrementa el capital y los intereses. Esa diferencia aumenta el pago inicial y deja fuera a las familias de ingresos medios."
+        },
+        {
+          "heading": "La carga oculta de la deuda",
+          "body": "Ganar $159,157 parece claro, pero los impuestos a la propiedad y seguros en distritos escolares destacados suelen ser muy superiores al promedio del condado."
+        },
+        {
+          "heading": "Análisis del asesor sobre impuestos",
+          "body": "Al revisar el expediente, el asesor calcula los impuestos exactos del distrito escolar. Estos montos reales suelen elevar la relación deuda-ingreso (DTI) por encima del límite."
+        },
+        {
+          "heading": "Preaprobaciones que fallan al final",
+          "body": "Emitir preaprobaciones generales sin considerar los impuestos locales genera rechazos a mitad del trámite. La combinación de alto precio e impuestos afecta la capacidad del cliente."
+        }
+      ],
+      "my_take_heading": "El costo escolar incluye impuestos elevados",
+      "my_take": "Esa diferencia de $41,000 no es solo el precio de compra, también son impuestos más altos. Si preaprueba usando promedios del condado, los impuestos reales del distrito escolar cancelarán el crédito con el asesor.",
+      "action_lo": "Calcule las tasas exactas de impuestos del distrito escolar antes de emitir cartas de preaprobación.",
+      "action_realtor": "Advierta a los compradores sobre el aumento en el pago mensual por impuestos en zonas de escuelas destacadas.",
+      "cta_question": "¿Ajusta sus preaprobaciones considerando las variaciones de impuestos sobre la propiedad en cada distrito escolar?"
     }
   ]
 }

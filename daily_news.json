@@ -1,5 +1,47 @@
 [
   {
+    "title": "Why Reno\u2019s housing market is holding up while Phoenix, Denver and Austin fall",
+    "summary": "<p>Washoe County deeds show a 2.1% YoY gain through July 2026, while Austin is down 5.0% and Denver is down 3.4%\n</p>",
+    "link": "https://www.housingwire.com/articles/reno-housing-prices-deeds/",
+    "published": "2026-09-03T07:00:00"
+  },
+  {
+    "title": "What employer housing benefits are still missing",
+    "summary": "<p>Down-payment loans and rate stipends won't move the needle on homeownership if workers don't know what they qualify for, or when to act\n</p>",
+    "link": "https://www.housingwire.com/articles/employer-housing-benefits-navigation/",
+    "published": "2026-09-03T07:00:00"
+  },
+  {
+    "title": "Gen Z is buying homes. Is the mortgage industry ready?",
+    "summary": "<p>What Gen Z borrowers are telling us about the future of mortgage</p>",
+    "link": "https://www.housingwire.com/articles/gen-z-purchase-rate-locks/",
+    "published": "2026-09-03T07:00:00"
+  },
+  {
+    "title": "Michigan primary wins bolster momentum for zoning reforms",
+    "summary": "<p>Housing reform cosponsors who faced challengers won by 47.2 points on average, even as local governments oppose zoning preemption</p>",
+    "link": "https://www.housingwire.com/articles/michigan-zoning-reform-primary/",
+    "published": "2026-09-02T21:11:43"
+  },
+  {
+    "title": "Compass-NWMLS settlement bigger than \u2018coming soon\u2019 listings",
+    "summary": "<p>The agreement, which takes effect in stages beginning Sept. 4, creates a new \u201cFirst Look\u201d status</p>",
+    "link": "https://www.housingwire.com/articles/compass-nwmls-settlement-bigger-than-coming-soon-listings/",
+    "published": "2026-09-02T20:38:20"
+  },
+  {
+    "title": "eXp ends mortgage JV with Kind Lending, eyes Newrez deal",
+    "summary": "<p>Success Lending will wind down as eXp targets launch with Newrez</p>",
+    "link": "https://www.housingwire.com/articles/exp-kind-success-lending-newrez/",
+    "published": "2026-09-02T20:25:41"
+  },
+  {
+    "title": "Rocket\u2019s amended complaint says UWM targeted Mr. Cooper borrowers",
+    "summary": "<p>Rocket claims that UWM provided brokers with lists identifying specific loans to target</p>",
+    "link": "https://www.housingwire.com/articles/rocket-uwm-amended-complaint/",
+    "published": "2026-09-02T19:17:14"
+  },
+  {
     "title": "Real estate doesn\u2019t compete with other brokerages anymore",
     "summary": "<p>The industry is increasingly judged on proactive status updates, fewer handoffs and cost clarity before commitment.</p>",
     "link": "https://www.housingwire.com/articles/homebuying-transparency-expectations/",
@@ -16,48 +58,6 @@
     "summary": "<p>Fresno-based mega team has roughly 37 agents who closed $87.92M on 172 sides in 2024 and 2025</p>",
     "link": "https://www.housingwire.com/articles/tafoya-real-estate-exp-realty/",
     "published": "2026-09-02T17:59:18"
-  },
-  {
-    "title": "Rate adds Chicago-area mortgage leaders, opens Elmhurst branch",
-    "summary": "<p>Vito Roppo and Nick Ferrante bring $155M in combined production to new branch in Elmhurst, Illinois</p>",
-    "link": "https://www.housingwire.com/articles/rate-hires-mortgage-leaders-elmhurst/",
-    "published": "2026-09-02T17:36:56"
-  },
-  {
-    "title": "HECM volume slips in August, with the \u2018Big 3\u2019 holding 62% market share",
-    "summary": "<p>Conversely, HMBS issuance rose to $537 million across 65 pools</p>",
-    "link": "https://www.housingwire.com/articles/top-3-hecm-lenders-share/",
-    "published": "2026-09-02T16:45:19"
-  },
-  {
-    "title": "Florida homebuyers can breathe easier as insurance market rebounds",
-    "summary": "<p>Nearly 20 insurers entered or reentered Florida after 2022 and 2023 reforms, easing quoting and closing challenges.</p>",
-    "link": "https://www.housingwire.com/articles/florida-insurance-citizens-drop/",
-    "published": "2026-09-02T16:01:42"
-  },
-  {
-    "title": "HUD sets one-year statute of limitations on fair housing construction violations",
-    "summary": "<p>The updated guidance replaces a 2013 policy</p>",
-    "link": "https://www.housingwire.com/articles/hud-limits-fair-housing-construction-liability/",
-    "published": "2026-09-02T15:44:51"
-  },
-  {
-    "title": "HomeVestors expands to on-market properties with acquisition",
-    "summary": "<p>The move aims to help franchises identify and pursue investment opportunities listed on the MLS</p>",
-    "link": "https://www.housingwire.com/articles/homevestors-expands-to-on-market-properties-with-acquisition/",
-    "published": "2026-09-02T15:37:11"
-  },
-  {
-    "title": "House Republicans outline plan to overhaul CFPB",
-    "summary": "<p>Act targets CFPB structure, shifting the bureau funding to appropriations  \n</p>",
-    "link": "https://www.housingwire.com/articles/cfpb-reform-funding-oversight/",
-    "published": "2026-09-02T15:16:46"
-  },
-  {
-    "title": "Housing Market Spotlight: Spotting the local signals beneath headline data",
-    "summary": "<p>El Paso, San Antonio and Cincinnati show why housing professionals need to read seller behavior, supply and absorption together to understand changing market conditions</p>",
-    "link": "https://www.housingwire.com/articles/local-housing-market-signals-changing-conditions/",
-    "published": "2026-09-02T15:08:08"
   },
   {
     "title": "Mortgage Rates Are at New 2026 Highs, But There\u2019s a But",
@@ -90,6 +90,24 @@
     "published": "2026-09-02T12:00:06"
   },
   {
+    "title": "How to Pay for Aging-in-Place Home Modifications",
+    "summary": "Compare HELOCs, FHA 203(k) and Title I loans, reverse mortgages, and VA and state grants to pay for aging-in-place home modifications on a fixed income.",
+    "link": "https://themortgagereports.com/134060/aging-in-place-home-modifications",
+    "published": "2026-09-02T21:44:00"
+  },
+  {
+    "title": "Relatively Drama-Free Day",
+    "summary": "Relatively Drama-Free Day \n\n             \n             \n            These things happen from time to time. The bond market finally had an uneventful day... sorta. This may seem like a fairly odd claim for any day where yields hit the highest levels in well over a year but those were intraday highs, and they weren't much higher than yesterday's highs. During domestic hours, 10s were mostly in a 2bp range. Additionally, there were no standout market movers for better or worse. This easily meets the definition of uneventful even if it says nothing about the volatility risks over the next 2 days.&nbsp; \n\n             \n     \n      \n     \n      Econ Data / Events\n     \n     \n         \n             \n            \n ADP Jobs \n \n 38k vs 47k f'cast, 46k prev \n \n \n \n\n             \n         \n     \n      \n     \n      Market Movement Recap\n     \n     \n             \n             08:36 AM    MBS up 3 ticks (.09) and 10yr unchanged at 4.793 \n \n             \n             \n             01:59 PM    MBS up 2 ticks (.06) and 10yr unchanged at 4.792 \n \n             \n             \n             03:57 PM    MBS up an eighth and 10yr down half a bp at 4.787",
+    "link": "https://www.mortgagenewsdaily.com/markets/mbs-recap-09022026",
+    "published": "2026-09-02T21:01:34"
+  },
+  {
+    "title": "Mortgage Rates Approaching 7%",
+    "summary": "First things first: when we reference average, daily, top-tier 30yr fixed rates, it is for an ideal scenario that rarely exists in the wild. The average scenario will always involve slightly higher effective rates (i.e. even if the rate is the same as national averages, it would involve additional upfront costs).  As a reminder, our daily rate index accounts for upfront costs whereas Freddie Mac's weekly survey rate does not. MBA's weekly rate survey collects separate answers for rates vs upfront costs.  Bottom line, while the daily index rose into the 6.9's today for the first time in more than year, many borrowers are already seeing rates at 7% or higher.  [thirtyyearmortgagerates]",
+    "link": "https://www.mortgagenewsdaily.com/markets/mortgage-rates-09022026",
+    "published": "2026-09-02T19:08:00"
+  },
+  {
     "title": "HELOC, TPO, API, Non-Agency Products; Webcasts; Why Rates Are Where They Are: We're Not Alone",
     "summary": "I\u2019ve been in capital markets for over 40 years, and this rate and affordability environment is tough. Any lender who finds these higher rates boring, well, don\u2019t hold your breath waiting for them to come down.) Principal, interest, taxes, and insurance (PITA) is only part of the affordability equation, but market forces determine long term rates, not the government or the Fed. Some estimates have property taxes and insurance up 20-30 percent over the last year. Condo special assessments? Here\u2019s a story about some condo owners hit with a $5 million \u201cemergency\u201d roof bill. What does that do to owner\u2019s financial situations? (Today\u2019s podcast can be found here. This week\u2019s \u2018casts are sponsored by Zillow Home Loans, Zillow\u2019s in-house mortgage lender. With tools built for modern lending, Zillow Home Loan\u2019s loan officers can focus on guiding buyers with care and confidence. Today\u2019s has an interview with Lender Toolkit\u2019s Brett Brumley on the proper due diligence necessary with counterparties in the artificial intelligence era.)     Broker and Lender Products, Software, and Services   Summer may be cooling down, but Symmetry\u2019s HELOCs are still HOT. According to Q1 2026 data from Federal Reserve Bank, homeowners continued tapping into their equity at the highest first-quarter level since 2021, with 54% of all equity withdrawals coming through second liens. The upshot is that there\u2019s an estimated $11 trillion in home equity available to borrowers. Accessing available equity for extra cash can be tempting. That's where a HELOC can make sense. Whether it's home improvements, debt consolidation, investment opportunities, major expenses, or simply creating financial flexibility. Don't let the summer slowdown slow down your HELOC business. If you have a deal you're working on, or just want to see where HELOCs could fit into your business, contact your Symmetry AE today!",
     "link": "https://www.mortgagenewsdaily.com/opinion/pipelinepress-09022026",
@@ -100,35 +118,5 @@
     "summary": "Bonds were initially a hair weaker overnight but reversed course starting around 7am ET as oil prices fell. On the other hand, oil had already begun moving lower earlier in the overnight session without a proportional response in bonds. In other words, there was some extra oomph behind the 7am move.&nbsp;This could be as simple as different traders being awake and tuned-in at different times of day, but could also suggest large money managers buying the dip (in both stocks and bonds) amid an absence of additional negative news on the Iran war.&nbsp;",
     "link": "https://www.mortgagenewsdaily.com/markets/mbs-morning-09022026",
     "published": "2026-09-02T14:32:55"
-  },
-  {
-    "title": "More War. More Selling",
-    "summary": "More War. More Selling \n\n             \n             \n            Tuesday was as straightforward as it was unpleasant for the bond market. Mid-day news regarding new air strikes in Iran caused an immediate reaction in oil prices. This was more than enough to reverse the rally that followed this morning's 10am ET economic data. Oil prices hit the highest level since late July and bond yields matched the highest closing levels since January 2025. \n\n             \n     \n      \n     \n      Econ Data / Events\n     \n     \n         \n             \n            \n ISM Manufacturing PMI (Aug)\n \n 54.6 vs 55.2 f'cast, 55.6 prev \n \n \n ISM Mfg Prices Paid (Aug)\n \n 71.1 vs 72 f'cast, 71.1 prev \n \n \n USA JOLTS Job Openings (Jul)\n \n 7.271M vs 7.3M f'cast, 7.359M prev \n \n \n \n\n             \n         \n     \n      \n     \n      Market Movement Recap\n     \n     \n             \n             08:54 AM    MBS down a quarter point and 10yr up 3bps at 4.784 \n \n             \n             \n             10:17 AM    Stronger after 10am data, but still weaker on the day. MBS down an eighth and 10yr up 1bp at 4.761 \n \n             \n             \n             12:32 PM    MBS down 6 ticks (.19) and 10yr up 3.4bps at 4.786 \n \n             \n             \n             02:11 PM    MBS down 9 ticks (.28) and 10yr up 4bps at 4.791",
-    "link": "https://www.mortgagenewsdaily.com/markets/mbs-recap-09012026",
-    "published": "2026-09-01T20:50:42"
-  },
-  {
-    "title": "Mortgage Rates Pushing New Long-Term Highs",
-    "summary": "Fighting intensified today between the U.S. and Iran. Oil prices moved higher fairly quickly and bond yields followed. This has been a common pattern during the Iran war as higher oil prices imply higher inflation which, in turn, implies higher yields/rates.  Yesterday's average top-tier 30yr fixed rate hit the highest levels since June 2025. Today's increase was modest in the bigger picture. At 6.89%, we're still well below that June 2025 high of 6.97%.&nbsp;  [thirtyyearmortgagerates]",
-    "link": "https://www.mortgagenewsdaily.com/markets/mortgage-rates-09012026",
-    "published": "2026-09-01T20:02:00"
-  },
-  {
-    "title": "AngelAi Officially Launches Angel Agents With Sena Release",
-    "summary": "AngelAi and Sun West Mortgage Company have officially launched Angel Agents through the release of Sena, moving the company\u2019s personal AI-agent technology from demonstrations and early adoption into general availability.",
-    "link": "https://nationalmortgageprofessional.com/news/angelai-officially-launches-angel-agents-sena-release",
-    "published": "2026-09-02T13:34:49"
-  },
-  {
-    "title": "NEXA Removes The Guardrails From Its 100% Revenue Model",
-    "summary": "NEXA Lending is removing some of the barriers around its 100% revenue model, allowing loan originators to access the economics without meeting production or recruiting requirements on loans through select lenders.Under the newly launched NEXA Unlimited, the company says originators can access 100% of the revenue from qualifying NEXA loans, with no flat fee, added per-file fee, correspondent funding fee, closing fee, or additional margin.",
-    "link": "https://nationalmortgageprofessional.com/news/nexa-removes-guardrails-its-100-revenue-model",
-    "published": "2026-09-02T12:42:31"
-  },
-  {
-    "title": "Rocket Taps Meta Executive Alessio Sanfilippo To Lead Redfin",
-    "summary": "Rocket Companies has named former Meta and Intuit executive Alessio Sanfilippo chief executive officer of Redfin, placing a product, data, and artificial intelligence veteran in charge of the real estate brokerage as Rocket works to connect more of the homebuying process within one platform.Sanfilippo\u2019s appointment was effective immediately, the company announced Monday.",
-    "link": "https://nationalmortgageprofessional.com/news/rocket-taps-meta-executive-alessio-sanfilippo-lead-redfin",
-    "published": "2026-09-02T12:25:07"
   }
 ]
