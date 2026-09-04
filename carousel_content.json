@@ -126,5 +126,133 @@
       "action_realtor": "Ask senior seller clients if they participate in tax deferral programs before setting listing timelines or estimated net proceeds.",
       "cta_question": "Have you ever had a senior transaction derailed by an unexpected tax deferral lien?"
     }
+  ],
+  "carousels_es": [
+    {
+      "slug": "inventory-surge-4-year-high",
+      "title": "Nuevas propiedades en venta alcanzan máximo de 4 años mientras la demanda sigue estable",
+      "source": "Redfin",
+      "source_url": "https://www.redfin.com/news/housing-market-update-new-listings-4-year-high/",
+      "cover_text": "Más casas en venta dan ventaja a compradores",
+      "caption": "Hay más casas disponibles, pero tener opciones no asegura la aprobación del préstamo.\n\nLas nuevas opciones en el mercado alcanzaron su nivel más alto desde agosto de 2022 durante las cuatro semanas hasta el 30 de agosto, subiendo un 2.1 por ciento respecto a la semana anterior. La demanda de los compradores sigue estable, dándote más alternativas de las que has visto en años. Sin embargo, las bajadas de precio a menudo ocultan mantenimientos pendientes que el asesor (underwriter) señalará en la tasación. Los agentes inteligentes están canalizando esta ventaja para conseguir créditos del vendedor que cubran costos de cierre, en lugar de pelear rebajas menores. Nuestro trabajo como oficiales de préstamo es asegurar que esos créditos cumplan los límites antes de firmar. Hay grandes oportunidades en el mercado, pero el contrato debe estructurarse bien.\n\nFuente : https://tinyurl.com/28snsf9s\n#SafetrustMortgage #MortgageIntelligenceDaily #housingmarket #realestateagent #homebuying",
+      "hashtags": [
+        "#SafetrustMortgage",
+        "#MortgageIntelligenceDaily",
+        "#housingmarket",
+        "#realestateagent",
+        "#homebuying"
+      ],
+      "hook_tag": "Giro en el mercado",
+      "hook": "Tener más opciones no garantiza aprobaciones de préstamo más fáciles.",
+      "what_happened_heading": "Las casas en venta alcanzan su punto más alto en cuatro años",
+      "what_happened": "Las nuevas casas en venta subieron un 2.1 por ciento respecto a la semana anterior. La demanda se mantuvo estable durante cuatro semanas hasta el 30 de agosto, mientras la oferta alcanzó un máximo de cuatro años.",
+      "breakdown": [
+        {
+          "heading": "La oferta por fin se separa de la demanda",
+          "body": "Los vendedores están publicando más propiedades a pesar de las tasas altas. La demanda estable les da espacio a los compradores para negociar mejores condiciones y créditos."
+        },
+        {
+          "heading": "Bajar precios oculta fallas en las propiedades",
+          "body": "Muchos vendedores bajan precios en lugar de hacer reparaciones. El asesor que evalúa tu crédito señalará los mantenimientos pendientes sin importar la rebaja de precio."
+        },
+        {
+          "heading": "La negociación se mueve hacia créditos del vendedor",
+          "body": "Los compradores aprovechan su ventaja para pedir ayuda con los costos de cierre. Esto reduce el dinero en efectivo necesario el día de la firma."
+        },
+        {
+          "heading": "Tus ingresos y deudas aún mandan",
+          "body": "Tener más opciones no significa que puedas pedir más prestado. Los límites de la relación deuda-ingreso (DTI) siguen siendo estrictos al evaluar tu préstamo."
+        }
+      ],
+      "my_take_heading": "Aprovechar las opciones requiere estructurar bien el contrato",
+      "my_take": "Un aumento de casas a la venta no relaja las reglas de aprobación. Solo te da espacio para negociar créditos del vendedor que cubran tus gastos de cierre en lugar de pelear por rebajas pequeñas.",
+      "action_lo": "Estructura las preaprobaciones considerando el límite máximo de créditos del vendedor antes de que el cliente envíe una oferta.",
+      "action_realtor": "Busca propiedades con más de veinte días en el mercado y negocia reducciones de tasa pagadas por el vendedor.",
+      "cta_question": "¿Tus compradores están usando el aumento de inventario para pedir rebajas de precio o créditos de cierre?"
+    },
+    {
+      "slug": "uwm-hedge-loss-lawsuits",
+      "title": "UWM enfrenta tres demandas de accionistas tras pérdida de $603M en coberturas",
+      "source": "National Mortgage Professional",
+      "source_url": "https://nationalmortgageprofessional.com/news/uwms-603-million-hedge-loss-has-drawn-three-shareholder-lawsuits-so-far",
+      "cover_text": "Demandas por pérdida de $603M en coberturas",
+      "caption": "Los problemas financieros de los grandes prestamistas mayoristas impactan directamente tus préstamos.\n\nUnited Wholesale Mortgage enfrenta tres demandas de accionistas tras perder 603.2 millones de dólares en derivados relacionados con el acuerdo fallido de Two Harbors. Las demandas alegan que UWM no reveló el riesgo de tasa de interés y cuestionan a la junta directiva. Como asesores de crédito, sabemos que la liquidez del mercado secundario afecta las reglas del prestamista. Cuando un gigante mayorista sufre pérdidas o distracciones legales, los originadores que dependen de una sola plataforma absorben el impacto. Los brokers deben mantener relaciones activas con varios inversionistas para proteger a sus clientes ante interrupciones de capital.\n\nFuente : https://tinyurl.com/23ymxazl\n#SafetrustMortgage #MortgageIntelligenceDaily #mortgagebroker #loanofficer #mortgagerates",
+      "hashtags": [
+        "#SafetrustMortgage",
+        "#MortgageIntelligenceDaily",
+        "#mortgagebroker",
+        "#loanofficer",
+        "#mortgagerates"
+      ],
+      "hook_tag": "Gobierno corporativo",
+      "hook": "Fallas de supervisión corporativa amenazan la estabilidad de tus préstamos.",
+      "what_happened_heading": "Gigante mayorista enfrenta demandas de sus accionistas",
+      "what_happened": "United Wholesale Mortgage enfrenta tres demandas de accionistas tras una pérdida de 603.2 millones de dólares en derivados. Las demandas alegan que UWM ocultó el riesgo de tasa de interés y critican la falta de supervisión de su junta directiva.",
+      "breakdown": [
+        {
+          "heading": "Pérdidas por volatilidad en las tasas de interés",
+          "body": "La pérdida de 603.2 millones de dólares provino de posiciones de cobertura vinculadas a una adquisición fallida con Two Harbors. Los cambios drásticos en las tasas aumentaron el riesgo."
+        },
+        {
+          "heading": "Demandas apuntan a la falta de transparencia ejecutiva",
+          "body": "La primera demanda acusó a UWM de no reportar sus niveles de riesgo. Las nuevas demandas cuestionan cómo la directiva monitoreó las inversiones en derivados durante los cambios del mercado."
+        },
+        {
+          "heading": "El asesor revisa la estabilidad financiera del prestamista",
+          "body": "Los golpes en los estados financieros ponen a prueba la liquidez. Los asesores de riesgo revisan las líneas de crédito bancarias (warehouse lines) cuando surgen disputas legales gigantes."
+        },
+        {
+          "heading": "Depender de un solo banco aumenta tu riesgo",
+          "body": "Los brokers independientes que usan una sola plataforma mayorista arriesgan sus préstamos si ese prestamista sufre apretones financieros o ajusta sus costos para cubrir pérdidas."
+        }
+      ],
+      "my_take_heading": "El riesgo operativo importa más que los titulares",
+      "my_take": "Una pérdida de 603 millones de dólares impacta más que a la empresa. Obliga a los profesionales de préstamo a diversificar sus inversionistas antes de que los ajustes de precios afecten a los clientes.",
+      "action_lo": "Diversifica tus canales de préstamos mayoristas de inmediato para proteger tus trámites ante problemas operativos de un solo banco.",
+      "action_realtor": "Trabaja con asesores de préstamo que mantengan múltiples fuentes de financiamiento en lugar de depender de un solo banco.",
+      "cta_question": "¿Cómo estás gestionando el riesgo de tus inversionistas mayoristas hoy en día?"
+    },
+    {
+      "slug": "tax-deferral-versus-reverse-mortgage",
+      "title": "Conflictos de prioridad de gravamen bloquean diferimientos de impuestos e hipotecas inversas",
+      "source": "The Mortgage Reports",
+      "source_url": "https://themortgagereports.com/134058/property-tax-deferral-vs-reverse-mortgage",
+      "cover_text": "Por qué diferir impuestos frena tu hipoteca inversa",
+      "caption": "Muchos adultos mayores buscan alivio financiero pero tropiezan con un problema en el título de su propiedad.\n\nLos programas locales para diferir impuestos de propiedad parecen una gran ayuda, pero crean un gravamen prioritario del gobierno sobre la vivienda. Cuando un propietario intenta tramitar una hipoteca inversa, el asesor (underwriter) detiene el proceso porque la FHA (Federal Housing Administration) exige el primer lugar de prioridad en el título. El saldo de los impuestos diferidos debe pagarse en el cierre, reduciendo el dinero disponible o congelando el trámite. Los oficiales de préstamo deben revisar los reportes preliminares de título desde el principio. Aclarar estos gravámenes a tiempo evita retrasos graves en el financiamiento.\n\nFuente : https://tinyurl.com/25vmute8\n#SafetrustMortgage #MortgageIntelligenceDaily #housingmarket #mortgagebroker #loanofficer",
+      "hashtags": [
+        "#SafetrustMortgage",
+        "#MortgageIntelligenceDaily",
+        "#housingmarket",
+        "#mortgagebroker",
+        "#loanofficer"
+      ],
+      "hook_tag": "Riesgo de crédito",
+      "hook": "Diferir impuestos locales crea gravámenes ocultos que congelan tu refinanciación.",
+      "what_happened_heading": "Programas de ayuda fiscal generan conflictos de título",
+      "what_happened": "Los adultos mayores que difieren impuestos de propiedad enfrentan un obstáculo inesperado al solicitar una hipoteca inversa. Los aplazamientos de impuestos estatales y del condado crean gravámenes prioritarios que impiden establecer la hipoteca en primer lugar de preferencia.",
+      "breakdown": [
+        {
+          "heading": "El aplazamiento fiscal crea un gravamen prioritario automático",
+          "body": "Los condados que aplazan impuestos aseguran esa deuda con un gravamen prioritario. Este gravamen del gobierno tiene preferencia legal sobre cualquier hipoteca existente o futura sobre la propiedad."
+        },
+        {
+          "heading": "Las reglas de título bloquean la aprobación",
+          "body": "Los prestamistas de hipotecas inversas exigen el primer lugar en el título. Un aplazamiento de impuestos activo viola las guías de la FHA (Federal Housing Administration) hasta liquidar la deuda."
+        },
+        {
+          "heading": "El asesor congela el trámite hasta saldar la deuda",
+          "body": "Un aplazamiento de impuestos actúa como impuestos atrasados. La compañía de títulos señalará el reclamo y el asesor (underwriter) detendrá el financiamiento de inmediato."
+        },
+        {
+          "heading": "Saldar la deuda reduce el dinero disponible",
+          "body": "Para resolver el conflicto, hay que pagar los impuestos diferidos usando el dinero de la hipoteca inversa. Esto reduce el capital disponible que recibe el cliente al cerrar."
+        }
+      ],
+      "my_take_heading": "Los gravámenes silenciosos afectan tu estrategia de patrimonio",
+      "my_take": "Diferir impuestos no es dinero regalado; es una deuda del gobierno que bloquea la aprobación de una hipoteca inversa hasta que se liquida en el título.",
+      "action_lo": "Revisa el informe de título desde el inicio para detectar aplazamientos fiscales antes de procesar una hipoteca inversa.",
+      "action_realtor": "Pregunta a tus clientes mayores si participan en programas de diferimiento de impuestos antes de definir fechas de venta o ganancias estimadas.",
+      "cta_question": "¿Alguna vez se te ha frenado una transacción con adultos mayores por un gravamen de impuestos diferidos?"
+    }
   ]
 }
