@@ -146,10 +146,10 @@ LABELS = {
     "es": {
         "what_happened": "Qu&eacute; Pas&oacute;", "breakdown": "El Desglose",
         "my_take": "Mi Opini&oacute;n", "angle": "El &Aacute;ngulo",
-        "what_to_do": "Qu&eacute; Hacer", "next_move": "Su pr&oacute;ximo paso",
+        "what_to_do": "Qu&eacute; Hacer", "next_move": "Tu pr&oacute;ximo paso",
         "for_lo": "Para Oficiales de Pr&eacute;stamo",
         "for_realtor": "Para Agentes de Bienes Ra&iacute;ces",
-        "join": "&Uacute;nase a la Conversaci&oacute;n", "source": "Fuente",
+        "join": "&Uacute;nete a la Conversaci&oacute;n", "source": "Fuente",
     },
 }
 # Headshot for the "My Take" slide — embedded raw (it's a photo, so the logo

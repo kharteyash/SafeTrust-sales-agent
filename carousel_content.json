@@ -130,11 +130,11 @@
   "carousels_es": [
     {
       "slug": "new-homes-cheaper-than-resale",
-      "title": "¿Cree que las casas nuevas cuestan más? No ahora",
+      "title": "¿Crees que las casas nuevas cuestan más? No ahora",
       "source": "Keeping Current Matters",
       "source_url": "https://www.keepingcurrentmatters.com/2026/09/02/think-new-homes-cost-more-not-right-now/",
-      "cover_text": "Casas nuevas son más baratas que existentes",
-      "caption": "La construcción nueva está reduciendo los precios de las casas de reventa, volteando la lógica tradicional del mercado. La mayoría de los compradores asume que una casa nueva cuesta más, pero ahora esa premisa está invertida. Los vendedores de reventa se aferran a valoraciones máximas pasadas mientras los constructores bajan precios para mover inventario. Cuando el archivo llega a la suscripción, los nuevos proyectos evitan problemas de tasación y reducen el DTI (deuda‑ingreso) mediante créditos estructurados. Si busca préstamos limpios hoy, la construcción nueva es la vía de menor resistencia. Los vendedores de reventa deberán adaptarse o seguir perdiendo compradores ante los balances de los constructores corporativos.\n\nFuente : https://tinyurl.com/2b4t726g\n#SafetrustMortgage #MortgageIntelligenceDaily #housingmarket #realestateagent #loanofficer",
+      "cover_text": "Las casas nuevas son más baratas",
+      "caption": "Los precios de la construcción nueva están rompiendo la lógica del mercado de reventa. Muchos compradores piensan que una casa recién construida cuesta más, pero ahora la tendencia está al revés. Los vendedores de segunda mano siguen aferrados a los valores máximos del año pasado, mientras los constructores bajan precios para mover inventario. Cuando el expediente llega al asesor, los nuevos proyectos evitan problemas de tasación y reducen el DTI (deuda‑sobre‑ingreso) con créditos estructurados. Si buscas préstamos limpios, la construcción nueva es la vía de menor fricción. Los vendedores de reventa tendrán que adaptarse o seguir perdiendo compradores frente a los balances de los constructores.\n\nFuente : https://tinyurl.com/2b4t726g\n#SafetrustMortgage #MortgageIntelligenceDaily #housingmarket #realestateagent #loanofficer",
       "hashtags": [
         "#SafetrustMortgage",
         "#MortgageIntelligenceDaily",
@@ -143,40 +143,40 @@
         "#loanofficer"
       ],
       "hook_tag": "New Construction Math",
-      "hook": "Los proyectos nuevos están reduciendo los precios de casas existentes ahora mismo.",
-      "what_happened_heading": "Los precios de los constructores cambian el guion tradicional",
-      "what_happened": "Los compradores suelen esperar pagar una prima por una construcción nueva frente a una casa existente. Ahora esa matemática está al revés, ya que los precios de nuevas construcciones caen bajo los de reventa.",
+      "hook": "Los precios de casas nuevas están bajo los de reventa ahora mismo.",
+      "what_happened_heading": "Los precios de los constructores cambian el juego",
+      "what_happened": "Los compradores suelen asumir que una casa nueva cuesta más que una usada. En este momento esa lógica está invertida porque los precios de obra nueva bajan bajo los de reventa.",
       "breakdown": [
         {
-          "heading": "Los vendedores de reventa están atrapados en el pasado",
-          "body": "Los propietarios actuales se aferran a valores máximos de años anteriores. Los constructores reducen agresivamente los precios base para liberar inventario rápidamente."
+          "heading": "Vendedores de reventa viven en el pasado",
+          "body": "Los propietarios actuales se aferran a los valores máximos de años anteriores. Los constructores bajan precios agresivamente para liberar inventario y mantener flujo de caja."
         },
         {
-          "heading": "Qué cambia esto en la suscripción",
-          "body": "Cuando el archivo llega a la suscripción, los recortes de precios e incentivos del constructor reducen directamente el DTI sin obstáculos de tasación."
+          "heading": "Qué cambia en el asesoramiento",
+          "body": "Los recortes de precio y los incentivos del constructor reducen directamente el DTI sin obstáculos de tasación."
         },
         {
-          "heading": "Reducción de tasas modifica el pago mensual",
-          "body": "Los constructores usan escalas para subsidiar el financiamiento, lo que disminuye el PITI (principal, intereses, impuestos y seguros) del comprador de forma eficaz."
+          "heading": "Bajas de tasa reducen el pago mensual",
+          "body": "Los constructores subsidian el financiamiento, lo que baja el PITI (principal, intereses, impuestos y seguros) del comprador de forma significativa."
         },
         {
-          "heading": "Aprobaciones limpias en nuevas construcciones",
-          "body": "Los tratos de reventa suelen retrasarse por reparaciones y reportes de condición. Los archivos de nueva construcción pasan más rápido los sistemas automáticos sin banderas de mantenimiento pendiente."
+          "heading": "Aprobaciones limpias en obra nueva",
+          "body": "Los archivos de construcción nueva pasan rápido los sistemas automáticos, sin banderas de mantenimiento diferido ni reparaciones pendientes."
         }
       ],
-      "my_take_heading": "Los vendedores de casas usadas pierden compradores ante los balances de los constructores",
-      "my_take": "Los vendedores de reventa compiten con balances corporativos, no con familias. Hasta que los precios de reventa se ajusten, los constructores capturarán a cada comprador sensible al precio.",
-      "action_lo": "Presente opciones de financiación para nuevas construcciones a compradores presionados por altos precios de reventa.",
-      "action_realtor": "Oriente a los vendedores de reventa a igualar los incentivos del constructor o arriesgarse a quedar inmovilizados en el mercado.",
-      "cta_question": "¿Sus compradores eligen nuevas construcciones sobre reventa solo por el pago mensual?"
+      "my_take_heading": "Vendedores de casas usadas pierden compradores a los balances de los constructores",
+      "my_take": "Los vendedores de reventa compiten con los balances corporativos, no con familias. Mientras los precios de reventa no se ajusten, los constructores captarán a todos los compradores sensibles al precio.",
+      "action_lo": "Ofrece opciones de financiamiento para casas nuevas a compradores agobiados por precios altos de reventa.",
+      "action_realtor": "Aconseja a los vendedores de reventa que igualen los incentivos de los constructores o perderán mercado.",
+      "cta_question": "¿Tus compradores eligen obra nueva por el pago mensual más bajo?"
     },
     {
       "slug": "florida-insurance-market-rebounds",
-      "title": "Los compradores de vivienda en Florida pueden respirar más tranquilos mientras el mercado de seguros se recupera",
+      "title": "Los compradores de Florida respiran aliviados con el rebote del seguro",
       "source": "HousingWire",
       "source_url": "https://www.housingwire.com/articles/florida-insurance-citizens-drop/",
-      "cover_text": "El mercado de seguros de Florida finalmente mejora",
-      "caption": "El alivio del seguro de vivienda en Florida está corrigiendo silenciosamente el mayor obstáculo de los acuerdos en el estado. Casi 20 aseguradoras ingresaron o reingresaron al mercado tras reformas legislativas de 2022 y 2023. Eso genera competencia real y simplifica el proceso de cierre para los compradores. Cuando el archivo llega a la suscripción, cotizaciones de seguro consistentes mantienen predecible el PITI (principal, intereses, impuestos y seguros), evitando que el DTI (deuda‑ingreso) se dispare al momento de cerrar. Durante años, picos de seguros mataron aprobaciones condicionales justo antes del cierre. Ahora, la cobertura estabilizada brinda a oficiales de préstamo y agentes inmobiliarios una ruta fiable para aprobar compradores sin prisas de último minuto.\n\nFuente : https://tinyurl.com/25arbuf9\n#SafetrustMortgage #MortgageIntelligenceDaily #homebuying #loanofficer #mortgagebroker",
+      "cover_text": "El mercado de seguros en Florida mejora",
+      "caption": "El alivio del seguro de hogar en Florida está solucionando silenciosamente el mayor obstáculo de los negocios en el estado. Casi 20 aseguradoras ingresaron o reingresaron al mercado tras reformas legislativas de 2022 y 2023. Eso genera competencia real y simplifica el cierre para los compradores. Cuando el expediente llega al asesor, cotizaciones consistentes mantienen predecible el PITI (principal, intereses, impuestos y seguros), evitando que el DTI (deuda‑sobre‑ingreso) se dispare al momento de cerrar. Durante años, picos inesperados de seguro mataban aprobaciones condicionales justo antes del cierre. Ahora, la cobertura estable brinda a oficiales de préstamo y agentes un camino confiable para aprobar sin prisas de último minuto.\n\nFuente : https://tinyurl.com/25arbuf9\n#SafetrustMortgage #MortgageIntelligenceDaily #homebuying #loanofficer #mortgagebroker",
       "hashtags": [
         "#SafetrustMortgage",
         "#MortgageIntelligenceDaily",
@@ -185,40 +185,40 @@
         "#mortgagebroker"
       ],
       "hook_tag": "Insurance Market Shift",
-      "hook": "El alivio del seguro en Florida cambia el juego de las aprobaciones de préstamos.",
-      "what_happened_heading": "Se amplían las opciones de seguro en Florida tras reformas estatales",
-      "what_happened": "Cerca de 20 aseguradoras ingresaron o reingresaron a Florida después de reformas legislativas aprobadas en 2022 y 2023. Este ingreso está aliviando los retos de cotización y cierre de seguros en todo el estado.",
+      "hook": "El alivio del seguro en Florida cambia las reglas para aprobar préstamos.",
+      "what_happened_heading": "Más opciones de seguro tras reformas estatales",
+      "what_happened": "Cerca de 20 aseguradoras entraron o reentraron a Florida después de reformas legislativas en 2022 y 2023. Este flujo alivia la cotización de seguros y los retos de cierre en todo el estado.",
       "breakdown": [
         {
-          "heading": "Las primas de seguro elevaban el DTI del comprador",
-          "body": "Cotizaciones impredecibles de seguro de vivienda empujaban el DTI del comprador más allá de los límites máximos justo antes del cierre."
+          "heading": "Las primas elevaban el DTI del comprador",
+          "body": "Cotizaciones impredecibles de seguro empujaban el DTI del comprador más allá de los límites justo antes del cierre."
         },
         {
-          "heading": "Qué cambia esto en la suscripción",
-          "body": "Cuando el archivo llega a la suscripción, las cotizaciones de seguro ahora son lo suficientemente estables para calcular con precisión el PITI temprano en el proceso."
+          "heading": "Qué cambia en el asesoramiento",
+          "body": "Ahora las cotizaciones de seguro son estables, permitiendo calcular con precisión el PITI temprano en el proceso."
         },
         {
-          "heading": "Menor caída al cerrar",
-          "body": "Los prestamistas veían aprobaciones condicionales morir al final del ciclo cuando los seguros resultaban más caros de lo proyectado. Opciones de aseguradoras estables eliminan esos rechazos de último minuto."
+          "heading": "Menos fallas al cerrar",
+          "body": "Los aprobados condicionales ya no mueren cuando la póliza de seguro llega con un costo mayor al esperado."
         },
         {
-          "heading": "Los plazos de cierre se aceleran nuevamente",
-          "body": "Los originadores ya no pierden semanas buscando pólizas de líneas excedentes especializadas; los seguros estándar agilizan la firma de los archivos."
+          "heading": "Los plazos de cierre se aceleran",
+          "body": "Los originadores ya no pierden semanas buscando pólizas de exceso; los seguros estándar agilizan la firma del expediente."
         }
       ],
-      "my_take_heading": "La estabilidad del seguro importa más que pequeñas variaciones de tasa",
-      "my_take": "Los recortes de tasas no importan si los picos de seguro inflan el DTI del comprador. Restablecer la competencia entre aseguradoras corrige el asesino silencioso que arruinó los pipelines de Florida durante años.",
-      "action_lo": "Recalcule pre‑aprobaciones para clientes de Florida que fallaron límites de DTI por costos de seguro.",
-      "action_realtor": "Vuelva a contactar a compradores de Florida ahora que la cotización de seguros se ha estabilizado.",
-      "cta_question": "¿Observa cotizaciones de seguro más bajas que salvan archivos de Florida antes muertos?"
+      "my_take_heading": "La estabilidad del seguro supera pequeñas variaciones de tasa",
+      "my_take": "Los recortes de tasa no sirven si un pico de seguro dispara el DTI del comprador. Restablecer la competencia de aseguradoras elimina el asesino silencioso de los negocios en Florida.",
+      "action_lo": "Recalcula pre‑aprobaciones para clientes de Florida que fallaron por costos de seguro.",
+      "action_realtor": "Vuelve a contactar a compradores de Florida ahora que las cotizaciones de seguro son estables.",
+      "cta_question": "¿Has visto cómo cotizaciones más bajas de seguro rescatan archivos que antes morían?"
     },
     {
       "slug": "nexa-removes-guardrails-100-percent-revenue",
-      "title": "NEXA elimina los límites de su modelo de ingresos al 100 %",
+      "title": "NEXA elimina los límites de su modelo de 100 % de ingresos",
       "source": "National Mortgage Professional",
       "source_url": "https://nationalmortgageprofessional.com/news/nexa-removes-guardrails-its-100-revenue-model",
-      "cover_text": "Los modelos de compensación libre ocultan contrapartes",
-      "caption": "NEXA Unlimited está eliminando tarifas y mínimos de producción para una compensación al 100 %, pero todo modelo de negocio de corredor tiene contrapartes. La compañía quita tarifas por archivo y requisitos de reclutamiento en préstamos calificados a través de ciertos prestamistas mayoristas. Cuando el archivo llega a la suscripción, limitar los archivos a prestamistas participantes puede implicar superposiciones de suscripción más estrictas (reglas extra del prestamista) para escenarios complejos. Estructuras sin tarifas suenan increíbles en papel, pero los oficiales de préstamo deben considerar precio total, velocidad de ejecución y flexibilidad del inversionista. Mantener el 100 % de tratos sin valor sigue siendo cero. Los originadores inteligentes evalúan la capacidad total de la plataforma sobre simples divisiones de comisión.\n\nFuente : https://tinyurl.com/23w82eks\n#SafetrustMortgage #MortgageIntelligenceDaily #mortgagebroker #loanofficer #mortgagerates",
+      "cover_text": "Modelos sin comisiones esconden compensaciones",
+      "caption": "NEXA Unlimited elimina tarifas y mínimos de producción para ofrecer 100 % de compensación, pero todo modelo de corredor tiene contrapartidas. La empresa quita cargos por expediente y requisitos de reclutamiento en préstamos calificados a través de ciertos mayoristas. Cuando el expediente llega al asesor, limitarse a prestamistas participantes puede implicar superposiciones de underwriting más estrictas para casos complejos. Las estructuras sin tarifas suenan increíbles, pero los oficiales de préstamo deben evaluar precio total, velocidad de ejecución y flexibilidad del inversor. Mantener el 100 % de un trato muerto sigue siendo cero. Los originadores inteligentes evalúan la capacidad total de la plataforma, no solo la división de comisiones.\n\nFuente : https://tinyurl.com/23w82eks\n#SafetrustMortgage #MortgageIntelligenceDaily #mortgagebroker #loanofficer #mortgagerates",
       "hashtags": [
         "#SafetrustMortgage",
         "#MortgageIntelligenceDaily",
@@ -227,32 +227,32 @@
         "#mortgagerates"
       ],
       "hook_tag": "Loan Originator Compensation",
-      "hook": "Compensación al 100 % sin tarifa parece demasiado buena para ser real.",
-      "what_happened_heading": "NEXA elimina requisitos de volumen y reclutamiento para pago total",
-      "what_happened": "NEXA Lending lanzó NEXA Unlimited, quitando requisitos de producción y reclutamiento para acceder al 100 % de ingresos en préstamos calificados a través de prestamistas seleccionados. El programa elimina tarifas fijas, tarifas por archivo y cargos de financiación corresponsal en estas opciones específicas.",
+      "hook": "100 % de compensación sin tarifa suena demasiado bueno.",
+      "what_happened_heading": "NEXA quita cuotas y requisitos de volumen",
+      "what_happened": "NEXA Lending lanzó NEXA Unlimited, eliminando requisitos de producción y reclutamiento para acceder al 100 % de ingresos en préstamos calificados a través de ciertos mayoristas. El programa suprime tarifas fijas, cargos por expediente y costos de financiación de corresponsales en esas opciones.",
       "breakdown": [
         {
-          "heading": "Los modelos libres siempre trasladan gastos operativos",
-          "body": "Ningún corredor funciona sin costo. Cuando desaparecen las tarifas por archivo en productos selectos, la pérdida de ingresos se compensa con ajustes de precios del prestamista o concesiones de la plataforma."
+          "heading": "Los modelos gratuitos trasladan costos",
+          "body": "Ningún corredor opera sin costo. Cuando desaparecen tarifas por expediente, el ingreso perdido se compensa con ajustes de precios del prestamista o concesiones de la plataforma."
         },
         {
-          "heading": "Qué cambia esto en la suscripción",
-          "body": "Cuando el archivo llega a la suscripción, la lista restringida de prestamistas limita sus opciones, obligando a archivos no estándar a asesores con superposiciones más estrictas."
+          "heading": "Qué cambia en el asesoramiento",
+          "body": "Al limitar la lista de prestamistas, se reducen tus opciones y los expedientes no estándar enfrentan superposiciones de underwriting más estrictas."
         },
         {
           "heading": "Cuotas de producción sustituidas por restricción de prestamistas",
-          "body": "Eliminar umbrales de producción brinda flexibilidad al originador solo, pero reduce la elección a inversionistas mayoristas participantes que compensan la plataforma tras bambalinas."
+          "body": "Eliminar umbrales de producción da flexibilidad al originador solo si acepta trabajar con los mayoristas participantes que pagan al fondo."
         },
         {
-          "heading": "El soporte operativo determina la verdadera velocidad del préstamo",
-          "body": "Los modelos de compensación total a menudo trasladan la carga de procesamiento al originador. Si la configuración del archivo y los tiempos de clear‑to‑close se retrasan, la mayor compensación por archivo se anula con menor volumen de tratos."
+          "heading": "El soporte operativo define la velocidad real",
+          "body": "Los modelos de compensación total suelen cargar al originador con la gestión; si el tiempo de cierre se alarga, la mayor comisión se anula."
         }
       ],
-      "my_take_heading": "La estructura de compensación nunca reemplaza la ejecución y opciones del inversionista",
-      "my_take": "Las tarifas cero son marketing; la ejecución es la realidad. Un originador que retiene el 100 % de un préstamo muerto no gana nada—las opciones del inversionista y la rapidez de suscripción superan siempre al porcentaje de pago.",
-      "action_lo": "Compare tiempos totales y superposiciones de prestamistas en productos al 100 % antes de mover archivos.",
-      "action_realtor": "Pregunte a su socio prestamista si su modelo de negocio restringe los inversionistas mayoristas que puede usar.",
-      "cta_question": "¿Aceptaría opciones de prestamistas mayoristas restringidas a cambio de compensación total del préstamo?"
+      "my_take_heading": "La estructura de compensación no reemplaza ejecución e inversores",
+      "my_take": "Las tarifas cero son marketing; la ejecución es la realidad. Un originador que retiene el 100 % de un préstamo muerto no gana nada—las opciones de inversor y la rapidez del underwriting superan cualquier porcentaje.",
+      "action_lo": "Compara tiempos totales y superposiciones de prestamistas en productos de 100 % antes de mover expedientes.",
+      "action_realtor": "Pregunta a tu socio mayorista si su modelo limita los inversores que puedes usar.",
+      "cta_question": "¿Aceptarías opciones de mayorista restringidas a cambio de 100 % de compensación?"
     }
   ]
 }
