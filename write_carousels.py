@@ -316,6 +316,18 @@ Spanish by a mortgage professional.
 - Plain text only — no HTML, no markdown."""
 
 
+def _actually_spanish(en, es):
+    """Guard against a model echoing the input untranslated: titles must differ
+    and the copy must contain everyday Spanish words."""
+    same = sum(1 for a, b in zip(en, es)
+               if a.title.strip().lower() == b.title.strip().lower())
+    if same >= 2:
+        return False
+    text = " ".join(f"{c.caption} {c.what_happened} {c.my_take}" for c in es).lower()
+    return any(w in text for w in (" de ", " la ", " el ", " que ", " los ",
+                                   " una ", " para ", "cion", "ción"))
+
+
 def translate_carousels(client, carousels):
     """Translate the English carousels into formal Spanish (usted, 10th-grade level).
     Returns a list of Carousel or [] if translation fails — the Spanish set is
@@ -324,28 +336,35 @@ def translate_carousels(client, carousels):
     # and indentation alone roughly doubles the token count of the payload.
     payload = json.dumps({"carousels": [c.model_dump() for c in carousels]},
                          ensure_ascii=False, separators=(",", ":"))
-    try:
-        resp = generate_with_fallback(
-            client,
-            contents=f"Translate these carousels into Spanish:\n\n{payload}",
-            system_instruction=TRANSLATE_SYSTEM,
-            response_schema=Output,
-            max_output_tokens=8192,
-        )
-        parsed = resp.parsed
-        if parsed is None:
-            parsed = Output.model_validate_json(resp.text)
-        es = parsed.carousels
-        if len(es) != len(carousels):
-            raise ValueError(f"expected {len(carousels)} translated carousels, got {len(es)}")
-        # Pin the fields translation must never touch.
-        for en, s in zip(carousels, es):
-            s.slug, s.source, s.source_url = en.slug, en.source, en.source_url
-            s.hashtags = list(en.hashtags)
-        return es
-    except Exception as exc:  # noqa: BLE001 — Spanish is best-effort
-        print(f"Spanish translation failed — continuing with English only. ({str(exc)[:200]})")
-        return []
+    contents = f"Translate these carousels into Spanish:\n\n{payload}"
+    for attempt in (1, 2):
+        try:
+            resp = generate_with_fallback(
+                client,
+                contents=contents,
+                system_instruction=TRANSLATE_SYSTEM,
+                response_schema=Output,
+                max_output_tokens=8192,
+            )
+            parsed = resp.parsed
+            if parsed is None:
+                parsed = Output.model_validate_json(resp.text)
+            es = parsed.carousels
+            if len(es) != len(carousels):
+                raise ValueError(f"expected {len(carousels)} translated carousels, got {len(es)}")
+            # Pin the fields translation must never touch.
+            for en, s in zip(carousels, es):
+                s.slug, s.source, s.source_url = en.slug, en.source, en.source_url
+                s.hashtags = list(en.hashtags)
+            if _actually_spanish(carousels, es):
+                return es
+            print(f"Translation attempt {attempt} came back untranslated — retrying.")
+            contents = ("IMPORTANT: the previous attempt returned the text UNTRANSLATED. "
+                        "Every field value MUST be rewritten in Spanish.\n\n" + contents)
+        except Exception as exc:  # noqa: BLE001 — Spanish is best-effort
+            print(f"Spanish translation attempt {attempt} failed ({str(exc)[:200]})")
+    print("Spanish translation failed — continuing with English only.")
+    return []
 
 
 SYSTEM = """ROLE
@@ -481,7 +500,24 @@ def _finalize_captions(carousels, link_cache, source_label="Source"):
         c.caption = "\n\n".join(p for p in parts if p.strip())
 
 
-def main():
+def _client():
+    api_key = os.environ.get("GEMINI_API_KEY") or os.environ.get("GOOGLE_API_KEY")
+    if not api_key:
+        sys.exit("GEMINI_API_KEY not set. Get a free key at "
+                 "https://aistudio.google.com/app/apikey")
+    return genai.Client(api_key=api_key)
+
+
+def _strip_caption_tail(caption):
+    """Undo _finalize_captions: drop the 'Source : link' / hashtag tail so a
+    finalized caption can be re-translated cleanly."""
+    body = (caption or "").split("\n\nSource :")[0].split("\n\nFuente :")[0]
+    body, _ = _split_trailing_hashtags(body)
+    return body.strip()
+
+
+def generate_english():
+    """Scraped news -> 3 English carousels in carousel_content.json."""
     if not NEWS.exists():
         sys.exit("daily_news.json not found — run scrape.py first.")
     items = json.loads(NEWS.read_text(encoding="utf-8"))
@@ -496,14 +532,8 @@ def main():
                      f"   link: {entry.get('link', '')}")
     news_block = "\n".join(lines)
 
-    api_key = os.environ.get("GEMINI_API_KEY") or os.environ.get("GOOGLE_API_KEY")
-    if not api_key:
-        sys.exit("GEMINI_API_KEY not set. Get a free key at "
-                 "https://aistudio.google.com/app/apikey")
-
-    client = genai.Client(api_key=api_key)
     response = generate_with_fallback(
-        client,
+        _client(),
         contents=(
             f"Today's mortgage and housing headlines:\n\n{news_block}\n\n"
             "Pick the 3 most engaging stories for prospective home buyers and write "
@@ -513,28 +543,57 @@ def main():
         response_schema=Output,
         max_output_tokens=8192,
     )
-
     # response.parsed is an Output instance when response_schema is a Pydantic model;
     # fall back to parsing the raw JSON text if the SDK didn't hydrate it.
     result = response.parsed
     if result is None:
         result = Output.model_validate_json(response.text)
 
-    # Translate into Spanish BEFORE the captions get their link/hashtag tail, so
-    # the tail is built (not translated) for both languages.
-    es_carousels = translate_carousels(client, result.carousels)
-
-    link_cache = {}
-    _finalize_captions(result.carousels, link_cache, source_label="Source")
-    _finalize_captions(es_carousels, link_cache, source_label="Fuente")
-
-    out = result.model_dump()
-    out["carousels_es"] = [c.model_dump() for c in es_carousels]
-    OUT.write_text(json.dumps(out, indent=2, ensure_ascii=False), encoding="utf-8")
-    print(f"Wrote {OUT.name}: {len(result.carousels)} English + "
-          f"{len(es_carousels)} Spanish carousels")
-    for c in result.carousels + es_carousels:
+    _finalize_captions(result.carousels, {}, source_label="Source")
+    # A fresh English set invalidates any previous day's translation.
+    OUT.write_text(json.dumps(result.model_dump(), indent=2, ensure_ascii=False),
+                   encoding="utf-8")
+    print(f"Wrote {OUT.name}: {len(result.carousels)} English carousels")
+    for c in result.carousels:
         print(f"  - {c.title}")
+    return result.carousels
+
+
+def generate_spanish():
+    """Translate the English carousels already in carousel_content.json and add
+    them to the file as carousels_es. Exits non-zero if translation fails so
+    the Spanish workflow retries later."""
+    if not OUT.exists():
+        sys.exit("carousel_content.json not found — the English run must happen first.")
+    data = json.loads(OUT.read_text(encoding="utf-8"))
+    en = [Carousel.model_validate(c) for c in data.get("carousels", [])]
+    if not en:
+        sys.exit("carousel_content.json has no English carousels.")
+    # Strip the link/hashtag tails before translating; they're rebuilt after.
+    for c in en:
+        c.caption = _strip_caption_tail(c.caption)
+
+    es_carousels = translate_carousels(_client(), en)
+    if not es_carousels:
+        sys.exit("Spanish translation failed on every provider — try again later.")
+    _finalize_captions(es_carousels, {}, source_label="Fuente")
+
+    data["carousels_es"] = [c.model_dump() for c in es_carousels]
+    OUT.write_text(json.dumps(data, indent=2, ensure_ascii=False), encoding="utf-8")
+    print(f"Wrote {OUT.name}: {len(es_carousels)} Spanish carousels added")
+    for c in es_carousels:
+        print(f"  - {c.title}")
+
+
+def main():
+    mode = sys.argv[1] if len(sys.argv) > 1 else "all"
+    if mode == "en":
+        generate_english()
+    elif mode == "es":
+        generate_spanish()
+    else:  # "all": legacy single-run behaviour
+        generate_english()
+        generate_spanish()
 
 
 if __name__ == "__main__":

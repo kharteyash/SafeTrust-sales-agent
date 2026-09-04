@@ -41,6 +41,68 @@ FRED_URL = "https://fred.stlouisfed.org/graph/fredgraph.csv?id=DGS10"
 # card is regenerated that day. `python generate_treasury.py live` overrides.
 SNAPSHOT = Path(__file__).parent / "treasury_snapshot.json"
 
+# Accumulated 6:00 AM ET values, one per trading day — the chart plots THESE
+# (not daily closes). Each morning's snapshot records the exact 6am quote;
+# missing days are backfilled from CNBC's 5-minute intraday bars (5D window).
+HISTORY = Path(__file__).parent / "treasury_history.json"
+CNBC_5D_URL = "https://ts-api.cnbc.com/harmony/app/charts/5D.json?symbol=US10Y"
+
+
+def _load_history():
+    try:
+        return json.loads(HISTORY.read_text(encoding="utf-8"))
+    except Exception:  # noqa: BLE001 — missing/corrupt file means empty history
+        return {}
+
+
+def _record_history(date, value, src):
+    """Store a day's 6am value. A real snapshot always wins over a backfill."""
+    hist = _load_history()
+    entry = hist.get(date)
+    if entry and entry.get("src") == "snapshot" and src != "snapshot":
+        return
+    hist[date] = {"value": round(float(value), 3), "src": src}
+    HISTORY.write_text(json.dumps(hist, indent=1, sort_keys=True), encoding="utf-8")
+
+
+def fetch_cnbc_6am_history():
+    """{iso_date: value} of ~6:00 AM ET prints from CNBC's 5-day intraday bars
+    (tradeTime strings are ET). Takes the bar closest to 6:00, within 90 min."""
+    bars = json.loads(_get(CNBC_5D_URL))["barData"]["priceBars"]
+    best = {}
+    for b in bars:
+        tt = str(b.get("tradeTime", ""))
+        if len(tt) != 14:
+            continue
+        date = f"{tt[0:4]}-{tt[4:6]}-{tt[6:8]}"
+        dist = abs(int(tt[8:10]) * 60 + int(tt[10:12]) - 360)  # minutes from 6:00
+        if dist <= 90 and (date not in best or dist < best[date][0]):
+            best[date] = (dist, float(b["close"]))
+    return {d: v for d, (_, v) in best.items()}
+
+
+def build_6am_series():
+    """Last DAYS trading days as [(iso_date, 6am value)]: snapshots first,
+    CNBC intraday backfill second, Yahoo daily closes as a last resort for
+    dates outside CNBC's 5-day window."""
+    for d, v in (_retry(fetch_cnbc_6am_history, "CNBC 6am history") or {}).items():
+        _record_history(d, v, "cnbc-6am")
+    hist = _load_history()
+    ycloses = dict(_retry(fetch_yahoo, "Yahoo history") or [])
+    series = []
+    cur = datetime.date.fromisoformat(_today_et())
+    for _ in range(15):  # scan back far enough to find DAYS weekdays with data
+        d = cur.isoformat()
+        if cur.weekday() < 5:
+            v = hist.get(d, {}).get("value", ycloses.get(d))
+            if v is not None:
+                series.append((d, float(v)))
+            if len(series) == DAYS:
+                break
+        cur -= datetime.timedelta(days=1)
+    series.reverse()
+    return series
+
 
 def _today_et():
     try:
@@ -67,6 +129,7 @@ def save_snapshot():
     last, prev, as_of = live
     SNAPSHOT.write_text(json.dumps({"date": _today_et(), "last": last, "prev": prev,
                                     "as_of": as_of}), encoding="utf-8")
+    _record_history(_today_et(), last, "snapshot")
     print(f"Snapshot saved: {last:.2f}% as of {as_of}")
 
 
@@ -211,22 +274,23 @@ def get_data(mode="live"):
             SNAPSHOT.write_text(json.dumps({"date": _today_et(), "last": live[0],
                                             "prev": live[1], "as_of": live[2]}),
                                 encoding="utf-8")
-    series = _retry(fetch_yahoo, "Yahoo history")
-    hist_src = "Yahoo Finance (^TNX)"
-    if series is None:
+            _record_history(_today_et(), live[0], "snapshot")
+    series = build_6am_series()
+    source = "6:00 AM ET values &mdash; Source: CNBC (US10Y)"
+    if len(series) < 2:
         series = _retry(fetch_fred, "FRED history")
-        hist_src = "FRED (DGS10)"
+        source = "Daily closes &mdash; Source: FRED (DGS10)"
     if series is None or len(series) < 2:
         return None
     if live:
         last, prev, as_of = live
-        # Keep the chart's newest point in sync with the headline number.
-        series[-1] = (series[-1][0], last)
-        source = f"Quote: CNBC (US10Y) &mdash; History: {hist_src}"
+        # Keep the chart's newest point in sync with the headline number
+        # (weekend runs chart through Friday, so only sync a same-day point).
+        if series[-1][0] == _today_et():
+            series[-1] = (series[-1][0], last)
     else:
         last, prev = series[-1][1], series[-2][1]
-        as_of = _short_date(series[-1][0]) + f"/{series[-1][0][:4]} close"
-        source = f"Source: {hist_src}"
+        as_of = _short_date(series[-1][0]) + f"/{series[-1][0][:4]}"
     return series, last, prev, as_of, source
 
 
@@ -269,16 +333,20 @@ def build_chart_svg(series, t, width=348, height=170):
     pts = " ".join(f"{x:.1f},{y:.1f}" for x, y in zip(xs, ys))
     area = f"{xs[0]:.1f},{height - pad_b} {pts} {xs[-1]:.1f},{height - pad_b}"
 
-    labels = []
-    for i, ((date, _), x) in enumerate(zip(series, xs)):
-        anchor = "start" if i == 0 else ("end" if i == len(series) - 1 else "middle")
+    labels, dots = [], []
+    n = len(series)
+    for i, ((date, v), x, y) in enumerate(zip(series, xs, ys)):
+        anchor = "start" if i == 0 else ("end" if i == n - 1 else "middle")
         labels.append(f'<text x="{x:.1f}" y="{height - 6}" text-anchor="{anchor}" '
                       f'font-size="9" fill="{t["date_lab"]}" '
                       f'font-family="Work Sans,sans-serif">{_short_date(date)}</text>')
-    # Selective direct labels: first and last value only, in text ink.
-    labels.append(f'<text x="{xs[0]:.1f}" y="{ys[0] - 9:.1f}" text-anchor="start" '
-                  f'font-size="10" fill="{t["val_first"]}" '
-                  f'font-family="Work Sans,sans-serif">{vals[0]:.2f}</text>')
+        # A marker on every point — each is that day's 6:00 AM ET value — with
+        # its value labelled above; the newest point keeps the big accent dot.
+        if i < n - 1:
+            dots.append(f'<circle cx="{x:.1f}" cy="{y:.1f}" r="3" fill="{t["dot"]}"/>')
+            labels.append(f'<text x="{x:.1f}" y="{y - 9:.1f}" text-anchor="middle" '
+                          f'font-size="9" fill="{t["val_first"]}" '
+                          f'font-family="Work Sans,sans-serif">{v:.2f}</text>')
     labels.append(f'<text x="{xs[-1] + 6:.1f}" y="{ys[-1] + 3:.1f}" text-anchor="start" '
                   f'font-size="11" font-weight="600" fill="{t["val_last"]}" '
                   f'font-family="Work Sans,sans-serif">{vals[-1]:.2f}</text>')
@@ -295,6 +363,7 @@ def build_chart_svg(series, t, width=348, height=170):
   <polygon points="{area}" fill="url(#fill)"/>
   <polyline points="{pts}" stroke="{t["line"]}" stroke-width="2"
             stroke-linecap="round" stroke-linejoin="round"/>
+  {"".join(dots)}
   <circle cx="{xs[-1]:.1f}" cy="{ys[-1]:.1f}" r="7" fill="{t["halo"]}"/>
   <circle cx="{xs[-1]:.1f}" cy="{ys[-1]:.1f}" r="4" fill="{t["dot"]}"/>
   {"".join(labels)}
@@ -325,7 +394,8 @@ def build_html(series, last, prev, as_of, source, t):
           f'letter-spacing:-2px;line-height:1;">{last:.2f}%</span>'
           f'<span style="display:inline-flex;align-items:center;gap:7px;">{change}</span></div>'
         + f'<p class="sans" style="font-size:11px;color:{t["kicker"]};'
-          f'letter-spacing:1px;text-transform:uppercase;margin:14px 0 6px;">Last {len(series)} trading days</p>'
+          f'letter-spacing:1px;text-transform:uppercase;margin:14px 0 6px;">'
+          f'Last {len(series)} trading days &mdash; 6:00 AM ET</p>'
         + build_chart_svg(series, t)
         + f'<p class="sans" style="font-size:10px;color:{t["footer"]};margin-top:16px;">'
           f'As of {as_of} &mdash; {source}</p>'

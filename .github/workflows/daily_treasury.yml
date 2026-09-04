@@ -1,0 +1,145 @@
+name: Daily Treasury Card
+on:
+  # The same 6am ET repository_dispatch that starts the carousels also starts
+  # this workflow — the two run independently.
+  repository_dispatch:
+    types: [daily-run]
+  # Retry safety net until the card is produced (guard skips once done, and
+  # outside the 6-11am ET window). The 6am snapshot keeps retries consistent.
+  schedule:
+    - cron: "30 10 * * *"
+    - cron: "0 11 * * *"
+    - cron: "30 11 * * *"
+    - cron: "0 12 * * *"
+    - cron: "30 12 * * *"
+    - cron: "0 13 * * *"
+    - cron: "30 13 * * *"
+    - cron: "0 14 * * *"
+  workflow_dispatch:
+permissions:
+  contents: write
+concurrency:
+  group: daily-treasury
+  cancel-in-progress: false
+jobs:
+  treasury:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+
+      - name: Decide whether to run (once per day, 6-11am ET)
+        id: guard
+        run: |
+          today=$(TZ="America/New_York" date +'%Y-%m-%d')
+          echo "today=$today" >> "$GITHUB_OUTPUT"
+          event="${{ github.event_name }}"
+
+          if [ "$event" = "workflow_dispatch" ]; then
+            echo "Manual run — proceeding."
+            echo "run=true" >> "$GITHUB_OUTPUT"; exit 0
+          fi
+
+          last=$(cat .last_run_treasury 2>/dev/null || echo "")
+          if [ "$last" = "$today" ]; then
+            echo "Treasury card already done today ($today) — skipping."
+            echo "run=false" >> "$GITHUB_OUTPUT"; exit 0
+          fi
+
+          if [ "$event" = "repository_dispatch" ]; then
+            echo "External 6am trigger — proceeding."
+            echo "run=true" >> "$GITHUB_OUTPUT"; exit 0
+          fi
+
+          hour=$((10#$(TZ="America/New_York" date +%H)))
+          if [ "$hour" -lt 6 ] || [ "$hour" -gt 11 ]; then
+            echo "Eastern hour is $hour (outside 6-11 window) — skipping."
+            echo "run=false" >> "$GITHUB_OUTPUT"; exit 0
+          fi
+          echo "Scheduled retry in window ($hour ET) — proceeding."
+          echo "run=true" >> "$GITHUB_OUTPUT"
+
+      - name: Set up Python
+        if: steps.guard.outputs.run == 'true'
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install dependencies
+        if: steps.guard.outputs.run == 'true'
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
+
+      # Record the 6am quote FIRST and push it immediately: if anything later
+      # fails, the retries (and manual re-runs) still render the 6am value.
+      # Only the first firing of a day writes it.
+      - name: Snapshot the treasury quote
+        if: steps.guard.outputs.run == 'true'
+        run: |
+          python generate_treasury.py snapshot
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add treasury_snapshot.json treasury_history.json
+          if git diff --staged --quiet; then
+            echo "No new snapshot to commit"
+          else
+            git commit -m "Treasury snapshot ${{ steps.guard.outputs.today }}"
+            git pull --rebase || true
+            git push || echo "Snapshot push failed (non-fatal, kept for this run)"
+          fi
+
+      - name: Install Playwright + Chromium
+        if: steps.guard.outputs.run == 'true'
+        run: |
+          pip install playwright
+          python -m playwright install --with-deps chromium
+
+      - name: Render the market card (both colourways)
+        if: steps.guard.outputs.run == 'true'
+        run: python generate_treasury.py
+
+      - name: Commit the day's output
+        if: steps.guard.outputs.run == 'true'
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          echo "${{ steps.guard.outputs.today }}" > .last_run_treasury
+          git add .last_run_treasury treasury_snapshot.json treasury_history.json carousels
+          if git diff --staged --quiet; then
+            echo "No changes to commit"
+          else
+            git commit -m "Daily treasury card ${{ steps.guard.outputs.today }}"
+            git pull --rebase
+            git push || (git pull --rebase && git push)
+          fi
+
+      - name: Read the treasury caption
+        id: caption
+        if: steps.guard.outputs.run == 'true'
+        run: |
+          python - <<'PY' >> "$GITHUB_OUTPUT"
+          from pathlib import Path
+          tcap = Path("carousels/treasury_caption.txt")
+          print("tcap<<CAPTION_EOF")
+          print(tcap.read_text(encoding="utf-8").strip() if tcap.exists() else "")
+          print("CAPTION_EOF")
+          PY
+
+      - name: Email market card
+        if: steps.guard.outputs.run == 'true'
+        uses: dawidd6/action-send-mail@v3
+        with:
+          server_address: smtp.gmail.com
+          server_port: 465
+          secure: true
+          username: ${{ secrets.MAIL_USERNAME }}
+          password: ${{ secrets.MAIL_PASSWORD }}
+          subject: "Market Card — 10-Year Treasury (${{ steps.guard.outputs.today }})"
+          to: malaez@safetrustmtg.com
+          from: SafeTrust Carousels <${{ secrets.MAIL_USERNAME }}>
+          body: |
+            Daily market card attached in both colourways: 10-Year Treasury with 7-day trend (1080x1350 PNG).
+
+            ${{ steps.caption.outputs.tcap }}
+          attachments: carousels/slides/treasury_*.png

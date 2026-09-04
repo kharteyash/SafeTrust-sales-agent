@@ -1,0 +1,194 @@
+name: Daily Carousels
+on:
+  # Triggered by an external scheduler (cron-job.org) that POSTs a
+  # repository_dispatch:daily-run at exactly 6:00am ET. The same dispatch also
+  # starts the treasury workflow; the Spanish workflow chains off this one.
+  repository_dispatch:
+    types: [daily-run]
+  # Retry safety net: re-runs every ~30 minutes until one succeeds. The guard
+  # skips firings once .last_run shows today is done, and anything outside the
+  # 6-11am ET window. Crons are UTC (during EST the first lands 5:30am ET and
+  # is skipped by the window check).
+  schedule:
+    - cron: "30 10 * * *"
+    - cron: "0 11 * * *"
+    - cron: "30 11 * * *"
+    - cron: "0 12 * * *"
+    - cron: "30 12 * * *"
+    - cron: "0 13 * * *"
+    - cron: "30 13 * * *"
+    - cron: "0 14 * * *"
+  workflow_dispatch:
+permissions:
+  contents: write
+concurrency:
+  group: daily-carousels-en
+  cancel-in-progress: false
+jobs:
+  english:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+
+      - name: Decide whether to run (once per day, 6-11am ET)
+        id: guard
+        run: |
+          today=$(TZ="America/New_York" date +'%Y-%m-%d')
+          echo "today=$today" >> "$GITHUB_OUTPUT"
+          event="${{ github.event_name }}"
+
+          if [ "$event" = "workflow_dispatch" ]; then
+            echo "Manual run — proceeding."
+            echo "run=true" >> "$GITHUB_OUTPUT"; exit 0
+          fi
+
+          last=$(cat .last_run 2>/dev/null || echo "")
+          if [ "$last" = "$today" ]; then
+            echo "Already ran today ($today) — skipping."
+            echo "run=false" >> "$GITHUB_OUTPUT"; exit 0
+          fi
+
+          if [ "$event" = "repository_dispatch" ]; then
+            echo "External 6am trigger — proceeding."
+            echo "run=true" >> "$GITHUB_OUTPUT"; exit 0
+          fi
+
+          hour=$((10#$(TZ="America/New_York" date +%H)))
+          if [ "$hour" -lt 6 ] || [ "$hour" -gt 11 ]; then
+            echo "Eastern hour is $hour (outside 6-11 window) — skipping."
+            echo "run=false" >> "$GITHUB_OUTPUT"; exit 0
+          fi
+          echo "Scheduled retry in window ($hour ET) — proceeding."
+          echo "run=true" >> "$GITHUB_OUTPUT"
+
+      - name: Set up Python
+        if: steps.guard.outputs.run == 'true'
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install dependencies
+        if: steps.guard.outputs.run == 'true'
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
+
+      - name: Scrape the news
+        if: steps.guard.outputs.run == 'true'
+        run: python scrape.py
+
+      - name: Write English carousel copy
+        if: steps.guard.outputs.run == 'true'
+        env:
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+          GROQ_API_KEY: ${{ secrets.GROQ_API_KEY }}
+          CEREBRAS_API_KEY: ${{ secrets.CEREBRAS_API_KEY }}
+          XAI_API_KEY: ${{ secrets.XAI_API_KEY }}
+          SAMBANOVA_API_KEY: ${{ secrets.SAMBANOVA_API_KEY }}
+        run: python write_carousels.py en
+
+      - name: Render carousel HTML
+        if: steps.guard.outputs.run == 'true'
+        run: python generate_carousels.py en
+
+      - name: Install Playwright + Chromium
+        if: steps.guard.outputs.run == 'true'
+        run: |
+          pip install playwright
+          python -m playwright install --with-deps chromium
+
+      - name: Export slides to PNG
+        if: steps.guard.outputs.run == 'true'
+        run: python export_slides.py en
+
+      - name: Commit the day's output
+        if: steps.guard.outputs.run == 'true'
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          echo "${{ steps.guard.outputs.today }}" > .last_run
+          git add .last_run daily_news.json carousel_content.json carousels
+          if git diff --staged --quiet; then
+            echo "No changes to commit"
+          else
+            git commit -m "Daily carousels (EN) ${{ steps.guard.outputs.today }}"
+            git pull --rebase
+            git push || (git pull --rebase && git push)
+          fi
+
+      - name: Read carousel titles and captions
+        id: titles
+        if: steps.guard.outputs.run == 'true'
+        run: |
+          python - <<'PY' >> "$GITHUB_OUTPUT"
+          import json
+          data = json.load(open("carousel_content.json"))
+          for i, c in enumerate(data["carousels"][:3], 1):
+              title = c.get("title", f"Carousel {i}").replace("\n", " ").strip()
+              caption = c.get("caption", "").replace("\r", "").strip()
+              print(f"t{i}={title}")
+              print(f"c{i}<<CAPTION_EOF")
+              print(caption)
+              print("CAPTION_EOF")
+          PY
+
+      - name: Email carousel 1
+        if: steps.guard.outputs.run == 'true'
+        uses: dawidd6/action-send-mail@v3
+        with:
+          server_address: smtp.gmail.com
+          server_port: 465
+          secure: true
+          username: ${{ secrets.MAIL_USERNAME }}
+          password: ${{ secrets.MAIL_PASSWORD }}
+          subject: "Carousel 1/3 — ${{ steps.titles.outputs.t1 }} (${{ steps.guard.outputs.today }})"
+          to: malaez@safetrustmtg.com
+          from: SafeTrust Carousels <${{ secrets.MAIL_USERNAME }}>
+          body: |
+            Carousel 1 of 3 — ${{ steps.titles.outputs.t1 }}
+            9 slides attached (1080x1350 PNG).
+
+            Caption:
+            ${{ steps.titles.outputs.c1 }}
+          attachments: carousels/slides/carousel_1/slide_*.png
+
+      - name: Email carousel 2
+        if: steps.guard.outputs.run == 'true'
+        uses: dawidd6/action-send-mail@v3
+        with:
+          server_address: smtp.gmail.com
+          server_port: 465
+          secure: true
+          username: ${{ secrets.MAIL_USERNAME }}
+          password: ${{ secrets.MAIL_PASSWORD }}
+          subject: "Carousel 2/3 — ${{ steps.titles.outputs.t2 }} (${{ steps.guard.outputs.today }})"
+          to: malaez@safetrustmtg.com
+          from: SafeTrust Carousels <${{ secrets.MAIL_USERNAME }}>
+          body: |
+            Carousel 2 of 3 — ${{ steps.titles.outputs.t2 }}
+            9 slides attached (1080x1350 PNG).
+
+            Caption:
+            ${{ steps.titles.outputs.c2 }}
+          attachments: carousels/slides/carousel_2/slide_*.png
+
+      - name: Email carousel 3
+        if: steps.guard.outputs.run == 'true'
+        uses: dawidd6/action-send-mail@v3
+        with:
+          server_address: smtp.gmail.com
+          server_port: 465
+          secure: true
+          username: ${{ secrets.MAIL_USERNAME }}
+          password: ${{ secrets.MAIL_PASSWORD }}
+          subject: "Carousel 3/3 — ${{ steps.titles.outputs.t3 }} (${{ steps.guard.outputs.today }})"
+          to: malaez@safetrustmtg.com
+          from: SafeTrust Carousels <${{ secrets.MAIL_USERNAME }}>
+          body: |
+            Carousel 3 of 3 — ${{ steps.titles.outputs.t3 }}
+            9 slides attached (1080x1350 PNG).
+
+            Caption:
+            ${{ steps.titles.outputs.c3 }}
+          attachments: carousels/slides/carousel_3/slide_*.png

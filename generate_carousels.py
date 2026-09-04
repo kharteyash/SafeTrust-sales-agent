@@ -8,6 +8,8 @@ import base64
 import html
 import io
 import json
+import re
+import sys
 from datetime import datetime
 from pathlib import Path
 
@@ -569,7 +571,28 @@ def render_carousel_slides(c, cover_blue=False, lang="en"):
     return slides
 
 # ---------------------------------------------------------------- output
+def _rebuild_index(out_dir):
+    """Index page built from every carousel html on disk, so the English and
+    Spanish workflows can each render their own set without clobbering the
+    other's links."""
+    links = []
+    for p in sorted(out_dir.glob("carousel_*.html")):
+        doc = p.read_text(encoding="utf-8")
+        m = re.search(r"<title>(.*?)</title>", doc[:3000], re.S)
+        title = html.unescape(m.group(1)).strip() if m else p.name
+        slides = doc.count('<div class="slide" ')
+        links.append(f'<li><a href="{p.name}">{html.escape(title)}</a> '
+                     f'&mdash; {slides} slides</li>')
+    index = ("<!doctype html><meta charset='utf-8'><title>SafeTrust Carousels</title>"
+             "<body style=\"font-family:sans-serif;max-width:640px;margin:60px auto;padding:0 20px;color:#142842;\">"
+             "<h1 style='font-family:Georgia,serif;'>SafeTrust Mortgage &mdash; Carousel Previews</h1>"
+             f"<ul style='line-height:2.2;font-size:17px;'>{''.join(links)}</ul></body>")
+    (out_dir / "index.html").write_text(index, encoding="utf-8")
+    print("Wrote carousels/index.html")
+
+
 def main():
+    lang = sys.argv[1] if len(sys.argv) > 1 else "all"
     base = Path(__file__).parent
     content_path = base / "carousel_content.json"
     if not content_path.exists():
@@ -580,44 +603,39 @@ def main():
     data = json.loads(content_path.read_text(encoding="utf-8"))
     carousels = data["carousels"][:3]
     carousels_es = data.get("carousels_es", [])[:3]
+    if lang == "es" and not carousels_es:
+        raise SystemExit("carousel_content.json has no carousels_es yet — "
+                         "run `python write_carousels.py es` first.")
 
     # Cover colours alternate by day: one day 2 white + 1 blue, the next 2 blue +
-    # 1 white, repeating. The run date drives it (and rotates which cover is blue).
-    # Each Spanish carousel mirrors its English counterpart's cover colour.
-    n = len(carousels)
+    # 1 white, repeating. The run date drives it (and rotates which cover is blue),
+    # so the split English/Spanish runs compute identical colours. Each Spanish
+    # carousel mirrors its English counterpart's cover colour.
+    n = len(carousels) or 3
     d = _TODAY.toordinal()
     blue_count = min(2 if d % 2 == 0 else 1, n)  # even day -> 2 blue, odd day -> 1 blue
-    start = d % n if n else 0
+    start = d % n
     blue_covers = {(start + k) % n for k in range(blue_count)}
     print(f"Cover colours today: {blue_count} blue / {n - blue_count} white "
           f"(blue = carousels {sorted(i + 1 for i in blue_covers)})")
 
     # Carousels 1-3: English. Carousels 4-6: the Spanish translations (QUC brand).
-    renders = [(c, "en", i in blue_covers) for i, c in enumerate(carousels)]
-    renders += [(c, "es", i in blue_covers) for i, c in enumerate(carousels_es)]
+    renders = []
+    if lang in ("en", "all"):
+        renders += [(i + 1, c, "en", i in blue_covers) for i, c in enumerate(carousels)]
+    if lang in ("es", "all"):
+        renders += [(i + 4, c, "es", i in blue_covers) for i, c in enumerate(carousels_es)]
 
     out_dir = base / "carousels"
     out_dir.mkdir(exist_ok=True)
-    # Drop stale renders from a previous (possibly larger) set so exports and
-    # emails never pick up yesterday's carousels beyond today's count.
-    for old in out_dir.glob("carousel_*.html"):
-        old.unlink()
-    index_links = []
-    for i, (c, lang, blue) in enumerate(renders):
-        slides = render_carousel_slides(c, cover_blue=blue, lang=lang)
-        doc = build_html(c.get("title", f"Carousel {i + 1}"), html.escape(c.get("caption", "")), slides)
-        filename = f"carousel_{i + 1}.html"
+    for num, c, lg, blue in renders:
+        slides = render_carousel_slides(c, cover_blue=blue, lang=lg)
+        doc = build_html(c.get("title", f"Carousel {num}"), html.escape(c.get("caption", "")), slides)
+        filename = f"carousel_{num}.html"
         (out_dir / filename).write_text(doc, encoding="utf-8")
-        label = f'{c.get("title", filename)} [{lang.upper()}]'
-        index_links.append(f'<li><a href="{filename}">{html.escape(label)}</a> &mdash; {len(slides)} slides</li>')
-        print(f"Wrote carousels/{filename}  ({len(slides)} slides) [{lang}] — {c.get('title', '')}")
+        print(f"Wrote carousels/{filename}  ({len(slides)} slides) [{lg}] — {c.get('title', '')}")
 
-    index = ("<!doctype html><meta charset='utf-8'><title>SafeTrust Carousels</title>"
-             "<body style=\"font-family:sans-serif;max-width:640px;margin:60px auto;padding:0 20px;color:#142842;\">"
-             "<h1 style='font-family:Georgia,serif;'>SafeTrust Mortgage &mdash; Carousel Previews</h1>"
-             f"<ul style='line-height:2.2;font-size:17px;'>{''.join(index_links)}</ul></body>")
-    (out_dir / "index.html").write_text(index, encoding="utf-8")
-    print("Wrote carousels/index.html")
+    _rebuild_index(out_dir)
 
 if __name__ == "__main__":
     main()

@@ -12,12 +12,18 @@ Output: carousels/slides/<carousel_name>/slide_1.png ... slide_7.png
 """
 import asyncio
 import shutil
+import sys
 from pathlib import Path
 from playwright.async_api import async_playwright
 
 BASE = Path(__file__).parent / "carousels"
-# Export every rendered carousel (1-3 English, 4-6 Spanish when present).
-CAROUSELS = sorted(p.name for p in BASE.glob("carousel_*.html"))
+# Which carousels to export: "en" -> 1-3, "es" -> 4-6, default all present.
+LANG = sys.argv[1] if len(sys.argv) > 1 else "all"
+_RANGES = {"en": ("carousel_1.html", "carousel_2.html", "carousel_3.html"),
+           "es": ("carousel_4.html", "carousel_5.html", "carousel_6.html")}
+CAROUSELS = [n for n in (_RANGES.get(LANG) or
+                         sorted(p.name for p in BASE.glob("carousel_*.html")))
+             if (BASE / n).exists()]
 
 VIEW_W = 420
 VIEW_H = 525
@@ -65,15 +71,17 @@ async def export_one(browser, filename):
     await page.close()
 
 async def main():
-    # Drop slide folders for carousels that no longer exist (e.g. yesterday had
-    # 6, today only 3) so stale PNGs never get committed or emailed.
-    current = {Path(f).stem for f in CAROUSELS}
-    slides_dir = BASE / "slides"
-    if slides_dir.exists():
-        for d in slides_dir.iterdir():
-            if d.is_dir() and d.name not in current:
-                shutil.rmtree(d)
-                print(f"Removed stale slides/{d.name}/")
+    # Drop slide folders for carousels that no longer exist so stale PNGs never
+    # get committed or emailed. Only in full runs — a language-filtered run must
+    # not touch the other language's folders.
+    if LANG == "all":
+        current = {Path(f).stem for f in CAROUSELS}
+        slides_dir = BASE / "slides"
+        if slides_dir.exists():
+            for d in slides_dir.iterdir():
+                if d.is_dir() and d.name.startswith("carousel_") and d.name not in current:
+                    shutil.rmtree(d)
+                    print(f"Removed stale slides/{d.name}/")
 
     async with async_playwright() as p:
         browser = await p.chromium.launch()

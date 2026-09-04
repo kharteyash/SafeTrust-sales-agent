@@ -1,0 +1,191 @@
+name: Daily Carousels Spanish
+on:
+  # Runs whenever the English workflow finishes (any conclusion — the guard
+  # checks that today's English content actually landed), so it follows the
+  # 6am run and every retry automatically.
+  workflow_run:
+    workflows: ["Daily Carousels"]
+    types: [completed]
+  # Light retry net of its own in case a translation-side failure needs another
+  # attempt after the English workflow has stopped firing.
+  schedule:
+    - cron: "0 11 * * *"
+    - cron: "0 12 * * *"
+    - cron: "0 13 * * *"
+    - cron: "0 14 * * *"
+  workflow_dispatch:
+permissions:
+  contents: write
+concurrency:
+  group: daily-carousels-es
+  cancel-in-progress: false
+jobs:
+  spanish:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+
+      - name: Decide whether to run (English done today, Spanish not yet)
+        id: guard
+        run: |
+          today=$(TZ="America/New_York" date +'%Y-%m-%d')
+          echo "today=$today" >> "$GITHUB_OUTPUT"
+          event="${{ github.event_name }}"
+
+          if [ "$event" = "workflow_dispatch" ]; then
+            echo "Manual run — proceeding."
+            echo "run=true" >> "$GITHUB_OUTPUT"; exit 0
+          fi
+
+          last_es=$(cat .last_run_es 2>/dev/null || echo "")
+          if [ "$last_es" = "$today" ]; then
+            echo "Spanish already done today ($today) — skipping."
+            echo "run=false" >> "$GITHUB_OUTPUT"; exit 0
+          fi
+
+          last_en=$(cat .last_run 2>/dev/null || echo "")
+          if [ "$last_en" != "$today" ]; then
+            echo "English content for $today not committed yet — skipping."
+            echo "run=false" >> "$GITHUB_OUTPUT"; exit 0
+          fi
+
+          if [ "$event" = "workflow_run" ]; then
+            echo "English workflow completed — proceeding."
+            echo "run=true" >> "$GITHUB_OUTPUT"; exit 0
+          fi
+
+          hour=$((10#$(TZ="America/New_York" date +%H)))
+          if [ "$hour" -lt 6 ] || [ "$hour" -gt 11 ]; then
+            echo "Eastern hour is $hour (outside 6-11 window) — skipping."
+            echo "run=false" >> "$GITHUB_OUTPUT"; exit 0
+          fi
+          echo "Scheduled retry in window ($hour ET) — proceeding."
+          echo "run=true" >> "$GITHUB_OUTPUT"
+
+      - name: Set up Python
+        if: steps.guard.outputs.run == 'true'
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install dependencies
+        if: steps.guard.outputs.run == 'true'
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
+
+      - name: Translate carousel copy to Spanish
+        if: steps.guard.outputs.run == 'true'
+        env:
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+          GROQ_API_KEY: ${{ secrets.GROQ_API_KEY }}
+          CEREBRAS_API_KEY: ${{ secrets.CEREBRAS_API_KEY }}
+          XAI_API_KEY: ${{ secrets.XAI_API_KEY }}
+          SAMBANOVA_API_KEY: ${{ secrets.SAMBANOVA_API_KEY }}
+        run: python write_carousels.py es
+
+      - name: Render carousel HTML
+        if: steps.guard.outputs.run == 'true'
+        run: python generate_carousels.py es
+
+      - name: Install Playwright + Chromium
+        if: steps.guard.outputs.run == 'true'
+        run: |
+          pip install playwright
+          python -m playwright install --with-deps chromium
+
+      - name: Export slides to PNG
+        if: steps.guard.outputs.run == 'true'
+        run: python export_slides.py es
+
+      - name: Commit the day's output
+        if: steps.guard.outputs.run == 'true'
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          echo "${{ steps.guard.outputs.today }}" > .last_run_es
+          git add .last_run_es carousel_content.json carousels
+          if git diff --staged --quiet; then
+            echo "No changes to commit"
+          else
+            git commit -m "Daily carousels (ES) ${{ steps.guard.outputs.today }}"
+            git pull --rebase
+            git push || (git pull --rebase && git push)
+          fi
+
+      - name: Read carousel titles and captions
+        id: titles
+        if: steps.guard.outputs.run == 'true'
+        run: |
+          python - <<'PY' >> "$GITHUB_OUTPUT"
+          import json
+          data = json.load(open("carousel_content.json"))
+          for i, c in enumerate(data.get("carousels_es", [])[:3], 1):
+              title = c.get("title", f"Carrusel {i}").replace("\n", " ").strip()
+              caption = c.get("caption", "").replace("\r", "").strip()
+              print(f"t{i}={title}")
+              print(f"c{i}<<CAPTION_EOF")
+              print(caption)
+              print("CAPTION_EOF")
+          PY
+
+      - name: Email Spanish carousel 1
+        if: steps.guard.outputs.run == 'true'
+        uses: dawidd6/action-send-mail@v3
+        with:
+          server_address: smtp.gmail.com
+          server_port: 465
+          secure: true
+          username: ${{ secrets.MAIL_USERNAME }}
+          password: ${{ secrets.MAIL_PASSWORD }}
+          subject: "Carrusel 1/3 (Español) — ${{ steps.titles.outputs.t1 }} (${{ steps.guard.outputs.today }})"
+          to: malaez@safetrustmtg.com
+          from: SafeTrust Carousels <${{ secrets.MAIL_USERNAME }}>
+          body: |
+            Carrusel 1 de 3 en español (QuieroUnaCasa.com) — ${{ steps.titles.outputs.t1 }}
+            9 slides attached (1080x1350 PNG).
+
+            Caption:
+            ${{ steps.titles.outputs.c1 }}
+          attachments: carousels/slides/carousel_4/slide_*.png
+
+      - name: Email Spanish carousel 2
+        if: steps.guard.outputs.run == 'true'
+        uses: dawidd6/action-send-mail@v3
+        with:
+          server_address: smtp.gmail.com
+          server_port: 465
+          secure: true
+          username: ${{ secrets.MAIL_USERNAME }}
+          password: ${{ secrets.MAIL_PASSWORD }}
+          subject: "Carrusel 2/3 (Español) — ${{ steps.titles.outputs.t2 }} (${{ steps.guard.outputs.today }})"
+          to: malaez@safetrustmtg.com
+          from: SafeTrust Carousels <${{ secrets.MAIL_USERNAME }}>
+          body: |
+            Carrusel 2 de 3 en español (QuieroUnaCasa.com) — ${{ steps.titles.outputs.t2 }}
+            9 slides attached (1080x1350 PNG).
+
+            Caption:
+            ${{ steps.titles.outputs.c2 }}
+          attachments: carousels/slides/carousel_5/slide_*.png
+
+      - name: Email Spanish carousel 3
+        if: steps.guard.outputs.run == 'true'
+        uses: dawidd6/action-send-mail@v3
+        with:
+          server_address: smtp.gmail.com
+          server_port: 465
+          secure: true
+          username: ${{ secrets.MAIL_USERNAME }}
+          password: ${{ secrets.MAIL_PASSWORD }}
+          subject: "Carrusel 3/3 (Español) — ${{ steps.titles.outputs.t3 }} (${{ steps.guard.outputs.today }})"
+          to: malaez@safetrustmtg.com
+          from: SafeTrust Carousels <${{ secrets.MAIL_USERNAME }}>
+          body: |
+            Carrusel 3 de 3 en español (QuieroUnaCasa.com) — ${{ steps.titles.outputs.t3 }}
+            9 slides attached (1080x1350 PNG).
+
+            Caption:
+            ${{ steps.titles.outputs.c3 }}
+          attachments: carousels/slides/carousel_6/slide_*.png
