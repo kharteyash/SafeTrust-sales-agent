@@ -1,258 +1,172 @@
 {
   "carousels": [
     {
-      "slug": "ice-raids-builder-pipeline",
-      "title": "ICE Enforcement Strains Builder Pipelines",
+      "slug": "ice-raids-homebuilder-delays",
+      "title": "ICE Raids Hit Homebuilder Construction Timelines and Bank Lines",
       "source": "HousingWire",
       "source_url": "https://www.housingwire.com/articles/ice-enforcement-labor-costs/",
-      "cover_text": "ICE raids threaten your homebuilder closings",
-      "caption": "ICE arrests jumped to 49,571 in July, up from 32,545 in May. That surge is hitting construction sites hard, pushing up subcontractor bids and delaying job completion. Most agents think this is just a minor delay on the job site. But in the back office, it wrecks loan locks and LTV (how much you borrow versus the home's value) calculations. When build timelines stretch, rate locks expire and appraisal updates are needed. Lenders won't fund a loan if the completion certificate isn't signed before the lock expires. You need to proactively manage rate locks and build buffers into purchase contracts today.\n\nSource : https://tinyurl.com/2794ufll\n#SafetrustMortgage #MortgageIntelligenceDaily #housingmarket #realestateagent #homebuying",
+      "cover_text": "Why job site raids threaten builder financing",
+      "caption": "Increased immigration enforcement is creating immediate ripple effects across the residential construction industry. ICE arrests jumped from 32,545 in May to 49,571 in July, directly impacting sub-contractor labor availability. For homebuilders, this means higher subcontractor bids, extended construction cycle times, and delayed home closings. When completion dates slip, builder bank lines get tied up and buyer rate locks expire. From an underwriting perspective, a delayed final inspection or missing certificate of occupancy stops loan funding in its tracks. Loan officers and realtors must proactively monitor construction progress rather than relying on original timeline estimates. Protecting your pipeline requires managing completion risks before rate locks expire.\n\nSource : https://tinyurl.com/2794ufll\n#SafetrustMortgage #MortgageIntelligenceDaily #housingmarket #loanofficer #realestateagent",
       "hashtags": [
         "#SafetrustMortgage",
         "#MortgageIntelligenceDaily",
         "#housingmarket",
-        "#realestateagent",
-        "#homebuying"
+        "#loanofficer",
+        "#realestateagent"
       ],
-      "hook_tag": "Construction Risk",
-      "hook": "Labor shortages are about to break builder closing schedules.",
-      "what_happened_heading": "Builder delays worsen",
-      "what_happened": "ICE arrests increased from 32,545 in May to 49,571 in July. Homebuilders now face severe labor shortages, higher trade bids, and delayed property closings.",
+      "hook_tag": "Builder pipeline risk",
+      "hook": "Enforcement raids are quietly disrupting new construction closings across key markets.",
+      "what_happened_heading": "Federal enforcement targets job site labor forces",
+      "what_happened": "ICE arrests climbed from 32,545 in May to 49,571 in July. This spike is causing construction delays, higher labor bids, and missed closing deadlines for homebuilders.",
       "breakdown": [
         {
-          "heading": "Labor costs spike",
-          "body": "Subcontractors are raising bids to cover labor shortages. That extra cost squeezes builder margins and pushes up final sale prices."
+          "heading": "Labor shortages delay construction schedules",
+          "body": "Trade contractors face sudden staffing drops, forcing builders to re-bid work at higher costs and push back completion dates."
         },
         {
-          "heading": "Construction cycles stall",
-          "body": "Fewer workers on job sites means framed homes sit longer. Build times stretch from weeks into months, delaying contract closing dates."
+          "heading": "Strained bank lines hit builder cash flow",
+          "body": "Construction loans depend on strict completion schedules. Missed closing targets freeze warehouse capacity and tie up builder capital."
         },
         {
-          "heading": "Underwriting loan extension risk",
-          "body": "When draw schedules (cash payouts for construction milestones) lag, loan terms expire. Underwriters cannot clear final approval without valid rate locks and updated appraisals."
+          "heading": "The underwriting view on closing delays",
+          "body": "Here is what this actually changes when a file hits underwriting. Appraisal speed and lock extensions fail when final inspection certificates stall on unbuilt property."
         },
         {
-          "heading": "Bank credit lines freeze",
-          "body": "Lenders slow down advances if build milestones are missed. That freezes builder liquidity right when they need cash to finish projects."
+          "heading": "Extended turn times erode buyer lock periods",
+          "body": "Rate locks expire while buyers wait on certificate of occupancy delays, forcing costly extension fees or re-qualification."
         }
       ],
-      "my_take_heading": "Builders face a credit pinch",
-      "my_take": "Everyone sees labor shortages as a construction delay, but underwriters see a credit crunch. Stalled builds trigger rate lock expirations and line extension fees that kill deal margins.",
-      "action_lo": "Audit all pending new-construction locks and negotiate lock extensions before build deadlines are missed.",
-      "action_realtor": "Add strict closing date flexibility clauses in purchase contracts for under-construction inventory.",
-      "cta_question": "Are your local builders already missing closing dates due to labor shortages?"
+      "my_take_heading": "Construction delays are a credit risk issue",
+      "my_take": "Labor enforcement is not just a job site problem; it is a pipeline liquidity event that hits builder balance sheets directly.",
+      "action_lo": "Audit your new construction pipeline today to identify locks at risk from delayed completion dates.",
+      "action_realtor": "Add buffer days into builder contract closing dates to protect buyer earnest money deposits.",
+      "cta_question": "How are builder delays impacting your pipeline lock strategy this quarter?"
     },
     {
-      "slug": "arm-vs-fixed-rate-history",
-      "title": "History Shows ARMs Win Most of the Time",
-      "source": "Redfin News",
-      "source_url": "https://www.redfin.com/news/arm-versus-fixed-rate-mortgage/",
-      "cover_text": "Why fixed rates aren't always the winner",
-      "caption": "Over the last 50 years, buyers saved money taking an adjustable-rate mortgage (ARM) 70% of the time instead of a 30-year fixed. Yet consumer fear keeps fixed loans at the top of every wishlist. Most buyers don't keep their original mortgage for 30 years—they move or refinance within seven. Lower initial ARM payments give buyers breathing room today, and history proves a refinance window usually opens before the rate resets. Underwriters stress-test ARMs against higher margin rates to ensure stability, so the safety risk is far lower than buyers think. It's time to reframe the math for your clients.\n\nSource : https://tinyurl.com/2cmg2cwb\n#SafetrustMortgage #MortgageIntelligenceDaily #mortgagerates #firsttimehomebuyer #mortgagebroker",
+      "slug": "fay-group-acquires-vandyk-mortgage",
+      "title": "Fay Group Buys VanDyk to Expand Conforming Footprint",
+      "source": "HousingWire",
+      "source_url": "https://www.housingwire.com/articles/fay-group-acquires-vandyk-mortgage-expand-conforming-business/",
+      "cover_text": "Why servicing rights are driving mortgage M&A",
+      "caption": "Consolidation across the mortgage industry continues as Fay Group acquires VanDyk Mortgage. This acquisition provides Fay Group with direct access to Fannie Mae, Freddie Mac, and Ginnie Mae selling channels, along with an established portfolio of MSRs (mortgage servicing rights, which represent the ongoing right to collect monthly payments). For independent lenders, holding agency approvals and servicing assets creates recurring revenue that buffers against origination downturns. When platforms combine, the real challenge moves to the operations floor, where underwriters must reconcile divergent overlays and guidelines. Scale is no longer just about generating higher volume; it is about operational efficiency and maintaining margin control.\n\nSource : https://tinyurl.com/2ase7zr3\n#SafetrustMortgage #MortgageIntelligenceDaily #mortgagebroker #loanofficer #housingmarket",
+      "hashtags": [
+        "#SafetrustMortgage",
+        "#MortgageIntelligenceDaily",
+        "#mortgagebroker",
+        "#loanofficer",
+        "#housingmarket"
+      ],
+      "hook_tag": "Mortgage M&A moves",
+      "hook": "Fay Group just acquired VanDyk to capture agency access and servicing assets.",
+      "what_happened_heading": "Fay Group expands into conforming loan origination",
+      "what_happened": "Fay Group completed the acquisition of VanDyk Mortgage to grow its conforming loan footprint. The acquisition includes direct Fannie Mae, Freddie Mac, and Ginnie Mae agency approvals along with a portfolio of MSRs (mortgage servicing rights, which are the contractual rights to service existing loans).",
+      "breakdown": [
+        {
+          "heading": "Strategic growth through direct agency access",
+          "body": "Acquiring established agency approvals allows originators to bypass broker margins and deliver loans directly into agency executions."
+        },
+        {
+          "heading": "Servicing books provide reliable cash flow",
+          "body": "Mortgage servicing rights generate recurring fee income that balances out volatile month-to-month origination revenue."
+        },
+        {
+          "heading": "The underwriting view on platform integration",
+          "body": "Here is what this actually changes when a file hits underwriting. Merging operations means standardizing overlays across different investor guidelines into one coherent underwriting manual."
+        },
+        {
+          "heading": "Scale remains essential for margin preservation",
+          "body": "Independent mortgage bankers are using mergers to spread fixed technology and compliance overhead costs across larger loan volumes."
+        }
+      ],
+      "my_take_heading": "Origination scale follows servicing retention strategies",
+      "my_take": "Independent mortgage banking consolidation is no longer about volume; it is about controlling the servicing asset and direct agency access.",
+      "action_lo": "Review your lender partner array to ensure you maintain direct agency pricing channels.",
+      "action_realtor": "Partner with lenders who control their servicing to give your buyers smoother long-term experiences.",
+      "cta_question": "Will agency execution control decide which independent lenders survive this cycle?"
+    },
+    {
+      "slug": "mortgage-applications-arm-share-rebound",
+      "title": "Mortgage Demand Shifts as ARM Share Hits Five-Week High",
+      "source": "Mortgage News Daily",
+      "source_url": "https://www.mortgagenewsdaily.com/news/09042026-mortgage-applications-mba",
+      "cover_text": "Why buyers are turning back to adjustable rates",
+      "caption": "Mortgage application volume nudged up 0.8 percent last week, but the real story lies in product selection. With mortgage rates touching a four-week peak, the share of ARM (adjustable-rate mortgage, where interest rates reset after a set period) applications hit a five-week high. Homebuyers are looking for relief on initial monthly payments to make current home prices fit their budget. However, from an underwriter's desk, ARM products come with strict qualifying rules. Underwriters must evaluate files using higher fully indexed stress rates, which keeps a tight cap on DTI (how much of your income goes to debt). Originators must educate clients on qualification math rather than just initial payment savings.\n\nSource : https://tinyurl.com/25ycce2t\n#SafetrustMortgage #MortgageIntelligenceDaily #mortgagerates #firsttimehomebuyer #homebuying",
       "hashtags": [
         "#SafetrustMortgage",
         "#MortgageIntelligenceDaily",
         "#mortgagerates",
         "#firsttimehomebuyer",
-        "#mortgagebroker"
-      ],
-      "hook_tag": "Mortgage Strategy",
-      "hook": "Choosing a fixed rate costs buyers more 70% of the time.",
-      "what_happened_heading": "ARM historical performance data",
-      "what_happened": "Redfin data shows buyers saved money with adjustable-rate mortgages 70% of the time over the last 50 years. Lower initial rates gave buyers opportunities to refinance before rates reset higher.",
-      "breakdown": [
-        {
-          "heading": "Lower upfront payments",
-          "body": "Adjustable mortgages start with lower interest rates than 30-year fixed loans. That cuts initial monthly housing costs for buyers immediately."
-        },
-        {
-          "heading": "The refinance safety net",
-          "body": "Historical rate cycles show rates drop within the initial fixed period. Most buyers refinance into lower fixed rates before the ARM resets."
-        },
-        {
-          "heading": "Underwriting qualification reality",
-          "body": "Underwriters stress-test (test if you can pay at higher potential rates) ARMs. That keeps DTI (how much of your income goes to debt) ratios honest while giving buyers lower payments."
-        },
-        {
-          "heading": "Average buyer tenure",
-          "body": "Most buyers move or refinance within seven years anyway. Paying a premium for a 30-year fixed rate often wastes money."
-        }
-      ],
-      "my_take_heading": "Fear costs buyers cash",
-      "my_take": "Homebuyers pay a massive premium for 30-year peace of mind they rarely use. An ARM isn't a gamble if you understand rate cycles and qualifying rules.",
-      "action_lo": "Present ARM comparison side-by-side with 30-year fixed options on every pre-approval deck.",
-      "action_realtor": "Educate hesitant buyers on initial ARM savings to help them beat affordability hurdles.",
-      "cta_question": "Would you pitch an ARM to a cautious buyer in today's market?"
-    },
-    {
-      "slug": "fhfa-bimerge-vantagescore-credit",
-      "title": "FHFA Considers Bi-Merge Credit Scoring",
-      "source": "HousingWire",
-      "source_url": "https://www.housingwire.com/articles/fhfa-bi-merge-credit-report-vantagescore-pulte/",
-      "cover_text": "Your credit report rules are about to change",
-      "caption": "The FHFA is weighing bi-merge and single credit report requirements, while expanding access to VantageScore. Dropping from three bureaus to two or one aims to cut loan costs for consumers. But in underwriting, changing credit inputs changes everything. The classic tri-merge uses the middle score across three bureaus. Dropping one bureau means automated underwriting systems must evaluate risk with less data, which can shift a borrower's interest rate tier unexpectedly. On the flip side, VantageScore factors in rent payments, opening doors for thin-file buyers. Get ready for major shifts in how files get cleared.\n\nSource : https://tinyurl.com/22gcrcv7\n#SafetrustMortgage #MortgageIntelligenceDaily #loanofficer #mortgagebroker #homebuying",
-      "hashtags": [
-        "#SafetrustMortgage",
-        "#MortgageIntelligenceDaily",
-        "#loanofficer",
-        "#mortgagebroker",
         "#homebuying"
       ],
-      "hook_tag": "Credit Reform",
-      "hook": "Single and bi-merge credit reports are officially on the table.",
-      "what_happened_heading": "FHFA credit shift proposed",
-      "what_happened": "The FHFA is considering bi-merge and single credit report options for conforming loans. They are also opening access to VantageScore alongside traditional FICO models.",
+      "hook_tag": "Borrowing trend shift",
+      "hook": "Buyers are choosing adjustable-rate loans as interest rates reach a four-week high.",
+      "what_happened_heading": "Overall mortgage application volume posted a small gain",
+      "what_happened": "Total application volume rose 0.8 percent last week according to the Mortgage Bankers Association, even as interest rates hit a four-week high. The share of ARM (adjustable-rate mortgage, where the rate resets periodically) applications surged to a five-week high.",
       "breakdown": [
         {
-          "heading": "Cutting borrower fee burdens",
-          "body": "Dropping from three credit bureaus to two or one cuts credit report fees. That lowers upfront closing costs for prospective buyers immediately."
+          "heading": "Purchase demand holds while refinances pull back",
+          "body": "Higher mortgage rates checked refinancing activity, leaving purchase borrowers to carry total application growth."
         },
         {
-          "heading": "Score variance creates friction",
-          "body": "Dropping a bureau changes how middle credit scores are picked. That can shift a buyer's qualifying tier and change pricing overnight."
+          "heading": "Borrowers seek lower initial monthly payments",
+          "body": "As fixed rates tick upward, buyers adopt ARMs to lower initial monthly payments and qualify for higher purchase prices."
         },
         {
-          "heading": "Underwriting engine impact",
-          "body": "Underwriting engines rely on tri-merge data for DTI (how much of your income goes to debt) calculations. Removing a bureau forces automated systems to recalibrate risk algorithms."
+          "heading": "The underwriting view on adjustable rate files",
+          "body": "Here is what this actually changes when a file hits underwriting. Underwriters must qualify borrowers at the maximum initial adjustment rate, tightening DTI (how much of your income goes to debt) limits."
         },
         {
-          "heading": "VantageScore adoption expands",
-          "body": "VantageScore counts alternative credit data like rental payments. That expands approval potential for buyers with thin traditional credit files."
+          "heading": "Qualification buffers restrict true capacity",
+          "body": "Even if a starting ARM rate is lower, strict qualifying margin requirements prevent buyers from over-leveraging."
         }
       ],
-      "my_take_heading": "Scoring tweaks change approvals",
-      "my_take": "Fewer credit bureaus mean lower costs, but it also creates wild score swings. Underwriters will see borrower approvals flip based on which bureau gets dropped.",
-      "action_lo": "Review thin-file pre-approvals to see how VantageScore calculations could expand buyer purchasing power.",
-      "action_realtor": "Prepare clients for shifting credit qualification thresholds as Fannie and Freddie update underwriting requirements.",
-      "cta_question": "Will dropping to a bi-merge make underwriting easier or create more liability?"
-    }
-  ],
-  "carousels_es": [
-    {
-      "slug": "ice-raids-builder-pipeline",
-      "title": "Las redadas de ICE tensionan la entrega de constructoras",
-      "source": "HousingWire",
-      "source_url": "https://www.housingwire.com/articles/ice-enforcement-labor-costs/",
-      "cover_text": "Las redadas de ICE amenazan tus cierres",
-      "caption": "Las detenciones de ICE subieron a 49,571 en julio, afectando seriamente las obras de construcción. Este incremento reduce la mano de obra disponible, sube los costos de los subcontratistas y frena la entrega de viviendas nuevas. Muchos agentes piensan que se trata de un simple retraso en la obra. Sin embargo, en el área financiera, esto arruina las tasas reservadas (rate locks) y el cálculo de la relación préstamo-valor (LTV). Si los plazos de construcción se extienden, las tasas vencen y se requieren nuevos avalúos. El prestamista no entregará los fondos si el certificado de obra terminada no se firma a tiempo. Debes gestionar proactivamente las reservas de tasa e incluir margen de tiempo en los contratos de compra hoy mismo.\n\nFuente : https://tinyurl.com/2794ufll\n#SafetrustMortgage #MortgageIntelligenceDaily #housingmarket #realestateagent #homebuying",
-      "hashtags": [
-        "#SafetrustMortgage",
-        "#MortgageIntelligenceDaily",
-        "#housingmarket",
-        "#realestateagent",
-        "#homebuying"
-      ],
-      "hook_tag": "Riesgo en construcción",
-      "hook": "La falta de mano de obra retrasará el cierre de las constructoras.",
-      "what_happened_heading": "Aumentan los retrasos de construcción",
-      "what_happened": "Los arrestos de ICE subieron de 32,545 en mayo a 49,571 en julio. Ahora las constructoras enfrentan escasez de personal, ofertas más caras y cierres retrasados.",
-      "breakdown": [
-        {
-          "heading": "Los costos laborales se disparan",
-          "body": "Los subcontratistas cobran más para cubrir la falta de personal. Ese gasto extra reduce las ganancias del constructor y sube el precio final de la casa."
-        },
-        {
-          "heading": "Los tiempos de obra se frenan",
-          "body": "Con menos trabajadores en la obra, las estructuras tardan más tiempo en terminarse. Las entregas se retrasan semanas o meses, afectando la fecha de cierre."
-        },
-        {
-          "heading": "Riesgo de vencimiento del préstamo",
-          "body": "Si las fases de obra se retrasan, las tasas reservadas vencen. El asesor (underwriter) no aprobará la hipoteca sin la reserva vigente y un avalúo actualizado."
-        },
-        {
-          "heading": "Se congelan las líneas bancarias",
-          "body": "Los bancos frenan los desembolsos si la obra no avanza según lo planeado. Esto congela la liquidez del constructor justo cuando más dinero necesita para terminar."
-        }
-      ],
-      "my_take_heading": "Las constructoras sufren un apretón crediticio",
-      "my_take": "Muchos ven la falta de mano de obra como un simple retraso, pero para el asesor es un riesgo crediticio. Una obra pausada vence las tasas y genera cargos que destruyen la ganancia del negocio.",
-      "action_lo": "Revisa las tasas reservadas en obras nuevas y negocia prórrogas antes de que se venzan los plazos.",
-      "action_realtor": "Agrega cláusulas de flexibilidad para la fecha de cierre en contratos de viviendas en construcción.",
-      "cta_question": "¿Tus constructoras locales ya están perdiendo fechas de cierre por falta de mano de obra?"
+      "my_take_heading": "Lower teaser rates do not bypass underwriting math",
+      "my_take": "Rising ARM demand reflects buyer affordability fatigue, but underwriting qualification rules keep true leverage tightly constrained.",
+      "action_lo": "Structure ARM scenarios using stress-tested qualify rates before submitting files to processing.",
+      "action_realtor": "Educate buyers on how ARM products impact their pre-approval limits when rates rise.",
+      "cta_question": "Are your buyers actively requesting ARM products to deal with current rate levels?"
     },
     {
-      "slug": "arm-vs-fixed-rate-history",
-      "title": "La historia demuestra que las hipotecas ajustables ganan",
-      "source": "Redfin News",
-      "source_url": "https://www.redfin.com/news/arm-versus-fixed-rate-mortgage/",
-      "cover_text": "Por qué la tasa fija no siempre gana",
-      "caption": "Durante los últimos 50 años, los compradores ahorraron dinero eligiendo una hipoteca de tasa ajustable (ARM) el 70% de las veces. A pesar de esto, el miedo hace que las tasas fijas sigan siendo las más pedidas. Casi nadie conserva su hipoteca original por 30 años, ya que la mayoría se muda o refinancia antes de siete años. Un pago inicial más bajo en una ARM te da tranquilidad financiera hoy, y la historia demuestra que siempre surge una oportunidad para refinanciar antes de que la tasa cambie. Además, el asesor (underwriter) evalúa el préstamo con tasas más altas para certificar tu estabilidad. Es momento de explicar los números reales a tus clientes hoy mismo.\n\nFuente : https://tinyurl.com/2cmg2cwb\n#SafetrustMortgage #MortgageIntelligenceDaily #mortgagerates #firsttimehomebuyer #mortgagebroker",
+      "slug": "political-pressure-fed-rate-cuts",
+      "title": "Political Pressure Mounts on Fed Following August Jobs Data",
+      "source": "HousingWire",
+      "source_url": "https://www.housingwire.com/articles/trump-trade-fed-rates/",
+      "cover_text": "Political rate demands face economic reality",
+      "caption": "Calls for immediate Federal Reserve rate cuts are making headlines, but economic data presents a different picture. August payrolls grew by 162,000 while the unemployment rate held steady at 4.1 percent. Despite public calls for lower borrowing costs, the Fed relies on labor data and inflation indicators to guide policy choices. In mortgage origination, market pricing reflects secondary bond yields rather than political commentary. From an underwriting standpoint, volatility driven by headline noise creates operational headaches when borrowers gamble on floating rates. Originators who set proper client expectations around actual economic data will keep their closing pipelines far more predictable.\n\nSource : https://tinyurl.com/269hg3ae\n#SafetrustMortgage #MortgageIntelligenceDaily #mortgagerates #housingmarket #loanofficer",
       "hashtags": [
         "#SafetrustMortgage",
         "#MortgageIntelligenceDaily",
         "#mortgagerates",
-        "#firsttimehomebuyer",
-        "#mortgagebroker"
+        "#housingmarket",
+        "#loanofficer"
       ],
-      "hook_tag": "Estrategia hipotecaria",
-      "hook": "Elegir una tasa fija cuesta más dinero el 70% del tiempo.",
-      "what_happened_heading": "Rendimiento histórico de las hipotecas ARM",
-      "what_happened": "Datos de Redfin muestran que los compradores ahorraron dinero con hipotecas de tasa ajustable el 70% del tiempo en 50 años. Sus pagos iniciales más bajos permitieron refinanciar antes del ajuste de tasa.",
+      "hook_tag": "Rate policy debate",
+      "hook": "Political demands for Fed rate cuts are clashing directly with strong employment numbers.",
+      "what_happened_heading": "Rate cut demands escalate despite steady economic data",
+      "what_happened": "Donald Trump urged the Federal Reserve to cut interest rates, threatening trade halts if actions are not taken. This pressure comes after August payrolls added 162,000 jobs and unemployment remained steady at 4.1 percent.",
       "breakdown": [
         {
-          "heading": "Pagos iniciales más bajos",
-          "body": "Las hipotecas de tasa ajustable (ARM) inician con intereses más bajos que las fijas a 30 años. Eso reduce de inmediato el pago mensual de la casa."
+          "heading": "Solid payroll gains complicate central bank rate cuts",
+          "body": "Adding 162,000 jobs in August shows labor market durability that keeps Fed officials cautious about quick monetary easing."
         },
         {
-          "heading": "La red de seguridad al refinanciar",
-          "body": "Los ciclos históricos muestran que los intereses bajan durante el periodo inicial fijo. La mayoría refinancia a una tasa fija más baja antes de que la ARM suba."
+          "heading": "Low unemployment maintains economic wage pressure",
+          "body": "Holding steady at 4.1 percent unemployment signals to rate strategists that underlying inflationary pressures remain present."
         },
         {
-          "heading": "Calificación real del préstamo",
-          "body": "El asesor (underwriter) prueba la capacidad de pago evaluando escenarios de tasas más altas. Esto cuida la relación deuda-ingreso (DTI) y asegura pagos iniciales bajos y seguros."
+          "heading": "The underwriting view on rate volatility policy",
+          "body": "Here is what this actually changes when a file hits underwriting. Rate volatility creates pipeline fallout when locks expire before political speculation turns into central bank policy moves."
         },
         {
-          "heading": "Permanencia promedio del comprador",
-          "body": "La mayoría de los compradores se muda o refinancia en siete años. Pagar un extra por una tasa fija a 30 años suele ser dinero desperdiciado."
+          "heading": "Political pressure does not move bond yields",
+          "body": "Mortgage rates respond to Treasury yields and bond market inflation expectations, not political statements."
         }
       ],
-      "my_take_heading": "El temor les cuesta dinero a los compradores",
-      "my_take": "Los compradores pagan un costo alto por una paz mental a 30 años que rara vez usan. Una hipoteca ajustable no es una apuesta si entiendes los ciclos de tasa y las reglas de calificación.",
-      "action_lo": "Muestra una comparación entre hipotecas ARM y fijas a 30 años en cada presentación de preaprobación.",
-      "action_realtor": "Explica a tus compradores dudosos el ahorro inicial de una ARM para ayudarlos a superar problemas de presupuesto.",
-      "cta_question": "¿Le ofrecerías una hipoteca de tasa ajustable a un comprador precavido en el mercado actual?"
-    },
-    {
-      "slug": "fhfa-bimerge-vantagescore-credit",
-      "title": "La FHFA evalúa reportes de crédito de dos agencias",
-      "source": "HousingWire",
-      "source_url": "https://www.housingwire.com/articles/fhfa-bi-merge-credit-report-vantagescore-pulte/",
-      "cover_text": "Las reglas de tu crédito van a cambiar",
-      "caption": "La FHFA está evaluando exigir reportes de crédito de una o dos agencias, además de ampliar el uso de VantageScore. Eliminar agencias busca reducir los costos del préstamo para el cliente. Sin embargo, en el análisis financiero, cambiar los datos crediticios lo altera todo. El modelo tradicional usa el puntaje medio de tres agencias. Al quitar una, los sistemas automatizados deben evaluar el riesgo con menos información, lo que podría cambiar la tasa de interés del comprador inesperadamente. Por otro lado, VantageScore incluye el pago de renta, abriendo puertas a compradores con poco historial. Prepárate para cambios importantes en la aprobación de tus clientes.\n\nFuente : https://tinyurl.com/22gcrcv7\n#SafetrustMortgage #MortgageIntelligenceDaily #loanofficer #mortgagebroker #homebuying",
-      "hashtags": [
-        "#SafetrustMortgage",
-        "#MortgageIntelligenceDaily",
-        "#loanofficer",
-        "#mortgagebroker",
-        "#homebuying"
-      ],
-      "hook_tag": "Reforma crediticia",
-      "hook": "Los reportes de crédito de una o dos agencias ya son una opción.",
-      "what_happened_heading": "Propuesta de cambio crediticio de la FHFA",
-      "what_happened": "La FHFA evalúa permitir reportes de crédito de una o dos agencias para préstamos conformes. También busca incluir el sistema VantageScore junto con el modelo FICO tradicional.",
-      "breakdown": [
-        {
-          "heading": "Reducción de costos para el comprador",
-          "body": "Pasar de tres agencias de crédito a dos o una reduce los costos del reporte. Eso disminuye de inmediato los gastos de cierre iniciales para el comprador."
-        },
-        {
-          "heading": "Diferencias de puntaje crean variaciones",
-          "body": "Eliminar una agencia cambia cómo se selecciona el puntaje medio del comprador. Esto puede modificar la categoría de calificación y alterar la tasa de interés de un día para otro."
-        },
-        {
-          "heading": "Impacto en los sistemas automatizados",
-          "body": "Los sistemas automáticos usan tres agencias para calcular la relación deuda-ingreso (DTI). Al quitar una agencia, el sistema debe recalcular el riesgo con menos información."
-        },
-        {
-          "heading": "Inclusión del puntaje VantageScore",
-          "body": "VantageScore toma en cuenta pagos de renta y servicios. Esto abre puertas de aprobación a compradores que tienen un historial crediticio tradicional muy corto."
-        }
-      ],
-      "my_take_heading": "Ajustar el puntaje cambia las aprobaciones",
-      "my_take": "Menos agencias reducen costos, pero generan cambios bruscos en el puntaje. El asesor verá aprobaciones cambiar radicalmente según la agencia de crédito que decida eliminarse del reporte.",
-      "action_lo": "Revisa preaprobaciones con historial pequeño para ver si VantageScore aumenta la capacidad de compra del cliente.",
-      "action_realtor": "Prepara a tus clientes para posibles cambios en la calificación crediticia mientras Fannie y Freddie actualizan sus requisitos.",
-      "cta_question": "¿Usar dos agencias de crédito facilitará la evaluación del préstamo o generará más complicaciones?"
+      "my_take_heading": "Political headlines do not lower mortgage rates",
+      "my_take": "Mortgage markets price long-term economic fundamentals, not political demands for rapid Fed rate cuts.",
+      "action_lo": "Advise clients to lock based on economic data trends rather than political rate predictions.",
+      "action_realtor": "Keep buyers focused on property selection and affordability rather than timing political headlines.",
+      "cta_question": "How do you handle clients who expect instant rate drops due to political news?"
     }
   ]
 }
