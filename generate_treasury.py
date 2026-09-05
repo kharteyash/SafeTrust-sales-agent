@@ -65,10 +65,46 @@ def _record_history(date, value, src):
     HISTORY.write_text(json.dumps(hist, indent=1, sort_keys=True), encoding="utf-8")
 
 
+_BARS_CACHE = None
+
+
+def _cnbc_bars():
+    """CNBC's 5-minute intraday bars for the last ~5 sessions (ET timestamps),
+    fetched once per run."""
+    global _BARS_CACHE
+    if _BARS_CACHE is None:
+        _BARS_CACHE = json.loads(_get(CNBC_5D_URL))["barData"]["priceBars"]
+    return _BARS_CACHE
+
+
+def six_am_today_value():
+    """The market's level at 6:00 AM ET TODAY: the newest intraday bar at or
+    before 06:00. On weekends/holidays (no bars today) that is the prior
+    session's close — which is exactly what the yield stood at, at 6am."""
+    cutoff = _today_et().replace("-", "") + "0600"
+    best = None
+    for b in _cnbc_bars():
+        tt = str(b.get("tradeTime", ""))[:12]
+        if len(tt) == 12 and tt <= cutoff and (best is None or tt > best[0]):
+            best = (tt, float(b["close"]))
+    return best[1] if best else None
+
+
+def _pin_to_6am(live):
+    """Re-anchor a (last, prev, as_of) quote to today's 6:00 AM ET level — the
+    number the card shows must always be the morning value for the CURRENT day,
+    never the current quote or a prior day's closing time."""
+    v6 = _retry(six_am_today_value, "CNBC 6am bar")
+    if v6 is None:
+        return live
+    d = _today_et()
+    return (v6, live[1], f"{int(d[5:7])}/{int(d[8:10])}/{d[:4]} 6:00 AM ET")
+
+
 def fetch_cnbc_6am_history():
     """{iso_date: value} of ~6:00 AM ET prints from CNBC's 5-day intraday bars
     (tradeTime strings are ET). Takes the bar closest to 6:00, within 90 min."""
-    bars = json.loads(_get(CNBC_5D_URL))["barData"]["priceBars"]
+    bars = _cnbc_bars()
     best = {}
     for b in bars:
         tt = str(b.get("tradeTime", ""))
@@ -126,7 +162,7 @@ def save_snapshot():
     if live is None:
         print("WARNING: could not snapshot the treasury quote (CNBC down).")
         return
-    last, prev, as_of = live
+    last, prev, as_of = _pin_to_6am(live)
     SNAPSHOT.write_text(json.dumps({"date": _today_et(), "last": last, "prev": prev,
                                     "as_of": as_of}), encoding="utf-8")
     _record_history(_today_et(), last, "snapshot")
@@ -269,8 +305,12 @@ def get_data(mode="live"):
     else:
         live = _retry(fetch_cnbc, "CNBC quote")
         if live and mode == "snapshot":
-            # First firing of the day (no snapshot yet) — record this value so
-            # any later retry shows the same number.
+            # No snapshot yet today (a late or weekend run). Pin the headline to
+            # TODAY's 6:00 AM ET level from the intraday bars — never the
+            # current quote or the prior day's closing time — and record it so
+            # every later run today shows the same number.
+            live = _pin_to_6am(live)
+            print(f"Pinned to today's 6:00 AM ET level: {live[0]:.2f}%")
             SNAPSHOT.write_text(json.dumps({"date": _today_et(), "last": live[0],
                                             "prev": live[1], "as_of": live[2]}),
                                 encoding="utf-8")
