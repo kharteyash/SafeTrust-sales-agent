@@ -126,5 +126,133 @@
       "action_realtor": "Prepare clients for shifting credit qualification thresholds as Fannie and Freddie update underwriting requirements.",
       "cta_question": "Will dropping to a bi-merge make underwriting easier or create more liability?"
     }
+  ],
+  "carousels_es": [
+    {
+      "slug": "ice-raids-builder-pipeline",
+      "title": "Las redadas de ICE tensionan la entrega de constructoras",
+      "source": "HousingWire",
+      "source_url": "https://www.housingwire.com/articles/ice-enforcement-labor-costs/",
+      "cover_text": "Las redadas de ICE amenazan tus cierres",
+      "caption": "Las detenciones de ICE subieron a 49,571 en julio, afectando seriamente las obras de construcción. Este incremento reduce la mano de obra disponible, sube los costos de los subcontratistas y frena la entrega de viviendas nuevas. Muchos agentes piensan que se trata de un simple retraso en la obra. Sin embargo, en el área financiera, esto arruina las tasas reservadas (rate locks) y el cálculo de la relación préstamo-valor (LTV). Si los plazos de construcción se extienden, las tasas vencen y se requieren nuevos avalúos. El prestamista no entregará los fondos si el certificado de obra terminada no se firma a tiempo. Debes gestionar proactivamente las reservas de tasa e incluir margen de tiempo en los contratos de compra hoy mismo.\n\nFuente : https://tinyurl.com/2794ufll\n#SafetrustMortgage #MortgageIntelligenceDaily #housingmarket #realestateagent #homebuying",
+      "hashtags": [
+        "#SafetrustMortgage",
+        "#MortgageIntelligenceDaily",
+        "#housingmarket",
+        "#realestateagent",
+        "#homebuying"
+      ],
+      "hook_tag": "Riesgo en construcción",
+      "hook": "La falta de mano de obra retrasará el cierre de las constructoras.",
+      "what_happened_heading": "Aumentan los retrasos de construcción",
+      "what_happened": "Los arrestos de ICE subieron de 32,545 en mayo a 49,571 en julio. Ahora las constructoras enfrentan escasez de personal, ofertas más caras y cierres retrasados.",
+      "breakdown": [
+        {
+          "heading": "Los costos laborales se disparan",
+          "body": "Los subcontratistas cobran más para cubrir la falta de personal. Ese gasto extra reduce las ganancias del constructor y sube el precio final de la casa."
+        },
+        {
+          "heading": "Los tiempos de obra se frenan",
+          "body": "Con menos trabajadores en la obra, las estructuras tardan más tiempo en terminarse. Las entregas se retrasan semanas o meses, afectando la fecha de cierre."
+        },
+        {
+          "heading": "Riesgo de vencimiento del préstamo",
+          "body": "Si las fases de obra se retrasan, las tasas reservadas vencen. El asesor (underwriter) no aprobará la hipoteca sin la reserva vigente y un avalúo actualizado."
+        },
+        {
+          "heading": "Se congelan las líneas bancarias",
+          "body": "Los bancos frenan los desembolsos si la obra no avanza según lo planeado. Esto congela la liquidez del constructor justo cuando más dinero necesita para terminar."
+        }
+      ],
+      "my_take_heading": "Las constructoras sufren un apretón crediticio",
+      "my_take": "Muchos ven la falta de mano de obra como un simple retraso, pero para el asesor es un riesgo crediticio. Una obra pausada vence las tasas y genera cargos que destruyen la ganancia del negocio.",
+      "action_lo": "Revisa las tasas reservadas en obras nuevas y negocia prórrogas antes de que se venzan los plazos.",
+      "action_realtor": "Agrega cláusulas de flexibilidad para la fecha de cierre en contratos de viviendas en construcción.",
+      "cta_question": "¿Tus constructoras locales ya están perdiendo fechas de cierre por falta de mano de obra?"
+    },
+    {
+      "slug": "arm-vs-fixed-rate-history",
+      "title": "La historia demuestra que las hipotecas ajustables ganan",
+      "source": "Redfin News",
+      "source_url": "https://www.redfin.com/news/arm-versus-fixed-rate-mortgage/",
+      "cover_text": "Por qué la tasa fija no siempre gana",
+      "caption": "Durante los últimos 50 años, los compradores ahorraron dinero eligiendo una hipoteca de tasa ajustable (ARM) el 70% de las veces. A pesar de esto, el miedo hace que las tasas fijas sigan siendo las más pedidas. Casi nadie conserva su hipoteca original por 30 años, ya que la mayoría se muda o refinancia antes de siete años. Un pago inicial más bajo en una ARM te da tranquilidad financiera hoy, y la historia demuestra que siempre surge una oportunidad para refinanciar antes de que la tasa cambie. Además, el asesor (underwriter) evalúa el préstamo con tasas más altas para certificar tu estabilidad. Es momento de explicar los números reales a tus clientes hoy mismo.\n\nFuente : https://tinyurl.com/2cmg2cwb\n#SafetrustMortgage #MortgageIntelligenceDaily #mortgagerates #firsttimehomebuyer #mortgagebroker",
+      "hashtags": [
+        "#SafetrustMortgage",
+        "#MortgageIntelligenceDaily",
+        "#mortgagerates",
+        "#firsttimehomebuyer",
+        "#mortgagebroker"
+      ],
+      "hook_tag": "Estrategia hipotecaria",
+      "hook": "Elegir una tasa fija cuesta más dinero el 70% del tiempo.",
+      "what_happened_heading": "Rendimiento histórico de las hipotecas ARM",
+      "what_happened": "Datos de Redfin muestran que los compradores ahorraron dinero con hipotecas de tasa ajustable el 70% del tiempo en 50 años. Sus pagos iniciales más bajos permitieron refinanciar antes del ajuste de tasa.",
+      "breakdown": [
+        {
+          "heading": "Pagos iniciales más bajos",
+          "body": "Las hipotecas de tasa ajustable (ARM) inician con intereses más bajos que las fijas a 30 años. Eso reduce de inmediato el pago mensual de la casa."
+        },
+        {
+          "heading": "La red de seguridad al refinanciar",
+          "body": "Los ciclos históricos muestran que los intereses bajan durante el periodo inicial fijo. La mayoría refinancia a una tasa fija más baja antes de que la ARM suba."
+        },
+        {
+          "heading": "Calificación real del préstamo",
+          "body": "El asesor (underwriter) prueba la capacidad de pago evaluando escenarios de tasas más altas. Esto cuida la relación deuda-ingreso (DTI) y asegura pagos iniciales bajos y seguros."
+        },
+        {
+          "heading": "Permanencia promedio del comprador",
+          "body": "La mayoría de los compradores se muda o refinancia en siete años. Pagar un extra por una tasa fija a 30 años suele ser dinero desperdiciado."
+        }
+      ],
+      "my_take_heading": "El temor les cuesta dinero a los compradores",
+      "my_take": "Los compradores pagan un costo alto por una paz mental a 30 años que rara vez usan. Una hipoteca ajustable no es una apuesta si entiendes los ciclos de tasa y las reglas de calificación.",
+      "action_lo": "Muestra una comparación entre hipotecas ARM y fijas a 30 años en cada presentación de preaprobación.",
+      "action_realtor": "Explica a tus compradores dudosos el ahorro inicial de una ARM para ayudarlos a superar problemas de presupuesto.",
+      "cta_question": "¿Le ofrecerías una hipoteca de tasa ajustable a un comprador precavido en el mercado actual?"
+    },
+    {
+      "slug": "fhfa-bimerge-vantagescore-credit",
+      "title": "La FHFA evalúa reportes de crédito de dos agencias",
+      "source": "HousingWire",
+      "source_url": "https://www.housingwire.com/articles/fhfa-bi-merge-credit-report-vantagescore-pulte/",
+      "cover_text": "Las reglas de tu crédito van a cambiar",
+      "caption": "La FHFA está evaluando exigir reportes de crédito de una o dos agencias, además de ampliar el uso de VantageScore. Eliminar agencias busca reducir los costos del préstamo para el cliente. Sin embargo, en el análisis financiero, cambiar los datos crediticios lo altera todo. El modelo tradicional usa el puntaje medio de tres agencias. Al quitar una, los sistemas automatizados deben evaluar el riesgo con menos información, lo que podría cambiar la tasa de interés del comprador inesperadamente. Por otro lado, VantageScore incluye el pago de renta, abriendo puertas a compradores con poco historial. Prepárate para cambios importantes en la aprobación de tus clientes.\n\nFuente : https://tinyurl.com/22gcrcv7\n#SafetrustMortgage #MortgageIntelligenceDaily #loanofficer #mortgagebroker #homebuying",
+      "hashtags": [
+        "#SafetrustMortgage",
+        "#MortgageIntelligenceDaily",
+        "#loanofficer",
+        "#mortgagebroker",
+        "#homebuying"
+      ],
+      "hook_tag": "Reforma crediticia",
+      "hook": "Los reportes de crédito de una o dos agencias ya son una opción.",
+      "what_happened_heading": "Propuesta de cambio crediticio de la FHFA",
+      "what_happened": "La FHFA evalúa permitir reportes de crédito de una o dos agencias para préstamos conformes. También busca incluir el sistema VantageScore junto con el modelo FICO tradicional.",
+      "breakdown": [
+        {
+          "heading": "Reducción de costos para el comprador",
+          "body": "Pasar de tres agencias de crédito a dos o una reduce los costos del reporte. Eso disminuye de inmediato los gastos de cierre iniciales para el comprador."
+        },
+        {
+          "heading": "Diferencias de puntaje crean variaciones",
+          "body": "Eliminar una agencia cambia cómo se selecciona el puntaje medio del comprador. Esto puede modificar la categoría de calificación y alterar la tasa de interés de un día para otro."
+        },
+        {
+          "heading": "Impacto en los sistemas automatizados",
+          "body": "Los sistemas automáticos usan tres agencias para calcular la relación deuda-ingreso (DTI). Al quitar una agencia, el sistema debe recalcular el riesgo con menos información."
+        },
+        {
+          "heading": "Inclusión del puntaje VantageScore",
+          "body": "VantageScore toma en cuenta pagos de renta y servicios. Esto abre puertas de aprobación a compradores que tienen un historial crediticio tradicional muy corto."
+        }
+      ],
+      "my_take_heading": "Ajustar el puntaje cambia las aprobaciones",
+      "my_take": "Menos agencias reducen costos, pero generan cambios bruscos en el puntaje. El asesor verá aprobaciones cambiar radicalmente según la agencia de crédito que decida eliminarse del reporte.",
+      "action_lo": "Revisa preaprobaciones con historial pequeño para ver si VantageScore aumenta la capacidad de compra del cliente.",
+      "action_realtor": "Prepara a tus clientes para posibles cambios en la calificación crediticia mientras Fannie y Freddie actualizan sus requisitos.",
+      "cta_question": "¿Usar dos agencias de crédito facilitará la evaluación del préstamo o generará más complicaciones?"
+    }
   ]
 }
