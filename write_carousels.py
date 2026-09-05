@@ -1,7 +1,7 @@
 """
 Turn daily_news.json into structured slide copy for 3 Instagram carousels, using
 Google Gemini 2.5 Flash (free tier via Google AI Studio) with structured outputs.
-Gemini picks the 3 most engaging stories and writes the copy for each 7-slide arc;
+Gemini picks the 4 most engaging stories and writes the copy for each 9-slide arc;
 the layout is rendered deterministically by generate_carousels.py (the model never
 emits HTML).
 
@@ -281,7 +281,7 @@ class Carousel(BaseModel):
 
 
 class Output(BaseModel):
-    carousels: List[Carousel]  # exactly 3
+    carousels: List[Carousel]  # exactly 4
 
 
 TRANSLATE_SYSTEM = """You are a bilingual social media writer for QuieroUnaCasa.com, \
@@ -318,7 +318,7 @@ that label.
 "Lo que sucedio" as a heading.
 - The result must read like it was WRITTEN in Spanish by a mortgage pro who posts on \
 Instagram every day — punchy, human, quotable.
-- Return the same JSON structure with exactly 3 carousels in the same order.
+- Return the same JSON structure with exactly 4 carousels in the same order.
 - Plain text only — no HTML, no markdown."""
 
 
@@ -380,9 +380,9 @@ is your signature — you don't just report mortgage news, you explain what it m
 file level, the pipeline level, and the P&L level.
 
 TASK
-From the day's mortgage/housing headlines below, pick the THREE stories with the strongest, \
+From the day's mortgage/housing headlines below, pick the FOUR stories with the strongest, \
 most non-obvious takes for an industry audience and turn each into an Instagram carousel \
-script. Return exactly 3 carousels.
+script. Return exactly 4 carousels.
 
 AUDIENCE
 Mortgage executives, high-level loan officers, and top-producing realtors. They're smart and \
@@ -428,7 +428,7 @@ HARD RULES
 is needed that the source doesn't provide, write "[VERIFY: ...]" inline so it can be fact-checked.
 - No rate quotes, no guarantees, no "now is the best time to buy." Educational framing only.
 - Prefer stories that genuinely support a strong take. If a headline only supports a weak take, pick \
-a different one — you must still return 3 carousels, each with a real, earned insight.
+a different one — you must still return 4 carousels, each with a real, earned insight.
 - Plain text only — no HTML, no markdown."""
 
 
@@ -542,8 +542,8 @@ def generate_english():
         _client(),
         contents=(
             f"Today's mortgage and housing headlines:\n\n{news_block}\n\n"
-            "Pick the 3 most engaging stories for prospective home buyers and write "
-            "all three carousels."
+            "Pick the 4 most engaging stories for prospective home buyers and write "
+            "all four carousels."
         ),
         system_instruction=SYSTEM,
         response_schema=Output,

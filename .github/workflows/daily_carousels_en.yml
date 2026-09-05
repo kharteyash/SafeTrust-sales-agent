@@ -124,7 +124,7 @@ jobs:
           python - <<'PY' >> "$GITHUB_OUTPUT"
           import json
           data = json.load(open("carousel_content.json"))
-          for i, c in enumerate(data["carousels"][:3], 1):
+          for i, c in enumerate(data["carousels"][:4], 1):
               title = c.get("title", f"Carousel {i}").replace("\n", " ").strip()
               caption = c.get("caption", "").replace("\r", "").strip()
               print(f"t{i}={title}")
@@ -142,11 +142,11 @@ jobs:
           secure: true
           username: ${{ secrets.MAIL_USERNAME }}
           password: ${{ secrets.MAIL_PASSWORD }}
-          subject: "Carousel 1/3 — ${{ steps.titles.outputs.t1 }} (${{ steps.guard.outputs.today }})"
+          subject: "Carousel 1/4 — ${{ steps.titles.outputs.t1 }} (${{ steps.guard.outputs.today }})"
           to: malaez@safetrustmtg.com
           from: SafeTrust Carousels <${{ secrets.MAIL_USERNAME }}>
           body: |
-            Carousel 1 of 3 — ${{ steps.titles.outputs.t1 }}
+            Carousel 1 of 4 — ${{ steps.titles.outputs.t1 }}
             9 slides attached (1080x1350 PNG).
 
             Caption:
@@ -162,11 +162,11 @@ jobs:
           secure: true
           username: ${{ secrets.MAIL_USERNAME }}
           password: ${{ secrets.MAIL_PASSWORD }}
-          subject: "Carousel 2/3 — ${{ steps.titles.outputs.t2 }} (${{ steps.guard.outputs.today }})"
+          subject: "Carousel 2/4 — ${{ steps.titles.outputs.t2 }} (${{ steps.guard.outputs.today }})"
           to: malaez@safetrustmtg.com
           from: SafeTrust Carousels <${{ secrets.MAIL_USERNAME }}>
           body: |
-            Carousel 2 of 3 — ${{ steps.titles.outputs.t2 }}
+            Carousel 2 of 4 — ${{ steps.titles.outputs.t2 }}
             9 slides attached (1080x1350 PNG).
 
             Caption:
@@ -182,13 +182,33 @@ jobs:
           secure: true
           username: ${{ secrets.MAIL_USERNAME }}
           password: ${{ secrets.MAIL_PASSWORD }}
-          subject: "Carousel 3/3 — ${{ steps.titles.outputs.t3 }} (${{ steps.guard.outputs.today }})"
+          subject: "Carousel 3/4 — ${{ steps.titles.outputs.t3 }} (${{ steps.guard.outputs.today }})"
           to: malaez@safetrustmtg.com
           from: SafeTrust Carousels <${{ secrets.MAIL_USERNAME }}>
           body: |
-            Carousel 3 of 3 — ${{ steps.titles.outputs.t3 }}
+            Carousel 3 of 4 — ${{ steps.titles.outputs.t3 }}
             9 slides attached (1080x1350 PNG).
 
             Caption:
             ${{ steps.titles.outputs.c3 }}
           attachments: carousels/slides/carousel_3/slide_*.png
+
+      - name: Email carousel 4
+        if: steps.guard.outputs.run == 'true'
+        uses: dawidd6/action-send-mail@v3
+        with:
+          server_address: smtp.gmail.com
+          server_port: 465
+          secure: true
+          username: ${{ secrets.MAIL_USERNAME }}
+          password: ${{ secrets.MAIL_PASSWORD }}
+          subject: "Carousel 4/4 — ${{ steps.titles.outputs.t4 }} (${{ steps.guard.outputs.today }})"
+          to: malaez@safetrustmtg.com
+          from: SafeTrust Carousels <${{ secrets.MAIL_USERNAME }}>
+          body: |
+            Carousel 4 of 4 — ${{ steps.titles.outputs.t4 }}
+            9 slides attached (1080x1350 PNG).
+
+            Caption:
+            ${{ steps.titles.outputs.c4 }}
+          attachments: carousels/slides/carousel_4/slide_*.png

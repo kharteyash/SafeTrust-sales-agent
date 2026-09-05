@@ -121,7 +121,7 @@ jobs:
           python - <<'PY' >> "$GITHUB_OUTPUT"
           import json
           data = json.load(open("carousel_content.json"))
-          for i, c in enumerate(data.get("carousels_es", [])[:3], 1):
+          for i, c in enumerate(data.get("carousels_es", [])[:4], 1):
               title = c.get("title", f"Carrusel {i}").replace("\n", " ").strip()
               caption = c.get("caption", "").replace("\r", "").strip()
               print(f"t{i}={title}")
@@ -139,16 +139,16 @@ jobs:
           secure: true
           username: ${{ secrets.MAIL_USERNAME }}
           password: ${{ secrets.MAIL_PASSWORD }}
-          subject: "Carrusel 1/3 (Español) — ${{ steps.titles.outputs.t1 }} (${{ steps.guard.outputs.today }})"
+          subject: "Carrusel 1/4 (Español) — ${{ steps.titles.outputs.t1 }} (${{ steps.guard.outputs.today }})"
           to: malaez@safetrustmtg.com
           from: SafeTrust Carousels <${{ secrets.MAIL_USERNAME }}>
           body: |
-            Carrusel 1 de 3 en español (QuieroUnaCasa.com) — ${{ steps.titles.outputs.t1 }}
+            Carrusel 1 de 4 en español (QuieroUnaCasa.com) — ${{ steps.titles.outputs.t1 }}
             9 slides attached (1080x1350 PNG).
 
             Caption:
             ${{ steps.titles.outputs.c1 }}
-          attachments: carousels/slides/carousel_4/slide_*.png
+          attachments: carousels/slides/carousel_5/slide_*.png
 
       - name: Email Spanish carousel 2
         if: steps.guard.outputs.run == 'true'
@@ -159,16 +159,16 @@ jobs:
           secure: true
           username: ${{ secrets.MAIL_USERNAME }}
           password: ${{ secrets.MAIL_PASSWORD }}
-          subject: "Carrusel 2/3 (Español) — ${{ steps.titles.outputs.t2 }} (${{ steps.guard.outputs.today }})"
+          subject: "Carrusel 2/4 (Español) — ${{ steps.titles.outputs.t2 }} (${{ steps.guard.outputs.today }})"
           to: malaez@safetrustmtg.com
           from: SafeTrust Carousels <${{ secrets.MAIL_USERNAME }}>
           body: |
-            Carrusel 2 de 3 en español (QuieroUnaCasa.com) — ${{ steps.titles.outputs.t2 }}
+            Carrusel 2 de 4 en español (QuieroUnaCasa.com) — ${{ steps.titles.outputs.t2 }}
             9 slides attached (1080x1350 PNG).
 
             Caption:
             ${{ steps.titles.outputs.c2 }}
-          attachments: carousels/slides/carousel_5/slide_*.png
+          attachments: carousels/slides/carousel_6/slide_*.png
 
       - name: Email Spanish carousel 3
         if: steps.guard.outputs.run == 'true'
@@ -179,13 +179,33 @@ jobs:
           secure: true
           username: ${{ secrets.MAIL_USERNAME }}
           password: ${{ secrets.MAIL_PASSWORD }}
-          subject: "Carrusel 3/3 (Español) — ${{ steps.titles.outputs.t3 }} (${{ steps.guard.outputs.today }})"
+          subject: "Carrusel 3/4 (Español) — ${{ steps.titles.outputs.t3 }} (${{ steps.guard.outputs.today }})"
           to: malaez@safetrustmtg.com
           from: SafeTrust Carousels <${{ secrets.MAIL_USERNAME }}>
           body: |
-            Carrusel 3 de 3 en español (QuieroUnaCasa.com) — ${{ steps.titles.outputs.t3 }}
+            Carrusel 3 de 4 en español (QuieroUnaCasa.com) — ${{ steps.titles.outputs.t3 }}
             9 slides attached (1080x1350 PNG).
 
             Caption:
             ${{ steps.titles.outputs.c3 }}
-          attachments: carousels/slides/carousel_6/slide_*.png
+          attachments: carousels/slides/carousel_7/slide_*.png
+
+      - name: Email Spanish carousel 4
+        if: steps.guard.outputs.run == 'true'
+        uses: dawidd6/action-send-mail@v3
+        with:
+          server_address: smtp.gmail.com
+          server_port: 465
+          secure: true
+          username: ${{ secrets.MAIL_USERNAME }}
+          password: ${{ secrets.MAIL_PASSWORD }}
+          subject: "Carrusel 4/4 (Español) — ${{ steps.titles.outputs.t4 }} (${{ steps.guard.outputs.today }})"
+          to: malaez@safetrustmtg.com
+          from: SafeTrust Carousels <${{ secrets.MAIL_USERNAME }}>
+          body: |
+            Carrusel 4 de 4 en español (QuieroUnaCasa.com) — ${{ steps.titles.outputs.t4 }}
+            9 slides attached (1080x1350 PNG).
+
+            Caption:
+            ${{ steps.titles.outputs.c4 }}
+          attachments: carousels/slides/carousel_8/slide_*.png

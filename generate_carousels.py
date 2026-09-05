@@ -601,30 +601,30 @@ def main():
             "(it turns daily_news.json into slide copy via Claude)."
         )
     data = json.loads(content_path.read_text(encoding="utf-8"))
-    carousels = data["carousels"][:3]
-    carousels_es = data.get("carousels_es", [])[:3]
+    carousels = data["carousels"][:4]
+    carousels_es = data.get("carousels_es", [])[:4]
     if lang == "es" and not carousels_es:
         raise SystemExit("carousel_content.json has no carousels_es yet — "
                          "run `python write_carousels.py es` first.")
 
-    # Cover colours alternate by day: one day 2 white + 1 blue, the next 2 blue +
-    # 1 white, repeating. The run date drives it (and rotates which cover is blue),
-    # so the split English/Spanish runs compute identical colours. Each Spanish
-    # carousel mirrors its English counterpart's cover colour.
-    n = len(carousels) or 3
+    # Cover colours: an even blue/white split, with WHICH covers are blue
+    # rotating by run date — deterministic, so the split English/Spanish runs
+    # compute identical colours and each Spanish carousel mirrors its English
+    # counterpart's cover.
+    n = len(carousels) or 4
     d = _TODAY.toordinal()
-    blue_count = min(2 if d % 2 == 0 else 1, n)  # even day -> 2 blue, odd day -> 1 blue
+    blue_count = n // 2
     start = d % n
     blue_covers = {(start + k) % n for k in range(blue_count)}
     print(f"Cover colours today: {blue_count} blue / {n - blue_count} white "
           f"(blue = carousels {sorted(i + 1 for i in blue_covers)})")
 
-    # Carousels 1-3: English. Carousels 4-6: the Spanish translations (QUC brand).
+    # Carousels 1-4: English. Carousels 5-8: the Spanish translations (QUC brand).
     renders = []
     if lang in ("en", "all"):
         renders += [(i + 1, c, "en", i in blue_covers) for i, c in enumerate(carousels)]
     if lang in ("es", "all"):
-        renders += [(i + 4, c, "es", i in blue_covers) for i, c in enumerate(carousels_es)]
+        renders += [(i + 5, c, "es", i in blue_covers) for i, c in enumerate(carousels_es)]
 
     out_dir = base / "carousels"
     out_dir.mkdir(exist_ok=True)

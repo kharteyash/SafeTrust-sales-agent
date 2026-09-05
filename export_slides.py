@@ -17,10 +17,10 @@ from pathlib import Path
 from playwright.async_api import async_playwright
 
 BASE = Path(__file__).parent / "carousels"
-# Which carousels to export: "en" -> 1-3, "es" -> 4-6, default all present.
+# Which carousels to export: "en" -> 1-4, "es" -> 5-8, default all present.
 LANG = sys.argv[1] if len(sys.argv) > 1 else "all"
-_RANGES = {"en": ("carousel_1.html", "carousel_2.html", "carousel_3.html"),
-           "es": ("carousel_4.html", "carousel_5.html", "carousel_6.html")}
+_RANGES = {"en": tuple(f"carousel_{i}.html" for i in range(1, 5)),
+           "es": tuple(f"carousel_{i}.html" for i in range(5, 9))}
 CAROUSELS = [n for n in (_RANGES.get(LANG) or
                          sorted(p.name for p in BASE.glob("carousel_*.html")))
              if (BASE / n).exists()]
