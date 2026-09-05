@@ -101,7 +101,8 @@ def _shrink_contents(contents, limit=6500):
     return contents[:cut] + "\n[additional headlines omitted for length]"
 
 
-def _fallback_generate(contents, system_instruction, response_schema, max_output_tokens):
+def _fallback_generate(contents, system_instruction, response_schema, max_output_tokens,
+                       validate=None):
     """Last-resort generation via the OpenAI-compatible FALLBACK_PROVIDERS, in order.
     Returns a _RawResponse with JSON text, or None if no provider has a key set or
     every model of every keyed provider fails."""
@@ -156,7 +157,9 @@ def _fallback_generate(contents, system_instruction, response_schema, max_output
                         text = text[text.find("{"):text.rfind("}") + 1]
                     # Validate here so truncated/malformed JSON tries the next
                     # model instead of crashing the run later.
-                    response_schema.model_validate_json(text)
+                    obj = response_schema.model_validate_json(text)
+                    if validate:
+                        validate(obj)  # content check — failure moves to next model
                     print(f"{provider['name']}: generated with {model}")
                     return _RawResponse(text)
                 except urllib.error.HTTPError as exc:
@@ -200,7 +203,7 @@ def _fallback_generate(contents, system_instruction, response_schema, max_output
 
 def generate_with_fallback(client, contents, *, system_instruction, response_schema,
                            max_output_tokens=8192, models=None, attempts_per_model=3,
-                           base_delay=6):
+                           base_delay=6, validate=None):
     """Call Gemini, trying each model in MODELS until one succeeds. Each model gets
     retries on transient errors (6am ET demand spikes 503 for a minute or two)
     before moving on. When a retired model's 404 names its replacement, that model
@@ -226,10 +229,15 @@ def generate_with_fallback(client, contents, *, system_instruction, response_sch
                 resp = client.models.generate_content(model=model, contents=contents, config=config)
                 # Validate BEFORE accepting: a response truncated at the output
                 # cap is invalid JSON and must retry/fail over, not crash later.
-                if resp.parsed is None:
+                parsed = resp.parsed
+                if parsed is None:
                     if not resp.text:
                         raise ValueError("empty response (validation error)")
-                    response_schema.model_validate_json(resp.text)
+                    parsed = response_schema.model_validate_json(resp.text)
+                if validate:
+                    # Content check (e.g. "is it actually Spanish?") — a model
+                    # that fails it is treated as failed so the chain moves on.
+                    validate(parsed)
                 print(f"Gemini: generated with {model}")
                 return resp
             except Exception as exc:  # noqa: BLE001 — fail over across models
@@ -250,7 +258,8 @@ def generate_with_fallback(client, contents, *, system_instruction, response_sch
 
     # Every Gemini model failed — last resort: xAI, then SambaNova (keyed via env).
     print("All Gemini models failed — falling back to xAI/SambaNova.")
-    fb = _fallback_generate(contents, system_instruction, response_schema, max_output_tokens)
+    fb = _fallback_generate(contents, system_instruction, response_schema, max_output_tokens,
+                            validate=validate)
     if fb is not None:
         return fb
     raise RuntimeError(f"All Gemini models failed ({', '.join(models)}) and every "
@@ -352,6 +361,16 @@ def translate_carousels(client, carousels):
     payload = json.dumps({"carousels": [c.model_dump() for c in carousels]},
                          ensure_ascii=False, separators=(",", ":"))
     contents = f"Translate these carousels into Spanish:\n\n{payload}"
+
+    def _check(out):
+        """Run inside the model-failover loop: a model that echoes the English
+        untranslated is treated as failed and the NEXT model is tried."""
+        if len(out.carousels) != len(carousels):
+            raise ValueError(f"expected {len(carousels)} translated carousels, "
+                             f"got {len(out.carousels)} (validation error)")
+        if not _actually_spanish(carousels, out.carousels):
+            raise ValueError("output is untranslated English — failing over")
+
     for attempt in (1, 2):
         try:
             resp = generate_with_fallback(
@@ -360,6 +379,7 @@ def translate_carousels(client, carousels):
                 system_instruction=TRANSLATE_SYSTEM,
                 response_schema=Output,
                 max_output_tokens=16384,  # 4 translated carousels + Gemini 3.x thinking
+                validate=_check,
             )
             parsed = resp.parsed
             if parsed is None:
