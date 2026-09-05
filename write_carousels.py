@@ -39,8 +39,10 @@ MODELS = [
 ]
 
 # Substrings that mark a transient/availability error worth retrying or failing over.
+# Truncated/malformed JSON is transient too — output length varies run to run.
 _TRANSIENT = ("503", "overloaded", "unavailable", "429", "resource_exhausted",
-              "500", "internal", "deadline", "timeout")
+              "500", "internal", "deadline", "timeout",
+              "json_invalid", "eof while parsing", "validation error")
 
 # Fallback providers when every Gemini model fails, tried in order: Groq (free
 # tier), then Cerebras, then xAI (Grok), then SambaNova Cloud. All are
@@ -115,7 +117,8 @@ def _fallback_generate(contents, system_instruction, response_schema, max_output
             continue
         cap = provider.get("req_cap")
         for model in provider["models"]:
-            mt = max_output_tokens
+            # Free-tier fallbacks can't take Gemini-sized completion budgets.
+            mt = min(max_output_tokens, 8192)
             cont = contents
             if cap:
                 # Pre-size to the provider's per-request cap: leave the model a
@@ -221,6 +224,12 @@ def generate_with_fallback(client, contents, *, system_instruction, response_sch
         for attempt in range(1, attempts_per_model + 1):
             try:
                 resp = client.models.generate_content(model=model, contents=contents, config=config)
+                # Validate BEFORE accepting: a response truncated at the output
+                # cap is invalid JSON and must retry/fail over, not crash later.
+                if resp.parsed is None:
+                    if not resp.text:
+                        raise ValueError("empty response (validation error)")
+                    response_schema.model_validate_json(resp.text)
                 print(f"Gemini: generated with {model}")
                 return resp
             except Exception as exc:  # noqa: BLE001 — fail over across models
@@ -350,7 +359,7 @@ def translate_carousels(client, carousels):
                 contents=contents,
                 system_instruction=TRANSLATE_SYSTEM,
                 response_schema=Output,
-                max_output_tokens=8192,
+                max_output_tokens=16384,  # 4 translated carousels + Gemini 3.x thinking
             )
             parsed = resp.parsed
             if parsed is None:
@@ -547,7 +556,9 @@ def generate_english():
         ),
         system_instruction=SYSTEM,
         response_schema=Output,
-        max_output_tokens=8192,
+        # 4 carousels of JSON (plus model thinking on Gemini 3.x, which counts
+        # toward the output cap) no longer fit in 8192.
+        max_output_tokens=16384,
     )
     # response.parsed is an Output instance when response_schema is a Pydantic model;
     # fall back to parsing the raw JSON text if the SDK didn't hydrate it.
