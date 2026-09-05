@@ -1,12 +1,12 @@
 {
   "carousels": [
     {
-      "slug": "inventory-surge-4-year-high",
-      "title": "New listings hit 4-year high while demand stays flat",
-      "source": "Redfin",
-      "source_url": "https://www.redfin.com/news/housing-market-update-new-listings-4-year-high/",
-      "cover_text": "Four-year listing high gives buyers leverage",
-      "caption": "More inventory is hitting the market, but listing selection does not clear underwriting hurdles on its own. Fresh listings reached their highest level since August 2022 during the four weeks ending August 30, up 2.1 percent from the previous week. While buyer demand stays flat, shoppers have more choices than they have seen in years. But price drops often cover up deferred maintenance that underwriters (the risk officers approving loans) will flag during property appraisals. Smart realtors are redirecting buyer leverage into seller credits to cover closing costs rather than fighting over minor price cuts. As loan officers, our job is ensuring these credit concessions match investor caps before contracts are signed. Inventory surges create opportunities, but only if the file structure holds up in underwriting.\n\nSource : https://tinyurl.com/28snsf9s\n#SafetrustMortgage #MortgageIntelligenceDaily #housingmarket #realestateagent #homebuying",
+      "slug": "ice-raids-builder-pipeline",
+      "title": "ICE Enforcement Strains Builder Pipelines",
+      "source": "HousingWire",
+      "source_url": "https://www.housingwire.com/articles/ice-enforcement-labor-costs/",
+      "cover_text": "ICE raids threaten your homebuilder closings",
+      "caption": "ICE arrests jumped to 49,571 in July, up from 32,545 in May. That surge is hitting construction sites hard, pushing up subcontractor bids and delaying job completion. Most agents think this is just a minor delay on the job site. But in the back office, it wrecks loan locks and LTV (how much you borrow versus the home's value) calculations. When build timelines stretch, rate locks expire and appraisal updates are needed. Lenders won't fund a loan if the completion certificate isn't signed before the lock expires. You need to proactively manage rate locks and build buffers into purchase contracts today.\n\nSource : https://tinyurl.com/2794ufll\n#SafetrustMortgage #MortgageIntelligenceDaily #housingmarket #realestateagent #homebuying",
       "hashtags": [
         "#SafetrustMortgage",
         "#MortgageIntelligenceDaily",
@@ -14,245 +14,117 @@
         "#realestateagent",
         "#homebuying"
       ],
-      "hook_tag": "Market Shift",
-      "hook": "More choices do not guarantee easier underwriting approvals.",
-      "what_happened_heading": "Fresh listings hit four-year high point",
-      "what_happened": "New listings of homes for sale rose 2.1 percent from a week earlier on a seasonally adjusted basis. Demand remained flat over the four weeks ending August 30 while fresh options climbed to a four-year high.",
+      "hook_tag": "Construction Risk",
+      "hook": "Labor shortages are about to break builder closing schedules.",
+      "what_happened_heading": "Builder delays worsen",
+      "what_happened": "ICE arrests increased from 32,545 in May to 49,571 in July. Homebuilders now face severe labor shortages, higher trade bids, and delayed property closings.",
       "breakdown": [
         {
-          "heading": "Inventory is finally decoupling from buyer demand",
-          "body": "Sellers are listing properties again despite elevated interest rates. Flat demand means buyers finally have room to negotiate terms and seller concessions."
+          "heading": "Labor costs spike",
+          "body": "Subcontractors are raising bids to cover labor shortages. That extra cost squeezes builder margins and pushes up final sale prices."
         },
         {
-          "heading": "Price cuts are hiding structural property flaws",
-          "body": "Sellers dropping prices often do so instead of making repairs. Underwriters (the people who decide if a loan gets approved) still flag deferred maintenance regardless of price drops."
+          "heading": "Construction cycles stall",
+          "body": "Fewer workers on job sites means framed homes sit longer. Build times stretch from weeks into months, delaying contract closing dates."
         },
         {
-          "heading": "Appraisal gaps are migrating to seller credits",
-          "body": "Buyers are using leverage to ask for closing cost assistance. This keeps loan balances high while lowering out-of-pocket cash needed at closing."
+          "heading": "Underwriting loan extension risk",
+          "body": "When draw schedules (cash payouts for construction milestones) lag, loan terms expire. Underwriters cannot clear final approval without valid rate locks and updated appraisals."
         },
         {
-          "heading": "Debt ratios still dictate final purchasing power",
-          "body": "More inventory gives buyers selection, not extra borrowing authority. Debt-to-income (DTI, how much income goes to debt) limits remain tight across all automated underwriting channels."
+          "heading": "Bank credit lines freeze",
+          "body": "Lenders slow down advances if build milestones are missed. That freezes builder liquidity right when they need cash to finish projects."
         }
       ],
-      "my_take_heading": "Selection leverage requires precise contract structuring",
-      "my_take": "Inventory surges do not lower underwriting hurdles; they just give buyers room to negotiate seller credits that solve cash-to-close bottlenecks instead of overpaying.",
-      "action_lo": "Structure pre-approvals around maximum seller concessions so buyers know exact credit caps before making offers.",
-      "action_realtor": "Target listings active over twenty days and negotiate seller-paid rate buydowns instead of simple price reductions.",
-      "cta_question": "Are your buyers using listing surges to negotiate price cuts or closing cost credits?"
+      "my_take_heading": "Builders face a credit pinch",
+      "my_take": "Everyone sees labor shortages as a construction delay, but underwriters see a credit crunch. Stalled builds trigger rate lock expirations and line extension fees that kill deal margins.",
+      "action_lo": "Audit all pending new-construction locks and negotiate lock extensions before build deadlines are missed.",
+      "action_realtor": "Add strict closing date flexibility clauses in purchase contracts for under-construction inventory.",
+      "cta_question": "Are your local builders already missing closing dates due to labor shortages?"
     },
     {
-      "slug": "uwm-hedge-loss-lawsuits",
-      "title": "UWM faces three shareholder lawsuits over $603M hedge loss",
-      "source": "National Mortgage Professional",
-      "source_url": "https://nationalmortgageprofessional.com/news/uwms-603-million-hedge-loss-has-drawn-three-shareholder-lawsuits-so-far",
-      "cover_text": "Inside the $603M hedge loss lawsuits",
-      "caption": "Operational balance sheet shocks at mega-wholesalers directly impact broker pipelines. United Wholesale Mortgage is now facing three shareholder lawsuits following a 603.2 million dollar derivatives loss tied to its failed Two Harbors deal. The litigation alleges UWM failed to disclose interest rate risk and questions board oversight. As underwriters, we know that secondary market liquidity directly impacts pricing overlays (stricter lender rules beyond agency guidelines). When giant wholesale lenders face margin compression or legal distractions, originators relying exclusively on one platform absorb the risk. Brokers need to maintain active relationships across multiple investors to shield clients from capital disruptions.\n\nSource : https://tinyurl.com/23ymxazl\n#SafetrustMortgage #MortgageIntelligenceDaily #mortgagebroker #loanofficer #mortgagerates",
+      "slug": "arm-vs-fixed-rate-history",
+      "title": "History Shows ARMs Win Most of the Time",
+      "source": "Redfin News",
+      "source_url": "https://www.redfin.com/news/arm-versus-fixed-rate-mortgage/",
+      "cover_text": "Why fixed rates aren't always the winner",
+      "caption": "Over the last 50 years, buyers saved money taking an adjustable-rate mortgage (ARM) 70% of the time instead of a 30-year fixed. Yet consumer fear keeps fixed loans at the top of every wishlist. Most buyers don't keep their original mortgage for 30 years—they move or refinance within seven. Lower initial ARM payments give buyers breathing room today, and history proves a refinance window usually opens before the rate resets. Underwriters stress-test ARMs against higher margin rates to ensure stability, so the safety risk is far lower than buyers think. It's time to reframe the math for your clients.\n\nSource : https://tinyurl.com/2cmg2cwb\n#SafetrustMortgage #MortgageIntelligenceDaily #mortgagerates #firsttimehomebuyer #mortgagebroker",
       "hashtags": [
         "#SafetrustMortgage",
         "#MortgageIntelligenceDaily",
-        "#mortgagebroker",
+        "#mortgagerates",
+        "#firsttimehomebuyer",
+        "#mortgagebroker"
+      ],
+      "hook_tag": "Mortgage Strategy",
+      "hook": "Choosing a fixed rate costs buyers more 70% of the time.",
+      "what_happened_heading": "ARM historical performance data",
+      "what_happened": "Redfin data shows buyers saved money with adjustable-rate mortgages 70% of the time over the last 50 years. Lower initial rates gave buyers opportunities to refinance before rates reset higher.",
+      "breakdown": [
+        {
+          "heading": "Lower upfront payments",
+          "body": "Adjustable mortgages start with lower interest rates than 30-year fixed loans. That cuts initial monthly housing costs for buyers immediately."
+        },
+        {
+          "heading": "The refinance safety net",
+          "body": "Historical rate cycles show rates drop within the initial fixed period. Most buyers refinance into lower fixed rates before the ARM resets."
+        },
+        {
+          "heading": "Underwriting qualification reality",
+          "body": "Underwriters stress-test (test if you can pay at higher potential rates) ARMs. That keeps DTI (how much of your income goes to debt) ratios honest while giving buyers lower payments."
+        },
+        {
+          "heading": "Average buyer tenure",
+          "body": "Most buyers move or refinance within seven years anyway. Paying a premium for a 30-year fixed rate often wastes money."
+        }
+      ],
+      "my_take_heading": "Fear costs buyers cash",
+      "my_take": "Homebuyers pay a massive premium for 30-year peace of mind they rarely use. An ARM isn't a gamble if you understand rate cycles and qualifying rules.",
+      "action_lo": "Present ARM comparison side-by-side with 30-year fixed options on every pre-approval deck.",
+      "action_realtor": "Educate hesitant buyers on initial ARM savings to help them beat affordability hurdles.",
+      "cta_question": "Would you pitch an ARM to a cautious buyer in today's market?"
+    },
+    {
+      "slug": "fhfa-bimerge-vantagescore-credit",
+      "title": "FHFA Considers Bi-Merge Credit Scoring",
+      "source": "HousingWire",
+      "source_url": "https://www.housingwire.com/articles/fhfa-bi-merge-credit-report-vantagescore-pulte/",
+      "cover_text": "Your credit report rules are about to change",
+      "caption": "The FHFA is weighing bi-merge and single credit report requirements, while expanding access to VantageScore. Dropping from three bureaus to two or one aims to cut loan costs for consumers. But in underwriting, changing credit inputs changes everything. The classic tri-merge uses the middle score across three bureaus. Dropping one bureau means automated underwriting systems must evaluate risk with less data, which can shift a borrower's interest rate tier unexpectedly. On the flip side, VantageScore factors in rent payments, opening doors for thin-file buyers. Get ready for major shifts in how files get cleared.\n\nSource : https://tinyurl.com/22gcrcv7\n#SafetrustMortgage #MortgageIntelligenceDaily #loanofficer #mortgagebroker #homebuying",
+      "hashtags": [
+        "#SafetrustMortgage",
+        "#MortgageIntelligenceDaily",
         "#loanofficer",
-        "#mortgagerates"
-      ],
-      "hook_tag": "Corporate Governance",
-      "hook": "Board oversight failure allegations threaten wholesale pipeline stability.",
-      "what_happened_heading": "Wholesale giant hit with shareholder litigation",
-      "what_happened": "United Wholesale Mortgage faces three shareholder lawsuits following a 603.2 million dollar derivatives loss tied to a failed acquisition. The legal filings allege misrepresentation of risks and inadequate board oversight regarding the interest rate position.",
-      "breakdown": [
-        {
-          "heading": "Derivative losses stem from rate volatility exposure",
-          "body": "The 603.2 million dollar loss resulted from hedging positions linked to the failed Two Harbors acquisition. Interest rate swings magnified the risk exposure quickly."
-        },
-        {
-          "heading": "Lawsuits target executive disclosure and board oversight",
-          "body": "The initial suit filed August 13 alleges UWM failed to disclose risk levels. Newer suits question how the board monitored derivative exposure during market shifts."
-        },
-        {
-          "heading": "Underwriters focus on counterparty liquidity and stability",
-          "body": "Operating margin shocks test secondary market liquidity. Underwriters and risk committees closely monitor warehouse lines (short-term bank credit lines for lenders) when wholesale giants face litigation."
-        },
-        {
-          "heading": "Broker dependence creates operational pipeline concentration risk",
-          "body": "Independent brokers relying on single-wholesaler tech infrastructure risk pipeline disruption if corporate capital reserves or pricing margins get squeezed to absorb losses."
-        }
-      ],
-      "my_take_heading": "Operational exposure matters more than headline noise",
-      "my_take": "A 603 million dollar hedge loss is not just a corporate balance sheet event; it forces originators to diversify secondary market outlets before margin compression impacts pricing.",
-      "action_lo": "Diversify your wholesale investor matrix immediately to protect loan pipelines against single-lender operational or pricing shocks.",
-      "action_realtor": "Partner with originators who maintain multiple wholesale lending channels rather than relying on a single funding source.",
-      "cta_question": "How are you managing secondary counterparty risk in your broker shop today?"
-    },
-    {
-      "slug": "tax-deferral-versus-reverse-mortgage",
-      "title": "Lien priority conflicts block property tax deferrals and reverse mortgages",
-      "source": "The Mortgage Reports",
-      "source_url": "https://themortgagereports.com/134058/property-tax-deferral-vs-reverse-mortgage",
-      "cover_text": "Why tax deferrals kill reverse mortgages",
-      "caption": "Senior homeowners seeking relief often run straight into a title brick wall. Local property tax deferral programs seem helpful, but they create first-priority government liens on home titles. When a senior tries to get a reverse mortgage, underwriters (the risk decision-makers) hit the brakes because FHA (Federal Housing Administration) requires clear first-lien status. The tax deferral balance must be paid off at closing, reducing net proceeds or stalling the file entirely. Originators need to review preliminary title reports early for any state or county deferral markers. Clearing tax liens upfront prevents major funding delays for senior clients.\n\nSource : https://tinyurl.com/25vmute8\n#SafetrustMortgage #MortgageIntelligenceDaily #housingmarket #mortgagebroker #loanofficer",
-      "hashtags": [
-        "#SafetrustMortgage",
-        "#MortgageIntelligenceDaily",
-        "#housingmarket",
         "#mortgagebroker",
-        "#loanofficer"
-      ],
-      "hook_tag": "Underwriting Risk",
-      "hook": "State tax deferrals create silent title liens that freeze refinancing.",
-      "what_happened_heading": "Tax relief programs trigger title lien conflicts",
-      "what_happened": "Senior homeowners using local property tax deferral programs face hidden conflicts when applying for reverse mortgages. State and county tax deferrals create senior lien positions that prevent reverse mortgage lenders from securing first-lien priority.",
-      "breakdown": [
-        {
-          "heading": "Tax deferrals create automatic first-priority government liens",
-          "body": "Counties deferring property taxes secure those balances with super-priority liens. These tax liens take legal precedence over existing or future mortgages on the property title."
-        },
-        {
-          "heading": "Title priority rules block reverse mortgage approvals",
-          "body": "Reverse mortgage lenders require first-lien position to insure the loan. An active tax deferral violates FHA (Federal Housing Administration) guidelines until the tax lien is satisfied."
-        },
-        {
-          "heading": "Underwriters freeze files until tax claims clear",
-          "body": "In underwriting, an unrecorded or active tax deferral acts like delinquent property taxes. Title commitments will flag these claims, stopping loan funding immediately."
-        },
-        {
-          "heading": "Payoff demands reduce available home equity proceeds",
-          "body": "Resolving the conflict requires paying off deferred taxes directly from reverse mortgage proceeds. This reduces the borrower's usable cash equity at closing."
-        }
-      ],
-      "my_take_heading": "Silent title liens destroy equity strategies quietly",
-      "my_take": "Tax deferrals are not free relief; they are government debt that freezes reverse mortgage qualification until title clearance and equity payoff take priority.",
-      "action_lo": "Review title commitments early for municipal tax deferral entries before submitting senior reverse mortgage files to processing.",
-      "action_realtor": "Ask senior seller clients if they participate in tax deferral programs before setting listing timelines or estimated net proceeds.",
-      "cta_question": "Have you ever had a senior transaction derailed by an unexpected tax deferral lien?"
-    }
-  ],
-  "carousels_es": [
-    {
-      "slug": "inventory-surge-4-year-high",
-      "title": "Nuevas propiedades en venta alcanzan máximo de 4 años mientras la demanda sigue estable",
-      "source": "Redfin",
-      "source_url": "https://www.redfin.com/news/housing-market-update-new-listings-4-year-high/",
-      "cover_text": "Más casas en venta dan ventaja a compradores",
-      "caption": "Hay más casas disponibles, pero tener opciones no asegura la aprobación del préstamo.\n\nLas nuevas opciones en el mercado alcanzaron su nivel más alto desde agosto de 2022 durante las cuatro semanas hasta el 30 de agosto, subiendo un 2.1 por ciento respecto a la semana anterior. La demanda de los compradores sigue estable, dándote más alternativas de las que has visto en años. Sin embargo, las bajadas de precio a menudo ocultan mantenimientos pendientes que el asesor (underwriter) señalará en la tasación. Los agentes inteligentes están canalizando esta ventaja para conseguir créditos del vendedor que cubran costos de cierre, en lugar de pelear rebajas menores. Nuestro trabajo como oficiales de préstamo es asegurar que esos créditos cumplan los límites antes de firmar. Hay grandes oportunidades en el mercado, pero el contrato debe estructurarse bien.\n\nFuente : https://tinyurl.com/28snsf9s\n#SafetrustMortgage #MortgageIntelligenceDaily #housingmarket #realestateagent #homebuying",
-      "hashtags": [
-        "#SafetrustMortgage",
-        "#MortgageIntelligenceDaily",
-        "#housingmarket",
-        "#realestateagent",
         "#homebuying"
       ],
-      "hook_tag": "Giro en el mercado",
-      "hook": "Tener más opciones no garantiza aprobaciones de préstamo más fáciles.",
-      "what_happened_heading": "Las casas en venta alcanzan su punto más alto en cuatro años",
-      "what_happened": "Las nuevas casas en venta subieron un 2.1 por ciento respecto a la semana anterior. La demanda se mantuvo estable durante cuatro semanas hasta el 30 de agosto, mientras la oferta alcanzó un máximo de cuatro años.",
+      "hook_tag": "Credit Reform",
+      "hook": "Single and bi-merge credit reports are officially on the table.",
+      "what_happened_heading": "FHFA credit shift proposed",
+      "what_happened": "The FHFA is considering bi-merge and single credit report options for conforming loans. They are also opening access to VantageScore alongside traditional FICO models.",
       "breakdown": [
         {
-          "heading": "La oferta por fin se separa de la demanda",
-          "body": "Los vendedores están publicando más propiedades a pesar de las tasas altas. La demanda estable les da espacio a los compradores para negociar mejores condiciones y créditos."
+          "heading": "Cutting borrower fee burdens",
+          "body": "Dropping from three credit bureaus to two or one cuts credit report fees. That lowers upfront closing costs for prospective buyers immediately."
         },
         {
-          "heading": "Bajar precios oculta fallas en las propiedades",
-          "body": "Muchos vendedores bajan precios en lugar de hacer reparaciones. El asesor que evalúa tu crédito señalará los mantenimientos pendientes sin importar la rebaja de precio."
+          "heading": "Score variance creates friction",
+          "body": "Dropping a bureau changes how middle credit scores are picked. That can shift a buyer's qualifying tier and change pricing overnight."
         },
         {
-          "heading": "La negociación se mueve hacia créditos del vendedor",
-          "body": "Los compradores aprovechan su ventaja para pedir ayuda con los costos de cierre. Esto reduce el dinero en efectivo necesario el día de la firma."
+          "heading": "Underwriting engine impact",
+          "body": "Underwriting engines rely on tri-merge data for DTI (how much of your income goes to debt) calculations. Removing a bureau forces automated systems to recalibrate risk algorithms."
         },
         {
-          "heading": "Tus ingresos y deudas aún mandan",
-          "body": "Tener más opciones no significa que puedas pedir más prestado. Los límites de la relación deuda-ingreso (DTI) siguen siendo estrictos al evaluar tu préstamo."
+          "heading": "VantageScore adoption expands",
+          "body": "VantageScore counts alternative credit data like rental payments. That expands approval potential for buyers with thin traditional credit files."
         }
       ],
-      "my_take_heading": "Aprovechar las opciones requiere estructurar bien el contrato",
-      "my_take": "Un aumento de casas a la venta no relaja las reglas de aprobación. Solo te da espacio para negociar créditos del vendedor que cubran tus gastos de cierre en lugar de pelear por rebajas pequeñas.",
-      "action_lo": "Estructura las preaprobaciones considerando el límite máximo de créditos del vendedor antes de que el cliente envíe una oferta.",
-      "action_realtor": "Busca propiedades con más de veinte días en el mercado y negocia reducciones de tasa pagadas por el vendedor.",
-      "cta_question": "¿Tus compradores están usando el aumento de inventario para pedir rebajas de precio o créditos de cierre?"
-    },
-    {
-      "slug": "uwm-hedge-loss-lawsuits",
-      "title": "UWM enfrenta tres demandas de accionistas tras pérdida de $603M en coberturas",
-      "source": "National Mortgage Professional",
-      "source_url": "https://nationalmortgageprofessional.com/news/uwms-603-million-hedge-loss-has-drawn-three-shareholder-lawsuits-so-far",
-      "cover_text": "Demandas por pérdida de $603M en coberturas",
-      "caption": "Los problemas financieros de los grandes prestamistas mayoristas impactan directamente tus préstamos.\n\nUnited Wholesale Mortgage enfrenta tres demandas de accionistas tras perder 603.2 millones de dólares en derivados relacionados con el acuerdo fallido de Two Harbors. Las demandas alegan que UWM no reveló el riesgo de tasa de interés y cuestionan a la junta directiva. Como asesores de crédito, sabemos que la liquidez del mercado secundario afecta las reglas del prestamista. Cuando un gigante mayorista sufre pérdidas o distracciones legales, los originadores que dependen de una sola plataforma absorben el impacto. Los brokers deben mantener relaciones activas con varios inversionistas para proteger a sus clientes ante interrupciones de capital.\n\nFuente : https://tinyurl.com/23ymxazl\n#SafetrustMortgage #MortgageIntelligenceDaily #mortgagebroker #loanofficer #mortgagerates",
-      "hashtags": [
-        "#SafetrustMortgage",
-        "#MortgageIntelligenceDaily",
-        "#mortgagebroker",
-        "#loanofficer",
-        "#mortgagerates"
-      ],
-      "hook_tag": "Gobierno corporativo",
-      "hook": "Fallas de supervisión corporativa amenazan la estabilidad de tus préstamos.",
-      "what_happened_heading": "Gigante mayorista enfrenta demandas de sus accionistas",
-      "what_happened": "United Wholesale Mortgage enfrenta tres demandas de accionistas tras una pérdida de 603.2 millones de dólares en derivados. Las demandas alegan que UWM ocultó el riesgo de tasa de interés y critican la falta de supervisión de su junta directiva.",
-      "breakdown": [
-        {
-          "heading": "Pérdidas por volatilidad en las tasas de interés",
-          "body": "La pérdida de 603.2 millones de dólares provino de posiciones de cobertura vinculadas a una adquisición fallida con Two Harbors. Los cambios drásticos en las tasas aumentaron el riesgo."
-        },
-        {
-          "heading": "Demandas apuntan a la falta de transparencia ejecutiva",
-          "body": "La primera demanda acusó a UWM de no reportar sus niveles de riesgo. Las nuevas demandas cuestionan cómo la directiva monitoreó las inversiones en derivados durante los cambios del mercado."
-        },
-        {
-          "heading": "El asesor revisa la estabilidad financiera del prestamista",
-          "body": "Los golpes en los estados financieros ponen a prueba la liquidez. Los asesores de riesgo revisan las líneas de crédito bancarias (warehouse lines) cuando surgen disputas legales gigantes."
-        },
-        {
-          "heading": "Depender de un solo banco aumenta tu riesgo",
-          "body": "Los brokers independientes que usan una sola plataforma mayorista arriesgan sus préstamos si ese prestamista sufre apretones financieros o ajusta sus costos para cubrir pérdidas."
-        }
-      ],
-      "my_take_heading": "El riesgo operativo importa más que los titulares",
-      "my_take": "Una pérdida de 603 millones de dólares impacta más que a la empresa. Obliga a los profesionales de préstamo a diversificar sus inversionistas antes de que los ajustes de precios afecten a los clientes.",
-      "action_lo": "Diversifica tus canales de préstamos mayoristas de inmediato para proteger tus trámites ante problemas operativos de un solo banco.",
-      "action_realtor": "Trabaja con asesores de préstamo que mantengan múltiples fuentes de financiamiento en lugar de depender de un solo banco.",
-      "cta_question": "¿Cómo estás gestionando el riesgo de tus inversionistas mayoristas hoy en día?"
-    },
-    {
-      "slug": "tax-deferral-versus-reverse-mortgage",
-      "title": "Conflictos de prioridad de gravamen bloquean diferimientos de impuestos e hipotecas inversas",
-      "source": "The Mortgage Reports",
-      "source_url": "https://themortgagereports.com/134058/property-tax-deferral-vs-reverse-mortgage",
-      "cover_text": "Por qué diferir impuestos frena tu hipoteca inversa",
-      "caption": "Muchos adultos mayores buscan alivio financiero pero tropiezan con un problema en el título de su propiedad.\n\nLos programas locales para diferir impuestos de propiedad parecen una gran ayuda, pero crean un gravamen prioritario del gobierno sobre la vivienda. Cuando un propietario intenta tramitar una hipoteca inversa, el asesor (underwriter) detiene el proceso porque la FHA (Federal Housing Administration) exige el primer lugar de prioridad en el título. El saldo de los impuestos diferidos debe pagarse en el cierre, reduciendo el dinero disponible o congelando el trámite. Los oficiales de préstamo deben revisar los reportes preliminares de título desde el principio. Aclarar estos gravámenes a tiempo evita retrasos graves en el financiamiento.\n\nFuente : https://tinyurl.com/25vmute8\n#SafetrustMortgage #MortgageIntelligenceDaily #housingmarket #mortgagebroker #loanofficer",
-      "hashtags": [
-        "#SafetrustMortgage",
-        "#MortgageIntelligenceDaily",
-        "#housingmarket",
-        "#mortgagebroker",
-        "#loanofficer"
-      ],
-      "hook_tag": "Riesgo de crédito",
-      "hook": "Diferir impuestos locales crea gravámenes ocultos que congelan tu refinanciación.",
-      "what_happened_heading": "Programas de ayuda fiscal generan conflictos de título",
-      "what_happened": "Los adultos mayores que difieren impuestos de propiedad enfrentan un obstáculo inesperado al solicitar una hipoteca inversa. Los aplazamientos de impuestos estatales y del condado crean gravámenes prioritarios que impiden establecer la hipoteca en primer lugar de preferencia.",
-      "breakdown": [
-        {
-          "heading": "El aplazamiento fiscal crea un gravamen prioritario automático",
-          "body": "Los condados que aplazan impuestos aseguran esa deuda con un gravamen prioritario. Este gravamen del gobierno tiene preferencia legal sobre cualquier hipoteca existente o futura sobre la propiedad."
-        },
-        {
-          "heading": "Las reglas de título bloquean la aprobación",
-          "body": "Los prestamistas de hipotecas inversas exigen el primer lugar en el título. Un aplazamiento de impuestos activo viola las guías de la FHA (Federal Housing Administration) hasta liquidar la deuda."
-        },
-        {
-          "heading": "El asesor congela el trámite hasta saldar la deuda",
-          "body": "Un aplazamiento de impuestos actúa como impuestos atrasados. La compañía de títulos señalará el reclamo y el asesor (underwriter) detendrá el financiamiento de inmediato."
-        },
-        {
-          "heading": "Saldar la deuda reduce el dinero disponible",
-          "body": "Para resolver el conflicto, hay que pagar los impuestos diferidos usando el dinero de la hipoteca inversa. Esto reduce el capital disponible que recibe el cliente al cerrar."
-        }
-      ],
-      "my_take_heading": "Los gravámenes silenciosos afectan tu estrategia de patrimonio",
-      "my_take": "Diferir impuestos no es dinero regalado; es una deuda del gobierno que bloquea la aprobación de una hipoteca inversa hasta que se liquida en el título.",
-      "action_lo": "Revisa el informe de título desde el inicio para detectar aplazamientos fiscales antes de procesar una hipoteca inversa.",
-      "action_realtor": "Pregunta a tus clientes mayores si participan en programas de diferimiento de impuestos antes de definir fechas de venta o ganancias estimadas.",
-      "cta_question": "¿Alguna vez se te ha frenado una transacción con adultos mayores por un gravamen de impuestos diferidos?"
+      "my_take_heading": "Scoring tweaks change approvals",
+      "my_take": "Fewer credit bureaus mean lower costs, but it also creates wild score swings. Underwriters will see borrower approvals flip based on which bureau gets dropped.",
+      "action_lo": "Review thin-file pre-approvals to see how VantageScore calculations could expand buyer purchasing power.",
+      "action_realtor": "Prepare clients for shifting credit qualification thresholds as Fannie and Freddie update underwriting requirements.",
+      "cta_question": "Will dropping to a bi-merge make underwriting easier or create more liability?"
     }
   ]
 }
