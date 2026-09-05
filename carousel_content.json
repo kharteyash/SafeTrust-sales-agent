@@ -168,5 +168,175 @@
       "action_realtor": "Keep buyers focused on property selection and affordability rather than timing political headlines.",
       "cta_question": "How do you handle clients who expect instant rate drops due to political news?"
     }
+  ],
+  "carousels_es": [
+    {
+      "slug": "ice-raids-homebuilder-delays",
+      "title": "Las redadas de ICE afectan los plazos de construcción y las líneas bancarias de los constructores",
+      "source": "HousingWire",
+      "source_url": "https://www.housingwire.com/articles/ice-enforcement-labor-costs/",
+      "cover_text": "Por qué las redadas amenazan el financiamiento de constructores",
+      "caption": "El aumento de las redadas migratorias está afectando directamente a la construcción de viviendas. Los arrestos de ICE subieron de 32,545 en mayo a 49,571 en julio, lo que reduce la mano de obra disponible para los subcontratistas. Para los constructores de viviendas, esto significa ofertas de trabajo más caras, proyectos que tardan más tiempo en terminarse y cierres de viviendas pospuestos. Cuando la fecha de finalización se retrasa, las líneas de crédito bancario del constructor se bloquean y las tasas de interés reservadas por los compradores se vencen. Desde la perspectiva del asesor (underwriter), una inspección final retrasada o la falta del certificado de ocupación detienen por completo el desembolso del préstamo. Los oficiales de préstamo y los agentes de bienes raíces deben monitorear activamente los avances de la obra en lugar de confiarse del calendario inicial. Proteger tus cierres exige gestionar los riesgos antes de que venzan los bloqueos de tasa.\n\nFuente : https://tinyurl.com/2794ufll\n#SafetrustMortgage #MortgageIntelligenceDaily #housingmarket #loanofficer #realestateagent",
+      "hashtags": [
+        "#SafetrustMortgage",
+        "#MortgageIntelligenceDaily",
+        "#housingmarket",
+        "#loanofficer",
+        "#realestateagent"
+      ],
+      "hook_tag": "Riesgo en proyectos de construcción",
+      "hook": "Las redadas policiales están retrasando los cierres de casas nuevas.",
+      "what_happened_heading": "El gobierno frena la mano de obra en obras de construcción",
+      "what_happened": "Los arrestos de ICE subieron de 32,545 en mayo a 49,571 en julio. Este aumento genera retrasos, presupuestos de mano de obra más altos y cierres pospuestos.",
+      "breakdown": [
+        {
+          "heading": "La falta de personal retrasa la construcción",
+          "body": "Los contratistas sufren bajas repentinas de personal. Esto los obliga a cotizar más caro y a posponer las fechas de entrega de las casas."
+        },
+        {
+          "heading": "Las líneas de crédito bancarias sufren presión",
+          "body": "Los préstamos de construcción exigen fechas estrictas. Si no se cumple el calendario de cierre, el capital del constructor queda atrapado y congelado."
+        },
+        {
+          "heading": "La visión del asesor sobre los retrasos",
+          "body": "Esto es lo que cambia al evaluar el caso. Las inspecciones finales se detienen y las extensiones de tasa fallan si la casa no está terminada."
+        },
+        {
+          "heading": "Los retrasos vencen el bloqueo de tasa",
+          "body": "El bloqueo de tasa vence mientras se espera el certificado de ocupación. Esto genera costos extra de extensión o exige recalificar al comprador."
+        }
+      ],
+      "my_take_heading": "Los retrasos representan un riesgo financiero directo",
+      "my_take": "Las redadas no son solo un problema de obra en el terreno. Son un evento de liquidez que golpea directamente el balance financiero del constructor y retrasa los cierres de tu cliente.",
+      "action_lo": "Revisa hoy tus préstamos de construcción para detectar cierres en riesgo por retrasos de entrega.",
+      "action_realtor": "Agrega días extra de margen en los contratos de construcción para proteger el depósito de tus compradores.",
+      "cta_question": "¿Cómo están afectando los retrasos de construcción tu estrategia de bloqueo de tasa este trimestre?"
+    },
+    {
+      "slug": "fay-group-acquires-vandyk-mortgage",
+      "title": "Fay Group compra VanDyk para ampliar su cobertura de préstamos conformes",
+      "source": "HousingWire",
+      "source_url": "https://www.housingwire.com/articles/fay-group-acquires-vandyk-mortgage-expand-conforming-business/",
+      "cover_text": "Por qué los derechos de servicio impulsan fusiones",
+      "caption": "La consolidación en el sector hipotecario continúa con la compra de VanDyk Mortgage por parte de Fay Group. Esta adquisición otorga a Fay Group acceso directo a los canales de venta de Fannie Mae, Freddie Mac y Ginnie Mae, junto con una sólida cartera de derechos de servicio hipotecario (MSRs). Para los prestamistas independientes, mantener aprobaciones directas con agencias y administrar activos de servicio genera ingresos recurrentes que protegen el negocio durante las bajas del mercado. Cuando dos plataformas se unen, el verdadero reto operativo pasa al equipo de evaluación. El asesor (underwriter) debe conciliar guías y requisitos de inversión diferentes bajo una misma política. Hoy en día, crecer en escala no es solo generar más volumen de préstamos, sino lograr máxima eficiencia operativa y proteger los márgenes de ganancia.\n\nFuente : https://tinyurl.com/2ase7zr3\n#SafetrustMortgage #MortgageIntelligenceDaily #mortgagebroker #loanofficer #housingmarket",
+      "hashtags": [
+        "#SafetrustMortgage",
+        "#MortgageIntelligenceDaily",
+        "#mortgagebroker",
+        "#loanofficer",
+        "#housingmarket"
+      ],
+      "hook_tag": "Movimientos de fusión en hipotecas",
+      "hook": "Fay Group adquirió VanDyk para asegurar acceso directo a agencias y activos.",
+      "what_happened_heading": "Fay Group se expande en préstamos conformes",
+      "what_happened": "Fay Group completó la compra de VanDyk Mortgage para crecer en el mercado de préstamos conformes. La operación incluye aprobaciones directas con Fannie Mae, Freddie Mac y Ginnie Mae, además de una cartera de MSRs (derechos de servicio hipotecario).",
+      "breakdown": [
+        {
+          "heading": "Crecimiento estratégico con acceso directo a agencias",
+          "body": "Contar con aprobaciones directas permite a los prestamistas saltarse los márgenes del intermediario y colocar préstamos directamente con las agencias secundarias."
+        },
+        {
+          "heading": "La cartera de servicios genera ingresos estables",
+          "body": "Los derechos de servicio hipotecario (MSRs) producen ingresos continuos por comisiones. Esto ayuda a compensar los meses con bajas ventas de originación."
+        },
+        {
+          "heading": "La visión del asesor sobre la integración",
+          "body": "Esto es lo que cambia al evaluar el expediente. Fusionar operaciones exige unificar las reglas y criterios de evaluación de distintos inversionistas en un solo manual."
+        },
+        {
+          "heading": "Crecer en escala es clave para proteger márgenes",
+          "body": "Las empresas hipotecarias independientes se unen para repartir sus costos fijos de tecnología y cumplimiento normativo entre un volumen mayor de préstamos."
+        }
+      ],
+      "my_take_heading": "La escala de ventas depende de retener el servicio",
+      "my_take": "La consolidación en la industria hipotecaria ya no busca solo volumen. El objetivo real es controlar los activos de servicio hipotecario y mantener el acceso directo a las agencias aprobadas.",
+      "action_lo": "Revisa tu lista de prestamistas aliados para asegurarte de mantener canales directos con precios competitivos.",
+      "action_realtor": "Trabaja con prestamistas que administren sus propios servicios para ofrecer a tus compradores un proceso fluido.",
+      "cta_question": "¿Crees que el control de ejecución directa con agencias definirá qué prestamistas sobrevivirán en este ciclo?"
+    },
+    {
+      "slug": "mortgage-applications-arm-share-rebound",
+      "title": "La demanda hipotecaria cambia y las hipotecas de tasa ajustable suben",
+      "source": "Mortgage News Daily",
+      "source_url": "https://www.mortgagenewsdaily.com/news/09042026-mortgage-applications-mba",
+      "cover_text": "Por qué vuelven las hipotecas de tasa ajustable",
+      "caption": "El volumen de solicitudes hipotecarias subió un 0.8 por ciento la semana pasada, pero el verdadero cambio está en el producto elegido. Con las tasas de interés en su nivel más alto de cuatro semanas, la proporción de solicitudes de hipotecas de tasa ajustable (ARM, por sus siglas en inglés) llegó a su máximo de cinco semanas. Muchos compradores buscan un alivio en su pago mensual inicial para adaptar el precio de la casa a su presupuesto. No obstante, desde el escritorio del asesor (underwriter), este producto tiene reglas de calificación muy estrictas. El asesor debe evaluar la solicitud usando tasas de calificación más altas, lo que limita la relación deuda-ingreso (DTI). Es clave educar al cliente sobre los cálculos reales de calificación y no solo enfocarse en el ahorro del primer pago.\n\nFuente : https://tinyurl.com/25ycce2t\n#SafetrustMortgage #MortgageIntelligenceDaily #mortgagerates #firsttimehomebuyer #homebuying",
+      "hashtags": [
+        "#SafetrustMortgage",
+        "#MortgageIntelligenceDaily",
+        "#mortgagerates",
+        "#firsttimehomebuyer",
+        "#homebuying"
+      ],
+      "hook_tag": "Cambios en las tendencias de préstamos",
+      "hook": "Los compradores están eligiendo hipotecas de tasa ajustable tras subir los intereses.",
+      "what_happened_heading": "Las solicitudes de préstamos registraron un leve aumento",
+      "what_happened": "El volumen total de solicitudes subió 0.8 por ciento la semana pasada según la Asociación de Banqueros Hipotecarios, pese al alza de intereses. La participación de hipotecas de tasa ajustable (ARM) alcanzó su punto más alto en cinco semanas.",
+      "breakdown": [
+        {
+          "heading": "La compra se mantiene mientras el refinanciamiento cae",
+          "body": "El aumento de las tasas frenó la actividad de refinanciamiento. Por eso, los compradores de vivienda impulsaron solos el crecimiento total de solicitudes."
+        },
+        {
+          "heading": "Búsqueda de pagos mensuales iniciales más bajos",
+          "body": "Al subir las tasas fijas, los compradores eligen opciones ajustables (ARM) para reducir su pago inicial y calificar para precios de compra más altos."
+        },
+        {
+          "heading": "La visión del asesor sobre las tasas ajustables",
+          "body": "Esto es lo que cambia al evaluar el archivo. El asesor debe calificar al cliente con la tasa ajustada más alta, restringiendo la relación deuda-ingreso (DTI)."
+        },
+        {
+          "heading": "Los requisitos de calificación limitan la capacidad real",
+          "body": "Aunque la tasa inicial de un préstamo ajustable sea más baja, las estrictas reglas de calificación evitan que el comprador se endeude más de lo debido."
+        }
+      ],
+      "my_take_heading": "Una tasa inicial baja no altera las matemáticas financieras",
+      "my_take": "La mayor demanda de hipotecas ajustables demuestra el cansancio del comprador con los precios. Sin embargo, las reglas de evaluación del asesor imponen límites estrictos para evitar un endeudamiento excesivo.",
+      "action_lo": "Estructura análisis con tasas probadas bajo estrés antes de enviar los archivos a procesamiento.",
+      "action_realtor": "Explica a tus compradores cómo los préstamos ajustables afectan su límite de preaprobación al subir las tasas.",
+      "cta_question": "¿Tus compradores están pidiendo préstamos de tasa ajustable para manejar los niveles actuales de interés?"
+    },
+    {
+      "slug": "political-pressure-fed-rate-cuts",
+      "title": "Aumenta la presión política sobre la Reserva Federal tras datos de empleo",
+      "source": "HousingWire",
+      "source_url": "https://www.housingwire.com/articles/trump-trade-fed-rates/",
+      "cover_text": "La presión política choca con la realidad económica",
+      "caption": "Las peticiones de recortes inmediatos en las tasas de la Reserva Federal llenan los titulares, pero los datos económicos muestran otra realidad. En agosto se crearon 162,000 empleos y la tasa de desempleo se mantuvo firme en 4.1 por ciento. A pesar de los llamados públicos para bajar el costo del crédito, la Reserva Federal basa sus decisiones en el empleo y la inflación. En el sector hipotecario, los precios dependen del mercado secundario de bonos y no de discursos políticos. Para el asesor (underwriter), la volatilidad creada por las noticias genera serios problemas si los clientes especulan dejando flotar su tasa. Los oficiales de crédito que guíen a sus clientes con datos económicos reales lograrán mantener sus cierres seguros y predecibles.\n\nFuente : https://tinyurl.com/269hg3ae\n#SafetrustMortgage #MortgageIntelligenceDaily #mortgagerates #housingmarket #loanofficer",
+      "hashtags": [
+        "#SafetrustMortgage",
+        "#MortgageIntelligenceDaily",
+        "#mortgagerates",
+        "#housingmarket",
+        "#loanofficer"
+      ],
+      "hook_tag": "Debate sobre la tasa de interés",
+      "hook": "La presión por bajar tasas choca con la solidez del mercado laboral.",
+      "what_happened_heading": "Aumentan las exigencias de bajar tasas pese a datos firmes",
+      "what_happened": "Donald Trump pidió a la Reserva Federal recortar las tasas de interés y amenazó con frenar el comercio si no actúan. La presión llega tras sumarse 162,000 empleos en agosto con un desempleo estable en 4.1 por ciento.",
+      "breakdown": [
+        {
+          "heading": "El crecimiento del empleo complica la bajada de tasas",
+          "body": "Sumar 162,000 empleos en agosto demuestra la fuerza del mercado laboral. Esto hace que la Reserva Federal actúe con prudencia antes de bajar los intereses."
+        },
+        {
+          "heading": "El bajo desempleo mantiene la presión sobre los salarios",
+          "body": "Un desempleo estable en 4.1 por ciento indica a los analistas que la inflación sigue presente en la economía, exigiendo cautela antes de recortar tasas."
+        },
+        {
+          "heading": "La visión del asesor sobre la volatilidad de tasas",
+          "body": "Esto es lo que cambia al evaluar el archivo. La volatilidad provoca caídas de préstamos si el bloqueo vence antes de que la política cambie realmente."
+        },
+        {
+          "heading": "Las declaraciones políticas no mueven el rendimiento del bono",
+          "body": "Las tasas hipotecarias reaccionan a los bonos del Tesoro y las expectativas de inflación a largo plazo, no a los discursos ni comentarios políticos."
+        }
+      ],
+      "my_take_heading": "Los titulares políticos no bajan las tasas de interés",
+      "my_take": "El mercado hipotecario ajusta sus precios según los datos económicos a largo plazo, no por peticiones políticas de recortes inmediatos de tasa.",
+      "action_lo": "Aconseja a tus clientes asegurar su tasa según tendencias económicas reales y no por pronósticos políticos.",
+      "action_realtor": "Mantén a los compradores enfocados en elegir la propiedad correcta en lugar de especular con los titulares.",
+      "cta_question": "¿Cómo manejas a los clientes que esperan bajas inmediatas de tasa guiados por noticias políticas?"
+    }
   ]
 }
