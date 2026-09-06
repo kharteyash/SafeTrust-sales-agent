@@ -118,25 +118,36 @@ def fetch_cnbc_6am_history():
 
 
 def build_6am_series():
-    """Last DAYS trading days as [(iso_date, 6am value)]: snapshots first,
-    CNBC intraday backfill second, Yahoo daily closes as a last resort for
-    dates outside CNBC's 5-day window."""
+    """Last DAYS calendar days ENDING TODAY as [(iso_date, 6am value)] — the
+    graph's newest point is always the current day. Trading days come from the
+    6am snapshots and CNBC's intraday backfill (Yahoo closes as a last resort);
+    weekends/holidays carry the prior level forward, which is exactly where the
+    yield stands at 6am on a closed-market day."""
     for d, v in (_retry(fetch_cnbc_6am_history, "CNBC 6am history") or {}).items():
         _record_history(d, v, "cnbc-6am")
     hist = _load_history()
     ycloses = dict(_retry(fetch_yahoo, "Yahoo history") or [])
+
+    def value_for(iso):
+        entry = hist.get(iso)
+        return entry["value"] if entry else ycloses.get(iso)
+
+    today = datetime.date.fromisoformat(_today_et())
+    dates = [today - datetime.timedelta(days=k) for k in range(DAYS - 1, -1, -1)]
+    # Seed the carry-forward with the newest value before the window.
+    carry = None
+    for k in range(1, 8):
+        v = value_for((dates[0] - datetime.timedelta(days=k)).isoformat())
+        if v is not None:
+            carry = float(v)
+            break
     series = []
-    cur = datetime.date.fromisoformat(_today_et())
-    for _ in range(15):  # scan back far enough to find DAYS weekdays with data
-        d = cur.isoformat()
-        if cur.weekday() < 5:
-            v = hist.get(d, {}).get("value", ycloses.get(d))
-            if v is not None:
-                series.append((d, float(v)))
-            if len(series) == DAYS:
-                break
-        cur -= datetime.timedelta(days=1)
-    series.reverse()
+    for d in dates:
+        v = value_for(d.isoformat())
+        if v is not None:
+            carry = float(v)
+        if carry is not None:
+            series.append((d.isoformat(), carry))
     return series
 
 
@@ -435,7 +446,7 @@ def build_html(series, last, prev, as_of, source, t):
           f'<span style="display:inline-flex;align-items:center;gap:7px;">{change}</span></div>'
         + f'<p class="sans" style="font-size:11px;color:{t["kicker"]};'
           f'letter-spacing:1px;text-transform:uppercase;margin:14px 0 6px;">'
-          f'Last {len(series)} trading days &mdash; 6:00 AM ET</p>'
+          f'Last {len(series)} days &mdash; 6:00 AM ET</p>'
         + build_chart_svg(series, t)
         + f'<p class="sans" style="font-size:10px;color:{t["footer"]};margin-top:16px;">'
           f'As of {as_of} &mdash; {source}</p>'
