@@ -1,326 +1,172 @@
 {
   "carousels": [
     {
-      "slug": "mismo-reverse-mortgage-tech",
-      "title": "Standardizing Proprietary Reverse Mortgages",
+      "slug": "listing-tech-misrepresentation-risk",
+      "title": "Can tech keep agents out of trouble for listing mistakes?",
       "source": "HousingWire",
-      "source_url": "https://www.housingwire.com/articles/george-morales-reverse-mismo/",
-      "cover_text": "Standardized tech is coming to reverse mortgages",
-      "caption": "Tech standardization is about to reshape the reverse mortgage industry. MISMO reverse workgroup chair George Morales highlighted how new data standards aim to remove technological barriers for lenders. For years, forward lenders avoided proprietary reverse mortgages because integration required expensive, custom software builds. Standardized data structures mean loan origination systems can process proprietary reverse files seamlessly. When data flows cleanly, underwriting bottlenecks disappear and operational costs drop significantly. Forward originators looking for margin growth can now access senior home equity products without rebuilding their tech stack. As liquidity shifts, expect proprietary reverse loans to challenge traditional government-backed products.\n\nSource : https://tinyurl.com/2bpb8tnx\n#SafetrustMortgage #MortgageIntelligenceDaily #mortgagebroker",
+      "source_url": "https://www.housingwire.com/articles/tech-avoid-marketing-misrepresentation/",
+      "cover_text": "Tech won't save agents from misrepresentation lawsuits",
+      "caption": "High-tech listing tools like LiDAR and 3D tours were supposed to shield agents from misrepresentation claims. Instead, they are creating a digital paper trail that underwriters and attorneys can use against you. When an appraiser checks GLA (gross living area), digital scans make discrepancies painfully obvious. Underwriters spot altered conditions instantly when comparing listing photos to physical appraisal reports. Relying on AI enhancements or unverified floor plans leaves zero room for error during credit and collateral review. If the physical file does not match the marketing representation, the deal stalls in underwriting immediately. Smart originators and top agents must audit tech data before submitting purchase contracts.\n\nSource : https://tinyurl.com/29b5h4p4\n#SafetrustMortgage #MortgageIntelligenceDaily #realestateagent #housingmarket #mortgagebroker",
       "hashtags": [
         "#SafetrustMortgage",
         "#MortgageIntelligenceDaily",
+        "#realestateagent",
+        "#housingmarket",
         "#mortgagebroker"
       ],
-      "hook_tag": "Reverse Tech",
-      "hook": "Tech standards will flood proprietary reverse mortgages with traditional lenders.",
-      "what_happened_heading": "MISMO sets standards for proprietary reverse loans",
-      "what_happened": "MISMO reverse workgroup chair George Morales announced new industry standards for proprietary reverse mortgages. The goal is to eliminate technology integration barriers that keep forward lenders out of reverse.",
+      "hook_tag": "Listing Liability",
+      "hook": "High tech listing tools expose agent liabilities faster than ever.",
+      "what_happened_heading": "AI photos and LiDAR bring new risks",
+      "what_happened": "Tech tools like LiDAR measurements and 3D tours are now used to verify square footage and curb AI-edited photos. While meant to protect listings, these tools create digital paper trails that misrepresentation claims can target.",
       "breakdown": [
         {
-          "heading": "Proprietary reverse market faces integration bottlenecks",
-          "body": "Proprietary reverse mortgages lack unified data architecture. Forward lenders struggle to plug these non-agency products into existing loan origination systems smoothly."
+          "heading": "Digital precision leaves no room for error",
+          "body": "LiDAR provides exact laser measurements. When an appraisal comes in short on GLA (gross living area), your seller cannot hide behind vague estimates anymore."
         },
         {
-          "heading": "Standardization lowers entry costs for forward originators",
-          "body": "By creating uniform MISMO data sets, technology vendors can build out-of-the-box integrations. Lenders no longer need custom API builds to handle reverse files."
+          "heading": "AI photo edits trigger misrepresentation claims",
+          "body": "Enhancing photos with AI seems harmless until buyers claim material misrepresentation. Underwriters and appraisers compare virtual tours against actual property conditions."
         },
         {
-          "heading": "Underwriters get streamlined non-HECM doc processing",
-          "body": "Here's what this actually changes when a file hits underwriting: standardized data structures reduce manual document index errors and accelerate underwriting reviews on proprietary reverse products."
+          "heading": "Here is what changes in underwriting",
+          "body": "As an underwriter, I look for discrepancies between listed specs and appraisal comps. Tech-backed data makes appraisal review red flags impossible to ignore."
         },
         {
-          "heading": "Scale shifts product focus away from government programs",
-          "body": "As tech barriers fall, proprietary jumbo reverse products will compete directly with traditional HECM options for senior home equity."
+          "heading": "Liability shifts directly onto the listing agent",
+          "body": "Brokers can no longer claim honest mistakes when digital records document the exact physical layout prior to closing."
         }
       ],
-      "my_take_heading": "Tech standardization isn't software; it's distribution scale",
-      "my_take": "The real bottleneck in proprietary reverse loans wasn't borrower demand; it was LOS integration friction. Standardizing data turns a niche specialty into a mainstream loan officer product.",
-      "action_lo": "Audit your LOS setup to see if proprietary reverse data fields can be integrated today.",
-      "action_realtor": "Educate high-net-worth senior clients on non-HECM reverse equity solutions.",
-      "cta_question": "Will standardized reverse tech convince forward lenders to add reverse products this year?"
+      "my_take_heading": "Data transparency cuts both ways for agents",
+      "my_take": "High-tech listing tools do not protect bad marketing. They just give trial attorneys and underwriters pristine digital evidence when property details are embellished.",
+      "action_lo": "Audit appraisal comps against 3D tours when property condition red flags appear in the file.",
+      "action_realtor": "Compare LiDAR output directly against tax records before publishing any home listing details.",
+      "cta_question": "Are your listing agents relying on tech verification or just creating extra legal liability?"
     },
     {
-      "slug": "reverse-mortgage-underwriting-friction",
-      "title": "Removing Operational Friction in Reverse Loans",
+      "slug": "truss-financial-direct-lending-scaling",
+      "title": "Truss Financial scales hybrid model with new direct lending platform",
       "source": "HousingWire",
-      "source_url": "https://www.housingwire.com/articles/george-morales-reverse-mismo/",
-      "cover_text": "Why reverse mortgages are joining mainstream tech",
-      "caption": "Operational friction has kept reverse mortgages isolated from mainstream lending for decades. George Morales from MISMO explained that new standardization efforts aim to break down tech barriers for entering lenders. Operating separate platforms for forward and reverse loans inflates overhead and slows turn times. Unifying data structures under MISMO allows loan officers to run reverse files inside their standard workflow. Clean data mapping cuts underwriting conditions and speeds up closing timelines. As institutional investors gain confidence in standardized file quality, liquidity for proprietary reverse products will expand rapidly. Lenders that adopt early will secure a strong position with aging homeowners.\n\nSource : https://tinyurl.com/2bpb8tnx\n#SafetrustMortgage #MortgageIntelligenceDaily #loanofficer",
+      "source_url": "https://www.housingwire.com/articles/truss-financial-direct-lending-non-qm-dscr-heloc/",
+      "cover_text": "Why Non-QM lenders are grabbing direct control",
+      "caption": "Truss Financial just added in-house underwriting and funding to scale its hybrid platform across Non-QM (loans that do not meet federal qualified mortgage standards), DSCR (debt service coverage ratio loans), and HELOC (home equity line of credit) products. For years, Non-QM origination was bogged down by third-party broker delays and endless condition loops. By bringing underwriting in-house, lenders take total control over turn times and credit decisions. In underwriting, direct sign-off on investor files removes middleman friction and clarifies stipulations. Originators who rely on slow wholesale pipelines will lose investor deals to platforms that can underwrite and fund under one roof. Control over the paper is the ultimate competitive advantage in today's shifting mortgage market.\n\nSource : https://tinyurl.com/29b5h4p4\n#SafetrustMortgage #MortgageIntelligenceDaily #loanofficer #mortgagebroker #realestateinvesting",
       "hashtags": [
         "#SafetrustMortgage",
         "#MortgageIntelligenceDaily",
-        "#loanofficer"
+        "#loanofficer",
+        "#mortgagebroker",
+        "#realestateinvesting"
       ],
-      "hook_tag": "Loan Operations",
-      "hook": "Proprietary reverse loans are finally escaping legacy tech silos.",
-      "what_happened_heading": "MISMO framework addresses lender integration obstacles",
-      "what_happened": "Industry leadership is deploying MISMO standards to unify proprietary reverse mortgage data across platforms. This initiative targets the operational headaches that deter traditional lenders from offering reverse options.",
+      "hook_tag": "Direct Lending",
+      "hook": "Cutting turn times requires control over underwriting and funding.",
+      "what_happened_heading": "Truss Financial launches in-house direct platform",
+      "what_happened": "Truss Financial added in-house underwriting and funding capabilities to scale its hybrid lending model. The expanded platform targets Non-QM (loans that do not meet federal qualified mortgage standards), DSCR (debt service coverage ratio loans based on rental income), and HELOC (home equity line of credit) products.",
       "breakdown": [
         {
-          "heading": "Siloed loan data created high operational cost",
-          "body": "Legacy reverse technology forced lenders to maintain separate operational workflows. That operational split kept origination costs high and turnaround times slow."
+          "heading": "Brokering Non-QM creates operational bottlenecks",
+          "body": "Third-party underwriting creates unpredictable turn times. Owning the underwriting queue lets lenders set consistent decision speeds on complex non-conforming files."
         },
         {
-          "heading": "Data uniformity bridges forward and reverse pipelines",
-          "body": "Unified data definitions allow a single loan origination system to process both forward and reverse loans without manual workarounds."
+          "heading": "Direct funding stabilizes liquidity",
+          "body": "Controlling funding means avoiding last-minute investor clear-to-close delays. It brings balance sheet authority to specialized loan structures."
         },
         {
-          "heading": "Underwriting validation becomes automated and predictable",
-          "body": "Here's what this actually changes when a file hits underwriting: automated data mapping reduces manual condition checks and eliminates re-keying income and asset disclosures."
+          "heading": "Here is what changes in underwriting",
+          "body": "In underwriting, having internal sign-off on DSCR (debt service coverage ratio) cash flows means fewer condition loops and faster clear-to-close approvals for real estate investors."
         },
         {
-          "heading": "Expanded access increases secondary market appetite",
-          "body": "Standardized file formats make proprietary reverse pools easier for institutional investors to price, audit, and purchase."
+          "heading": "Hybrid models capture market share",
+          "body": "Combining broker flexibility with direct lender speed gives originators a distinct edge when traditional channel volumes drop."
         }
       ],
-      "my_take_heading": "Efficiency creates product parity for senior borrowers",
-      "my_take": "When reverse files look like forward files in the LOS, loan officers will actually offer them. Operational simplicity drives volume faster than marketing ever will.",
-      "action_lo": "Ask your tech vendors when MISMO reverse data standards will be native in your system.",
-      "action_realtor": "Partner with LOs who offer proprietary equity release options for aging buyers.",
-      "cta_question": "Is operational friction the main reason your team avoids reverse mortgages?"
+      "my_take_heading": "Direct non-QM execution beats broker flexibility",
+      "my_take": "Speed without underwriting authority is just marketing hype. Controlling the paper from submission through funding is the only way to scale Non-QM reliably.",
+      "action_lo": "Partner with Non-QM outlets that control their own underwriting sign-offs to protect closing dates.",
+      "action_realtor": "Identify lenders with internal Non-QM authority to save deals with non-traditional income.",
+      "cta_question": "Will direct lending models squeeze out traditional Non-QM wholesale brokers this year?"
     },
     {
-      "slug": "master-planned-community-value-design",
-      "title": "Everyday Infrastructure Drives Long-Term Equity",
+      "slug": "florida-orlando-housing-market-split",
+      "title": "Florida’s housing market looks shaky. Orlando tells a more complicated story",
       "source": "HousingWire",
-      "source_url": "https://www.housingwire.com/articles/master-planned-communities-everyday-life/",
-      "cover_text": "Why daily community design drives home value",
-      "caption": "Everyday design is the secret driver of long-term home value. HousingWire analysis reveals that master-planned communities designed around connected streets, trails, schools, and parks hold lasting value. Flashy amenities like clubhouses attract initial buyers, but functional infrastructure creates long-term neighborhood retention. When daily routines flow naturally, buyer demand stays steady across economic cycles. From a mortgage perspective, strong community connectivity stabilizes appraisal values and protects loan collateral over time. Loan officers and realtors who teach buyers to look beyond cosmetics build trust and help clients secure resilient real estate assets.\n\nSource : https://tinyurl.com/25oe24py\n#SafetrustMortgage #MortgageIntelligenceDaily #housingmarket",
+      "source_url": "https://www.housingwire.com/articles/floridas-housing-market-looks-shaky-orlando-tells-a-more-complicated-story/",
+      "cover_text": "Florida's real estate market is splitting in two",
+      "caption": "Florida real estate headlines sound alarm bells, but local market data tells a vastly different story. While vacation markets see inventory gains, primary markets like Orlando face deep affordability challenges. As an underwriter, I see how rising property insurance and taxes push buyer DTI (how much of your income goes to debt) to the absolute brink. Lumping entire states into one housing narrative leads to terrible business decisions for loan officers and realtors. Originators and realtors must look past macro news and focus on local qualification capacity. Deals fall apart at the desk when local tax and insurance costs surprise buyers at conditional approval. Know your local micro-market numbers.\n\nSource : https://tinyurl.com/29b5h4p4\n#SafetrustMortgage #MortgageIntelligenceDaily #housingmarket #homebuying #firsttimehomebuyer",
       "hashtags": [
         "#SafetrustMortgage",
         "#MortgageIntelligenceDaily",
-        "#housingmarket"
+        "#housingmarket",
+        "#homebuying",
+        "#firsttimehomebuyer"
       ],
-      "hook_tag": "Housing Value",
-      "hook": "Flashy amenities don't protect home equity; everyday infrastructure does.",
-      "what_happened_heading": "Master-planned communities prioritize daily lifestyle networks",
-      "what_happened": "Housing analysis shows that lasting master-planned community value relies on integrated streets, parks, trails, and schools. Everyday connectivity drives sustained buyer demand far better than standalone luxury amenities.",
+      "hook_tag": "Regional Real Estate",
+      "hook": "Statewide housing headlines completely miss local affordability reality.",
+      "what_happened_heading": "Orlando defies broader Florida housing trend",
+      "what_happened": "Florida's housing market shows signs of weakness across several vacation-heavy regions. However, Orlando displays a more complicated narrative where primary buyer affordability remains the primary obstacle.",
       "breakdown": [
         {
-          "heading": "Connected design builds resilient buyer demand",
-          "body": "Subdivisions built around daily routines maintain higher resale interest over time. Walkable trails and accessible schools create permanent neighborhood utility."
+          "heading": "Vacation markets skew state housing statistics",
+          "body": "Second-home inventory surges mask solid baseline demand in metro hubs. Aggregated state data creates false assumptions about local home prices."
         },
         {
-          "heading": "Everyday utility insulates against market downturns",
-          "body": "When housing markets cool, homes tied to seamless infrastructure hold valuation better than isolated developments with expensive amenity centers."
+          "heading": "Affordability hits primary buyers hardest",
+          "body": "First-time buyers in metro hubs face stubborn affordability hurdles. Wage growth continues to lag behind cumulative housing cost increases."
         },
         {
-          "heading": "Appraisers evaluate neighborhood layout for longevity risk",
-          "body": "Here's what this actually changes when a file hits underwriting: appraiser location adjustments favor integrated master plans, keeping collateral valuations stable during market shifts."
+          "heading": "Here is what changes in underwriting",
+          "body": "Underwriters review DTI (how much of your income goes to debt) ratios more strictly in high-insurance markets, squeezing buyer purchasing power."
         },
         {
-          "heading": "Lenders gain collateral stability in planned developments",
-          "body": "Strong community infrastructure preserves property condition and neighborhood desirability, lowering long-term default and loss severity risks."
+          "heading": "Micro-markets demand localized origination strategies",
+          "body": "Broad market narrative strategies fail when local inventory dynamics diverge sharply from state headlines."
         }
       ],
-      "my_take_heading": "Functionality creates equity resilience better than luxury",
-      "my_take": "Buyers don't stay for golf courses; they stay for connected streets and daily convenience. Long-term home equity is built on functional urban design.",
-      "action_lo": "Highlight neighborhood infrastructure stability when discussing long-term property value with buyers.",
-      "action_realtor": "Guide buyers toward master plans with connected trail and school networks.",
-      "cta_question": "Are your buyers prioritizing daily walkability over flashy amenity centers?"
+      "my_take_heading": "National housing headlines ruin local strategy",
+      "my_take": "Treating Florida as one single real estate market is an amateur mistake. Primary residential metros are driven by DTI capacity, not vacation seller panic.",
+      "action_lo": "Pre-qualify clients using localized property tax and insurance estimates rather than broad state averages.",
+      "action_realtor": "Target primary home buyers with realistic affordability analyses instead of waiting for market crashes.",
+      "cta_question": "How are you adjusting qualification hurdles in markets where insurance costs strain buyer DTI?"
     },
     {
-      "slug": "master-planned-community-appraisal-stability",
-      "title": "Master-Planned Layouts and Collateral Valuation",
+      "slug": "fsbo-pact-digital-contract-platform",
+      "title": "FSBO.com rolls out tech platform to streamline home purchase agreements",
       "source": "HousingWire",
-      "source_url": "https://www.housingwire.com/articles/master-planned-communities-everyday-life/",
-      "cover_text": "How neighborhood layout impacts loan appraisal stability",
-      "caption": "Neighborhood design is more than an aesthetic choice; it is a financial risk factor. Analysis shows that master-planned communities built around everyday connections maintain superior value retention. When streets, parks, and schools form a cohesive network, property desirability remains high over decades. For lenders and underwriters, consistent demand inside well-designed communities leads to reliable appraisal comps and fewer collateral valuation flags. Homes tied to functional infrastructure perform better in tight markets than isolated housing developments. Understanding urban design gives originators and realtors a sharp edge when advising clients on long-term property investments.\n\nSource : https://tinyurl.com/25oe24py\n#SafetrustMortgage #MortgageIntelligenceDaily #homebuying",
+      "source_url": "https://www.housingwire.com/articles/fsbocom-launches-pact-digital-offer-to-contract-platform/",
+      "cover_text": "Why digital purchase contracts fall short",
+      "caption": "FSBO.com just launched PACT, a platform designed to digitize home purchase agreements from listing through closing. While digitizing contracts sounds efficient, standardizing paperwork does not fix underlying borrower qualification issues or financing gaps. As an underwriter, I routinely see non-standard FSBO (for sale by owner) contracts get held up over missing financing contingencies or ambiguous property terms. A slick digital contract software means nothing if the buyer cannot pass underwriting standards or meet appraisal requirements. Originators and realtors need to educate buyers that signed software documents do not equal a funded mortgage loan. Protect your transactions by verifying buyer financing before any contract gets signed digitally.\n\nSource : https://tinyurl.com/29b5h4p4\n#SafetrustMortgage #MortgageIntelligenceDaily #realestateagent #mortgagebroker #homebuying",
       "hashtags": [
         "#SafetrustMortgage",
         "#MortgageIntelligenceDaily",
+        "#realestateagent",
+        "#mortgagebroker",
         "#homebuying"
       ],
-      "hook_tag": "Real Estate",
-      "hook": "Neighborhood street layouts directly impact collateral risk and resale value.",
-      "what_happened_heading": "Community design framework shapes long-term property performance",
-      "what_happened": "New development insights emphasize that master-planned communities succeed when structured around daily life routines. Connected infrastructure preserves property appeal across changing economic cycles.",
+      "hook_tag": "Digital Transactions",
+      "hook": "Automating real estate contracts cannot eliminate buyer qualification friction.",
+      "what_happened_heading": "FSBO.com introduces PACT offer platform",
+      "what_happened": "FSBO.com launched PACT, a technology platform built to streamline offer-to-contract purchase agreements. Developed from Homepie technology, the software digitizes real estate transactions from listing through closing.",
       "breakdown": [
         {
-          "heading": "Isolated developments suffer faster value depreciation",
-          "body": "Subdivisions lacking connected walkability and local school access experience higher turnover and volatile pricing when buyer demand contracts."
+          "heading": "Digital contracts solve paperwork not qualification",
+          "body": "Standardizing purchase agreements speeds up signature collection. However, automated forms cannot solve underlying financing challenges or complex contract contingencies."
         },
         {
-          "heading": "Integrated infrastructure supports consistent comp selection",
-          "body": "Cohesive master plans provide appraisers with predictable neighborhood boundaries and comparable sales data, reducing appraisal variance."
+          "heading": "Unrepresented buyers miss critical deal terms",
+          "body": "Self-service contract tools bypass expert agent guidance. Missing standard financing contingencies puts earnest money deposits at severe risk."
         },
         {
-          "heading": "Underwriting scrutinizes location stability in slowing markets",
-          "body": "Here's what this actually changes when a file hits underwriting: consistent appraisal comps in well-designed master plans reduce collateral review flags and value dispute delays."
+          "heading": "Here is what changes in underwriting",
+          "body": "Underwriters reject ambiguous or non-standard digitally generated addendums. Custom FSBO (for sale by owner) purchase contracts frequently require legal revisions before loan approval."
         },
         {
-          "heading": "Realtors gain predictable resale marketing positioning",
-          "body": "Properties in everyday-focused master plans sell faster because lifestyle functionality appeals to a broader pool of prospective buyers."
+          "heading": "Closing velocity depends on lender execution",
+          "body": "A fast contract signing does not accelerate appraisal turn times or title clearance. Digital platforms only address one piece of the transaction chain."
         }
       ],
-      "my_take_heading": "Urban design is a financial risk management tool",
-      "my_take": "A neighborhood's physical framework is its financial floor. Well-planned streets and park networks prevent market volatility from wiping out buyer equity.",
-      "action_lo": "Track comp stability in local master-planned communities to anticipate appraisal issues.",
-      "action_realtor": "Position master-planned homes based on infrastructure longevity rather than short-term trend appeal.",
-      "cta_question": "Do you see better appraisal consistency in master-planned communities versus standard subdivisions?"
-    }
-  ],
-  "carousels_es": [
-    {
-      "slug": "mismo-reverse-mortgage-tech",
-      "title": "Estandarización tecnológica en hipotecas inversas",
-      "source": "HousingWire",
-      "source_url": "https://www.housingwire.com/articles/george-morales-reverse-mismo/",
-      "cover_text": "La tecnología llega a hipotecas inversas",
-      "caption": "La estandarización tecnológica transformará el mercado de hipotecas inversas.\nGeorge Morales, de MISMO, explicó cómo los nuevos estándares de datos eliminarán las barreras para los prestamistas. Durante años, muchas entidades evitaron las hipotecas inversas privadas porque requerían programas costosos y hechos a la medida. Ahora, con formatos de datos unificados, los sistemas de procesamiento pueden manejar estos préstamos sin complicaciones. Cuando la información fluye sin trabas, las demoras en la evaluación desaparecen y los costos de operación bajan. Los prestamistas que buscan crecer pueden ofrecer capital a propietarios mayores sin cambiar toda su plataforma. A medida que el mercado cambia, estas opciones privadas competirán fuerte con los productos tradicionales.\n\nFuente : https://tinyurl.com/2bpb8tnx\n#SafetrustMortgage #MortgageIntelligenceDaily #mortgagebroker",
-      "hashtags": [
-        "#SafetrustMortgage",
-        "#MortgageIntelligenceDaily",
-        "#mortgagebroker"
-      ],
-      "hook_tag": "Tecnología hipotecaria",
-      "hook": "Nuevos estándares facilitarán el acceso a hipotecas inversas privadas.",
-      "what_happened_heading": "MISMO crea normas para hipotecas inversas privadas",
-      "what_happened": "El grupo MISMO anunció estándares de datos para hipotecas inversas privadas. El objetivo es eliminar barreras tecnológicas para que más prestamistas puedan ofrecerlas.",
-      "breakdown": [
-        {
-          "heading": "El mercado privado tiene problemas de integración",
-          "body": "Las hipotecas inversas privadas carecen de un formato de datos uniforme. Por eso a los prestamistas les cuesta integrarlas en sus sistemas actuales."
-        },
-        {
-          "heading": "La estandarización reduce los costos de entrada",
-          "body": "Con datos estandarizados por MISMO, las plataformas pueden ofrecer soluciones listas para usar. Así ya no se requieren desarrollos de software costosos."
-        },
-        {
-          "heading": "El proceso de aprobación se vuelve más ágil",
-          "body": "Esto cambia todo al evaluar el crédito: los datos uniformes evitan errores manuales y aceleran la revisión de las hipotecas inversas privadas."
-        },
-        {
-          "heading": "Las opciones privadas competirán con programas estatales",
-          "body": "Al caer las barreras técnicas, los préstamos jumbo privados competirán directamente con las hipotecas inversas tradicionales respaldadas por el gobierno (HECM)."
-        }
-      ],
-      "my_take_heading": "La estandarización ayuda a escalar el negocio",
-      "my_take": "El verdadero problema de las hipotecas inversas no era la demanda, sino la tecnología. Estandarizar los datos convierte un producto especializado en una herramienta accesible para cualquier oficial de préstamos.",
-      "action_lo": "Revisa si tu sistema actual ya puede integrar datos de hipotecas inversas.",
-      "action_realtor": "Informa a tus clientes mayores sobre las opciones privadas para usar su capital acumulado.",
-      "cta_question": "¿Crees que esta tecnología animará a más prestamistas a ofrecer hipotecas inversas este año?"
-    },
-    {
-      "slug": "reverse-mortgage-underwriting-friction",
-      "title": "Eliminando la fricción en préstamos inversos",
-      "source": "HousingWire",
-      "source_url": "https://www.housingwire.com/articles/george-morales-reverse-mismo/",
-      "cover_text": "Hipotecas inversas se unen a la tecnología moderna",
-      "caption": "Las trabas operativas han alejado a las hipotecas inversas del mercado general.\nGeorge Morales, representante de MISMO, explicó que la estandarización busca eliminar las barreras técnicas para los prestamistas. Usar sistemas separados para préstamos tradicionales e inversos sube los costos y retrasa los cierres. Al unificar los datos bajo el estándar MISMO, los oficiales de crédito pueden procesar estos préstamos en su flujo de trabajo habitual. Una información bien organizada reduce condiciones en la evaluación del crédito y acelera los tiempos de entrega. A medida que los inversionistas ganan confianza en estos expedientes, la liquidez para productos privados crecerá rápido. Quienes adopten este cambio pronto lograrán una posición fuerte en el mercado.\n\nFuente : https://tinyurl.com/2bpb8tnx\n#SafetrustMortgage #MortgageIntelligenceDaily #loanofficer",
-      "hashtags": [
-        "#SafetrustMortgage",
-        "#MortgageIntelligenceDaily",
-        "#loanofficer"
-      ],
-      "hook_tag": "Operaciones hipotecarias",
-      "hook": "Las hipotecas inversas privadas al fin salen del aislamiento tecnológico.",
-      "what_happened_heading": "El marco de MISMO resuelve problemas de integración",
-      "what_happened": "Los líderes del sector implementan estándares MISMO para unificar los datos de hipotecas inversas privadas. Esta iniciativa busca eliminar las complicaciones operativas que alejaban a los prestamistas tradicionales.",
-      "breakdown": [
-        {
-          "heading": "Los sistemas aislados generaban costos muy altos",
-          "body": "Usar tecnología antigua obligaba a mantener procesos separados. Esa división aumentaba los costos de origen y hacía que las aprobaciones fueran muy lentas."
-        },
-        {
-          "heading": "Datos uniformes unen diferentes tipos de préstamos",
-          "body": "Al unificar la información, un solo sistema de procesamiento puede manejar préstamos tradicionales e inversos sin tener que hacer trabajo manual adicional."
-        },
-        {
-          "heading": "La revisión del crédito es más rápida y predecible",
-          "body": "Esto cambia las cosas en la evaluación: organizar los datos automáticamente reduce las condiciones manuales y evita volver a ingresar ingresos y activos."
-        },
-        {
-          "heading": "Un formato estándar atrae a más inversionistas",
-          "body": "Los expedientes estandarizados facilitan que los inversionistas analicen, auditen y compren paquetes de hipotecas inversas privadas con mayor confianza."
-        }
-      ],
-      "my_take_heading": "La eficiencia abre opciones para los compradores mayores",
-      "my_take": "Cuando un préstamo inverso se procesa igual que uno tradicional, los asesores finalmente lo ofrecerán. La simplicidad operativa impulsa las ventas mucho más rápido que cualquier campaña de publicidad.",
-      "action_lo": "Pregunta a tus proveedores cuándo integrarán los nuevos estándares de datos para hipotecas inversas.",
-      "action_realtor": "Haz alianzas con oficiales de crédito que ofrezcan opciones avanzadas para clientes mayores.",
-      "cta_question": "¿La fricción en los procesos es la razón principal por la que tu equipo evita las hipotecas inversas?"
-    },
-    {
-      "slug": "master-planned-community-value-design",
-      "title": "La infraestructura cotidiana impulsa la plusvalía",
-      "source": "HousingWire",
-      "source_url": "https://www.housingwire.com/articles/master-planned-communities-everyday-life/",
-      "cover_text": "El diseño del vecindario impulsa el valor",
-      "caption": "El diseño práctico de un vecindario es el verdadero motor del valor a largo plazo.\nUn análisis de HousingWire revela que las comunidades planificadas con calles, senderos y escuelas bien conectadas conservan su valor con el tiempo. Aunque las amenidades lujosas atraen al principio, la infraestructura funcional es lo que mantiene a los vecinos en el lugar. Cuando la rutina diaria fluye con facilidad, la demanda de compradores se mantiene constante en cualquier ciclo económico. Desde la perspectiva hipotecaria, un entorno bien diseñado protege la tasación y cuida el valor de la propiedad. Los profesionales que enseñan a mirar más allá de lo estético ganan la confianza de sus clientes y los ayudan a realizar una inversión segura.\n\nFuente : https://tinyurl.com/25oe24py\n#SafetrustMortgage #MortgageIntelligenceDaily #housingmarket",
-      "hashtags": [
-        "#SafetrustMortgage",
-        "#MortgageIntelligenceDaily",
-        "#housingmarket"
-      ],
-      "hook_tag": "Valor de la vivienda",
-      "hook": "Las amenidades lujosas no protegen tu plusvalía; la infraestructura cotidiana sí.",
-      "what_happened_heading": "Comunidades planificadas priorizan la vida diaria",
-      "what_happened": "Un análisis de mercado demuestra que el valor duradero de una comunidad depende de sus calles, parques y escuelas conectadas. El diseño funcional mantiene la demanda mucho mejor que las casas club ostentosas.",
-      "breakdown": [
-        {
-          "heading": "El diseño conectado crea una demanda duradera",
-          "body": "Los vecindarios pensados para la rutina diaria mantienen mayor interés de reventa. Los senderos caminables y escuelas cercanas dan una utilidad permanente a la zona."
-        },
-        {
-          "heading": "La utilidad diaria protege durante las bajas de mercado",
-          "body": "Cuando el mercado se enfría, las casas en zonas bien integradas conservan su valor mejor que los desarrollos aislados con centros comunitarios costosos."
-        },
-        {
-          "heading": "Los evaluadores premian los vecindarios bien estructurados",
-          "body": "Esto cambia las cosas en la evaluación del crédito: las tasaciones favorecen diseños bien planeados, manteniendo valores estables aunque cambie el mercado."
-        },
-        {
-          "heading": "Los prestamistas obtienen mayor estabilidad en su garantía",
-          "body": "Una buena infraestructura conserva la atracción del vecindario y el estado de la propiedad, reduciendo el riesgo de pérdidas a largo plazo."
-        }
-      ],
-      "my_take_heading": "La funcionalidad protege tu dinero mejor que el lujo",
-      "my_take": "Los compradores no se quedan por un campo de golf, sino por la comodidad y las calles bien conectadas. La plusvalía sólida se construye sobre un diseño urbano que facilita la vida todos los días.",
-      "action_lo": "Destaca la estabilidad de la infraestructura local cuando hables del valor a largo plazo con tus compradores.",
-      "action_realtor": "Guía a los compradores hacia proyectos planificados con buenas conexiones a escuelas y senderos.",
-      "cta_question": "¿Tus compradores priorizan la comodidad de caminar a diario sobre instalaciones lujosas?"
-    },
-    {
-      "slug": "master-planned-community-appraisal-stability",
-      "title": "Comunidades planificadas y estabilidad de avalúos",
-      "source": "HousingWire",
-      "source_url": "https://www.housingwire.com/articles/master-planned-communities-everyday-life/",
-      "cover_text": "Cómo el diseño urbano protege tus avalúos",
-      "caption": "El diseño de un vecindario es una decisión financiera, no solo estética.\nLos estudios muestran que las comunidades planificadas para la vida diaria mantienen un valor superior con los años. Cuando las calles, los parques y las escuelas forman una red bien integrada, el interés por comprar permanece alto por décadas. Para los prestamistas y evaluadores de crédito, esta demanda constante se traduce en tasaciones confiables y menos problemas con el valor de la propiedad. Las viviendas conectadas a una buena infraestructura resisten mejor los periodos difíciles. Entender el impacto del diseño urbano ayuda a los profesionales a asesorar mejor a sus clientes para asegurar su inversión a largo plazo.\n\nFuente : https://tinyurl.com/25oe24py\n#SafetrustMortgage #MortgageIntelligenceDaily #homebuying",
-      "hashtags": [
-        "#SafetrustMortgage",
-        "#MortgageIntelligenceDaily",
-        "#homebuying"
-      ],
-      "hook_tag": "Bienes raíces",
-      "hook": "El diseño de las calles impacta directamente el riesgo y el valor.",
-      "what_happened_heading": "El diseño comunitario determina el valor de las casas",
-      "what_happened": "Nuevos estudios demuestran que las comunidades planificadas triunfan cuando se adaptan a la rutina diaria. Una infraestructura conectada protege la plusvalía sin importar los cambios en la economía.",
-      "breakdown": [
-        {
-          "heading": "Los desarrollos aislados pierden valor más rápido",
-          "body": "Los vecindarios sin accesos peatonales ni escuelas cerca sufren mayor rotación de residentes y precios inestables cuando baja la demanda de compradores."
-        },
-        {
-          "heading": "La infraestructura integrada ayuda a comparar precios",
-          "body": "Las comunidades bien planeadas dan referencias de venta más precisas a los tasadores, reduciendo las variaciones inesperadas en el valor."
-        },
-        {
-          "heading": "El análisis de crédito cuida la estabilidad de la zona",
-          "body": "Esto cambia todo en la evaluación: tener ventas comparables claras reduce las alertas sobre la propiedad y evita retrasos por disputas de valor."
-        },
-        {
-          "heading": "Los agentes logran ventas más rápidas y seguras",
-          "body": "Las propiedades en desarrollos funcionales se venden más rápido porque la comodidad diaria atrae a un grupo más amplio de compradores."
-        }
-      ],
-      "my_take_heading": "El diseño urbano es una protección para tu inversión",
-      "my_take": "La estructura física de un vecindario es su base financiera. Un diseño con calles y parques bien organizados evita que los cambios bruscos del mercado destruyan la plusvalía de los compradores.",
-      "action_lo": "Monitorea la estabilidad de los avalúos en comunidades planificadas para anticipar contratiempos.",
-      "action_realtor": "Promociona las viviendas planificadas destacando su infraestructura duradera antes que las tendencias pasajeras.",
-      "cta_question": "¿Notas avalúos más constantes en comunidades bien planificadas que en desarrollos tradicionales?"
+      "my_take_heading": "Software cannot fix unapproved home buyers",
+      "my_take": "Digitizing purchase agreements gives self-represented sellers a false sense of security. A contract is only as strong as the buyer's pre-approval letter.",
+      "action_lo": "Establish direct contact with FSBO buyers early to verify qualification before contracts are finalized.",
+      "action_realtor": "Show sellers why digital contract templates cannot replace professional negotiation and liability protection.",
+      "cta_question": "Will unrepresented digital purchase platforms increase financing fallout for mortgage lenders?"
     }
   ]
 }
