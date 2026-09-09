@@ -346,23 +346,24 @@ def get_data(mode="live"):
 
 
 def build_caption(series, last, prev, as_of):
-    """Email/posting commentary: today's move in bps plus the week's trend."""
-    d_today = round((last - prev) * 100)
-    week_delta = round((last - series[0][1]) * 100)
-    span = f"{series[0][1]:.2f}% on {_short_date(series[0][0])} to {last:.2f}%"
+    """Email/posting commentary: today's move in bps plus the week's trend,
+    at the same full precision the card shows."""
+    d_today = round((last - prev) * 100, 1)
+    week_delta = round((last - series[0][1]) * 100, 1)
+    span = f"{series[0][1]:.3f}% on {_short_date(series[0][0])} to {last:.3f}%"
     if d_today > 0:
-        today_txt = f"up {d_today} bps from the previous close"
+        today_txt = f"up {d_today:g} bps from the previous close"
     elif d_today < 0:
-        today_txt = f"down {abs(d_today)} bps from the previous close"
+        today_txt = f"down {abs(d_today):g} bps from the previous close"
     else:
         today_txt = "unchanged from the previous close"
     if week_delta > 2:
-        week_txt = f"This week it has been trending up: +{week_delta} bps ({span})."
+        week_txt = f"This week it has been trending up: +{week_delta:g} bps ({span})."
     elif week_delta < -2:
-        week_txt = f"This week it has been trending down: {week_delta} bps ({span})."
+        week_txt = f"This week it has been trending down: {week_delta:g} bps ({span})."
     else:
-        week_txt = (f"This week it has been roughly flat: {week_delta:+d} bps ({span}).")
-    return (f"The 10-Year Treasury is at {last:.2f}%, {today_txt} (as of {as_of}). "
+        week_txt = f"This week it has been roughly flat: {week_delta:+g} bps ({span})."
+    return (f"The 10-Year Treasury is at {last:.3f}%, {today_txt} (as of {as_of}). "
             f"{week_txt}")
 
 
@@ -374,7 +375,7 @@ def _short_date(iso):
 def build_chart_svg(series, t, width=348, height=170):
     """Minimal single-series line chart: 2px line, faint area fill, cyan end dot
     (echoes the brand icon), first/last value labels, small date labels."""
-    pad_l, pad_r, pad_t, pad_b = 8, 30, 26, 24
+    pad_l, pad_r, pad_t, pad_b = 8, 40, 26, 24
     xs = [pad_l + i * (width - pad_l - pad_r) / (len(series) - 1) for i in range(len(series))]
     vals = [v for _, v in series]
     lo, hi = min(vals), max(vals)
@@ -395,12 +396,13 @@ def build_chart_svg(series, t, width=348, height=170):
         # its value labelled above; the newest point keeps the big accent dot.
         if i < n - 1:
             dots.append(f'<circle cx="{x:.1f}" cy="{y:.1f}" r="3" fill="{t["dot"]}"/>')
-            labels.append(f'<text x="{x:.1f}" y="{y - 9:.1f}" text-anchor="middle" '
+            labels.append(f'<text x="{x:.1f}" y="{y - 9:.1f}" '
+                          f'text-anchor="{"start" if i == 0 else "middle"}" '
                           f'font-size="9" fill="{t["val_first"]}" '
-                          f'font-family="Work Sans,sans-serif">{v:.2f}</text>')
-    labels.append(f'<text x="{xs[-1] + 6:.1f}" y="{ys[-1] + 3:.1f}" text-anchor="start" '
-                  f'font-size="11" font-weight="600" fill="{t["val_last"]}" '
-                  f'font-family="Work Sans,sans-serif">{vals[-1]:.2f}</text>')
+                          f'font-family="Work Sans,sans-serif">{v:.3f}</text>')
+    labels.append(f'<text x="{xs[-1] + 5:.1f}" y="{ys[-1] + 3:.1f}" text-anchor="start" '
+                  f'font-size="10" font-weight="600" fill="{t["val_last"]}" '
+                  f'font-family="Work Sans,sans-serif">{vals[-1]:.3f}</text>')
 
     return f'''<svg width="{width}" height="{height}" viewBox="0 0 {width} {height}" fill="none">
   <defs>
@@ -422,7 +424,9 @@ def build_chart_svg(series, t, width=348, height=170):
 
 
 def build_html(series, last, prev, as_of, source, t):
-    delta_bps = round((last - prev) * 100)
+    # Real numbers, full precision: the displayed values, the chart labels and
+    # the bps math all use the same 3-decimal quotes, so they always agree.
+    delta_bps = round((last - prev) * 100, 1)
     if delta_bps > 0:
         arrow, color, word = "&#9650;", t["up"], "up"       # ▲
     elif delta_bps < 0:
@@ -431,7 +435,7 @@ def build_html(series, last, prev, as_of, source, t):
         arrow, color, word = "&#9654;", t["flat"], "unchanged"
     change = (f'<span style="color:{color};font-size:22px;">{arrow}</span>'
               f'<span class="sans" style="font-size:15px;font-weight:600;color:{color};">'
-              f'{abs(delta_bps)} bps {word}</span>'
+              f'{abs(delta_bps):g} bps {word}</span>'
               f'<span class="sans" style="font-size:13px;color:{t["vs"]};">'
               f'vs previous close</span>')
 
@@ -441,8 +445,8 @@ def build_html(series, last, prev, as_of, source, t):
         + gc.tag("Market Pulse", t["tag_bg"])
         + heading("10-Year Treasury", 30)
         + f'<div style="display:flex;align-items:baseline;gap:14px;margin:2px 0 4px;">'
-          f'<span class="serif" style="font-size:64px;font-weight:700;color:{t["hero"]};'
-          f'letter-spacing:-2px;line-height:1;">{last:.2f}%</span>'
+          f'<span class="serif" style="font-size:56px;font-weight:700;color:{t["hero"]};'
+          f'letter-spacing:-2px;line-height:1;">{last:.3f}%</span>'
           f'<span style="display:inline-flex;align-items:center;gap:7px;">{change}</span></div>'
         + f'<p class="sans" style="font-size:11px;color:{t["kicker"]};'
           f'letter-spacing:1px;text-transform:uppercase;margin:14px 0 6px;">'
