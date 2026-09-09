@@ -168,5 +168,175 @@
       "action_realtor": "Work with lenders using modern tech platforms to ensure faster conditional approvals for your buyers.",
       "cta_question": "Is your institution still running separate software stacks for retail and wholesale origination?"
     }
+  ],
+  "carousels_es": [
+    {
+      "slug": "fhfa-vantagescore-expansion",
+      "title": "La FHFA abre VantageScore 4.0 a todos los prestamistas de las GSE",
+      "source": "National Mortgage Professional",
+      "source_url": "https://nationalmortgageprofessional.com/news/fhfa-opens-vantagescore-all-gse-lenders-eyes-credit-report-overhaul",
+      "cover_text": "La FHFA cambio las reglas del credito",
+      "caption": "La FHFA acaba de dar un paso gigante en la forma de evaluar el credito para comprar casa. La agencia ordeno a Fannie Mae y Freddie Mac permitir que todos los prestamistas del sistema GSE utilicen VantageScore 4.0. Antes, solo 50 companas tenian acceso a este modelo. Este cambio representa un gran avance en el plan para renovar el sistema de informes crediticios en Estados Unidos. Para los oficiales de prestamo, esto significa nuevos criterios para calificar a mas clientes. Para el asesor (underwriter), los sistemas automatizados de evaluacion procesaran estos puntajes directamente. Los equipos de operaciones deben asegurar que su tecnologia este lista antes de que sea obligatorio. Los prestamistas que se adapten rapido tendran una clara ventaja con compradores calificados que no encajan en el FICO clasico. ¿Tu sistema ya esta listo?\n\nFuente : https://tinyurl.com/242r7bcc\n#SafetrustMortgage #MortgageIntelligenceDaily #mortgagelending #creditscore #homebuying",
+      "hashtags": [
+        "#SafetrustMortgage",
+        "#MortgageIntelligenceDaily",
+        "#mortgagelending",
+        "#creditscore",
+        "#homebuying"
+      ],
+      "hook_tag": "Cambios en el credito",
+      "hook": "VantageScore 4.0 ya esta disponible para todos los prestamistas.",
+      "what_happened_heading": "La FHFA expande el uso de VantageScore a todos los prestamistas",
+      "what_happened": "La FHFA ordeno a Fannie Mae y Freddie Mac autorizar a todos los prestamistas a usar VantageScore 4.0. Esto amplia el programa mas alla de la prueba piloto inicial que solo incluia a 50 companas.",
+      "breakdown": [
+        {
+          "heading": "Dejar atras la fase piloto",
+          "body": "El programa piloto estaba limitado a solo 50 prestamistas. Ahora, cualquier prestamista que trabaje con las GSE (empresas respaldadas por el gobierno como Fannie y Freddie) tendra acceso."
+        },
+        {
+          "heading": "El puntaje de credito alternativo cobra fuerza",
+          "body": "VantageScore 4.0 evalua datos diferentes a los modelos clasicos de FICO. Esto da una nueva forma de medir la capacidad de pago del comprador en prestamos de las GSE."
+        },
+        {
+          "heading": "Lo que cambia en la evaluacion del prestamo",
+          "body": "Esto es lo que cambia al evaluar la solicitud: los sistemas automatizados de evaluacion procesaran datos de VantageScore en todos los prestamistas aprobados sin contratiempos."
+        },
+        {
+          "heading": "Preparando los sistemas para el gran cambio",
+          "body": "La FHFA busca una reforma mas amplia del informe crediticio. Actualizar las plataformas hoy evitara problemas tecnologicos cuando estas reglas sean obligatorias para todos."
+        }
+      ],
+      "my_take_heading": "Las nuevas reglas de credito cambiaran los criterios de aprobacion",
+      "my_take": "Abrir VantageScore a todos no es solo un cambio tecnologico. Esto modificara de fondo quien logra ser aprobado en el limite del sistema crediticio tradicional.",
+      "action_lo": "Consulta con tu equipo para saber cuando tu sistema de origen de prestamos (LOS) activara VantageScore 4.0.",
+      "action_realtor": "Explica a tus compradores que el historial crediticio no tradicional pronto tendra mas peso al preaprobar la hipoteca.",
+      "cta_question": "¿Esta listo tu sistema para procesar VantageScore 4.0 en cada expediente?"
+    },
+    {
+      "slug": "better-crypto-mortgage-rehypothecation",
+      "title": "Las hipotecas respaldadas por cripto traen nuevos riesgos",
+      "source": "National Mortgage Professional",
+      "source_url": "https://nationalmortgageprofessional.com/news/crypto-backed-home-financing-comes-new-trade-offs",
+      "cover_text": "El riesgo oculto en hipotecas con criptomonedas",
+      "caption": "Un nuevo programa de hipotecas respaldadas por criptomonedas viene con una condicion muy importante que debes conocer. Better Mortgage lanzo un producto hipotecario con respaldos digitales pero incluyo la rehipoteca de activos (rehypothecation). Bajo este acuerdo, la empresa puede negociar o usar el bitcoin dejado en garantia para su propio financiamiento, siempre que devuelva una cantidad equivalente al pagar la deuda. Esto reduce costos para la entidad financiera, pero suma un riesgo directo para el comprador de casa. Para el asesor (underwriter), la estabilidad de la garantia lo es todo. Si la garantia se negocia activamente en el mercado secundario, el riesgo por volatilidad se dispara. Es clave que los clientes lean muy bien la letra pequena antes de comprometer sus activos digitales en una compra hipotecaria. ¿Aceptarias este tipo de contrato?\n\nFuente : https://tinyurl.com/27r9zc2x\n#SafetrustMortgage #MortgageIntelligenceDaily #mortgagelending #realestateinvesting #homebuying",
+      "hashtags": [
+        "#SafetrustMortgage",
+        "#MortgageIntelligenceDaily",
+        "#mortgagelending",
+        "#realestateinvesting",
+        "#homebuying"
+      ],
+      "hook_tag": "Riesgos en prestamos cripto",
+      "hook": "Tu bitcoin en garantia podria no quedarse guardado en una boveda.",
+      "what_happened_heading": "Better Mortgage introduce la rehipoteca de activos en prestamos cripto",
+      "what_happened": "Better Mortgage revelo que podria reutilizar el bitcoin entregado como garantia en su nuevo programa hipotecario. La empresa promete devolver una cantidad equivalente de bitcoin al cancelar el prestamo.",
+      "breakdown": [
+        {
+          "heading": "Que significa la rehipoteca de activos",
+          "body": "La rehipoteca de activos (rehypothecation) permite al prestamista usar la garantia entregada por el cliente para hacer sus propias transacciones o financiamientos secundarios."
+        },
+        {
+          "heading": "Devuelven un valor equivalente, no el mismo bitcoin",
+          "body": "Al pagar la hipoteca, el comprador recibe la misma cantidad de bitcoin, pero no necesariamente las mismas monedas digitales especificas que entrego al inicio."
+        },
+        {
+          "heading": "Lo que cambia para el asesor de credito",
+          "body": "Cuando el expediente llega al asesor (underwriter), la verificacion ya no es solo revisar fondos bloqueados, sino evaluar el riesgo de liquidez del propio prestamista."
+        },
+        {
+          "heading": "Equilibrar el apalancamiento y el riesgo",
+          "body": "Usar la garantia cripto del cliente reduce costos para el prestamista, pero crea una gran exposicion al mercado si los precios de las criptomonedas varian."
+        }
+      ],
+      "my_take_heading": "La rehipoteca traslada el riesgo financiero directamente a la garantia",
+      "my_take": "Las hipotecas con criptomonedas suenan modernas, pero esta practica hace que el comprador cambie la estabilidad del valor de su casa por el riesgo financiero del prestamista.",
+      "action_lo": "Explica con claridad las condiciones a tus clientes tecnologicamente avanzados para que entiendan que no conservaran sus monedas originales.",
+      "action_realtor": "Avisa a los clientes que usan criptoactivos que el prestamista podria usar esa garantia durante la vida del prestamo.",
+      "cta_question": "¿Recomendarias a tus clientes de alto patrimonio firmar un acuerdo de este tipo para su hipoteca?"
+    },
+    {
+      "slug": "optimal-blue-august-lock-volume-down",
+      "title": "El bloqueo de tasas cayo un 9 por ciento en agosto",
+      "source": "HousingWire",
+      "source_url": "https://www.housingwire.com/articles/optimal-blue-mortgage-lock-volume/",
+      "cover_text": "El bloqueo de tasas cayo 9 por ciento",
+      "caption": "El volumen de bloqueo de tasas hipotecarias bajo un 9% en agosto respecto a julio. Segun el informe mas reciente de Optimal Blue, con la tasa conforme a 30 anos cerrando en 6.72%, la demanda de refinanciacion sigue muy frenada. Esta baja demuestra que no se puede esperar que las tasas bajen solas para llenar el trabajo. Desde la perspectiva del asesor (underwriter), un volumen menor permite concentrarse en el cumplimiento estricto y la calidad de cada documento de compra. Los oficiales de prestamo deben enfocarse en alianzas solidas y soluciones creativas de compra en lugar de esperar un boom de refinanciaciones. Tambien es clave cuidar los costos operativos mientras el mercado este apretado. ¿Como te preparas para este cierre de ano?\n\nFuente : https://tinyurl.com/24qrewjh\n#SafetrustMortgage #MortgageIntelligenceDaily #mortgagerates #housingmarket #loanofficer",
+      "hashtags": [
+        "#SafetrustMortgage",
+        "#MortgageIntelligenceDaily",
+        "#mortgagerates",
+        "#housingmarket",
+        "#loanofficer"
+      ],
+      "hook_tag": "Tendencias del mercado",
+      "hook": "El bloqueo de tasas hipotecarias sufrio una fuerte caida el mes pasado.",
+      "what_happened_heading": "El volumen de bloqueo de tasas bajo considerablemente en agosto",
+      "what_happened": "El volumen total de bloqueo de tasas bajo 9% en agosto respecto a julio, segun Optimal Blue. La tasa conforme a 30 anos cerro el mes en 6.72% mientras la refinanciacion continuo estancada.",
+      "breakdown": [
+        {
+          "heading": "Caida mensual en el volumen de bloqueos",
+          "body": "Optimal Blue reporto una caida del 9% mes a mes en el volumen total de bloqueos, afectando tanto compras como refinanciaciones."
+        },
+        {
+          "heading": "Las tasas de interes no bajan lo suficiente",
+          "body": "La tasa conforme a 30 anos (prestamos dentro de los limites basicos de las GSE) cerro agosto en 6.72%, frenando el impulso de los compradores."
+        },
+        {
+          "heading": "Lo que cambia al momento de evaluar",
+          "body": "Con menos volumen, el asesor (underwriter) se enfoca en revisar con lupa la calidad de cada expediente en lugar de procesar solicitudes a toda prisa."
+        },
+        {
+          "heading": "El mercado de refinanciacion sigue limitado",
+          "body": "La refinanciacion mostro muy poca recuperacion, lo que obliga a los profesionales a depender casi exclusivamente de las compras de vivienda."
+        }
+      ],
+      "my_take_heading": "La baja en bloqueos confirma que el mercado dependera solo de las compras",
+      "my_take": "Una caida del 9% demuestra que pequenas bajas en las tasas no reviviran el mercado por si solas si no mejoran el inventario de casas y la capacidad de pago.",
+      "action_lo": "Enfoca tu estrategia en clientes compradores en lugar de esperar una bajada de tasas para refinanciar que no llega.",
+      "action_realtor": "Trabaja junto con tu oficial de prestamos para negociar concesiones del vendedor que bajen el costo real de la tasa.",
+      "cta_question": "¿Como te estas preparando para la bajada en el volumen de prestamos esta temporada?"
+    },
+    {
+      "slug": "ncino-broker-originated-loans-retail-platform",
+      "title": "nCino integra prestamos de brokers en su plataforma minorista",
+      "source": "National Mortgage Professional",
+      "source_url": "https://nationalmortgageprofessional.com/news/ncino-brings-broker-originated-loans-its-retail-mortgage-platform",
+      "cover_text": "La tecnologia minorista y mayorista finalmente se unen",
+      "caption": "nCino acaba de integrar los prestamos procesados por brokers directamente en su plataforma minorista. Para los prestamistas que manejan tanto canal minorista como mayorista, operar sistemas separados genera friccion tecnologica y aumenta bastante los costos operativos. Al unificar estos flujos de trabajo, nCino busca simplificar la recepcion de datos. Desde el punto de vista del asesor (underwriter), contar con una sola entrada de informacion reduce errores en los expedientes y estandariza la aprobacion de condiciones. Con los margenes de ganancia ajustados en toda la industria, eliminar programas duplicados es una prioridad principal para los ejecutivos que buscan crecer de manera mas eficiente. ¿Tu empresa sigue usando software separado para cada canal?\n\nFuente : https://tinyurl.com/2ytqhdnu\n#SafetrustMortgage #MortgageIntelligenceDaily #mortgagebroker #loanofficer #mortgagelending",
+      "hashtags": [
+        "#SafetrustMortgage",
+        "#MortgageIntelligenceDaily",
+        "#mortgagebroker",
+        "#loanofficer",
+        "#mortgagelending"
+      ],
+      "hook_tag": "Tecnologia hipotecaria",
+      "hook": "nCino une los canales de origen para brokers y minoristas.",
+      "what_happened_heading": "nCino unifica los procesos de prestamos mayoristas y minoristas",
+      "what_happened": "nCino actualizo su plataforma de punto de venta (POS) para integrar prestamos de brokers en el mismo sistema que usan sus equipos minoristas. Esto esta pensado para prestamistas que operan en ambos canales.",
+      "breakdown": [
+        {
+          "heading": "Eliminar el uso de sistemas separados",
+          "body": "Los prestamistas con dos canales suelen usar portales y procesos fragmentados, lo que aumenta innecesariamente los costos de tecnologia y mantenimiento."
+        },
+        {
+          "heading": "Una experiencia mas agil para el broker",
+          "body": "Los brokers que envian prestamos usaran el mismo sistema de punto de venta (POS), haciendo la transferencia de datos mas rapida y sin errores."
+        },
+        {
+          "heading": "Lo que cambia en la evaluacion del credito",
+          "body": "Al unificar la entrada de datos, el asesor (underwriter) puede evaluar expedientes minoristas y mayoristas bajo las mismas reglas y estandares."
+        },
+        {
+          "heading": "Reducir los costos operativos por prestamo",
+          "body": "Unificar las plataformas ayuda a las entidades a gastar menos en mantenimiento de software y acelerar el tiempo de cierre de las hipotecas."
+        }
+      ],
+      "my_take_heading": "Unificar la tecnologia es vital para sobrevivir en el mercado actual",
+      "my_take": "Usar sistemas separados ya no funciona. Los prestamistas deben unificar sus plataformas para reducir costos y proteger sus ganancias en este mercado.",
+      "action_lo": "Pregunta a tus representantes mayoristas si sus cambios tecnologicos reducen retrasos y agilizan las revisiones del asesor.",
+      "action_realtor": "Trabaja con prestamistas que usen tecnologia moderna para asegurar preaprobaciones mas rapidas para tus compradores.",
+      "cta_question": "¿Tu institucion sigue usando sistemas separados para el canal minorista y el mayorista?"
+    }
   ]
 }
