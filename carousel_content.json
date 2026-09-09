@@ -1,342 +1,172 @@
 {
   "carousels": [
     {
-      "slug": "listing-tech-misrepresentation-risk",
-      "title": "Can tech keep agents out of trouble for listing mistakes?",
-      "source": "HousingWire",
-      "source_url": "https://www.housingwire.com/articles/tech-avoid-marketing-misrepresentation/",
-      "cover_text": "Tech won't save agents from misrepresentation lawsuits",
-      "caption": "High-tech listing tools like LiDAR and 3D tours were supposed to shield agents from misrepresentation claims. Instead, they are creating a digital paper trail that underwriters and attorneys can use against you. When an appraiser checks GLA (gross living area), digital scans make discrepancies painfully obvious. Underwriters spot altered conditions instantly when comparing listing photos to physical appraisal reports. Relying on AI enhancements or unverified floor plans leaves zero room for error during credit and collateral review. If the physical file does not match the marketing representation, the deal stalls in underwriting immediately. Smart originators and top agents must audit tech data before submitting purchase contracts.\n\nSource : https://tinyurl.com/29b5h4p4\n#SafetrustMortgage #MortgageIntelligenceDaily #realestateagent #housingmarket #mortgagebroker",
+      "slug": "fhfa-vantagescore-expansion",
+      "title": "FHFA Opens VantageScore 4.0 to All GSE Lenders",
+      "source": "National Mortgage Professional",
+      "source_url": "https://nationalmortgageprofessional.com/news/fhfa-opens-vantagescore-all-gse-lenders-eyes-credit-report-overhaul",
+      "cover_text": "The FHFA just changed credit scoring rules",
+      "caption": "The FHFA just ordered Fannie Mae and Freddie Mac to allow all GSE (government-sponsored enterprise) lenders to use VantageScore 4.0. Previously, only 50 lenders had access to this credit scoring model. This expansion marks a massive step in the FHFA's plan to overhaul credit reporting across the housing industry. For loan officers, this means potential shifts in borrower qualifying criteria as systems update. For underwriters, automated underwriting systems will need to process these scores smoothly. Operations teams must ensure their technology stack supports VantageScore before full adoption kicks in. Lenders who adapt quickly will gain an edge in capturing creditworthy borrowers who struggle under traditional FICO rules.\n\nSource : https://tinyurl.com/242r7bcc\n#SafetrustMortgage #MortgageIntelligenceDaily #mortgagelending #creditscore #homebuying",
       "hashtags": [
         "#SafetrustMortgage",
         "#MortgageIntelligenceDaily",
-        "#realestateagent",
-        "#housingmarket",
-        "#mortgagebroker"
-      ],
-      "hook_tag": "Listing Liability",
-      "hook": "High tech listing tools expose agent liabilities faster than ever.",
-      "what_happened_heading": "AI photos and LiDAR bring new risks",
-      "what_happened": "Tech tools like LiDAR measurements and 3D tours are now used to verify square footage and curb AI-edited photos. While meant to protect listings, these tools create digital paper trails that misrepresentation claims can target.",
-      "breakdown": [
-        {
-          "heading": "Digital precision leaves no room for error",
-          "body": "LiDAR provides exact laser measurements. When an appraisal comes in short on GLA (gross living area), your seller cannot hide behind vague estimates anymore."
-        },
-        {
-          "heading": "AI photo edits trigger misrepresentation claims",
-          "body": "Enhancing photos with AI seems harmless until buyers claim material misrepresentation. Underwriters and appraisers compare virtual tours against actual property conditions."
-        },
-        {
-          "heading": "Here is what changes in underwriting",
-          "body": "As an underwriter, I look for discrepancies between listed specs and appraisal comps. Tech-backed data makes appraisal review red flags impossible to ignore."
-        },
-        {
-          "heading": "Liability shifts directly onto the listing agent",
-          "body": "Brokers can no longer claim honest mistakes when digital records document the exact physical layout prior to closing."
-        }
-      ],
-      "my_take_heading": "Data transparency cuts both ways for agents",
-      "my_take": "High-tech listing tools do not protect bad marketing. They just give trial attorneys and underwriters pristine digital evidence when property details are embellished.",
-      "action_lo": "Audit appraisal comps against 3D tours when property condition red flags appear in the file.",
-      "action_realtor": "Compare LiDAR output directly against tax records before publishing any home listing details.",
-      "cta_question": "Are your listing agents relying on tech verification or just creating extra legal liability?"
-    },
-    {
-      "slug": "truss-financial-direct-lending-scaling",
-      "title": "Truss Financial scales hybrid model with new direct lending platform",
-      "source": "HousingWire",
-      "source_url": "https://www.housingwire.com/articles/truss-financial-direct-lending-non-qm-dscr-heloc/",
-      "cover_text": "Why Non-QM lenders are grabbing direct control",
-      "caption": "Truss Financial just added in-house underwriting and funding to scale its hybrid platform across Non-QM (loans that do not meet federal qualified mortgage standards), DSCR (debt service coverage ratio loans), and HELOC (home equity line of credit) products. For years, Non-QM origination was bogged down by third-party broker delays and endless condition loops. By bringing underwriting in-house, lenders take total control over turn times and credit decisions. In underwriting, direct sign-off on investor files removes middleman friction and clarifies stipulations. Originators who rely on slow wholesale pipelines will lose investor deals to platforms that can underwrite and fund under one roof. Control over the paper is the ultimate competitive advantage in today's shifting mortgage market.\n\nSource : https://tinyurl.com/29b5h4p4\n#SafetrustMortgage #MortgageIntelligenceDaily #loanofficer #mortgagebroker #realestateinvesting",
-      "hashtags": [
-        "#SafetrustMortgage",
-        "#MortgageIntelligenceDaily",
-        "#loanofficer",
-        "#mortgagebroker",
-        "#realestateinvesting"
-      ],
-      "hook_tag": "Direct Lending",
-      "hook": "Cutting turn times requires control over underwriting and funding.",
-      "what_happened_heading": "Truss Financial launches in-house direct platform",
-      "what_happened": "Truss Financial added in-house underwriting and funding capabilities to scale its hybrid lending model. The expanded platform targets Non-QM (loans that do not meet federal qualified mortgage standards), DSCR (debt service coverage ratio loans based on rental income), and HELOC (home equity line of credit) products.",
-      "breakdown": [
-        {
-          "heading": "Brokering Non-QM creates operational bottlenecks",
-          "body": "Third-party underwriting creates unpredictable turn times. Owning the underwriting queue lets lenders set consistent decision speeds on complex non-conforming files."
-        },
-        {
-          "heading": "Direct funding stabilizes liquidity",
-          "body": "Controlling funding means avoiding last-minute investor clear-to-close delays. It brings balance sheet authority to specialized loan structures."
-        },
-        {
-          "heading": "Here is what changes in underwriting",
-          "body": "In underwriting, having internal sign-off on DSCR (debt service coverage ratio) cash flows means fewer condition loops and faster clear-to-close approvals for real estate investors."
-        },
-        {
-          "heading": "Hybrid models capture market share",
-          "body": "Combining broker flexibility with direct lender speed gives originators a distinct edge when traditional channel volumes drop."
-        }
-      ],
-      "my_take_heading": "Direct non-QM execution beats broker flexibility",
-      "my_take": "Speed without underwriting authority is just marketing hype. Controlling the paper from submission through funding is the only way to scale Non-QM reliably.",
-      "action_lo": "Partner with Non-QM outlets that control their own underwriting sign-offs to protect closing dates.",
-      "action_realtor": "Identify lenders with internal Non-QM authority to save deals with non-traditional income.",
-      "cta_question": "Will direct lending models squeeze out traditional Non-QM wholesale brokers this year?"
-    },
-    {
-      "slug": "florida-orlando-housing-market-split",
-      "title": "Florida’s housing market looks shaky. Orlando tells a more complicated story",
-      "source": "HousingWire",
-      "source_url": "https://www.housingwire.com/articles/floridas-housing-market-looks-shaky-orlando-tells-a-more-complicated-story/",
-      "cover_text": "Florida's real estate market is splitting in two",
-      "caption": "Florida real estate headlines sound alarm bells, but local market data tells a vastly different story. While vacation markets see inventory gains, primary markets like Orlando face deep affordability challenges. As an underwriter, I see how rising property insurance and taxes push buyer DTI (how much of your income goes to debt) to the absolute brink. Lumping entire states into one housing narrative leads to terrible business decisions for loan officers and realtors. Originators and realtors must look past macro news and focus on local qualification capacity. Deals fall apart at the desk when local tax and insurance costs surprise buyers at conditional approval. Know your local micro-market numbers.\n\nSource : https://tinyurl.com/29b5h4p4\n#SafetrustMortgage #MortgageIntelligenceDaily #housingmarket #homebuying #firsttimehomebuyer",
-      "hashtags": [
-        "#SafetrustMortgage",
-        "#MortgageIntelligenceDaily",
-        "#housingmarket",
-        "#homebuying",
-        "#firsttimehomebuyer"
-      ],
-      "hook_tag": "Regional Real Estate",
-      "hook": "Statewide housing headlines completely miss local affordability reality.",
-      "what_happened_heading": "Orlando defies broader Florida housing trend",
-      "what_happened": "Florida's housing market shows signs of weakness across several vacation-heavy regions. However, Orlando displays a more complicated narrative where primary buyer affordability remains the primary obstacle.",
-      "breakdown": [
-        {
-          "heading": "Vacation markets skew state housing statistics",
-          "body": "Second-home inventory surges mask solid baseline demand in metro hubs. Aggregated state data creates false assumptions about local home prices."
-        },
-        {
-          "heading": "Affordability hits primary buyers hardest",
-          "body": "First-time buyers in metro hubs face stubborn affordability hurdles. Wage growth continues to lag behind cumulative housing cost increases."
-        },
-        {
-          "heading": "Here is what changes in underwriting",
-          "body": "Underwriters review DTI (how much of your income goes to debt) ratios more strictly in high-insurance markets, squeezing buyer purchasing power."
-        },
-        {
-          "heading": "Micro-markets demand localized origination strategies",
-          "body": "Broad market narrative strategies fail when local inventory dynamics diverge sharply from state headlines."
-        }
-      ],
-      "my_take_heading": "National housing headlines ruin local strategy",
-      "my_take": "Treating Florida as one single real estate market is an amateur mistake. Primary residential metros are driven by DTI capacity, not vacation seller panic.",
-      "action_lo": "Pre-qualify clients using localized property tax and insurance estimates rather than broad state averages.",
-      "action_realtor": "Target primary home buyers with realistic affordability analyses instead of waiting for market crashes.",
-      "cta_question": "How are you adjusting qualification hurdles in markets where insurance costs strain buyer DTI?"
-    },
-    {
-      "slug": "fsbo-pact-digital-contract-platform",
-      "title": "FSBO.com rolls out tech platform to streamline home purchase agreements",
-      "source": "HousingWire",
-      "source_url": "https://www.housingwire.com/articles/fsbocom-launches-pact-digital-offer-to-contract-platform/",
-      "cover_text": "Why digital purchase contracts fall short",
-      "caption": "FSBO.com just launched PACT, a platform designed to digitize home purchase agreements from listing through closing. While digitizing contracts sounds efficient, standardizing paperwork does not fix underlying borrower qualification issues or financing gaps. As an underwriter, I routinely see non-standard FSBO (for sale by owner) contracts get held up over missing financing contingencies or ambiguous property terms. A slick digital contract software means nothing if the buyer cannot pass underwriting standards or meet appraisal requirements. Originators and realtors need to educate buyers that signed software documents do not equal a funded mortgage loan. Protect your transactions by verifying buyer financing before any contract gets signed digitally.\n\nSource : https://tinyurl.com/29b5h4p4\n#SafetrustMortgage #MortgageIntelligenceDaily #realestateagent #mortgagebroker #homebuying",
-      "hashtags": [
-        "#SafetrustMortgage",
-        "#MortgageIntelligenceDaily",
-        "#realestateagent",
-        "#mortgagebroker",
+        "#mortgagelending",
+        "#creditscore",
         "#homebuying"
       ],
-      "hook_tag": "Digital Transactions",
-      "hook": "Automating real estate contracts cannot eliminate buyer qualification friction.",
-      "what_happened_heading": "FSBO.com introduces PACT offer platform",
-      "what_happened": "FSBO.com launched PACT, a technology platform built to streamline offer-to-contract purchase agreements. Developed from Homepie technology, the software digitizes real estate transactions from listing through closing.",
+      "hook_tag": "Credit Score Overhaul",
+      "hook": "VantageScore 4.0 is now open to every GSE lender.",
+      "what_happened_heading": "FHFA expands VantageScore access to all GSE lenders",
+      "what_happened": "The FHFA has directed Fannie Mae and Freddie Mac to approve all lenders to use VantageScore 4.0. This expands the program beyond its previous pilot limit of 50 mortgage companies.",
       "breakdown": [
         {
-          "heading": "Digital contracts solve paperwork not qualification",
-          "body": "Standardizing purchase agreements speeds up signature collection. However, automated forms cannot solve underlying financing challenges or complex contract contingencies."
+          "heading": "Moving past the pilot phase",
+          "body": "The pilot program was restricted to just 50 lenders. Now, every lender working with the GSEs (government-sponsored enterprises like Fannie and Freddie) gets access."
         },
         {
-          "heading": "Unrepresented buyers miss critical deal terms",
-          "body": "Self-service contract tools bypass expert agent guidance. Missing standard financing contingencies puts earnest money deposits at severe risk."
+          "heading": "Alternative credit scoring takes center stage",
+          "body": "VantageScore 4.0 factors in different data than classic FICO models. This gives lenders a new way to evaluate borrower creditworthiness on GSE loans."
         },
         {
           "heading": "Here is what changes in underwriting",
-          "body": "Underwriters reject ambiguous or non-standard digitally generated addendums. Custom FSBO (for sale by owner) purchase contracts frequently require legal revisions before loan approval."
+          "body": "Here's what this actually changes when a file hits underwriting: automated underwriting systems (software that calculates loan approvals) will now process VantageScore data across all approved lenders."
         },
         {
-          "heading": "Closing velocity depends on lender execution",
-          "body": "A fast contract signing does not accelerate appraisal turn times or title clearance. Digital platforms only address one piece of the transaction chain."
+          "heading": "Preparing systems for a full report overhaul",
+          "body": "The FHFA is eyeing a broader credit report overhaul. Upgrading origination platforms today prevents tech friction when the new standards become mandatory."
         }
       ],
-      "my_take_heading": "Software cannot fix unapproved home buyers",
-      "my_take": "Digitizing purchase agreements gives self-represented sellers a false sense of security. A contract is only as strong as the buyer's pre-approval letter.",
-      "action_lo": "Establish direct contact with FSBO buyers early to verify qualification before contracts are finalized.",
-      "action_realtor": "Show sellers why digital contract templates cannot replace professional negotiation and liability protection.",
-      "cta_question": "Will unrepresented digital purchase platforms increase financing fallout for mortgage lenders?"
-    }
-  ],
-  "carousels_es": [
-    {
-      "slug": "listing-tech-misrepresentation-risk",
-      "title": "¿Puede la tecnología evitarles problemas a los agentes por errores en los listados?",
-      "source": "HousingWire",
-      "source_url": "https://www.housingwire.com/articles/tech-avoid-marketing-misrepresentation/",
-      "cover_text": "La tecnología no salvará a los agentes de demandas",
-      "caption": "Las herramientas de listado de alta tecnología, como LiDAR y los tours 3D, supuestamente protegerían a los agentes de demandas por información falsa. En cambio, crean un rastro digital que los asesores y abogados pueden usar en tu contra. Cuando un tasador verifica el área bruta habitable (GLA), los escaneos digitales hacen que las discrepancias sean dolorosamente obvias. Los asesores detectan cambios al instante al comparar fotos del listado con informes de tasación físicos. Confiar en mejoras de IA o planos de planta no verificados no deja margen de error durante la revisión de crédito y garantía. Si el archivo físico no coincide con la representación de marketing, el trato se detiene en la suscripción de inmediato. Los originadores inteligentes y los mejores agentes deben auditar los datos tecnológicos antes de enviar contratos de compra.\n\nFuente : https://tinyurl.com/27bd9xle\n#SafetrustMortgage #MortgageIntelligenceDaily #realestateagent #housingmarket #mortgagebroker",
-      "hashtags": [
-        "#SafetrustMortgage",
-        "#MortgageIntelligenceDaily",
-        "#realestateagent",
-        "#housingmarket",
-        "#mortgagebroker"
-      ],
-      "hook_tag": "Responsabilidad del listado",
-      "hook": "Las herramientas de listado de alta tecnología exponen las responsabilidades de los agentes más rápido que nunca.",
-      "what_happened_heading": "Fotos con IA y LiDAR traen nuevos riesgos",
-      "what_happened": "Herramientas tecnológicas como las mediciones LiDAR y los tours 3D se usan para verificar el área en pies cuadrados y controlar fotos editadas con IA. Aunque buscan proteger los listados, estas herramientas crean rastros digitales que las reclamaciones por información falsa pueden atacar.",
-      "breakdown": [
-        {
-          "heading": "La precisión digital no deja margen de error",
-          "body": "LiDAR proporciona mediciones láser exactas. Cuando una tasación muestra menos GLA (área bruta habitable), tu vendedor ya no puede esconderse tras estimaciones vagas."
-        },
-        {
-          "heading": "Ediciones de fotos con IA provocan demandas",
-          "body": "Mejorar fotos con IA parece inofensivo hasta que los compradores reclaman información falsa material. Los asesores y tasadores comparan tours virtuales con las condiciones reales de la propiedad."
-        },
-        {
-          "heading": "Esto es lo que cambia en la asesoría",
-          "body": "Como asesor, busco discrepancias entre las especificaciones listadas y las comparables de tasación. Los datos con respaldo tecnológico hacen que las señales de alerta de la revisión de tasación sean imposibles de ignorar."
-        },
-        {
-          "heading": "La responsabilidad recae directamente en el agente",
-          "body": "Los corredores ya no pueden alegar errores honestos cuando los registros digitales documentan el diseño físico exacto antes del cierre."
-        }
-      ],
-      "my_take_heading": "La transparencia de datos tiene dos caras para los agentes",
-      "my_take": "Las herramientas de listado de alta tecnología no protegen el marketing deficiente. Solo dan a los abogados y asesores pruebas digitales impecables cuando los detalles de la propiedad se embellecen.",
-      "action_lo": "Audita las comparaciones de tasación con los tours 3D cuando aparezcan señales de alerta sobre el estado de la propiedad en el archivo.",
-      "action_realtor": "Compara la salida de LiDAR directamente con los registros de impuestos antes de publicar cualquier detalle del listado de una casa.",
-      "cta_question": "¿Tus agentes de listado confían en la verificación tecnológica o solo están creando responsabilidad legal adicional?"
+      "my_take_heading": "Credit scoring changes will reframe borrower eligibility standards",
+      "my_take": "Opening VantageScore to everyone is not just a tech update; it will fundamentally shift who gets approved at the margin.",
+      "action_lo": "Check with your secondary marketing team to see when your LOS (loan origination system) enables VantageScore 4.0 pricing.",
+      "action_realtor": "Educate buyers that non-traditional credit histories may soon carry more weight during mortgage pre-approvals.",
+      "cta_question": "Is your loan origination system ready to run VantageScore 4.0 on every file?"
     },
     {
-      "slug": "truss-financial-direct-lending-scaling",
-      "title": "Truss Financial escala su modelo híbrido con nueva plataforma de préstamos directos",
-      "source": "HousingWire",
-      "source_url": "https://www.housingwire.com/articles/truss-financial-direct-lending-non-qm-dscr-heloc/",
-      "cover_text": "Por qué los prestamistas Non-QM toman el control directo",
-      "caption": "Truss Financial acaba de agregar asesoría y financiación internas para escalar su plataforma híbrida en productos Non-QM (préstamos que no cumplen con los estándares federales de hipotecas calificadas), DSCR (préstamos de relación de cobertura del servicio de la deuda) y HELOC (línea de crédito con garantía hipotecaria). Durante años, la originación de Non-QM se vio obstaculizada por retrasos de corredores externos y ciclos interminables de condiciones. Al traer la asesoría internamente, los prestamistas toman el control total sobre los tiempos de respuesta y las decisiones de crédito. En la asesoría, la aprobación directa de los archivos de los inversionistas elimina la fricción del intermediario y aclara las estipulaciones. Los originadores que dependen de lentas carteras mayoristas perderán negocios de inversionistas ante plataformas que pueden asesorar y financiar bajo un mismo techo. El control sobre los documentos es la ventaja competitiva definitiva en el cambiante mercado hipotecario actual.\n\nFuente : https://tinyurl.com/24s3ym6b\n#SafetrustMortgage #MortgageIntelligenceDaily #loanofficer #mortgagebroker #realestateinvesting",
+      "slug": "better-crypto-mortgage-rehypothecation",
+      "title": "Crypto-Backed Home Financing Comes With New Trade-Offs",
+      "source": "National Mortgage Professional",
+      "source_url": "https://nationalmortgageprofessional.com/news/crypto-backed-home-financing-comes-new-trade-offs",
+      "cover_text": "The hidden risk in crypto backed mortgages",
+      "caption": "Better Mortgage recently launched a crypto-backed mortgage program with a major twist: rehypothecation (the practice where a lender reuses pledged assets for its own financing). Under this agreement, Better can trade or leverage pledged bitcoin, as long as it returns an equivalent quantity upon loan payoff. While this cuts capital costs for the lender, it adds counterparty risk for the homebuyer. When an underwriter looks at pledged assets, stability is everything. If the collateral is being actively traded in secondary markets, volatility risk increases dramatically. LOs and brokers need to make sure clients fully read the fine print on crypto-collateralized products before pledging digital assets.\n\nSource : https://tinyurl.com/27r9zc2x\n#SafetrustMortgage #MortgageIntelligenceDaily #mortgagelending #realestateinvesting #homebuying",
       "hashtags": [
         "#SafetrustMortgage",
         "#MortgageIntelligenceDaily",
-        "#loanofficer",
-        "#mortgagebroker",
-        "#realestateinvesting"
-      ],
-      "hook_tag": "Préstamo directo",
-      "hook": "Reducir los tiempos de respuesta requiere control sobre la asesoría y la financiación.",
-      "what_happened_heading": "Truss Financial lanza plataforma directa interna",
-      "what_happened": "Truss Financial agregó capacidades internas de asesoría y financiación para escalar su modelo de préstamo híbrido. La plataforma ampliada se enfoca en productos Non-QM (préstamos que no cumplen con los estándares federales de hipotecas calificadas), DSCR (préstamos de relación de cobertura del servicio de la deuda basados en ingresos de alquiler) y HELOC (línea de crédito con garantía hipotecaria).",
-      "breakdown": [
-        {
-          "heading": "El corretaje de Non-QM crea cuellos de botella",
-          "body": "La asesoría de terceros crea tiempos de respuesta impredecibles. Poseer la fila de asesoría permite a los prestamistas establecer velocidades de decisión consistentes en archivos complejos no conformes."
-        },
-        {
-          "heading": "La financiación directa estabiliza la liquidez",
-          "body": "Controlar la financiación significa evitar retrasos de último minuto en el visto bueno para el cierre de los inversionistas. Otorga autoridad de balance a estructuras de préstamos especializadas."
-        },
-        {
-          "heading": "Esto es lo que cambia en la asesoría",
-          "body": "En la asesoría, tener la aprobación interna de los flujos de efectivo DSCR (relación de cobertura del servicio de la deuda) significa menos ciclos de condiciones y aprobaciones más rápidas para el visto bueno para el cierre para inversionistas inmobiliarios."
-        },
-        {
-          "heading": "Los modelos híbridos capturan cuota de mercado",
-          "body": "Combinar la flexibilidad del corredor con la velocidad del prestamista directo da a los originadores una ventaja distintiva cuando bajan los volúmenes de los canales tradicionales."
-        }
-      ],
-      "my_take_heading": "La ejecución directa de Non-QM supera la flexibilidad del corredor",
-      "my_take": "La velocidad sin autoridad de asesoría es solo bombo publicitario. Controlar el papeleo desde la presentación hasta la financiación es la única forma de escalar Non-QM de manera confiable.",
-      "action_lo": "Asóciate con puntos de venta de Non-QM que controlen sus propias aprobaciones de asesoría para proteger las fechas de cierre.",
-      "action_realtor": "Identifica prestamistas con autoridad interna de Non-QM para salvar tratos con ingresos no tradicionales.",
-      "cta_question": "¿Los modelos de préstamo directo eliminarán a los corredores mayoristas tradicionales de Non-QM este año?"
-    },
-    {
-      "slug": "florida-orlando-housing-market-split",
-      "title": "El mercado inmobiliario de Florida luce inestable. Orlando cuenta una historia más compleja",
-      "source": "HousingWire",
-      "source_url": "https://www.housingwire.com/articles/floridas-housing-market-looks-shaky-orlando-tells-a-more-complicated-story/",
-      "cover_text": "El mercado inmobiliario de Florida se está dividiendo en dos",
-      "caption": "Los titulares sobre bienes raíces en Florida suenan alarmantes, pero los datos del mercado local cuentan una historia muy diferente. Mientras los mercados vacacionales ven ganancias de inventario, los mercados primarios como Orlando enfrentan profundos desafíos de asequibilidad. Como asesor, veo cómo el aumento del seguro de propiedad y los impuestos llevan la relación deuda-ingresos (DTI) del comprador al límite absoluto. Agrupar estados enteros en una narrativa de vivienda única lleva a decisiones comerciales terribles para los oficiales de préstamo y los agentes de bienes raíces. Los originadores y agentes deben ir más allá de las noticias macro y centrarse en la capacidad de calificación local. Los tratos se desmoronan cuando los costos locales de impuestos y seguros sorprenden a los compradores en la aprobación condicional. Conoce tus números de micromercado local.\n\nFuente : https://tinyurl.com/2b2skyb2\n#SafetrustMortgage #MortgageIntelligenceDaily #housingmarket #homebuying #firsttimehomebuyer",
-      "hashtags": [
-        "#SafetrustMortgage",
-        "#MortgageIntelligenceDaily",
-        "#housingmarket",
-        "#homebuying",
-        "#firsttimehomebuyer"
-      ],
-      "hook_tag": "Bienes Raíces Regionales",
-      "hook": "Los titulares de vivienda a nivel estatal omiten por completo la realidad local de la asequibilidad.",
-      "what_happened_heading": "Orlando desafía la tendencia general de vivienda en Florida",
-      "what_happened": "El mercado de vivienda de Florida muestra signos de debilidad en varias regiones con alta afluencia turística. Sin embargo, Orlando presenta una narrativa más compleja donde la asequibilidad para el comprador principal sigue siendo el principal obstáculo.",
-      "breakdown": [
-        {
-          "heading": "Los mercados vacacionales distorsionan las estadísticas de vivienda del estado",
-          "body": "El aumento del inventario de segundas viviendas enmascara una demanda base sólida en los centros urbanos. Los datos estatales agregados crean suposiciones falsas sobre los precios locales de las casas."
-        },
-        {
-          "heading": "La asequibilidad afecta más a los compradores primarios",
-          "body": "Los compradores de primera vez en los centros urbanos enfrentan obstáculos persistentes de asequibilidad. El crecimiento salarial sigue rezagándose detrás del aumento acumulado de los costos de la vivienda."
-        },
-        {
-          "heading": "Esto es lo que cambia en la asesoría",
-          "body": "Los asesores revisan las relaciones DTI (cuánto de tus ingresos va a deudas) de forma más estricta en mercados con seguros altos, lo que reduce el poder adquisitivo del comprador."
-        },
-        {
-          "heading": "Los micromercados exigen estrategias de originación localizadas",
-          "body": "Las estrategias de narrativa de mercado amplias fallan cuando la dinámica del inventario local difiere bruscamente de los titulares estatales."
-        }
-      ],
-      "my_take_heading": "Los titulares nacionales de vivienda arruinan la estrategia local",
-      "my_take": "Tratar a Florida como un solo mercado inmobiliario es un error de principiante. Los metros residenciales primarios se impulsan por la capacidad DTI, no por el pánico de los vendedores de casas vacacionales.",
-      "action_lo": "Precalifica a los clientes usando estimaciones localizadas de impuestos a la propiedad y seguros en lugar de promedios estatales generales.",
-      "action_realtor": "Dirígete a compradores de vivienda principal con análisis de asequibilidad realistas en lugar de esperar caídas del mercado.",
-      "cta_question": "¿Cómo estás ajustando los obstáculos de calificación en mercados donde los costos de seguros afectan el DTI del comprador?"
-    },
-    {
-      "slug": "fsbo-pact-digital-contract-platform",
-      "title": "FSBO.com lanza plataforma tecnológica para agilizar acuerdos de compra de viviendas",
-      "source": "HousingWire",
-      "source_url": "https://www.housingwire.com/articles/fsbocom-launches-pact-digital-offer-to-contract-platform/",
-      "cover_text": "Por qué los contratos de compra digitales se quedan cortos",
-      "caption": "FSBO.com acaba de lanzar PACT, una plataforma diseñada para digitalizar los acuerdos de compra de viviendas desde el listado hasta el cierre. Si bien digitalizar contratos suena eficiente, estandarizar el papeleo no soluciona problemas de calificación del prestatario subyacentes o lagunas de financiación. Como asesor, veo rutinariamente cómo los contratos FSBO (venta por el propietario) no estándar se detienen por contingencias de financiación faltantes o términos de propiedad ambiguos. Un software de contrato digital elegante no significa nada si el comprador no puede pasar los estándares de asesoría o cumplir con los requisitos de tasación. Los originadores y agentes inmobiliarios deben educar a los compradores sobre que los documentos de software firmados no equivalen a un préstamo hipotecario financiado. Protege tus transacciones verificando la financiación del comprador antes de que cualquier contrato sea firmado digitalmente.\n\nFuente : https://tinyurl.com/23juuwvq\n#SafetrustMortgage #MortgageIntelligenceDaily #realestateagent #mortgagebroker #homebuying",
-      "hashtags": [
-        "#SafetrustMortgage",
-        "#MortgageIntelligenceDaily",
-        "#realestateagent",
-        "#mortgagebroker",
+        "#mortgagelending",
+        "#realestateinvesting",
         "#homebuying"
       ],
-      "hook_tag": "Transacciones Digitales",
-      "hook": "La automatización de contratos inmobiliarios no elimina la fricción en la calificación del comprador.",
-      "what_happened_heading": "FSBO.com presenta la plataforma de ofertas PACT",
-      "what_happened": "FSBO.com lanzó PACT, una plataforma tecnológica diseñada para agilizar los acuerdos de compra desde la oferta hasta el contrato. Desarrollado con tecnología de Homepie, el software digitaliza las transacciones inmobiliarias desde el listado hasta el cierre.",
+      "hook_tag": "Crypto Lending Risks",
+      "hook": "Your pledged bitcoin might not stay in a vault.",
+      "what_happened_heading": "Better Mortgage introduces rehypothecation to crypto loans",
+      "what_happened": "Better Mortgage disclosed that it may reuse bitcoin pledged under its new crypto-backed mortgage program. The lender promises borrowers an equivalent amount of bitcoin upon loan payoff.",
       "breakdown": [
         {
-          "heading": "Los contratos digitales resuelven el papeleo, no la calificación",
-          "body": "Estandarizar los acuerdos de compra acelera la recolección de firmas. Sin embargo, los formularios automatizados no pueden resolver desafíos de financiación subyacentes o contingencias contractuales complejas."
+          "heading": "Understanding rehypothecation terms",
+          "body": "Rehypothecation allows a lender to use pledged collateral (assets promised for a loan) in secondary transactions or outside financing arrangements."
         },
         {
-          "heading": "Los compradores sin representación omiten términos críticos",
-          "body": "Las herramientas de contrato de autoservicio evitan la guía experta de un agente. Omitir las contingencias de financiación estándar pone en grave riesgo los depósitos de garantía."
+          "heading": "Borrowers get equivalent coin back",
+          "body": "Borrowers are promised an equivalent quantity of bitcoin when the mortgage is repaid, but not the exact original digital coins pledged."
         },
         {
-          "heading": "Esto es lo que cambia en la asesoría",
-          "body": "Los asesores rechazan adendas ambiguas o no estándar generadas digitalmente. Los contratos de compra FSBO (venta por el propietario) personalizados frecuentemente requieren revisiones legales antes de la aprobación del préstamo."
+          "heading": "Here is what changes in underwriting",
+          "body": "Here's what this actually changes when a file hits underwriting: asset verification shifts from verifying locked reserve funds to evaluating lender counterparty liquidity risk."
         },
         {
-          "heading": "La velocidad de cierre depende de la ejecución del prestamista",
-          "body": "Una firma de contrato rápida no acelera los tiempos de tasación ni la liquidación de títulos. Las plataformas digitales solo abordan una parte de la cadena de transacciones."
+          "heading": "Balancing leverage and collateral risk",
+          "body": "Using borrower crypto collateral for lender financing lowers capital costs, but it introduces market exposure if crypto prices fluctuate wildly."
         }
       ],
-      "my_take_heading": "El software no puede arreglar a los compradores de casas no aprobados",
-      "my_take": "Digitalizar los acuerdos de compra da a los vendedores auto-representados una falsa sensación de seguridad. Un contrato es tan sólido como la carta de preaprobación del comprador.",
-      "action_lo": "Establece contacto directo con compradores FSBO con anticipación para verificar la calificación antes de que los contratos sean finalizados.",
-      "action_realtor": "Muestra a los vendedores por qué las plantillas de contratos digitales no pueden reemplazar la negociación profesional y la protección de responsabilidad.",
-      "cta_question": "¿Las plataformas de compra digital sin representación aumentarán las caídas de financiación para los prestamistas hipotecarios?"
+      "my_take_heading": "Rehypothecation transfers balance sheet risk directly onto mortgage collateral",
+      "my_take": "Crypto mortgages sound modern, but rehypothecation means borrowers trade home equity stability for lender balance sheet risk.",
+      "action_lo": "Explain collateral terms clearly to tech-focused buyers so they understand they won't hold original pledged coins.",
+      "action_realtor": "Advise clients using crypto wealth that pledged assets may be leveraged by the lender during the loan term.",
+      "cta_question": "Would you advise your high-net-worth clients to sign a rehypothecation agreement for a mortgage?"
+    },
+    {
+      "slug": "optimal-blue-august-lock-volume-down",
+      "title": "Mortgage Rate Locks Fell 9 Percent in August",
+      "source": "HousingWire",
+      "source_url": "https://www.housingwire.com/articles/optimal-blue-mortgage-lock-volume/",
+      "cover_text": "Rate locks dropped 9 percent in August",
+      "caption": "Mortgage rate lock volume dropped 9% in August compared to July, according to the latest report from Optimal Blue. With the 30-year conforming rate finishing August at 6.72%, refinance demand remains constrained across the board. Lower volume means originators cannot rely on rate rallies to fill their pipelines. From an underwriter perspective, lower pipeline volume shifts focus toward strict documentation compliance on every purchase file. Loan officers must focus on deep referral relationships and creative purchase solutions rather than waiting for refi booms. Executives need to monitor unit costs closely as lock volume tightens.\n\nSource : https://tinyurl.com/24qrewjh\n#SafetrustMortgage #MortgageIntelligenceDaily #mortgagerates #housingmarket #loanofficer",
+      "hashtags": [
+        "#SafetrustMortgage",
+        "#MortgageIntelligenceDaily",
+        "#mortgagerates",
+        "#housingmarket",
+        "#loanofficer"
+      ],
+      "hook_tag": "Market Lock Trends",
+      "hook": "Mortgage rate locks took a sharp hit last month.",
+      "what_happened_heading": "Rate lock volume fell significantly in August",
+      "what_happened": "Total mortgage rate locks fell 9% in August compared to July, according to Optimal Blue. The 30-year conforming rate ended the month at 6.72% as refinance demand stayed limited.",
+      "breakdown": [
+        {
+          "heading": "Lock volume suffers monthly decline",
+          "body": "Optimal Blue reported a 9% month-over-month drop in total lock volume across purchase and refinance segments."
+        },
+        {
+          "heading": "Interest rates remain stickier",
+          "body": "The 30-year conforming rate (loans meeting GSE baseline limits) closed August at 6.72%, stifling potential borrower momentum."
+        },
+        {
+          "heading": "Here is what changes in underwriting",
+          "body": "Here's what this actually changes when a file hits underwriting: lower lock volume forces underwriters to prioritize strict file quality over rapid pipeline processing."
+        },
+        {
+          "heading": "Refinance market remains severely restricted",
+          "body": "Refinance activity showed minimal recovery, leaving originators heavily dependent on tight purchase market competition."
+        }
+      ],
+      "my_take_heading": "Declining lock volume signals a prolonged purchase-only squeeze",
+      "my_take": "A 9% lock drop proves that rate dips alone will not revive volume without inventory and affordability expanding.",
+      "action_lo": "Shift your database strategy to purchase leads rather than waiting for refi rate drops that keep stalling.",
+      "action_realtor": "Partner closely with LOs to structure competitive seller concessions to lower buyer effective interest costs.",
+      "cta_question": "How is your pipeline adjusting to tighter lock volumes heading into the fall season?"
+    },
+    {
+      "slug": "ncino-broker-originated-loans-retail-platform",
+      "title": "nCino Brings Broker Loans Into Retail Platform",
+      "source": "National Mortgage Professional",
+      "source_url": "https://nationalmortgageprofessional.com/news/ncino-brings-broker-originated-loans-its-retail-mortgage-platform",
+      "cover_text": "Retail and wholesale tech are finally merging",
+      "caption": "nCino just announced an update that brings broker-originated loans directly into its retail mortgage POS (point-of-sale software used to take applications) platform. For lenders operating both retail and wholesale channels, managing separate origination workflows creates tech friction and inflates operational costs. By unifying these workflows, nCino aims to streamline data ingestion for dual-channel lenders. From an underwriting standpoint, having a single data pipeline reduces file errors and standardizes condition clearing across channels. As profit margins remain squeezed across the industry, eliminating redundant software systems is becoming a top operational priority for mortgage executives and operations leaders looking to scale efficiently.\n\nSource : https://tinyurl.com/2ytqhdnu\n#SafetrustMortgage #MortgageIntelligenceDaily #mortgagebroker #loanofficer #mortgagelending",
+      "hashtags": [
+        "#SafetrustMortgage",
+        "#MortgageIntelligenceDaily",
+        "#mortgagebroker",
+        "#loanofficer",
+        "#mortgagelending"
+      ],
+      "hook_tag": "Mortgage Tech Shift",
+      "hook": "nCino combines broker and retail origination channels.",
+      "what_happened_heading": "nCino unifies wholesale and retail loan workflows",
+      "what_happened": "nCino expanded its point-of-sale platform to bring broker-originated loans into the same system used by retail mortgage teams. This targets lenders operating across both consumer and wholesale channels.",
+      "breakdown": [
+        {
+          "heading": "Eliminating separate software platforms",
+          "body": "Lenders running dual channels often rely on fragmented borrower portals and origination workflows, increasing tech overhead."
+        },
+        {
+          "heading": "Streamlining the broker experience",
+          "body": "Brokers submitting loans now use the unified POS (point-of-sale software used to take applications), smoothing data transfer into the lender's core system."
+        },
+        {
+          "heading": "Here is what changes in underwriting",
+          "body": "Here's what this actually changes when a file hits underwriting: unified data feeds mean underwriters evaluate retail and wholesale files using standardized verification standards."
+        },
+        {
+          "heading": "Lowering operational loan costs",
+          "body": "Consolidating software systems helps mortgage lenders reduce technology maintenance expenses and reduce origination cycle times."
+        }
+      ],
+      "my_take_heading": "Unified origination tech is essential for dual-channel survival",
+      "my_take": "Single-channel tech stacks are obsolete; lenders must unify broker and retail platforms to survive margin compression.",
+      "action_lo": "Ask your wholesale reps if their tech updates reduce condition backlogs and speed up underwriter turn times.",
+      "action_realtor": "Work with lenders using modern tech platforms to ensure faster conditional approvals for your buyers.",
+      "cta_question": "Is your institution still running separate software stacks for retail and wholesale origination?"
     }
   ]
 }
