@@ -168,5 +168,175 @@
       "action_realtor": "Structure purchase offers with maximum seller concessions to reduce buyer monthly payments without lowering the listing price benchmark.",
       "cta_question": "Are your buyers using listing surges to negotiate price cuts or to secure seller-funded rate buydowns?"
     }
+  ],
+  "carousels_es": [
+    {
+      "slug": "vantagescore-4-gse-adoption",
+      "title": "Fannie y Freddie abren VantageScore 4.0 a todos los prestamistas",
+      "source": "HousingWire",
+      "source_url": "https://www.housingwire.com/articles/gses-broaden-vantagescore-4-0-access-rocket-uwm-dominate-volume/",
+      "cover_text": "VantageScore ya está disponible para todos",
+      "caption": "Elegir el modelo de crédito equivocado al iniciar la solicitud podría costarle miles de dólares a tu comprador en tasas o cargos más altos. Fannie Mae y Freddie Mac ya aceptan VantageScore 4.0 de todos los prestamistas, abriendo puertas a compradores con historial de renta o servicios públicos. Pero hay un detalle importante que muchos oficiales de préstamo están pasando por alto. No puedes mezclar FICO Clásico y VantageScore 4.0 en el mismo expediente. Si un cosolicitante tiene poco crédito, todo el trámite debe comprometerse con un solo sistema. Como asesor, veo que esto cambia por completo la originación de préstamos. Elegir el motor equivocado desde el principio provocará reevaluaciones y ajustes de precio muy costosos. Los prestamistas ganadores analizarán qué modelo genera menores cargos por riesgo antes de enviar la solicitud.\n\nFuente : https://tinyurl.com/2yzgd6z3\n#SafetrustMortgage #MortgageIntelligenceDaily #mortgagerates #loanofficer #firsttimehomebuyer",
+      "hashtags": [
+        "#SafetrustMortgage",
+        "#MortgageIntelligenceDaily",
+        "#mortgagerates",
+        "#loanofficer",
+        "#firsttimehomebuyer"
+      ],
+      "hook_tag": "Reglas de crédito",
+      "hook": "Elegir el modelo de crédito equivocado podría costarle miles a tu comprador.",
+      "what_happened_heading": "Fannie y Freddie amplían las opciones de puntaje crediticio",
+      "what_happened": "Fannie Mae y Freddie Mac ahora aceptan el puntaje VantageScore 4.0 de cualquier prestamista hipotecario. Sin embargo, está estrictamente prohibido mezclar FICO Clásico y VantageScore 4.0 en la misma solicitud.",
+      "breakdown": [
+        {
+          "heading": "Un nuevo sistema de crédito entra al mercado",
+          "body": "VantageScore 4.0 incluye el pago de renta y servicios públicos. Esto ayuda a personas sin historial crediticio tradicional a demostrar su solvencia."
+        },
+        {
+          "heading": "La regla estricta sobre mezclar modelos",
+          "body": "No puedes usar FICO Clásico para un comprador y VantageScore para el cosolicitante. Todo el expediente debe usar un solo modelo de crédito."
+        },
+        {
+          "heading": "Cómo ven esto los asesores de préstamo",
+          "body": "Así cambia esto al procesar el crédito. El asesor cuestionará menos las referencias manuales si VantageScore 4.0 valida el historial de renta directamente."
+        },
+        {
+          "heading": "Impacto en precios y sistemas automáticos",
+          "body": "Los sistemas de Fannie y Freddie calculan comisiones según el modelo. Elegir el equivocado al inicio puede activar ajustes de precio por riesgo (LLPA) más altos."
+        }
+      ],
+      "my_take_heading": "Por qué la estrategia crediticia empieza desde la solicitud",
+      "my_take": "Tener dos modelos exige ser un estratega antes de revisar el crédito, ya que cambiar de modelo a mitad del proceso obligará a reevaluar todo el expediente desde cero.",
+      "action_lo": "Compara VantageScore 4.0 contra FICO Clásico en clientes con poco historial para ver cuál ofrece mejor precio antes de bloquear la tasa.",
+      "action_realtor": "Haz alianza con prestamistas que usen VantageScore 4.0 para calificar a primeros compradores que pagan renta puntual pero no tienen tarjetas.",
+      "cta_question": "¿Tu equipo usará FICO Clásico por defecto o probará VantageScore 4.0 en clientes con poco historial?"
+    },
+    {
+      "slug": "non-qm-locks-hit-record-high",
+      "title": "Los préstamos Non-QM alcanzan un récord del 11.3% del mercado",
+      "source": "National Mortgage Professional",
+      "source_url": "https://nationalmortgageprofessional.com/news/non-qm-captures-more-11-mortgage-lock-volume",
+      "cover_text": "Los préstamos Non-QM marcan récord histórico",
+      "caption": "Los préstamos Non-QM dejaron de ser productos secundarios y los prestamistas inteligentes se están dando cuenta. Las reservas de tasa Non-QM alcanzaron el 11.3% del volumen total en agosto, casi 3 puntos más que el año pasado. Los préstamos DSCR para inversionistas y los programas con estados de cuenta para independientes impulsan este gran cambio. Mientras los agentes tradicionales esperan que bajen las tasas, los líderes aprovechan la evaluación por flujo de caja. Desde la perspectiva de un asesor, estos préstamos requieren una mentalidad muy diferente. Analizamos contratos de renta y reservas en lugar de declaraciones de impuestos o W-2. Quienes dominen estas guías hoy capturarán negocios muy rentables mientras la competencia sigue esperando refinanciamientos.\n\nFuente : https://tinyurl.com/264d4myp\n#SafetrustMortgage #MortgageIntelligenceDaily #realestateinvesting #loanofficer #mortgagebroker",
+      "hashtags": [
+        "#SafetrustMortgage",
+        "#MortgageIntelligenceDaily",
+        "#realestateinvesting",
+        "#loanofficer",
+        "#mortgagebroker"
+      ],
+      "hook_tag": "Aumento del mercado Non-QM",
+      "hook": "Los préstamos Non-QM ya no son productos raros para pocos compradores.",
+      "what_happened_heading": "Las reservas Non-QM alcanzan una cuota histórica",
+      "what_happened": "Los préstamos Non-QM (préstamos que no siguen las reglas tradicionales) alcanzaron el 11.3% de las reservas en agosto. Esto representa un aumento de 2.9 puntos porcentuales respecto al año pasado, impulsado por inversionistas y préstamos DSCR.",
+      "breakdown": [
+        {
+          "heading": "Los préstamos para inversionistas lideran el aumento",
+          "body": "Los préstamos DSCR (basados en el flujo de caja de la propiedad y no en planillas de impuestos) impulsaron gran parte del crecimiento de Non-QM este trimestre."
+        },
+        {
+          "heading": "El canal convencional sigue frenado por las tasas",
+          "body": "Las altas tasas empujaron a independientes e inversionistas fuera de las hipotecas tradicionales hacia opciones con guías más flexibles."
+        },
+        {
+          "heading": "Cómo analizan los asesores el flujo de caja",
+          "body": "Así cambia esto al procesar el crédito. El asesor ignora las declaraciones de impuestos y se enfoca en contratos de arrendamiento, flujo de caja y reservas."
+        },
+        {
+          "heading": "El mercado moderno deja atrás viejos temores",
+          "body": "La demanda de estos préstamos en el mercado secundario se mantiene fuerte. El Non-QM actual exige verificar activos reales, no préstamos sin documentos del pasado."
+        }
+      ],
+      "my_take_heading": "Por qué los prestamistas tradicionales están perdiendo clientes",
+      "my_take": "Los oficiales de crédito que esperan tasas más bajas para salvar sus ventas están perdiendo mercado frente a quienes dominan la evaluación por flujo de caja hoy.",
+      "action_lo": "Revisa tu base de datos buscando independientes rechazados por el sistema automático (AUS) y preséntales opciones con estados de cuenta bancarios.",
+      "action_realtor": "Ofrece a los inversionistas opciones de financiamiento DSCR para destrabar compras frenadas por límites de deuda e ingresos (DTI).",
+      "cta_question": "¿El Non-QM es parte central de tu estrategia o todavía lo ves como un último recurso?"
+    },
+    {
+      "slug": "premierone-100-cltv-heloc",
+      "title": "PremierOne Credit Union lanza préstamos hipotecarios al 100% CLTV",
+      "source": "National Mortgage Professional",
+      "source_url": "https://nationalmortgageprofessional.com/news/premierone-pushes-home-equity-lending-100-cltv",
+      "cover_text": "Vuelven los préstamos con el cien por ciento",
+      "caption": "Las segundas líneas sin enganche están llamando la atención de nuevo, pero la dinámica es completamente distinta esta vez. PremierOne Credit Union lanzó productos de equidad que permiten prestar hasta el 100% CLTV y hasta $250,000. Aunque algunos escuchan financiamiento al 100% y temen el riesgo del 2007, este producto resuelve el problema actual de las tasas. Los dueños con hipotecas al 3% se niegan a hacer un refinanciamiento con extracción de efectivo a las tasas de hoy. Desde el punto de vista del asesor, estas segundas hipotecas requieren verificación estricta de ingresos, límites de deuda y buen historial crediticio. Estos productos permiten consolidar deudas o remodelar sin destruir la tasa del primer préstamo.\n\nFuente : https://tinyurl.com/29pe9t4h\n#SafetrustMortgage #MortgageIntelligenceDaily #homebuying #mortgagebroker #realestateagent",
+      "hashtags": [
+        "#SafetrustMortgage",
+        "#MortgageIntelligenceDaily",
+        "#homebuying",
+        "#mortgagebroker",
+        "#realestateagent"
+      ],
+      "hook_tag": "Cambios en préstamos de equidad",
+      "hook": "Vuelven las líneas de equidad al 100%, pero esto no es 2007.",
+      "what_happened_heading": "Cooperativa de California lleva los límites de equidad al máximo",
+      "what_happened": "PremierOne Credit Union lanzó productos que permiten a dueños de casa en California prestarse hasta el 100% CLTV (relación entre deuda total y valor de la casa). Los clientes pueden acceder a hasta $250,000 con opciones de tasa fija o variable.",
+      "breakdown": [
+        {
+          "heading": "Conservar tasas bajas en la hipoteca principal",
+          "body": "Muchos dueños no quieren refinanciar su primer préstamo al 3%. Estos productos de alta equidad permiten consolidar deudas o remodelar manteniendo intacta esa tasa baja."
+        },
+        {
+          "heading": "Más opciones de crédito hasta $250,000",
+          "body": "PremierOne ofrece líneas HELOC variables y préstamos fijos de hasta $250,000, dándole flexibilidad al dueño de casa para organizar su deuda secundaria."
+        },
+        {
+          "heading": "Cómo evalúan los asesores la equidad máxima",
+          "body": "Así cambia esto al procesar el crédito. Los asesores aplican límites estrictos de relación deuda-ingreso (DTI) y exigen avalúos completos y muy precisos."
+        },
+        {
+          "heading": "Manejo del riesgo con alto valor acumulado",
+          "body": "A diferencia de antes del 2008, estos préstamos exigen ingresos comprobados, activos verificados y buen crédito para mitigar cualquier riesgo de garantía."
+        }
+      ],
+      "my_take_heading": "Por qué las segundas hipotecas al 100% CLTV tienen sentido hoy",
+      "my_take": "Las segundas hipotecas al 100% CLTV no son un riesgo riesgoso; son la forma más segura de aprovechar la equidad sin tocar una hipoteca principal con tasa baja.",
+      "action_lo": "Orienta a los dueños con tasas del 3% sobre cómo usar segundas hipotecas para consolidar deudas en lugar de refinanciar con extracción de efectivo.",
+      "action_realtor": "Promociona el potencial de remodelación entre vendedores que prefieren mejorar su casa actual antes que comprar una nueva con tasas altas.",
+      "cta_question": "¿Las segundas hipotecas al 100% CLTV son una solución genial o un riesgo de crédito innecesario?"
+    },
+    {
+      "slug": "housing-supply-6-year-high-redfin",
+      "title": "El inventario de viviendas alcanza su máximo en 6 años tras aumento de propiedades",
+      "source": "Redfin",
+      "source_url": "https://www.redfin.com/news/new-listings-surge-august-2026/",
+      "cover_text": "El inventario de viviendas alcanza su punto máximo",
+      "caption": "El inventario de casas acaba de alcanzar su nivel más alto en 6 años tras el aumento de casas en venta en ciudades como San Jose, Nashville y Seattle. La oferta total llegó a niveles no vistos desde 2020, mientras la demanda se mantuvo estable. Muchos dicen que es un mercado de compradores, pero los profesionales debemos mirar más a fondo la estructura de las ofertas. Como asesor, veo que más inventario hace que los avalúos se nivelen y suban las contribuciones del vendedor. Los agentes y oficiales astutos no usan esta oferta para pedir descuentos pequeños. Ellos consiguen aportes del vendedor para reducir la tasa de interés permanentemente, ahorrando a los compradores cientos de dólares al mes.\n\nFuente : https://tinyurl.com/2dgtktr5\n#SafetrustMortgage #MortgageIntelligenceDaily #housingmarket #realestateagent #homebuying",
+      "hashtags": [
+        "#SafetrustMortgage",
+        "#MortgageIntelligenceDaily",
+        "#housingmarket",
+        "#realestateagent",
+        "#homebuying"
+      ],
+      "hook_tag": "Tendencias de inventario",
+      "hook": "El aumento de casas disponibles no está generando los descuentos que esperas.",
+      "what_happened_heading": "Aumentan las casas en venta mientras la demanda de compradores se frena",
+      "what_happened": "El inventario de viviendas en Estados Unidos alcanzó su punto más alto en 6 años durante agosto debido al aumento de propiedades en venta. Ciudades como San Jose, Nashville y Seattle lideraron este crecimiento en el mercado.",
+      "breakdown": [
+        {
+          "heading": "El inventario total llega a su punto más alto",
+          "body": "El número de casas en venta alcanzó su nivel más alto desde 2020. Más vendedores aceptan que las tasas altas vinieron para quedarse un buen tiempo."
+        },
+        {
+          "heading": "La demanda frenada equilibra el mercado",
+          "body": "Las ventas mensuales se mantuvieron estables a pesar de la mayor oferta. Los compradores siguen siendo cautelosos por el costo del pago mensual en las grandes ciudades."
+        },
+        {
+          "heading": "Cómo ven los asesores los avalúos comparativos",
+          "body": "Así cambia esto al procesar el crédito. El asesor revisa con más detalle las contribuciones del vendedor y los avalúos al ver que el mercado se desacelera."
+        },
+        {
+          "heading": "Aprovechar las contribuciones para reducir la tasa",
+          "body": "Tener más casas disponibles da poder al comprador para negociar créditos del vendedor para reducciones permanentes de tasa en lugar de simples bajadas de precio."
+        }
+      ],
+      "my_take_heading": "Por qué bajar el precio es la estrategia equivocada",
+      "my_take": "Tener más casas en venta da poder de negociación, pero aceptar rebajas de precio en lugar de reducciones de tasa pagadas por el vendedor es un error de novato.",
+      "action_lo": "Crea comparativas donde demuestres a los compradores cómo las contribuciones del vendedor para bajar la tasa rinden más que un descuento en el precio.",
+      "action_realtor": "Estructura ofertas con la máxima contribución del vendedor para reducir el pago mensual del comprador sin bajar el precio de lista.",
+      "cta_question": "¿Tus compradores están usando el aumento de casas para pedir rebajas de precio o para conseguir reducciones de tasa?"
+    }
   ]
 }
