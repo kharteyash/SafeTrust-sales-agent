@@ -1,342 +1,172 @@
 {
   "carousels": [
     {
-      "slug": "fhfa-vantagescore-expansion",
-      "title": "FHFA Opens VantageScore 4.0 to All GSE Lenders",
-      "source": "National Mortgage Professional",
-      "source_url": "https://nationalmortgageprofessional.com/news/fhfa-opens-vantagescore-all-gse-lenders-eyes-credit-report-overhaul",
-      "cover_text": "The FHFA just changed credit scoring rules",
-      "caption": "The FHFA just ordered Fannie Mae and Freddie Mac to allow all GSE (government-sponsored enterprise) lenders to use VantageScore 4.0. Previously, only 50 lenders had access to this credit scoring model. This expansion marks a massive step in the FHFA's plan to overhaul credit reporting across the housing industry. For loan officers, this means potential shifts in borrower qualifying criteria as systems update. For underwriters, automated underwriting systems will need to process these scores smoothly. Operations teams must ensure their technology stack supports VantageScore before full adoption kicks in. Lenders who adapt quickly will gain an edge in capturing creditworthy borrowers who struggle under traditional FICO rules.\n\nSource : https://tinyurl.com/242r7bcc\n#SafetrustMortgage #MortgageIntelligenceDaily #mortgagelending #creditscore #homebuying",
-      "hashtags": [
-        "#SafetrustMortgage",
-        "#MortgageIntelligenceDaily",
-        "#mortgagelending",
-        "#creditscore",
-        "#homebuying"
-      ],
-      "hook_tag": "Credit Score Overhaul",
-      "hook": "VantageScore 4.0 is now open to every GSE lender.",
-      "what_happened_heading": "FHFA expands VantageScore access to all GSE lenders",
-      "what_happened": "The FHFA has directed Fannie Mae and Freddie Mac to approve all lenders to use VantageScore 4.0. This expands the program beyond its previous pilot limit of 50 mortgage companies.",
-      "breakdown": [
-        {
-          "heading": "Moving past the pilot phase",
-          "body": "The pilot program was restricted to just 50 lenders. Now, every lender working with the GSEs (government-sponsored enterprises like Fannie and Freddie) gets access."
-        },
-        {
-          "heading": "Alternative credit scoring takes center stage",
-          "body": "VantageScore 4.0 factors in different data than classic FICO models. This gives lenders a new way to evaluate borrower creditworthiness on GSE loans."
-        },
-        {
-          "heading": "Here is what changes in underwriting",
-          "body": "Here's what this actually changes when a file hits underwriting: automated underwriting systems (software that calculates loan approvals) will now process VantageScore data across all approved lenders."
-        },
-        {
-          "heading": "Preparing systems for a full report overhaul",
-          "body": "The FHFA is eyeing a broader credit report overhaul. Upgrading origination platforms today prevents tech friction when the new standards become mandatory."
-        }
-      ],
-      "my_take_heading": "Credit scoring changes will reframe borrower eligibility standards",
-      "my_take": "Opening VantageScore to everyone is not just a tech update; it will fundamentally shift who gets approved at the margin.",
-      "action_lo": "Check with your secondary marketing team to see when your LOS (loan origination system) enables VantageScore 4.0 pricing.",
-      "action_realtor": "Educate buyers that non-traditional credit histories may soon carry more weight during mortgage pre-approvals.",
-      "cta_question": "Is your loan origination system ready to run VantageScore 4.0 on every file?"
-    },
-    {
-      "slug": "better-crypto-mortgage-rehypothecation",
-      "title": "Crypto-Backed Home Financing Comes With New Trade-Offs",
-      "source": "National Mortgage Professional",
-      "source_url": "https://nationalmortgageprofessional.com/news/crypto-backed-home-financing-comes-new-trade-offs",
-      "cover_text": "The hidden risk in crypto backed mortgages",
-      "caption": "Better Mortgage recently launched a crypto-backed mortgage program with a major twist: rehypothecation (the practice where a lender reuses pledged assets for its own financing). Under this agreement, Better can trade or leverage pledged bitcoin, as long as it returns an equivalent quantity upon loan payoff. While this cuts capital costs for the lender, it adds counterparty risk for the homebuyer. When an underwriter looks at pledged assets, stability is everything. If the collateral is being actively traded in secondary markets, volatility risk increases dramatically. LOs and brokers need to make sure clients fully read the fine print on crypto-collateralized products before pledging digital assets.\n\nSource : https://tinyurl.com/27r9zc2x\n#SafetrustMortgage #MortgageIntelligenceDaily #mortgagelending #realestateinvesting #homebuying",
-      "hashtags": [
-        "#SafetrustMortgage",
-        "#MortgageIntelligenceDaily",
-        "#mortgagelending",
-        "#realestateinvesting",
-        "#homebuying"
-      ],
-      "hook_tag": "Crypto Lending Risks",
-      "hook": "Your pledged bitcoin might not stay in a vault.",
-      "what_happened_heading": "Better Mortgage introduces rehypothecation to crypto loans",
-      "what_happened": "Better Mortgage disclosed that it may reuse bitcoin pledged under its new crypto-backed mortgage program. The lender promises borrowers an equivalent amount of bitcoin upon loan payoff.",
-      "breakdown": [
-        {
-          "heading": "Understanding rehypothecation terms",
-          "body": "Rehypothecation allows a lender to use pledged collateral (assets promised for a loan) in secondary transactions or outside financing arrangements."
-        },
-        {
-          "heading": "Borrowers get equivalent coin back",
-          "body": "Borrowers are promised an equivalent quantity of bitcoin when the mortgage is repaid, but not the exact original digital coins pledged."
-        },
-        {
-          "heading": "Here is what changes in underwriting",
-          "body": "Here's what this actually changes when a file hits underwriting: asset verification shifts from verifying locked reserve funds to evaluating lender counterparty liquidity risk."
-        },
-        {
-          "heading": "Balancing leverage and collateral risk",
-          "body": "Using borrower crypto collateral for lender financing lowers capital costs, but it introduces market exposure if crypto prices fluctuate wildly."
-        }
-      ],
-      "my_take_heading": "Rehypothecation transfers balance sheet risk directly onto mortgage collateral",
-      "my_take": "Crypto mortgages sound modern, but rehypothecation means borrowers trade home equity stability for lender balance sheet risk.",
-      "action_lo": "Explain collateral terms clearly to tech-focused buyers so they understand they won't hold original pledged coins.",
-      "action_realtor": "Advise clients using crypto wealth that pledged assets may be leveraged by the lender during the loan term.",
-      "cta_question": "Would you advise your high-net-worth clients to sign a rehypothecation agreement for a mortgage?"
-    },
-    {
-      "slug": "optimal-blue-august-lock-volume-down",
-      "title": "Mortgage Rate Locks Fell 9 Percent in August",
+      "slug": "vantagescore-4-gse-adoption",
+      "title": "Fannie and Freddie Open VantageScore 4.0 to All Lenders",
       "source": "HousingWire",
-      "source_url": "https://www.housingwire.com/articles/optimal-blue-mortgage-lock-volume/",
-      "cover_text": "Rate locks dropped 9 percent in August",
-      "caption": "Mortgage rate lock volume dropped 9% in August compared to July, according to the latest report from Optimal Blue. With the 30-year conforming rate finishing August at 6.72%, refinance demand remains constrained across the board. Lower volume means originators cannot rely on rate rallies to fill their pipelines. From an underwriter perspective, lower pipeline volume shifts focus toward strict documentation compliance on every purchase file. Loan officers must focus on deep referral relationships and creative purchase solutions rather than waiting for refi booms. Executives need to monitor unit costs closely as lock volume tightens.\n\nSource : https://tinyurl.com/24qrewjh\n#SafetrustMortgage #MortgageIntelligenceDaily #mortgagerates #housingmarket #loanofficer",
+      "source_url": "https://www.housingwire.com/articles/gses-broaden-vantagescore-4-0-access-rocket-uwm-dominate-volume/",
+      "cover_text": "VantageScore is live for all mortgage lenders",
+      "caption": "Choosing the wrong credit score model at application could cost your homebuyer thousands in higher interest rates or fees. Fannie Mae and Freddie Mac now accept VantageScore 4.0 from all single-family lenders, opening doors for borrowers with rent or utility histories. But there is a catch that most loan officers are missing. You cannot mix Classic FICO and VantageScore 4.0 on the same loan file. If a co-borrower has thin credit, the entire file must commit to one scoring system. As an underwriter, I see this changing loan origination completely. Picking the wrong credit engine early will lead to expensive re-underwrites and repricing. The winning lenders won't just pull credit; they will analyze which credit model yields the lowest risk fees before submission.\n\nSource : https://tinyurl.com/2yzgd6z3\n#SafetrustMortgage #MortgageIntelligenceDaily #mortgagerates #loanofficer #firsttimehomebuyer",
       "hashtags": [
         "#SafetrustMortgage",
         "#MortgageIntelligenceDaily",
         "#mortgagerates",
-        "#housingmarket",
-        "#loanofficer"
-      ],
-      "hook_tag": "Market Lock Trends",
-      "hook": "Mortgage rate locks took a sharp hit last month.",
-      "what_happened_heading": "Rate lock volume fell significantly in August",
-      "what_happened": "Total mortgage rate locks fell 9% in August compared to July, according to Optimal Blue. The 30-year conforming rate ended the month at 6.72% as refinance demand stayed limited.",
-      "breakdown": [
-        {
-          "heading": "Lock volume suffers monthly decline",
-          "body": "Optimal Blue reported a 9% month-over-month drop in total lock volume across purchase and refinance segments."
-        },
-        {
-          "heading": "Interest rates remain stickier",
-          "body": "The 30-year conforming rate (loans meeting GSE baseline limits) closed August at 6.72%, stifling potential borrower momentum."
-        },
-        {
-          "heading": "Here is what changes in underwriting",
-          "body": "Here's what this actually changes when a file hits underwriting: lower lock volume forces underwriters to prioritize strict file quality over rapid pipeline processing."
-        },
-        {
-          "heading": "Refinance market remains severely restricted",
-          "body": "Refinance activity showed minimal recovery, leaving originators heavily dependent on tight purchase market competition."
-        }
-      ],
-      "my_take_heading": "Declining lock volume signals a prolonged purchase-only squeeze",
-      "my_take": "A 9% lock drop proves that rate dips alone will not revive volume without inventory and affordability expanding.",
-      "action_lo": "Shift your database strategy to purchase leads rather than waiting for refi rate drops that keep stalling.",
-      "action_realtor": "Partner closely with LOs to structure competitive seller concessions to lower buyer effective interest costs.",
-      "cta_question": "How is your pipeline adjusting to tighter lock volumes heading into the fall season?"
-    },
-    {
-      "slug": "ncino-broker-originated-loans-retail-platform",
-      "title": "nCino Brings Broker Loans Into Retail Platform",
-      "source": "National Mortgage Professional",
-      "source_url": "https://nationalmortgageprofessional.com/news/ncino-brings-broker-originated-loans-its-retail-mortgage-platform",
-      "cover_text": "Retail and wholesale tech are finally merging",
-      "caption": "nCino just announced an update that brings broker-originated loans directly into its retail mortgage POS (point-of-sale software used to take applications) platform. For lenders operating both retail and wholesale channels, managing separate origination workflows creates tech friction and inflates operational costs. By unifying these workflows, nCino aims to streamline data ingestion for dual-channel lenders. From an underwriting standpoint, having a single data pipeline reduces file errors and standardizes condition clearing across channels. As profit margins remain squeezed across the industry, eliminating redundant software systems is becoming a top operational priority for mortgage executives and operations leaders looking to scale efficiently.\n\nSource : https://tinyurl.com/2ytqhdnu\n#SafetrustMortgage #MortgageIntelligenceDaily #mortgagebroker #loanofficer #mortgagelending",
-      "hashtags": [
-        "#SafetrustMortgage",
-        "#MortgageIntelligenceDaily",
-        "#mortgagebroker",
         "#loanofficer",
-        "#mortgagelending"
+        "#firsttimehomebuyer"
       ],
-      "hook_tag": "Mortgage Tech Shift",
-      "hook": "nCino combines broker and retail origination channels.",
-      "what_happened_heading": "nCino unifies wholesale and retail loan workflows",
-      "what_happened": "nCino expanded its point-of-sale platform to bring broker-originated loans into the same system used by retail mortgage teams. This targets lenders operating across both consumer and wholesale channels.",
+      "hook_tag": "Credit Scoring Rules",
+      "hook": "Choosing the wrong credit score model could cost your buyer thousands.",
+      "what_happened_heading": "Fannie and Freddie expand credit scoring choices",
+      "what_happened": "Fannie Mae and Freddie Mac now accept VantageScore 4.0 credit scores from all single-family lenders. However, lenders are strictly forbidden from mixing Classic FICO and VantageScore 4.0 on the same loan file.",
       "breakdown": [
         {
-          "heading": "Eliminating separate software platforms",
-          "body": "Lenders running dual channels often rely on fragmented borrower portals and origination workflows, increasing tech overhead."
+          "heading": "A new scoring engine enters the market",
+          "body": "VantageScore 4.0 includes rent payments and utility data. This helps credit-invisible borrowers show creditworthiness without traditional credit cards or trade lines."
         },
         {
-          "heading": "Streamlining the broker experience",
-          "body": "Brokers submitting loans now use the unified POS (point-of-sale software used to take applications), smoothing data transfer into the lender's core system."
+          "heading": "The strict rule on mixing models",
+          "body": "You cannot pull Classic FICO for one borrower and VantageScore for a co-borrower. The entire file must run on a single credit scoring model from start to finish."
         },
         {
-          "heading": "Here is what changes in underwriting",
-          "body": "Here's what this actually changes when a file hits underwriting: unified data feeds mean underwriters evaluate retail and wholesale files using standardized verification standards."
+          "heading": "How underwriters view model selection",
+          "body": "Here's what this actually changes when a file hits underwriting. Underwriters will scrutinize manual trade lines less if VantageScore 4.0 validates rent history directly on the credit report."
         },
         {
-          "heading": "Lowering operational loan costs",
-          "body": "Consolidating software systems helps mortgage lenders reduce technology maintenance expenses and reduce origination cycle times."
+          "heading": "Pricing and automated system impacts",
+          "body": "Fannie Mae and Freddie Mac pricing engines calculate risk fees differently per model. Picking the wrong model up front could lock in higher LLPAs (loan-level price adjustments: added fees based on risk)."
         }
       ],
-      "my_take_heading": "Unified origination tech is essential for dual-channel survival",
-      "my_take": "Single-channel tech stacks are obsolete; lenders must unify broker and retail platforms to survive margin compression.",
-      "action_lo": "Ask your wholesale reps if their tech updates reduce condition backlogs and speed up underwriter turn times.",
-      "action_realtor": "Work with lenders using modern tech platforms to ensure faster conditional approvals for your buyers.",
-      "cta_question": "Is your institution still running separate software stacks for retail and wholesale origination?"
-    }
-  ],
-  "carousels_es": [
-    {
-      "slug": "fhfa-vantagescore-expansion",
-      "title": "La FHFA abre VantageScore 4.0 a todos los prestamistas de las GSE",
-      "source": "National Mortgage Professional",
-      "source_url": "https://nationalmortgageprofessional.com/news/fhfa-opens-vantagescore-all-gse-lenders-eyes-credit-report-overhaul",
-      "cover_text": "La FHFA cambio las reglas del credito",
-      "caption": "La FHFA acaba de dar un paso gigante en la forma de evaluar el credito para comprar casa. La agencia ordeno a Fannie Mae y Freddie Mac permitir que todos los prestamistas del sistema GSE utilicen VantageScore 4.0. Antes, solo 50 companas tenian acceso a este modelo. Este cambio representa un gran avance en el plan para renovar el sistema de informes crediticios en Estados Unidos. Para los oficiales de prestamo, esto significa nuevos criterios para calificar a mas clientes. Para el asesor (underwriter), los sistemas automatizados de evaluacion procesaran estos puntajes directamente. Los equipos de operaciones deben asegurar que su tecnologia este lista antes de que sea obligatorio. Los prestamistas que se adapten rapido tendran una clara ventaja con compradores calificados que no encajan en el FICO clasico. ¿Tu sistema ya esta listo?\n\nFuente : https://tinyurl.com/242r7bcc\n#SafetrustMortgage #MortgageIntelligenceDaily #mortgagelending #creditscore #homebuying",
-      "hashtags": [
-        "#SafetrustMortgage",
-        "#MortgageIntelligenceDaily",
-        "#mortgagelending",
-        "#creditscore",
-        "#homebuying"
-      ],
-      "hook_tag": "Cambios en el credito",
-      "hook": "VantageScore 4.0 ya esta disponible para todos los prestamistas.",
-      "what_happened_heading": "La FHFA expande el uso de VantageScore a todos los prestamistas",
-      "what_happened": "La FHFA ordeno a Fannie Mae y Freddie Mac autorizar a todos los prestamistas a usar VantageScore 4.0. Esto amplia el programa mas alla de la prueba piloto inicial que solo incluia a 50 companas.",
-      "breakdown": [
-        {
-          "heading": "Dejar atras la fase piloto",
-          "body": "El programa piloto estaba limitado a solo 50 prestamistas. Ahora, cualquier prestamista que trabaje con las GSE (empresas respaldadas por el gobierno como Fannie y Freddie) tendra acceso."
-        },
-        {
-          "heading": "El puntaje de credito alternativo cobra fuerza",
-          "body": "VantageScore 4.0 evalua datos diferentes a los modelos clasicos de FICO. Esto da una nueva forma de medir la capacidad de pago del comprador en prestamos de las GSE."
-        },
-        {
-          "heading": "Lo que cambia en la evaluacion del prestamo",
-          "body": "Esto es lo que cambia al evaluar la solicitud: los sistemas automatizados de evaluacion procesaran datos de VantageScore en todos los prestamistas aprobados sin contratiempos."
-        },
-        {
-          "heading": "Preparando los sistemas para el gran cambio",
-          "body": "La FHFA busca una reforma mas amplia del informe crediticio. Actualizar las plataformas hoy evitara problemas tecnologicos cuando estas reglas sean obligatorias para todos."
-        }
-      ],
-      "my_take_heading": "Las nuevas reglas de credito cambiaran los criterios de aprobacion",
-      "my_take": "Abrir VantageScore a todos no es solo un cambio tecnologico. Esto modificara de fondo quien logra ser aprobado en el limite del sistema crediticio tradicional.",
-      "action_lo": "Consulta con tu equipo para saber cuando tu sistema de origen de prestamos (LOS) activara VantageScore 4.0.",
-      "action_realtor": "Explica a tus compradores que el historial crediticio no tradicional pronto tendra mas peso al preaprobar la hipoteca.",
-      "cta_question": "¿Esta listo tu sistema para procesar VantageScore 4.0 en cada expediente?"
+      "my_take_heading": "Why credit strategy now happens at loan application",
+      "my_take": "Dual credit scoring forces loan officers to become credit architects before pulling credit, because switching scoring models mid-file will trigger full re-underwrites.",
+      "action_lo": "Compare VantageScore 4.0 against Classic FICO on thin-file applicants to see which yields better pricing before locking.",
+      "action_realtor": "Partner with lenders who use VantageScore 4.0 to qualify first-time buyers who lack traditional credit cards but pay rent reliably.",
+      "cta_question": "Will your team default to Classic FICO or actively test VantageScore 4.0 on thin-file borrowers?"
     },
     {
-      "slug": "better-crypto-mortgage-rehypothecation",
-      "title": "Las hipotecas respaldadas por cripto traen nuevos riesgos",
+      "slug": "non-qm-locks-hit-record-high",
+      "title": "Non-QM Locks Reach 11.3% of Total Market Volume",
       "source": "National Mortgage Professional",
-      "source_url": "https://nationalmortgageprofessional.com/news/crypto-backed-home-financing-comes-new-trade-offs",
-      "cover_text": "El riesgo oculto en hipotecas con criptomonedas",
-      "caption": "Un nuevo programa de hipotecas respaldadas por criptomonedas viene con una condicion muy importante que debes conocer. Better Mortgage lanzo un producto hipotecario con respaldos digitales pero incluyo la rehipoteca de activos (rehypothecation). Bajo este acuerdo, la empresa puede negociar o usar el bitcoin dejado en garantia para su propio financiamiento, siempre que devuelva una cantidad equivalente al pagar la deuda. Esto reduce costos para la entidad financiera, pero suma un riesgo directo para el comprador de casa. Para el asesor (underwriter), la estabilidad de la garantia lo es todo. Si la garantia se negocia activamente en el mercado secundario, el riesgo por volatilidad se dispara. Es clave que los clientes lean muy bien la letra pequena antes de comprometer sus activos digitales en una compra hipotecaria. ¿Aceptarias este tipo de contrato?\n\nFuente : https://tinyurl.com/27r9zc2x\n#SafetrustMortgage #MortgageIntelligenceDaily #mortgagelending #realestateinvesting #homebuying",
+      "source_url": "https://nationalmortgageprofessional.com/news/non-qm-captures-more-11-mortgage-lock-volume",
+      "cover_text": "Non-QM locks hit record eleven percent market share",
+      "caption": "Non-QM loans are no longer fringe products, and smart lenders are taking notice. Non-QM rate locks reached 11.3% of total mortgage volume in August, up nearly 3 percentage points year over year. Debt-service coverage ratio loans for investors and bank-statement programs for self-employed buyers are driving this massive shift. While traditional loan officers wait around for interest rate cuts, top producers are leaning into cash-flow underwriting. From an underwriting perspective, non-QM files require a completely different mindset. We are analyzing lease agreements and liquidity reserves rather than tax returns and W-2s. Lenders who master these guidelines now will capture high-margin business while competitors wait on agency refinance volume.\n\nSource : https://tinyurl.com/264d4myp\n#SafetrustMortgage #MortgageIntelligenceDaily #realestateinvesting #loanofficer #mortgagebroker",
       "hashtags": [
         "#SafetrustMortgage",
         "#MortgageIntelligenceDaily",
-        "#mortgagelending",
         "#realestateinvesting",
+        "#loanofficer",
+        "#mortgagebroker"
+      ],
+      "hook_tag": "Non-QM Market Surge",
+      "hook": "Non-QM loans are no longer niche products for fringe buyers.",
+      "what_happened_heading": "Non-QM rate locks capture historic market share",
+      "what_happened": "Non-QM (non-qualifying mortgage: loans that do not meet agency underwriting rules) reached 11.3% of rate-lock volume in August. This represents a 2.9 percentage point increase from last year, driven largely by investor and DSCR loans.",
+      "breakdown": [
+        {
+          "heading": "Investor loans lead the volume surge",
+          "body": "DSCR (debt-service coverage ratio: loan option based on property cash flow instead of tax returns) loans made up a massive portion of the non-QM lock expansion this quarter."
+        },
+        {
+          "heading": "Conventional channels continue to choke on rates",
+          "body": "High interest rates pushed self-employed borrowers and real estate investors out of agency qualified mortgages into expanded guideline options."
+        },
+        {
+          "heading": "How underwriters analyze non-QM cash flows",
+          "body": "Here's what this actually changes when a file hits underwriting. Underwriters ignore personal tax returns completely, focusing entirely on lease agreements, property cash flow, and liquidity reserves."
+        },
+        {
+          "heading": "Market execution replaces old subprime fears",
+          "body": "Secondary market demand for non-QM private-label securities remains strong. Modern non-QM relies on sound asset verification rather than loose low-doc lending of the past."
+        }
+      ],
+      "my_take_heading": "Why traditional lenders are losing market share",
+      "my_take": "Loan officers waiting for lower benchmark rates to save their pipelines are losing market share to originators who master non-QM cash-flow underwriting today.",
+      "action_lo": "Audit your database for self-employed clients rejected by conventional AUS (automated underwriting system: automated mortgage approval tool) and present bank-statement solutions.",
+      "action_realtor": "Pitch real estate investors on DSCR financing options to unlock deals stalled by personal DTI (debt-to-income: monthly debt obligations divided by gross income) limits.",
+      "cta_question": "Is non-QM a core part of your team's strategy, or are you still treating it as a last resort?"
+    },
+    {
+      "slug": "premierone-100-cltv-heloc",
+      "title": "PremierOne Credit Union Launches 100% CLTV Home Equity Loans",
+      "source": "National Mortgage Professional",
+      "source_url": "https://nationalmortgageprofessional.com/news/premierone-pushes-home-equity-lending-100-cltv",
+      "cover_text": "One hundred percent home equity loans are back",
+      "caption": "Zero-equity secondary lines are making headlines again, but the mechanics are completely different this time. PremierOne Credit Union launched equity products allowing homeowners to borrow up to 100% CLTV up to $250,000. While critics hear 100% financing and fear 2007 risk, this product directly solves today's rate-lock dilemma. Homeowners holding 3% first mortgages refuse to touch cash-out refinances at current rates. From an underwriting standpoint, high-CLTV seconds require rigorous income verification, strict debt-to-income caps, and verified credit histories. These products let borrowers consolidate high-interest debt or fund home renovations without destroying their primary rate structure.\n\nSource : https://tinyurl.com/29pe9t4h\n#SafetrustMortgage #MortgageIntelligenceDaily #homebuying #mortgagebroker #realestateagent",
+      "hashtags": [
+        "#SafetrustMortgage",
+        "#MortgageIntelligenceDaily",
+        "#homebuying",
+        "#mortgagebroker",
+        "#realestateagent"
+      ],
+      "hook_tag": "Equity Lending Shifts",
+      "hook": "Zero-equity equity lines are back, but it is not 2007.",
+      "what_happened_heading": "California credit union pushes equity limits to maximum",
+      "what_happened": "PremierOne Credit Union launched new equity products allowing California homeowners to borrow up to 100% CLTV (combined loan-to-value: total debt divided by home value). Borrowers can access up to $250,000 using fixed-rate or variable-rate options.",
+      "breakdown": [
+        {
+          "heading": "Preserving low primary mortgage rates",
+          "body": "Borrowers refuse to refinance 3% first mortgages. High-CLTV equity products allow homeowners to consolidate debt or renovate while keeping low primary rates intact."
+        },
+        {
+          "heading": "Expanding options up to 250k",
+          "body": "PremierOne offers both variable HELOCs and fixed-rate equity loans up to $250,000, giving homeowners flexibility in how they structure secondary debt."
+        },
+        {
+          "heading": "How underwriters evaluate max-CLTV equity",
+          "body": "Here's what this actually changes when a file hits underwriting. Underwriters enforce strict DTI (debt-to-income: monthly debt obligations divided by gross income) limits and require precise full appraisals."
+        },
+        {
+          "heading": "Risk management in high-equity environments",
+          "body": "Unlike pre-2008 100% financing, modern high-CLTV equity loans require documented income, fully verified assets, and strong credit scores to offset collateral risk."
+        }
+      ],
+      "my_take_heading": "Why high CLTV second mortgages make sense now",
+      "my_take": "100% CLTV second liens aren't subprime risk; they are the safest way to monetise home equity without destroying low-rate first mortgages.",
+      "action_lo": "Educate existing homeowners locked into 3% primary mortgages on using second liens for debt consolidation instead of cash-out refinances.",
+      "action_realtor": "Market home improvement and addition potential to sellers who want to upgrade their current property rather than purchase a new home.",
+      "cta_question": "Are high-CLTV second mortgages a genius solution for rate-locked homeowners or an unnecessary credit risk?"
+    },
+    {
+      "slug": "housing-supply-6-year-high-redfin",
+      "title": "Housing Supply Hits 6-Year High as Listings Surge",
+      "source": "Redfin",
+      "source_url": "https://www.redfin.com/news/new-listings-surge-august-2026/",
+      "cover_text": "Housing supply reaches highest level since 2020",
+      "caption": "Housing supply just hit a 6-year high as new listings surged across major markets like San Jose, Nashville, and Seattle. Total inventory reached levels not seen since 2020, while buyer demand remained essentially flat month over month. Most news outlets are calling this a buyer's market, but real estate pros need to look deeper at how deals are structured. From an underwriter's lens, expanding inventory is causing appraisals to flatten and concessions to rise. Smart agents and loan officers aren't using this inventory surge to negotiate minor price reductions. They are securing seller concessions to permanently buy down interest rates, saving buyers hundreds of dollars more per month than a simple price drop ever could.\n\nSource : https://tinyurl.com/2dgtktr5\n#SafetrustMortgage #MortgageIntelligenceDaily #housingmarket #realestateagent #homebuying",
+      "hashtags": [
+        "#SafetrustMortgage",
+        "#MortgageIntelligenceDaily",
+        "#housingmarket",
+        "#realestateagent",
         "#homebuying"
       ],
-      "hook_tag": "Riesgos en prestamos cripto",
-      "hook": "Tu bitcoin en garantia podria no quedarse guardado en una boveda.",
-      "what_happened_heading": "Better Mortgage introduce la rehipoteca de activos en prestamos cripto",
-      "what_happened": "Better Mortgage revelo que podria reutilizar el bitcoin entregado como garantia en su nuevo programa hipotecario. La empresa promete devolver una cantidad equivalente de bitcoin al cancelar el prestamo.",
+      "hook_tag": "Housing Inventory Trends",
+      "hook": "Rising housing inventory is not creating the buyer discounts you expect.",
+      "what_happened_heading": "New listings surge while home buyer demand stays flat",
+      "what_happened": "U.S. housing supply reached a 6-year high in August as new listings surged, while home sales remained flat month over month. Metro areas like San Jose, Nashville, and Seattle led the inventory surge.",
       "breakdown": [
         {
-          "heading": "Que significa la rehipoteca de activos",
-          "body": "La rehipoteca de activos (rehypothecation) permite al prestamista usar la garantia entregada por el cliente para hacer sus propias transacciones o financiamientos secundarios."
+          "heading": "Total supply surges to multi-year peak",
+          "body": "Total home inventory hit its highest level since 2020. More sellers are accepting that elevated mortgage rates are a long-term reality rather than a temporary spike."
         },
         {
-          "heading": "Devuelven un valor equivalente, no el mismo bitcoin",
-          "body": "Al pagar la hipoteca, el comprador recibe la misma cantidad de bitcoin, pero no necesariamente las mismas monedas digitales especificas que entrego al inicio."
+          "heading": "Stalled buyer demand balances the market",
+          "body": "Monthly sales remained essentially flat despite the inventory growth. Buyers remain cautious due to monthly payment affordability constraints across major metros."
         },
         {
-          "heading": "Lo que cambia para el asesor de credito",
-          "body": "Cuando el expediente llega al asesor (underwriter), la verificacion ya no es solo revisar fondos bloqueados, sino evaluar el riesgo de liquidez del propio prestamista."
+          "heading": "How underwriters view appraisal comps today",
+          "body": "Here's what this actually changes when a file hits underwriting. Underwriters scrutinize seller concessions (seller-paid funds toward buyer costs) and appraised values more closely as expanding inventory slows price appreciation."
         },
         {
-          "heading": "Equilibrar el apalancamiento y el riesgo",
-          "body": "Usar la garantia cripto del cliente reduce costos para el prestamista, pero crea una gran exposicion al mercado si los precios de las criptomonedas varian."
+          "heading": "Leveraging concessions for rate relief",
+          "body": "Rising inventory gives buyers leverage to demand seller concessions for permanent interest rate buydowns instead of basic price cuts."
         }
       ],
-      "my_take_heading": "La rehipoteca traslada el riesgo financiero directamente a la garantia",
-      "my_take": "Las hipotecas con criptomonedas suenan modernas, pero esta practica hace que el comprador cambie la estabilidad del valor de su casa por el riesgo financiero del prestamista.",
-      "action_lo": "Explica con claridad las condiciones a tus clientes tecnologicamente avanzados para que entiendan que no conservaran sus monedas originales.",
-      "action_realtor": "Avisa a los clientes que usan criptoactivos que el prestamista podria usar esa garantia durante la vida del prestamo.",
-      "cta_question": "¿Recomendarias a tus clientes de alto patrimonio firmar un acuerdo de este tipo para su hipoteca?"
-    },
-    {
-      "slug": "optimal-blue-august-lock-volume-down",
-      "title": "El bloqueo de tasas cayo un 9 por ciento en agosto",
-      "source": "HousingWire",
-      "source_url": "https://www.housingwire.com/articles/optimal-blue-mortgage-lock-volume/",
-      "cover_text": "El bloqueo de tasas cayo 9 por ciento",
-      "caption": "El volumen de bloqueo de tasas hipotecarias bajo un 9% en agosto respecto a julio. Segun el informe mas reciente de Optimal Blue, con la tasa conforme a 30 anos cerrando en 6.72%, la demanda de refinanciacion sigue muy frenada. Esta baja demuestra que no se puede esperar que las tasas bajen solas para llenar el trabajo. Desde la perspectiva del asesor (underwriter), un volumen menor permite concentrarse en el cumplimiento estricto y la calidad de cada documento de compra. Los oficiales de prestamo deben enfocarse en alianzas solidas y soluciones creativas de compra en lugar de esperar un boom de refinanciaciones. Tambien es clave cuidar los costos operativos mientras el mercado este apretado. ¿Como te preparas para este cierre de ano?\n\nFuente : https://tinyurl.com/24qrewjh\n#SafetrustMortgage #MortgageIntelligenceDaily #mortgagerates #housingmarket #loanofficer",
-      "hashtags": [
-        "#SafetrustMortgage",
-        "#MortgageIntelligenceDaily",
-        "#mortgagerates",
-        "#housingmarket",
-        "#loanofficer"
-      ],
-      "hook_tag": "Tendencias del mercado",
-      "hook": "El bloqueo de tasas hipotecarias sufrio una fuerte caida el mes pasado.",
-      "what_happened_heading": "El volumen de bloqueo de tasas bajo considerablemente en agosto",
-      "what_happened": "El volumen total de bloqueo de tasas bajo 9% en agosto respecto a julio, segun Optimal Blue. La tasa conforme a 30 anos cerro el mes en 6.72% mientras la refinanciacion continuo estancada.",
-      "breakdown": [
-        {
-          "heading": "Caida mensual en el volumen de bloqueos",
-          "body": "Optimal Blue reporto una caida del 9% mes a mes en el volumen total de bloqueos, afectando tanto compras como refinanciaciones."
-        },
-        {
-          "heading": "Las tasas de interes no bajan lo suficiente",
-          "body": "La tasa conforme a 30 anos (prestamos dentro de los limites basicos de las GSE) cerro agosto en 6.72%, frenando el impulso de los compradores."
-        },
-        {
-          "heading": "Lo que cambia al momento de evaluar",
-          "body": "Con menos volumen, el asesor (underwriter) se enfoca en revisar con lupa la calidad de cada expediente en lugar de procesar solicitudes a toda prisa."
-        },
-        {
-          "heading": "El mercado de refinanciacion sigue limitado",
-          "body": "La refinanciacion mostro muy poca recuperacion, lo que obliga a los profesionales a depender casi exclusivamente de las compras de vivienda."
-        }
-      ],
-      "my_take_heading": "La baja en bloqueos confirma que el mercado dependera solo de las compras",
-      "my_take": "Una caida del 9% demuestra que pequenas bajas en las tasas no reviviran el mercado por si solas si no mejoran el inventario de casas y la capacidad de pago.",
-      "action_lo": "Enfoca tu estrategia en clientes compradores en lugar de esperar una bajada de tasas para refinanciar que no llega.",
-      "action_realtor": "Trabaja junto con tu oficial de prestamos para negociar concesiones del vendedor que bajen el costo real de la tasa.",
-      "cta_question": "¿Como te estas preparando para la bajada en el volumen de prestamos esta temporada?"
-    },
-    {
-      "slug": "ncino-broker-originated-loans-retail-platform",
-      "title": "nCino integra prestamos de brokers en su plataforma minorista",
-      "source": "National Mortgage Professional",
-      "source_url": "https://nationalmortgageprofessional.com/news/ncino-brings-broker-originated-loans-its-retail-mortgage-platform",
-      "cover_text": "La tecnologia minorista y mayorista finalmente se unen",
-      "caption": "nCino acaba de integrar los prestamos procesados por brokers directamente en su plataforma minorista. Para los prestamistas que manejan tanto canal minorista como mayorista, operar sistemas separados genera friccion tecnologica y aumenta bastante los costos operativos. Al unificar estos flujos de trabajo, nCino busca simplificar la recepcion de datos. Desde el punto de vista del asesor (underwriter), contar con una sola entrada de informacion reduce errores en los expedientes y estandariza la aprobacion de condiciones. Con los margenes de ganancia ajustados en toda la industria, eliminar programas duplicados es una prioridad principal para los ejecutivos que buscan crecer de manera mas eficiente. ¿Tu empresa sigue usando software separado para cada canal?\n\nFuente : https://tinyurl.com/2ytqhdnu\n#SafetrustMortgage #MortgageIntelligenceDaily #mortgagebroker #loanofficer #mortgagelending",
-      "hashtags": [
-        "#SafetrustMortgage",
-        "#MortgageIntelligenceDaily",
-        "#mortgagebroker",
-        "#loanofficer",
-        "#mortgagelending"
-      ],
-      "hook_tag": "Tecnologia hipotecaria",
-      "hook": "nCino une los canales de origen para brokers y minoristas.",
-      "what_happened_heading": "nCino unifica los procesos de prestamos mayoristas y minoristas",
-      "what_happened": "nCino actualizo su plataforma de punto de venta (POS) para integrar prestamos de brokers en el mismo sistema que usan sus equipos minoristas. Esto esta pensado para prestamistas que operan en ambos canales.",
-      "breakdown": [
-        {
-          "heading": "Eliminar el uso de sistemas separados",
-          "body": "Los prestamistas con dos canales suelen usar portales y procesos fragmentados, lo que aumenta innecesariamente los costos de tecnologia y mantenimiento."
-        },
-        {
-          "heading": "Una experiencia mas agil para el broker",
-          "body": "Los brokers que envian prestamos usaran el mismo sistema de punto de venta (POS), haciendo la transferencia de datos mas rapida y sin errores."
-        },
-        {
-          "heading": "Lo que cambia en la evaluacion del credito",
-          "body": "Al unificar la entrada de datos, el asesor (underwriter) puede evaluar expedientes minoristas y mayoristas bajo las mismas reglas y estandares."
-        },
-        {
-          "heading": "Reducir los costos operativos por prestamo",
-          "body": "Unificar las plataformas ayuda a las entidades a gastar menos en mantenimiento de software y acelerar el tiempo de cierre de las hipotecas."
-        }
-      ],
-      "my_take_heading": "Unificar la tecnologia es vital para sobrevivir en el mercado actual",
-      "my_take": "Usar sistemas separados ya no funciona. Los prestamistas deben unificar sus plataformas para reducir costos y proteger sus ganancias en este mercado.",
-      "action_lo": "Pregunta a tus representantes mayoristas si sus cambios tecnologicos reducen retrasos y agilizan las revisiones del asesor.",
-      "action_realtor": "Trabaja con prestamistas que usen tecnologia moderna para asegurar preaprobaciones mas rapidas para tus compradores.",
-      "cta_question": "¿Tu institucion sigue usando sistemas separados para el canal minorista y el mayorista?"
+      "my_take_heading": "Why price cuts are the wrong leverage tool",
+      "my_take": "High inventory gives buyers bargaining power, but taking price cuts instead of seller-funded rate buydowns is a rookie mistake in today's rate environment.",
+      "action_lo": "Build side-by-side comparison sheets showing buyers how seller concessions spent on permanent rate buydowns outperform purchase price reductions.",
+      "action_realtor": "Structure purchase offers with maximum seller concessions to reduce buyer monthly payments without lowering the listing price benchmark.",
+      "cta_question": "Are your buyers using listing surges to negotiate price cuts or to secure seller-funded rate buydowns?"
     }
   ]
 }
