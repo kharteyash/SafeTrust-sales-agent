@@ -342,6 +342,11 @@ def get_data(mode="live"):
     else:
         last, prev = series[-1][1], series[-2][1]
         as_of = _short_date(series[-1][0]) + f"/{series[-1][0][:4]}"
+    # The change is measured against the previous dot on the chart — yesterday's
+    # 6:00 AM level — never the 4pm close (which appears nowhere on the card), so
+    # the arrow always equals the visible gap between the last two points.
+    if len(series) >= 2:
+        prev = series[-2][1]
     return series, last, prev, as_of, source
 
 
@@ -352,11 +357,11 @@ def build_caption(series, last, prev, as_of):
     week_delta = round((last - series[0][1]) * 100, 1)
     span = f"{series[0][1]:.3f}% on {_short_date(series[0][0])} to {last:.3f}%"
     if d_today > 0:
-        today_txt = f"up {d_today:g} bps from the previous close"
+        today_txt = f"up {d_today:g} bps from yesterday's 6:00 AM level"
     elif d_today < 0:
-        today_txt = f"down {abs(d_today):g} bps from the previous close"
+        today_txt = f"down {abs(d_today):g} bps from yesterday's 6:00 AM level"
     else:
-        today_txt = "unchanged from the previous close"
+        today_txt = "unchanged from yesterday's 6:00 AM level"
     if week_delta > 2:
         week_txt = f"This week it has been trending up: +{week_delta:g} bps ({span})."
     elif week_delta < -2:
@@ -437,7 +442,7 @@ def build_html(series, last, prev, as_of, source, t):
               f'<span class="sans" style="font-size:15px;font-weight:600;color:{color};">'
               f'{abs(delta_bps):g} bps {word}</span>'
               f'<span class="sans" style="font-size:13px;color:{t["vs"]};">'
-              f'vs previous close</span>')
+              f'vs yesterday 6:00 AM</span>')
 
     heading = gc.h_light if t["on_light"] else gc.h_dark
     content = (
