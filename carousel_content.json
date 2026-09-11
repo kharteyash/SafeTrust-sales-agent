@@ -1,138 +1,54 @@
 {
   "carousels": [
     {
-      "slug": "vantagescore-4-gse-adoption",
-      "title": "Fannie and Freddie Open VantageScore 4.0 to All Lenders",
-      "source": "HousingWire",
-      "source_url": "https://www.housingwire.com/articles/gses-broaden-vantagescore-4-0-access-rocket-uwm-dominate-volume/",
-      "cover_text": "VantageScore is live for all mortgage lenders",
-      "caption": "Choosing the wrong credit score model at application could cost your homebuyer thousands in higher interest rates or fees. Fannie Mae and Freddie Mac now accept VantageScore 4.0 from all single-family lenders, opening doors for borrowers with rent or utility histories. But there is a catch that most loan officers are missing. You cannot mix Classic FICO and VantageScore 4.0 on the same loan file. If a co-borrower has thin credit, the entire file must commit to one scoring system. As an underwriter, I see this changing loan origination completely. Picking the wrong credit engine early will lead to expensive re-underwrites and repricing. The winning lenders won't just pull credit; they will analyze which credit model yields the lowest risk fees before submission.\n\nSource : https://tinyurl.com/2yzgd6z3\n#SafetrustMortgage #MortgageIntelligenceDaily #mortgagerates #loanofficer #firsttimehomebuyer",
-      "hashtags": [
-        "#SafetrustMortgage",
-        "#MortgageIntelligenceDaily",
-        "#mortgagerates",
-        "#loanofficer",
-        "#firsttimehomebuyer"
-      ],
-      "hook_tag": "Credit Scoring Rules",
-      "hook": "Choosing the wrong credit score model could cost your buyer thousands.",
-      "what_happened_heading": "Fannie and Freddie expand credit scoring choices",
-      "what_happened": "Fannie Mae and Freddie Mac now accept VantageScore 4.0 credit scores from all single-family lenders. However, lenders are strictly forbidden from mixing Classic FICO and VantageScore 4.0 on the same loan file.",
-      "breakdown": [
-        {
-          "heading": "A new scoring engine enters the market",
-          "body": "VantageScore 4.0 includes rent payments and utility data. This helps credit-invisible borrowers show creditworthiness without traditional credit cards or trade lines."
-        },
-        {
-          "heading": "The strict rule on mixing models",
-          "body": "You cannot pull Classic FICO for one borrower and VantageScore for a co-borrower. The entire file must run on a single credit scoring model from start to finish."
-        },
-        {
-          "heading": "How underwriters view model selection",
-          "body": "Here's what this actually changes when a file hits underwriting. Underwriters will scrutinize manual trade lines less if VantageScore 4.0 validates rent history directly on the credit report."
-        },
-        {
-          "heading": "Pricing and automated system impacts",
-          "body": "Fannie Mae and Freddie Mac pricing engines calculate risk fees differently per model. Picking the wrong model up front could lock in higher LLPAs (loan-level price adjustments: added fees based on risk)."
-        }
-      ],
-      "my_take_heading": "Why credit strategy now happens at loan application",
-      "my_take": "Dual credit scoring forces loan officers to become credit architects before pulling credit, because switching scoring models mid-file will trigger full re-underwrites.",
-      "action_lo": "Compare VantageScore 4.0 against Classic FICO on thin-file applicants to see which yields better pricing before locking.",
-      "action_realtor": "Partner with lenders who use VantageScore 4.0 to qualify first-time buyers who lack traditional credit cards but pay rent reliably.",
-      "cta_question": "Will your team default to Classic FICO or actively test VantageScore 4.0 on thin-file borrowers?"
-    },
-    {
-      "slug": "non-qm-locks-hit-record-high",
-      "title": "Non-QM Locks Reach 11.3% of Total Market Volume",
+      "slug": "lenders-hike-conforming-loan-limits-early",
+      "title": "Lenders Raise Conforming Limits to $845k Ahead of FHFA",
       "source": "National Mortgage Professional",
-      "source_url": "https://nationalmortgageprofessional.com/news/non-qm-captures-more-11-mortgage-lock-volume",
-      "cover_text": "Non-QM locks hit record eleven percent market share",
-      "caption": "Non-QM loans are no longer fringe products, and smart lenders are taking notice. Non-QM rate locks reached 11.3% of total mortgage volume in August, up nearly 3 percentage points year over year. Debt-service coverage ratio loans for investors and bank-statement programs for self-employed buyers are driving this massive shift. While traditional loan officers wait around for interest rate cuts, top producers are leaning into cash-flow underwriting. From an underwriting perspective, non-QM files require a completely different mindset. We are analyzing lease agreements and liquidity reserves rather than tax returns and W-2s. Lenders who master these guidelines now will capture high-margin business while competitors wait on agency refinance volume.\n\nSource : https://tinyurl.com/264d4myp\n#SafetrustMortgage #MortgageIntelligenceDaily #realestateinvesting #loanofficer #mortgagebroker",
+      "source_url": "https://nationalmortgageprofessional.com/news/rocket-raises-conforming-loan-limit-845k-ahead-fhfa",
+      "cover_text": "Lenders hike conforming loan limits before FHFA",
+      "caption": "Rocket and CrossCountry Mortgage just jumped the gun on the FHFA by raising their conforming loan limits to $845,000 early. Everyone thinks this means lenders know the official government number early. They do not. This is a balance sheet play to capture high-balance borrowers right now before competing lenders can touch them. When a file hits underwriting, avoiding jumbo guidelines saves weeks of documentation and strict reserve checks. But holding these loans until official FHFA securitization opens up risk for the lender if caps fall short. It is a bold volume play in a tight market.\n\nSource : https://tinyurl.com/24u7no5e\n#SafetrustMortgage #MortgageIntelligenceDaily #mortgagebroker #loanofficer #mortgagerates",
       "hashtags": [
         "#SafetrustMortgage",
         "#MortgageIntelligenceDaily",
-        "#realestateinvesting",
-        "#loanofficer",
-        "#mortgagebroker"
-      ],
-      "hook_tag": "Non-QM Market Surge",
-      "hook": "Non-QM loans are no longer niche products for fringe buyers.",
-      "what_happened_heading": "Non-QM rate locks capture historic market share",
-      "what_happened": "Non-QM (non-qualifying mortgage: loans that do not meet agency underwriting rules) reached 11.3% of rate-lock volume in August. This represents a 2.9 percentage point increase from last year, driven largely by investor and DSCR loans.",
-      "breakdown": [
-        {
-          "heading": "Investor loans lead the volume surge",
-          "body": "DSCR (debt-service coverage ratio: loan option based on property cash flow instead of tax returns) loans made up a massive portion of the non-QM lock expansion this quarter."
-        },
-        {
-          "heading": "Conventional channels continue to choke on rates",
-          "body": "High interest rates pushed self-employed borrowers and real estate investors out of agency qualified mortgages into expanded guideline options."
-        },
-        {
-          "heading": "How underwriters analyze non-QM cash flows",
-          "body": "Here's what this actually changes when a file hits underwriting. Underwriters ignore personal tax returns completely, focusing entirely on lease agreements, property cash flow, and liquidity reserves."
-        },
-        {
-          "heading": "Market execution replaces old subprime fears",
-          "body": "Secondary market demand for non-QM private-label securities remains strong. Modern non-QM relies on sound asset verification rather than loose low-doc lending of the past."
-        }
-      ],
-      "my_take_heading": "Why traditional lenders are losing market share",
-      "my_take": "Loan officers waiting for lower benchmark rates to save their pipelines are losing market share to originators who master non-QM cash-flow underwriting today.",
-      "action_lo": "Audit your database for self-employed clients rejected by conventional AUS (automated underwriting system: automated mortgage approval tool) and present bank-statement solutions.",
-      "action_realtor": "Pitch real estate investors on DSCR financing options to unlock deals stalled by personal DTI (debt-to-income: monthly debt obligations divided by gross income) limits.",
-      "cta_question": "Is non-QM a core part of your team's strategy, or are you still treating it as a last resort?"
-    },
-    {
-      "slug": "premierone-100-cltv-heloc",
-      "title": "PremierOne Credit Union Launches 100% CLTV Home Equity Loans",
-      "source": "National Mortgage Professional",
-      "source_url": "https://nationalmortgageprofessional.com/news/premierone-pushes-home-equity-lending-100-cltv",
-      "cover_text": "One hundred percent home equity loans are back",
-      "caption": "Zero-equity secondary lines are making headlines again, but the mechanics are completely different this time. PremierOne Credit Union launched equity products allowing homeowners to borrow up to 100% CLTV up to $250,000. While critics hear 100% financing and fear 2007 risk, this product directly solves today's rate-lock dilemma. Homeowners holding 3% first mortgages refuse to touch cash-out refinances at current rates. From an underwriting standpoint, high-CLTV seconds require rigorous income verification, strict debt-to-income caps, and verified credit histories. These products let borrowers consolidate high-interest debt or fund home renovations without destroying their primary rate structure.\n\nSource : https://tinyurl.com/29pe9t4h\n#SafetrustMortgage #MortgageIntelligenceDaily #homebuying #mortgagebroker #realestateagent",
-      "hashtags": [
-        "#SafetrustMortgage",
-        "#MortgageIntelligenceDaily",
-        "#homebuying",
         "#mortgagebroker",
-        "#realestateagent"
+        "#loanofficer",
+        "#mortgagerates"
       ],
-      "hook_tag": "Equity Lending Shifts",
-      "hook": "Zero-equity equity lines are back, but it is not 2007.",
-      "what_happened_heading": "California credit union pushes equity limits to maximum",
-      "what_happened": "PremierOne Credit Union launched new equity products allowing California homeowners to borrow up to 100% CLTV (combined loan-to-value: total debt divided by home value). Borrowers can access up to $250,000 using fixed-rate or variable-rate options.",
+      "hook_tag": "Loan limits",
+      "hook": "Early loan limit hikes are about pipeline volume, not FHFA insider info.",
+      "what_happened_heading": "Lenders jump gun on conforming limits",
+      "what_happened": "Rocket Mortgage and CrossCountry Mortgage raised their conventional loan limits to $845,000 before the official FHFA announcement. This lets originators price high-balance loans as conventional rather than jumbo right away.",
       "breakdown": [
         {
-          "heading": "Preserving low primary mortgage rates",
-          "body": "Borrowers refuse to refinance 3% first mortgages. High-CLTV equity products allow homeowners to consolidate debt or renovate while keeping low primary rates intact."
+          "heading": "Bypassing jumbo guidelines",
+          "body": "Jumbo loans require stricter reserve rules and manual underwriting. Moving files to conventional streamlines processing and removes extra bank statement requirements."
         },
         {
-          "heading": "Expanding options up to 250k",
-          "body": "PremierOne offers both variable HELOCs and fixed-rate equity loans up to $250,000, giving homeowners flexibility in how they structure secondary debt."
+          "heading": "What changes in underwriting",
+          "body": "Here is what this actually changes when a file hits underwriting: automated underwriting systems (computer algorithms that issue loan approvals) will accept higher balances without requiring jumbo guidelines."
         },
         {
-          "heading": "How underwriters evaluate max-CLTV equity",
-          "body": "Here's what this actually changes when a file hits underwriting. Underwriters enforce strict DTI (debt-to-income: monthly debt obligations divided by gross income) limits and require precise full appraisals."
+          "heading": "Pipeline balance sheet risk",
+          "body": "Lenders hold these loans on balance sheets or portfolio lines until FHFA officially raises the limit. If FHFA sets a lower cap, lenders absorb pricing adjustments."
         },
         {
-          "heading": "Risk management in high-equity environments",
-          "body": "Unlike pre-2008 100% financing, modern high-CLTV equity loans require documented income, fully verified assets, and strong credit scores to offset collateral risk."
+          "heading": "Market share land grab",
+          "body": "Origination volume is tight. Offering higher limits early captures high-balance buyers who would otherwise delay closing or default to credit unions."
         }
       ],
-      "my_take_heading": "Why high CLTV second mortgages make sense now",
-      "my_take": "100% CLTV second liens aren't subprime risk; they are the safest way to monetise home equity without destroying low-rate first mortgages.",
-      "action_lo": "Educate existing homeowners locked into 3% primary mortgages on using second liens for debt consolidation instead of cash-out refinances.",
-      "action_realtor": "Market home improvement and addition potential to sellers who want to upgrade their current property rather than purchase a new home.",
-      "cta_question": "Are high-CLTV second mortgages a genius solution for rate-locked homeowners or an unnecessary credit risk?"
+      "my_take_heading": "Balance sheet risk drives early limits",
+      "my_take": "Pushing limits early is not a favor to buyers; it is a calculated balance sheet gamble to grab high-balance market share before the spring market.",
+      "action_lo": "Review your current pipeline for high-balance buyers stuck in jumbo pricing and rerun their files under conventional guidelines.",
+      "action_realtor": "Re-engage clients shopping in the $800,000 range who hesitated due to jumbo down payment or reserve requirements.",
+      "cta_question": "Is your ops team ready to hold these unaligned balances until FHFA publishes the official cap?"
     },
     {
-      "slug": "housing-supply-6-year-high-redfin",
-      "title": "Housing Supply Hits 6-Year High as Listings Surge",
+      "slug": "strongest-buyers-market-on-record",
+      "title": "Strongest Buyer's Market on Record Driven by Sun Belt",
       "source": "Redfin",
-      "source_url": "https://www.redfin.com/news/new-listings-surge-august-2026/",
-      "cover_text": "Housing supply reaches highest level since 2020",
-      "caption": "Housing supply just hit a 6-year high as new listings surged across major markets like San Jose, Nashville, and Seattle. Total inventory reached levels not seen since 2020, while buyer demand remained essentially flat month over month. Most news outlets are calling this a buyer's market, but real estate pros need to look deeper at how deals are structured. From an underwriter's lens, expanding inventory is causing appraisals to flatten and concessions to rise. Smart agents and loan officers aren't using this inventory surge to negotiate minor price reductions. They are securing seller concessions to permanently buy down interest rates, saving buyers hundreds of dollars more per month than a simple price drop ever could.\n\nSource : https://tinyurl.com/2dgtktr5\n#SafetrustMortgage #MortgageIntelligenceDaily #housingmarket #realestateagent #homebuying",
+      "source_url": "https://www.redfin.com/news/buyers-vs-sellers-august-2026/",
+      "cover_text": "Strongest buyer market on record is here",
+      "caption": "Redfin just reported the strongest buyer market on record, with sellers outnumbering buyers by 58 percent in August. Sun Belt metros like Houston, Miami, and Nashville are seeing double the sellers compared to active buyers. Yet transactions are stalling because buyers face rates above 7 percent. When files hit underwriting today, underwriters are scrutinizing appraisal comps heavily. If comparable sales are dropping, market condition adjustments can trigger appraisal shortfalls. Sellers can no longer test the market with dream pricing. If listing agents do not price realistically from day one, inventory will sit while buyers wait for concessions.\n\nSource : https://tinyurl.com/29ts5e2k\n#SafetrustMortgage #MortgageIntelligenceDaily #housingmarket #realestateagent #homebuying",
       "hashtags": [
         "#SafetrustMortgage",
         "#MortgageIntelligenceDaily",
@@ -140,203 +56,117 @@
         "#realestateagent",
         "#homebuying"
       ],
-      "hook_tag": "Housing Inventory Trends",
-      "hook": "Rising housing inventory is not creating the buyer discounts you expect.",
-      "what_happened_heading": "New listings surge while home buyer demand stays flat",
-      "what_happened": "U.S. housing supply reached a 6-year high in August as new listings surged, while home sales remained flat month over month. Metro areas like San Jose, Nashville, and Seattle led the inventory surge.",
+      "hook_tag": "Market trends",
+      "hook": "High inventory with rising prices is stalling transactions across Sun Belt markets.",
+      "what_happened_heading": "Buyer supply surges past demand",
+      "what_happened": "Sellers outnumbered buyers by 58 percent in August, marking the largest supply-demand gap on record according to Redfin. Meanwhile, 21 percent of home sellers dropped prices as higher borrowing costs kept buyers on the sidelines.",
       "breakdown": [
         {
-          "heading": "Total supply surges to multi-year peak",
-          "body": "Total home inventory hit its highest level since 2020. More sellers are accepting that elevated mortgage rates are a long-term reality rather than a temporary spike."
+          "heading": "Sun Belt listing explosion",
+          "body": "Markets like Nashville, Miami, and Houston now have more than double the number of sellers as buyers, completely flipping leverage toward buyers."
         },
         {
-          "heading": "Stalled buyer demand balances the market",
-          "body": "Monthly sales remained essentially flat despite the inventory growth. Buyers remain cautious due to monthly payment affordability constraints across major metros."
+          "heading": "Price cuts take hold",
+          "body": "Over a fifth of active sellers cut asking prices to match affordability constraints as mortgage rates climbed past 7 percent."
         },
         {
-          "heading": "How underwriters view appraisal comps today",
-          "body": "Here's what this actually changes when a file hits underwriting. Underwriters scrutinize seller concessions (seller-paid funds toward buyer costs) and appraised values more closely as expanding inventory slows price appreciation."
+          "heading": "What underwriting sees on appraisals",
+          "body": "Here is what this actually changes when a file hits underwriting: appraiser adjustments for market condition time-trends will turn negative, forcing buyers to bring more cash if comps fall."
         },
         {
-          "heading": "Leveraging concessions for rate relief",
-          "body": "Rising inventory gives buyers leverage to demand seller concessions for permanent interest rate buydowns instead of basic price cuts."
+          "heading": "Five seller markets remain",
+          "body": "Only five major seller markets remain across the entire country, led by New York City, creating a massive regional split in real estate strategies."
         }
       ],
-      "my_take_heading": "Why price cuts are the wrong leverage tool",
-      "my_take": "High inventory gives buyers bargaining power, but taking price cuts instead of seller-funded rate buydowns is a rookie mistake in today's rate environment.",
-      "action_lo": "Build side-by-side comparison sheets showing buyers how seller concessions spent on permanent rate buydowns outperform purchase price reductions.",
-      "action_realtor": "Structure purchase offers with maximum seller concessions to reduce buyer monthly payments without lowering the listing price benchmark.",
-      "cta_question": "Are your buyers using listing surges to negotiate price cuts or to secure seller-funded rate buydowns?"
-    }
-  ],
-  "carousels_es": [
+      "my_take_heading": "Inventory spike demands realistic pricing",
+      "my_take": "Record inventory without sales volume is not a crash; it is a standoff where sellers must price accurately or watch listings rot.",
+      "action_lo": "Run detailed cash-to-close scenarios showing buyers how price concessions can buy down interest rates directly.",
+      "action_realtor": "Stop listing homes at peak 2023 comps and push sellers for upfront price adjustments before market exposure kills interest.",
+      "cta_question": "How are your teams adjusting property valuation expectations as appraisal comps shift downward in oversupplied markets?"
+    },
     {
-      "slug": "vantagescore-4-gse-adoption",
-      "title": "Fannie y Freddie abren VantageScore 4.0 a todos los prestamistas",
+      "slug": "vantagescore-grids-point-to-higher-costs",
+      "title": "VantageScore 4.0 Credit Grids Point to Higher Borrower Costs",
       "source": "HousingWire",
-      "source_url": "https://www.housingwire.com/articles/gses-broaden-vantagescore-4-0-access-rocket-uwm-dominate-volume/",
-      "cover_text": "VantageScore ya está disponible para todos",
-      "caption": "Elegir el modelo de crédito equivocado al iniciar la solicitud podría costarle miles de dólares a tu comprador en tasas o cargos más altos. Fannie Mae y Freddie Mac ya aceptan VantageScore 4.0 de todos los prestamistas, abriendo puertas a compradores con historial de renta o servicios públicos. Pero hay un detalle importante que muchos oficiales de préstamo están pasando por alto. No puedes mezclar FICO Clásico y VantageScore 4.0 en el mismo expediente. Si un cosolicitante tiene poco crédito, todo el trámite debe comprometerse con un solo sistema. Como asesor, veo que esto cambia por completo la originación de préstamos. Elegir el motor equivocado desde el principio provocará reevaluaciones y ajustes de precio muy costosos. Los prestamistas ganadores analizarán qué modelo genera menores cargos por riesgo antes de enviar la solicitud.\n\nFuente : https://tinyurl.com/2yzgd6z3\n#SafetrustMortgage #MortgageIntelligenceDaily #mortgagerates #loanofficer #firsttimehomebuyer",
+      "source_url": "https://www.housingwire.com/articles/vantagescore-llpa-grids/",
+      "cover_text": "New credit score grids raise mortgage costs",
+      "caption": "The transition to VantageScore 4.0 was pitched as a way to help more buyers qualify, but the newly released pricing grids tell a different story. Analysis shows loan-level price adjustments (extra fees based on risk) will likely increase costs for middle-tier borrowers. When a file hits underwriting under trended credit models, how a borrower manages credit card balances month-to-month matters far more than just paying on time. A small credit balance spike before closing can trigger higher fees under the new pricing grids. Originators need to start educating borrowers on credit utilization months in advance.\n\nSource : https://tinyurl.com/23m2kyut\n#SafetrustMortgage #MortgageIntelligenceDaily #mortgagebroker #loanofficer #firsttimehomebuyer",
       "hashtags": [
         "#SafetrustMortgage",
         "#MortgageIntelligenceDaily",
-        "#mortgagerates",
+        "#mortgagebroker",
         "#loanofficer",
         "#firsttimehomebuyer"
       ],
-      "hook_tag": "Reglas de crédito",
-      "hook": "Elegir el modelo de crédito equivocado podría costarle miles a tu comprador.",
-      "what_happened_heading": "Fannie y Freddie amplían las opciones de puntaje crediticio",
-      "what_happened": "Fannie Mae y Freddie Mac ahora aceptan el puntaje VantageScore 4.0 de cualquier prestamista hipotecario. Sin embargo, está estrictamente prohibido mezclar FICO Clásico y VantageScore 4.0 en la misma solicitud.",
+      "hook_tag": "Credit scoring",
+      "hook": "VantageScore 4.0 pricing grids will raise fees on middle-tier credit borrowers.",
+      "what_happened_heading": "Credit score pricing grids promise higher fees",
+      "what_happened": "Recent industry analyses show that newly released pricing grids for VantageScore 4.0 could increase borrowing costs. These loan-level price adjustments (extra fees tied to credit risk) alter how credit scores translate into upfront fees.",
       "breakdown": [
         {
-          "heading": "Un nuevo sistema de crédito entra al mercado",
-          "body": "VantageScore 4.0 incluye el pago de renta y servicios públicos. Esto ayuda a personas sin historial crediticio tradicional a demostrar su solvencia."
+          "heading": "Redefining credit risk tiers",
+          "body": "The new VantageScore model incorporates trended credit data, meaning payment history patterns over time heavily alter the final credit score calculation."
         },
         {
-          "heading": "La regla estricta sobre mezclar modelos",
-          "body": "No puedes usar FICO Clásico para un comprador y VantageScore para el cosolicitante. Todo el expediente debe usar un solo modelo de crédito."
+          "heading": "Higher fees for moderate credit",
+          "body": "Pricing grids reflect higher risk adjustments for borrowers in mid-tier credit brackets, increasing total closing costs or interest rate adjustments."
         },
         {
-          "heading": "Cómo ven esto los asesores de préstamo",
-          "body": "Así cambia esto al procesar el crédito. El asesor cuestionará menos las referencias manuales si VantageScore 4.0 valida el historial de renta directamente."
+          "heading": "Underwriting view on credit files",
+          "body": "Here is what this actually changes when a file hits underwriting: credit supplement updates will cause sharper pricing swings if recent revolving balance ratios shift before closing."
         },
         {
-          "heading": "Impacto en precios y sistemas automáticos",
-          "body": "Los sistemas de Fannie y Freddie calculan comisiones según el modelo. Elegir el equivocado al inicio puede activar ajustes de precio por riesgo (LLPA) más altos."
+          "heading": "Transition timeline pressures",
+          "body": "Originators must manage dual-scoring rules while pricing engines integrate new fee schedules without disrupting existing rate locks."
         }
       ],
-      "my_take_heading": "Por qué la estrategia crediticia empieza desde la solicitud",
-      "my_take": "Tener dos modelos exige ser un estratega antes de revisar el crédito, ya que cambiar de modelo a mitad del proceso obligará a reevaluar todo el expediente desde cero.",
-      "action_lo": "Compara VantageScore 4.0 contra FICO Clásico en clientes con poco historial para ver cuál ofrece mejor precio antes de bloquear la tasa.",
-      "action_realtor": "Haz alianza con prestamistas que usen VantageScore 4.0 para calificar a primeros compradores que pagan renta puntual pero no tienen tarjetas.",
-      "cta_question": "¿Tu equipo usará FICO Clásico por defecto o probará VantageScore 4.0 en clientes con poco historial?"
+      "my_take_heading": "Trended credit data shifts loan pricing",
+      "my_take": "Credit score modernization was sold as an accessibility play, but pricing grids prove it is an execution cost increase for average borrowers.",
+      "action_lo": "Audit pre-approvals for clients in the 640 to 700 score range to account for potential fee increases under new grids.",
+      "action_realtor": "Structure purchase contracts with higher seller concessions to help buyers cover increased credit-related closing adjustments.",
+      "cta_question": "Will new credit score pricing grids force your team to adjust minimum credit score overlays for mid-tier buyers?"
     },
     {
-      "slug": "non-qm-locks-hit-record-high",
-      "title": "Los préstamos Non-QM alcanzan un récord del 11.3% del mercado",
+      "slug": "ai-errors-destroy-foreclosure-brief",
+      "title": "AI Errors Leave Mortgage Trustee Without Brief in Foreclosure Appeal",
       "source": "National Mortgage Professional",
-      "source_url": "https://nationalmortgageprofessional.com/news/non-qm-captures-more-11-mortgage-lock-volume",
-      "cover_text": "Los préstamos Non-QM marcan récord histórico",
-      "caption": "Los préstamos Non-QM dejaron de ser productos secundarios y los prestamistas inteligentes se están dando cuenta. Las reservas de tasa Non-QM alcanzaron el 11.3% del volumen total en agosto, casi 3 puntos más que el año pasado. Los préstamos DSCR para inversionistas y los programas con estados de cuenta para independientes impulsan este gran cambio. Mientras los agentes tradicionales esperan que bajen las tasas, los líderes aprovechan la evaluación por flujo de caja. Desde la perspectiva de un asesor, estos préstamos requieren una mentalidad muy diferente. Analizamos contratos de renta y reservas en lugar de declaraciones de impuestos o W-2. Quienes dominen estas guías hoy capturarán negocios muy rentables mientras la competencia sigue esperando refinanciamientos.\n\nFuente : https://tinyurl.com/264d4myp\n#SafetrustMortgage #MortgageIntelligenceDaily #realestateinvesting #loanofficer #mortgagebroker",
+      "source_url": "https://nationalmortgageprofessional.com/news/ai-errors-leave-mortgage-trustee-without-brief-foreclosure-appeal",
+      "cover_text": "AI fake cases destroy mortgage foreclosure brief",
+      "caption": "A mortgage trustee just lost its appellate brief in a foreclosure case because outside counsel relied on generative AI search that cited four fake court cases. The District of Columbia Court of Appeals struck the brief submitted for Deutsche Bank National Trust Company, leaving them without a defense. This is a brutal lesson in vendor risk management. In mortgage underwriting, we never accept unverified data points without human sign-off. When lenders or servicers outsource operations to AI without strict quality control, compliance and legal disasters follow. Automation requires human oversight every single time.\n\nSource : https://tinyurl.com/2ygyu49e\n#SafetrustMortgage #MortgageIntelligenceDaily #mortgagebroker #loanofficer #homebuying",
       "hashtags": [
         "#SafetrustMortgage",
         "#MortgageIntelligenceDaily",
-        "#realestateinvesting",
-        "#loanofficer",
-        "#mortgagebroker"
-      ],
-      "hook_tag": "Aumento del mercado Non-QM",
-      "hook": "Los préstamos Non-QM ya no son productos raros para pocos compradores.",
-      "what_happened_heading": "Las reservas Non-QM alcanzan una cuota histórica",
-      "what_happened": "Los préstamos Non-QM (préstamos que no siguen las reglas tradicionales) alcanzaron el 11.3% de las reservas en agosto. Esto representa un aumento de 2.9 puntos porcentuales respecto al año pasado, impulsado por inversionistas y préstamos DSCR.",
-      "breakdown": [
-        {
-          "heading": "Los préstamos para inversionistas lideran el aumento",
-          "body": "Los préstamos DSCR (basados en el flujo de caja de la propiedad y no en planillas de impuestos) impulsaron gran parte del crecimiento de Non-QM este trimestre."
-        },
-        {
-          "heading": "El canal convencional sigue frenado por las tasas",
-          "body": "Las altas tasas empujaron a independientes e inversionistas fuera de las hipotecas tradicionales hacia opciones con guías más flexibles."
-        },
-        {
-          "heading": "Cómo analizan los asesores el flujo de caja",
-          "body": "Así cambia esto al procesar el crédito. El asesor ignora las declaraciones de impuestos y se enfoca en contratos de arrendamiento, flujo de caja y reservas."
-        },
-        {
-          "heading": "El mercado moderno deja atrás viejos temores",
-          "body": "La demanda de estos préstamos en el mercado secundario se mantiene fuerte. El Non-QM actual exige verificar activos reales, no préstamos sin documentos del pasado."
-        }
-      ],
-      "my_take_heading": "Por qué los prestamistas tradicionales están perdiendo clientes",
-      "my_take": "Los oficiales de crédito que esperan tasas más bajas para salvar sus ventas están perdiendo mercado frente a quienes dominan la evaluación por flujo de caja hoy.",
-      "action_lo": "Revisa tu base de datos buscando independientes rechazados por el sistema automático (AUS) y preséntales opciones con estados de cuenta bancarios.",
-      "action_realtor": "Ofrece a los inversionistas opciones de financiamiento DSCR para destrabar compras frenadas por límites de deuda e ingresos (DTI).",
-      "cta_question": "¿El Non-QM es parte central de tu estrategia o todavía lo ves como un último recurso?"
-    },
-    {
-      "slug": "premierone-100-cltv-heloc",
-      "title": "PremierOne Credit Union lanza préstamos hipotecarios al 100% CLTV",
-      "source": "National Mortgage Professional",
-      "source_url": "https://nationalmortgageprofessional.com/news/premierone-pushes-home-equity-lending-100-cltv",
-      "cover_text": "Vuelven los préstamos con el cien por ciento",
-      "caption": "Las segundas líneas sin enganche están llamando la atención de nuevo, pero la dinámica es completamente distinta esta vez. PremierOne Credit Union lanzó productos de equidad que permiten prestar hasta el 100% CLTV y hasta $250,000. Aunque algunos escuchan financiamiento al 100% y temen el riesgo del 2007, este producto resuelve el problema actual de las tasas. Los dueños con hipotecas al 3% se niegan a hacer un refinanciamiento con extracción de efectivo a las tasas de hoy. Desde el punto de vista del asesor, estas segundas hipotecas requieren verificación estricta de ingresos, límites de deuda y buen historial crediticio. Estos productos permiten consolidar deudas o remodelar sin destruir la tasa del primer préstamo.\n\nFuente : https://tinyurl.com/29pe9t4h\n#SafetrustMortgage #MortgageIntelligenceDaily #homebuying #mortgagebroker #realestateagent",
-      "hashtags": [
-        "#SafetrustMortgage",
-        "#MortgageIntelligenceDaily",
-        "#homebuying",
         "#mortgagebroker",
-        "#realestateagent"
-      ],
-      "hook_tag": "Cambios en préstamos de equidad",
-      "hook": "Vuelven las líneas de equidad al 100%, pero esto no es 2007.",
-      "what_happened_heading": "Cooperativa de California lleva los límites de equidad al máximo",
-      "what_happened": "PremierOne Credit Union lanzó productos que permiten a dueños de casa en California prestarse hasta el 100% CLTV (relación entre deuda total y valor de la casa). Los clientes pueden acceder a hasta $250,000 con opciones de tasa fija o variable.",
-      "breakdown": [
-        {
-          "heading": "Conservar tasas bajas en la hipoteca principal",
-          "body": "Muchos dueños no quieren refinanciar su primer préstamo al 3%. Estos productos de alta equidad permiten consolidar deudas o remodelar manteniendo intacta esa tasa baja."
-        },
-        {
-          "heading": "Más opciones de crédito hasta $250,000",
-          "body": "PremierOne ofrece líneas HELOC variables y préstamos fijos de hasta $250,000, dándole flexibilidad al dueño de casa para organizar su deuda secundaria."
-        },
-        {
-          "heading": "Cómo evalúan los asesores la equidad máxima",
-          "body": "Así cambia esto al procesar el crédito. Los asesores aplican límites estrictos de relación deuda-ingreso (DTI) y exigen avalúos completos y muy precisos."
-        },
-        {
-          "heading": "Manejo del riesgo con alto valor acumulado",
-          "body": "A diferencia de antes del 2008, estos préstamos exigen ingresos comprobados, activos verificados y buen crédito para mitigar cualquier riesgo de garantía."
-        }
-      ],
-      "my_take_heading": "Por qué las segundas hipotecas al 100% CLTV tienen sentido hoy",
-      "my_take": "Las segundas hipotecas al 100% CLTV no son un riesgo riesgoso; son la forma más segura de aprovechar la equidad sin tocar una hipoteca principal con tasa baja.",
-      "action_lo": "Orienta a los dueños con tasas del 3% sobre cómo usar segundas hipotecas para consolidar deudas en lugar de refinanciar con extracción de efectivo.",
-      "action_realtor": "Promociona el potencial de remodelación entre vendedores que prefieren mejorar su casa actual antes que comprar una nueva con tasas altas.",
-      "cta_question": "¿Las segundas hipotecas al 100% CLTV son una solución genial o un riesgo de crédito innecesario?"
-    },
-    {
-      "slug": "housing-supply-6-year-high-redfin",
-      "title": "El inventario de viviendas alcanza su máximo en 6 años tras aumento de propiedades",
-      "source": "Redfin",
-      "source_url": "https://www.redfin.com/news/new-listings-surge-august-2026/",
-      "cover_text": "El inventario de viviendas alcanza su punto máximo",
-      "caption": "El inventario de casas acaba de alcanzar su nivel más alto en 6 años tras el aumento de casas en venta en ciudades como San Jose, Nashville y Seattle. La oferta total llegó a niveles no vistos desde 2020, mientras la demanda se mantuvo estable. Muchos dicen que es un mercado de compradores, pero los profesionales debemos mirar más a fondo la estructura de las ofertas. Como asesor, veo que más inventario hace que los avalúos se nivelen y suban las contribuciones del vendedor. Los agentes y oficiales astutos no usan esta oferta para pedir descuentos pequeños. Ellos consiguen aportes del vendedor para reducir la tasa de interés permanentemente, ahorrando a los compradores cientos de dólares al mes.\n\nFuente : https://tinyurl.com/2dgtktr5\n#SafetrustMortgage #MortgageIntelligenceDaily #housingmarket #realestateagent #homebuying",
-      "hashtags": [
-        "#SafetrustMortgage",
-        "#MortgageIntelligenceDaily",
-        "#housingmarket",
-        "#realestateagent",
+        "#loanofficer",
         "#homebuying"
       ],
-      "hook_tag": "Tendencias de inventario",
-      "hook": "El aumento de casas disponibles no está generando los descuentos que esperas.",
-      "what_happened_heading": "Aumentan las casas en venta mientras la demanda de compradores se frena",
-      "what_happened": "El inventario de viviendas en Estados Unidos alcanzó su punto más alto en 6 años durante agosto debido al aumento de propiedades en venta. Ciudades como San Jose, Nashville y Seattle lideraron este crecimiento en el mercado.",
+      "hook_tag": "Mortgage ops",
+      "hook": "Unchecked AI tools just ruined a major mortgage foreclosure court appeal.",
+      "what_happened_heading": "AI court fabrications strike legal filing",
+      "what_happened": "The District of Columbia Court of Appeals struck an appellate brief submitted for Deutsche Bank National Trust Company in a foreclosure case. Outside counsel used AI search tools that cited four completely fabricated court decisions.",
       "breakdown": [
         {
-          "heading": "El inventario total llega a su punto más alto",
-          "body": "El número de casas en venta alcanzó su nivel más alto desde 2020. Más vendedores aceptan que las tasas altas vinieron para quedarse un buen tiempo."
+          "heading": "Generative AI hallucination in legal briefs",
+          "body": "Attorneys relied on Google generative AI search, which hallucinated non-existent case precedents in an appeal defending a foreclosure judgment."
         },
         {
-          "heading": "La demanda frenada equilibra el mercado",
-          "body": "Las ventas mensuales se mantuvieron estables a pesar de la mayor oferta. Los compradores siguen siendo cautelosos por el costo del pago mensual en las grandes ciudades."
+          "heading": "Complete loss of appeal standing",
+          "body": "The court struck the trustee brief entirely, leaving the lender defenseless on appeal due to lack of human review before filing."
         },
         {
-          "heading": "Cómo ven los asesores los avalúos comparativos",
-          "body": "Así cambia esto al procesar el crédito. El asesor revisa con más detalle las contribuciones del vendedor y los avalúos al ver que el mercado se desacelera."
+          "heading": "What underwriting discipline teaches us",
+          "body": "Here is what this actually changes when a file hits underwriting: unverified automated data creates massive operational defect risk if human oversight is bypassed."
         },
         {
-          "heading": "Aprovechar las contribuciones para reducir la tasa",
-          "body": "Tener más casas disponibles da poder al comprador para negociar créditos del vendedor para reducciones permanentes de tasa en lugar de simples bajadas de precio."
+          "heading": "Vendor management vulnerability",
+          "body": "Mortgage servicers and lenders remain legally liable for third-party vendor mistakes when automation replaces mandatory quality control checks."
         }
       ],
-      "my_take_heading": "Por qué bajar el precio es la estrategia equivocada",
-      "my_take": "Tener más casas en venta da poder de negociación, pero aceptar rebajas de precio en lugar de reducciones de tasa pagadas por el vendedor es un error de novato.",
-      "action_lo": "Crea comparativas donde demuestres a los compradores cómo las contribuciones del vendedor para bajar la tasa rinden más que un descuento en el precio.",
-      "action_realtor": "Estructura ofertas con la máxima contribución del vendedor para reducir el pago mensual del comprador sin bajar el precio de lista.",
-      "cta_question": "¿Tus compradores están usando el aumento de casas para pedir rebajas de precio o para conseguir reducciones de tasa?"
+      "my_take_heading": "Unchecked automation creates massive operational risk",
+      "my_take": "AI can speed up mortgage operations, but skipping human audit standards in legal and underwriting environments guarantees catastrophic failure.",
+      "action_lo": "Verify every automated income and asset validation result manually before submitting loan packages to processing.",
+      "action_realtor": "Partner with lenders who maintain rigorous manual quality control instead of fully automated, unverified pre-approval engines.",
+      "cta_question": "How is your leadership team auditing vendor AI usage to prevent compliance and legal defects in your pipeline?"
     }
   ]
 }
