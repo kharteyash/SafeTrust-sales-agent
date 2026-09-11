@@ -168,5 +168,175 @@
       "action_realtor": "Partner with lenders who maintain rigorous manual quality control instead of fully automated, unverified pre-approval engines.",
       "cta_question": "How is your leadership team auditing vendor AI usage to prevent compliance and legal defects in your pipeline?"
     }
+  ],
+  "carousels_es": [
+    {
+      "slug": "lenders-hike-conforming-loan-limits-early",
+      "title": "Bancos aumentan límites de préstamos conformes a $845k antes de la FHFA",
+      "source": "National Mortgage Professional",
+      "source_url": "https://nationalmortgageprofessional.com/news/rocket-raises-conforming-loan-limit-845k-ahead-fhfa",
+      "cover_text": "Bancos suben límites de préstamo antes de tiempo",
+      "caption": "Rocket y CrossCountry Mortgage se adelantaron a la FHFA al subir sus límites convencionales a $845,000. Muchos piensan que los bancos tienen información privilegiada del gobierno, pero no es así. Se trata de una jugada financiera para asegurar compradores de alto presupuesto antes que la competencia. Cuando un expediente llega a evaluación, evitar las reglas jumbo ahorra semanas de trámites y revisiones estrictas de reservas. Sin embargo, mantener estos préstamos hasta la aprobación oficial de la FHFA representa un riesgo si el límite definitivo resulta ser menor. Es una estrategia audaz para ganar clientes en un mercado lento.\n\nFuente : https://tinyurl.com/24u7no5e\n#SafetrustMortgage #MortgageIntelligenceDaily #mortgagebroker #loanofficer #mortgagerates",
+      "hashtags": [
+        "#SafetrustMortgage",
+        "#MortgageIntelligenceDaily",
+        "#mortgagebroker",
+        "#loanofficer",
+        "#mortgagerates"
+      ],
+      "hook_tag": "Límites de préstamo",
+      "hook": "Subir los límites antes busca captar clientes, no información privilegiada.",
+      "what_happened_heading": "Bancos se adelantan al límite conforme",
+      "what_happened": "Rocket Mortgage y CrossCountry Mortgage subieron sus límites de préstamo convencional a $845,000 antes del anuncio oficial de la FHFA. Esto permite cotizar préstamos altos como convencionales y no como jumbo de inmediato.",
+      "breakdown": [
+        {
+          "heading": "Evitando las reglas de un préstamo jumbo",
+          "body": "Los préstamos jumbo exigen más reservas e inspección manual. Pasar estos casos a convencionales agiliza la evaluación del asesor (underwriter) y elimina requisitos bancarios extra."
+        },
+        {
+          "heading": "Lo que cambia al revisar el expediente",
+          "body": "Cuando el expediente entra a revisión, los sistemas de aprobación automática aceptan saldos más altos sin exigir las reglas estrictas de un préstamo jumbo."
+        },
+        {
+          "heading": "Riesgo en el balance del banco",
+          "body": "Los bancos guardan estos préstamos en su inventario hasta que la FHFA suba el límite oficialmente. Si el gobierno fija un tope menor, el banco asume la pérdida."
+        },
+        {
+          "heading": "Estrategia para ganar mercado",
+          "body": "El volumen de préstamos está bajo. Ofrecer límites más altos atrae compradores de mayor presupuesto que de otro modo esperarían o irían a cooperativas de crédito."
+        }
+      ],
+      "my_take_heading": "El riesgo financiero impulsa límites tempranos",
+      "my_take": "Aumentar los límites antes no es un favor al comprador; es un riesgo calculado del banco para asegurar clientes con préstamos altos antes de que empiece la temporada fuerte.",
+      "action_lo": "Revisa a tus clientes de montos altos estancados en precios jumbo y procesa sus documentos bajo guías convencionales.",
+      "action_realtor": "Contacta a los clientes que buscan casas de $800,000 y se frenaron por los requisitos de pago inicial o reservas del préstamo jumbo.",
+      "cta_question": "¿Tu equipo de operaciones puede mantener estos préstamos hasta que la FHFA publique el límite oficial?"
+    },
+    {
+      "slug": "strongest-buyers-market-on-record",
+      "title": "El mercado favorece a compradores como nunca antes",
+      "source": "Redfin",
+      "source_url": "https://www.redfin.com/news/buyers-vs-sellers-august-2026/",
+      "cover_text": "El mercado favorece al comprador como nunca",
+      "caption": "Redfin reportó el mercado más favorable para compradores jamás registrado, con un 58 por ciento más de vendedores que compradores en agosto. En ciudades como Houston, Miami y Nashville hay el doble de casas en venta que personas buscando comprar. Sin embargo, las ventas están estancadas porque los compradores enfrentan tasas superiores al 7 por ciento. Cuando el asesor (underwriter) evalúa el expediente, revisa los avalúos con lupa. Si las casas parecidas se están vendiendo por menos, las correcciones del mercado pueden provocar un déficit en el avalúo. Los vendedores ya no pueden probar el mercado con precios inflados. Si no fijan un precio realista desde el primer día, sus casas quedarán olvidadas.\n\nFuente : https://tinyurl.com/29ts5e2k\n#SafetrustMortgage #MortgageIntelligenceDaily #housingmarket #realestateagent #homebuying",
+      "hashtags": [
+        "#SafetrustMortgage",
+        "#MortgageIntelligenceDaily",
+        "#housingmarket",
+        "#realestateagent",
+        "#homebuying"
+      ],
+      "hook_tag": "Tendencias del mercado",
+      "hook": "El alto inventario y los precios elevados frenan las ventas de casas.",
+      "what_happened_heading": "La oferta superó a la demanda",
+      "what_happened": "En agosto, los vendedores superaron a los compradores en un 58 por ciento, la mayor brecha registrada según Redfin. Mientras tanto, el 21 por ciento de los vendedores bajó sus precios porque los altos intereses alejaron a los compradores.",
+      "breakdown": [
+        {
+          "heading": "Aumento de propiedades en el Sur",
+          "body": "Ciudades como Houston, Miami y Nashville tienen más del doble de vendedores que de compradores, dándole todo el poder de negociación a quien va a comprar."
+        },
+        {
+          "heading": "Llegan los recortes de precios",
+          "body": "Más de una quinta parte de los vendedores bajó sus precios iniciales para adaptarse al presupuesto de los compradores, mientras los intereses superan el 7 por ciento."
+        },
+        {
+          "heading": "La visión del asesor en los avalúos",
+          "body": "Cuando el caso entra a evaluación, los ajustes por tiempo del avalúo serán negativos, obligando al comprador a aportar más dinero si las ventas comparables bajan."
+        },
+        {
+          "heading": "Solo quedan cinco mercados de vendedores",
+          "body": "En todo el país solo quedan cinco grandes ciudades donde el vendedor manda, lideradas por Nueva York, creando una enorme división regional en las estrategias."
+        }
+      ],
+      "my_take_heading": "El exceso de inventario exige precios reales",
+      "my_take": "Un récord de casas en venta sin volumen de compras no es un colapso; es un estancamiento donde los vendedores fijan precios correctos o ven sus propiedades quedarse sin vender.",
+      "action_lo": "Muestra a tus compradores cómo las concesiones del vendedor en el precio pueden reducir directamente la tasa de interés.",
+      "action_realtor": "Deja de listar casas con precios de 2023 y aconseja a tus vendedores ajustar precios antes de perder el interés del mercado.",
+      "cta_question": "¿Cómo está ajustando tu equipo las expectativas de valor cuando las ventas comparables bajan en mercados saturados?"
+    },
+    {
+      "slug": "vantagescore-grids-point-to-higher-costs",
+      "title": "Nuevas tablas de VantageScore 4.0 aumentan costos",
+      "source": "HousingWire",
+      "source_url": "https://www.housingwire.com/articles/vantagescore-llpa-grids/",
+      "cover_text": "Nuevas tablas de crédito aumentan costos hipotecarios",
+      "caption": "La llegada de VantageScore 4.0 se prometió como una forma de ayudar a más personas a calificar, pero las nuevas tablas muestran otra realidad. Los análisis indican que los cargos por riesgo aumentarán los costos para compradores con puntaje de crédito intermedio. Cuando el asesor (underwriter) evalúa el expediente con estos modelos, el manejo mensual de las tarjetas importa más que solo pagar a tiempo. Un pequeño aumento en el saldo antes del cierre puede activar cobros más altos. Por eso, es fundamental orientar a los clientes sobre el uso del crédito varios meses antes de solicitar la hipoteca.\n\nFuente : https://tinyurl.com/23m2kyut\n#SafetrustMortgage #MortgageIntelligenceDaily #mortgagebroker #loanofficer #firsttimehomebuyer",
+      "hashtags": [
+        "#SafetrustMortgage",
+        "#MortgageIntelligenceDaily",
+        "#mortgagebroker",
+        "#loanofficer",
+        "#firsttimehomebuyer"
+      ],
+      "hook_tag": "Calificación de crédito",
+      "hook": "Las tablas de VantageScore 4.0 subirán los costos a compradores intermedios.",
+      "what_happened_heading": "Tablas de crédito prevén costos más altos",
+      "what_happened": "Análisis recientes muestran que las nuevas tablas de precios de VantageScore 4.0 podrían aumentar el costo del préstamo. Estos cargos adicionales según el riesgo cambian la forma en que el crédito se traduce en gastos iniciales.",
+      "breakdown": [
+        {
+          "heading": "Nuevos niveles de riesgo crediticio",
+          "body": "El modelo VantageScore usa datos de comportamiento crediticio, lo que significa que el historial de pagos a lo largo del tiempo influye mucho en el puntaje final."
+        },
+        {
+          "heading": "Mayores costos para crédito medio",
+          "body": "Las tablas muestran un mayor riesgo para compradores con puntajes intermedios, lo que aumenta los gastos de cierre o la tasa de interés final."
+        },
+        {
+          "heading": "Evaluación del crédito en revisión",
+          "body": "Al momento de evaluar el expediente, los cambios en las tarjetas de crédito antes del cierre provocarán variaciones más fuertes en el precio del préstamo."
+        },
+        {
+          "heading": "Presión por los plazos de transición",
+          "body": "Los profesionales del sector deben gestionar dos sistemas de puntaje mientras los cotizadores integran las nuevas tarifas sin afectar los intereses ya bloqueados."
+        }
+      ],
+      "my_take_heading": "El historial crediticio cambia el costo hipotecario",
+      "my_take": "Nos vendieron la modernización del crédito como una ayuda para calificar, pero las nuevas tablas demuestran que encarece el proceso para el comprador promedio.",
+      "action_lo": "Revisa las preaprobaciones de clientes con puntajes entre 640 y 700 para calcular posibles aumentos en las tarifas según las nuevas tablas.",
+      "action_realtor": "Negocia más concesiones del vendedor en las ofertas para ayudar a los compradores a cubrir los nuevos gastos de cierre.",
+      "cta_question": "¿Las nuevas tablas de crédito obligarán a tu equipo a cambiar los requisitos mínimos para compradores intermedios?"
+    },
+    {
+      "slug": "ai-errors-destroy-foreclosure-brief",
+      "title": "Errores de IA dejan sin defensa un embargo",
+      "source": "National Mortgage Professional",
+      "source_url": "https://nationalmortgageprofessional.com/news/ai-errors-leave-mortgage-trustee-without-brief-foreclosure-appeal",
+      "cover_text": "Casos falsos de IA arruinan apelación hipotecaria",
+      "caption": "Un banco hipotecario acaba de perder su apelación en un caso de embargo porque sus abogados usaron inteligencia artificial que inventó cuatro juicios falsos. La Corte de Apelaciones rechazó el documento presentado para Deutsche Bank, dejándolos completamente sin defensa. Esta es una lección dura sobre el riesgo de usar proveedores sin supervisión. En el procesamiento de hipotecas, el asesor (underwriter) nunca acepta datos no verificados sin la firma de una persona. Cuando se delega el trabajo a la IA sin controles de calidad strictly, el resultado son desastres legales. La automatización siempre necesita supervisión humana.\n\nFuente : https://tinyurl.com/2ygyu49e\n#SafetrustMortgage #MortgageIntelligenceDaily #mortgagebroker #loanofficer #homebuying",
+      "hashtags": [
+        "#SafetrustMortgage",
+        "#MortgageIntelligenceDaily",
+        "#mortgagebroker",
+        "#loanofficer",
+        "#homebuying"
+      ],
+      "hook_tag": "Operaciones hipotecarias",
+      "hook": "Herramientas de IA sin revisar arruinaron la apelación de una hipoteca.",
+      "what_happened_heading": "Errores de IA anulan documento legal",
+      "what_happened": "La Corte de Apelaciones del Distrito de Columbia rechazó el documento presentado para Deutsche Bank en un caso de embargo. Los abogados usaron herramientas de IA que inventaron cuatro sentencias judiciales que no existían.",
+      "breakdown": [
+        {
+          "heading": "Invenciones de la IA en documentos",
+          "body": "Los abogados confiaron en la búsqueda con inteligencia artificial, que inventó antecedentes judiciales inexistentes en una apelación para defender un embargo."
+        },
+        {
+          "heading": "Pérdida total del derecho a apelar",
+          "body": "El tribunal rechazó el documento completo del banco, dejándolo sin defensa por no revisar la información antes de entregarla a los jueces."
+        },
+        {
+          "heading": "La lección de la revisión manual",
+          "body": "Al procesar un expediente, usar datos automáticos sin verificar crea un riesgo operativo enorme si se elimina la supervisión de un especialista."
+        },
+        {
+          "heading": "Vulnerabilidad en proveedores externos",
+          "body": "Los bancos siguen siendo legalmente responsables por los errores de sus proveedores cuando la automatización reemplaza los controles obligatorios de calidad."
+        }
+      ],
+      "my_take_heading": "La automatización sin control genera riesgos enormes",
+      "my_take": "La IA puede agilizar las operaciones hipotecarias, pero saltarse la revisión humana en aspectos legales o de evaluación garantiza errores costosos.",
+      "action_lo": "Verifica manualmente cada comprobante de ingresos y activos procesado por IA antes de enviar el expediente a revisión.",
+      "action_realtor": "Trabaja con bancos que mantengan controles de calidad humanos y no solo sistemas de preaprobación automáticos sin verificar.",
+      "cta_question": "¿Cómo supervisa tu equipo el uso de IA para evitar fallas legales y de cumplimiento en los préstamos?"
+    }
   ]
 }
