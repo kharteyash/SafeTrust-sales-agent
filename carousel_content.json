@@ -168,5 +168,175 @@
       "action_realtor": "Educate sellers to price aggressively at list or proactively offer closing cost credits rather than waiting weeks for price cuts.",
       "cta_question": "Are seller concessions helping your buyers clear debt-to-income hurdles in this market, or are price cuts still necessary?"
     }
+  ],
+  "carousels_es": [
+    {
+      "slug": "crosscountry-early-conforming-limits",
+      "title": "La carrera por adelantarse a los límites conformes de 2027",
+      "source": "National Mortgage Professional",
+      "source_url": "https://nationalmortgageprofessional.com/news/crosscountry-joins-early-race-raise-2027-loan-limits",
+      "cover_text": "Los límites conformes tempranos son una trampa",
+      "caption": "Elevar los límites conformes antes del anuncio oficial es una jugada audaz para captar volumen en otoño. CrossCountry Mortgage acaba de igualar a Rocket Mortgage ofreciendo un límite conforme de $845,000 antes de que salgan las cifras oficiales de 2027. Pero los oficiales de préstamo (loan officers) deben mirar más allá del titular llamativo. Al ofrecer límites no anunciados, los prestamistas asumen un riesgo temporal en el mercado secundario hasta que las agencias confirmen el tope. Los prestamistas no delegados y los corredores independientes (brokers) deben verificar las condiciones de entrega secundaria antes de comprometer a los compradores con estas guías de balance. Te explico qué significa este aumento para tus compras de otoño y cómo procesar estos préstamos con seguridad.\n\nFuente : https://tinyurl.com/2akumlnd\n#SafetrustMortgage #MortgageIntelligenceDaily #loanofficer #mortgagebroker #homebuying",
+      "hashtags": [
+        "#SafetrustMortgage",
+        "#MortgageIntelligenceDaily",
+        "#loanofficer",
+        "#mortgagebroker",
+        "#homebuying"
+      ],
+      "hook_tag": "Carrera de Límites Conformes",
+      "hook": "Los prestamistas que aumentan límites antes asumen un gran riesgo financiero.",
+      "what_happened_heading": "Grandes prestamistas suben el límite a 845K antes de tiempo",
+      "what_happened": "CrossCountry Mortgage igualó a Rocket Mortgage al elevar su límite máximo de préstamo conforme a $845,000 de forma anticipada. Esta medida busca atrapar clientes de préstamos jumbo antes de que los reguladores federales anuncien los límites oficiales de 2027.",
+      "breakdown": [
+        {
+          "heading": "Los límites tempranos funcionan como políticas internas",
+          "body": "Quienes aceptan $845,000 deben mantener los préstamos en su propio balance o pactar entregas privadas hasta que Fannie Mae y Freddie Mac ajusten los límites oficiales."
+        },
+        {
+          "heading": "La evaluación enfrenta riesgo de entrega secundaria",
+          "body": "Esto es lo que cambia cuando la carpeta llega al asesor: si el tope oficial no alcanza los $845,000, el préstamo no podrá venderse a las agencias sin ajustes."
+        },
+        {
+          "heading": "Las grandes entidades ganan mercado este otoño",
+          "body": "Lanzar límites antes da a sus oficiales de préstamo una ventaja frente a bancos locales que no pueden financiar aumentos no anunciados con capital propio."
+        },
+        {
+          "heading": "El límite de deuda reemplaza el debate sobre tasas",
+          "body": "Aumentar los límites le da mayor poder de compra al cliente de montos altos sin exigirle pautas de préstamos jumbo ni reservas adicionales de efectivo."
+        }
+      ],
+      "my_take_heading": "El marketing se adelanta a la realidad del mercado",
+      "my_take": "Subir límites temprano es una estrategia comercial para captar compras de otoño. Pero el broker que ubique estos casos sin revisar la entrega en el mercado secundario está apostando a ciegas sobre las cifras federales finales.",
+      "action_lo": "Revisa hoy las preaprobaciones de montos altos para recalificar a compradores antes frenados por la relación deuda-ingreso (DTI) de préstamos jumbo.",
+      "action_realtor": "Vuelve a contactar clientes interesados en rangos de precio altos que se retiraron por los requisitos de enganche de un préstamo jumbo.",
+      "cta_question": "¿Tu equipo está aprovechando los aumentos tempranos de límite o vas a esperar las guías oficiales de las agencias?"
+    },
+    {
+      "slug": "fha-adopts-trended-credit-scores",
+      "title": "FHA fija fecha para implementar el puntaje de crédito con tendencias",
+      "source": "National Mortgage Professional",
+      "source_url": "https://nationalmortgageprofessional.com/news/fha-sets-jan-1-start-fico-10t-and-vantagescore-40",
+      "cover_text": "Los cambios de crédito FHA sorprenderán a compradores",
+      "caption": "Arreglar el crédito a última hora antes de pedir un préstamo FHA pronto será cosa del pasado. Los prestamistas autorizados por FHA comenzarán a usar FICO Score 10T y VantageScore 4.0 a partir del 1 de enero de 2027. Estos nuevos modelos analizan el comportamiento del crédito durante 24 meses en lugar de mirar solo una foto del saldo actual. Los compradores que arrastran deudas mes a mes enfrentarán decisiones más estrictas en el sistema de evaluación automatizada (AUS), aunque su puntaje actual parezca aceptable. Tanto asesores como agentes deben ajustar su proceso de precalificación con meses de anticipación. Te muestro cómo debes adaptar tu estrategia desde ahora.\n\nFuente : https://tinyurl.com/29qg96tc\n#SafetrustMortgage #MortgageIntelligenceDaily #mortgage #firsttimehomebuyer #loanofficer",
+      "hashtags": [
+        "#SafetrustMortgage",
+        "#MortgageIntelligenceDaily",
+        "#mortgage",
+        "#firsttimehomebuyer",
+        "#loanofficer"
+      ],
+      "hook_tag": "Modernización del Crédito",
+      "hook": "Los nuevos puntajes FHA castigarán el historial de deudas rotativas.",
+      "what_happened_heading": "FHA exige nuevos modelos de puntaje para 2027",
+      "what_happened": "Los prestamistas autorizados por FHA podrán usar FICO Score 10T y VantageScore 4.0 a partir del 1 de enero de 2027. Ambos modelos analizan datos con tendencia para evaluar los patrones de pago del comprador a lo largo del tiempo.",
+      "breakdown": [
+        {
+          "heading": "El historial de saldos reemplaza la foto del mes",
+          "body": "El sistema tradicional solo evaluaba el saldo de un solo mes, mientras que los nuevos modelos analizan 24 meses de pagos y uso de crédito."
+        },
+        {
+          "heading": "El historial de tarjetas altera la aprobación automatizada",
+          "body": "Esto es lo que cambia al evaluar el expediente: el sistema automatizado (AUS) penalizará a quienes pagan el mínimo aunque su puntaje parezca calificar."
+        },
+        {
+          "heading": "Las reparaciones de crédito rápidas pierden su efecto",
+          "body": "Pagar las tarjetas 30 días antes de solicitar el préstamo ya no subirá el puntaje de inmediato, pues la tendencia de 24 meses revela el manejo continuo de deuda."
+        },
+        {
+          "heading": "Los préstamos del gobierno ganan precisión en riesgo",
+          "body": "Adoptar estos modelos alinea a la FHA con estándares modernos, dando mejores condiciones a pagadores puntuales y apretando a quienes tienen la relación deuda-ingreso (DTI) al límite."
+        }
+      ],
+      "my_take_heading": "Los arreglos rápidos de crédito murieron oficialmente en FHA",
+      "my_take": "Los modelos de crédito con tendencia eliminan los trucos de reparación de 30 días. Esto significa que la evaluación automatizada rechazará a compradores endeudados que solo lucen bien en el papel.",
+      "action_lo": "Revisa los reportes de crédito buscando tendencias de saldos rotativos de 24 meses en lugar de confiar solo en el puntaje tri-merge puntual.",
+      "action_realtor": "Orienta a tus compradores seis meses antes de buscar casa para que reduzcan sus saldos rotativos paulatinamente en lugar de pagar montos fuertes a última hora.",
+      "cta_question": "¿Crees que los puntajes con tendencia ayudarán o afectarán tu volumen de préstamos FHA cuando comience la aplicación?"
+    },
+    {
+      "slug": "insurance-premiums-killing-mortgage-qualifications",
+      "title": "El alza del seguro de vivienda ahoga la relación deuda-ingreso",
+      "source": "National Mortgage Professional",
+      "source_url": "https://nationalmortgageprofessional.com/news/rising-insurance-costs-complicate-mortgage-qualification",
+      "cover_text": "El seguro de vivienda destruye aprobaciones en silencio",
+      "caption": "El aumento en el costo del seguro de vivienda está dañando la calificación de los compradores más que las propias tasas de interés. El pago mensual promedio de seguro llegó a $209 en el segundo trimestre, un 8.7% más que el año pasado y casi un 80% más desde 2020. Cuando las cotizaciones llegan más altas de lo previsto justo antes del cierre, los cálculos de principal, interés, impuestos y seguro (PITI) pueden empujar al comprador fuera de los límites permitidos. Los oficiales de préstamo y agentes que no aseguren la póliza a tiempo verán caer aprobaciones al final del proceso. Te explicamos cómo proteger tu operación para evitar sorpresas desagradables antes del cierre.\n\nFuente : https://tinyurl.com/29cpzwfs\n#SafetrustMortgage #MortgageIntelligenceDaily #mortgagerates #housingmarket #realestateagent",
+      "hashtags": [
+        "#SafetrustMortgage",
+        "#MortgageIntelligenceDaily",
+        "#mortgagerates",
+        "#housingmarket",
+        "#realestateagent"
+      ],
+      "hook_tag": "Alerta por Costo de Seguros",
+      "hook": "El alza en los seguros está arruinando la aprobación al cerrar.",
+      "what_happened_heading": "El seguro de vivienda alcanza récords históricos",
+      "what_happened": "Los propietarios de viviendas unifamiliares pagaron un promedio de $209 al mes por seguro en el segundo trimestre, un 8.7% más que el año anterior. Las primas se dispararon casi un 80% desde principios de 2020 según datos de ICE Mortgage Monitor.",
+      "breakdown": [
+        {
+          "heading": "El pago mensual recibe un golpe inesperado",
+          "body": "El alza del seguro presiona directamente el pago mensual total del hogar, reduciendo el poder de compra aunque las tasas de interés se mantengan estables."
+        },
+        {
+          "heading": "Aprobaciones finales se caen por el seguro",
+          "body": "Esto es lo que cambia al evaluar el caso: una cotización de última hora puede elevar el pago total (PITI) y superar la relación deuda-ingreso (DTI) máxima autorizada."
+        },
+        {
+          "heading": "Las refinanciaciones sufren por reservas de depósito",
+          "body": "Primas anuales más altas exigen crear un fondo de reserva (escrow) más grande al cerrar, aumentando el dinero en efectivo que necesita quien busca refinanciar."
+        },
+        {
+          "heading": "Zonas de alto riesgo sufren un fuerte ajuste",
+          "body": "En mercados donde las aseguradoras se retiran, los clientes dependen de planes estatales FAIR, convirtiendo deudas moderadas en rechazos automáticos de evaluación."
+        }
+      ],
+      "my_take_heading": "El costo del seguro es el nuevo aumento de tasa",
+      "my_take": "Muchos culpan a las tasas de interés por las operaciones fallidas, pero el vertiginoso aumento del seguro está destruyendo la relación deuda-ingreso (DTI) justo cuando el préstamo está a punto de ser aprobado.",
+      "action_lo": "Exige cotizaciones binding de seguro durante la preaprobación inicial en lugar de trabajar con estimaciones o porcentajes genéricos.",
+      "action_realtor": "Consulta presupuestos de seguro específicos del inmueble antes de presentar una oferta en zonas de costo elevado o con pocas aseguradoras.",
+      "cta_question": "¿Con qué frecuencia las alzas inesperadas en el seguro están poniendo en riesgo tus aprobaciones antes del cierre?"
+    },
+    {
+      "slug": "record-seller-buyer-gap-negotiating-power",
+      "title": "Brecha récord entre vendedores y compradores genera acumulación de inventario",
+      "source": "Redfin",
+      "source_url": "https://www.redfin.com/news/why-homebuyers-have-more-negotiating-power-right-now/",
+      "cover_text": "Tener más inventario no soluciona las ventas",
+      "caption": "Tener un 58% más de vendedores que de compradores debería significar un mercado activo, pero las ventas siguen estancadas. Redfin reporta que 3 de cada 5 casas se vendieron por debajo del precio inicial en agosto mientras el inventario acumulado seguía creciendo. Esta mayor oferta da ventaja a los compradores para exigir concesiones, pero los altos costos mensuales continúan dejando a muchos fuera del mercado. Los oficiales de préstamo deben estructurar las contribuciones del vendedor de forma estratégica para resolver problemas de relación deuda-ingreso (DTI), en vez de depender solo de rebajas en el precio. Te mostramos cómo navegar este estancamiento y mantener tus operaciones en movimiento.\n\nFuente : https://tinyurl.com/26tfblxp\n#SafetrustMortgage #MortgageIntelligenceDaily #housingmarket #homebuying #realestateinvesting",
+      "hashtags": [
+        "#SafetrustMortgage",
+        "#MortgageIntelligenceDaily",
+        "#housingmarket",
+        "#homebuying",
+        "#realestateinvesting"
+      ],
+      "hook_tag": "Desconexión del Mercado",
+      "hook": "Un exceso récord de vendedores no logra reactivar las ventas.",
+      "what_happened_heading": "La brecha entre vendedores y compradores rompe récords",
+      "what_happened": "En agosto hubo casi un 58% más vendedores que compradores de vivienda, creando la mayor brecha de oferta en la historia de Redfin. Casi 3 de cada 5 casas listadas se vendieron por debajo de su precio inicial mientras el inventario se acumulaba.",
+      "breakdown": [
+        {
+          "heading": "Más casas a la venta no generan más cierres",
+          "body": "El aumento de inventario da poder de negociación a los compradores activos, pero el número total de transacciones sigue deprimido en los principales mercados."
+        },
+        {
+          "heading": "Las concesiones ocultan la realidad financiera",
+          "body": "Esto es lo que cambia al evaluar el crédito: las aportaciones del vendedor para reducir temporalmente la tasa ayudan al DTI, pero no bajan el límite de préstamo-valor (LTV)."
+        },
+        {
+          "heading": "Demoras en ajustar precios alargan el bloqueo",
+          "body": "Que los vendedores bajen el precio despacio hace que las casas pasen más tiempo en el mercado, haciendo que los comparables de avalúo queden desactualizados."
+        },
+        {
+          "heading": "La ventaja del comprador cambió a concesiones",
+          "body": "Los compradores están logrando créditos del vendedor para gastos de cierre y reparaciones, en lugar de competir en guerras de ofertas."
+        }
+      ],
+      "my_take_heading": "Inventario alto sin alivio en tasas causa estancamiento",
+      "my_take": "El aumento de inventario no está generando un auge comprador. Solo deja al descubierto un estancamiento en la capacidad de pago, donde el vendedor debe ceder en precio o financiar reducciones de tasa para lograr la aprobación.",
+      "action_lo": "Estructura créditos del vendedor dirigidos específicamente a reducciones temporales o permanentes de tasa para ajustar la relación deuda-ingreso (DTI) del cliente.",
+      "action_realtor": "Aconseja a los vendedores colocar precios competitivos desde el inicio u ofrecer créditos para gastos de cierre en lugar de esperar semanas para bajar el precio.",
+      "cta_question": "¿Las concesiones del vendedor están ayudando a tus clientes a superar los límites de deuda-ingreso o siguen siendo necesarias las rebajas de precio?"
+    }
   ]
 }
