@@ -1,342 +1,172 @@
 {
   "carousels": [
     {
-      "slug": "crosscountry-early-conforming-limits",
-      "title": "The race to jump 2027 conforming limits early",
-      "source": "National Mortgage Professional",
-      "source_url": "https://nationalmortgageprofessional.com/news/crosscountry-joins-early-race-raise-2027-loan-limits",
-      "cover_text": "Early conforming loan limits are a marketing trap",
-      "caption": "Raising conforming limits before federal regulators announce them is a bold liquidity play for fall volume. CrossCountry Mortgage just matched Rocket Mortgage in offering an early $845,000 conforming loan limit before official 2027 figures drop. But loan officers and originators need to look far beyond the flashy headline. Holding unannounced limits means lenders take on temporary secondary market delivery risk until agencies finalize the cap. Non-delegated lenders and independent brokers must confirm secondary delivery terms before locking buyers into these balance-sheet guidelines. Here is what this limit escalation means for your fall purchase pipeline and how to position these loans cleanly today.\n\nSource : https://tinyurl.com/2akumlnd\n#SafetrustMortgage #MortgageIntelligenceDaily #loanofficer #mortgagebroker #homebuying",
+      "slug": "dscr-fraud-underwriting-tightening",
+      "title": "DSCR loan boom triggers tighter underwriting after fraud cases",
+      "source": "HousingWire",
+      "source_url": "https://www.housingwire.com/articles/dscr-loans-volume-growth-fraud-risks-underwriting/",
+      "cover_text": "Why DSCR loan guidelines are about to implode",
+      "caption": "DSCR (debt service coverage ratio) loans offered fast approvals for real estate investors, but fragmented underwriting standards created dangerous blind spots. Recent high-profile fraud in Baltimore exposed how easily altered leases slip through unstandardized pipelines. Now, secondary market buyers are auditing files post-closing, forcing originators to absorb buyback risks. When a file hits underwriting today, underwriters are scrutinizing lease verification and appraisal rent schedules far beyond baseline automated checks. Originators who cut corners to close fast will pay the price when non-QM (non-qualifying mortgage) buyers start rejecting paper. Protecting your pipeline requires strict documentation standards right now.\n\nSource : https://tinyurl.com/2ad7vpky\n#SafetrustMortgage #MortgageIntelligenceDaily #mortgagebroker #realestateinvesting #loanofficer",
       "hashtags": [
         "#SafetrustMortgage",
         "#MortgageIntelligenceDaily",
-        "#loanofficer",
         "#mortgagebroker",
-        "#homebuying"
-      ],
-      "hook_tag": "Conforming Limit Race",
-      "hook": "Lenders raising loan limits early are taking balance sheet risk.",
-      "what_happened_heading": "Mega lenders push limits to 845K early",
-      "what_happened": "CrossCountry Mortgage matched Rocket Mortgage by raising its maximum conforming loan limit to $845,000 early. The move aims to capture jumbo purchase business before federal regulators announce official 2027 limits.",
-      "breakdown": [
-        {
-          "heading": "Early limits operate as portfolio overlays",
-          "body": "Lenders taking early $845,000 limits must hold these loans on balance sheet or negotiate private delivery until Fannie Mae and Freddie Mac officially adjust limits."
-        },
-        {
-          "heading": "Underwriting faces non-conforming delivery risk",
-          "body": "Here's what this actually changes when a file hits underwriting: if the agency cap does not reach $845,000, the loan cannot be delivered to GSEs without manual pricing adjustments."
-        },
-        {
-          "heading": "Retail giants gain fall purchase market share",
-          "body": "Pushing limits early gives loan officers a temporary edge over local banks that cannot fund unannounced GSE limit increases on balance sheet."
-        },
-        {
-          "heading": "Debt limits replace rate conversation for buyers",
-          "body": "Raising limits gives high-balance buyers expanded purchasing power right now without requiring jumbo underwriting guidelines or extra reserve requirements."
-        }
-      ],
-      "my_take_heading": "Marketing front runs secondary market realities",
-      "my_take": "Early limit pushes are balance sheet posturing to grab fall purchase volume, but any broker placing these without checking secondary delivery terms is gambling on final federal calculations.",
-      "action_lo": "Audit high-balance pre-approvals today to re-qualify buyers who were previously stuck in jumbo debt-to-income (DTI) restrictions.",
-      "action_realtor": "Re-engage prospective buyers looking in high-balance price brackets who backed out due to jumbo down payment requirements.",
-      "cta_question": "Is your pipeline taking advantage of early limit increases, or are you waiting for official agency guidelines?"
-    },
-    {
-      "slug": "fha-adopts-trended-credit-scores",
-      "title": "FHA sets start date for trended credit scoring",
-      "source": "National Mortgage Professional",
-      "source_url": "https://nationalmortgageprofessional.com/news/fha-sets-jan-1-start-fico-10t-and-vantagescore-40",
-      "cover_text": "FHA credit scoring changes will shock buyers",
-      "caption": "The days of rapid credit score repair right before FHA application are coming to an end. FHA approved lenders will begin using FICO Score 10T and VantageScore 4.0 starting Jan. 1, 2027. These new credit scoring models focus heavily on 24-month trended credit data rather than a single month balance snapshot. Borrowers who carry balance stress month over month will face tougher automated underwriting system (AUS) decisions even if their current score looks passable. Originators and realtors need to adjust pre-qualification workflows months in advance to catch revolving balance issues early. Here is how originators must shift their pre-qualification strategies now.\n\nSource : https://tinyurl.com/29qg96tc\n#SafetrustMortgage #MortgageIntelligenceDaily #mortgage #firsttimehomebuyer #loanofficer",
-      "hashtags": [
-        "#SafetrustMortgage",
-        "#MortgageIntelligenceDaily",
-        "#mortgage",
-        "#firsttimehomebuyer",
+        "#realestateinvesting",
         "#loanofficer"
       ],
-      "hook_tag": "Credit Modernization Push",
-      "hook": "New FHA credit scores will penalize revolving debt balance trends.",
-      "what_happened_heading": "FHA mandates new scoring models for 2027",
-      "what_happened": "FHA-approved lenders can start using FICO Score 10T and VantageScore 4.0 for mortgage underwriting beginning Jan. 1, 2027. Both scoring models incorporate trended credit data that analyzes borrower payment patterns over time.",
+      "hook_tag": "Underwriting Risk",
+      "hook": "Fragmented DSCR guidelines are creating a massive fraud target for lenders.",
+      "what_happened_heading": "Fraud headlines expose weak DSCR guidelines",
+      "what_happened": "DSCR (debt service coverage ratio) loan volume is surging across the investor market. However, recent fraud in Baltimore revealed massive gaps in fragmented underwriting standards.",
       "breakdown": [
         {
-          "heading": "Historical balance trends replace single snapshots",
-          "body": "Legacy credit scoring only looked at a single month balance, while new trended models evaluate 24 months of payment and utilization history."
+          "heading": "Easy money attracts bad actors",
+          "body": "Fast investor approvals made DSCR (debt service coverage ratio) popular, but inconsistent guidelines left back doors wide open."
         },
         {
-          "heading": "Revolving debt history alters desktop underwriting outcomes",
-          "body": "Here's what this actually changes when a file hits underwriting: automated underwriting systems (AUS) will penalize borrowers who pay minimum balances even if their current score looks qualified."
+          "heading": "Rent rolls are getting fake verification",
+          "body": "Fraudsters are altering lease agreements and bank statements to artificially inflate property cash flow numbers."
         },
         {
-          "heading": "Credit repair tactics lose quick fix effectiveness",
-          "body": "Paying down credit cards 30 days before application will no longer instantly boost scores because 24-month trended data exposes long-term balance carrying."
+          "heading": "What changes in underwriting",
+          "body": "Here's what this actually changes when a file hits underwriting: manual verification of lease payments and stricter appraiser rent schedule reviews are mandatory."
         },
         {
-          "heading": "Government loans gain modernized scoring accuracy",
-          "body": "FHA adoption aligns government backing with modern credit risk standards, giving pristine payors lower pricing while squeezing borderline debt-to-income (DTI) buyers."
+          "heading": "Secondary market quality control spikes",
+          "body": "Investors buying non-QM (non-qualifying mortgage) paper are auditing files post-closing, forcing buybacks on flawed documentation."
         }
       ],
-      "my_take_heading": "Quick credit fixes are officially dead for FHA",
-      "my_take": "Trended credit models eliminate thirty-day credit repair tricks, meaning automated underwriting will reject debt-heavy buyers who look good only on paper.",
-      "action_lo": "Review applicant credit reports for 24-month revolving balance trends rather than relying solely on tri-merge snapshot scores.",
-      "action_realtor": "Educate buyers six months before home shopping so they reduce revolving credit balances instead of making last-minute lump sum payments.",
-      "cta_question": "Will trended credit scores help or hurt your FHA loan volume when implementation begins?"
+      "my_take_heading": "Yield chasing created blind spots in risk management",
+      "my_take": "Speed without standardized verification isn't innovation; it is an unhedged credit risk waiting to derail investor portfolios.",
+      "action_lo": "Audit your investor lease documentation before submitting files to avoid post-closing audit buybacks.",
+      "action_realtor": "Help investor clients document actual rental history, not just projected market rents.",
+      "cta_question": "Are your non-QM investor guidelines tightening fast enough to catch bad documentation?"
     },
     {
-      "slug": "insurance-premiums-killing-mortgage-qualifications",
-      "title": "Rising property insurance costs choke debt-to-income ratios",
-      "source": "National Mortgage Professional",
-      "source_url": "https://nationalmortgageprofessional.com/news/rising-insurance-costs-complicate-mortgage-qualification",
-      "cover_text": "Property insurance is killing loan approvals quietly",
-      "caption": "Escalating property insurance costs are doing more damage to borrower debt ratios than slight interest rate swings. The average monthly property insurance bill hit $209 in Q2, up 8.7% over last year and nearly 80% since 2020. When insurance quotes come in higher than estimated right before closing, principal, interest, taxes, and insurance (PITI) calculations can push buyers right over maximum underwriting limits. Loan officers and agents who fail to lock insurance figures early will see conditional approvals blow up at the finish line. Here is how loan officers and agents can protect their pipelines from late insurance fallout.\n\nSource : https://tinyurl.com/29cpzwfs\n#SafetrustMortgage #MortgageIntelligenceDaily #mortgagerates #housingmarket #realestateagent",
+      "slug": "mortgage-rate-spreads-geopolitics",
+      "title": "Mortgage rates top 7 percent while rate spreads cushion impact",
+      "source": "HousingWire",
+      "source_url": "https://www.housingwire.com/articles/housing-market-faces-headwinds-as-mortgage-rates-move-above-7/",
+      "cover_text": "Why rates above 7 percent hit pipelines differently",
+      "caption": "Mortgage rates crossing 7 percent creates immediate friction across active buyer pipelines. While geopolitical tensions spiked benchmark yields, compressed mortgage spreads (the difference between Treasury yields and mortgage rates) prevented an even sharper increase. But for borrowers on the margin, every basis point matters. When a file hits underwriting today, debt-to-income limits (DTI) that passed last week are suddenly triggering system referrals. Loan officers must proactively audit pre-approval letters before purchase contracts are executed. Seller concessions used for interest rate buydowns are becoming essential to salvage transactions in this high-rate environment.\n\nSource : https://tinyurl.com/2bcr4eat\n#SafetrustMortgage #MortgageIntelligenceDaily #mortgagerates #housingmarket #homebuying",
       "hashtags": [
         "#SafetrustMortgage",
         "#MortgageIntelligenceDaily",
         "#mortgagerates",
         "#housingmarket",
-        "#realestateagent"
-      ],
-      "hook_tag": "Rising Insurance Shock",
-      "hook": "Surging insurance costs are blowing up debt ratios at closing.",
-      "what_happened_heading": "Home insurance costs reach new historic records",
-      "what_happened": "Single-family homeowners paid an average of $209 per month for property insurance in the second quarter, up 8.7% year-over-year. Premiums have jumped nearly 80% since early 2020 according to ICE Mortgage Monitor data.",
-      "breakdown": [
-        {
-          "heading": "Fixed monthly debt service takes sudden hits",
-          "body": "Escalating insurance costs add direct pressure to total monthly housing payments, shrinking borrower purchasing power even when interest rates remain steady."
-        },
-        {
-          "heading": "Clear to close approvals get wrecked by insurance",
-          "body": "Here's what this actually changes when a file hits underwriting: last-minute insurance quotes can push principal, interest, taxes, and insurance (PITI) debt-to-income (DTI) past maximum automated allowable thresholds."
-        },
-        {
-          "heading": "Refinance volume suffers from escrow reserve spikes",
-          "body": "Higher annual premiums require larger initial escrow impound cushions at closing, increasing cash-to-close requirements for prospective refinance applicants."
-        },
-        {
-          "heading": "High-risk geographies experience severe debt-to-income squeezes",
-          "body": "Markets hit by insurer pullouts force buyers onto state FAIR plans, rapidly turning moderate debt ratios into automated underwriting rejections."
-        }
-      ],
-      "my_take_heading": "Insurance premiums are the new rate hike",
-      "my_take": "Industry leaders keep blaming interest rates for buyer fallout, but surging insurance premiums are quietly wrecking debt-to-income calculations right before clear-to-close.",
-      "action_lo": "Require binding property insurance quotes during initial pre-approval instead of relying on estimated insurance percentages.",
-      "action_realtor": "Check property-specific insurance quotes before submitting offers on home listings located in high-cost or constrained insurance regions.",
-      "cta_question": "How often are unexpected insurance premium spikes jeopardizing your debt-to-income approvals right before closing?"
-    },
-    {
-      "slug": "record-seller-buyer-gap-negotiating-power",
-      "title": "Record gap between home sellers and buyers creates inventory glut",
-      "source": "Redfin",
-      "source_url": "https://www.redfin.com/news/why-homebuyers-have-more-negotiating-power-right-now/",
-      "cover_text": "More inventory is not fixing housing sales",
-      "caption": "Having 58% more sellers than buyers should mean a booming purchase market, but transactions remain completely stalled. Redfin reports three out of five homes sold below original asking price in August as overall inventory continued to accumulate. Increased leverage lets buyers demand concessions, but high monthly carrying costs still lock out prospective applicants. Loan officers must structure seller contributions strategically to solve debt-to-income (DTI) bottlenecks, rather than relying solely on list price reductions. Here is how top originators and agents must navigate this growing housing market disconnect and keep purchase deals moving forward.\n\nSource : https://tinyurl.com/26tfblxp\n#SafetrustMortgage #MortgageIntelligenceDaily #housingmarket #homebuying #realestateinvesting",
-      "hashtags": [
-        "#SafetrustMortgage",
-        "#MortgageIntelligenceDaily",
-        "#housingmarket",
-        "#homebuying",
-        "#realestateinvesting"
-      ],
-      "hook_tag": "Housing Market Disconnect",
-      "hook": "A record surplus of sellers is failing to spark home sales.",
-      "what_happened_heading": "Seller surplus reaches record gap over active buyers",
-      "what_happened": "There were nearly 58% more home sellers than buyers in August, creating the largest supply gap in Redfin record history. Nearly 3 in 5 listed homes sold below their original asking price as inventory accumulated.",
-      "breakdown": [
-        {
-          "heading": "Active listing accumulation fails to generate transaction volume",
-          "body": "Rising inventory gives active buyers negotiating leverage, but overall transaction numbers remain depressed across major housing markets."
-        },
-        {
-          "heading": "Price concessions obscure baseline qualification realities",
-          "body": "Here's what this actually changes when a file hits underwriting: seller concessions applied toward temporary rate buydowns help qualifying debt-to-income (DTI) ratios, but fail to lower baseline loan-to-value (LTV) limits."
-        },
-        {
-          "heading": "Price discovery delays prolong housing market gridlock",
-          "body": "Sellers dropping asking prices slowly keeps properties lingering on market longer, causing appraisal comps to lag behind active pricing conditions."
-        },
-        {
-          "heading": "Buyer leverage shifts from bidding wars to concessions",
-          "body": "Homebuyers are successfully demanding seller credits for closing costs and repairs rather than competing in multi-offer bidding battles."
-        }
-      ],
-      "my_take_heading": "High inventory without rate relief is deadlock",
-      "my_take": "Growing inventory is not creating a buyer boom; it is exposing an affordability deadlock where sellers must concede on price or fund rate buydowns to clear underwriting.",
-      "action_lo": "Structure seller credits specifically toward permanent or temporary rate buydowns to bring high borrower debt-to-income (DTI) ratios into agency compliance.",
-      "action_realtor": "Educate sellers to price aggressively at list or proactively offer closing cost credits rather than waiting weeks for price cuts.",
-      "cta_question": "Are seller concessions helping your buyers clear debt-to-income hurdles in this market, or are price cuts still necessary?"
-    }
-  ],
-  "carousels_es": [
-    {
-      "slug": "crosscountry-early-conforming-limits",
-      "title": "La carrera por adelantarse a los límites conformes de 2027",
-      "source": "National Mortgage Professional",
-      "source_url": "https://nationalmortgageprofessional.com/news/crosscountry-joins-early-race-raise-2027-loan-limits",
-      "cover_text": "Los límites conformes tempranos son una trampa",
-      "caption": "Elevar los límites conformes antes del anuncio oficial es una jugada audaz para captar volumen en otoño. CrossCountry Mortgage acaba de igualar a Rocket Mortgage ofreciendo un límite conforme de $845,000 antes de que salgan las cifras oficiales de 2027. Pero los oficiales de préstamo (loan officers) deben mirar más allá del titular llamativo. Al ofrecer límites no anunciados, los prestamistas asumen un riesgo temporal en el mercado secundario hasta que las agencias confirmen el tope. Los prestamistas no delegados y los corredores independientes (brokers) deben verificar las condiciones de entrega secundaria antes de comprometer a los compradores con estas guías de balance. Te explico qué significa este aumento para tus compras de otoño y cómo procesar estos préstamos con seguridad.\n\nFuente : https://tinyurl.com/2akumlnd\n#SafetrustMortgage #MortgageIntelligenceDaily #loanofficer #mortgagebroker #homebuying",
-      "hashtags": [
-        "#SafetrustMortgage",
-        "#MortgageIntelligenceDaily",
-        "#loanofficer",
-        "#mortgagebroker",
         "#homebuying"
       ],
-      "hook_tag": "Carrera de Límites Conformes",
-      "hook": "Los prestamistas que aumentan límites antes asumen un gran riesgo financiero.",
-      "what_happened_heading": "Grandes prestamistas suben el límite a 845K antes de tiempo",
-      "what_happened": "CrossCountry Mortgage igualó a Rocket Mortgage al elevar su límite máximo de préstamo conforme a $845,000 de forma anticipada. Esta medida busca atrapar clientes de préstamos jumbo antes de que los reguladores federales anuncien los límites oficiales de 2027.",
+      "hook_tag": "Rate Environment",
+      "hook": "Rates pushed past 7 percent, but mortgage spreads are saving pipelines.",
+      "what_happened_heading": "Rates cross key threshold amid geopolitical shock",
+      "what_happened": "Mortgage rates moved back above 7 percent as global tensions from the Iran conflict impacted financial markets. However, mortgage spreads (the gap between benchmark yields and mortgage rates) cushioned the blow.",
       "breakdown": [
         {
-          "heading": "Los límites tempranos funcionan como políticas internas",
-          "body": "Quienes aceptan $845,000 deben mantener los préstamos en su propio balance o pactar entregas privadas hasta que Fannie Mae y Freddie Mac ajusten los límites oficiales."
+          "heading": "The headline rate masks underlying spread compression",
+          "body": "While benchmark yields rose, narrowing mortgage spreads prevented borrower rates from spiking even higher."
         },
         {
-          "heading": "La evaluación enfrenta riesgo de entrega secundaria",
-          "body": "Esto es lo que cambia cuando la carpeta llega al asesor: si el tope oficial no alcanza los $845,000, el préstamo no podrá venderse a las agencias sin ajustes."
+          "heading": "Buyer purchasing power takes another hit",
+          "body": "Crossing 7 percent immediately pushes DTI (debt-to-income ratio) limits to the edge for borderline buyers."
         },
         {
-          "heading": "Las grandes entidades ganan mercado este otoño",
-          "body": "Lanzar límites antes da a sus oficiales de préstamo una ventaja frente a bancos locales que no pueden financiar aumentos no anunciados con capital propio."
+          "heading": "Underwriting pipeline stress returns",
+          "body": "Here's what this actually changes when a file hits underwriting: desk approvals flip from accept to refer as debt ratios stretch beyond limits."
         },
         {
-          "heading": "El límite de deuda reemplaza el debate sobre tasas",
-          "body": "Aumentar los límites le da mayor poder de compra al cliente de montos altos sin exigirle pautas de préstamos jumbo ni reservas adicionales de efectivo."
+          "heading": "Inventory stays frozen as lock-in holds",
+          "body": "Existing homeowners with sub-4 percent rates face even higher opportunity costs to move."
         }
       ],
-      "my_take_heading": "El marketing se adelanta a la realidad del mercado",
-      "my_take": "Subir límites temprano es una estrategia comercial para captar compras de otoño. Pero el broker que ubique estos casos sin revisar la entrega en el mercado secundario está apostando a ciegas sobre las cifras federales finales.",
-      "action_lo": "Revisa hoy las preaprobaciones de montos altos para recalificar a compradores antes frenados por la relación deuda-ingreso (DTI) de préstamos jumbo.",
-      "action_realtor": "Vuelve a contactar clientes interesados en rangos de precio altos que se retiraron por los requisitos de enganche de un préstamo jumbo.",
-      "cta_question": "¿Tu equipo está aprovechando los aumentos tempranos de límite o vas a esperar las guías oficiales de las agencias?"
+      "my_take_heading": "Narrowing spreads are hiding systemic affordability friction",
+      "my_take": "Mortgage spreads softened the headline rate spike, but spread compression cannot fix structurally unpayable monthly housing costs.",
+      "action_lo": "Re-qualify every pre-approved buyer at current rates to catch DTI failures before contract signing.",
+      "action_realtor": "Structure seller concessions to fund temporary interest rate buydowns instead of price drops.",
+      "cta_question": "How are your teams restructuring pre-approvals to keep buyers qualified above 7 percent?"
     },
     {
-      "slug": "fha-adopts-trended-credit-scores",
-      "title": "FHA fija fecha para implementar el puntaje de crédito con tendencias",
-      "source": "National Mortgage Professional",
-      "source_url": "https://nationalmortgageprofessional.com/news/fha-sets-jan-1-start-fico-10t-and-vantagescore-40",
-      "cover_text": "Los cambios de crédito FHA sorprenderán a compradores",
-      "caption": "Arreglar el crédito a última hora antes de pedir un préstamo FHA pronto será cosa del pasado. Los prestamistas autorizados por FHA comenzarán a usar FICO Score 10T y VantageScore 4.0 a partir del 1 de enero de 2027. Estos nuevos modelos analizan el comportamiento del crédito durante 24 meses en lugar de mirar solo una foto del saldo actual. Los compradores que arrastran deudas mes a mes enfrentarán decisiones más estrictas en el sistema de evaluación automatizada (AUS), aunque su puntaje actual parezca aceptable. Tanto asesores como agentes deben ajustar su proceso de precalificación con meses de anticipación. Te muestro cómo debes adaptar tu estrategia desde ahora.\n\nFuente : https://tinyurl.com/29qg96tc\n#SafetrustMortgage #MortgageIntelligenceDaily #mortgage #firsttimehomebuyer #loanofficer",
+      "slug": "dscr-investor-guideline-fragmentation",
+      "title": "Fragmented DSCR guidelines create investor credit uncertainty",
+      "source": "HousingWire",
+      "source_url": "https://www.housingwire.com/articles/dscr-loans-volume-growth-fraud-risks-underwriting/",
+      "cover_text": "The hidden risk in fast DSCR approvals",
+      "caption": "Non-QM (non-qualifying mortgage) growth relies heavily on DSCR (debt service coverage ratio) loans, but fragmented guidelines are exposing lenders to mounting operational risks. Without uniform underwriting rules, variations in how cash flow is calculated create hidden credit exposure. When a file hits underwriting today, underwriters are forced to perform extensive manual audits on lease agreements and bank statements to weed out fraudulent documentation. For loan officers, relying on loose guidelines might close short-term deals, but it exposes your pipeline to buyback demands. Industry leaders must prioritize clean documentation and transparent underwriting standards to protect long-term non-QM liquidity.\n\nSource : https://tinyurl.com/2ad7vpky\n#SafetrustMortgage #MortgageIntelligenceDaily #mortgagebroker #loanofficer #realestateinvesting",
       "hashtags": [
         "#SafetrustMortgage",
         "#MortgageIntelligenceDaily",
-        "#mortgage",
-        "#firsttimehomebuyer",
-        "#loanofficer"
+        "#mortgagebroker",
+        "#loanofficer",
+        "#realestateinvesting"
       ],
-      "hook_tag": "Modernización del Crédito",
-      "hook": "Los nuevos puntajes FHA castigarán el historial de deudas rotativas.",
-      "what_happened_heading": "FHA exige nuevos modelos de puntaje para 2027",
-      "what_happened": "Los prestamistas autorizados por FHA podrán usar FICO Score 10T y VantageScore 4.0 a partir del 1 de enero de 2027. Ambos modelos analizan datos con tendencia para evaluar los patrones de pago del comprador a lo largo del tiempo.",
+      "hook_tag": "Non-QM Trends",
+      "hook": "Investors are buying DSCR loans without standardized underwriting guardrails.",
+      "what_happened_heading": "Rapid volume growth strains fragmented guidelines",
+      "what_happened": "Investor demand for DSCR (debt service coverage ratio) financing has surged rapidly across non-QM channels. At the same time, fragmented underwriting standards across wholesale lenders have heightened fraud risks.",
       "breakdown": [
         {
-          "heading": "El historial de saldos reemplaza la foto del mes",
-          "body": "El sistema tradicional solo evaluaba el saldo de un solo mes, mientras que los nuevos modelos analizan 24 meses de pagos y uso de crédito."
+          "heading": "Non-QM growth outpaces underwriting consistency",
+          "body": "Every non-QM lender writes custom rules for DSCR (debt service coverage ratio), creating inconsistent risk profiles across portfolios."
         },
         {
-          "heading": "El historial de tarjetas altera la aprobación automatizada",
-          "body": "Esto es lo que cambia al evaluar el expediente: el sistema automatizado (AUS) penalizará a quienes pagan el mínimo aunque su puntaje parezca calificar."
+          "heading": "Underwriters battle incomplete file data",
+          "body": "Here's what this actually changes when a file hits underwriting: underwriters must manually cross-examine bank deposits against reported lease income to verify legitimacy."
         },
         {
-          "heading": "Las reparaciones de crédito rápidas pierden su efecto",
-          "body": "Pagar las tarjetas 30 días antes de solicitar el préstamo ya no subirá el puntaje de inmediato, pues la tendencia de 24 meses revela el manejo continuo de deuda."
+          "heading": "Fraud risks force stricter verification checks",
+          "body": "Rising fraud in major metro markets is driving lenders to demand third-party audit verification prior to closing."
         },
         {
-          "heading": "Los préstamos del gobierno ganan precisión en riesgo",
-          "body": "Adoptar estos modelos alinea a la FHA con estándares modernos, dando mejores condiciones a pagadores puntuales y apretando a quienes tienen la relación deuda-ingreso (DTI) al límite."
+          "heading": "Liquidity relies on quality control integrity",
+          "body": "If secondary investors lose confidence in DSCR documentation, non-QM liquidity will dry up rapidly."
         }
       ],
-      "my_take_heading": "Los arreglos rápidos de crédito murieron oficialmente en FHA",
-      "my_take": "Los modelos de crédito con tendencia eliminan los trucos de reparación de 30 días. Esto significa que la evaluación automatizada rechazará a compradores endeudados que solo lucen bien en el papel.",
-      "action_lo": "Revisa los reportes de crédito buscando tendencias de saldos rotativos de 24 meses en lugar de confiar solo en el puntaje tri-merge puntual.",
-      "action_realtor": "Orienta a tus compradores seis meses antes de buscar casa para que reduzcan sus saldos rotativos paulatinamente en lugar de pagar montos fuertes a última hora.",
-      "cta_question": "¿Crees que los puntajes con tendencia ayudarán o afectarán tu volumen de préstamos FHA cuando comience la aplicación?"
+      "my_take_heading": "Custom guidelines create dangerous portfolio concentration risk",
+      "my_take": "Fragmented underwriting rules create fake volume today at the direct expense of tomorrow's secondary market liquidity.",
+      "action_lo": "Partner only with non-QM lenders that maintain clear, audited DSCR guidelines.",
+      "action_realtor": "Require investor buyers to provide verified proof of funds beyond basic DSCR pre-approvals.",
+      "cta_question": "Will non-QM investors demand standardized DSCR guidelines before liquidity contracts?"
     },
     {
-      "slug": "insurance-premiums-killing-mortgage-qualifications",
-      "title": "El alza del seguro de vivienda ahoga la relación deuda-ingreso",
-      "source": "National Mortgage Professional",
-      "source_url": "https://nationalmortgageprofessional.com/news/rising-insurance-costs-complicate-mortgage-qualification",
-      "cover_text": "El seguro de vivienda destruye aprobaciones en silencio",
-      "caption": "El aumento en el costo del seguro de vivienda está dañando la calificación de los compradores más que las propias tasas de interés. El pago mensual promedio de seguro llegó a $209 en el segundo trimestre, un 8.7% más que el año pasado y casi un 80% más desde 2020. Cuando las cotizaciones llegan más altas de lo previsto justo antes del cierre, los cálculos de principal, interés, impuestos y seguro (PITI) pueden empujar al comprador fuera de los límites permitidos. Los oficiales de préstamo y agentes que no aseguren la póliza a tiempo verán caer aprobaciones al final del proceso. Te explicamos cómo proteger tu operación para evitar sorpresas desagradables antes del cierre.\n\nFuente : https://tinyurl.com/29cpzwfs\n#SafetrustMortgage #MortgageIntelligenceDaily #mortgagerates #housingmarket #realestateagent",
-      "hashtags": [
-        "#SafetrustMortgage",
-        "#MortgageIntelligenceDaily",
-        "#mortgagerates",
-        "#housingmarket",
-        "#realestateagent"
-      ],
-      "hook_tag": "Alerta por Costo de Seguros",
-      "hook": "El alza en los seguros está arruinando la aprobación al cerrar.",
-      "what_happened_heading": "El seguro de vivienda alcanza récords históricos",
-      "what_happened": "Los propietarios de viviendas unifamiliares pagaron un promedio de $209 al mes por seguro en el segundo trimestre, un 8.7% más que el año anterior. Las primas se dispararon casi un 80% desde principios de 2020 según datos de ICE Mortgage Monitor.",
-      "breakdown": [
-        {
-          "heading": "El pago mensual recibe un golpe inesperado",
-          "body": "El alza del seguro presiona directamente el pago mensual total del hogar, reduciendo el poder de compra aunque las tasas de interés se mantengan estables."
-        },
-        {
-          "heading": "Aprobaciones finales se caen por el seguro",
-          "body": "Esto es lo que cambia al evaluar el caso: una cotización de última hora puede elevar el pago total (PITI) y superar la relación deuda-ingreso (DTI) máxima autorizada."
-        },
-        {
-          "heading": "Las refinanciaciones sufren por reservas de depósito",
-          "body": "Primas anuales más altas exigen crear un fondo de reserva (escrow) más grande al cerrar, aumentando el dinero en efectivo que necesita quien busca refinanciar."
-        },
-        {
-          "heading": "Zonas de alto riesgo sufren un fuerte ajuste",
-          "body": "En mercados donde las aseguradoras se retiran, los clientes dependen de planes estatales FAIR, convirtiendo deudas moderadas en rechazos automáticos de evaluación."
-        }
-      ],
-      "my_take_heading": "El costo del seguro es el nuevo aumento de tasa",
-      "my_take": "Muchos culpan a las tasas de interés por las operaciones fallidas, pero el vertiginoso aumento del seguro está destruyendo la relación deuda-ingreso (DTI) justo cuando el préstamo está a punto de ser aprobado.",
-      "action_lo": "Exige cotizaciones binding de seguro durante la preaprobación inicial en lugar de trabajar con estimaciones o porcentajes genéricos.",
-      "action_realtor": "Consulta presupuestos de seguro específicos del inmueble antes de presentar una oferta en zonas de costo elevado o con pocas aseguradoras.",
-      "cta_question": "¿Con qué frecuencia las alzas inesperadas en el seguro están poniendo en riesgo tus aprobaciones antes del cierre?"
-    },
-    {
-      "slug": "record-seller-buyer-gap-negotiating-power",
-      "title": "Brecha récord entre vendedores y compradores genera acumulación de inventario",
-      "source": "Redfin",
-      "source_url": "https://www.redfin.com/news/why-homebuyers-have-more-negotiating-power-right-now/",
-      "cover_text": "Tener más inventario no soluciona las ventas",
-      "caption": "Tener un 58% más de vendedores que de compradores debería significar un mercado activo, pero las ventas siguen estancadas. Redfin reporta que 3 de cada 5 casas se vendieron por debajo del precio inicial en agosto mientras el inventario acumulado seguía creciendo. Esta mayor oferta da ventaja a los compradores para exigir concesiones, pero los altos costos mensuales continúan dejando a muchos fuera del mercado. Los oficiales de préstamo deben estructurar las contribuciones del vendedor de forma estratégica para resolver problemas de relación deuda-ingreso (DTI), en vez de depender solo de rebajas en el precio. Te mostramos cómo navegar este estancamiento y mantener tus operaciones en movimiento.\n\nFuente : https://tinyurl.com/26tfblxp\n#SafetrustMortgage #MortgageIntelligenceDaily #housingmarket #homebuying #realestateinvesting",
+      "slug": "construction-robots-housing-shortage",
+      "title": "Construction robots tackle housing shortage without humanoids",
+      "source": "CNBC",
+      "source_url": "https://www.cnbc.com/2026/09/12/housing-shortage-home-construction-robots.html",
+      "cover_text": "Robots won't solve the housing shortage tomorrow",
+      "caption": "America's housing shortage and labor constraints are driving builders toward jobsite automation. While specialized construction robots are actively laying brick and framing walls, humanoid homebuilders remain far from reality. Technology is helping offset trade labor shortages, but it is not a quick fix for housing affordability. When a file hits underwriting, construction draw schedules and appraisal completion timelines are still delayed by local inspections and regulatory hurdles. Real estate professionals must look past automation hype and focus on managing client timelines accurately. Tech improves jobsite efficiency, but land entitlement and supply shortages will keep housing tight.\n\nSource : https://tinyurl.com/23z9y6u8\n#SafetrustMortgage #MortgageIntelligenceDaily #housingmarket #homebuying #firsttimehomebuyer",
       "hashtags": [
         "#SafetrustMortgage",
         "#MortgageIntelligenceDaily",
         "#housingmarket",
         "#homebuying",
-        "#realestateinvesting"
+        "#firsttimehomebuyer"
       ],
-      "hook_tag": "Desconexión del Mercado",
-      "hook": "Un exceso récord de vendedores no logra reactivar las ventas.",
-      "what_happened_heading": "La brecha entre vendedores y compradores rompe récords",
-      "what_happened": "En agosto hubo casi un 58% más vendedores que compradores de vivienda, creando la mayor brecha de oferta en la historia de Redfin. Casi 3 de cada 5 casas listadas se vendieron por debajo de su precio inicial mientras el inventario se acumulaba.",
+      "hook_tag": "Housing Tech",
+      "hook": "Construction robots are real, but humanoid builders remain a distant dream.",
+      "what_happened_heading": "Robotics enter construction sites amid labor shortages",
+      "what_happened": "Construction robots are actively deploying to job sites to help solve America's severe housing shortage and labor constraints. However, fully autonomous humanoid homebuilders remain far off from commercial deployment.",
       "breakdown": [
         {
-          "heading": "Más casas a la venta no generan más cierres",
-          "body": "El aumento de inventario da poder de negociación a los compradores activos, pero el número total de transacciones sigue deprimido en los principales mercados."
+          "heading": "Labor shortages severely restrict housing supply",
+          "body": "America lacks enough skilled trade workers, driving up construction costs and worsening overall home affordability."
         },
         {
-          "heading": "Las concesiones ocultan la realidad financiera",
-          "body": "Esto es lo que cambia al evaluar el crédito: las aportaciones del vendedor para reducir temporalmente la tasa ayudan al DTI, pero no bajan el límite de préstamo-valor (LTV)."
+          "heading": "Specialized automation takes on repetitive tasks",
+          "body": "Robots are laying brick and framing, but specialized machinery is very different from autonomous humanoid builders."
         },
         {
-          "heading": "Demoras en ajustar precios alargan el bloqueo",
-          "body": "Que los vendedores bajen el precio despacio hace que las casas pasen más tiempo en el mercado, haciendo que los comparables de avalúo queden desactualizados."
+          "heading": "Underwriting new construction timeline risks",
+          "body": "Here's what this actually changes when a file hits underwriting: appraisal completion dates on tech-assisted builds still face regulatory and inspections delays."
         },
         {
-          "heading": "La ventaja del comprador cambió a concesiones",
-          "body": "Los compradores están logrando créditos del vendedor para gastos de cierre y reparaciones, en lugar de competir en guerras de ofertas."
+          "heading": "Tech reduces cost pressures gradually",
+          "body": "Specialized jobsite automation helps stabilize labor budgets, but supply constraints will persist for years."
         }
       ],
-      "my_take_heading": "Inventario alto sin alivio en tasas causa estancamiento",
-      "my_take": "El aumento de inventario no está generando un auge comprador. Solo deja al descubierto un estancamiento en la capacidad de pago, donde el vendedor debe ceder en precio o financiar reducciones de tasa para lograr la aprobación.",
-      "action_lo": "Estructura créditos del vendedor dirigidos específicamente a reducciones temporales o permanentes de tasa para ajustar la relación deuda-ingreso (DTI) del cliente.",
-      "action_realtor": "Aconseja a los vendedores colocar precios competitivos desde el inicio u ofrecer créditos para gastos de cierre en lugar de esperar semanas para bajar el precio.",
-      "cta_question": "¿Las concesiones del vendedor están ayudando a tus clientes a superar los límites de deuda-ingreso o siguen siendo necesarias las rebajas de precio?"
+      "my_take_heading": "Technology optimizes task efficiency, not site entitlement speed",
+      "my_take": "Robotic trade tools improve jobsite efficiency, but software cannot automate local zoning approvals or land entitlement bottlenecks.",
+      "action_lo": "Monitor construction completion timelines closely to protect lock extensions on new build loans.",
+      "action_realtor": "Manage buyer expectations on new construction delivery dates despite builder marketing hype.",
+      "cta_question": "Can jobsite robotics scale fast enough to lower starter home prices in your market?"
     }
   ]
 }
