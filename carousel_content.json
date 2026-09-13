@@ -168,5 +168,175 @@
       "action_realtor": "Manage buyer expectations on new construction delivery dates despite builder marketing hype.",
       "cta_question": "Can jobsite robotics scale fast enough to lower starter home prices in your market?"
     }
+  ],
+  "carousels_es": [
+    {
+      "slug": "dscr-fraud-underwriting-tightening",
+      "title": "El auge de los préstamos DSCR exige una evaluación más estricta por casos de fraude",
+      "source": "HousingWire",
+      "source_url": "https://www.housingwire.com/articles/dscr-loans-volume-growth-fraud-risks-underwriting/",
+      "cover_text": "¿Por qué las reglas de los préstamos DSCR están a punto de cambiar?",
+      "caption": "Los préstamos DSCR (Debt Service Coverage Ratio) ofrecían aprobaciones rápidas a los inversionistas inmobiliarios, pero los estándares de evaluación fragmentados crearon puntos ciegos peligrosos. Un fraude reciente de alto perfil en Baltimore expuso lo fácil que es que los contratos de arrendamiento alterados pasen desapercibidos en procesos no estandarizados. Ahora, los compradores del mercado secundario están auditando los expedientes después del cierre, lo que obliga a los originadores a asumir riesgos de recompra. Cuando un expediente llega a la evaluación hoy, los asesores examinan la verificación del contrato de arrendamiento y los programas de alquiler de la tasación mucho más allá de los controles automatizados básicos. Los originadores que tomaron atajos para cerrar rápido pagarán el precio cuando los compradores de Non-QM (préstamos no conformes) comiencen a rechazar documentos. Proteger tu cartera de préstamos requiere estándares de documentación estrictos ahora mismo.\n\nFuente : https://tinyurl.com/2ad7vpky\n#SafetrustMortgage #MortgageIntelligenceDaily #mortgagebroker #realestateinvesting #loanofficer",
+      "hashtags": [
+        "#SafetrustMortgage",
+        "#MortgageIntelligenceDaily",
+        "#mortgagebroker",
+        "#realestateinvesting",
+        "#loanofficer"
+      ],
+      "hook_tag": "Riesgo de evaluación",
+      "hook": "Las reglas DSCR fragmentadas crean un gran objetivo de fraude para los prestamistas.",
+      "what_happened_heading": "Fraudes exponen la debilidad de las reglas DSCR",
+      "what_happened": "El volumen de préstamos DSCR (Debt Service Coverage Ratio) está aumentando en el mercado de inversionistas. Sin embargo, un fraude reciente en Baltimore reveló grandes lagunas en los estándares de evaluación fragmentados.",
+      "breakdown": [
+        {
+          "heading": "El dinero fácil atrae a gente inescrupulosa",
+          "body": "Las aprobaciones rápidas para inversionistas hicieron que los préstamos DSCR (Debt Service Coverage Ratio) fueran populares, pero las reglas inconsistentes dejaron muchas puertas abiertas."
+        },
+        {
+          "heading": "Están falsificando la verificación de los alquileres",
+          "body": "Los estafadores están alterando contratos de arrendamiento y extractos bancarios para inflar artificialmente los números de flujo de efectivo de las propiedades."
+        },
+        {
+          "heading": "Qué cambia en la evaluación",
+          "body": "Esto es lo que realmente cambia cuando un expediente llega a la evaluación: la verificación manual de los pagos de alquiler y revisiones más estrictas del programa de alquiler del tasador son obligatorias."
+        },
+        {
+          "heading": "Aumentan los controles de calidad en el mercado secundario",
+          "body": "Los inversionistas que compran Non-QM (préstamos no conformes) están auditando expedientes después del cierre, forzando recompras por documentación defectuosa."
+        }
+      ],
+      "my_take_heading": "La búsqueda de ganancias creó puntos ciegos en el manejo de riesgos",
+      "my_take": "La velocidad sin verificación estandarizada no es innovación; es un riesgo de crédito sin cobertura esperando descarrilar las carteras de los inversionistas.",
+      "action_lo": "Audita la documentación de arrendamiento de tus inversionistas antes de enviar expedientes para evitar recompras por auditorías post-cierre.",
+      "action_realtor": "Ayuda a los clientes inversionistas a documentar el historial de alquiler real, no solo los alquileres de mercado proyectados.",
+      "cta_question": "¿Tus reglas para inversionistas Non-QM se están volviendo más estrictas lo suficientemente rápido como para detectar documentos falsos?"
+    },
+    {
+      "slug": "mortgage-rate-spreads-geopolitics",
+      "title": "Las tasas hipotecarias superan el 7%, pero los spreads amortiguan el impacto",
+      "source": "HousingWire",
+      "source_url": "https://www.housingwire.com/articles/housing-market-faces-headwinds-as-mortgage-rates-move-above-7/",
+      "cover_text": "Por qué las tasas por encima del 7% afectan diferente",
+      "caption": "Las tasas hipotecarias que superan el 7% generan una fricción inmediata en las carteras de compradores activos. Aunque las tensiones geopolíticas dispararon los rendimientos de referencia, la compresión de los spreads hipotecarios (la diferencia entre los rendimientos del Tesoro y las tasas hipotecarias) evitó un aumento aún más brusco. Pero para los prestatarios en el límite, cada punto base cuenta. Cuando un expediente llega a evaluación hoy, los límites de la relación deuda-ingresos (DTI) que pasaron la semana pasada, de repente están activando referencias del sistema. Los oficiales de préstamo deben auditar proactivamente las cartas de preaprobación antes de que se ejecuten los contratos de compra. Las concesiones del vendedor utilizadas para reducir las tasas de interés se están volviendo esenciales para salvar transacciones en este entorno de tasas altas.\n\nFuente : https://tinyurl.com/2bcr4eat\n#SafetrustMortgage #MortgageIntelligenceDaily #mortgagerates #housingmarket #homebuying",
+      "hashtags": [
+        "#SafetrustMortgage",
+        "#MortgageIntelligenceDaily",
+        "#mortgagerates",
+        "#housingmarket",
+        "#homebuying"
+      ],
+      "hook_tag": "Entorno de tasas",
+      "hook": "Las tasas superaron el 7%, pero los spreads hipotecarios están salvando las carteras de préstamos.",
+      "what_happened_heading": "Tasas cruzan umbral clave en medio de shock geopolítico",
+      "what_happened": "Las tasas hipotecarias volvieron a superar el 7% a medida que las tensiones globales por el conflicto de Irán impactaron los mercados financieros. Sin embargo, los spreads hipotecarios (la diferencia entre los rendimientos de referencia y las tasas hipotecarias) amortiguaron el golpe.",
+      "breakdown": [
+        {
+          "heading": "La tasa principal esconde la compresión de los spreads",
+          "body": "Aunque los rendimientos de referencia aumentaron, la reducción de los spreads hipotecarios evitó que las tasas para los prestatarios se dispararan aún más."
+        },
+        {
+          "heading": "El poder adquisitivo del comprador recibe otro golpe",
+          "body": "Superar el 7% empuja inmediatamente los límites de DTI (relación deuda-ingresos) al máximo para los compradores con un perfil justo."
+        },
+        {
+          "heading": "Vuelve la presión en la cartera de evaluación",
+          "body": "Esto es lo que realmente cambia cuando un expediente llega a evaluación: las aprobaciones de escritorio pasan de aceptar a referir a medida que las relaciones de deuda superan los límites."
+        },
+        {
+          "heading": "El inventario sigue congelado por el “lock-in”",
+          "body": "Los propietarios actuales con tasas inferiores al 4% enfrentan costos de oportunidad aún mayores para mudarse."
+        }
+      ],
+      "my_take_heading": "La reducción de los spreads esconde una fricción sistémica de asequibilidad",
+      "my_take": "Los spreads hipotecarios suavizaron el aumento de la tasa principal, pero la compresión del spread no puede solucionar costos mensuales de vivienda estructuralmente impagables.",
+      "action_lo": "Vuelve a calificar a cada comprador preaprobado con las tasas actuales para detectar fallas de DTI antes de firmar el contrato.",
+      "action_realtor": "Estructura las concesiones del vendedor para financiar reducciones temporales de la tasa de interés en lugar de bajar el precio.",
+      "cta_question": "¿Cómo están reestructurando tus equipos las preaprobaciones para mantener a los compradores calificados por encima del 7%?"
+    },
+    {
+      "slug": "dscr-investor-guideline-fragmentation",
+      "title": "Reglas DSCR fragmentadas generan incertidumbre crediticia para inversionistas",
+      "source": "HousingWire",
+      "source_url": "https://www.housingwire.com/articles/dscr-loans-volume-growth-fraud-risks-underwriting/",
+      "cover_text": "El riesgo oculto en aprobaciones DSCR rápidas",
+      "caption": "El crecimiento de los préstamos Non-QM (préstamos no conformes) depende en gran medida de los préstamos DSCR (Debt Service Coverage Ratio), pero las reglas fragmentadas están exponiendo a los prestamistas a crecientes riesgos operativos. Sin reglas de evaluación uniformes, las variaciones en cómo se calcula el flujo de efectivo crean una exposición crediticia oculta. Cuando un expediente llega a evaluación hoy, los asesores se ven obligados a realizar auditorías manuales extensas en los contratos de arrendamiento y los extractos bancarios para eliminar la documentación fraudulenta. Para los oficiales de préstamo, confiar en reglas poco estrictas puede cerrar negocios a corto plazo, pero expone tu cartera a demandas de recompra. Los líderes de la industria deben priorizar la documentación clara y los estándares de evaluación transparentes para proteger la liquidez Non-QM a largo plazo.\n\nFuente : https://tinyurl.com/2ad7vpky\n#SafetrustMortgage #MortgageIntelligenceDaily #mortgagebroker #loanofficer #realestateinvesting",
+      "hashtags": [
+        "#SafetrustMortgage",
+        "#MortgageIntelligenceDaily",
+        "#mortgagebroker",
+        "#loanofficer",
+        "#realestateinvesting"
+      ],
+      "hook_tag": "Tendencias Non-QM",
+      "hook": "Los inversionistas están comprando préstamos DSCR sin protecciones de evaluación estandarizadas.",
+      "what_happened_heading": "El rápido crecimiento del volumen pone a prueba las reglas fragmentadas",
+      "what_happened": "La demanda de los inversionistas por financiamiento DSCR (Debt Service Coverage Ratio) ha aumentado rápidamente en los canales Non-QM. Al mismo tiempo, los estándares de evaluación fragmentados entre los prestamistas mayoristas han aumentado los riesgos de fraude.",
+      "breakdown": [
+        {
+          "heading": "El crecimiento de Non-QM supera la consistencia en la evaluación",
+          "body": "Cada prestamista Non-QM escribe reglas personalizadas para DSCR (Debt Service Coverage Ratio), creando perfiles de riesgo inconsistentes en las carteras."
+        },
+        {
+          "heading": "Los asesores luchan con datos de expedientes incompletos",
+          "body": "Esto es lo que realmente cambia cuando un expediente llega a evaluación: los asesores deben examinar manualmente los depósitos bancarios contra los ingresos de alquiler reportados para verificar la legitimidad."
+        },
+        {
+          "heading": "Los riesgos de fraude obligan a controles de verificación más estrictos",
+          "body": "El aumento del fraude en los principales mercados metropolitanos está llevando a los prestamistas a exigir verificación de auditoría de terceros antes del cierre."
+        },
+        {
+          "heading": "La liquidez depende de la integridad del control de calidad",
+          "body": "Si los inversionistas secundarios pierden la confianza en la documentación DSCR, la liquidez de Non-QM se agotará rápidamente."
+        }
+      ],
+      "my_take_heading": "Las reglas personalizadas crean un peligroso riesgo de concentración en la cartera",
+      "my_take": "Las reglas de evaluación fragmentadas crean volumen falso hoy a expensas directas de la liquidez del mercado secundario de mañana.",
+      "action_lo": "Asóciate solo con prestamistas Non-QM que mantengan reglas DSCR claras y auditadas.",
+      "action_realtor": "Exige a los compradores inversionistas que proporcionen pruebas verificadas de fondos más allá de las preaprobaciones básicas de DSCR.",
+      "cta_question": "¿Exigirán los inversionistas Non-QM reglas DSCR estandarizadas antes de que la liquidez se contraiga?"
+    },
+    {
+      "slug": "construction-robots-housing-shortage",
+      "title": "Robots de construcción abordan la escasez de viviendas sin humanoides",
+      "source": "CNBC",
+      "source_url": "https://www.cnbc.com/2026/09/12/housing-shortage-home-construction-robots.html",
+      "cover_text": "Los robots no resolverán la escasez de viviendas mañana",
+      "caption": "La escasez de viviendas y las limitaciones de mano de obra en Estados Unidos están impulsando a los constructores hacia la automatización en las obras. Si bien los robots de construcción especializados ya están colocando ladrillos y levantando paredes, los constructores humanoides están lejos de ser una realidad. La tecnología está ayudando a compensar la escasez de mano de obra, pero no es una solución rápida para la asequibilidad de la vivienda. Cuando un expediente llega a evaluación, los cronogramas de desembolso de la construcción y los plazos de finalización de las tasaciones siguen retrasados por las inspecciones locales y los obstáculos regulatorios. Los profesionales de bienes raíces deben mirar más allá del entusiasmo por la automatización y centrarse en gestionar los cronogramas de los clientes con precisión. La tecnología mejora la eficiencia en la obra, pero la aprobación de terrenos y la escasez de suministros mantendrán la vivienda ajustada.\n\nFuente : https://tinyurl.com/23z9y6u8\n#SafetrustMortgage #MortgageIntelligenceDaily #housingmarket #homebuying #firsttimehomebuyer",
+      "hashtags": [
+        "#SafetrustMortgage",
+        "#MortgageIntelligenceDaily",
+        "#housingmarket",
+        "#homebuying",
+        "#firsttimehomebuyer"
+      ],
+      "hook_tag": "Tecnología de vivienda",
+      "hook": "Los robots de construcción son reales, pero los constructores humanoides son un sueño lejano.",
+      "what_happened_heading": "Los robots entran en las obras por la escasez de mano de obra",
+      "what_happened": "Los robots de construcción se están implementando activamente en las obras para ayudar a resolver la grave escasez de viviendas y las limitaciones de mano de obra en Estados Unidos. Sin embargo, los constructores humanoides totalmente autónomos están lejos de ser una implementación comercial.",
+      "breakdown": [
+        {
+          "heading": "La escasez de mano de obra restringe gravemente la oferta de viviendas",
+          "body": "Estados Unidos no tiene suficientes trabajadores calificados, lo que eleva los costos de construcción y empeora la asequibilidad general de la vivienda."
+        },
+        {
+          "heading": "La automatización especializada asume tareas repetitivas",
+          "body": "Los robots colocan ladrillos y levantan estructuras, pero la maquinaria especializada es muy diferente de los constructores humanoides autónomos."
+        },
+        {
+          "heading": "Evaluando los riesgos de tiempo en construcciones nuevas",
+          "body": "Esto es lo que realmente cambia cuando un expediente llega a evaluación: las fechas de finalización de las tasaciones en construcciones asistidas por tecnología aún enfrentan retrasos regulatorios y de inspecciones."
+        },
+        {
+          "heading": "La tecnología reduce las presiones de costos gradualmente",
+          "body": "La automatización especializada en las obras ayuda a estabilizar los presupuestos de mano de obra, pero las limitaciones de suministro persistirán durante años."
+        }
+      ],
+      "my_take_heading": "La tecnología optimiza la eficiencia de tareas, no la velocidad de aprobación de obras",
+      "my_take": "Las herramientas robóticas para oficios mejoran la eficiencia en la obra, pero el software no puede automatizar las aprobaciones de zonificación local ni los cuellos de botella en la autorización de terrenos.",
+      "action_lo": "Supervisa de cerca los cronogramas de finalización de la construcción para proteger las extensiones de bloqueo en préstamos para nuevas construcciones.",
+      "action_realtor": "Gestiona las expectativas de los compradores sobre las fechas de entrega de nuevas construcciones a pesar de la publicidad del constructor.",
+      "cta_question": "¿Puede la robótica en las obras crecer lo suficientemente rápido como para bajar los precios de las viviendas iniciales en tu mercado?"
+    }
   ]
 }
