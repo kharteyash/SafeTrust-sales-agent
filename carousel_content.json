@@ -1,342 +1,172 @@
 {
   "carousels": [
     {
-      "slug": "dscr-fraud-underwriting-tightening",
-      "title": "DSCR loan boom triggers tighter underwriting after fraud cases",
+      "slug": "seller-impersonation-fraud",
+      "title": "Seller impersonation fraud more than doubled since 2024",
       "source": "HousingWire",
-      "source_url": "https://www.housingwire.com/articles/dscr-loans-volume-growth-fraud-risks-underwriting/",
-      "cover_text": "Why DSCR loan guidelines are about to implode",
-      "caption": "DSCR (debt service coverage ratio) loans offered fast approvals for real estate investors, but fragmented underwriting standards created dangerous blind spots. Recent high-profile fraud in Baltimore exposed how easily altered leases slip through unstandardized pipelines. Now, secondary market buyers are auditing files post-closing, forcing originators to absorb buyback risks. When a file hits underwriting today, underwriters are scrutinizing lease verification and appraisal rent schedules far beyond baseline automated checks. Originators who cut corners to close fast will pay the price when non-QM (non-qualifying mortgage) buyers start rejecting paper. Protecting your pipeline requires strict documentation standards right now.\n\nSource : https://tinyurl.com/2ad7vpky\n#SafetrustMortgage #MortgageIntelligenceDaily #mortgagebroker #realestateinvesting #loanofficer",
+      "source_url": "https://www.housingwire.com/articles/seller-impersonation-fraud-more-than-doubled-since-2024/",
+      "cover_text": "Seller fraud doubled. Is your file safe?",
+      "caption": "Seller impersonation fraud has more than doubled, jumping from 19% to 45% of firms reporting attacks. Here is what this means for your closing table.\n\nSource : https://tinyurl.com/2bml76nh\n#SafetrustMortgage #MortgageIntelligenceDaily #realestateagent #homebuying #mortgagebroker",
       "hashtags": [
         "#SafetrustMortgage",
         "#MortgageIntelligenceDaily",
-        "#mortgagebroker",
-        "#realestateinvesting",
-        "#loanofficer"
+        "#realestateagent",
+        "#homebuying",
+        "#mortgagebroker"
       ],
-      "hook_tag": "Underwriting Risk",
-      "hook": "Fragmented DSCR guidelines are creating a massive fraud target for lenders.",
-      "what_happened_heading": "Fraud headlines expose weak DSCR guidelines",
-      "what_happened": "DSCR (debt service coverage ratio) loan volume is surging across the investor market. However, recent fraud in Baltimore revealed massive gaps in fragmented underwriting standards.",
+      "hook_tag": "Fraud Alert",
+      "hook": "Seller impersonation fraud has more than doubled since 2024. Your file is a target.",
+      "what_happened_heading": "Fraud attempts jump significantly",
+      "what_happened": "The share of firms reporting a seller impersonation fraud attempt in the prior month rose from 19% to 45%. Scammers are increasingly targeting unencumbered properties to steal equity at closing.",
       "breakdown": [
         {
-          "heading": "Easy money attracts bad actors",
-          "body": "Fast investor approvals made DSCR (debt service coverage ratio) popular, but inconsistent guidelines left back doors wide open."
+          "heading": "The primary target",
+          "body": "Scammers love vacant land and homes owned free and clear. There is no existing mortgage lender to verify the identity of the true owner."
         },
         {
-          "heading": "Rent rolls are getting fake verification",
-          "body": "Fraudsters are altering lease agreements and bank statements to artificially inflate property cash flow numbers."
+          "heading": "The underwriting reality",
+          "body": "Here is what this actually changes when a file hits underwriting: we are no longer just checking credit scores. We are hunting deep digital footprints."
         },
         {
-          "heading": "What changes in underwriting",
-          "body": "Here's what this actually changes when a file hits underwriting: manual verification of lease payments and stricter appraiser rent schedule reviews are mandatory."
+          "heading": "Outdated verification fails",
+          "body": "Standard ID checks are no longer enough. Criminals use high-end synthetic IDs that easily pass basic electronic screening tools."
         },
         {
-          "heading": "Secondary market quality control spikes",
-          "body": "Investors buying non-QM (non-qualifying mortgage) paper are auditing files post-closing, forcing buybacks on flawed documentation."
+          "heading": "The title company burden",
+          "body": "Closing agents now require independent remote online notarization security protocols and strict callback procedures to catch imposters before funds wire."
         }
       ],
-      "my_take_heading": "Yield chasing created blind spots in risk management",
-      "my_take": "Speed without standardized verification isn't innovation; it is an unhedged credit risk waiting to derail investor portfolios.",
-      "action_lo": "Audit your investor lease documentation before submitting files to avoid post-closing audit buybacks.",
-      "action_realtor": "Help investor clients document actual rental history, not just projected market rents.",
-      "cta_question": "Are your non-QM investor guidelines tightening fast enough to catch bad documentation?"
+      "my_take_heading": "The new closing risk",
+      "my_take": "If a seller refuses to show up on video or uses a mobile notary you have never heard of, kill the deal. Speed kills safety.",
+      "action_lo": "Verify every seller phone number independently using public records, never the number on the incoming contract.",
+      "action_realtor": "Insist on meeting the seller face-to-face or via a verified secure video call before listing any vacant property.",
+      "cta_question": "What is your title company doing right now to stop identity theft at closing doors? Let us know below."
     },
     {
-      "slug": "mortgage-rate-spreads-geopolitics",
-      "title": "Mortgage rates top 7 percent while rate spreads cushion impact",
+      "slug": "colorado-river-water-cuts",
+      "title": "Colorado River water cuts are coming. What will they mean for housing?",
       "source": "HousingWire",
-      "source_url": "https://www.housingwire.com/articles/housing-market-faces-headwinds-as-mortgage-rates-move-above-7/",
-      "cover_text": "Why rates above 7 percent hit pipelines differently",
-      "caption": "Mortgage rates crossing 7 percent creates immediate friction across active buyer pipelines. While geopolitical tensions spiked benchmark yields, compressed mortgage spreads (the difference between Treasury yields and mortgage rates) prevented an even sharper increase. But for borrowers on the margin, every basis point matters. When a file hits underwriting today, debt-to-income limits (DTI) that passed last week are suddenly triggering system referrals. Loan officers must proactively audit pre-approval letters before purchase contracts are executed. Seller concessions used for interest rate buydowns are becoming essential to salvage transactions in this high-rate environment.\n\nSource : https://tinyurl.com/2bcr4eat\n#SafetrustMortgage #MortgageIntelligenceDaily #mortgagerates #housingmarket #homebuying",
+      "source_url": "https://www.housingwire.com/articles/colorado-river-rules-lower-basin-cuts/",
+      "cover_text": "Water cuts are coming for housing markets",
+      "caption": "Colorado River water cuts are set for 2027 to 2028, cutting lower basin deliveries by 1.25 million acre-feet. Here is how it impacts local housing markets.\n\nSource : https://tinyurl.com/2c3bue4y\n#SafetrustMortgage #MortgageIntelligenceDaily #housingmarket #realestateinvesting #homebuying",
       "hashtags": [
         "#SafetrustMortgage",
         "#MortgageIntelligenceDaily",
-        "#mortgagerates",
         "#housingmarket",
+        "#realestateinvesting",
         "#homebuying"
       ],
-      "hook_tag": "Rate Environment",
-      "hook": "Rates pushed past 7 percent, but mortgage spreads are saving pipelines.",
-      "what_happened_heading": "Rates cross key threshold amid geopolitical shock",
-      "what_happened": "Mortgage rates moved back above 7 percent as global tensions from the Iran conflict impacted financial markets. However, mortgage spreads (the gap between benchmark yields and mortgage rates) cushioned the blow.",
+      "hook_tag": "Market Risk",
+      "hook": "Water scarcity is about to dictate where people can buy and build homes.",
+      "what_happened_heading": "Massive basin cuts announced",
+      "what_happened": "New 2027 to 2028 rules will cut lower basin deliveries by 1.25 million acre-feet. This comes as Lake Mead sits dangerously low at 28% capacity.",
       "breakdown": [
         {
-          "heading": "The headline rate masks underlying spread compression",
-          "body": "While benchmark yields rose, narrowing mortgage spreads prevented borrower rates from spiking even higher."
+          "heading": "The supply side squeeze",
+          "body": "Municipalities tied to the lower basin will soon restrict new building permits. No water hookup means no new residential subdivisions."
         },
         {
-          "heading": "Buyer purchasing power takes another hit",
-          "body": "Crossing 7 percent immediately pushes DTI (debt-to-income ratio) limits to the edge for borderline buyers."
+          "heading": "Appraisal values at risk",
+          "body": "Here is what this actually changes when a file hits underwriting: future appraisal values must factor in long-term municipal water security."
         },
         {
-          "heading": "Underwriting pipeline stress returns",
-          "body": "Here's what this actually changes when a file hits underwriting: desk approvals flip from accept to refer as debt ratios stretch beyond limits."
+          "heading": "The cost of growth",
+          "body": "Developers will pay astronomical fees for alternative water rights, pushing home prices up even as inventory remains artificially constrained."
         },
         {
-          "heading": "Inventory stays frozen as lock-in holds",
-          "body": "Existing homeowners with sub-4 percent rates face even higher opportunity costs to move."
+          "heading": "Regional migration shifts",
+          "body": "Buyers will start migrating away from high-risk desert metros toward areas with secure water tables, altering long-term property demand maps."
         }
       ],
-      "my_take_heading": "Narrowing spreads are hiding systemic affordability friction",
-      "my_take": "Mortgage spreads softened the headline rate spike, but spread compression cannot fix structurally unpayable monthly housing costs.",
-      "action_lo": "Re-qualify every pre-approved buyer at current rates to catch DTI failures before contract signing.",
-      "action_realtor": "Structure seller concessions to fund temporary interest rate buydowns instead of price drops.",
-      "cta_question": "How are your teams restructuring pre-approvals to keep buyers qualified above 7 percent?"
+      "my_take_heading": "The overlooked liability",
+      "my_take": "Water rights are the new toxic waste sites. If your market relies on the Colorado River, your long-term equity thesis depends on municipal infrastructure.",
+      "action_lo": "Review local municipal water supply caps before issuing pre-approvals for new construction builds in desert submarkets.",
+      "action_realtor": "Educate buyers on municipal water restrictions and long-term utility costs before they make offers on arid land.",
+      "cta_question": "Are your local developers talking about water caps yet, or are they ignoring the 2027 rules?"
     },
     {
-      "slug": "dscr-investor-guideline-fragmentation",
-      "title": "Fragmented DSCR guidelines create investor credit uncertainty",
-      "source": "HousingWire",
-      "source_url": "https://www.housingwire.com/articles/dscr-loans-volume-growth-fraud-risks-underwriting/",
-      "cover_text": "The hidden risk in fast DSCR approvals",
-      "caption": "Non-QM (non-qualifying mortgage) growth relies heavily on DSCR (debt service coverage ratio) loans, but fragmented guidelines are exposing lenders to mounting operational risks. Without uniform underwriting rules, variations in how cash flow is calculated create hidden credit exposure. When a file hits underwriting today, underwriters are forced to perform extensive manual audits on lease agreements and bank statements to weed out fraudulent documentation. For loan officers, relying on loose guidelines might close short-term deals, but it exposes your pipeline to buyback demands. Industry leaders must prioritize clean documentation and transparent underwriting standards to protect long-term non-QM liquidity.\n\nSource : https://tinyurl.com/2ad7vpky\n#SafetrustMortgage #MortgageIntelligenceDaily #mortgagebroker #loanofficer #realestateinvesting",
+      "slug": "credit-card-debt-drives-equity",
+      "title": "Credit Card Debt Drives Homeowners Toward Equity",
+      "source": "National Mortgage Professional",
+      "source_url": "https://nationalmortgageprofessional.com/news/credit-card-debt-drives-homeowners-toward-equity",
+      "cover_text": "Credit card debt is unlocking home equity",
+      "caption": "Over half of homeowners carry credit card debt, and 73% cite high interest rates as the push to tap home equity. Here is what is happening.\n\nSource : https://tinyurl.com/27ky2229\n#SafetrustMortgage #MortgageIntelligenceDaily #homebuying #mortgagerates #loanofficer",
       "hashtags": [
         "#SafetrustMortgage",
         "#MortgageIntelligenceDaily",
-        "#mortgagebroker",
-        "#loanofficer",
-        "#realestateinvesting"
-      ],
-      "hook_tag": "Non-QM Trends",
-      "hook": "Investors are buying DSCR loans without standardized underwriting guardrails.",
-      "what_happened_heading": "Rapid volume growth strains fragmented guidelines",
-      "what_happened": "Investor demand for DSCR (debt service coverage ratio) financing has surged rapidly across non-QM channels. At the same time, fragmented underwriting standards across wholesale lenders have heightened fraud risks.",
-      "breakdown": [
-        {
-          "heading": "Non-QM growth outpaces underwriting consistency",
-          "body": "Every non-QM lender writes custom rules for DSCR (debt service coverage ratio), creating inconsistent risk profiles across portfolios."
-        },
-        {
-          "heading": "Underwriters battle incomplete file data",
-          "body": "Here's what this actually changes when a file hits underwriting: underwriters must manually cross-examine bank deposits against reported lease income to verify legitimacy."
-        },
-        {
-          "heading": "Fraud risks force stricter verification checks",
-          "body": "Rising fraud in major metro markets is driving lenders to demand third-party audit verification prior to closing."
-        },
-        {
-          "heading": "Liquidity relies on quality control integrity",
-          "body": "If secondary investors lose confidence in DSCR documentation, non-QM liquidity will dry up rapidly."
-        }
-      ],
-      "my_take_heading": "Custom guidelines create dangerous portfolio concentration risk",
-      "my_take": "Fragmented underwriting rules create fake volume today at the direct expense of tomorrow's secondary market liquidity.",
-      "action_lo": "Partner only with non-QM lenders that maintain clear, audited DSCR guidelines.",
-      "action_realtor": "Require investor buyers to provide verified proof of funds beyond basic DSCR pre-approvals.",
-      "cta_question": "Will non-QM investors demand standardized DSCR guidelines before liquidity contracts?"
-    },
-    {
-      "slug": "construction-robots-housing-shortage",
-      "title": "Construction robots tackle housing shortage without humanoids",
-      "source": "CNBC",
-      "source_url": "https://www.cnbc.com/2026/09/12/housing-shortage-home-construction-robots.html",
-      "cover_text": "Robots won't solve the housing shortage tomorrow",
-      "caption": "America's housing shortage and labor constraints are driving builders toward jobsite automation. While specialized construction robots are actively laying brick and framing walls, humanoid homebuilders remain far from reality. Technology is helping offset trade labor shortages, but it is not a quick fix for housing affordability. When a file hits underwriting, construction draw schedules and appraisal completion timelines are still delayed by local inspections and regulatory hurdles. Real estate professionals must look past automation hype and focus on managing client timelines accurately. Tech improves jobsite efficiency, but land entitlement and supply shortages will keep housing tight.\n\nSource : https://tinyurl.com/23z9y6u8\n#SafetrustMortgage #MortgageIntelligenceDaily #housingmarket #homebuying #firsttimehomebuyer",
-      "hashtags": [
-        "#SafetrustMortgage",
-        "#MortgageIntelligenceDaily",
-        "#housingmarket",
         "#homebuying",
-        "#firsttimehomebuyer"
-      ],
-      "hook_tag": "Housing Tech",
-      "hook": "Construction robots are real, but humanoid builders remain a distant dream.",
-      "what_happened_heading": "Robotics enter construction sites amid labor shortages",
-      "what_happened": "Construction robots are actively deploying to job sites to help solve America's severe housing shortage and labor constraints. However, fully autonomous humanoid homebuilders remain far off from commercial deployment.",
-      "breakdown": [
-        {
-          "heading": "Labor shortages severely restrict housing supply",
-          "body": "America lacks enough skilled trade workers, driving up construction costs and worsening overall home affordability."
-        },
-        {
-          "heading": "Specialized automation takes on repetitive tasks",
-          "body": "Robots are laying brick and framing, but specialized machinery is very different from autonomous humanoid builders."
-        },
-        {
-          "heading": "Underwriting new construction timeline risks",
-          "body": "Here's what this actually changes when a file hits underwriting: appraisal completion dates on tech-assisted builds still face regulatory and inspections delays."
-        },
-        {
-          "heading": "Tech reduces cost pressures gradually",
-          "body": "Specialized jobsite automation helps stabilize labor budgets, but supply constraints will persist for years."
-        }
-      ],
-      "my_take_heading": "Technology optimizes task efficiency, not site entitlement speed",
-      "my_take": "Robotic trade tools improve jobsite efficiency, but software cannot automate local zoning approvals or land entitlement bottlenecks.",
-      "action_lo": "Monitor construction completion timelines closely to protect lock extensions on new build loans.",
-      "action_realtor": "Manage buyer expectations on new construction delivery dates despite builder marketing hype.",
-      "cta_question": "Can jobsite robotics scale fast enough to lower starter home prices in your market?"
-    }
-  ],
-  "carousels_es": [
-    {
-      "slug": "dscr-fraud-underwriting-tightening",
-      "title": "El auge de los préstamos DSCR exige una evaluación más estricta por casos de fraude",
-      "source": "HousingWire",
-      "source_url": "https://www.housingwire.com/articles/dscr-loans-volume-growth-fraud-risks-underwriting/",
-      "cover_text": "¿Por qué las reglas de los préstamos DSCR están a punto de cambiar?",
-      "caption": "Los préstamos DSCR (Debt Service Coverage Ratio) ofrecían aprobaciones rápidas a los inversionistas inmobiliarios, pero los estándares de evaluación fragmentados crearon puntos ciegos peligrosos. Un fraude reciente de alto perfil en Baltimore expuso lo fácil que es que los contratos de arrendamiento alterados pasen desapercibidos en procesos no estandarizados. Ahora, los compradores del mercado secundario están auditando los expedientes después del cierre, lo que obliga a los originadores a asumir riesgos de recompra. Cuando un expediente llega a la evaluación hoy, los asesores examinan la verificación del contrato de arrendamiento y los programas de alquiler de la tasación mucho más allá de los controles automatizados básicos. Los originadores que tomaron atajos para cerrar rápido pagarán el precio cuando los compradores de Non-QM (préstamos no conformes) comiencen a rechazar documentos. Proteger tu cartera de préstamos requiere estándares de documentación estrictos ahora mismo.\n\nFuente : https://tinyurl.com/2ad7vpky\n#SafetrustMortgage #MortgageIntelligenceDaily #mortgagebroker #realestateinvesting #loanofficer",
-      "hashtags": [
-        "#SafetrustMortgage",
-        "#MortgageIntelligenceDaily",
-        "#mortgagebroker",
-        "#realestateinvesting",
+        "#mortgagerates",
         "#loanofficer"
       ],
-      "hook_tag": "Riesgo de evaluación",
-      "hook": "Las reglas DSCR fragmentadas crean un gran objetivo de fraude para los prestamistas.",
-      "what_happened_heading": "Fraudes exponen la debilidad de las reglas DSCR",
-      "what_happened": "El volumen de préstamos DSCR (Debt Service Coverage Ratio) está aumentando en el mercado de inversionistas. Sin embargo, un fraude reciente en Baltimore reveló grandes lagunas en los estándares de evaluación fragmentados.",
+      "hook_tag": "Borrower Trends",
+      "hook": "High credit card balances are forcing homeowners to monetize their walls.",
+      "what_happened_heading": "Surveys reveal credit pressure",
+      "what_happened": "A new Newrez survey found that 51% of homeowners carry a credit card balance from month to month. Among those, 61% said balances grew over the past year while 73% blamed high interest rates.",
       "breakdown": [
         {
-          "heading": "El dinero fácil atrae a gente inescrupulosa",
-          "body": "Las aprobaciones rápidas para inversionistas hicieron que los préstamos DSCR (Debt Service Coverage Ratio) fueran populares, pero las reglas inconsistentes dejaron muchas puertas abiertas."
+          "heading": "The revolving trap",
+          "body": "Consumers are using credit cards to survive inflation, accumulating high-interest debt that now eats up their monthly cash flow."
         },
         {
-          "heading": "Están falsificando la verificación de los alquileres",
-          "body": "Los estafadores están alterando contratos de arrendamiento y extractos bancarios para inflar artificialmente los números de flujo de efectivo de las propiedades."
+          "heading": "The asset paradox",
+          "body": "These same consumers are sitting on historic levels of home equity. Tapping that equity is the only escape hatch from 20% credit card APRs."
         },
         {
-          "heading": "Qué cambia en la evaluación",
-          "body": "Esto es lo que realmente cambia cuando un expediente llega a la evaluación: la verificación manual de los pagos de alquiler y revisiones más estrictas del programa de alquiler del tasador son obligatorias."
+          "heading": "The underwriting reality",
+          "body": "Here is what this actually changes when a file hits underwriting: we see massive debt-to-income drops if the equity loan wipes out the revolving debt."
         },
         {
-          "heading": "Aumentan los controles de calidad en el mercado secundario",
-          "body": "Los inversionistas que compran Non-QM (préstamos no conformes) están auditando expedientes después del cierre, forzando recompras por documentación defectuosa."
+          "heading": "The second lien surge",
+          "body": "Home equity lines and closed-end seconds are booming because homeowners refuse to touch their low first-lien mortgage rates."
         }
       ],
-      "my_take_heading": "La búsqueda de ganancias creó puntos ciegos en el manejo de riesgos",
-      "my_take": "La velocidad sin verificación estandarizada no es innovación; es un riesgo de crédito sin cobertura esperando descarrilar las carteras de los inversionistas.",
-      "action_lo": "Audita la documentación de arrendamiento de tus inversionistas antes de enviar expedientes para evitar recompras por auditorías post-cierre.",
-      "action_realtor": "Ayuda a los clientes inversionistas a documentar el historial de alquiler real, no solo los alquileres de mercado proyectados.",
-      "cta_question": "¿Tus reglas para inversionistas Non-QM se están volviendo más estrictas lo suficientemente rápido como para detectar documentos falsos?"
+      "my_take_heading": "The debt consolidation wave",
+      "my_take": "You are not selling a loan; you are selling financial rescue. Frame equity products as card-killers, not home improvement tools.",
+      "action_lo": "Run a portfolio review for past clients showing how a HELOC (home equity line of credit) wipes out their revolving card payments.",
+      "action_realtor": "Partner with local lenders to offer financial health checkups to your past buyer sphere.",
+      "cta_question": "Are you seeing more second lien requests for debt consolidation or home renovations today?"
     },
     {
-      "slug": "mortgage-rate-spreads-geopolitics",
-      "title": "Las tasas hipotecarias superan el 7%, pero los spreads amortiguan el impacto",
-      "source": "HousingWire",
-      "source_url": "https://www.housingwire.com/articles/housing-market-faces-headwinds-as-mortgage-rates-move-above-7/",
-      "cover_text": "Por qué las tasas por encima del 7% afectan diferente",
-      "caption": "Las tasas hipotecarias que superan el 7% generan una fricción inmediata en las carteras de compradores activos. Aunque las tensiones geopolíticas dispararon los rendimientos de referencia, la compresión de los spreads hipotecarios (la diferencia entre los rendimientos del Tesoro y las tasas hipotecarias) evitó un aumento aún más brusco. Pero para los prestatarios en el límite, cada punto base cuenta. Cuando un expediente llega a evaluación hoy, los límites de la relación deuda-ingresos (DTI) que pasaron la semana pasada, de repente están activando referencias del sistema. Los oficiales de préstamo deben auditar proactivamente las cartas de preaprobación antes de que se ejecuten los contratos de compra. Las concesiones del vendedor utilizadas para reducir las tasas de interés se están volviendo esenciales para salvar transacciones en este entorno de tasas altas.\n\nFuente : https://tinyurl.com/2bcr4eat\n#SafetrustMortgage #MortgageIntelligenceDaily #mortgagerates #housingmarket #homebuying",
+      "slug": "figure-ai-heloc-conversions",
+      "title": "Figure Says Pairing AI With Originators Lifted HELOC Conversions 143%",
+      "source": "National Mortgage Professional",
+      "source_url": "https://nationalmortgageprofessional.com/news/figure-says-pairing-ai-originators-lifted-heloc-conversions-143",
+      "cover_text": "AI agents boost loan conversions by 143%",
+      "caption": "Figure reports a 143% increase in funded HELOCs by pairing AI agents with human originators. Here is how automation changes pipeline math.\n\nSource : https://tinyurl.com/2de2u6qg\n#SafetrustMortgage #MortgageIntelligenceDaily #loanofficer #mortgagerates #mortgagebroker",
       "hashtags": [
         "#SafetrustMortgage",
         "#MortgageIntelligenceDaily",
-        "#mortgagerates",
-        "#housingmarket",
-        "#homebuying"
-      ],
-      "hook_tag": "Entorno de tasas",
-      "hook": "Las tasas superaron el 7%, pero los spreads hipotecarios están salvando las carteras de préstamos.",
-      "what_happened_heading": "Tasas cruzan umbral clave en medio de shock geopolítico",
-      "what_happened": "Las tasas hipotecarias volvieron a superar el 7% a medida que las tensiones globales por el conflicto de Irán impactaron los mercados financieros. Sin embargo, los spreads hipotecarios (la diferencia entre los rendimientos de referencia y las tasas hipotecarias) amortiguaron el golpe.",
-      "breakdown": [
-        {
-          "heading": "La tasa principal esconde la compresión de los spreads",
-          "body": "Aunque los rendimientos de referencia aumentaron, la reducción de los spreads hipotecarios evitó que las tasas para los prestatarios se dispararan aún más."
-        },
-        {
-          "heading": "El poder adquisitivo del comprador recibe otro golpe",
-          "body": "Superar el 7% empuja inmediatamente los límites de DTI (relación deuda-ingresos) al máximo para los compradores con un perfil justo."
-        },
-        {
-          "heading": "Vuelve la presión en la cartera de evaluación",
-          "body": "Esto es lo que realmente cambia cuando un expediente llega a evaluación: las aprobaciones de escritorio pasan de aceptar a referir a medida que las relaciones de deuda superan los límites."
-        },
-        {
-          "heading": "El inventario sigue congelado por el “lock-in”",
-          "body": "Los propietarios actuales con tasas inferiores al 4% enfrentan costos de oportunidad aún mayores para mudarse."
-        }
-      ],
-      "my_take_heading": "La reducción de los spreads esconde una fricción sistémica de asequibilidad",
-      "my_take": "Los spreads hipotecarios suavizaron el aumento de la tasa principal, pero la compresión del spread no puede solucionar costos mensuales de vivienda estructuralmente impagables.",
-      "action_lo": "Vuelve a calificar a cada comprador preaprobado con las tasas actuales para detectar fallas de DTI antes de firmar el contrato.",
-      "action_realtor": "Estructura las concesiones del vendedor para financiar reducciones temporales de la tasa de interés en lugar de bajar el precio.",
-      "cta_question": "¿Cómo están reestructurando tus equipos las preaprobaciones para mantener a los compradores calificados por encima del 7%?"
-    },
-    {
-      "slug": "dscr-investor-guideline-fragmentation",
-      "title": "Reglas DSCR fragmentadas generan incertidumbre crediticia para inversionistas",
-      "source": "HousingWire",
-      "source_url": "https://www.housingwire.com/articles/dscr-loans-volume-growth-fraud-risks-underwriting/",
-      "cover_text": "El riesgo oculto en aprobaciones DSCR rápidas",
-      "caption": "El crecimiento de los préstamos Non-QM (préstamos no conformes) depende en gran medida de los préstamos DSCR (Debt Service Coverage Ratio), pero las reglas fragmentadas están exponiendo a los prestamistas a crecientes riesgos operativos. Sin reglas de evaluación uniformes, las variaciones en cómo se calcula el flujo de efectivo crean una exposición crediticia oculta. Cuando un expediente llega a evaluación hoy, los asesores se ven obligados a realizar auditorías manuales extensas en los contratos de arrendamiento y los extractos bancarios para eliminar la documentación fraudulenta. Para los oficiales de préstamo, confiar en reglas poco estrictas puede cerrar negocios a corto plazo, pero expone tu cartera a demandas de recompra. Los líderes de la industria deben priorizar la documentación clara y los estándares de evaluación transparentes para proteger la liquidez Non-QM a largo plazo.\n\nFuente : https://tinyurl.com/2ad7vpky\n#SafetrustMortgage #MortgageIntelligenceDaily #mortgagebroker #loanofficer #realestateinvesting",
-      "hashtags": [
-        "#SafetrustMortgage",
-        "#MortgageIntelligenceDaily",
-        "#mortgagebroker",
         "#loanofficer",
-        "#realestateinvesting"
+        "#mortgagerates",
+        "#mortgagebroker"
       ],
-      "hook_tag": "Tendencias Non-QM",
-      "hook": "Los inversionistas están comprando préstamos DSCR sin protecciones de evaluación estandarizadas.",
-      "what_happened_heading": "El rápido crecimiento del volumen pone a prueba las reglas fragmentadas",
-      "what_happened": "La demanda de los inversionistas por financiamiento DSCR (Debt Service Coverage Ratio) ha aumentado rápidamente en los canales Non-QM. Al mismo tiempo, los estándares de evaluación fragmentados entre los prestamistas mayoristas han aumentado los riesgos de fraude.",
+      "hook_tag": "PropTech AI",
+      "hook": "Artificial intelligence is quietly doubling loan officer conversion rates in real time.",
+      "what_happened_heading": "Dramatic conversion lift reported",
+      "what_happened": "Figure Technology Solutions says an artificial intelligence agent working alongside loan originators increased funded-loan conversion by 143% compared with originators working alone. The Sierra-powered agent contacts stalled home equity applicants by voice and text over several days.",
       "breakdown": [
         {
-          "heading": "El crecimiento de Non-QM supera la consistencia en la evaluación",
-          "body": "Cada prestamista Non-QM escribe reglas personalizadas para DSCR (Debt Service Coverage Ratio), creando perfiles de riesgo inconsistentes en las carteras."
+          "heading": "Bridging the gap",
+          "body": "Most leads stall because originators get busy and fail to follow up quickly. AI steps in to maintain immediate contact."
         },
         {
-          "heading": "Los asesores luchan con datos de expedientes incompletos",
-          "body": "Esto es lo que realmente cambia cuando un expediente llega a evaluación: los asesores deben examinar manualmente los depósitos bancarios contra los ingresos de alquiler reportados para verificar la legitimidad."
+          "heading": "Automating the grind",
+          "body": "The AI agent helps borrowers complete tedious tasks like credit authorization, identity verification, and bank-account linking without human delay."
         },
         {
-          "heading": "Los riesgos de fraude obligan a controles de verificación más estrictos",
-          "body": "El aumento del fraude en los principales mercados metropolitanos está llevando a los prestamistas a exigir verificación de auditoría de terceros antes del cierre."
+          "heading": "The underwriting benefit",
+          "body": "Here is what this actually changes when a file hits underwriting: files arrive cleaner, faster, and with fewer missing bank statement pages."
         },
         {
-          "heading": "La liquidez depende de la integridad del control de calidad",
-          "body": "Si los inversionistas secundarios pierden la confianza en la documentación DSCR, la liquidez de Non-QM se agotará rápidamente."
+          "heading": "The human shift",
+          "body": "Loan officers stop chasing documents and start structuring loans. Technology takes over the administrative heavy lifting."
         }
       ],
-      "my_take_heading": "Las reglas personalizadas crean un peligroso riesgo de concentración en la cartera",
-      "my_take": "Las reglas de evaluación fragmentadas crean volumen falso hoy a expensas directas de la liquidez del mercado secundario de mañana.",
-      "action_lo": "Asóciate solo con prestamistas Non-QM que mantengan reglas DSCR claras y auditadas.",
-      "action_realtor": "Exige a los compradores inversionistas que proporcionen pruebas verificadas de fondos más allá de las preaprobaciones básicas de DSCR.",
-      "cta_question": "¿Exigirán los inversionistas Non-QM reglas DSCR estandarizadas antes de que la liquidez se contraiga?"
-    },
-    {
-      "slug": "construction-robots-housing-shortage",
-      "title": "Robots de construcción abordan la escasez de viviendas sin humanoides",
-      "source": "CNBC",
-      "source_url": "https://www.cnbc.com/2026/09/12/housing-shortage-home-construction-robots.html",
-      "cover_text": "Los robots no resolverán la escasez de viviendas mañana",
-      "caption": "La escasez de viviendas y las limitaciones de mano de obra en Estados Unidos están impulsando a los constructores hacia la automatización en las obras. Si bien los robots de construcción especializados ya están colocando ladrillos y levantando paredes, los constructores humanoides están lejos de ser una realidad. La tecnología está ayudando a compensar la escasez de mano de obra, pero no es una solución rápida para la asequibilidad de la vivienda. Cuando un expediente llega a evaluación, los cronogramas de desembolso de la construcción y los plazos de finalización de las tasaciones siguen retrasados por las inspecciones locales y los obstáculos regulatorios. Los profesionales de bienes raíces deben mirar más allá del entusiasmo por la automatización y centrarse en gestionar los cronogramas de los clientes con precisión. La tecnología mejora la eficiencia en la obra, pero la aprobación de terrenos y la escasez de suministros mantendrán la vivienda ajustada.\n\nFuente : https://tinyurl.com/23z9y6u8\n#SafetrustMortgage #MortgageIntelligenceDaily #housingmarket #homebuying #firsttimehomebuyer",
-      "hashtags": [
-        "#SafetrustMortgage",
-        "#MortgageIntelligenceDaily",
-        "#housingmarket",
-        "#homebuying",
-        "#firsttimehomebuyer"
-      ],
-      "hook_tag": "Tecnología de vivienda",
-      "hook": "Los robots de construcción son reales, pero los constructores humanoides son un sueño lejano.",
-      "what_happened_heading": "Los robots entran en las obras por la escasez de mano de obra",
-      "what_happened": "Los robots de construcción se están implementando activamente en las obras para ayudar a resolver la grave escasez de viviendas y las limitaciones de mano de obra en Estados Unidos. Sin embargo, los constructores humanoides totalmente autónomos están lejos de ser una implementación comercial.",
-      "breakdown": [
-        {
-          "heading": "La escasez de mano de obra restringe gravemente la oferta de viviendas",
-          "body": "Estados Unidos no tiene suficientes trabajadores calificados, lo que eleva los costos de construcción y empeora la asequibilidad general de la vivienda."
-        },
-        {
-          "heading": "La automatización especializada asume tareas repetitivas",
-          "body": "Los robots colocan ladrillos y levantan estructuras, pero la maquinaria especializada es muy diferente de los constructores humanoides autónomos."
-        },
-        {
-          "heading": "Evaluando los riesgos de tiempo en construcciones nuevas",
-          "body": "Esto es lo que realmente cambia cuando un expediente llega a evaluación: las fechas de finalización de las tasaciones en construcciones asistidas por tecnología aún enfrentan retrasos regulatorios y de inspecciones."
-        },
-        {
-          "heading": "La tecnología reduce las presiones de costos gradualmente",
-          "body": "La automatización especializada en las obras ayuda a estabilizar los presupuestos de mano de obra, pero las limitaciones de suministro persistirán durante años."
-        }
-      ],
-      "my_take_heading": "La tecnología optimiza la eficiencia de tareas, no la velocidad de aprobación de obras",
-      "my_take": "Las herramientas robóticas para oficios mejoran la eficiencia en la obra, pero el software no puede automatizar las aprobaciones de zonificación local ni los cuellos de botella en la autorización de terrenos.",
-      "action_lo": "Supervisa de cerca los cronogramas de finalización de la construcción para proteger las extensiones de bloqueo en préstamos para nuevas construcciones.",
-      "action_realtor": "Gestiona las expectativas de los compradores sobre las fechas de entrega de nuevas construcciones a pesar de la publicidad del constructor.",
-      "cta_question": "¿Puede la robótica en las obras crecer lo suficientemente rápido como para bajar los precios de las viviendas iniciales en tu mercado?"
+      "my_take_heading": "The workflow revolution",
+      "my_take": "The future belongs to the LO who uses AI as an assistant, not the LO who tries to out-process the machine.",
+      "action_lo": "Audit your CRM follow-up sequences and adopt automated texting tools to catch leads within five minutes.",
+      "action_realtor": "Ask your lending partners what technology they use to keep transactions moving without manual delays.",
+      "cta_question": "Would you trust an AI voice agent to chase your missing borrower documents?"
     }
   ]
 }
