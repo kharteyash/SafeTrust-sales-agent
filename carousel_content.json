@@ -168,5 +168,175 @@
       "action_realtor": "Ask your lending partners what technology they use to keep transactions moving without manual delays.",
       "cta_question": "Would you trust an AI voice agent to chase your missing borrower documents?"
     }
+  ],
+  "carousels_es": [
+    {
+      "slug": "seller-impersonation-fraud",
+      "title": "El fraude de suplantación de identidad del vendedor se duplicó desde 2024",
+      "source": "HousingWire",
+      "source_url": "https://www.housingwire.com/articles/seller-impersonation-fraud-more-than-doubled-since-2024/",
+      "cover_text": "Fraude de vendedores se duplicó. ¿Es seguro tu archivo?",
+      "caption": "El fraude de suplantación de identidad del vendedor se ha duplicado con creces, saltando del 19% al 45% de las empresas que reportan ataques. Esto es lo que significa para tu cierre de bienes raíces.\n\nFuente : https://tinyurl.com/2bml76nh\n#SafetrustMortgage #MortgageIntelligenceDaily #realestateagent #homebuying #mortgagebroker",
+      "hashtags": [
+        "#SafetrustMortgage",
+        "#MortgageIntelligenceDaily",
+        "#realestateagent",
+        "#homebuying",
+        "#mortgagebroker"
+      ],
+      "hook_tag": "Alerta de Fraude",
+      "hook": "El fraude de suplantación de identidad del vendedor se duplicó desde 2024. Tu archivo es un blanco.",
+      "what_happened_heading": "Intentos de fraude aumentan significativamente",
+      "what_happened": "El porcentaje de empresas que reportaron un intento de fraude por suplantación de identidad de un vendedor en el mes anterior subió del 19% al 45%. Los estafadores buscan propiedades sin cargas para robar el capital al momento del cierre.",
+      "breakdown": [
+        {
+          "heading": "El blanco principal",
+          "body": "A los estafadores les encanta la tierra baldía y las casas pagadas. No hay un prestamista hipotecario que verifique la identidad del verdadero dueño."
+        },
+        {
+          "heading": "La realidad del asesor",
+          "body": "Esto es lo que cambia cuando un archivo llega al asesor: ya no solo verificamos los puntajes de crédito. Buscamos huellas digitales profundas."
+        },
+        {
+          "heading": "Fallan verificaciones anticuadas",
+          "body": "Los chequeos de identificación estándar ya no son suficientes. Los criminales usan identificaciones sintéticas de alta calidad que pasan fácilmente las herramientas electrónicas básicas."
+        },
+        {
+          "heading": "La carga de la compañía de títulos",
+          "body": "Los agentes de cierre ahora requieren protocolos de seguridad de notarización remota y procedimientos de devolución de llamada estrictos para atrapar a los impostores antes de transferir fondos."
+        }
+      ],
+      "my_take_heading": "El nuevo riesgo de cierre",
+      "my_take": "Si un vendedor se niega a aparecer en video o usa un notario móvil del que nunca has oído hablar, anula el trato. La velocidad mata la seguridad.",
+      "action_lo": "Verifica cada número de teléfono del vendedor de forma independiente usando registros públicos, nunca el número del contrato entrante.",
+      "action_realtor": "Insiste en reunirte con el vendedor en persona o por videollamada segura verificada antes de listar cualquier propiedad vacía.",
+      "cta_question": "¿Qué está haciendo tu compañía de títulos ahora mismo para detener el robo de identidad en los cierres? Cuéntanos aquí abajo."
+    },
+    {
+      "slug": "colorado-river-water-cuts",
+      "title": "Vienen recortes de agua del Río Colorado. ¿Qué significarán para la vivienda?",
+      "source": "HousingWire",
+      "source_url": "https://www.housingwire.com/articles/colorado-river-rules-lower-basin-cuts/",
+      "cover_text": "Vienen recortes de agua para la vivienda",
+      "caption": "Los recortes de agua del Río Colorado están programados para 2027-2028, reduciendo las entregas en la cuenca baja en 1.25 millones de acres-pie. Así es como impacta a los mercados de vivienda locales.\n\nFuente : https://tinyurl.com/2c3bue4y\n#SafetrustMortgage #MortgageIntelligenceDaily #housingmarket #realestateinvesting #homebuying",
+      "hashtags": [
+        "#SafetrustMortgage",
+        "#MortgageIntelligenceDaily",
+        "#housingmarket",
+        "#realestateinvesting",
+        "#homebuying"
+      ],
+      "hook_tag": "Riesgo de Mercado",
+      "hook": "La escasez de agua dictará dónde la gente puede comprar y construir casas.",
+      "what_happened_heading": "Anunciados recortes masivos en la cuenca",
+      "what_happened": "Las nuevas reglas de 2027 a 2028 reducirán las entregas en la cuenca baja en 1.25 millones de acres-pie. Esto ocurre mientras el Lago Mead se encuentra peligrosamente bajo, al 28% de su capacidad.",
+      "breakdown": [
+        {
+          "heading": "La presión en el lado de la oferta",
+          "body": "Los municipios conectados a la cuenca baja pronto restringirán nuevos permisos de construcción. Sin conexión de agua no hay nuevas urbanizaciones residenciales."
+        },
+        {
+          "heading": "Valores de tasación en riesgo",
+          "body": "Esto es lo que realmente cambia cuando un archivo llega al asesor: los futuros valores de tasación deben considerar la seguridad hídrica municipal a largo plazo."
+        },
+        {
+          "heading": "El costo del crecimiento",
+          "body": "Los desarrolladores pagarán tarifas astronómicas por derechos de agua alternativos, lo que aumentará los precios de las viviendas aunque el inventario esté artificialmente limitado."
+        },
+        {
+          "heading": "Cambios en la migración regional",
+          "body": "Los compradores empezarán a migrar de las zonas desérticas de alto riesgo hacia áreas con reservas de agua seguras, lo que alterará los mapas de demanda de propiedades a largo plazo."
+        }
+      ],
+      "my_take_heading": "La obligación ignorada",
+      "my_take": "Los derechos de agua son los nuevos sitios de desechos tóxicos. Si tu mercado depende del Río Colorado, tu tesis de capital a largo plazo depende de la infraestructura municipal.",
+      "action_lo": "Revisa los límites de suministro de agua municipales locales antes de emitir pre-aprobaciones para nuevas construcciones en submercados desérticos.",
+      "action_realtor": "Educa a los compradores sobre las restricciones de agua municipales y los costos de servicios públicos a largo plazo antes de que hagan ofertas por terrenos áridos.",
+      "cta_question": "¿Están hablando tus desarrolladores locales sobre los límites de agua, o están ignorando las reglas de 2027?"
+    },
+    {
+      "slug": "credit-card-debt-drives-equity",
+      "title": "La deuda de tarjetas de crédito impulsa a los propietarios hacia el capital",
+      "source": "National Mortgage Professional",
+      "source_url": "https://nationalmortgageprofessional.com/news/credit-card-debt-drives-homeowners-toward-equity",
+      "cover_text": "Deuda de tarjeta de crédito libera capital",
+      "caption": "Más de la mitad de los propietarios tienen deudas de tarjetas de crédito, y el 73% cita las altas tasas de interés como el motivo para usar el capital de su vivienda. Esto es lo que está pasando.\n\nFuente : https://tinyurl.com/27ky2229\n#SafetrustMortgage #MortgageIntelligenceDaily #homebuying #mortgagerates #loanofficer",
+      "hashtags": [
+        "#SafetrustMortgage",
+        "#MortgageIntelligenceDaily",
+        "#homebuying",
+        "#mortgagerates",
+        "#loanofficer"
+      ],
+      "hook_tag": "Tendencias del Prestatario",
+      "hook": "Los altos saldos de tarjetas de crédito están forzando a los propietarios a monetizar sus paredes.",
+      "what_happened_heading": "Encuestas revelan presión crediticia",
+      "what_happened": "Una nueva encuesta de Newrez encontró que el 51% de los propietarios mantienen un saldo de tarjeta de crédito mes a mes. Entre ellos, el 61% dijo que los saldos crecieron el año pasado, mientras que el 73% culpó a las altas tasas de interés.",
+      "breakdown": [
+        {
+          "heading": "La trampa rotatoria",
+          "body": "Los consumidores usan tarjetas de crédito para sobrevivir a la inflación, acumulando deudas de alto interés que ahora consumen su flujo de efectivo mensual."
+        },
+        {
+          "heading": "La paradoja del activo",
+          "body": "Estos mismos consumidores tienen niveles históricos de capital en sus viviendas. Usar ese capital es la única salida de las tasas APR del 20% de las tarjetas de crédito."
+        },
+        {
+          "heading": "La realidad del asesor",
+          "body": "Esto es lo que realmente cambia cuando un archivo llega al asesor: vemos caídas masivas en la relación deuda-ingresos si el préstamo de capital elimina la deuda rotatoria."
+        },
+        {
+          "heading": "El auge del segundo gravamen",
+          "body": "Las líneas de crédito con garantía hipotecaria (HELOC) y los segundos préstamos a plazo fijo están en auge porque los propietarios se niegan a tocar sus bajas tasas hipotecarias de primer gravamen."
+        }
+      ],
+      "my_take_heading": "La ola de consolidación de deudas",
+      "my_take": "No estás vendiendo un préstamo; estás vendiendo un rescate financiero. Presenta los productos de capital como eliminadores de tarjetas, no herramientas de mejora del hogar.",
+      "action_lo": "Haz una revisión de cartera para clientes anteriores mostrando cómo una HELOC (línea de crédito con garantía hipotecaria) elimina sus pagos de tarjetas rotatorios.",
+      "action_realtor": "Asóciate con prestamistas locales para ofrecer revisiones de salud financiera a tu círculo de compradores anteriores.",
+      "cta_question": "¿Estás viendo más solicitudes de segundos gravámenes para consolidación de deudas o renovaciones hoy?"
+    },
+    {
+      "slug": "figure-ai-heloc-conversions",
+      "title": "Figure dice que emparejar IA con originadores elevó las conversiones de HELOC en un 143%",
+      "source": "National Mortgage Professional",
+      "source_url": "https://nationalmortgageprofessional.com/news/figure-says-pairing-ai-originators-lifted-heloc-conversions-143",
+      "cover_text": "Agentes de IA aumentan conversiones de préstamos un 143%",
+      "caption": "Figure reporta un aumento del 143% en las HELOCs (líneas de crédito con garantía hipotecaria) financiadas al emparejar agentes de IA con originadores humanos. Así es como la automatización cambia las matemáticas del proceso.\n\nFuente : https://tinyurl.com/2de2u6qg\n#SafetrustMortgage #MortgageIntelligenceDaily #loanofficer #mortgagerates #mortgagebroker",
+      "hashtags": [
+        "#SafetrustMortgage",
+        "#MortgageIntelligenceDaily",
+        "#loanofficer",
+        "#mortgagerates",
+        "#mortgagebroker"
+      ],
+      "hook_tag": "PropTech AI",
+      "hook": "La inteligencia artificial está duplicando en silencio las tasas de conversión de los oficiales de préstamos en tiempo real.",
+      "what_happened_heading": "Se reporta un aumento drástico en la conversión",
+      "what_happened": "Figure Technology Solutions dice que un agente de inteligencia artificial trabajando junto a los originadores de préstamos aumentó la conversión de préstamos financiados en un 143% en comparación con los originadores trabajando solos. El agente impulsado por Sierra contacta a los solicitantes de capital de vivienda estancados por voz y texto durante varios días.",
+      "breakdown": [
+        {
+          "heading": "Cerrando la brecha",
+          "body": "La mayoría de los leads se estancan porque los originadores se ocupan y no dan seguimiento rápidamente. La IA interviene para mantener el contacto inmediato."
+        },
+        {
+          "heading": "Automatizando el trabajo duro",
+          "body": "El agente de IA ayuda a los prestatarios a completar tareas tediosas como la autorización de crédito, verificación de identidad y vinculación de cuentas bancarias sin retrasos humanos."
+        },
+        {
+          "heading": "El beneficio del asesor",
+          "body": "Esto es lo que realmente cambia cuando un archivo llega al asesor: los archivos llegan más limpios, más rápido y con menos páginas de estados de cuenta faltantes."
+        },
+        {
+          "heading": "El cambio humano",
+          "body": "Los oficiales de préstamos dejan de perseguir documentos y empiezan a estructurar préstamos. La tecnología se encarga del trabajo administrativo pesado."
+        }
+      ],
+      "my_take_heading": "La revolución del flujo de trabajo",
+      "my_take": "El futuro pertenece al oficial de préstamos que usa la IA como asistente, no al oficial de préstamos que intenta superar a la máquina.",
+      "action_lo": "Audita tus secuencias de seguimiento de CRM y adopta herramientas de mensajes de texto automatizados para captar leads en cinco minutos.",
+      "action_realtor": "Pregunta a tus socios prestamistas qué tecnología usan para mantener las transacciones en movimiento sin demoras manuales.",
+      "cta_question": "¿Confiarías en un agente de voz de IA para buscar tus documentos de prestatario faltantes?"
+    }
   ]
 }
