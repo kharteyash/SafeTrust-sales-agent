@@ -168,5 +168,175 @@
       "action_realtor": "Shift seller expectations away from peak market pricing and focus heavily on terms, concessions, and realistic budgeting.",
       "cta_question": "How are you adjusting your buyer consultations to account for rates sitting a full point higher than last year?"
     }
+  ],
+  "carousels_es": [
+    {
+      "slug": "baltimore-dscr-fraud-scheme",
+      "title": "Ameritrust demanda a inversionistas y brókeres por una pérdida de $14 millones en un esquema de fraude en Baltimore",
+      "source": "HousingWire",
+      "source_url": "https://www.housingwire.com/articles/ameritrust-mortgage-sues-over-14m-baltimore-dscr-fraud-scheme/",
+      "cover_text": "El fraude de $14 millones a la vista.",
+      "caption": "Una demanda masiva por fraude de $14 millones en Baltimore expone fallas evidentes en la evaluación de préstamos DSCR. Cuando los prestamistas confían demasiado en las tasaciones en papel sin una verificación rigurosa, las inversiones de alto riesgo se les escapan. Así es como las tasaciones prefabricadas y las lagunas en los títulos evitaron los controles, y por qué los actores del mercado secundario están endureciendo los requisitos para los préstamos Non-QM.\n\nFuente : https://tinyurl.com/27thfzc9\n#SafetrustMortgage #MortgageIntelligenceDaily #mortgagerates #housingmarket #realestateinvesting",
+      "hashtags": [
+        "#SafetrustMortgage",
+        "#MortgageIntelligenceDaily",
+        "#mortgagerates",
+        "#housingmarket",
+        "#realestateinvesting"
+      ],
+      "hook_tag": "Riesgo de Evaluación",
+      "hook": "Un fraude en Baltimore de $14 millones se saltó los controles Non-QM estándar.",
+      "what_happened_heading": "La demanda de fraude de $14 millones",
+      "what_happened": "Ameritrust presentó una demanda contra inversionistas y brókeres por una pérdida de $14 millones en un esquema de fraude en Baltimore. La demanda alega que la operación se basó en aumentos de valor del 300% en propiedades, tasaciones prefabricadas y lagunas intencionales en los títulos de propiedad.",
+      "breakdown": [
+        {
+          "heading": "La trampa del aumento del 300%",
+          "body": "Los estafadores revendían rápidamente casas baratas a entidades ficticias, inflando los valores hasta en un 300% antes de pedir financiamiento."
+        },
+        {
+          "heading": "Fallos en las tasaciones prefabricadas",
+          "body": "Se solicitaban tasaciones a través de redes cautivas para respaldar los contratos de compra inflados, sin una validación de mercado independiente."
+        },
+        {
+          "heading": "Desde la perspectiva del asesor",
+          "body": "Esto es lo que realmente cambia cuando un expediente llega a evaluación: las tasaciones automatizadas se descartan para revisiones manuales de cambios rápidos de título."
+        },
+        {
+          "heading": "Explotación de lagunas en títulos",
+          "body": "Los conspiradores ocultaron historiales de transacciones recientes, aprovechando lagunas en los registros públicos antes de la financiación final del préstamo."
+        }
+      ],
+      "my_take_heading": "El costo oculto de la velocidad",
+      "my_take": "Cuando los originadores exigen tiempos de respuesta más rápidos en productos Non-QM, la detección de fraudes suele ser la primera víctima en la lista.",
+      "action_lo": "Revisa el historial de rechazos y la tasa de reventa de tus socios brókeres antes de enviar archivos de inversionistas complejos.",
+      "action_realtor": "Verifica la verdadera cadena de título de cualquier propiedad que haya cambiado de manos varias veces en los últimos seis meses.",
+      "cta_question": "¿Tus inversionistas actuales de Non-QM ya están endureciendo las pautas para los cambios rápidos de título? Deja tu opinión abajo."
+    },
+    {
+      "slug": "credit-card-debt-home-equity",
+      "title": "La deuda de tarjetas de crédito impulsa a los propietarios hacia el capital hipotecario",
+      "source": "National Mortgage Professional",
+      "source_url": "https://nationalmortgageprofessional.com/news/credit-card-debt-drives-homeowners-toward-equity",
+      "cover_text": "La deuda de tarjetas de crédito libera capital hipotecario.",
+      "caption": "Más de la mitad de los propietarios tienen saldos rotatorios de tarjetas de crédito, y las altas tasas de interés los están llevando a usar el capital de su vivienda para obtener alivio. Una nueva encuesta de Newrez muestra que la deuda de tarjetas de crédito es un motor principal para préstamos respaldados por el capital. Así es como los originadores pueden ofrecer opciones de capital hipotecario de manera segura sin crear una trampa de deuda.\n\nFuente : https://tinyurl.com/27ky2229\n#SafetrustMortgage #MortgageIntelligenceDaily #housingmarket #homebuying #mortgagebroker",
+      "hashtags": [
+        "#SafetrustMortgage",
+        "#MortgageIntelligenceDaily",
+        "#housingmarket",
+        "#homebuying",
+        "#mortgagebroker"
+      ],
+      "hook_tag": "Deuda del Consumidor",
+      "hook": "El 51% de los propietarios tiene deuda de tarjetas de crédito, impulsando la demanda de capital.",
+      "what_happened_heading": "Los hallazgos de la nueva encuesta de Newrez",
+      "what_happened": "Una reciente encuesta de Newrez reveló que el 51% de los propietarios mantienen un saldo de tarjeta de crédito de mes a mes. Entre los que tienen deuda rotatoria, el 61% dijo que los saldos aumentaron el último año, y el 73% citó las altas tasas de interés como el principal problema.",
+      "breakdown": [
+        {
+          "heading": "La presión que se acumula",
+          "body": "Las tasas de interés asombrosas de las tarjetas de crédito están agotando los ahorros y obligando a los consumidores a buscar fuentes de financiación alternativas."
+        },
+        {
+          "heading": "El capital como vía de escape",
+          "body": "Los propietarios con plusvalía considerable ven cada vez más el capital de su propiedad como la única forma viable de escapar de la deuda con intereses altos."
+        },
+        {
+          "heading": "Desde la perspectiva del asesor",
+          "body": "Esto es lo que realmente cambia cuando un expediente llega a evaluación: las líneas de crédito con garantía hipotecaria (HELOC) para consolidación de deudas requieren verificación estricta de que las líneas no garantizadas se cierran al pagar."
+        },
+        {
+          "heading": "El riesgo de volver a endeudarse",
+          "body": "Sin asesoramiento financiero estricto, los prestatarios que pagan sus tarjetas de crédito con capital hipotecario a menudo vuelven a acumular saldos elevados."
+        }
+      ],
+      "my_take_heading": "Un parche temporal para una fuga estructural",
+      "my_take": "Consolidar la deuda de tarjetas de crédito en un producto hipotecario es una salvación solo si el comportamiento de gasto subyacente cambia al día siguiente.",
+      "action_lo": "Comunícate proactivamente con clientes anteriores, analizando la consolidación de deuda y comparando las tasas APR de tarjetas de crédito con las de HELOC.",
+      "action_realtor": "Identifica a clientes que tienen dificultades con las deudas mensuales y conéctalos con prestamistas de confianza para una revisión integral.",
+      "cta_question": "¿Cómo aconsejas a los clientes que quieren usar el capital de su vivienda para pagar deudas rotatorias no garantizadas?"
+    },
+    {
+      "slug": "ai-heloc-conversions-figure",
+      "title": "Figure dice que emparejar IA con originadores aumentó las conversiones de HELOC en un 143%",
+      "source": "National Mortgage Professional",
+      "source_url": "https://nationalmortgageprofessional.com/news/figure-says-pairing-ai-originators-lifted-heloc-conversions-143",
+      "cover_text": "La IA duplicó las conversiones de HELOC.",
+      "caption": "Figure Technology Solutions reporta que al combinar agentes de inteligencia artificial con originadores humanos, las conversiones de préstamos financiados aumentaron un 143%. Al automatizar el contacto con solicitantes estancados por voz y texto, los prestamistas pueden recuperar clientes que los equipos humanos simplemente pasan por alto. Así es como el 'nurturing' automatizado está cambiando las operaciones hipotecarias al inicio del embudo.\n\nFuente : https://tinyurl.com/2de2u6qg\n#SafetrustMortgage #MortgageIntelligenceDaily #mortgagebroker #loanofficer #housingmarket",
+      "hashtags": [
+        "#SafetrustMortgage",
+        "#MortgageIntelligenceDaily",
+        "#mortgagebroker",
+        "#loanofficer",
+        "#housingmarket"
+      ],
+      "hook_tag": "Tecnología de la Industria",
+      "hook": "Cómo un agente de IA aumentó las conversiones de HELOC en un 143% para Figure.",
+      "what_happened_heading": "Los resultados de la tecnología Figure",
+      "what_happened": "Figure Technology Solutions anunció que un agente de inteligencia artificial, trabajando junto con originadores de préstamos humanos, aumentó la conversión de préstamos financiados en un 143%. La herramienta gestiona el contacto por voz y texto durante varios días para ayudar a los solicitantes estancados.",
+      "breakdown": [
+        {
+          "heading": "Automatizando el seguimiento",
+          "body": "El agente con tecnología Sierra contacta a prospectos que se estancan en los pasos iniciales de la solicitud, como la verificación de identidad y la vinculación bancaria."
+        },
+        {
+          "heading": "Ahorrando tiempo al oficial de préstamos",
+          "body": "En lugar de buscar documentos manualmente, los originadores intervienen solo después de que la IA ha preparado y calificado al prospecto activo."
+        },
+        {
+          "heading": "Desde la perspectiva del asesor",
+          "body": "Esto es lo que realmente cambia cuando un expediente llega a evaluación: cargas iniciales de documentos más limpias significan menos vaivenes durante el procesamiento."
+        },
+        {
+          "heading": "Cerrando la brecha de abandono",
+          "body": "La mayoría de las solicitudes digitales mueren porque los prestatarios se confunden en la etapa de vinculación bancaria; los mensajes de texto automatizados reviven exitosamente esos clientes potenciales perdidos."
+        }
+      ],
+      "my_take_heading": "La IA reemplaza al administrativo, no al asesor",
+      "my_take": "El futuro pertenece a los oficiales de préstamos que usan la IA para manejar el seguimiento tedioso y así poder dedicar el 100% de su tiempo a asesorar.",
+      "action_lo": "Audita los flujos de texto automatizados de tu CRM para ver dónde estás perdiendo solicitantes de HELOC en las primeras 48 horas.",
+      "action_realtor": "Asóciate con prestamistas que utilicen portales digitales rápidos y modernos para mantener a tus compradores mutuos interesados desde el primer día.",
+      "cta_question": "¿Ya utilizas herramientas automatizadas de IA de voz o texto en tu proceso de originación?"
+    },
+    {
+      "slug": "mortgage-rates-one-year-higher",
+      "title": "Las tasas hipotecarias están ahora un 1% más altas que hace un año",
+      "source": "The Truth About Mortgage",
+      "source_url": "https://www.thetruthaboutmortgage.com/mortgage-rates-are-now-1-higher-than-they-were-a-year-ago/",
+      "cover_text": "Las tasas un punto porcentual más altas que el año pasado.",
+      "caption": "La tasa hipotecaria fija a 30 años está casi exactamente un punto porcentual más alta que en septiembre pasado. A pesar de las predicciones persistentes de alivio, el mercado de bonos sigue encontrando razones para venderse. Así es lo que este salto de 100 puntos básicos significa para los compradores y la gestión de procesos.\n\nFuente : https://tinyurl.com/2yd5w5ns\n#SafetrustMortgage #MortgageIntelligenceDaily #mortgagerates #housingmarket #homebuying",
+      "hashtags": [
+        "#SafetrustMortgage",
+        "#MortgageIntelligenceDaily",
+        "#mortgagerates",
+        "#housingmarket",
+        "#homebuying"
+      ],
+      "hook_tag": "Entorno de Tasas",
+      "hook": "La tasa fija a 30 años es oficialmente 100 puntos básicos más alta que el año pasado.",
+      "what_happened_heading": "El salto de tasas año tras año",
+      "what_happened": "Los posibles compradores de vivienda se enfrentan actualmente a una tasa hipotecaria fija a 30 años que es casi exactamente 100 puntos básicos más alta que en septiembre del año pasado. La persistente venta en el mercado de bonos ha empujado las tasas más altas a nuevos máximos a largo plazo.",
+      "breakdown": [
+        {
+          "heading": "Desafiando el consenso",
+          "body": "La mayoría de los pronósticos de mercado de hace un año anticipaban una flexibilización de las tasas para ahora, haciendo de este aumento del 1% una sorpresa dolorosa para los compradores."
+        },
+        {
+          "heading": "La presión de la asequibilidad",
+          "body": "Cada aumento de un punto porcentual en las tasas expulsa a millones de posibles compradores de los mercados de vivienda de precio medio en todo el país."
+        },
+        {
+          "heading": "Desde la perspectiva del asesor",
+          "body": "Esto es lo que realmente cambia cuando un expediente llega a evaluación: los límites de la relación deuda-ingresos (DTI) se comprimen más en cada calificación."
+        },
+        {
+          "heading": "Efecto de bloqueo de refinanciamiento",
+          "body": "Los propietarios existentes con tasas por debajo del 4% se quedan donde están, lo que limita el inventario y mantiene el volumen de compras dependiente de cambios en la vida."
+        }
+      ],
+      "my_take_heading": "Deja de esperar una tasa del 5%",
+      "my_take": "Si tu modelo de negocio completo depende de que las tasas bajen a mínimos históricos, estás apostando a la esperanza en lugar de gestionar tu proceso.",
+      "action_lo": "Educa a los compradores sobre productos de tasa ajustable y 'buy-downs' temporales para combatir el entorno actual de tasas.",
+      "action_realtor": "Cambia las expectativas de los vendedores lejos de los precios máximos del mercado y concéntrate en los términos, concesiones y presupuestos realistas.",
+      "cta_question": "¿Cómo estás ajustando tus consultas con compradores para considerar que las tasas están un punto completo más altas que el año pasado?"
+    }
   ]
 }
