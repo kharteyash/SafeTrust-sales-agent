@@ -1,342 +1,172 @@
 {
   "carousels": [
     {
-      "slug": "seller-impersonation-fraud",
-      "title": "Seller impersonation fraud more than doubled since 2024",
+      "slug": "baltimore-dscr-fraud-scheme",
+      "title": "Ameritrust sues investors, brokers over $14M loss in Baltimore fraud scheme",
       "source": "HousingWire",
-      "source_url": "https://www.housingwire.com/articles/seller-impersonation-fraud-more-than-doubled-since-2024/",
-      "cover_text": "Seller fraud doubled. Is your file safe?",
-      "caption": "Seller impersonation fraud has more than doubled, jumping from 19% to 45% of firms reporting attacks. Here is what this means for your closing table.\n\nSource : https://tinyurl.com/2bml76nh\n#SafetrustMortgage #MortgageIntelligenceDaily #realestateagent #homebuying #mortgagebroker",
+      "source_url": "https://www.housingwire.com/articles/ameritrust-mortgage-sues-over-14m-baltimore-dscr-fraud-scheme/",
+      "cover_text": "The $14m fraud scheme hiding in plain sight.",
+      "caption": "A massive $14 million fraud lawsuit in Baltimore exposes glaring flaws in DSCR loan underwriting. When lenders rely too heavily on paper valuations without rigorous verification, high-risk flips slip right through the cracks. Here is a look at how prepackaged appraisals and title gaps bypassed controls, and why secondary market players are tightening the screws on non-QM files.\n\nSource : https://tinyurl.com/27thfzc9\n#SafetrustMortgage #MortgageIntelligenceDaily #mortgagerates #housingmarket #realestateinvesting",
       "hashtags": [
         "#SafetrustMortgage",
         "#MortgageIntelligenceDaily",
-        "#realestateagent",
-        "#homebuying",
-        "#mortgagebroker"
-      ],
-      "hook_tag": "Fraud Alert",
-      "hook": "Seller impersonation fraud has more than doubled since 2024. Your file is a target.",
-      "what_happened_heading": "Fraud attempts jump significantly",
-      "what_happened": "The share of firms reporting a seller impersonation fraud attempt in the prior month rose from 19% to 45%. Scammers are increasingly targeting unencumbered properties to steal equity at closing.",
-      "breakdown": [
-        {
-          "heading": "The primary target",
-          "body": "Scammers love vacant land and homes owned free and clear. There is no existing mortgage lender to verify the identity of the true owner."
-        },
-        {
-          "heading": "The underwriting reality",
-          "body": "Here is what this actually changes when a file hits underwriting: we are no longer just checking credit scores. We are hunting deep digital footprints."
-        },
-        {
-          "heading": "Outdated verification fails",
-          "body": "Standard ID checks are no longer enough. Criminals use high-end synthetic IDs that easily pass basic electronic screening tools."
-        },
-        {
-          "heading": "The title company burden",
-          "body": "Closing agents now require independent remote online notarization security protocols and strict callback procedures to catch imposters before funds wire."
-        }
-      ],
-      "my_take_heading": "The new closing risk",
-      "my_take": "If a seller refuses to show up on video or uses a mobile notary you have never heard of, kill the deal. Speed kills safety.",
-      "action_lo": "Verify every seller phone number independently using public records, never the number on the incoming contract.",
-      "action_realtor": "Insist on meeting the seller face-to-face or via a verified secure video call before listing any vacant property.",
-      "cta_question": "What is your title company doing right now to stop identity theft at closing doors? Let us know below."
-    },
-    {
-      "slug": "colorado-river-water-cuts",
-      "title": "Colorado River water cuts are coming. What will they mean for housing?",
-      "source": "HousingWire",
-      "source_url": "https://www.housingwire.com/articles/colorado-river-rules-lower-basin-cuts/",
-      "cover_text": "Water cuts are coming for housing markets",
-      "caption": "Colorado River water cuts are set for 2027 to 2028, cutting lower basin deliveries by 1.25 million acre-feet. Here is how it impacts local housing markets.\n\nSource : https://tinyurl.com/2c3bue4y\n#SafetrustMortgage #MortgageIntelligenceDaily #housingmarket #realestateinvesting #homebuying",
-      "hashtags": [
-        "#SafetrustMortgage",
-        "#MortgageIntelligenceDaily",
+        "#mortgagerates",
         "#housingmarket",
-        "#realestateinvesting",
-        "#homebuying"
+        "#realestateinvesting"
       ],
-      "hook_tag": "Market Risk",
-      "hook": "Water scarcity is about to dictate where people can buy and build homes.",
-      "what_happened_heading": "Massive basin cuts announced",
-      "what_happened": "New 2027 to 2028 rules will cut lower basin deliveries by 1.25 million acre-feet. This comes as Lake Mead sits dangerously low at 28% capacity.",
+      "hook_tag": "Underwriting Risk",
+      "hook": "How a $14 million Baltimore fraud scheme bypassed standard non-QM controls.",
+      "what_happened_heading": "The $14m fraud lawsuit",
+      "what_happened": "Ameritrust filed a lawsuit against investors and brokers over a $14 million loss involving a Baltimore fraud scheme. The complaint alleges the operation relied on 300% property markups, prepackaged appraisals, and intentional title gaps.",
       "breakdown": [
         {
-          "heading": "The supply side squeeze",
-          "body": "Municipalities tied to the lower basin will soon restrict new building permits. No water hookup means no new residential subdivisions."
+          "heading": "The 300% markup trap",
+          "body": "Fraudsters rapidly flipped cheap row homes to shell entities, inflating values by up to 300% before applying for financing."
         },
         {
-          "heading": "Appraisal values at risk",
-          "body": "Here is what this actually changes when a file hits underwriting: future appraisal values must factor in long-term municipal water security."
+          "heading": "Prepackaged appraisal flaws",
+          "body": "Appraisals were ordered through captive networks to support the inflated purchase contracts without independent market validation."
         },
         {
-          "heading": "The cost of growth",
-          "body": "Developers will pay astronomical fees for alternative water rights, pushing home prices up even as inventory remains artificially constrained."
+          "heading": "The underwriter lens",
+          "body": "Here is what this actually changes when a file hits underwriting: automated valuations are getting tossed for manual desk reviews on rapid-fire chain-of-title flips."
         },
         {
-          "heading": "Regional migration shifts",
-          "body": "Buyers will start migrating away from high-risk desert metros toward areas with secure water tables, altering long-term property demand maps."
+          "heading": "Title gap exploitation",
+          "body": "Conspirators hid recent transaction histories by exploiting timing gaps in public records before final loan funding occurred."
         }
       ],
-      "my_take_heading": "The overlooked liability",
-      "my_take": "Water rights are the new toxic waste sites. If your market relies on the Colorado River, your long-term equity thesis depends on municipal infrastructure.",
-      "action_lo": "Review local municipal water supply caps before issuing pre-approvals for new construction builds in desert submarkets.",
-      "action_realtor": "Educate buyers on municipal water restrictions and long-term utility costs before they make offers on arid land.",
-      "cta_question": "Are your local developers talking about water caps yet, or are they ignoring the 2027 rules?"
+      "my_take_heading": "The hidden cost of speed",
+      "my_take": "When originators demand faster turn times on non-QM products, fraud detection is usually the first casualty on the chopping block.",
+      "action_lo": "Review your broker partners' historical fallout and flip ratios before submitting complex investor files.",
+      "action_realtor": "Verify the true chain of title on any listing that has changed hands multiple times in the last six months.",
+      "cta_question": "Are your current non-QM investors tightening guidelines on rapid chain-of-title flips yet? Drop your take below."
     },
     {
-      "slug": "credit-card-debt-drives-equity",
+      "slug": "credit-card-debt-home-equity",
       "title": "Credit Card Debt Drives Homeowners Toward Equity",
       "source": "National Mortgage Professional",
       "source_url": "https://nationalmortgageprofessional.com/news/credit-card-debt-drives-homeowners-toward-equity",
-      "cover_text": "Credit card debt is unlocking home equity",
-      "caption": "Over half of homeowners carry credit card debt, and 73% cite high interest rates as the push to tap home equity. Here is what is happening.\n\nSource : https://tinyurl.com/27ky2229\n#SafetrustMortgage #MortgageIntelligenceDaily #homebuying #mortgagerates #loanofficer",
-      "hashtags": [
-        "#SafetrustMortgage",
-        "#MortgageIntelligenceDaily",
-        "#homebuying",
-        "#mortgagerates",
-        "#loanofficer"
-      ],
-      "hook_tag": "Borrower Trends",
-      "hook": "High credit card balances are forcing homeowners to monetize their walls.",
-      "what_happened_heading": "Surveys reveal credit pressure",
-      "what_happened": "A new Newrez survey found that 51% of homeowners carry a credit card balance from month to month. Among those, 61% said balances grew over the past year while 73% blamed high interest rates.",
-      "breakdown": [
-        {
-          "heading": "The revolving trap",
-          "body": "Consumers are using credit cards to survive inflation, accumulating high-interest debt that now eats up their monthly cash flow."
-        },
-        {
-          "heading": "The asset paradox",
-          "body": "These same consumers are sitting on historic levels of home equity. Tapping that equity is the only escape hatch from 20% credit card APRs."
-        },
-        {
-          "heading": "The underwriting reality",
-          "body": "Here is what this actually changes when a file hits underwriting: we see massive debt-to-income drops if the equity loan wipes out the revolving debt."
-        },
-        {
-          "heading": "The second lien surge",
-          "body": "Home equity lines and closed-end seconds are booming because homeowners refuse to touch their low first-lien mortgage rates."
-        }
-      ],
-      "my_take_heading": "The debt consolidation wave",
-      "my_take": "You are not selling a loan; you are selling financial rescue. Frame equity products as card-killers, not home improvement tools.",
-      "action_lo": "Run a portfolio review for past clients showing how a HELOC (home equity line of credit) wipes out their revolving card payments.",
-      "action_realtor": "Partner with local lenders to offer financial health checkups to your past buyer sphere.",
-      "cta_question": "Are you seeing more second lien requests for debt consolidation or home renovations today?"
-    },
-    {
-      "slug": "figure-ai-heloc-conversions",
-      "title": "Figure Says Pairing AI With Originators Lifted HELOC Conversions 143%",
-      "source": "National Mortgage Professional",
-      "source_url": "https://nationalmortgageprofessional.com/news/figure-says-pairing-ai-originators-lifted-heloc-conversions-143",
-      "cover_text": "AI agents boost loan conversions by 143%",
-      "caption": "Figure reports a 143% increase in funded HELOCs by pairing AI agents with human originators. Here is how automation changes pipeline math.\n\nSource : https://tinyurl.com/2de2u6qg\n#SafetrustMortgage #MortgageIntelligenceDaily #loanofficer #mortgagerates #mortgagebroker",
-      "hashtags": [
-        "#SafetrustMortgage",
-        "#MortgageIntelligenceDaily",
-        "#loanofficer",
-        "#mortgagerates",
-        "#mortgagebroker"
-      ],
-      "hook_tag": "PropTech AI",
-      "hook": "Artificial intelligence is quietly doubling loan officer conversion rates in real time.",
-      "what_happened_heading": "Dramatic conversion lift reported",
-      "what_happened": "Figure Technology Solutions says an artificial intelligence agent working alongside loan originators increased funded-loan conversion by 143% compared with originators working alone. The Sierra-powered agent contacts stalled home equity applicants by voice and text over several days.",
-      "breakdown": [
-        {
-          "heading": "Bridging the gap",
-          "body": "Most leads stall because originators get busy and fail to follow up quickly. AI steps in to maintain immediate contact."
-        },
-        {
-          "heading": "Automating the grind",
-          "body": "The AI agent helps borrowers complete tedious tasks like credit authorization, identity verification, and bank-account linking without human delay."
-        },
-        {
-          "heading": "The underwriting benefit",
-          "body": "Here is what this actually changes when a file hits underwriting: files arrive cleaner, faster, and with fewer missing bank statement pages."
-        },
-        {
-          "heading": "The human shift",
-          "body": "Loan officers stop chasing documents and start structuring loans. Technology takes over the administrative heavy lifting."
-        }
-      ],
-      "my_take_heading": "The workflow revolution",
-      "my_take": "The future belongs to the LO who uses AI as an assistant, not the LO who tries to out-process the machine.",
-      "action_lo": "Audit your CRM follow-up sequences and adopt automated texting tools to catch leads within five minutes.",
-      "action_realtor": "Ask your lending partners what technology they use to keep transactions moving without manual delays.",
-      "cta_question": "Would you trust an AI voice agent to chase your missing borrower documents?"
-    }
-  ],
-  "carousels_es": [
-    {
-      "slug": "seller-impersonation-fraud",
-      "title": "El fraude de suplantación de identidad del vendedor se duplicó desde 2024",
-      "source": "HousingWire",
-      "source_url": "https://www.housingwire.com/articles/seller-impersonation-fraud-more-than-doubled-since-2024/",
-      "cover_text": "Fraude de vendedores se duplicó. ¿Es seguro tu archivo?",
-      "caption": "El fraude de suplantación de identidad del vendedor se ha duplicado con creces, saltando del 19% al 45% de las empresas que reportan ataques. Esto es lo que significa para tu cierre de bienes raíces.\n\nFuente : https://tinyurl.com/2bml76nh\n#SafetrustMortgage #MortgageIntelligenceDaily #realestateagent #homebuying #mortgagebroker",
-      "hashtags": [
-        "#SafetrustMortgage",
-        "#MortgageIntelligenceDaily",
-        "#realestateagent",
-        "#homebuying",
-        "#mortgagebroker"
-      ],
-      "hook_tag": "Alerta de Fraude",
-      "hook": "El fraude de suplantación de identidad del vendedor se duplicó desde 2024. Tu archivo es un blanco.",
-      "what_happened_heading": "Intentos de fraude aumentan significativamente",
-      "what_happened": "El porcentaje de empresas que reportaron un intento de fraude por suplantación de identidad de un vendedor en el mes anterior subió del 19% al 45%. Los estafadores buscan propiedades sin cargas para robar el capital al momento del cierre.",
-      "breakdown": [
-        {
-          "heading": "El blanco principal",
-          "body": "A los estafadores les encanta la tierra baldía y las casas pagadas. No hay un prestamista hipotecario que verifique la identidad del verdadero dueño."
-        },
-        {
-          "heading": "La realidad del asesor",
-          "body": "Esto es lo que cambia cuando un archivo llega al asesor: ya no solo verificamos los puntajes de crédito. Buscamos huellas digitales profundas."
-        },
-        {
-          "heading": "Fallan verificaciones anticuadas",
-          "body": "Los chequeos de identificación estándar ya no son suficientes. Los criminales usan identificaciones sintéticas de alta calidad que pasan fácilmente las herramientas electrónicas básicas."
-        },
-        {
-          "heading": "La carga de la compañía de títulos",
-          "body": "Los agentes de cierre ahora requieren protocolos de seguridad de notarización remota y procedimientos de devolución de llamada estrictos para atrapar a los impostores antes de transferir fondos."
-        }
-      ],
-      "my_take_heading": "El nuevo riesgo de cierre",
-      "my_take": "Si un vendedor se niega a aparecer en video o usa un notario móvil del que nunca has oído hablar, anula el trato. La velocidad mata la seguridad.",
-      "action_lo": "Verifica cada número de teléfono del vendedor de forma independiente usando registros públicos, nunca el número del contrato entrante.",
-      "action_realtor": "Insiste en reunirte con el vendedor en persona o por videollamada segura verificada antes de listar cualquier propiedad vacía.",
-      "cta_question": "¿Qué está haciendo tu compañía de títulos ahora mismo para detener el robo de identidad en los cierres? Cuéntanos aquí abajo."
-    },
-    {
-      "slug": "colorado-river-water-cuts",
-      "title": "Vienen recortes de agua del Río Colorado. ¿Qué significarán para la vivienda?",
-      "source": "HousingWire",
-      "source_url": "https://www.housingwire.com/articles/colorado-river-rules-lower-basin-cuts/",
-      "cover_text": "Vienen recortes de agua para la vivienda",
-      "caption": "Los recortes de agua del Río Colorado están programados para 2027-2028, reduciendo las entregas en la cuenca baja en 1.25 millones de acres-pie. Así es como impacta a los mercados de vivienda locales.\n\nFuente : https://tinyurl.com/2c3bue4y\n#SafetrustMortgage #MortgageIntelligenceDaily #housingmarket #realestateinvesting #homebuying",
+      "cover_text": "Credit card debt is unlocking home equity.",
+      "caption": "More than half of homeowners are carrying revolving credit card balances, and high interest rates are pushing them to tap their home equity for relief. A new Newrez survey shows that credit card debt is becoming a primary driver for equity-based borrowing. Here is how originators can position home equity options safely without triggering a debt trap.\n\nSource : https://tinyurl.com/27ky2229\n#SafetrustMortgage #MortgageIntelligenceDaily #housingmarket #homebuying #mortgagebroker",
       "hashtags": [
         "#SafetrustMortgage",
         "#MortgageIntelligenceDaily",
         "#housingmarket",
-        "#realestateinvesting",
-        "#homebuying"
-      ],
-      "hook_tag": "Riesgo de Mercado",
-      "hook": "La escasez de agua dictará dónde la gente puede comprar y construir casas.",
-      "what_happened_heading": "Anunciados recortes masivos en la cuenca",
-      "what_happened": "Las nuevas reglas de 2027 a 2028 reducirán las entregas en la cuenca baja en 1.25 millones de acres-pie. Esto ocurre mientras el Lago Mead se encuentra peligrosamente bajo, al 28% de su capacidad.",
-      "breakdown": [
-        {
-          "heading": "La presión en el lado de la oferta",
-          "body": "Los municipios conectados a la cuenca baja pronto restringirán nuevos permisos de construcción. Sin conexión de agua no hay nuevas urbanizaciones residenciales."
-        },
-        {
-          "heading": "Valores de tasación en riesgo",
-          "body": "Esto es lo que realmente cambia cuando un archivo llega al asesor: los futuros valores de tasación deben considerar la seguridad hídrica municipal a largo plazo."
-        },
-        {
-          "heading": "El costo del crecimiento",
-          "body": "Los desarrolladores pagarán tarifas astronómicas por derechos de agua alternativos, lo que aumentará los precios de las viviendas aunque el inventario esté artificialmente limitado."
-        },
-        {
-          "heading": "Cambios en la migración regional",
-          "body": "Los compradores empezarán a migrar de las zonas desérticas de alto riesgo hacia áreas con reservas de agua seguras, lo que alterará los mapas de demanda de propiedades a largo plazo."
-        }
-      ],
-      "my_take_heading": "La obligación ignorada",
-      "my_take": "Los derechos de agua son los nuevos sitios de desechos tóxicos. Si tu mercado depende del Río Colorado, tu tesis de capital a largo plazo depende de la infraestructura municipal.",
-      "action_lo": "Revisa los límites de suministro de agua municipales locales antes de emitir pre-aprobaciones para nuevas construcciones en submercados desérticos.",
-      "action_realtor": "Educa a los compradores sobre las restricciones de agua municipales y los costos de servicios públicos a largo plazo antes de que hagan ofertas por terrenos áridos.",
-      "cta_question": "¿Están hablando tus desarrolladores locales sobre los límites de agua, o están ignorando las reglas de 2027?"
-    },
-    {
-      "slug": "credit-card-debt-drives-equity",
-      "title": "La deuda de tarjetas de crédito impulsa a los propietarios hacia el capital",
-      "source": "National Mortgage Professional",
-      "source_url": "https://nationalmortgageprofessional.com/news/credit-card-debt-drives-homeowners-toward-equity",
-      "cover_text": "Deuda de tarjeta de crédito libera capital",
-      "caption": "Más de la mitad de los propietarios tienen deudas de tarjetas de crédito, y el 73% cita las altas tasas de interés como el motivo para usar el capital de su vivienda. Esto es lo que está pasando.\n\nFuente : https://tinyurl.com/27ky2229\n#SafetrustMortgage #MortgageIntelligenceDaily #homebuying #mortgagerates #loanofficer",
-      "hashtags": [
-        "#SafetrustMortgage",
-        "#MortgageIntelligenceDaily",
         "#homebuying",
-        "#mortgagerates",
-        "#loanofficer"
-      ],
-      "hook_tag": "Tendencias del Prestatario",
-      "hook": "Los altos saldos de tarjetas de crédito están forzando a los propietarios a monetizar sus paredes.",
-      "what_happened_heading": "Encuestas revelan presión crediticia",
-      "what_happened": "Una nueva encuesta de Newrez encontró que el 51% de los propietarios mantienen un saldo de tarjeta de crédito mes a mes. Entre ellos, el 61% dijo que los saldos crecieron el año pasado, mientras que el 73% culpó a las altas tasas de interés.",
-      "breakdown": [
-        {
-          "heading": "La trampa rotatoria",
-          "body": "Los consumidores usan tarjetas de crédito para sobrevivir a la inflación, acumulando deudas de alto interés que ahora consumen su flujo de efectivo mensual."
-        },
-        {
-          "heading": "La paradoja del activo",
-          "body": "Estos mismos consumidores tienen niveles históricos de capital en sus viviendas. Usar ese capital es la única salida de las tasas APR del 20% de las tarjetas de crédito."
-        },
-        {
-          "heading": "La realidad del asesor",
-          "body": "Esto es lo que realmente cambia cuando un archivo llega al asesor: vemos caídas masivas en la relación deuda-ingresos si el préstamo de capital elimina la deuda rotatoria."
-        },
-        {
-          "heading": "El auge del segundo gravamen",
-          "body": "Las líneas de crédito con garantía hipotecaria (HELOC) y los segundos préstamos a plazo fijo están en auge porque los propietarios se niegan a tocar sus bajas tasas hipotecarias de primer gravamen."
-        }
-      ],
-      "my_take_heading": "La ola de consolidación de deudas",
-      "my_take": "No estás vendiendo un préstamo; estás vendiendo un rescate financiero. Presenta los productos de capital como eliminadores de tarjetas, no herramientas de mejora del hogar.",
-      "action_lo": "Haz una revisión de cartera para clientes anteriores mostrando cómo una HELOC (línea de crédito con garantía hipotecaria) elimina sus pagos de tarjetas rotatorios.",
-      "action_realtor": "Asóciate con prestamistas locales para ofrecer revisiones de salud financiera a tu círculo de compradores anteriores.",
-      "cta_question": "¿Estás viendo más solicitudes de segundos gravámenes para consolidación de deudas o renovaciones hoy?"
-    },
-    {
-      "slug": "figure-ai-heloc-conversions",
-      "title": "Figure dice que emparejar IA con originadores elevó las conversiones de HELOC en un 143%",
-      "source": "National Mortgage Professional",
-      "source_url": "https://nationalmortgageprofessional.com/news/figure-says-pairing-ai-originators-lifted-heloc-conversions-143",
-      "cover_text": "Agentes de IA aumentan conversiones de préstamos un 143%",
-      "caption": "Figure reporta un aumento del 143% en las HELOCs (líneas de crédito con garantía hipotecaria) financiadas al emparejar agentes de IA con originadores humanos. Así es como la automatización cambia las matemáticas del proceso.\n\nFuente : https://tinyurl.com/2de2u6qg\n#SafetrustMortgage #MortgageIntelligenceDaily #loanofficer #mortgagerates #mortgagebroker",
-      "hashtags": [
-        "#SafetrustMortgage",
-        "#MortgageIntelligenceDaily",
-        "#loanofficer",
-        "#mortgagerates",
         "#mortgagebroker"
       ],
-      "hook_tag": "PropTech AI",
-      "hook": "La inteligencia artificial está duplicando en silencio las tasas de conversión de los oficiales de préstamos en tiempo real.",
-      "what_happened_heading": "Se reporta un aumento drástico en la conversión",
-      "what_happened": "Figure Technology Solutions dice que un agente de inteligencia artificial trabajando junto a los originadores de préstamos aumentó la conversión de préstamos financiados en un 143% en comparación con los originadores trabajando solos. El agente impulsado por Sierra contacta a los solicitantes de capital de vivienda estancados por voz y texto durante varios días.",
+      "hook_tag": "Consumer Debt",
+      "hook": "51% of homeowners are carrying credit card debt, and it is driving a surge in equity demand.",
+      "what_happened_heading": "The new Newrez survey findings",
+      "what_happened": "A recent Newrez survey found that 51% of homeowners carry a credit card balance from month to month. Among those with revolving debt, 61% said balances increased over the past year while 73% cited high interest rates as the main pain point.",
       "breakdown": [
         {
-          "heading": "Cerrando la brecha",
-          "body": "La mayoría de los leads se estancan porque los originadores se ocupan y no dan seguimiento rápidamente. La IA interviene para mantener el contacto inmediato."
+          "heading": "The compounding pressure",
+          "body": "Staggering credit card interest rates are eating into household savings and forcing consumers to look at alternative funding sources."
         },
         {
-          "heading": "Automatizando el trabajo duro",
-          "body": "El agente de IA ayuda a los prestatarios a completar tareas tediosas como la autorización de crédito, verificación de identidad y vinculación de cuentas bancarias sin retrasos humanos."
+          "heading": "Equity as the escape hatch",
+          "body": "Homeowners sitting on substantial appreciation are increasingly viewing their property equity as the only viable escape from high-interest debt."
         },
         {
-          "heading": "El beneficio del asesor",
-          "body": "Esto es lo que realmente cambia cuando un archivo llega al asesor: los archivos llegan más limpios, más rápido y con menos páginas de estados de cuenta faltantes."
+          "heading": "The underwriter lens",
+          "body": "Here is what this actually changes when a file hits underwriting: debt-consolidation HELOCs require strict verification that unsecured lines are actually closed upon payoff."
         },
         {
-          "heading": "El cambio humano",
-          "body": "Los oficiales de préstamos dejan de perseguir documentos y empiezan a estructurar préstamos. La tecnología se encarga del trabajo administrativo pesado."
+          "heading": "The risk of re-borrowing",
+          "body": "Without strict financial counseling, borrowers who pay off credit cards with home equity often run up the plastic balances again."
         }
       ],
-      "my_take_heading": "La revolución del flujo de trabajo",
-      "my_take": "El futuro pertenece al oficial de préstamos que usa la IA como asistente, no al oficial de préstamos que intenta superar a la máquina.",
-      "action_lo": "Audita tus secuencias de seguimiento de CRM y adopta herramientas de mensajes de texto automatizados para captar leads en cinco minutos.",
-      "action_realtor": "Pregunta a tus socios prestamistas qué tecnología usan para mantener las transacciones en movimiento sin demoras manuales.",
-      "cta_question": "¿Confiarías en un agente de voz de IA para buscar tus documentos de prestatario faltantes?"
+      "my_take_heading": "A temporary fix for a structural leak",
+      "my_take": "Consolidating credit card debt into a mortgage product is a lifesaver only if the underlying spending behavior changes the next day.",
+      "action_lo": "Proactively reach out to past clients with a debt-consolidation analysis comparing credit card APRs to HELOC rates.",
+      "action_realtor": "Identify clients struggling with monthly debt loads and connect them with trusted lending partners for a holistic review.",
+      "cta_question": "How are you counseling clients who want to use home equity to pay off unsecured revolving debt?"
+    },
+    {
+      "slug": "ai-heloc-conversions-figure",
+      "title": "Figure Says Pairing AI With Originators Lifted HELOC Conversions 143%",
+      "source": "National Mortgage Professional",
+      "source_url": "https://nationalmortgageprofessional.com/news/figure-says-pairing-ai-originators-lifted-heloc-conversions-143",
+      "cover_text": "AI just doubled HELOC conversion rates.",
+      "caption": "Figure Technology Solutions reports that pairing artificial intelligence agents with human originators lifted funded-loan conversions by 143%. By automating outreach to stalled applicants via voice and text, lenders can capture pipeline leakage that human teams simply miss. Here is a look at how automated nurturing is changing top-of-funnel mortgage operations.\n\nSource : https://tinyurl.com/2de2u6qg\n#SafetrustMortgage #MortgageIntelligenceDaily #mortgagebroker #loanofficer #housingmarket",
+      "hashtags": [
+        "#SafetrustMortgage",
+        "#MortgageIntelligenceDaily",
+        "#mortgagebroker",
+        "#loanofficer",
+        "#housingmarket"
+      ],
+      "hook_tag": "Industry Tech",
+      "hook": "How an AI agent lifted HELOC conversion rates by 143 percent for Figure.",
+      "what_happened_heading": "The Figure technology results",
+      "what_happened": "Figure Technology Solutions announced that an artificial intelligence agent working alongside human loan originators increased funded-loan conversion by 143%. The tool manages voice and text outreach over several days to assist stalled applicants.",
+      "breakdown": [
+        {
+          "heading": "Automating the chase",
+          "body": "The Sierra-powered agent reaches out to prospects who stall during initial application steps like identity verification and bank linking."
+        },
+        {
+          "heading": "Saving loan officer time",
+          "body": "Instead of chasing missing documents manually, originators step in only after the AI has prepped and qualified the active prospect."
+        },
+        {
+          "heading": "The underwriter lens",
+          "body": "Here is what this actually changes when a file hits underwriting: cleaner initial document uploads mean fewer back-and-forth conditions during processing."
+        },
+        {
+          "heading": "Bridging the drop-off gap",
+          "body": "Most digital applications die because borrowers get confused at the bank-linking stage; automated texting successfully revives those dead leads."
+        }
+      ],
+      "my_take_heading": "AI replaces the admin, not the advisor",
+      "my_take": "The future belongs to loan officers who use AI to handle the tedious follow-up so they can spend 100% of their time advising.",
+      "action_lo": "Audit your CRM's automated text workflows to see where you are losing prospective HELOC applicants in the first 48 hours.",
+      "action_realtor": "Partner with lenders who utilize fast, modern digital portals to keep your mutual buyers engaged from day one.",
+      "cta_question": "Are you using automated AI voice or text tools in your origination pipeline yet?"
+    },
+    {
+      "slug": "mortgage-rates-one-year-higher",
+      "title": "Mortgage Rates Are Now 1% Higher Than They Were a Year Ago",
+      "source": "The Truth About Mortgage",
+      "source_url": "https://www.thetruthaboutmortgage.com/mortgage-rates-are-now-1-higher-than-they-were-a-year-ago/",
+      "cover_text": "Rates are a full percent higher than last year.",
+      "caption": "The 30-year fixed mortgage rate is sitting almost exactly one full percentage point higher than it was last September. Despite persistent predictions of relief, the bond market continues to find reasons to sell off. Here is what this 100-basis-point jump actually means for buyers and pipeline management.\n\nSource : https://tinyurl.com/2yd5w5ns\n#SafetrustMortgage #MortgageIntelligenceDaily #mortgagerates #housingmarket #homebuying",
+      "hashtags": [
+        "#SafetrustMortgage",
+        "#MortgageIntelligenceDaily",
+        "#mortgagerates",
+        "#housingmarket",
+        "#homebuying"
+      ],
+      "hook_tag": "Rate Environment",
+      "hook": "The 30-year fixed is officially 100 basis points higher than it was last year.",
+      "what_happened_heading": "The year-over-year rate jump",
+      "what_happened": "Prospective home buyers are currently facing a 30-year fixed mortgage rate that is almost exactly 100 basis points higher than it was at this time last September. Persistent selling in the bond market has pushed top-tier rates to new long-term highs.",
+      "breakdown": [
+        {
+          "heading": "Defying the consensus",
+          "body": "Most market forecasts from a year ago anticipated an easing of rates by now, making this 1% increase a painful surprise for buyers."
+        },
+        {
+          "heading": "The affordability squeeze",
+          "body": "Every single percentage point increase in rates prices millions of prospective buyers out of median-priced housing markets nationwide."
+        },
+        {
+          "heading": "The underwriter lens",
+          "body": "Here is what this actually changes when a file hits underwriting: DTI (how much of your income goes to debt) limits are compressed tighter on every single qualification."
+        },
+        {
+          "heading": "Refinance lock-in effect",
+          "body": "Existing homeowners with sub-4% rates are staying put, locking up inventory and keeping purchase volume dependent on life-event moves."
+        }
+      ],
+      "my_take_heading": "Stop waiting for a 5 handle",
+      "my_take": "If your entire business model relies on rates dropping back to historic lows, you are banking on hope rather than managing your pipeline.",
+      "action_lo": "Educate buyers on adjustable-rate products and temporary buy-downs to combat the current rate environment.",
+      "action_realtor": "Shift seller expectations away from peak market pricing and focus heavily on terms, concessions, and realistic budgeting.",
+      "cta_question": "How are you adjusting your buyer consultations to account for rates sitting a full point higher than last year?"
     }
   ]
 }
