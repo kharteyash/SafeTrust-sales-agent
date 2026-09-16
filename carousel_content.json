@@ -168,5 +168,175 @@
       "action_realtor": "Negotiate direct base price reductions with builders instead of relying solely on closing cost credits.",
       "cta_question": "Are builder incentives still driving contracts in your local market?"
     }
+  ],
+  "carousels_es": [
+    {
+      "slug": "ai-mortgage-evidence-adjudication",
+      "title": "La IA puede leer el expediente hipotecario, pero ¿quién decide qué hechos son ciertos?",
+      "source": "HousingWire",
+      "source_url": "https://www.housingwire.com/articles/ai-mortgage-evidence-adjudication/",
+      "cover_text": "por qué la ia no puede aprobar hipotecas sola",
+      "caption": "Las herramientas de IA pueden procesar miles de páginas en segundos, pero leer datos no es lo mismo que aprobar un préstamo. Cuando los recibos de nómina, las declaraciones de impuestos y los estados de cuenta bancarios ofrecen historias contradictorias, los algoritmos se \"congelan\". El verdadero cuello de botella en los préstamos modernos no es la extracción de datos, sino una política institucional clara sobre qué documento tiene prioridad. Los prestamistas que no definen estas reglas de antemano solo crean mayores retrasos para sus asesores. Así es como la adjudicación de expedientes afecta tu proceso y para qué debes prepararte.\n\nFuente : https://tinyurl.com/29sbceej\n#SafetrustMortgage #MortgageIntelligenceDaily #mortgages #loanofficer #mortgagebroker",
+      "hashtags": [
+        "#SafetrustMortgage",
+        "#MortgageIntelligenceDaily",
+        "#mortgages",
+        "#loanofficer",
+        "#mortgagebroker"
+      ],
+      "hook_tag": "tecnología hipotecaria",
+      "hook": "La IA extrae datos rápido, pero no resuelve evidencia contradictoria.",
+      "what_happened_heading": "prestamistas enfrentan conflictos de datos al usar ia",
+      "what_happened": "Detalles contradictorios en nóminas, impuestos y estados de cuenta obligan a los prestamistas a establecer reglas claras. La IA lee archivos rápido, pero los asesores humanos deben decidir qué documento tiene la verdad.",
+      "breakdown": [
+        {
+          "heading": "la extracción no es una aprobación de préstamo",
+          "body": "Extraer texto de una nómina es fácil. Determinar si un bono es recurrente o está disminuyendo requiere interpretación de la política y juicio humano."
+        },
+        {
+          "heading": "documentos contradictorios detienen la automatización",
+          "body": "Si un sistema automatizado ve una declaración de impuestos que contradice los depósitos bancarios, \"señala\" el expediente. Los asesores deben resolver esa discrepancia manualmente."
+        },
+        {
+          "heading": "el asesor y los datos de la ia",
+          "body": "Esto es lo que cambia al evaluar un expediente: los expedientes \"limpios\" avanzan rápido, pero los ingresos complejos tardan más si los prestamistas no definen las jerarquías de datos."
+        },
+        {
+          "heading": "reglas claras evitan recompras",
+          "body": "Los prestamistas no pueden culpar al software si un inversionista \"recompra\" un préstamo defectuoso. Las guías institucionales deben dictar qué fuente de datos prevalece en un conflicto."
+        }
+      ],
+      "my_take_heading": "la velocidad expone brechas en la política del prestamista",
+      "my_take": "La extracción rápida de datos con IA no acelera el cierre si tu manual de asesoramiento no explica cómo manejar hechos contradictorios.",
+      "action_lo": "Revisa los documentos de ingresos para detectar discrepancias entre los W-2 y los depósitos bancarios antes de enviar los expedientes a procesamiento.",
+      "action_realtor": "Establece expectativas claras con los compradores desde el inicio, especialmente con ingresos complejos, ya que las verificaciones adicionales llevan tiempo.",
+      "cta_question": "¿Tu proceso resuelve rápido las alertas de datos automatizadas, o las discrepancias retrasan tus tiempos de respuesta?"
+    },
+    {
+      "slug": "ags-probe-zillow-referral-fees",
+      "title": "Instan a fiscales estatales a investigar Zillow, listados \"ocultos\" y tarifas por referido",
+      "source": "HousingWire",
+      "source_url": "https://www.housingwire.com/articles/ags-probe-zillow-referral-fees/",
+      "cover_text": "fiscales investigan tarifas y listados ocultos",
+      "caption": "La presión regulatoria estatal aumenta contra las prácticas de direccionamiento de \"leads\" inmobiliarios y el inventario fuera del mercado. Una carta formal instó a los fiscales generales a investigar los listados \"ocultos\" (pocket listings) y las estructuras de tarifas por referido de agentes, tras importantes acuerdos legales. Para los oficiales de préstamos y agentes de bienes raíces que dependen de arreglos de \"co-marketing\" o \"leads\" de portales, el estándar de cumplimiento legal está cambiando rápidamente. Depender de la exclusividad pagada se está volviendo una desventaja en lugar de una ventaja. Esto es lo que está cambiando en la generación de \"leads\" de la industria.\n\nFuente : https://tinyurl.com/28k68p7y\n#SafetrustMortgage #MortgageIntelligenceDaily #realestateagent #housingmarket #loanofficer",
+      "hashtags": [
+        "#SafetrustMortgage",
+        "#MortgageIntelligenceDaily",
+        "#realestateagent",
+        "#housingmarket",
+        "#loanofficer"
+      ],
+      "hook_tag": "regulación de la industria",
+      "hook": "Las investigaciones por tarifas de referido podrían cambiar cómo se buscan casas y agentes.",
+      "what_happened_heading": "piden a fiscales investigar rutas de leads y tarifas",
+      "what_happened": "Una coalición de cartas insta a los fiscales estatales a examinar los listados \"ocultos\", los modelos de tarifas por referido y las prácticas de asignación de agentes. Esto surge tras el escrutinio antimonopolio por los acuerdos de portales y las prácticas de listados exclusivos.",
+      "breakdown": [
+        {
+          "heading": "el escrutinio llega a las rutas de leads digitales",
+          "body": "Los reguladores analizan cómo se dirigen y monetizan las solicitudes de contacto de los consumidores a través de redes pagadas de generación de \"leads\"."
+        },
+        {
+          "heading": "listados ocultos enfrentan críticas por vivienda justa",
+          "body": "Los listados fuera del mercado limitan el acceso público al inventario de viviendas. Se pide a los funcionarios estatales que evalúen si las redes privadas violan la competencia justa."
+        },
+        {
+          "heading": "el asesor y las fuentes de leads",
+          "body": "Esto es lo que cambia al evaluar un expediente: las disputas por tarifas de referido no alteran las guías de crédito, pero las auditorías de cumplimiento en acuerdos de \"marketing\" se endurecerán mucho."
+        },
+        {
+          "heading": "acuerdos de co-marketing bajo nueva evaluación",
+          "body": "Prestadores y agentes que usen acuerdos de publicidad conjunta deben asegurar un cumplimiento estricto de las prohibiciones federales y estatales sobre tarifas de referido."
+        }
+      ],
+      "my_take_heading": "los modelos de leads pagados pierden protección regulatoria",
+      "my_take": "Monetizar contactos de compradores y ocultar inventario en redes privadas ya no se ve como innovación tecnológica, sino como una posible violación antimonopolio.",
+      "action_lo": "Audita hoy todas las plataformas de \"co-marketing\" y acuerdos de \"leads\" pagados para verificar el cumplimiento legal total.",
+      "action_realtor": "Enfócate en construir redes de relaciones directas, en vez de depender solo de \"leads\" pagados de portales que enfrentan riesgos regulatorios.",
+      "cta_question": "¿La presión regulatoria obligará a los grandes portales tecnológicos a cambiar cómo dirigen los \"leads\" de compradores?"
+    },
+    {
+      "slug": "non-qm-originations-2026-forecast",
+      "title": "¿Es el Non-QM una \"Cenicienta\" de la inversión hipotecaria moderna?",
+      "source": "HousingWire",
+      "source_url": "https://www.housingwire.com/articles/non-qm-originations-2026-forecast/",
+      "cover_text": "el volumen non-qm busca un hito gigante",
+      "caption": "Non-QM está demostrando ser un segmento potente en la industria hipotecaria. Con BofA Securities pronosticando $100 mil millones en emisión de titulizaciones después de un récord de $20.9 mil millones en el tercer trimestre de 2025, la liquidez en préstamos \"no de agencia\" (non-agency) está en auge. Compradores de alto patrimonio y trabajadores independientes necesitan alternativas a las guías de agencia estándar, y los inversionistas del mercado secundario hacen fila para comprar estos papeles. Si tratas Non-QM como último recurso, estás perdiendo negocio. Esto es lo que debes saber sobre este cambio.\n\nFuente : https://tinyurl.com/297pajra\n#SafetrustMortgage #MortgageIntelligenceDaily #mortgagebroker #realestateinvesting #loanofficer",
+      "hashtags": [
+        "#SafetrustMortgage",
+        "#MortgageIntelligenceDaily",
+        "#mortgagebroker",
+        "#realestateinvesting",
+        "#loanofficer"
+      ],
+      "hook_tag": "mercado non-qm",
+      "hook": "Los préstamos Non-QM ya no son productos \"de nicho\" para pocos.",
+      "what_happened_heading": "bank of america pronostica gran crecimiento non qm",
+      "what_happened": "BofA Securities proyecta $100 mil millones en emisión de titulizaciones Non-QM después de un récord de $20.9 mil millones en el 3T 2025. La fuerte demanda del mercado secundario convierte los préstamos \"no de agencia\" en una clase de activo principal.",
+      "breakdown": [
+        {
+          "heading": "wall street busca el rendimiento non-agency",
+          "body": "Inversionistas institucionales compran con entusiasmo títulos respaldados por hipotecas residenciales (RMBS) Non-QM para obtener mayor rendimiento que con los papeles tradicionales de agencia."
+        },
+        {
+          "heading": "prestatarios independientes impulsan el volumen",
+          "body": "Productos con estados de cuenta bancarios y flujo de efectivo de inversionistas (DSCR) sirven a prestatarios sólidos que no cumplen con las guías de asesoramiento estándar de agencia."
+        },
+        {
+          "heading": "el asesor y los expedientes non-qm",
+          "body": "Esto es lo que cambia al evaluar un expediente: Non-QM requiere un análisis riguroso del flujo de efectivo, por lo que los estados de cuenta claros importan mucho más que los puntajes automatizados."
+        },
+        {
+          "heading": "la liquidez amplía las opciones de productos",
+          "body": "Mercados de titulización fuertes dan confianza a los originadores de que los programas de préstamos \"no de agencia\" mantendrán precios y ejecuciones competitivos."
+        }
+      ],
+      "my_take_heading": "non-qm es ahora liquidez hipotecaria central",
+      "my_take": "Non-QM no es \"subprime\"; es capital institucional que financia a prestatarios independientes e inversionistas inmobiliarios que las guías de agencia ignoran.",
+      "action_lo": "Domina las guías de estados de cuenta bancarios y DSCR (debt service coverage ratio) para capturar negocios de compra \"no de agencia\".",
+      "action_realtor": "Asóciate con oficiales de préstamos que se especialicen en Non-QM para \"salvar\" transacciones de compradores con declaraciones de impuestos complejas.",
+      "cta_question": "¿Es Non-QM un motor de crecimiento principal en tu actual proceso de producción?"
+    },
+    {
+      "slug": "new-home-mortgage-applications-fall-fifth-straight-month",
+      "title": "Las solicitudes de hipotecas para casas nuevas caen por quinto mes consecutivo",
+      "source": "National Mortgage Professional",
+      "source_url": "https://nationalmortgageprofessional.com/news/new-home-mortgage-applications-fall-fifth-straight-month",
+      "cover_text": "solicitudes de hipotecas caen en casas nuevas",
+      "caption": "Las solicitudes de hipotecas para casas nuevas disminuyeron por quinto mes consecutivo en agosto, cayendo un 5.5% en comparación con el año pasado, según la Mortgage Bankers Association. Durante meses, los constructores mantuvieron la actividad de compra a flote usando agresivas \"reducciones de tasa\" (rate buydowns) e incentivos de venta. Pero esos incentivos temporales están chocando con las continuas presiones de asequibilidad. Si los compradores no pueden calificar con los precios base, las ventajas temporales no salvarán el volumen. Esto es lo que significa para los oficiales de préstamos y agentes que trabajan con construcción nueva.\n\nFuente : https://tinyurl.com/2a6r7wwp\n#SafetrustMortgage #MortgageIntelligenceDaily #homebuying #housingmarket #firsttimehomebuyer",
+      "hashtags": [
+        "#SafetrustMortgage",
+        "#MortgageIntelligenceDaily",
+        "#homebuying",
+        "#housingmarket",
+        "#firsttimehomebuyer"
+      ],
+      "hook_tag": "mercado de constructores",
+      "hook": "Incentivos de constructores no compensan la creciente presión de asequibilidad.",
+      "what_happened_heading": "solicitudes de hipotecas nuevas caen por quinto mes",
+      "what_happened": "Las solicitudes de hipotecas para casas recién construidas bajaron 5.5% año tras año y 6% mes tras mes en agosto. Los datos de la Mortgage Bankers Association muestran que los incentivos de los constructores ya no son suficientes para sostener la demanda.",
+      "breakdown": [
+        {
+          "heading": "las reducciones de tasa de constructores llegan a un límite",
+          "body": "Las \"reducciones de tasa\" temporales y las concesiones de precios pierden fuerza, ya que las altas tasas de interés persistentes siguen erosionando el poder de compra general del comprador."
+        },
+        {
+          "heading": "la demanda de compradores se retira en regiones",
+          "body": "La construcción nueva sostenía el mercado de compras, pero cinco meses seguidos de caídas en las solicitudes confirman que los compradores se están echando atrás."
+        },
+        {
+          "heading": "el asesor y las concesiones del constructor",
+          "body": "Esto es lo que cambia al evaluar un expediente: los asesores aplican estrictamente los límites de contribución de partes interesadas, evitando que los constructores oculten problemas de asequibilidad con créditos excesivos."
+        },
+        {
+          "heading": "los riesgos de inventario empiezan a acumularse",
+          "body": "El bajo volumen de solicitudes de compra deja a los constructores expuestos a mayores costos de mantenimiento de inventario terminado a medida que avanza la temporada de otoño."
+        }
+      ],
+      "my_take_heading": "los recortes de precios deben reemplazar las reducciones temporales",
+      "my_take": "Las \"reducciones de tasa\" de los constructores son un curita temporal. Sin reducciones en el precio base, los compradores no pueden calificar en este mercado.",
+      "action_lo": "Ofrece a los compradores opciones de \"bloqueo de tasa\" a largo plazo y compara las \"reducciones de tasa\" con las reducciones de precio permanentes.",
+      "action_realtor": "Negocia reducciones directas del precio base con los constructores en lugar de depender solo de créditos para los costos de cierre.",
+      "cta_question": "¿Los incentivos de los constructores siguen impulsando contratos en tu mercado local?"
+    }
   ]
 }
