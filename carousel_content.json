@@ -168,5 +168,175 @@
       "action_realtor": "Re-verify buyer qualification letters on current offers to ensure rate increases did not breach debt limits.",
       "cta_question": "How are your loan officers handling debt-ratio shocks across their active pipeline this week?"
     }
+  ],
+  "carousels_es": [
+    {
+      "slug": "ameritrust-dscr-fraud",
+      "title": "Demanda de AmeriTrust Expone Fraude DSCR de $14 Millones",
+      "source": "National Mortgage Professional",
+      "source_url": "https://nationalmortgageprofessional.com/news/ameritrust-alleges-14m-baltimore-dscr-fraud-scheme",
+      "cover_text": "El lado oscuro de los préstamos DSCR",
+      "caption": "Los préstamos de inversionistas Non-QM (no conforme) enfrentan su prueba de estrés más grande hasta ahora. AmeriTrust Mortgage Corp. acaba de presentar una demanda federal por fraude de $14.1 millones que involucra más de 90 préstamos DSCR (debt service coverage ratio: préstamo calificado por los ingresos de alquiler) en Baltimore. La demanda nombra a inversionistas, un bróker, tasadores y compañías de títulos. Cuando los préstamos califican estrictamente por el flujo de caja de la propiedad, los malos actores inflan las rentas y los valores de la propiedad. Como asesor, vi venir esto cuando se relajaron los estándares de verificación. Ahora, los prestamistas exigirán revisiones secundarias de tasaciones y auditorías estrictas de títulos en cada transacción de inversionista. Si originas o financias deuda de inversionistas, tu exposición de recompra acaba de duplicarse.\n\nFuente : https://tinyurl.com/225tye5j\n#SafetrustMortgage #MortgageIntelligenceDaily #realestateinvesting #mortgagebroker #loanofficer",
+      "hashtags": [
+        "#SafetrustMortgage",
+        "#MortgageIntelligenceDaily",
+        "#realestateinvesting",
+        "#mortgagebroker",
+        "#loanofficer"
+      ],
+      "hook_tag": "Alerta de Fraude",
+      "hook": "Por qué una estafa DSCR de $14 millones cambia la suscripción para siempre.",
+      "what_happened_heading": "AmeriTrust presenta demanda federal por fraude de préstamos en Baltimore",
+      "what_happened": "AmeriTrust Mortgage Corp. presentó una demanda federal alegando un esquema de fraude de $14.1 millones que involucra más de 90 préstamos para propiedades de inversión. El esquema presuntamente involucra a inversionistas, un bróker hipotecario, tasadores y compañías de títulos que operan en Baltimore.",
+      "breakdown": [
+        {
+          "heading": "La fácil calificación creó un punto ciego de fraude",
+          "body": "Los préstamos DSCR (debt service coverage ratio: préstamo calificado por ingresos de alquiler) omiten la verificación de ingresos. Los defraudadores explotaron esto inflando valores de tasación y contratos de alquiler sin validación secundaria."
+        },
+        {
+          "heading": "Esto es lo que cambia en la evaluación de riesgos",
+          "body": "Los asesores ya no pueden depender de tasaciones de una sola fuente o alquileres no verificados. Espera revisiones de valuación secundarias obligatorias y auditorías estrictas de la cadena de títulos en cada expediente de inversionista."
+        },
+        {
+          "heading": "La responsabilidad de brókers y títulos se dispara",
+          "body": "Los prestamistas ya no absorben las pérdidas por fraude de inversionistas en silencio. Están demandando directamente a brókers, tasadores y entidades de títulos para recuperar capital cuando los préstamos caen en impago."
+        },
+        {
+          "heading": "El riesgo de recompra recae en los originadores",
+          "body": "Los prestamistas que compran papel DSCR auditarán los impagos tempranos de inmediato. Si se encuentra valuación colusoria, los originadores enfrentan la recompra total del préstamo."
+        }
+      ],
+      "my_take_heading": "Volumen rápido de inversionistas sin controles estrictos es tóxico",
+      "my_take": "La documentación DSCR simplificada se diseñó para un capital de inversionista eficiente, no para omitir controles básicos de fraude.",
+      "action_lo": "Exige verificaciones independientes de los cronogramas de alquiler en cada transacción DSCR antes de enviarla.",
+      "action_realtor": "Examina cuidadosamente a los clientes inversionistas inmobiliarios cuando trates con traspasos de cartera 'llave en mano' en dificultades.",
+      "cta_question": "¿Están tus expedientes de inversionistas Non-QM realmente protegidos contra esquemas de tasación colusoria?"
+    },
+    {
+      "slug": "pennymac-uwm-conforming-limits",
+      "title": "Pennymac y UWM Aumentan Límites Conformes Antes que FHFA",
+      "source": "National Mortgage Professional",
+      "source_url": "https://nationalmortgageprofessional.com/news/pennymac-raises-conforming-loan-limit-above-early-industry-benchmark",
+      "cover_text": "Prestadores se adelantan a límites FHFA",
+      "caption": "Los prestamistas están tomando serios riesgos en sus balances para capturar cuota de mercado en este momento. Pennymac acaba de elevar su límite de préstamo conforme inicial a $850,000 para viviendas de una sola unidad, superando a UWM con $847,440 y a otros prestamistas con $845,000. Todo esto sucede antes de que la FHFA (Federal Housing Finance Agency) publique los límites oficiales. Desde la perspectiva de un asesor, estos expedientes no pueden ir a Fannie o Freddie aún. Deben permanecer en balances de cartera bajo una estricta revisión interna. Pero para los oficiales de préstamo, esto crea una ventana inmediata para salvar transacciones que antes estaban estancadas en las rígidas pautas jumbo. Aquí te explicamos lo que esta agresiva carrera de prestamistas significa para tu cartera.\n\nFuente : https://tinyurl.com/22jjolj3\n#SafetrustMortgage #MortgageIntelligenceDaily #mortgagerates #loanofficer #homebuying",
+      "hashtags": [
+        "#SafetrustMortgage",
+        "#MortgageIntelligenceDaily",
+        "#mortgagerates",
+        "#loanofficer",
+        "#homebuying"
+      ],
+      "hook_tag": "Límites de Préstamo",
+      "hook": "Por qué adelantar los límites conformes oficiales es arriesgado.",
+      "what_happened_heading": "Prestadores aumentan límites antes del anuncio oficial del gobierno",
+      "what_happened": "Pennymac elevó su límite de préstamo conforme inicial a $850,000 para propiedades de una unidad, superando a otros prestamistas que usan $845,000. UWM también subió su límite para una unidad a $847,440 mientras la industria espera la guía oficial de la FHFA.",
+      "breakdown": [
+        {
+          "heading": "Una oferta agresiva por cuota de mercado",
+          "body": "Los prestamistas están usando el riesgo del balance para capturar carteras de prestatarios con saldos altos antes de que el gobierno ajuste oficialmente los topes conformes de referencia para el próximo año."
+        },
+        {
+          "heading": "Esto es lo que cambia en la evaluación de riesgos",
+          "body": "Estos préstamos con límite temprano no pueden ser entregados a Fannie Mae o Freddie Mac todavía. Los asesores deben revisarlos bajo estándares de cartera internos, no sistemas de suscripción automatizados."
+        },
+        {
+          "heading": "Las brechas de precios favorecen a los oficiales de préstamo proactivos",
+          "body": "Los prestatarios que antes necesitaban financiación jumbo (non-conforming higher loan amount) ahora pueden acceder a precios conformes y pautas de relación deuda más fáciles de inmediato."
+        },
+        {
+          "heading": "El riesgo de ejecución en el mercado secundario acecha",
+          "body": "Si la FHFA establece el tope conforme final por debajo de $850,000, los prestamistas deben mantener la deuda excedente en sus balances o reajustar los precios de los expedientes existentes."
+        }
+      ],
+      "my_take_heading": "Los aumentos de límites tempranos son jugadas de marketing con riesgo real",
+      "my_take": "La competencia de capital está llevando a los prestamistas a adelantarse a la política federal solo para asegurar el flujo de acuerdos cercanos al jumbo.",
+      "action_lo": "Audita a los posibles compradores atrapados en precios de saldo alto y conviértelos al nuevo umbral de $850k.",
+      "action_realtor": "Dirígete a compradores de lujo en el rango de precios de $900k que antes estaban afectados por las estrictas pautas jumbo.",
+      "cta_question": "¿Es adelantar los límites de préstamo de la FHFA una estrategia de crecimiento inteligente o un riesgo innecesario para el balance?"
+    },
+    {
+      "slug": "uwm-expands-condo-financing",
+      "title": "UWM Expande Financiamiento para Condominios No Garantizables",
+      "source": "HousingWire",
+      "source_url": "https://www.housingwire.com/articles/uwm-expands-non-warrantable-condo-financing-amid-fhfa-rule-changes/",
+      "cover_text": "El financiamiento de condominios cambió",
+      "caption": "El financiamiento de condominios acaba de recibir un gran salvavidas, pero los compradores deben tener cuidado. UWM expandió su financiamiento para condominios no garantizables (no elegibles para préstamos estándar respaldados por el gobierno de Fannie o Freddie) e introdujo una herramienta automatizada para verificar la elegibilidad del edificio. Las pautas de agencia más estrictas sobre el mantenimiento estructural diferido han dejado fuera a miles de unidades en todo el país. En mis días de asesor, una sola pregunta de cuestionario sin respuesta o un fondo de reserva bajo de la HOA mataría instantáneamente el préstamo. Aunque las pautas ampliadas abren puertas para los compradores, no borran la deuda estructural del edificio ni las próximas evaluaciones especiales. Los oficiales de préstamo deben verificar la salud de la HOA antes de celebrar aprobaciones claras. Aquí te explicamos cómo navegar el nuevo mercado de condominios.\n\nFuente : https://tinyurl.com/2dd9yg7g\n#SafetrustMortgage #MortgageIntelligenceDaily #housingmarket #realestateagent #mortgagebroker",
+      "hashtags": [
+        "#SafetrustMortgage",
+        "#MortgageIntelligenceDaily",
+        "#housingmarket",
+        "#realestateagent",
+        "#mortgagebroker"
+      ],
+      "hook_tag": "Financiamiento de Condominios",
+      "hook": "Por qué las pautas ampliadas de condominios conllevan riesgos ocultos.",
+      "what_happened_heading": "Gigante mayorista amplía elegibilidad para programa de condominios no garantizables",
+      "what_happened": "UWM expandió su elegibilidad para condominios no garantizables y lanzó una nueva herramienta para agilizar las aprobaciones de edificios. La medida surge mientras pautas de condominios más estrictas de Fannie Mae y Freddie Mac han restringido el financiamiento tradicional.",
+      "breakdown": [
+        {
+          "heading": "Las reglas de agencia convencionales congelaron el inventario de condominios",
+          "body": "Los estándares de agencia más estrictos sobre integridad estructural y mantenimiento diferido hicieron que miles de desarrollos de condominios fueran no garantizables (no elegibles para hipotecas estándar respaldadas por el gobierno de Fannie o Freddie)."
+        },
+        {
+          "heading": "Esto es lo que cambia en la evaluación de riesgos",
+          "body": "Los asesores ya no rechazan automáticamente los desarrollos con presupuestos de reserva bajos o litigios pendientes. Sin embargo, profundizan en las partidas presupuestarias y los historiales de evaluaciones especiales."
+        },
+        {
+          "heading": "La liquidez regresa a complejos de condominios estancados",
+          "body": "Los vendedores en desarrollos de condominios en dificultades o envejecidos finalmente tienen acceso a opciones de financiamiento sin depender de compradores solo en efectivo."
+        },
+        {
+          "heading": "El riesgo de la HOA se traslada directamente a los propietarios",
+          "body": "Ampliar el financiamiento no resuelve los problemas estructurales antiguos. Los compradores podrían enfrentar evaluaciones especiales inesperadas después del cierre si los presupuestos de la HOA siguen con fondos insuficientes."
+        }
+      ],
+      "my_take_heading": "Las herramientas de préstamo resuelven la fricción financiera pero no los balances de la HOA",
+      "my_take": "Expandir la elegibilidad crea liquidez vital en el mercado, pero no protege a los compradores de la deuda subyacente de mantenimiento estructural.",
+      "action_lo": "Usa las nuevas herramientas de elegibilidad temprano en la preaprobación para examinar proyectos de condominios complejos antes de hacer ofertas.",
+      "action_realtor": "Revisa listados de condominios estancados que no pasaron las verificaciones puntuales convencionales para volver a involucrar a los compradores.",
+      "cta_question": "¿Ayudará la expansión de condominios no garantizables a liquidar inventario o trasladará el riesgo estructural a los compradores?"
+    },
+    {
+      "slug": "mortgage-rates-jump-seven-percent",
+      "title": "Tasas Hipotecarias Suben Cerca del 7% y la Demanda Cae",
+      "source": "Mortgage News Daily",
+      "source_url": "https://www.mortgagenewsdaily.com/markets/mortgage-rates-09152026",
+      "cover_text": "Tasas suben 33 puntos básicos rápido",
+      "caption": "Los picos repentinos de las tasas de interés están reventando silenciosamente las carteras de compradores activos. Las tasas fijas a 30 años de primera línea subieron un 0.33% en solo seis días, empujando las cotizaciones promedio hasta el 7.22%. Ese es el cambio más abrupto desde octubre de 2024. Como ex asesor, sé lo que sucede a continuación: los límites de DTI (debt-to-income: porcentaje del ingreso destinado a la deuda) se rompen. Un comprador que fue aprobado la semana pasada con proporciones máximas ahora excede las pautas sin cambiar su precio de oferta. Los oficiales de préstamo que flotan las tasas sin comunicación proactiva están a punto de ver cómo las aprobaciones condicionales se convierten en denegaciones. Aquí te explicamos lo que debes hacer para salvar tu cartera activa hoy.\n\nFuente : https://tinyurl.com/2cbw9e6n\n#SafetrustMortgage #MortgageIntelligenceDaily #mortgagerates #firsttimehomebuyer #loanofficer",
+      "hashtags": [
+        "#SafetrustMortgage",
+        "#MortgageIntelligenceDaily",
+        "#mortgagerates",
+        "#firsttimehomebuyer",
+        "#loanofficer"
+      ],
+      "hook_tag": "Pico de Tasa",
+      "hook": "Por qué un alza de tasas en seis días está aplastando las preaprobaciones.",
+      "what_happened_heading": "Las tasas hipotecarias suben a su nivel más alto desde enero de 2025",
+      "what_happened": "Las tasas hipotecarias fijas a 30 años de primera línea subieron un 0.33% durante seis días consecutivos, alcanzando un promedio de 7.22%. Este aumento repentino de tasas redujo drásticamente la demanda general de solicitudes de hipotecas en todo el país.",
+      "breakdown": [
+        {
+          "heading": "El aumento de tasas más rápido en casi dos años",
+          "body": "Un aumento de 33 puntos básicos en menos de una semana representa el movimiento de tasas más abrupto visto desde octubre de 2024, tomando por sorpresa a los compradores preaprobados."
+        },
+        {
+          "heading": "Esto es lo que cambia en la evaluación de riesgos",
+          "body": "Los asesores se ven obligados a recalcular el DTI (debt-to-income: relación entre los pagos de deuda y el ingreso bruto) en cada preaprobación activa, lo que hace que los expedientes preaprobados fallen los límites de suscripción automatizada."
+        },
+        {
+          "heading": "El poder adquisitivo del comprador se erosiona de la noche a la mañana",
+          "body": "Los costos de endeudamiento más altos reducen directamente los presupuestos de los compradores, convirtiendo a los compradores preaprobados en prestatarios no calificados a menos que ajusten los precios de compra a la baja."
+        },
+        {
+          "heading": "Las estrategias de bloqueo de tasa fija deben adaptarse",
+          "body": "Flotar una tasa en un mercado volátil es actualmente de alto riesgo. Los originadores deben priorizar los programas de \"lock-and-shop\" (bloqueo y búsqueda) anticipados para proteger la conversión de la cartera."
+        }
+      ],
+      "my_take_heading": "Los picos rápidos de tasas dañan más la conversión que las tasas altas y estables",
+      "my_take": "La volatilidad destruye las transacciones más rápido que las tasas altas porque las relaciones deuda-ingreso de los compradores no pueden seguir el ritmo de los cambios repentinos de precios.",
+      "action_lo": "Realiza una auditoría de tu cartera hoy para recalcular los límites de DTI en cada preaprobación de comprador sin bloqueo.",
+      "action_realtor": "Vuelve a verificar las cartas de calificación del comprador en las ofertas actuales para asegurar que los aumentos de tasas no excedieron los límites de deuda.",
+      "cta_question": "¿Cómo están manejando tus oficiales de préstamo los choques de la relación deuda-ingreso en su cartera activa esta semana?"
+    }
   ]
 }
