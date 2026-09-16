@@ -1,342 +1,172 @@
 {
   "carousels": [
     {
-      "slug": "ai-mortgage-evidence-adjudication",
-      "title": "AI can read the mortgage file, but who decides which facts are true?",
-      "source": "HousingWire",
-      "source_url": "https://www.housingwire.com/articles/ai-mortgage-evidence-adjudication/",
-      "cover_text": "why ai cannot approve mortgage files alone",
-      "caption": "AI tools can ingest thousands of pages in seconds, but reading data is not the same as approving a loan file. When paystubs, tax returns, and bank statements offer conflicting stories, algorithms freeze. The real bottleneck in modern lending is not data extraction—it is clear institutional policy on which document wins. Lenders who do not define these rules upfront simply create bigger backlogs for their underwriters. Here is how file adjudication affects your pipeline and what you need to prepare for in production.\n\nSource : https://tinyurl.com/29sbceej\n#SafetrustMortgage #MortgageIntelligenceDaily #mortgages #loanofficer #mortgagebroker",
+      "slug": "ameritrust-dscr-fraud",
+      "title": "AmeriTrust Lawsuit Exposes $14M DSCR Fraud Scheme",
+      "source": "National Mortgage Professional",
+      "source_url": "https://nationalmortgageprofessional.com/news/ameritrust-alleges-14m-baltimore-dscr-fraud-scheme",
+      "cover_text": "The dark side of easy DSCR loans",
+      "caption": "Non-QM investor loans are facing their biggest stress test yet. AmeriTrust Mortgage Corp. just launched a $14.1 million federal fraud lawsuit targeting over 90 DSCR (debt service coverage ratio: loan qualified on rental income) loans in Baltimore. The lawsuit names investors, a broker, appraisers, and title companies. When loans qualify strictly on property cash flow, bad actors inflate rents and property values. As an underwriter, I saw this coming when verification standards loosened. Now, lenders will demand secondary appraisal reviews and tight title audits on every investor deal. If you originate or fund investor debt, your repurchase exposure just doubled.\n\nSource : https://tinyurl.com/225tye5j\n#SafetrustMortgage #MortgageIntelligenceDaily #realestateinvesting #mortgagebroker #loanofficer",
       "hashtags": [
         "#SafetrustMortgage",
         "#MortgageIntelligenceDaily",
-        "#mortgages",
+        "#realestateinvesting",
+        "#mortgagebroker",
+        "#loanofficer"
+      ],
+      "hook_tag": "Fraud Warning",
+      "hook": "Why a $14M DSCR scam changes investor underwriting forever.",
+      "what_happened_heading": "AmeriTrust files federal lawsuit over Baltimore loan fraud",
+      "what_happened": "AmeriTrust Mortgage Corp. filed a federal lawsuit alleging a $14.1 million fraud scheme involving over 90 investment-property loans. The scheme allegedly involved investors, a mortgage broker, appraisers, and title companies operating in Baltimore.",
+      "breakdown": [
+        {
+          "heading": "Easy qualification created a fraud blindspot",
+          "body": "DSCR (debt service coverage ratio: loan qualified on rental income) loans skip income verification. Fraudsters exploited this by inflating appraisal values and lease agreements without secondary validation."
+        },
+        {
+          "heading": "Here is what changes in underwriting",
+          "body": "Underwriters can no longer rely on single-source appraisals or unverified leases. Expect mandatory secondary valuation reviews and strict title chain audits on every investor file."
+        },
+        {
+          "heading": "Broker and title liability is spiking",
+          "body": "Lenders are no longer absorbing investor fraud losses quietly. They are suing brokers, appraisers, and title entities directly to recover capital when loans default."
+        },
+        {
+          "heading": "Repurchase risk shifts back to originators",
+          "body": "Lenders buying DSCR paper will audit early payment defaults immediately. If collusive valuation is found, originators face full loan buybacks."
+        }
+      ],
+      "my_take_heading": "Fast investor volume without strict controls is toxic",
+      "my_take": "Streamlined DSCR documentation was designed for efficient investor capital, not for skipping basic fraud controls.",
+      "action_lo": "Require independent rent schedule verifications on every DSCR transaction before submission.",
+      "action_realtor": "Vet real estate investor clients carefully when dealing with distressed turnkey portfolio flips.",
+      "cta_question": "Are your non-QM investor files truly protected against collusive appraisal schemes?"
+    },
+    {
+      "slug": "pennymac-uwm-conforming-limits",
+      "title": "Pennymac and UWM Raise Conforming Limits Ahead of FHFA",
+      "source": "National Mortgage Professional",
+      "source_url": "https://nationalmortgageprofessional.com/news/pennymac-raises-conforming-loan-limit-above-early-industry-benchmark",
+      "cover_text": "Lenders race to jump FHFA loan limits",
+      "caption": "Lenders are taking serious balance sheet risks to capture market share right now. Pennymac just raised its early conforming loan limit to $850,000 for single-unit homes, jumping ahead of UWM at $847,440 and other lenders at $845,000. All of this is happening before the FHFA (Federal Housing Finance Agency) releases official limits. From an underwriter view, these files cannot go to Fannie or Freddie yet. They must sit on portfolio balance sheets under strict internal review. But for loan officers, this creates an immediate window to save deals previously stuck in rigid jumbo guidelines. Here is what this aggressive lender race means for your pipeline.\n\nSource : https://tinyurl.com/22jjolj3\n#SafetrustMortgage #MortgageIntelligenceDaily #mortgagerates #loanofficer #homebuying",
+      "hashtags": [
+        "#SafetrustMortgage",
+        "#MortgageIntelligenceDaily",
+        "#mortgagerates",
         "#loanofficer",
+        "#homebuying"
+      ],
+      "hook_tag": "Loan Limits",
+      "hook": "Why jumping official conforming limits early is a risky move.",
+      "what_happened_heading": "Lenders hike limits before official government announcement",
+      "what_happened": "Pennymac raised its early conforming loan limit to $850,000 for one-unit properties, surpassing other lenders using $845,000. UWM also bumped its one-unit limit to $847,440 while the industry awaits official FHFA guidance.",
+      "breakdown": [
+        {
+          "heading": "An aggressive bid for market share",
+          "body": "Lenders are using balance sheet risk to capture high-balance borrower pipelines before the government officially adjusts baseline conforming caps for next year."
+        },
+        {
+          "heading": "Here is what changes in underwriting",
+          "body": "These early limit loans cannot be delivered to Fannie Mae or Freddie Mac yet. Underwriters must review them under internal portfolio standards, not automated underwriting systems."
+        },
+        {
+          "heading": "Pricing gaps favor proactive loan officers",
+          "body": "Borrowers who previously needed jumbo (non-conforming higher loan amount) financing can now access conforming pricing and easier debt ratio guidelines immediately."
+        },
+        {
+          "heading": "Secondary market execution risk looms",
+          "body": "If the FHFA sets the final conforming cap lower than $850,000, lenders must hold the excess debt on balance sheets or re-price existing files."
+        }
+      ],
+      "my_take_heading": "Early limit hikes are marketing plays with real secondary risk",
+      "my_take": "Capital competition is driving lenders to front-run federal policy just to secure jumbo-adjacent deal flow.",
+      "action_lo": "Audit prospective buyers trapped in high-balance pricing and convert them to the new $850k threshold.",
+      "action_realtor": "Target luxury buyers in the $900k price range who were previously squeezed by strict jumbo guidelines.",
+      "cta_question": "Is front-running FHFA loan limits a smart growth strategy or unnecessary balance sheet risk?"
+    },
+    {
+      "slug": "uwm-expands-condo-financing",
+      "title": "UWM Expands Non-Warrantable Condo Financing",
+      "source": "HousingWire",
+      "source_url": "https://www.housingwire.com/articles/uwm-expands-non-warrantable-condo-financing-amid-fhfa-rule-changes/",
+      "cover_text": "The condo financing game just changed",
+      "caption": "Condo financing just got a major lifeline, but buyers must tread carefully. UWM expanded its non-warrantable (ineligible for standard Fannie or Freddie government-backed loans) condo financing and introduced an automated tool to check building eligibility. Stricter agency guidelines around deferred structural maintenance have sidelined thousands of units nationwide. In my underwriting days, a single unanswered questionnaire question or low HOA reserve fund would instantly kill the loan. While expanded guidelines open doors for buyers, they do not erase structural building debt or upcoming special assessments. Loan officers must check HOA health before celebrating clear approvals. Here is how to navigate the new condo market.\n\nSource : https://tinyurl.com/2dd9yg7g\n#SafetrustMortgage #MortgageIntelligenceDaily #housingmarket #realestateagent #mortgagebroker",
+      "hashtags": [
+        "#SafetrustMortgage",
+        "#MortgageIntelligenceDaily",
+        "#housingmarket",
+        "#realestateagent",
         "#mortgagebroker"
       ],
-      "hook_tag": "mortgage tech",
-      "hook": "AI extracts mortgage data fast, but it cannot resolve conflicting evidence.",
-      "what_happened_heading": "lenders face data conflicts as ai tools digest full loan files",
-      "what_happened": "Conflicting details across payroll, tax documents, and bank statements force lenders to set clear rules for truth. AI reads files quickly, but human underwriters must still decide which document holds the actual truth.",
+      "hook_tag": "Condo Financing",
+      "hook": "Why expanded condo guidelines carry hidden risk for buyers.",
+      "what_happened_heading": "Wholesale giant widens non-warrantable condo program eligibility",
+      "what_happened": "UWM expanded its non-warrantable condo eligibility and launched a new tool to streamline building approvals. The move comes as stricter Fannie Mae and Freddie Mac condo guidelines have restricted traditional financing.",
       "breakdown": [
         {
-          "heading": "extractions are not underwriting approvals",
-          "body": "Extracting text from paystubs is easy. Determining whether bonus income is recurring or declining requires actual policy interpretation and human judgement."
+          "heading": "Conventional agency rules froze condo inventory",
+          "body": "Tightened agency standards on structural integrity and deferred maintenance made thousands of condo developments non-warrantable (ineligible for standard government-backed Fannie or Freddie mortgages)."
         },
         {
-          "heading": "conflicting documents stall automated workflows",
-          "body": "When an automated system sees a tax return that contradicts bank deposits, it flags the file. Underwriters still have to clear the discrepancy manually."
+          "heading": "Here is what changes in underwriting",
+          "body": "Underwriters no longer auto-reject developments with low reserve budgets or pending litigation. However, they dig deeper into budget line items and special assessment histories."
         },
         {
-          "heading": "the underwriter lens on ai data",
-          "body": "Here is what this actually changes when a file hits underwriting: clean files move fast, but complex income will sit in review longer until lenders define data hierarchies."
+          "heading": "Liquidity returns to stagnant condo complexes",
+          "body": "Sellers in distressed or aging condo developments finally have access to financing options without relying on cash-only buyers."
         },
         {
-          "heading": "clear rules prevent buyback liability",
-          "body": "Lenders cannot blame software if an investor repurchases a flawed loan. Institutional guidelines must dictate which data source overrides another during conflict."
+          "heading": "HOA risk shifts directly to property owners",
+          "body": "Expanding financing does not fix aging structural issues. Buyers could face unexpected special assessments post-closing if HOA budgets remain underfunded."
         }
       ],
-      "my_take_heading": "data speed exposes structural gaps in lender policy",
-      "my_take": "Fast AI extraction does not yield faster closings if your underwriting manual does not explain how to handle conflicting facts.",
-      "action_lo": "Review income documents for discrepancies between W-2s and bank deposits before submitting files to processing.",
-      "action_realtor": "Set buyer expectations early when dealing with self-employed or multi-source income, as extra document checks take time.",
-      "cta_question": "Does your pipeline clear automated data flags quickly, or do discrepancies slow down your underwriting turn times?"
+      "my_take_heading": "Lending tools solve financing friction but do not fix HOA balance sheets",
+      "my_take": "Expanding eligibility creates vital market liquidity, but it does not protect buyers from underlying structural maintenance debt.",
+      "action_lo": "Use the new eligibility tools early in pre-approval to vet complex condo projects before writing offers.",
+      "action_realtor": "Revisit stale condo listings that failed conventional condo spot checks to re-engage buyers.",
+      "cta_question": "Will non-warrantable condo expansion help clear inventory or push structural risk onto buyers?"
     },
     {
-      "slug": "ags-probe-zillow-referral-fees",
-      "title": "State AGs urged to probe Zillow, pocket listings, referral fees",
-      "source": "HousingWire",
-      "source_url": "https://www.housingwire.com/articles/ags-probe-zillow-referral-fees/",
-      "cover_text": "state ags target lead fees and pocket listings",
-      "caption": "State regulatory pressure is mounting against real estate lead routing and off-market inventory practices. A formal letter urged attorneys general to investigate pocket listings and paid agent referral structures following major legal settlements. For loan officers and realtors relying on co-marketing setups or portal leads, the legal compliance bar is shifting fast. Relying on paid exclusivity is becoming a liability rather than an asset. Here is what is changing for industry lead generation.\n\nSource : https://tinyurl.com/28k68p7y\n#SafetrustMortgage #MortgageIntelligenceDaily #realestateagent #housingmarket #loanofficer",
+      "slug": "mortgage-rates-jump-seven-percent",
+      "title": "Mortgage Rates Surge Near 7% as Demand Plummets",
+      "source": "Mortgage News Daily",
+      "source_url": "https://www.mortgagenewsdaily.com/markets/mortgage-rates-09152026",
+      "cover_text": "Rates jump 33 basis points fast",
+      "caption": "Sudden interest rate spikes are quietly blowing up active buyer pipelines. Top-tier 30-year fixed rates jumped 0.33% in just six days, pushing average quotes up to 7.22%. That is the most abrupt shift since October 2024. As a former underwriter, I know what happens next: DTI (debt-to-income: percentage of income going to debt) limits break. A buyer who was fully approved last week at maximum ratios now exceeds guidelines without changing their offer price. Loan officers who floating rates without proactive communication are about to see conditional approvals turn into denials. Here is what you need to do to salvage your active pipeline today.\n\nSource : https://tinyurl.com/2cbw9e6n\n#SafetrustMortgage #MortgageIntelligenceDaily #mortgagerates #firsttimehomebuyer #loanofficer",
       "hashtags": [
         "#SafetrustMortgage",
         "#MortgageIntelligenceDaily",
-        "#realestateagent",
-        "#housingmarket",
+        "#mortgagerates",
+        "#firsttimehomebuyer",
         "#loanofficer"
       ],
-      "hook_tag": "industry regulation",
-      "hook": "Referral fee probes could disrupt how buyers find homes and agents.",
-      "what_happened_heading": "state ags urged to investigate lead routing and fee structures",
-      "what_happened": "A coalition letter urges state attorneys general to examine pocket listings, referral fee models, and agent routing practices. The push follows recent antitrust scrutiny surrounding portal settlements and exclusive listing practices.",
+      "hook_tag": "Rate Spike",
+      "hook": "Why a six-day rate surge is crushing active pre-approvals.",
+      "what_happened_heading": "Mortgage rates climb to highest level since January 2025",
+      "what_happened": "Top-tier 30-year fixed mortgage rates jumped 0.33% over six consecutive days, reaching an average of 7.22%. This sudden rate surge pushed overall mortgage application demand down sharply across the country.",
       "breakdown": [
         {
-          "heading": "scrutiny hits digital lead routing",
-          "body": "Regulators are taking a closer look at how consumer contact requests get routed and monetized through paid lead generation networks."
+          "heading": "The fastest rate bump in nearly two years",
+          "body": "A 33 basis point increase in under a week represents the most abrupt rate movement seen since October 2024, catching pre-approved buyers completely off guard."
         },
         {
-          "heading": "pocket listings face fair housing criticism",
-          "body": "Off-market listings limit public access to housing inventory. State officials are being asked to evaluate whether private networks breach fair competition."
+          "heading": "Here is what changes in underwriting",
+          "body": "Underwriters are forced to re-calculate DTI (debt-to-income: ratio of debt payments to gross income) on every active pre-approval, causing pre-approved files to fail automated underwriting limits."
         },
         {
-          "heading": "the underwriter lens on lead sources",
-          "body": "Here is what this actually changes when a file hits underwriting: referral fee disputes do not alter credit guidelines, but compliance audits on marketing arrangements will tighten significantly."
+          "heading": "Buyer purchasing power erodes overnight",
+          "body": "Higher borrowing costs directly trim buyer budgets, turning pre-approved buyers into unqualified borrowers unless they adjust purchase prices downward."
         },
         {
-          "heading": "co-marketing agreements face fresh evaluation",
-          "body": "Lenders and agents relying on joint advertising arrangements must ensure strict compliance with federal and state referral fee prohibitions."
+          "heading": "Fixed-rate lock strategies must adapt",
+          "body": "Floating a rate in a volatile market is currently high risk. Originators must prioritize upfront lock-and-shop programs to protect pipeline conversion."
         }
       ],
-      "my_take_heading": "paid lead routing models are losing regulatory protection",
-      "my_take": "Monetizing buyer contact forms and hiding inventory in private networks is no longer seen as tech innovation—it is getting targeted as an antitrust violation.",
-      "action_lo": "Audit all co-marketing platforms and paid lead arrangements today to verify complete legal compliance.",
-      "action_realtor": "Focus on building direct relationship networks rather than depending entirely on paid portal leads that face regulatory risks.",
-      "cta_question": "Will regulatory pressure force major tech portals to change how they route buyer leads?"
-    },
-    {
-      "slug": "non-qm-originations-2026-forecast",
-      "title": "Is non-QM a modern-day Cinderella mortgage investment?",
-      "source": "HousingWire",
-      "source_url": "https://www.housingwire.com/articles/non-qm-originations-2026-forecast/",
-      "cover_text": "non qm volume targets a massive milestone",
-      "caption": "Non-QM is proving to be a powerhouse segment in the mortgage industry. With BofA Securities forecasting $100 billion in securitization issuance following a record $20.9 billion third quarter in 2025, liquidity in non-agency loans is surging. High-net-worth and self-employed buyers need alternatives to standard agency guidelines, and secondary market investors are lining up to buy the paper. If you are treating non-QM as a last resort, you are leaving business on the table. Here is what you need to know about the shift.\n\nSource : https://tinyurl.com/297pajra\n#SafetrustMortgage #MortgageIntelligenceDaily #mortgagebroker #realestateinvesting #loanofficer",
-      "hashtags": [
-        "#SafetrustMortgage",
-        "#MortgageIntelligenceDaily",
-        "#mortgagebroker",
-        "#realestateinvesting",
-        "#loanofficer"
-      ],
-      "hook_tag": "non-qm market",
-      "hook": "Non-QM loans are no longer niche products for fringe buyers.",
-      "what_happened_heading": "bank of america forecasts massive non qm securitization growth",
-      "what_happened": "BofA Securities projects $100 billion in non-QM securitization issuance after a record $20.9 billion arrived in Q3 2025. Strong secondary market demand is turning non-agency mortgages into a major asset class.",
-      "breakdown": [
-        {
-          "heading": "wall street craves non agency yield",
-          "body": "Institutional investors are eagerly buying non-QM residential mortgage-backed securities to capture higher yield than traditional agency paper provides."
-        },
-        {
-          "heading": "self employed borrowers drive volume",
-          "body": "Bank statement and investor cash-flow products are serving strong borrowers who fall outside standard agency underwriting boxes."
-        },
-        {
-          "heading": "the underwriter lens on non qm files",
-          "body": "Here is what this actually changes when a file hits underwriting: non-QM requires rigorous cash flow analysis, so clear bank statements matter far more than automated underwriting scores."
-        },
-        {
-          "heading": "liquidity expands product options",
-          "body": "Strong securitization markets give originators confidence that non-agency loan programs will maintain competitive pricing and execution."
-        }
-      ],
-      "my_take_heading": "non qm is now core mortgage liquidity",
-      "my_take": "Non-QM is not subprime—it is institutional capital funding self-employed and real estate investor borrowers that agency guidelines ignore.",
-      "action_lo": "Master bank statement and DSCR (debt service coverage ratio) guidelines to capture non-agency purchase business.",
-      "action_realtor": "Partner with LOs who specialize in non-QM to save transactions for buyers with complex tax returns.",
-      "cta_question": "Is non-QM a primary growth driver in your current production pipeline?"
-    },
-    {
-      "slug": "new-home-mortgage-applications-fall-fifth-straight-month",
-      "title": "New-Home Mortgage Applications Fall For Fifth Straight Month",
-      "source": "National Mortgage Professional",
-      "source_url": "https://nationalmortgageprofessional.com/news/new-home-mortgage-applications-fall-fifth-straight-month",
-      "cover_text": "new home mortgage applications hit builder wall",
-      "caption": "New-home mortgage applications declined for the fifth straight month in August, dropping 5.5% compared to last year according to the Mortgage Bankers Association. For months, homebuilders kept purchase activity afloat using aggressive rate buydowns and sales incentives. But those temporary incentives are hitting a wall against ongoing affordability pressures. If buyers cannot qualify on base prices, temporary breaks will not save volume. Here is what this means for loan officers and agents working with new construction.\n\nSource : https://tinyurl.com/2a6r7wwp\n#SafetrustMortgage #MortgageIntelligenceDaily #homebuying #housingmarket #firsttimehomebuyer",
-      "hashtags": [
-        "#SafetrustMortgage",
-        "#MortgageIntelligenceDaily",
-        "#homebuying",
-        "#housingmarket",
-        "#firsttimehomebuyer"
-      ],
-      "hook_tag": "builder market",
-      "hook": "Builder incentives are failing to offset growing buyer affordability pressure.",
-      "what_happened_heading": "new home purchase applications fall for fifth consecutive month",
-      "what_happened": "Mortgage applications for newly built homes dropped 5.5% year-over-year and 6% month-over-month in August. The Mortgage Bankers Association data shows builder sales incentives are no longer enough to support demand.",
-      "breakdown": [
-        {
-          "heading": "builder rate buydowns hit limits",
-          "body": "Temporary rate buydowns and price concessions are losing power as persistent high interest rates continue to erode overall homebuyer purchasing power."
-        },
-        {
-          "heading": "buyer demand pulls back across regions",
-          "body": "New construction was carrying the purchase market, but five straight months of application drops confirm buyers are backing away."
-        },
-        {
-          "heading": "the underwriter lens on builder concessions",
-          "body": "Here is what this actually changes when a file hits underwriting: underwriters strictly enforce interested party contribution limits, preventing builders from masking affordability issues with excessive credits."
-        },
-        {
-          "heading": "inventory risks begin to pile up",
-          "body": "Sluggish purchase application volume leaves homebuilders exposed to rising finished inventory holding costs heading into the fall season."
-        }
-      ],
-      "my_take_heading": "price cuts must replace temporary rate buydowns",
-      "my_take": "Builder rate buydowns are a temporary bandage. Without base price reductions, buyers cannot clear qualification thresholds in this market.",
-      "action_lo": "Offer buyers long-term rate lock options and compare buydowns against permanent price reductions.",
-      "action_realtor": "Negotiate direct base price reductions with builders instead of relying solely on closing cost credits.",
-      "cta_question": "Are builder incentives still driving contracts in your local market?"
-    }
-  ],
-  "carousels_es": [
-    {
-      "slug": "ai-mortgage-evidence-adjudication",
-      "title": "La IA puede leer el expediente hipotecario, pero ¿quién decide qué hechos son ciertos?",
-      "source": "HousingWire",
-      "source_url": "https://www.housingwire.com/articles/ai-mortgage-evidence-adjudication/",
-      "cover_text": "por qué la ia no puede aprobar hipotecas sola",
-      "caption": "Las herramientas de IA pueden procesar miles de páginas en segundos, pero leer datos no es lo mismo que aprobar un préstamo. Cuando los recibos de nómina, las declaraciones de impuestos y los estados de cuenta bancarios ofrecen historias contradictorias, los algoritmos se \"congelan\". El verdadero cuello de botella en los préstamos modernos no es la extracción de datos, sino una política institucional clara sobre qué documento tiene prioridad. Los prestamistas que no definen estas reglas de antemano solo crean mayores retrasos para sus asesores. Así es como la adjudicación de expedientes afecta tu proceso y para qué debes prepararte.\n\nFuente : https://tinyurl.com/29sbceej\n#SafetrustMortgage #MortgageIntelligenceDaily #mortgages #loanofficer #mortgagebroker",
-      "hashtags": [
-        "#SafetrustMortgage",
-        "#MortgageIntelligenceDaily",
-        "#mortgages",
-        "#loanofficer",
-        "#mortgagebroker"
-      ],
-      "hook_tag": "tecnología hipotecaria",
-      "hook": "La IA extrae datos rápido, pero no resuelve evidencia contradictoria.",
-      "what_happened_heading": "prestamistas enfrentan conflictos de datos al usar ia",
-      "what_happened": "Detalles contradictorios en nóminas, impuestos y estados de cuenta obligan a los prestamistas a establecer reglas claras. La IA lee archivos rápido, pero los asesores humanos deben decidir qué documento tiene la verdad.",
-      "breakdown": [
-        {
-          "heading": "la extracción no es una aprobación de préstamo",
-          "body": "Extraer texto de una nómina es fácil. Determinar si un bono es recurrente o está disminuyendo requiere interpretación de la política y juicio humano."
-        },
-        {
-          "heading": "documentos contradictorios detienen la automatización",
-          "body": "Si un sistema automatizado ve una declaración de impuestos que contradice los depósitos bancarios, \"señala\" el expediente. Los asesores deben resolver esa discrepancia manualmente."
-        },
-        {
-          "heading": "el asesor y los datos de la ia",
-          "body": "Esto es lo que cambia al evaluar un expediente: los expedientes \"limpios\" avanzan rápido, pero los ingresos complejos tardan más si los prestamistas no definen las jerarquías de datos."
-        },
-        {
-          "heading": "reglas claras evitan recompras",
-          "body": "Los prestamistas no pueden culpar al software si un inversionista \"recompra\" un préstamo defectuoso. Las guías institucionales deben dictar qué fuente de datos prevalece en un conflicto."
-        }
-      ],
-      "my_take_heading": "la velocidad expone brechas en la política del prestamista",
-      "my_take": "La extracción rápida de datos con IA no acelera el cierre si tu manual de asesoramiento no explica cómo manejar hechos contradictorios.",
-      "action_lo": "Revisa los documentos de ingresos para detectar discrepancias entre los W-2 y los depósitos bancarios antes de enviar los expedientes a procesamiento.",
-      "action_realtor": "Establece expectativas claras con los compradores desde el inicio, especialmente con ingresos complejos, ya que las verificaciones adicionales llevan tiempo.",
-      "cta_question": "¿Tu proceso resuelve rápido las alertas de datos automatizadas, o las discrepancias retrasan tus tiempos de respuesta?"
-    },
-    {
-      "slug": "ags-probe-zillow-referral-fees",
-      "title": "Instan a fiscales estatales a investigar Zillow, listados \"ocultos\" y tarifas por referido",
-      "source": "HousingWire",
-      "source_url": "https://www.housingwire.com/articles/ags-probe-zillow-referral-fees/",
-      "cover_text": "fiscales investigan tarifas y listados ocultos",
-      "caption": "La presión regulatoria estatal aumenta contra las prácticas de direccionamiento de \"leads\" inmobiliarios y el inventario fuera del mercado. Una carta formal instó a los fiscales generales a investigar los listados \"ocultos\" (pocket listings) y las estructuras de tarifas por referido de agentes, tras importantes acuerdos legales. Para los oficiales de préstamos y agentes de bienes raíces que dependen de arreglos de \"co-marketing\" o \"leads\" de portales, el estándar de cumplimiento legal está cambiando rápidamente. Depender de la exclusividad pagada se está volviendo una desventaja en lugar de una ventaja. Esto es lo que está cambiando en la generación de \"leads\" de la industria.\n\nFuente : https://tinyurl.com/28k68p7y\n#SafetrustMortgage #MortgageIntelligenceDaily #realestateagent #housingmarket #loanofficer",
-      "hashtags": [
-        "#SafetrustMortgage",
-        "#MortgageIntelligenceDaily",
-        "#realestateagent",
-        "#housingmarket",
-        "#loanofficer"
-      ],
-      "hook_tag": "regulación de la industria",
-      "hook": "Las investigaciones por tarifas de referido podrían cambiar cómo se buscan casas y agentes.",
-      "what_happened_heading": "piden a fiscales investigar rutas de leads y tarifas",
-      "what_happened": "Una coalición de cartas insta a los fiscales estatales a examinar los listados \"ocultos\", los modelos de tarifas por referido y las prácticas de asignación de agentes. Esto surge tras el escrutinio antimonopolio por los acuerdos de portales y las prácticas de listados exclusivos.",
-      "breakdown": [
-        {
-          "heading": "el escrutinio llega a las rutas de leads digitales",
-          "body": "Los reguladores analizan cómo se dirigen y monetizan las solicitudes de contacto de los consumidores a través de redes pagadas de generación de \"leads\"."
-        },
-        {
-          "heading": "listados ocultos enfrentan críticas por vivienda justa",
-          "body": "Los listados fuera del mercado limitan el acceso público al inventario de viviendas. Se pide a los funcionarios estatales que evalúen si las redes privadas violan la competencia justa."
-        },
-        {
-          "heading": "el asesor y las fuentes de leads",
-          "body": "Esto es lo que cambia al evaluar un expediente: las disputas por tarifas de referido no alteran las guías de crédito, pero las auditorías de cumplimiento en acuerdos de \"marketing\" se endurecerán mucho."
-        },
-        {
-          "heading": "acuerdos de co-marketing bajo nueva evaluación",
-          "body": "Prestadores y agentes que usen acuerdos de publicidad conjunta deben asegurar un cumplimiento estricto de las prohibiciones federales y estatales sobre tarifas de referido."
-        }
-      ],
-      "my_take_heading": "los modelos de leads pagados pierden protección regulatoria",
-      "my_take": "Monetizar contactos de compradores y ocultar inventario en redes privadas ya no se ve como innovación tecnológica, sino como una posible violación antimonopolio.",
-      "action_lo": "Audita hoy todas las plataformas de \"co-marketing\" y acuerdos de \"leads\" pagados para verificar el cumplimiento legal total.",
-      "action_realtor": "Enfócate en construir redes de relaciones directas, en vez de depender solo de \"leads\" pagados de portales que enfrentan riesgos regulatorios.",
-      "cta_question": "¿La presión regulatoria obligará a los grandes portales tecnológicos a cambiar cómo dirigen los \"leads\" de compradores?"
-    },
-    {
-      "slug": "non-qm-originations-2026-forecast",
-      "title": "¿Es el Non-QM una \"Cenicienta\" de la inversión hipotecaria moderna?",
-      "source": "HousingWire",
-      "source_url": "https://www.housingwire.com/articles/non-qm-originations-2026-forecast/",
-      "cover_text": "el volumen non-qm busca un hito gigante",
-      "caption": "Non-QM está demostrando ser un segmento potente en la industria hipotecaria. Con BofA Securities pronosticando $100 mil millones en emisión de titulizaciones después de un récord de $20.9 mil millones en el tercer trimestre de 2025, la liquidez en préstamos \"no de agencia\" (non-agency) está en auge. Compradores de alto patrimonio y trabajadores independientes necesitan alternativas a las guías de agencia estándar, y los inversionistas del mercado secundario hacen fila para comprar estos papeles. Si tratas Non-QM como último recurso, estás perdiendo negocio. Esto es lo que debes saber sobre este cambio.\n\nFuente : https://tinyurl.com/297pajra\n#SafetrustMortgage #MortgageIntelligenceDaily #mortgagebroker #realestateinvesting #loanofficer",
-      "hashtags": [
-        "#SafetrustMortgage",
-        "#MortgageIntelligenceDaily",
-        "#mortgagebroker",
-        "#realestateinvesting",
-        "#loanofficer"
-      ],
-      "hook_tag": "mercado non-qm",
-      "hook": "Los préstamos Non-QM ya no son productos \"de nicho\" para pocos.",
-      "what_happened_heading": "bank of america pronostica gran crecimiento non qm",
-      "what_happened": "BofA Securities proyecta $100 mil millones en emisión de titulizaciones Non-QM después de un récord de $20.9 mil millones en el 3T 2025. La fuerte demanda del mercado secundario convierte los préstamos \"no de agencia\" en una clase de activo principal.",
-      "breakdown": [
-        {
-          "heading": "wall street busca el rendimiento non-agency",
-          "body": "Inversionistas institucionales compran con entusiasmo títulos respaldados por hipotecas residenciales (RMBS) Non-QM para obtener mayor rendimiento que con los papeles tradicionales de agencia."
-        },
-        {
-          "heading": "prestatarios independientes impulsan el volumen",
-          "body": "Productos con estados de cuenta bancarios y flujo de efectivo de inversionistas (DSCR) sirven a prestatarios sólidos que no cumplen con las guías de asesoramiento estándar de agencia."
-        },
-        {
-          "heading": "el asesor y los expedientes non-qm",
-          "body": "Esto es lo que cambia al evaluar un expediente: Non-QM requiere un análisis riguroso del flujo de efectivo, por lo que los estados de cuenta claros importan mucho más que los puntajes automatizados."
-        },
-        {
-          "heading": "la liquidez amplía las opciones de productos",
-          "body": "Mercados de titulización fuertes dan confianza a los originadores de que los programas de préstamos \"no de agencia\" mantendrán precios y ejecuciones competitivos."
-        }
-      ],
-      "my_take_heading": "non-qm es ahora liquidez hipotecaria central",
-      "my_take": "Non-QM no es \"subprime\"; es capital institucional que financia a prestatarios independientes e inversionistas inmobiliarios que las guías de agencia ignoran.",
-      "action_lo": "Domina las guías de estados de cuenta bancarios y DSCR (debt service coverage ratio) para capturar negocios de compra \"no de agencia\".",
-      "action_realtor": "Asóciate con oficiales de préstamos que se especialicen en Non-QM para \"salvar\" transacciones de compradores con declaraciones de impuestos complejas.",
-      "cta_question": "¿Es Non-QM un motor de crecimiento principal en tu actual proceso de producción?"
-    },
-    {
-      "slug": "new-home-mortgage-applications-fall-fifth-straight-month",
-      "title": "Las solicitudes de hipotecas para casas nuevas caen por quinto mes consecutivo",
-      "source": "National Mortgage Professional",
-      "source_url": "https://nationalmortgageprofessional.com/news/new-home-mortgage-applications-fall-fifth-straight-month",
-      "cover_text": "solicitudes de hipotecas caen en casas nuevas",
-      "caption": "Las solicitudes de hipotecas para casas nuevas disminuyeron por quinto mes consecutivo en agosto, cayendo un 5.5% en comparación con el año pasado, según la Mortgage Bankers Association. Durante meses, los constructores mantuvieron la actividad de compra a flote usando agresivas \"reducciones de tasa\" (rate buydowns) e incentivos de venta. Pero esos incentivos temporales están chocando con las continuas presiones de asequibilidad. Si los compradores no pueden calificar con los precios base, las ventajas temporales no salvarán el volumen. Esto es lo que significa para los oficiales de préstamos y agentes que trabajan con construcción nueva.\n\nFuente : https://tinyurl.com/2a6r7wwp\n#SafetrustMortgage #MortgageIntelligenceDaily #homebuying #housingmarket #firsttimehomebuyer",
-      "hashtags": [
-        "#SafetrustMortgage",
-        "#MortgageIntelligenceDaily",
-        "#homebuying",
-        "#housingmarket",
-        "#firsttimehomebuyer"
-      ],
-      "hook_tag": "mercado de constructores",
-      "hook": "Incentivos de constructores no compensan la creciente presión de asequibilidad.",
-      "what_happened_heading": "solicitudes de hipotecas nuevas caen por quinto mes",
-      "what_happened": "Las solicitudes de hipotecas para casas recién construidas bajaron 5.5% año tras año y 6% mes tras mes en agosto. Los datos de la Mortgage Bankers Association muestran que los incentivos de los constructores ya no son suficientes para sostener la demanda.",
-      "breakdown": [
-        {
-          "heading": "las reducciones de tasa de constructores llegan a un límite",
-          "body": "Las \"reducciones de tasa\" temporales y las concesiones de precios pierden fuerza, ya que las altas tasas de interés persistentes siguen erosionando el poder de compra general del comprador."
-        },
-        {
-          "heading": "la demanda de compradores se retira en regiones",
-          "body": "La construcción nueva sostenía el mercado de compras, pero cinco meses seguidos de caídas en las solicitudes confirman que los compradores se están echando atrás."
-        },
-        {
-          "heading": "el asesor y las concesiones del constructor",
-          "body": "Esto es lo que cambia al evaluar un expediente: los asesores aplican estrictamente los límites de contribución de partes interesadas, evitando que los constructores oculten problemas de asequibilidad con créditos excesivos."
-        },
-        {
-          "heading": "los riesgos de inventario empiezan a acumularse",
-          "body": "El bajo volumen de solicitudes de compra deja a los constructores expuestos a mayores costos de mantenimiento de inventario terminado a medida que avanza la temporada de otoño."
-        }
-      ],
-      "my_take_heading": "los recortes de precios deben reemplazar las reducciones temporales",
-      "my_take": "Las \"reducciones de tasa\" de los constructores son un curita temporal. Sin reducciones en el precio base, los compradores no pueden calificar en este mercado.",
-      "action_lo": "Ofrece a los compradores opciones de \"bloqueo de tasa\" a largo plazo y compara las \"reducciones de tasa\" con las reducciones de precio permanentes.",
-      "action_realtor": "Negocia reducciones directas del precio base con los constructores en lugar de depender solo de créditos para los costos de cierre.",
-      "cta_question": "¿Los incentivos de los constructores siguen impulsando contratos en tu mercado local?"
+      "my_take_heading": "Fast rate spikes hurt pipeline conversion more than high steady rates",
+      "my_take": "Volatility destroys transactions faster than high rates because buyer debt ratios cannot keep up with sudden pricing shifts.",
+      "action_lo": "Run a pipeline audit today to re-calculate DTI limits on every unlocked buyer pre-approval.",
+      "action_realtor": "Re-verify buyer qualification letters on current offers to ensure rate increases did not breach debt limits.",
+      "cta_question": "How are your loan officers handling debt-ratio shocks across their active pipeline this week?"
     }
   ]
 }
