@@ -1,342 +1,172 @@
 {
   "carousels": [
     {
-      "slug": "new-home-mortgage-apps-fall",
-      "title": "New-home mortgage applications fall for fifth straight month",
-      "source": "National Mortgage Professional",
-      "source_url": "https://nationalmortgageprofessional.com/news/new-home-mortgage-applications-fall-fifth-straight-month",
-      "cover_text": "Builder incentives aren't fixing the pipeline",
-      "caption": "New-home mortgage applications just dropped for the fifth straight month, falling 5.5% year-over-year according to the MBA. Even with widespread rate buydowns and concessions, buyers are hitting an affordability wall. Here is why builder volume is stalling and what it means for your pipeline.\n\nSource : https://tinyurl.com/2a6r7wwp\n#SafetrustMortgage #MortgageIntelligenceDaily #housingmarket #mortgagerates #realestateagent",
-      "hashtags": [
-        "#SafetrustMortgage",
-        "#MortgageIntelligenceDaily",
-        "#housingmarket",
-        "#mortgagerates",
-        "#realestateagent"
-      ],
-      "hook_tag": "Pipeline Reality Check",
-      "hook": "Why five months of falling builder apps spells trouble for your pipeline.",
-      "what_happened_heading": "Builder apps sink for the fifth month",
-      "what_happened": "Mortgage applications for newly built homes declined 6% from July and 5.5% year-over-year. This marks five consecutive months of declines despite heavy builder incentives.",
-      "breakdown": [
-        {
-          "heading": "Concessions hit a brick wall",
-          "body": "Builders have thrown everything at buyers: rate buydowns, design center credits, and closing cost help. When applications still drop for five straight months, it means the fundamental affordability gap is too wide for surface-level fixes."
-        },
-        {
-          "heading": "The debt-to-income ceiling",
-          "body": "Here is what this actually changes when a file hits underwriting: DTI (how much of your income goes to debt) ratios are maxed out. Even with builder financing arms stepping in, buyers simply do not have the gross income to support current prices at 7% rates."
-        },
-        {
-          "heading": "The psychological rate barrier",
-          "body": "Buyers are no longer reacting to temporary rate relief. Persistent rate volatility above 7% has trained consumers to wait on the sidelines, paralyzing purchase demand regardless of how attractive the builder's promo rate looks."
-        },
-        {
-          "heading": "Shifting the loan officer focus",
-          "body": "When new construction volume contracts, originators must pivot away from builder-rep concentration. Surviving this slump requires doubling down on existing inventory, distressed sales, and creative renovation financing."
-        }
-      ],
-      "my_take_heading": "Incentives are a band-aid on a broken bone",
-      "my_take": "If a permanent rate buydown cannot rescue builder volume for five straight months, stop waiting for market rescue. The problem is structural income mismatch, not marketing.",
-      "action_lo": "Audit your builder relationships and build a direct-to-consumer plan for resale properties.",
-      "action_realtor": "Educate sellers that rate buydowns are losing punch, and price adjustments are the only real leverage left.",
-      "cta_question": "Are your builder partners seeing cancellations tick up, or are buyers just refusing to enter contract at all right now? Let's talk below. #SafetrustMortgage #MortgageIntelligenceDaily"
-    },
-    {
-      "slug": "chase-mortgage-rate-sale",
-      "title": "Is Chase’s Mortgage Rate Sale a Good Bet on Lower Interest Rates?",
-      "source": "The Truth About Mortgage",
-      "source_url": "https://www.thetruthaboutmortgage.com/is-chases-mortgage-rate-sale-a-good-bet-on-tighter-margins",
-      "cover_text": "Chase is discounting rates again. Here's why.",
-      "caption": "Chase Bank is running another mortgage rate sale, offering an estimated 25 basis point discount off standard pricing. But are rate sales a smart bet on future refinances, or just an expensive margin squeeze for the industry? Let's look at the file level.\n\nSource : https://tinyurl.com/2ymjqtjn\n#SafetrustMortgage #MortgageIntelligenceDaily #mortgagerates #mortgagebroker #homebuying",
-      "hashtags": [
-        "#SafetrustMortgage",
-        "#MortgageIntelligenceDaily",
-        "#mortgagerates",
-        "#mortgagebroker",
-        "#homebuying"
-      ],
-      "hook_tag": "Margin Analysis",
-      "hook": "What big bank rate sales actually cost your originations and your margins.",
-      "what_happened_heading": "Big banks roll out rate discounts",
-      "what_happened": "Chase has brought back its periodic mortgage rate sale, widely estimated to shave about 25 basis points (0.25%) off conventional rates. The recurring promotional pricing targets qualified homebuyers looking for an immediate savings edge.",
-      "breakdown": [
-        {
-          "heading": "The 25 basis point illusion",
-          "body": "A quarter-point discount sounds great on a billboard, but let us look at the math. On a $400,000 loan, 25 bps saves roughly $60 a month. That is not enough to change a buyer's debt-to-income qualification math."
-        },
-        {
-          "heading": "The back-end underwriting cost",
-          "body": "Here is what this actually changes when a file hits underwriting: proprietary bank discounts often come with rigid internal overlays. Borrowers might get a lower rate, but they face stricter asset verification and zero room for exception approvals."
-        },
-        {
-          "heading": "Buying future refinance volume",
-          "body": "Major banks use these sales as loss leaders to capture servicing rights. They are betting that today's borrower will refinance with them again when rates drop, locking in lifetime customer value at the expense of upfront margin."
-        },
-        {
-          "heading": "The independent broker counter-strategy",
-          "body": "Independent brokers cannot compete on bank-subsidized pricing, so do not try. Sell speed, service, and local underwriting discretion instead of chasing a race-to-the-bottom pricing war."
-        }
-      ],
-      "my_take_heading": "Banks sell servicing, not just loans",
-      "my_take": "When a big bank slashes rates on a sale, they are not helping the consumer. They are buying a 30-year servicing asset and squeezing independent originator margins out of the market.",
-      "action_lo": "Remind clients that big bank rate discounts often come with slower processing times and zero local escalation paths.",
-      "action_realtor": "Protect your deals by steering clients toward lenders who close on time, rather than a headline rate that stalls in processing.",
-      "cta_question": "Can independent brokers survive when Tier-1 banks use rate sales as loss leaders? Drop your strategy below. #SafetrustMortgage #MortgageIntelligenceDaily"
-    },
-    {
-      "slug": "mortgage-credit-scores-vantagescore",
-      "title": "Mortgage credit scores are evolving. What homebuyers need to know",
-      "source": "CNBC",
-      "source_url": "https://www.cnbc.com/2026/09/15/mortgage-credit-scores-vantagescore-fico-homebuyers.html",
-      "cover_text": "The FICO monopoly is finally cracking open",
-      "caption": "Fannie Mae and Freddie Mac now have the green light to use VantageScore 4.0 alongside traditional models. This credit score shift is the biggest infrastructure change in decades. Here is how it impacts approvals, pricing, and your pipeline.\n\nSource : https://tinyurl.com/23hjqzny\n#SafetrustMortgage #MortgageIntelligenceDaily #firsttimehomebuyer #housingmarket #mortgagerates",
-      "hashtags": [
-        "#SafetrustMortgage",
-        "#MortgageIntelligenceDaily",
-        "#firsttimehomebuyer",
-        "#housingmarket",
-        "#mortgagerates"
-      ],
-      "hook_tag": "Credit Infrastructure",
-      "hook": "Why the shift to VantageScore changes qualification for millions of borrowers.",
-      "what_happened_heading": "Fannie and Freddie clear new scores",
-      "what_happened": "Mortgage lenders working with Fannie Mae and Freddie Mac now have regulatory approval to use VantageScore 4.0. This opens the door to alternative credit scoring models long dominated by traditional FICO metrics.",
-      "breakdown": [
-        {
-          "heading": "Scoring trended data",
-          "body": "VantageScore 4.0 incorporates trended credit data, meaning it looks at how a consumer manages debt over time, not just their balance today. This benefits borrowers who pay down revolving balances responsibly every month."
-        },
-        {
-          "heading": "Rescuing thin-file borrowers",
-          "body": "Millions of credit-invisible Americans who lacked traditional credit scores can now be scored using rental history and utility payments. This instantly expands the addressable purchase market for first-time homebuyer products."
-        },
-        {
-          "heading": "The automated underwriting engine shift",
-          "body": "Here is what this actually changes when a file hits underwriting: Desktop Underwriter and Loan Product Advisor will process alternative data points differently. Loan officers must learn how score variances between FICO and VantageScore affect pricing adjustments."
-        },
-        {
-          "heading": "Implementation growing pains",
-          "body": "Do not expect an overnight industry stampede. Lenders, credit bureaus, and software vendors face massive tech updates before multi-model scoring becomes standard operating procedure across all wholesale and retail channels."
-        }
-      ],
-      "my_take_heading": "This is about data access, not charity",
-      "my_take": "The shift away from a single credit score monopoly is long overdue. Lenders who master alternative scoring models first will capture an entirely unbanked segment of next-gen buyers.",
-      "action_lo": "Review your pipeline for denied files that might pass under VantageScore 4.0's trended data criteria.",
-      "action_realtor": "Tell sidelined first-time buyers with thin credit files to talk to a lender about alternative scoring options now.",
-      "cta_question": "Are your automated underwriting systems ready for multi-model credit scoring, or is tech implementation lagging behind? Tell me below. #SafetrustMortgage #MortgageIntelligenceDaily"
-    },
-    {
-      "slug": "fhfa-servicer-outreach-pmi",
-      "title": "Pulte pushes mortgage insurance cuts as FHFA opens door to servicer outreach",
+      "slug": "ai-mortgage-evidence-adjudication",
+      "title": "AI can read the mortgage file, but who decides which facts are true?",
       "source": "HousingWire",
-      "source_url": "https://www.housingwire.com/articles/fhfa-fannie-mae-freddie-mac-servicer-outreach-pmi-cancellation/",
-      "cover_text": "Unlocking homeowner equity through proactive PMI removal",
-      "caption": "The FHFA is aligning Fannie Mae and Freddie Mac by allowing servicers to proactively contact borrowers who qualify for PMI (private mortgage insurance) removal. This policy shift unlocks immediate monthly savings for homeowners. Here is why this is a massive retention play.\n\nSource : https://tinyurl.com/223ah4x7\n#SafetrustMortgage #MortgageIntelligenceDaily #mortgagebroker #realestateinvesting #homebuying",
+      "source_url": "https://www.housingwire.com/articles/ai-mortgage-evidence-adjudication/",
+      "cover_text": "why ai cannot approve mortgage files alone",
+      "caption": "AI tools can ingest thousands of pages in seconds, but reading data is not the same as approving a loan file. When paystubs, tax returns, and bank statements offer conflicting stories, algorithms freeze. The real bottleneck in modern lending is not data extraction—it is clear institutional policy on which document wins. Lenders who do not define these rules upfront simply create bigger backlogs for their underwriters. Here is how file adjudication affects your pipeline and what you need to prepare for in production.\n\nSource : https://tinyurl.com/29sbceej\n#SafetrustMortgage #MortgageIntelligenceDaily #mortgages #loanofficer #mortgagebroker",
+      "hashtags": [
+        "#SafetrustMortgage",
+        "#MortgageIntelligenceDaily",
+        "#mortgages",
+        "#loanofficer",
+        "#mortgagebroker"
+      ],
+      "hook_tag": "mortgage tech",
+      "hook": "AI extracts mortgage data fast, but it cannot resolve conflicting evidence.",
+      "what_happened_heading": "lenders face data conflicts as ai tools digest full loan files",
+      "what_happened": "Conflicting details across payroll, tax documents, and bank statements force lenders to set clear rules for truth. AI reads files quickly, but human underwriters must still decide which document holds the actual truth.",
+      "breakdown": [
+        {
+          "heading": "extractions are not underwriting approvals",
+          "body": "Extracting text from paystubs is easy. Determining whether bonus income is recurring or declining requires actual policy interpretation and human judgement."
+        },
+        {
+          "heading": "conflicting documents stall automated workflows",
+          "body": "When an automated system sees a tax return that contradicts bank deposits, it flags the file. Underwriters still have to clear the discrepancy manually."
+        },
+        {
+          "heading": "the underwriter lens on ai data",
+          "body": "Here is what this actually changes when a file hits underwriting: clean files move fast, but complex income will sit in review longer until lenders define data hierarchies."
+        },
+        {
+          "heading": "clear rules prevent buyback liability",
+          "body": "Lenders cannot blame software if an investor repurchases a flawed loan. Institutional guidelines must dictate which data source overrides another during conflict."
+        }
+      ],
+      "my_take_heading": "data speed exposes structural gaps in lender policy",
+      "my_take": "Fast AI extraction does not yield faster closings if your underwriting manual does not explain how to handle conflicting facts.",
+      "action_lo": "Review income documents for discrepancies between W-2s and bank deposits before submitting files to processing.",
+      "action_realtor": "Set buyer expectations early when dealing with self-employed or multi-source income, as extra document checks take time.",
+      "cta_question": "Does your pipeline clear automated data flags quickly, or do discrepancies slow down your underwriting turn times?"
+    },
+    {
+      "slug": "ags-probe-zillow-referral-fees",
+      "title": "State AGs urged to probe Zillow, pocket listings, referral fees",
+      "source": "HousingWire",
+      "source_url": "https://www.housingwire.com/articles/ags-probe-zillow-referral-fees/",
+      "cover_text": "state ags target lead fees and pocket listings",
+      "caption": "State regulatory pressure is mounting against real estate lead routing and off-market inventory practices. A formal letter urged attorneys general to investigate pocket listings and paid agent referral structures following major legal settlements. For loan officers and realtors relying on co-marketing setups or portal leads, the legal compliance bar is shifting fast. Relying on paid exclusivity is becoming a liability rather than an asset. Here is what is changing for industry lead generation.\n\nSource : https://tinyurl.com/28k68p7y\n#SafetrustMortgage #MortgageIntelligenceDaily #realestateagent #housingmarket #loanofficer",
+      "hashtags": [
+        "#SafetrustMortgage",
+        "#MortgageIntelligenceDaily",
+        "#realestateagent",
+        "#housingmarket",
+        "#loanofficer"
+      ],
+      "hook_tag": "industry regulation",
+      "hook": "Referral fee probes could disrupt how buyers find homes and agents.",
+      "what_happened_heading": "state ags urged to investigate lead routing and fee structures",
+      "what_happened": "A coalition letter urges state attorneys general to examine pocket listings, referral fee models, and agent routing practices. The push follows recent antitrust scrutiny surrounding portal settlements and exclusive listing practices.",
+      "breakdown": [
+        {
+          "heading": "scrutiny hits digital lead routing",
+          "body": "Regulators are taking a closer look at how consumer contact requests get routed and monetized through paid lead generation networks."
+        },
+        {
+          "heading": "pocket listings face fair housing criticism",
+          "body": "Off-market listings limit public access to housing inventory. State officials are being asked to evaluate whether private networks breach fair competition."
+        },
+        {
+          "heading": "the underwriter lens on lead sources",
+          "body": "Here is what this actually changes when a file hits underwriting: referral fee disputes do not alter credit guidelines, but compliance audits on marketing arrangements will tighten significantly."
+        },
+        {
+          "heading": "co-marketing agreements face fresh evaluation",
+          "body": "Lenders and agents relying on joint advertising arrangements must ensure strict compliance with federal and state referral fee prohibitions."
+        }
+      ],
+      "my_take_heading": "paid lead routing models are losing regulatory protection",
+      "my_take": "Monetizing buyer contact forms and hiding inventory in private networks is no longer seen as tech innovation—it is getting targeted as an antitrust violation.",
+      "action_lo": "Audit all co-marketing platforms and paid lead arrangements today to verify complete legal compliance.",
+      "action_realtor": "Focus on building direct relationship networks rather than depending entirely on paid portal leads that face regulatory risks.",
+      "cta_question": "Will regulatory pressure force major tech portals to change how they route buyer leads?"
+    },
+    {
+      "slug": "non-qm-originations-2026-forecast",
+      "title": "Is non-QM a modern-day Cinderella mortgage investment?",
+      "source": "HousingWire",
+      "source_url": "https://www.housingwire.com/articles/non-qm-originations-2026-forecast/",
+      "cover_text": "non qm volume targets a massive milestone",
+      "caption": "Non-QM is proving to be a powerhouse segment in the mortgage industry. With BofA Securities forecasting $100 billion in securitization issuance following a record $20.9 billion third quarter in 2025, liquidity in non-agency loans is surging. High-net-worth and self-employed buyers need alternatives to standard agency guidelines, and secondary market investors are lining up to buy the paper. If you are treating non-QM as a last resort, you are leaving business on the table. Here is what you need to know about the shift.\n\nSource : https://tinyurl.com/297pajra\n#SafetrustMortgage #MortgageIntelligenceDaily #mortgagebroker #realestateinvesting #loanofficer",
       "hashtags": [
         "#SafetrustMortgage",
         "#MortgageIntelligenceDaily",
         "#mortgagebroker",
         "#realestateinvesting",
-        "#homebuying"
+        "#loanofficer"
       ],
-      "hook_tag": "Servicing Strategy",
-      "hook": "Why proactive PMI removal is the ultimate retention tool for servicers.",
-      "what_happened_heading": "FHFA clears path for PMI outreach",
-      "what_happened": "A major policy shift aligns Fannie Mae with Freddie Mac by allowing companies to proactively contact borrowers who qualify for PMI removal. Servicers can now reach out directly to help homeowners drop their monthly mortgage insurance.",
+      "hook_tag": "non-qm market",
+      "hook": "Non-QM loans are no longer niche products for fringe buyers.",
+      "what_happened_heading": "bank of america forecasts massive non qm securitization growth",
+      "what_happened": "BofA Securities projects $100 billion in non-QM securitization issuance after a record $20.9 billion arrived in Q3 2025. Strong secondary market demand is turning non-agency mortgages into a major asset class.",
       "breakdown": [
         {
-          "heading": "Ending the passive waiting game",
-          "body": "Historically, borrowers had to jump through hoops and request PMI cancellation themselves once hitting 78% LTV (loan-to-value, how much you owe versus home value). Most homeowners did not know the rules, leaving billions in extra insurance payments intact."
+          "heading": "wall street craves non agency yield",
+          "body": "Institutional investors are eagerly buying non-QM residential mortgage-backed securities to capture higher yield than traditional agency paper provides."
         },
         {
-          "heading": "Creating immediate cash flow",
-          "body": "By removing PMI proactively, servicers are instantly freeing up $100 to $300 a month for consumers. In a tight affordability market, that payment relief acts just like a mini-rate cut without needing a full refinance."
+          "heading": "self employed borrowers drive volume",
+          "body": "Bank statement and investor cash-flow products are serving strong borrowers who fall outside standard agency underwriting boxes."
         },
         {
-          "heading": "The servicing retention weapon",
-          "body": "Here is what this actually changes when a file hits underwriting: servicers who audit their portfolio for PMI removal build immense goodwill. When that homeowner finally decides to move or refinance, that servicer owns the relationship."
+          "heading": "the underwriter lens on non qm files",
+          "body": "Here is what this actually changes when a file hits underwriting: non-QM requires rigorous cash flow analysis, so clear bank statements matter far more than automated underwriting scores."
         },
         {
-          "heading": "Appraisal and valuation friction",
-          "body": "Proactive removal still requires proof of home value. Lenders and servicers must streamline automated valuation models and interior appraisals to keep cancellation costs from eating up the borrower's savings."
+          "heading": "liquidity expands product options",
+          "body": "Strong securitization markets give originators confidence that non-agency loan programs will maintain competitive pricing and execution."
         }
       ],
-      "my_take_heading": "Relief without a refinance is a game changer",
-      "my_take": "Forcing homeowners to beg for PMI removal was always a broken system. Allowing servicers to proactively drop it is a rare regulatory win for consumer cash flow.",
-      "action_lo": "Run an automated portfolio sweep for past clients who have crossed the 80% LTV threshold and help them drop their PMI.",
-      "action_realtor": "Reach out to past buyer clients and let them know recent home appreciation might let them drop PMI without refinancing.",
-      "cta_question": "Are your servicing teams set up for proactive PMI outreach, or are you waiting for clients to call and ask? Let's discuss. #SafetrustMortgage #MortgageIntelligenceDaily"
-    }
-  ],
-  "carousels_es": [
+      "my_take_heading": "non qm is now core mortgage liquidity",
+      "my_take": "Non-QM is not subprime—it is institutional capital funding self-employed and real estate investor borrowers that agency guidelines ignore.",
+      "action_lo": "Master bank statement and DSCR (debt service coverage ratio) guidelines to capture non-agency purchase business.",
+      "action_realtor": "Partner with LOs who specialize in non-QM to save transactions for buyers with complex tax returns.",
+      "cta_question": "Is non-QM a primary growth driver in your current production pipeline?"
+    },
     {
-      "slug": "new-home-mortgage-apps-fall",
-      "title": "Las solicitudes de hipotecas para casas nuevas caen por quinto mes consecutivo",
+      "slug": "new-home-mortgage-applications-fall-fifth-straight-month",
+      "title": "New-Home Mortgage Applications Fall For Fifth Straight Month",
       "source": "National Mortgage Professional",
       "source_url": "https://nationalmortgageprofessional.com/news/new-home-mortgage-applications-fall-fifth-straight-month",
-      "cover_text": "Los incentivos de constructores ya no alcanzan",
-      "caption": "Las solicitudes de hipotecas para casas nuevas cayeron por quinto mes consecutivo.\n\nSegún la MBA, las solicitudes cayeron un 5.5% interanual. Ni siquiera los incentivos de los constructores ni las compras de tasa están logrando que los compradores den el paso, porque la falta de capacidad de pago ya tocó un límite.\n\nCuando un cliente llega con el asesor, vemos que la relación deuda-ingreso (DTI) está al máximo posible. Con tasas al 7%, los ingresos actuales simplemente no alcanzan para respaldar estos precios. Esperar a que el mercado se arregle solo no es una opción. Como profesional, es momento de diversificar hacia viviendas usadas y opciones creativas de financiamiento.\n\n¿Cómo lo ves tú?\n\nFuente : https://tinyurl.com/2a6r7wwp\n#SafetrustMortgage #MortgageIntelligenceDaily #housingmarket #mortgagerates #realestateagent",
+      "cover_text": "new home mortgage applications hit builder wall",
+      "caption": "New-home mortgage applications declined for the fifth straight month in August, dropping 5.5% compared to last year according to the Mortgage Bankers Association. For months, homebuilders kept purchase activity afloat using aggressive rate buydowns and sales incentives. But those temporary incentives are hitting a wall against ongoing affordability pressures. If buyers cannot qualify on base prices, temporary breaks will not save volume. Here is what this means for loan officers and agents working with new construction.\n\nSource : https://tinyurl.com/2a6r7wwp\n#SafetrustMortgage #MortgageIntelligenceDaily #homebuying #housingmarket #firsttimehomebuyer",
       "hashtags": [
         "#SafetrustMortgage",
         "#MortgageIntelligenceDaily",
+        "#homebuying",
         "#housingmarket",
-        "#mortgagerates",
-        "#realestateagent"
+        "#firsttimehomebuyer"
       ],
-      "hook_tag": "Realidad de la cartera",
-      "hook": "Por qué cinco meses de caída en casas nuevas afectan tu cartera.",
-      "what_happened_heading": "Caen las solicitudes en construcciones nuevas",
-      "what_happened": "Las solicitudes de hipotecas para casas nuevas cayeron un 6% respecto a julio y 5.5% frente al año pasado. Esto marca cinco meses seguidos de bajas, a pesar de las fuertes promociones de los constructores.",
+      "hook_tag": "builder market",
+      "hook": "Builder incentives are failing to offset growing buyer affordability pressure.",
+      "what_happened_heading": "new home purchase applications fall for fifth consecutive month",
+      "what_happened": "Mortgage applications for newly built homes dropped 5.5% year-over-year and 6% month-over-month in August. The Mortgage Bankers Association data shows builder sales incentives are no longer enough to support demand.",
       "breakdown": [
         {
-          "heading": "Los incentivos ya tocaron su límite",
-          "body": "Los constructores intentaron de todo: rebajar tasas y regalar costos de cierre. Si las solicitudes siguen cayendo, significa que el problema de fondo es el precio real."
+          "heading": "builder rate buydowns hit limits",
+          "body": "Temporary rate buydowns and price concessions are losing power as persistent high interest rates continue to erode overall homebuyer purchasing power."
         },
         {
-          "heading": "El límite en la relación deuda-ingreso",
-          "body": "Cuando el caso llega al asesor, la relación deuda-ingreso (DTI) está al tope. Sin suficiente ingreso bruto, el comprador no puede costear estos precios con tasas al 7%."
+          "heading": "buyer demand pulls back across regions",
+          "body": "New construction was carrying the purchase market, but five straight months of application drops confirm buyers are backing away."
         },
         {
-          "heading": "La barrera psicológica de las tasas",
-          "body": "Los compradores ya no reaccionan a descuentos temporales. La volatilidad constante arriba del 7% paralizó la demanda, sin importar lo atractiva que parezca la oferta del constructor."
+          "heading": "the underwriter lens on builder concessions",
+          "body": "Here is what this actually changes when a file hits underwriting: underwriters strictly enforce interested party contribution limits, preventing builders from masking affordability issues with excessive credits."
         },
         {
-          "heading": "Cambiar el enfoque del oficial de crédito",
-          "body": "Con menos construcciones nuevas, los originadores deben buscar otras opciones. Superar esta racha exige enfocar esfuerzos en casas usadas, ventas por embargo y préstamos para remodelación."
+          "heading": "inventory risks begin to pile up",
+          "body": "Sluggish purchase application volume leaves homebuilders exposed to rising finished inventory holding costs heading into the fall season."
         }
       ],
-      "my_take_heading": "Los incentivos son paños fríos para un problema mayor",
-      "my_take": "Si reducir la tasa de forma permanente no logra salvar las ventas por cinco meses seguidos, deja de esperar un milagro. El problema es la falta de ingresos acordes al mercado, no la publicidad.",
-      "action_lo": "Revisa tus relaciones con constructores y crea un plan directo para vender propiedades usadas.",
-      "action_realtor": "Muestra a los vendedores que las rebajas de tasa pierden fuerza y que ajustar precios es la única salida real.",
-      "cta_question": "¿Tus constructores aliados están viendo cancelaciones o los compradores prefieren no firmar? Hablemos en los comentarios. #SafetrustMortgage #MortgageIntelligenceDaily"
-    },
-    {
-      "slug": "chase-mortgage-rate-sale",
-      "title": "¿Es la oferta de tasas de Chase una buena apuesta a futuro?",
-      "source": "The Truth About Mortgage",
-      "source_url": "https://www.thetruthaboutmortgage.com/is-chases-mortgage-rate-sale-a-good-bet-on-tighter-margins",
-      "cover_text": "Chase vuelve a bajar tasas. Mira por qué.",
-      "caption": "Chase volvió a lanzar una venta especial de tasas hipotecarias.\n\nLa oferta promete un descuento cercano a los 25 puntos básicos (0.25%) en préstamos convencionales. A simple vista parece una excelente oportunidad, pero al analizar los números, el ahorro real en un préstamo de $400,000 es de apenas $60 al mes, algo que raramente cambia la capacidad de calificación del comprador.\n\nAdemás, cuando el expediente llega a manos del asesor, suelen aplicarse pautas internas mucho más estrictas. Los grandes bancos utilizan estas promociones para captar clientes a largo plazo, esperando que refinancien con ellos cuando las tasas bajen. Para los profesionales independientes, la clave no es competir en precio, sino ganar con agilidad, excelente servicio y atención local.\n\n¿Cómo compites tú frente a estas promociones?\n\nFuente : https://tinyurl.com/2ymjqtjn\n#SafetrustMortgage #MortgageIntelligenceDaily #mortgagerates #mortgagebroker #homebuying",
-      "hashtags": [
-        "#SafetrustMortgage",
-        "#MortgageIntelligenceDaily",
-        "#mortgagerates",
-        "#mortgagebroker",
-        "#homebuying"
-      ],
-      "hook_tag": "Análisis de márgenes",
-      "hook": "Lo que las ofertas de grandes bancos cuestan a tus cierres.",
-      "what_happened_heading": "Los grandes bancos descuentan tasas",
-      "what_happened": "Chase lanzó otra oferta en sus tasas hipotecarias, aplicando un descuento estimado de 25 puntos básicos (0.25%) a los préstamos convencionales. Esta promoción recurrente busca atraer a compradores calificados que desean ahorrar de inmediato.",
-      "breakdown": [
-        {
-          "heading": "La ilusión de los 25 puntos básicos",
-          "body": "Un descuento de un cuarto de punto suena muy bien, pero saquemos cuentas. En un préstamo de $400,000, 25 puntos ahorran unos $60 al mes, algo que casi no cambia la calificación."
-        },
-        {
-          "heading": "El costo oculto en la evaluación",
-          "body": "Cuando el expediente pasa al asesor, estos descuentos bancarios suelen traer reglas internas muy estrictas. El cliente obtiene menor tasa, pero enfrenta verificaciones exigentes y ninguna flexibilidad para aprobaciones con excepción."
-        },
-        {
-          "heading": "Comprar refinanciamientos a futuro",
-          "body": "Los grandes bancos usan estas ofertas para ganar la administración del préstamo. Apuestan a que el cliente refinanciará con ellos cuando las tasas bajen, asegurando su lealtad a largo plazo."
-        },
-        {
-          "heading": "Estrategia para el broker independiente",
-          "body": "Los brokers independientes no pueden competir con subsidios bancarios, así que no lo intentes. Destaca tu rapidez, excelente servicio y atención personalizada en lugar de entrar en una guerra de precios."
-        }
-      ],
-      "my_take_heading": "Los bancos buscan clientes a largo plazo",
-      "my_take": "Cuando un gran banco reduce sus tasas en oferta, no lo hace por caridad. Está comprando la administración del préstamo por 30 años y reduciendo las ganancias de los originadores independientes en el mercado.",
-      "action_lo": "Recuerda a tus clientes que los descuentos bancarios suelen significar cierres más lentos y cero atención personalizada.",
-      "action_realtor": "Protege tus ventas guiando a los clientes hacia prestamistas que cierren a tiempo, evitando ofertas engañosas que se estancan.",
-      "cta_question": "¿Pueden sobrevivir los brokers independientes cuando los grandes bancos bajan precios para captar clientes? Deja tu opinión abajo. #SafetrustMortgage #MortgageIntelligenceDaily"
-    },
-    {
-      "slug": "mortgage-credit-scores-vantagescore",
-      "title": "El crédito hipotecario evoluciona: lo que debes saber",
-      "source": "CNBC",
-      "source_url": "https://www.cnbc.com/2026/09/15/mortgage-credit-scores-vantagescore-fico-homebuyers.html",
-      "cover_text": "El monopolio de FICO por fin se abre",
-      "caption": "Fannie Mae y Freddie Mac ya permiten usar VantageScore 4.0.\n\nEsta medida rompe con décadas de dependencia exclusiva del puntaje FICO y representa uno de los cambios más importantes en el sector hipotecario. A diferencia de los métodos antiguos, VantageScore 4.0 evalúa cómo la persona maneja sus deudas a lo largo del tiempo e incluye pagos de alquiler y servicios públicos.\n\nEsto permite calificar a millones de compradores que antes no tenían un historial crediticio tradicional. Para los oficiales de crédito, este cambio requiere aprender a manejar nuevas variables cuando el expediente llega al asesor. Aunque la implementación completa tomará tiempo por ajustes tecnológicos, quienes aprovechen estos modelos desde ahora tendrán una gran ventaja competitiva.\n\n¿Ya estás preparado para esta transición?\n\nFuente : https://tinyurl.com/23hjqzny\n#SafetrustMortgage #MortgageIntelligenceDaily #firsttimehomebuyer #housingmarket #mortgagerates",
-      "hashtags": [
-        "#SafetrustMortgage",
-        "#MortgageIntelligenceDaily",
-        "#firsttimehomebuyer",
-        "#housingmarket",
-        "#mortgagerates"
-      ],
-      "hook_tag": "Estructura crediticia",
-      "hook": "Por qué el cambio a VantageScore amplia las oportunidades para millones.",
-      "what_happened_heading": "Fannie y Freddie aprueban nuevos puntajes",
-      "what_happened": "Los prestamistas que trabajan con Fannie Mae y Freddie Mac ya tienen luz verde para usar VantageScore 4.0. Esto permite utilizar modelos alternativos de puntaje crediticio, superando la dependencia histórica del sistema FICO tradicional.",
-      "breakdown": [
-        {
-          "heading": "Evaluación del historial de pagos",
-          "body": "VantageScore 4.0 analiza el comportamiento crediticio en el tiempo y no solo el saldo actual. Esto beneficia a quienes pagan de forma responsable sus tarjetas de crédito todos los meses."
-        },
-        {
-          "heading": "Ayuda a compradores con poco historial",
-          "body": "Millones de personas sin historial crediticio tradicional ahora pueden recibir un puntaje evaluando su alquiler y servicios públicos. Esto abre las puertas a muchos más compradores por primera vez."
-        },
-        {
-          "heading": "Cambios en el sistema de evaluación automatizada",
-          "body": "Cuando la solicitud llega al asesor, los sistemas como Desktop Underwriter procesarán estos datos de forma diferente. Los oficiales de crédito deberán entender cómo estas diferencias afectan los costos del préstamo."
-        },
-        {
-          "heading": "Retos en la adopción del sistema",
-          "body": "No esperes cambios inmediatos de un día para otro. Los bancos, burós de crédito y sistemas tecnológicos enfrentan actualizaciones complejas antes de que el uso de múltiples puntajes sea la norma."
-        }
-      ],
-      "my_take_heading": "Se trata de acceso a datos, no de favores",
-      "my_take": "Superar el monopolio de un solo puntaje de crédito era algo necesario. Los prestamistas que aprendan a usar estos modelos alternativos captarán a un segmento completo de nuevos compradores que el sistema tradicional ignoraba.",
-      "action_lo": "Revisa tu lista de clientes rechazados para ver cuáles podrían calificar ahora con la evaluación de VantageScore 4.0.",
-      "action_realtor": "Avisa a los compradores primerizos con poco historial de crédito que hablen con un prestamista sobre estas nuevas opciones.",
-      "cta_question": "¿Están listos tus sistemas para evaluar múltiples puntajes de crédito o la tecnología se está quedando atrás? Comenta abajo. #SafetrustMortgage #MortgageIntelligenceDaily"
-    },
-    {
-      "slug": "fhfa-servicer-outreach-pmi",
-      "title": "La FHFA permite avisar a clientes sobre la eliminación del PMI",
-      "source": "HousingWire",
-      "source_url": "https://www.housingwire.com/articles/fhfa-fannie-mae-freddie-mac-servicer-outreach-pmi-cancellation/",
-      "cover_text": "Ahorra dinero quitando el seguro PMI a tiempo",
-      "caption": "Ahora las administradoras de préstamos pueden avisarte cuando califiques para eliminar el PMI.\n\nLa FHFA autorizó a Fannie Mae y Freddie Mac a contactar proactivamente a los propietarios que cumplen los requisitos para retirar el seguro hipotecario privado (PMI). Durante años, los clientes debían hacer el trámite por su cuenta al alcanzar el 78% de relación préstamo-valor (LTV), y muchos perdían dinero por falta de información.\n\nEliminar este seguro representa un ahorro mensual de entre $100 y $300 sin necesidad de hacer un refinanciamiento completo. Cuando el expediente llega al asesor, este paso refuerza la relación con el cliente a largo plazo. Ayudar a las familias a cuidar su dinero es la mejor forma de generar lealtad.\n\n¿Ya revisaste qué clientes tuyos pueden eliminar el PMI hoy?\n\nFuente : https://tinyurl.com/223ah4x7\n#SafetrustMortgage #MortgageIntelligenceDaily #mortgagebroker #realestateinvesting #homebuying",
-      "hashtags": [
-        "#SafetrustMortgage",
-        "#MortgageIntelligenceDaily",
-        "#mortgagebroker",
-        "#realestateinvesting",
-        "#homebuying"
-      ],
-      "hook_tag": "Estrategia de servicio",
-      "hook": "Por qué eliminar el PMI es la mejor forma de fidelizar clientes.",
-      "what_happened_heading": "La FHFA autoriza notificar sobre el PMI",
-      "what_happened": "Un cambio de norma alinea a Fannie Mae y Freddie Mac, permitiendo a las administradoras contactar directamente a los clientes que califican para eliminar el PMI (seguro hipotecario privado). Esto ayuda a los propietarios a reducir de inmediato su pago mensual.",
-      "breakdown": [
-        {
-          "heading": "Fin a las esperas innecesarias",
-          "body": "Antes, el propietario debía hacer todo el trámite solo al llegar al 78% de relación préstamo-valor (LTV). Muchos lo desconocían, pagando miles de dólares de más en seguros."
-        },
-        {
-          "heading": "Alivio directo para el presupuesto mensual",
-          "body": "Al quitar el PMI a tiempo, los clientes se ahorran entre $100 y $300 mensuales. En un mercado ajustado, este ahorro equivale a una reducción en la tasa de interés."
-        },
-        {
-          "heading": "Una herramienta clave para mantener clientes",
-          "body": "Cuando el caso llega al asesor, revisar el portafolio para eliminar el PMI genera enorme confianza. Cuando el cliente decida mudarse o refinanciar, buscará a la misma empresa."
-        },
-        {
-          "heading": "El reto de las valoraciones de propiedad",
-          "body": "Para cancelar el PMI se exige confirmar el valor actual de la propiedad. Es necesario agilizar las valuaciones para que los costos de avalúo no consuman el ahorro del cliente."
-        }
-      ],
-      "my_take_heading": "Un ahorro real sin necesidad de refinanciar",
-      "my_take": "Hacer que el cliente tuviera que adivinar cuándo quitar el PMI era un sistema injusto. Permitir que las empresas les avisen proactivamente es una excelente noticia para el bolsillo del consumidor.",
-      "action_lo": "Analiza tu base de datos de clientes antiguos que alcanzaron el 80% de LTV y ayúdalos a eliminar su PMI.",
-      "action_realtor": "Contacta a tus antiguos compradores para recordarles que el aumento de valor de su casa podría permitirles quitar el PMI.",
-      "cta_question": "¿Tu equipo ya está contactando a los clientes para eliminar el PMI o esperas a que ellos llamen? Conversemos abajo. #SafetrustMortgage #MortgageIntelligenceDaily"
+      "my_take_heading": "price cuts must replace temporary rate buydowns",
+      "my_take": "Builder rate buydowns are a temporary bandage. Without base price reductions, buyers cannot clear qualification thresholds in this market.",
+      "action_lo": "Offer buyers long-term rate lock options and compare buydowns against permanent price reductions.",
+      "action_realtor": "Negotiate direct base price reductions with builders instead of relying solely on closing cost credits.",
+      "cta_question": "Are builder incentives still driving contracts in your local market?"
     }
   ]
 }
