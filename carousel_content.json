@@ -168,5 +168,175 @@
       "action_realtor": "Prepare listing strategies for an influx of seller inventory once rate lock-in effects begin to thaw.",
       "cta_question": "Will six percent rates trigger a wave of buyer demand or seller inventory first?"
     }
+  ],
+  "carousels_es": [
+    {
+      "slug": "mortgage-spreads-explained",
+      "title": "Por qué los diferenciales hipotecarios importan más que la Fed ahora",
+      "source": "HousingWire",
+      "source_url": "https://www.housingwire.com/articles/will-mortgage-rates-rise-to-8-or-drop-to-6/",
+      "cover_text": "Los diferenciales hipotecarios importan más que los recortes de la Fed",
+      "caption": "Los recortes de tasas de la Reserva Federal no solucionarán por sí solos los precios de las hipotecas para los compradores. El diferencial entre los rendimientos de los bonos del Tesoro a diez años y los valores respaldados por hipotecas sigue siendo históricamente amplio, creando un costo adicional para los prestatarios. Cuando los asesores revisan los expedientes, la volatilidad diaria de las tasas de interés crea cambios de precio repentinos que pueden romper los límites de la relación deuda-ingresos justo antes del cierre. Entender cómo funcionan los diferenciales del mercado secundario te da una gran ventaja sobre la competencia que solo sigue los anuncios de la Fed. Si los diferenciales hipotecarios se reducen a promedios históricos, las tasas para el consumidor pueden bajar significativamente, incluso si la política del banco central no cambia. Enfoca las conversaciones con tus clientes en la estructura del mercado, no en adivinar los resultados de las reuniones de la Fed.\n\nFuente : https://tinyurl.com/2akc6wah\n#SafetrustMortgage #MortgageIntelligenceDaily #mortgagerates #mortgagebroker #loanofficer",
+      "hashtags": [
+        "#SafetrustMortgage",
+        "#MortgageIntelligenceDaily",
+        "#mortgagerates",
+        "#mortgagebroker",
+        "#loanofficer"
+      ],
+      "hook_tag": "Dinámica del Diferencial",
+      "hook": "Los recortes de la Fed no arreglarán solos tus tasas hipotecarias.",
+      "what_happened_heading": "Los diferenciales distorsionan las relaciones históricas de las tasas",
+      "what_happened": "Los diferenciales hipotecarios siguen siendo históricamente amplios en relación con los rendimientos de los bonos del Tesoro a diez años. La brecha refleja la incertidumbre de los inversores y la alta volatilidad en el mercado de bonos.",
+      "breakdown": [
+        {
+          "heading": "Los bonos del Tesoro solo cuentan la mitad de la historia",
+          "body": "Las tasas hipotecarias siguen los rendimientos de los bonos del Tesoro a diez años, pero el diferencial entre ellos determina la tasa real que ven los prestatarios."
+        },
+        {
+          "heading": "Los inversores exigen una prima por riesgo",
+          "body": "Cuando la volatilidad de las tasas de interés se dispara, los inversores del mercado secundario exigen rendimientos más altos por los valores respaldados por hipotecas."
+        },
+        {
+          "heading": "Lo que ve el asesor en el proceso",
+          "body": "Los asesores ven que los cierres se caen porque la ampliación del diferencial añade ajustes de precios impredecibles justo antes del cierre."
+        },
+        {
+          "heading": "La normalización es el verdadero catalizador",
+          "body": "Si los diferenciales vuelven a los promedios históricos, las tasas hipotecarias podrían bajar mucho, incluso sin recortes agresivos de la Reserva Federal."
+        }
+      ],
+      "my_take_heading": "Arregla el diferencial, arregla el mercado",
+      "my_take": "Deja de obsesionarte con las decisiones de tasas de la Fed. La reducción del diferencial hipotecario tiene la verdadera clave para desbloquear tasas del seis por ciento.",
+      "action_lo": "Educa a los compradores sobre cómo los diferenciales del mercado secundario afectan los precios de cierre diarios, más allá de los titulares sobre las tasas de referencia.",
+      "action_realtor": "Establece expectativas de precios realistas con los vendedores en lugar de esperar hipotéticas caídas de las tasas de interés de referencia.",
+      "cta_question": "¿Crees que la compresión del diferencial ocurrirá antes de que la Fed vuelva a recortar las tasas?"
+    },
+    {
+      "slug": "geopolitical-conflict-rate-impact",
+      "title": "Cómo la tensión en Medio Oriente crea fuerzas opuestas para las tasas",
+      "source": "HousingWire",
+      "source_url": "https://www.housingwire.com/articles/will-mortgage-rates-rise-to-8-or-drop-to-6/",
+      "cover_text": "La geopolítica está jalando las tasas hipotecarias en dos direcciones",
+      "caption": "El conflicto internacional empuja las tasas de interés hipotecarias en dos direcciones completamente opuestas a la vez. Por un lado, la ansiedad global lleva a los inversores a activos seguros como los bonos del gobierno, lo que hace que los rendimientos bajen. Por otro lado, posibles interrupciones en el suministro de energía provocan aumentos en los precios del petróleo que reavivan los temores inflacionarios y empujan las tasas al alza. Cuando un asesor revisa procesos de cierre activos durante crisis geopolíticas, la volatilidad diaria extrema lleva a fallas repentinas en la relación deuda-ingresos para compradores con márgenes de ingresos ajustados. Los oficiales de préstamos que ponen a prueba los expedientes de sus clientes a tiempo protegerán sus procesos de los cambios inesperados del mercado. Navegar por la turbulencia del mercado requiere educar a los clientes sobre los cierres de tasas en lugar de apostar por los titulares internacionales.\n\nFuente : https://tinyurl.com/2akc6wah\n#SafetrustMortgage #MortgageIntelligenceDaily #mortgagerates #housingmarket #loanofficer",
+      "hashtags": [
+        "#SafetrustMortgage",
+        "#MortgageIntelligenceDaily",
+        "#mortgagerates",
+        "#housingmarket",
+        "#loanofficer"
+      ],
+      "hook_tag": "Volatilidad del Mercado",
+      "hook": "El conflicto global crea dos fuerzas opuestas para las tasas hipotecarias.",
+      "what_happened_heading": "Los choques de guerra desencadenan impulsores de tasas conflictivos",
+      "what_happened": "Las tensiones en Medio Oriente crean una lucha entre la compra de bonos como refugio seguro y los aumentos de precios del petróleo impulsados por la inflación. El equilibrio entre estas fuerzas determina si las tasas se mueven hacia el seis o el ocho por ciento.",
+      "breakdown": [
+        {
+          "heading": "La huida hacia la seguridad baja los rendimientos",
+          "body": "Las crisis globales llevan a los inversores a los bonos del Tesoro a diez años, haciendo que los rendimientos y las tasas hipotecarias bajen a corto plazo."
+        },
+        {
+          "heading": "Los choques petroleros encienden el miedo a la inflación",
+          "body": "La escalada del conflicto amenaza los suministros de energía, lo que eleva los precios del petróleo y reaviva las preocupaciones inflacionarias que empujan las tasas al alza."
+        },
+        {
+          "heading": "El riesgo de los procesos de cierre se multiplica",
+          "body": "Los asesores enfrentan fallas repentinas en la relación deuda-ingresos cuando los aumentos rápidos de tasas elevan las obligaciones mensuales más allá de los límites permitidos a mitad de la transacción."
+        },
+        {
+          "heading": "La inflación suele ganar a largo plazo",
+          "body": "Los repuntes de refugio seguro suelen ser breves, mientras que la inflación energética sostenida obliga a los bancos centrales a mantener las tasas más altas por más tiempo."
+        }
+      ],
+      "my_take_heading": "La geopolítica favorece una mayor volatilidad de las tasas",
+      "my_take": "Los repuntes de refugio seguro ofrecen un alivio temporal, pero la inflación energética persistente plantea la mayor amenaza a largo plazo para la asequibilidad de la vivienda.",
+      "action_lo": "Realiza pruebas de estrés en la calificación de los compradores con tasas más altas para proteger los expedientes de la volatilidad durante el proceso de cierre.",
+      "action_realtor": "Aconseja a los compradores que aseguren las tasas hipotecarias temprano en lugar de apostar por los vaivenes de los titulares geopolíticos.",
+      "cta_question": "¿Estás aconsejando a tus clientes que aseguren su tasa pronto durante períodos de conflicto internacional?"
+    },
+    {
+      "slug": "path-to-eight-percent-rates",
+      "title": "Lo que desencadena un escenario de tasas hipotecarias del ocho por ciento",
+      "source": "HousingWire",
+      "source_url": "https://www.housingwire.com/articles/will-mortgage-rates-rise-to-8-or-drop-to-6/",
+      "cover_text": "El camino que empuja las tasas al ocho por ciento",
+      "caption": "Aunque la mayoría de los pronósticos de la industria asumen que las tasas de interés bajarán gradualmente, un escenario de tasas del ocho por ciento sigue siendo una posibilidad muy real. La emisión masiva de deuda pública combinada con un crecimiento salarial resistente mantiene una fuerte presión al alza sobre los rendimientos de los bonos del Tesoro. En el departamento de asesoramiento, las tasas hipotecarias del ocho por ciento eliminan por completo a los compradores marginales cuyas métricas de calificación colapsan bajo obligaciones hipotecarias mensuales más altas. Sobrevivir a un entorno de tasas más altas por más tiempo requiere que los profesionales hipotecarios cambien de las expectativas de refinanciamiento y se centren en soluciones de compra creativas como los \"buy downs\" de tasas temporales o permanentes. Preparar a tus compradores y agentes inmobiliarios para una inflación obstinada le da a tu equipo una estrategia duradera para cualquier ciclo de mercado.\n\nFuente : https://tinyurl.com/2akc6wah\n#SafetrustMortgage #MortgageIntelligenceDaily #mortgagerates #loanofficer #firsttimehomebuyer",
+      "hashtags": [
+        "#SafetrustMortgage",
+        "#MortgageIntelligenceDaily",
+        "#mortgagerates",
+        "#loanofficer",
+        "#firsttimehomebuyer"
+      ],
+      "hook_tag": "Escenarios de Tasas",
+      "hook": "Las tasas hipotecarias del ocho por ciento no están descartadas.",
+      "what_happened_heading": "La inflación persistente amenaza con empujar las tasas al alza",
+      "what_happened": "Un resurgimiento de la inflación junto con un fuerte crecimiento económico podría empujar las tasas hipotecarias hacia el ocho por ciento. La persistente fortaleza laboral da a los banqueros centrales razones para mantener una política monetaria más estricta.",
+      "breakdown": [
+        {
+          "heading": "Los mercados laborales fuertes retrasan el alivio",
+          "body": "Las cifras de empleo resistentes mantienen el crecimiento salarial elevado, impidiendo que la inflación se enfríe a los niveles objetivo sin problemas."
+        },
+        {
+          "heading": "La oferta del Tesoro inunda el mercado",
+          "body": "La emisión masiva de deuda pública aumenta la oferta en los mercados de bonos, lo que obliga a los rendimientos a subir para atraer compradores."
+        },
+        {
+          "heading": "Estrés de los asesores en ingresos bajos",
+          "body": "Con tasas del ocho por ciento, los asesores ven que las relaciones deuda-ingresos superan los límites, eliminando por completo a los compradores primerizos marginales."
+        },
+        {
+          "heading": "Los procesos de refinanciamiento se apagan por completo",
+          "body": "Tasas sostenidas más altas congelan la actividad de refinanciamiento de tasa y término, lo que obliga a los prestamistas a sobrevivir puramente del volumen de compras."
+        }
+      ],
+      "my_take_heading": "Más altas por más tiempo sigue siendo posible",
+      "my_take": "Asumir que las tasas deben bajar ignora el gasto deficitario estructural y la inflación persistente en servicios que fácilmente podrían empujar los rendimientos al alza.",
+      "action_lo": "Cambia el enfoque hacia la originación basada en estrategias, como los \"buy downs\" permanentes, en lugar de depender de supuestos futuros de refinanciamiento.",
+      "action_realtor": "Centra los listados en puntos de precio que se ajusten a costos de endeudamiento más altos para los trabajadores locales.",
+      "cta_question": "¿Está tu equipo preparado estructuralmente si las tasas hipotecarias alcanzan el ocho por ciento este año?"
+    },
+    {
+      "slug": "path-to-six-percent-rates",
+      "title": "Lo que se necesita para alcanzar tasas hipotecarias del seis por ciento",
+      "source": "HousingWire",
+      "source_url": "https://www.housingwire.com/articles/will-mortgage-rates-rise-to-8-or-drop-to-6/",
+      "cover_text": "Cómo las tasas hipotecarias podrían bajar al seis por ciento",
+      "caption": "Alcanzar tasas hipotecarias del seis por ciento es el objetivo ideal para muchos profesionales del sector inmobiliario, pero conlleva claras compensaciones económicas. Tasas de interés más bajas suelen requerir una economía en desaceleración, un enfriamiento del crecimiento salarial y un aumento de las cifras de desempleo para materializarse. Dentro de los departamentos de asesoramiento, un cambio hacia el seis por ciento devuelve a la vida expedientes previamente estancados, ya que pagos más bajos rescatan relaciones deuda-ingresos ajustadas. Sin embargo, los oficiales de préstamos deben recordar que el estrés económico más amplio también puede afectar la seguridad laboral del prestatario durante la revisión del asesor. Los agentes inmobiliarios y prestamistas que se preparan para este cambio pueden capturar la demanda acumulada mientras gestionan las expectativas del comprador de manera responsable.\n\nFuente : https://tinyurl.com/2akc6wah\n#SafetrustMortgage #MortgageIntelligenceDaily #mortgagerates #housingmarket #homebuying",
+      "hashtags": [
+        "#SafetrustMortgage",
+        "#MortgageIntelligenceDaily",
+        "#mortgagerates",
+        "#housingmarket",
+        "#homebuying"
+      ],
+      "hook_tag": "Perspectiva Económica",
+      "hook": "Las tasas hipotecarias del seis por ciento requieren condiciones económicas específicas.",
+      "what_happened_heading": "Datos laborales que se enfrían abren el camino a recortes de tasas",
+      "what_happened": "La caída de la inflación y el ablandamiento de los indicadores económicos podrían allanar el camino para que las tasas hipotecarias bajen hacia el seis por ciento. Rendimientos más bajos de los bonos del Tesoro, combinados con diferenciales más estrechos, proporcionan los vientos de cola necesarios.",
+      "breakdown": [
+        {
+          "heading": "El enfriamiento económico alivia los rendimientos",
+          "body": "Un crecimiento más lento del PIB y un aumento del desempleo hacen que los rendimientos de los bonos bajen a medida que los inversores descuentan una relajación monetaria agresiva."
+        },
+        {
+          "heading": "El enfriamiento de la inflación tranquiliza a los inversores en bonos",
+          "body": "Las caídas consistentes en los índices de precios al consumidor dan confianza a los inversores de renta fija para aceptar rendimientos a largo plazo más bajos."
+        },
+        {
+          "heading": "El volumen de asesoramiento se expande rápidamente",
+          "body": "Los asesores ven que los expedientes previamente denegados vuelven a ser viables, ya que las tasas más bajas reducen significativamente las obligaciones mensuales de la vivienda."
+        },
+        {
+          "heading": "La velocidad del inventario se acelera",
+          "body": "Acercarse al seis por ciento libera a los vendedores con tasas bloqueadas, impulsando el inventario y la velocidad de las transacciones en todos los mercados."
+        }
+      ],
+      "my_take_heading": "El seis por ciento requiere debilidad del mercado laboral",
+      "my_take": "Ten cuidado con lo que deseas, porque las tasas hipotecarias del seis por ciento probablemente requieran dolor económico y un aumento del desempleo para materializarse.",
+      "action_lo": "Vuelve a contactar a compradores preaprobados que se retiraron debido a límites de asequibilidad para recalcular su poder de compra.",
+      "action_realtor": "Prepara estrategias de listado para una afluencia de inventario de vendedores una vez que los efectos del bloqueo de tasas comiencen a desaparecer.",
+      "cta_question": "¿Las tasas del seis por ciento desencadenarán una ola de demanda de compradores o de inventario de vendedores primero?"
+    }
   ]
 }
