@@ -1,138 +1,12 @@
 {
   "carousels": [
     {
-      "slug": "concessions-sun-belt",
-      "title": "Nearly Half of Homebuyers Get Concessions From Sellers",
-      "source": "Redfin",
-      "source_url": "https://www.redfin.com/news/home-seller-concessions-august-2026/",
-      "cover_text": "Seller concessions are the new price cuts.",
-      "caption": "Forget chasing price reductions on listing sites. The real negotiation is happening behind closed doors via seller concessions, with roughly half of all buyers now securing financial relief at the closing table. In hot Sun Belt markets like Atlanta and Nashville, that number spikes to about 7 in 10 buyers. If you are structuring offers without asking for seller-paid closing costs or rate buydowns, you are leaving thousands on the table. Here is how to play the current shift in market leverage.\n\nSource : https://tinyurl.com/2dde43k8\n#SafetrustMortgage #MortgageIntelligenceDaily #housingmarket #homebuying #realestateagent",
-      "hashtags": [
-        "#SafetrustMortgage",
-        "#MortgageIntelligenceDaily",
-        "#housingmarket",
-        "#homebuying",
-        "#realestateagent"
-      ],
-      "hook_tag": "Market Shift",
-      "hook": "Sellers are quietly paying closing costs because headline price cuts are slowing down.",
-      "what_happened_heading": "Sellers are footing the bill",
-      "what_happened": "Nearly half of all homebuyers secured seller concessions in August as markets tipped further in buyers' favor. Sun Belt hubs like Atlanta and Nashville saw concession rates climb to roughly 7 in 10 buyers.",
-      "breakdown": [
-        {
-          "heading": "Price cuts hide the real story",
-          "body": "Sellers hate dropping their public list price because it sets a lower neighborhood comp. They prefer keeping the sticker price high and offering concessions instead."
-        },
-        {
-          "heading": "Sun Belt markets lead the shift",
-          "body": "Regions with heavy new construction inventory like Atlanta and Nashville give buyers immense leverage. Sellers there are highly motivated to absorb closing costs."
-        },
-        {
-          "heading": "Underwriting the concession math",
-          "body": "When a file hits underwriting, concessions cannot exceed max financing limits. If a seller gives a 6% credit, it must apply strictly to actual closing costs and prepaids."
-        },
-        {
-          "heading": "Buydowns beat cash discounts",
-          "body": "Using seller credits for a temporary interest rate buydown lowers monthly payments far more effectively than reducing the purchase price by the same dollar amount."
-        }
-      ],
-      "my_take_heading": "The hidden price cut",
-      "my_take": "A seller concession is just a price cut disguised as a closing credit. Stop fighting for lower list prices and start negotiating for permanent rate relief.",
-      "action_lo": "Always run dual closing cost worksheets showing borrowers the monthly payment impact of seller-paid buydowns versus direct price reductions.",
-      "action_realtor": "Target listings that have sat for over 30 days in Sun Belt markets and write seller-paid concession requests into your initial offers.",
-      "cta_question": "Are your buyers utilizing seller concessions for rate buydowns or closing costs?"
-    },
-    {
-      "slug": "builder-confidence-drop",
-      "title": "Builder Confidence Falls to 3 Year Lows",
-      "source": "Mortgage News Daily",
-      "source_url": "https://www.mortgagenewsdaily.com/news/09182026-builder-confidence-nahb-hmi",
-      "cover_text": "Builder sentiment hits a three-year low.",
-      "caption": "Builder confidence just crashed to a three-year low, matching September 2025 levels at an index reading of 32. High mortgage rates, stubborn construction costs, and brutal labor shortages are choking out new development. When the people building the inventory lose faith, the structural housing shortage deepens. Here is what this means for your pipeline and inventory levels over the next twelve months.\n\nSource : https://tinyurl.com/2yzf26v2\n#SafetrustMortgage #MortgageIntelligenceDaily #housingmarket #realestateagent #mortgagerates",
-      "hashtags": [
-        "#SafetrustMortgage",
-        "#MortgageIntelligenceDaily",
-        "#housingmarket",
-        "#realestateagent",
-        "#mortgagerates"
-      ],
-      "hook_tag": "Supply Crunch",
-      "hook": "Builder confidence just hit a three-year low, and it spells trouble for future inventory.",
-      "what_happened_heading": "Sentiment takes a major hit",
-      "what_happened": "The NAHB and Wells Fargo Housing Market Index fell three points to 32 in September. Higher mortgage rates, rising construction costs, and worsening labor shortages fueled the drop.",
-      "breakdown": [
-        {
-          "heading": "The index drops to 32",
-          "body": "A reading of 32 matches the lowest level seen in over three years. Builders are slamming the brakes on new authorizations as completions fall sharply."
-        },
-        {
-          "heading": "The cost of labor and land",
-          "body": "Developers are caught between soaring material expenses and scarce skilled labor. Financing costs for raw land development have also tightened considerably."
-        },
-        {
-          "heading": "Underwriting new construction risk",
-          "body": "When reviewing construction-to-permanent loans right now, underwriters are demanding larger builder contingency reserves due to supply chain and labor volatility."
-        },
-        {
-          "heading": "Existing homeowners win",
-          "body": "As builders pull back on starts, existing homeowners sitting on sub-4% rates are insulated from new supply competition. Resale values remain heavily propped up."
-        }
-      ],
-      "my_take_heading": "The inventory illusion",
-      "my_take": "Everyone thinks new construction will solve the housing crisis. When builder sentiment craters like this, future inventory vanishes.",
-      "action_lo": "Build relationships with local custom and regional builders who need creative financing solutions to move their current standing inventory.",
-      "action_realtor": "Educate buyers that waiting for a massive wave of newly built inventory is a losing strategy while builder sentiment remains depressed.",
-      "cta_question": "How are shrinking builder margins affecting the local housing inventory in your market?"
-    },
-    {
-      "slug": "lennar-strategy-defense",
-      "title": "Lennar Defends Even-Flow Strategy Amid Risk",
+      "slug": "mortgage-spreads-explained",
+      "title": "Why mortgage spreads matter more than the Fed right now",
       "source": "HousingWire",
-      "source_url": "https://www.housingwire.com/articles/lennar-q3-2026-earnings/",
-      "cover_text": "Half of home shoppers cannot qualify today.",
-      "caption": "When a housing giant like Lennar admits that nearly 50% of its prospective buyers cannot immediately qualify for a mortgage, it is time to pay attention. Between sticky inflation and elevated borrowing costs, affordability is running into a brick wall. Here is a breakdown of how large builders are managing risk through land banking and even-flow production.\n\nSource : https://tinyurl.com/2d6zpgdg\n#SafetrustMortgage #MortgageIntelligenceDaily #housingmarket #mortgagebroker #realestateinvesting",
-      "hashtags": [
-        "#SafetrustMortgage",
-        "#MortgageIntelligenceDaily",
-        "#housingmarket",
-        "#mortgagebroker",
-        "#realestateinvesting"
-      ],
-      "hook_tag": "Builder Reality",
-      "hook": "Lennar reveals that nearly half of all prospective buyers fail immediate mortgage qualification.",
-      "what_happened_heading": "The qualification wall",
-      "what_happened": "Lennar executives defended their even-flow production and land banking strategy during Q3 earnings. They noted that nearly 50% of visitors cannot immediately qualify as CPI runs at 3.4% and the Fed holds rates elevated.",
-      "breakdown": [
-        {
-          "heading": "The 50% qualification gap",
-          "body": "Out of every two people walking into a new Lennar model home, one lacks the immediate DTI (how much of your income goes to debt) or credit profile to buy."
-        },
-        {
-          "heading": "Even-flow production explained",
-          "body": "Builders avoid massive boom-and-bust building cycles by pacing starts evenly throughout the year. This keeps supply chains stable despite volatile market conditions."
-        },
-        {
-          "heading": "Underwriting builder captives",
-          "body": "In-house builder lenders are working overtime structuring credit-repair pipelines and extended lock programs to convert those unqualified lookers into actual closings."
-        },
-        {
-          "heading": "Land banking as a shield",
-          "body": "By using third parties to hold land options rather than buying dirt outright, builders protect their balance sheets from sudden drops in housing demand."
-        }
-      ],
-      "my_take_heading": "The pre-qualification pipeline",
-      "my_take": "Builders are no longer selling homes; they are managing long-term credit repair pipelines for buyers who cannot qualify today.",
-      "action_lo": "Partner with local sales reps at major subdivisions to capture the massive pipeline of buyers who get turned away by captive lenders.",
-      "action_realtor": "Do not let your buyers walk away from new construction just because they fail initial pre-qualification. Connect them with a seasoned loan officer.",
-      "cta_question": "Are you seeing more builder prospects require long-term credit and debt restructuring before approval?"
-    },
-    {
-      "slug": "uwm-2027-loan-limits",
-      "title": "UWM Splits Difference in 2027 Loan Limits",
-      "source": "National Mortgage Professional",
-      "source_url": "https://nationalmortgageprofessional.com/news/uwm-splits-difference-early-2027-loan-limit-race",
-      "cover_text": "Uwm drops early 2027 loan limits.",
-      "caption": "United Wholesale Mortgage has staked out an estimated 2027 conforming loan limit of $847,440 for one-unit properties. By splitting the difference early, lenders and brokers get a jump on high-balance strategy well before the official FHFA announcements drop. Here is why early loan limit positioning matters for your high-end purchase pipeline.\n\nSource : https://tinyurl.com/2yw5pebj\n#SafetrustMortgage #MortgageIntelligenceDaily #mortgagerates #mortgagebroker #loanofficer",
+      "source_url": "https://www.housingwire.com/articles/will-mortgage-rates-rise-to-8-or-drop-to-6/",
+      "cover_text": "Mortgage spreads matter more than Fed cuts",
+      "caption": "Rate cuts from the Federal Reserve will not singlehandedly fix mortgage pricing for buyers. The spread between ten year Treasury yields and mortgage backed securities remains historically wide, creating extra cost for everyday borrowers. When underwriters review files in the pipeline, daily interest rate volatility creates sudden pricing changes that can break debt ratio limits right before closing. Understanding how secondary market spreads operate gives you a serious edge over industry competitors who only track benchmark Fed announcements. If mortgage spreads compress back toward historical averages, consumer rates can drop significantly even if central bank policy stays completely unchanged. Focus your client conversations on market structure rather than guessing Fed meeting outcomes.\n\nSource : https://tinyurl.com/2akc6wah\n#SafetrustMortgage #MortgageIntelligenceDaily #mortgagerates #mortgagebroker #loanofficer",
       "hashtags": [
         "#SafetrustMortgage",
         "#MortgageIntelligenceDaily",
@@ -140,203 +14,159 @@
         "#mortgagebroker",
         "#loanofficer"
       ],
-      "hook_tag": "Loan Limits",
-      "hook": "UWM establishes an early $847,440 conforming loan limit for 2027.",
-      "what_happened_heading": "Setting the early benchmark",
-      "what_happened": "United Wholesale Mortgage has established an estimated $847,440 2027 conforming loan limit for one-unit properties. This gives mortgage brokers an early benchmark that lands squarely between competing industry projections.",
+      "hook_tag": "Spread Dynamics",
+      "hook": "Fed rate cuts will not fix your mortgage rates alone.",
+      "what_happened_heading": "Spreads distort historical rate relationships",
+      "what_happened": "Mortgage spreads remain historically wide relative to ten year Treasury yields. The gap reflects investor uncertainty and elevated volatility in the bond market.",
       "breakdown": [
         {
-          "heading": "Splitting the industry difference",
-          "body": "Different housing models projected wildly different baseline increases for next year. UWM chose a middle-ground figure to give originators a reliable planning number."
+          "heading": "Treasuries tell only half the story",
+          "body": "Mortgage rates track ten year Treasury yields, but the spread between them determines the actual rate borrowers see at lock."
         },
         {
-          "heading": "High-balance pipeline planning",
-          "body": "Brokers can now identify jumbo loans currently in their pipeline that might cross over into conforming status when the official figures take effect."
+          "heading": "Investors demand a risk premium",
+          "body": "When interest rate volatility spikes, secondary market investors demand higher yields to hold mortgage backed securities."
         },
         {
-          "heading": "Underwriting jumbo transitions",
-          "body": "When a loan transitions from jumbo to conforming guidelines, underwriting requirements shift dramatically regarding reserve requirements and asset sourcing."
+          "heading": "What underwriting sees in pipeline",
+          "body": "Underwriters see locks falling through because spread widening adds unpredictable pricing adjustments right before closing."
         },
         {
-          "heading": "Pricing advantage for brokers",
-          "body": "Early limit adoption lets wholesale originators market high-balance conforming products to affluent borrowers before retail competitors even update their systems."
+          "heading": "Normalization is the real catalyst",
+          "body": "If spreads revert to historical averages, mortgage rates could fall significantly even without aggressive Federal Reserve rate cuts."
         }
       ],
-      "my_take_heading": "The early-bird pricing edge",
-      "my_take": "Getting an early jump on loan limits is not just about math. It is a wholesale marketing weapon to poach high-end purchase business.",
-      "action_lo": "Audit your current pre-approval pipeline for borrowers sitting right below the $847k mark to lock in their loan structure early.",
-      "action_realtor": "Check in with clients shopping in upper-tier price points to let them know financing thresholds are expanding for next year.",
-      "cta_question": "Do early estimated loan limits help your pipeline planning, or do you prefer waiting for the official FHFA numbers?"
-    }
-  ],
-  "carousels_es": [
-    {
-      "slug": "concessions-sun-belt",
-      "title": "Casi la mitad de los compradores obtienen concesiones de los vendedores",
-      "source": "Redfin",
-      "source_url": "https://www.redfin.com/news/home-seller-concessions-august-2026/",
-      "cover_text": "Las concesiones del vendedor son los nuevos descuentos.",
-      "caption": "Olvídate de buscar reducciones de precios en los sitios de anuncios. La verdadera negociación ocurre a puertas cerradas con las concesiones del vendedor, y casi la mitad de los compradores obtienen ahora un alivio financiero al cerrar la compra. En mercados calientes del \"Sun Belt\" como Atlanta y Nashville, esa cifra sube a 7 de cada 10 compradores. Si haces ofertas sin pedir que el vendedor pague los costos de cierre o los \"buydowns\" de la tasa, estás dejando miles de dólares sobre la mesa. Así es como puedes aprovechar este cambio en el mercado.\n\nFuente : https://tinyurl.com/2dde43k8\n#SafetrustMortgage #MortgageIntelligenceDaily #housingmarket #homebuying #realestateagent",
-      "hashtags": [
-        "#SafetrustMortgage",
-        "#MortgageIntelligenceDaily",
-        "#housingmarket",
-        "#homebuying",
-        "#realestateagent"
-      ],
-      "hook_tag": "Cambio en el Mercado",
-      "hook": "Los vendedores están pagando los gastos de cierre porque las rebajas de precios se están frenando.",
-      "what_happened_heading": "Los vendedores están pagando la cuenta",
-      "what_happened": "Casi la mitad de los compradores de vivienda obtuvieron concesiones del vendedor en agosto, ya que el mercado se inclinó más a favor de los compradores. Ciudades del \"Sun Belt\" como Atlanta y Nashville vieron las tasas de concesión subir a un 7 de cada 10 compradores.",
-      "breakdown": [
-        {
-          "heading": "Las rebajas de precios ocultan la verdad",
-          "body": "A los vendedores no les gusta bajar el precio público porque establece un precedente más bajo en el vecindario. Prefieren mantener el precio alto y ofrecer concesiones."
-        },
-        {
-          "heading": "El \"Sun Belt\" lidera el cambio",
-          "body": "Regiones con mucho inventario de casas nuevas, como Atlanta y Nashville, dan a los compradores una gran ventaja. Los vendedores allí están muy motivados para asumir los costos de cierre."
-        },
-        {
-          "heading": "El asesoramiento de las concesiones",
-          "body": "Cuando un expediente llega al asesor, las concesiones no pueden exceder los límites máximos de financiación. Si el vendedor da un crédito del 6%, debe aplicarse solo a los costos de cierre y pagos por adelantado."
-        },
-        {
-          "heading": "Los \"buydowns\" son mejores que los descuentos",
-          "body": "Usar créditos del vendedor para un \"buydown\" temporal de la tasa de interés baja las cuotas mensuales mucho más que reducir el precio de compra por la misma cantidad de dinero."
-        }
-      ],
-      "my_take_heading": "El descuento oculto",
-      "my_take": "Una concesión del vendedor es solo una rebaja de precio disfrazada de crédito para el cierre. Deja de luchar por precios de lista más bajos y empieza a negociar por un alivio permanente en tu tasa.",
-      "action_lo": "Siempre muestra al comprador dos hojas de cálculo de costos de cierre: una con el impacto del \"buydown\" pagado por el vendedor y otra con una reducción directa del precio.",
-      "action_realtor": "Busca propiedades que lleven más de 30 días en el mercado en el \"Sun Belt\" e incluye solicitudes de concesiones pagadas por el vendedor en tus ofertas iniciales.",
-      "cta_question": "¿Tus compradores están usando las concesiones del vendedor para \"buydowns\" de la tasa o costos de cierre?"
+      "my_take_heading": "Fix the spread, fix the market",
+      "my_take": "Stop obsessing over Fed rate decisions when compression in the mortgage spread holds the real key to unlocking six percent rates.",
+      "action_lo": "Educate buyers on how secondary market spreads impact daily lock pricing beyond benchmark rate headlines.",
+      "action_realtor": "Set realistic price expectations with sellers rather than waiting for hypothetical benchmark interest rate drops.",
+      "cta_question": "Do you think spread compression will happen before the Fed cuts rates again?"
     },
     {
-      "slug": "builder-confidence-drop",
-      "title": "La confianza de los constructores cae a mínimos de 3 años",
-      "source": "Mortgage News Daily",
-      "source_url": "https://www.mortgagenewsdaily.com/news/09182026-builder-confidence-nahb-hmi",
-      "cover_text": "La confianza de los constructores en su punto más bajo.",
-      "caption": "La confianza de los constructores acaba de caer a un mínimo de tres años, igualando los niveles de septiembre de 2025 con una lectura del índice de 32. Las altas tasas hipotecarias, los persistentes costos de construcción y la escasez de mano de obra están frenando los nuevos desarrollos. Cuando la gente que construye las casas pierde la fe, la escasez estructural de viviendas se profundiza. Esto es lo que significa para tu negocio y los niveles de inventario en los próximos doce meses.\n\nFuente : https://tinyurl.com/2yzf26v2\n#SafetrustMortgage #MortgageIntelligenceDaily #housingmarket #realestateagent #mortgagerates",
-      "hashtags": [
-        "#SafetrustMortgage",
-        "#MortgageIntelligenceDaily",
-        "#housingmarket",
-        "#realestateagent",
-        "#mortgagerates"
-      ],
-      "hook_tag": "Crisis de Suministro",
-      "hook": "La confianza de los constructores cayó al nivel más bajo en 3 años, lo que augura problemas de inventario futuro.",
-      "what_happened_heading": "La confianza sufre un gran golpe",
-      "what_happened": "El Índice del Mercado de la Vivienda de la NAHB y Wells Fargo cayó tres puntos a 32 en septiembre. Las tasas hipotecarias más altas, el aumento de los costos de construcción y el empeoramiento de la escasez de mano de obra impulsaron esta caída.",
-      "breakdown": [
-        {
-          "heading": "El índice baja a 32",
-          "body": "Una lectura de 32 iguala el nivel más bajo visto en más de tres años. Los constructores están frenando las nuevas autorizaciones mientras las finalizaciones caen drásticamente."
-        },
-        {
-          "heading": "El costo de la mano de obra y el terreno",
-          "body": "Los desarrolladores están atrapados entre los crecientes gastos de materiales y la escasez de mano de obra calificada. Los costos de financiamiento para el desarrollo de terrenos también se han endurecido considerablemente."
-        },
-        {
-          "heading": "El asesor de riesgos de nueva construcción",
-          "body": "Al revisar préstamos de construcción a permanentes ahora, los asesores exigen mayores reservas de contingencia de los constructores debido a la volatilidad de la cadena de suministro y la mano de obra."
-        },
-        {
-          "heading": "Los propietarios actuales ganan",
-          "body": "Mientras los constructores reducen sus inicios, los propietarios actuales con tasas por debajo del 4% están protegidos de la competencia de nuevas viviendas. Los valores de reventa se mantienen muy altos."
-        }
-      ],
-      "my_take_heading": "La ilusión del inventario",
-      "my_take": "Todo el mundo cree que la nueva construcción resolverá la crisis de vivienda. Pero cuando la confianza de los constructores cae así, el inventario futuro desaparece.",
-      "action_lo": "Establece relaciones con constructores locales y regionales que necesitan soluciones de financiamiento creativas para vender su inventario actual.",
-      "action_realtor": "Explica a los compradores que esperar una ola masiva de inventario nuevo es una estrategia perdedora mientras la confianza de los constructores siga baja.",
-      "cta_question": "¿Cómo afectan los márgenes de los constructores al inventario de viviendas en tu mercado?"
-    },
-    {
-      "slug": "lennar-strategy-defense",
-      "title": "Lennar defiende su estrategia de flujo constante en medio del riesgo",
+      "slug": "geopolitical-conflict-rate-impact",
+      "title": "How Middle East tension creates opposing rate forces",
       "source": "HousingWire",
-      "source_url": "https://www.housingwire.com/articles/lennar-q3-2026-earnings/",
-      "cover_text": "La mitad de los compradores no califican hoy.",
-      "caption": "Cuando un gigante de la vivienda como Lennar admite que casi el 50% de sus posibles compradores no pueden calificar de inmediato para una hipoteca, es hora de prestar atención. Entre la inflación persistente y los altos costos de endeudamiento, la asequibilidad se enfrenta a una pared. Aquí te explicamos cómo los grandes constructores gestionan el riesgo a través de la banca de terrenos y la producción de flujo constante.\n\nFuente : https://tinyurl.com/2d6zpgdg\n#SafetrustMortgage #MortgageIntelligenceDaily #housingmarket #mortgagebroker #realestateinvesting",
-      "hashtags": [
-        "#SafetrustMortgage",
-        "#MortgageIntelligenceDaily",
-        "#housingmarket",
-        "#mortgagebroker",
-        "#realestateinvesting"
-      ],
-      "hook_tag": "Realidad del Constructor",
-      "hook": "Lennar revela que casi la mitad de los compradores potenciales no califican para una hipoteca de inmediato.",
-      "what_happened_heading": "El muro de la calificación",
-      "what_happened": "Los ejecutivos de Lennar defendieron su estrategia de producción de flujo constante y banca de terrenos durante las ganancias del tercer trimestre. Señalaron que casi el 50% de los visitantes no pueden calificar de inmediato, ya que el IPC se mantiene en 3.4% y la Fed mantiene las tasas altas.",
-      "breakdown": [
-        {
-          "heading": "La brecha de calificación del 50%",
-          "body": "De cada dos personas que entran a una casa modelo de Lennar, una no tiene la relación deuda-ingreso (DTI) o el perfil crediticio para comprar."
-        },
-        {
-          "heading": "Producción de flujo constante",
-          "body": "Los constructores evitan ciclos de auge y caída masivos al equilibrar los inicios de construcción durante el año. Esto mantiene estables las cadenas de suministro pese a la volatilidad del mercado."
-        },
-        {
-          "heading": "Asesor de préstamos de constructores",
-          "body": "Los prestamistas internos de los constructores trabajan horas extras estructurando programas de reparación de crédito y de \"lock\" extendidos para convertir a esos visitantes no calificados en cierres de ventas."
-        },
-        {
-          "heading": "La banca de terrenos como escudo",
-          "body": "Al usar terceros para mantener opciones de terrenos en lugar de comprarlos directamente, los constructores protegen sus balances de caídas repentinas en la demanda de viviendas."
-        }
-      ],
-      "my_take_heading": "El proceso de precalificación",
-      "my_take": "Los constructores ya no venden casas; están gestionando procesos de reparación de crédito a largo plazo para compradores que no califican hoy.",
-      "action_lo": "Asóciate con representantes de ventas locales en grandes subdivisiones para capturar el enorme grupo de compradores rechazados por los prestamistas cautivos.",
-      "action_realtor": "No dejes que tus compradores se alejen de la nueva construcción solo porque no pasaron la precalificación inicial. Conéctalos con un oficial de préstamos experimentado.",
-      "cta_question": "¿Estás viendo que más posibles compradores de constructores necesitan una reestructuración de crédito y deuda a largo plazo antes de la aprobación?"
-    },
-    {
-      "slug": "uwm-2027-loan-limits",
-      "title": "UWM divide la diferencia en los límites de préstamo de 2027",
-      "source": "National Mortgage Professional",
-      "source_url": "https://nationalmortgageprofessional.com/news/uwm-splits-difference-early-2027-loan-limit-race",
-      "cover_text": "UWM anuncia límites de préstamo de 2027 antes de tiempo.",
-      "caption": "United Wholesale Mortgage ha establecido un límite de préstamo conforme estimado para 2027 de $847,440 para propiedades de una unidad. Al dividir la diferencia temprano, los prestamistas y brokers se adelantan en la estrategia de \"high-balance\" mucho antes de que se anuncien oficialmente las cifras de la FHFA. Aquí te explicamos por qué el posicionamiento temprano de los límites de préstamo es importante para tus préstamos de compra de alto valor.\n\nFuente : https://tinyurl.com/2yw5pebj\n#SafetrustMortgage #MortgageIntelligenceDaily #mortgagerates #mortgagebroker #loanofficer",
+      "source_url": "https://www.housingwire.com/articles/will-mortgage-rates-rise-to-8-or-drop-to-6/",
+      "cover_text": "Geopolitics are pulling mortgage rates two directions",
+      "caption": "International conflict pushes mortgage interest rates in two completely opposite directions simultaneously. On one side, global anxiety drives investors into safe haven assets like government bonds, pulling yields down. On the other side, potential energy supply disruptions spark oil price hikes that reignite inflation fears and push interest rates up. When an underwriter looks at active lock pipelines during geopolitical crises, extreme daily volatility leads to sudden debt ratio failures for buyers with tight income margins. Loan officers who stress test client files early will protect their pipelines from unpredicted market shifts. Navigating market turbulence requires educating clients about rate locks instead of gambling on international headlines.\n\nSource : https://tinyurl.com/2akc6wah\n#SafetrustMortgage #MortgageIntelligenceDaily #mortgagerates #housingmarket #loanofficer",
       "hashtags": [
         "#SafetrustMortgage",
         "#MortgageIntelligenceDaily",
         "#mortgagerates",
-        "#mortgagebroker",
+        "#housingmarket",
         "#loanofficer"
       ],
-      "hook_tag": "Límites de Préstamo",
-      "hook": "UWM establece un límite de préstamo conforme temprano de $847,440 para 2027.",
-      "what_happened_heading": "Estableciendo el punto de referencia temprano",
-      "what_happened": "United Wholesale Mortgage ha establecido un límite de préstamo conforme estimado para 2027 de $847,440 para propiedades de una unidad. Esto da a los brokers hipotecarios un punto de referencia temprano que se sitúa justo entre las proyecciones de la industria.",
+      "hook_tag": "Market Volatility",
+      "hook": "Global conflict creates two opposing forces for mortgage rates.",
+      "what_happened_heading": "War shocks trigger conflicting rate drivers",
+      "what_happened": "Middle East tensions create a tug of war between safe haven bond buying and inflation driven oil price spikes. The balance between these forces determines whether rates move toward six or eight percent.",
       "breakdown": [
         {
-          "heading": "Dividiendo la diferencia de la industria",
-          "body": "Diferentes modelos de vivienda proyectaron aumentos base muy variados para el próximo año. UWM eligió una cifra intermedia para dar a los originadores un número confiable para planificar."
+          "heading": "Flight to safety lowers yields",
+          "body": "Global crises drive investors into ten year Treasuries, pulling yields and mortgage rates lower in the short term."
         },
         {
-          "heading": "Planificación de préstamos \"high-balance\"",
-          "body": "Los brokers ahora pueden identificar los préstamos \"jumbo\" en su proceso que podrían pasar a ser conformes cuando las cifras oficiales entren en vigencia."
+          "heading": "Oil shocks ignite inflation fear",
+          "body": "Escalating conflict threatens energy supplies, pushing oil prices higher and reigniting inflation concerns that push rates up."
         },
         {
-          "heading": "Asesorando transiciones \"jumbo\"",
-          "body": "Cuando un préstamo pasa de las pautas \"jumbo\" a las conformes, los requisitos de asesor cambian drásticamente en cuanto a reservas y origen de activos."
+          "heading": "Underwriting pipeline risk multiplies",
+          "body": "Underwriters face sudden debt ratio failures when rapid rate spikes push monthly obligations past maximum allowable limits mid transaction."
         },
         {
-          "heading": "Ventaja de precios para brokers",
-          "body": "La adopción temprana de los límites permite a los originadores mayoristas comercializar productos conformes de alto balance a prestatarios adinerados antes de que sus competidores minoristas actualicen sus sistemas."
+          "heading": "Inflation usually wins long term",
+          "body": "Safe haven rallies are typically brief, while sustained energy inflation forces central banks to hold rates higher for longer."
         }
       ],
-      "my_take_heading": "La ventaja del precio anticipado",
-      "my_take": "Adelantarse a los límites de los préstamos no es solo cuestión de números. Es un arma de marketing para conseguir negocios de compra de alto valor.",
-      "action_lo": "Audita tus preaprobaciones actuales para prestatarios justo por debajo de los $847 mil y así asegurar la estructura de su préstamo con anticipación.",
-      "action_realtor": "Consulta con clientes que buscan propiedades de alto valor para informarles que los límites de financiamiento se están expandiendo para el próximo año.",
-      "cta_question": "¿Los límites de préstamo estimados con antelación te ayudan en tu planificación, o prefieres esperar los números oficiales de la FHFA?"
+      "my_take_heading": "Geopolitics favour higher rate volatility",
+      "my_take": "Safe haven rallies offer temporary relief, but persistent energy inflation poses the greater long term threat to housing affordability.",
+      "action_lo": "Run stress tests on buyer qualification at higher rates to protect files against mid escrow volatility.",
+      "action_realtor": "Advise buyers to secure rate locks early instead of gambling on geopolitical headline swings.",
+      "cta_question": "Are you advising clients to lock early during periods of international conflict?"
+    },
+    {
+      "slug": "path-to-eight-percent-rates",
+      "title": "What triggers an eight percent mortgage rate scenario",
+      "source": "HousingWire",
+      "source_url": "https://www.housingwire.com/articles/will-mortgage-rates-rise-to-8-or-drop-to-6/",
+      "cover_text": "The path that pushes rates to eight percent",
+      "caption": "While most industry forecasts assume interest rates will gradually decline, an eight percent rate scenario remains a very real possibility. Massive government debt issuance combined with resilient wage growth keeps strong upward pressure on Treasury yields. In the underwriting department, eight percent mortgage rates completely eliminate marginal buyers whose qualification metrics collapse under higher monthly housing obligations. Surviving a higher for longer rate environment requires mortgage professionals to pivot away from refinance expectations and focus heavily on creative purchase solutions like temporary or permanent rate buy downs. Preparing your buyers and realtor partners for stubborn inflation gives your team a durable strategy for any market cycle.\n\nSource : https://tinyurl.com/2akc6wah\n#SafetrustMortgage #MortgageIntelligenceDaily #mortgagerates #loanofficer #firsttimehomebuyer",
+      "hashtags": [
+        "#SafetrustMortgage",
+        "#MortgageIntelligenceDaily",
+        "#mortgagerates",
+        "#loanofficer",
+        "#firsttimehomebuyer"
+      ],
+      "hook_tag": "Rate Scenarios",
+      "hook": "Eight percent mortgage rates are not off the table.",
+      "what_happened_heading": "Persistent inflation risks pushing rates higher",
+      "what_happened": "A resurgence in inflation paired with strong economic growth could push mortgage rates toward eight percent. Persistent labor strength gives central bankers reason to maintain tighter monetary policy.",
+      "breakdown": [
+        {
+          "heading": "Strong labor markets delay relief",
+          "body": "Resilient employment numbers keep wage growth elevated, preventing inflation from cooling to target levels smoothly."
+        },
+        {
+          "heading": "Treasury supply floods the market",
+          "body": "Massive government debt issuance increases supply in bond markets, forcing yields higher to attract buyers."
+        },
+        {
+          "heading": "Underwriting stress on lower incomes",
+          "body": "At eight percent rates, underwriters see debt to income ratios breach caps, eliminating marginal first time homebuyers entirely."
+        },
+        {
+          "heading": "Refinance pipelines go completely dark",
+          "body": "Higher sustained rates freeze rate and term refinance activity, forcing lenders to survive purely on purchase volume."
+        }
+      ],
+      "my_take_heading": "Higher for longer is still possible",
+      "my_take": "Assuming rates must fall ignores structural deficit spending and stubborn services inflation that could easily push yields higher.",
+      "action_lo": "Shift focus toward strategy based origination like permanent buy downs rather than relying on future refinancing assumptions.",
+      "action_realtor": "Focus listings on price points that accommodate higher borrowing costs for local wage earners.",
+      "cta_question": "Is your team structurally prepared if mortgage rates hit eight percent this year?"
+    },
+    {
+      "slug": "path-to-six-percent-rates",
+      "title": "What it takes to reach six percent mortgage rates",
+      "source": "HousingWire",
+      "source_url": "https://www.housingwire.com/articles/will-mortgage-rates-rise-to-8-or-drop-to-6/",
+      "cover_text": "How mortgage rates could drop to six percent",
+      "caption": "Reaching six percent mortgage rates is the ideal target for many real estate professionals, but it comes with distinct economic trade offs. Lower interest rates typically require a slowing economy, cooling wage growth, and rising unemployment figures to materialize. Inside underwriting departments, a shift toward six percent brings previously stalled files back to life as lower payments rescue tight debt to income ratios. However, loan officers must remember that broader economic stress can also impact borrower job security during underwriting review. Real estate agents and lenders who prepare for this shift can capture pent up demand while managing buyer expectations responsibly.\n\nSource : https://tinyurl.com/2akc6wah\n#SafetrustMortgage #MortgageIntelligenceDaily #mortgagerates #housingmarket #homebuying",
+      "hashtags": [
+        "#SafetrustMortgage",
+        "#MortgageIntelligenceDaily",
+        "#mortgagerates",
+        "#housingmarket",
+        "#homebuying"
+      ],
+      "hook_tag": "Economic Outlook",
+      "hook": "Six percent mortgage rates require specific economic conditions.",
+      "what_happened_heading": "Cooling labor data clears rate cut pathways",
+      "what_happened": "Falling inflation and softening economic indicators could pave the way for mortgage rates to drop toward six percent. Lower Treasury yields combined with narrowing spreads provide the necessary tailwinds.",
+      "breakdown": [
+        {
+          "heading": "Economic cooling drives yield relief",
+          "body": "Slower GDP growth and rising unemployment force bond yields down as investors price in aggressive monetary easing."
+        },
+        {
+          "heading": "Inflation cooling reassures bond investors",
+          "body": "Consistent drops in consumer price indexes give fixed income investors confidence to accept lower long term returns."
+        },
+        {
+          "heading": "Underwriting volume expands rapidly",
+          "body": "Underwriters see previously declined files become viable again as lower rates reduce monthly housing obligations significantly."
+        },
+        {
+          "heading": "Inventory velocity picks up speed",
+          "body": "Dropping closer to six percent unlocks rate locked sellers, boosting inventory and transaction velocity across markets."
+        }
+      ],
+      "my_take_heading": "Six percent requires labor market weakness",
+      "my_take": "Be careful what you wish for because six percent mortgage rates likely require economic pain and rising unemployment to materialize.",
+      "action_lo": "Re-engage pre-approved buyers who dropped out due to affordability limits to recalculate their buying power.",
+      "action_realtor": "Prepare listing strategies for an influx of seller inventory once rate lock-in effects begin to thaw.",
+      "cta_question": "Will six percent rates trigger a wave of buyer demand or seller inventory first?"
     }
   ]
 }
