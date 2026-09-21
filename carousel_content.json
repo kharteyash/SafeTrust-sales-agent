@@ -1,342 +1,172 @@
 {
   "carousels": [
     {
-      "slug": "mortgage-spreads-explained",
-      "title": "Why mortgage spreads matter more than the Fed right now",
+      "slug": "ny-condo-financing-overhaul",
+      "title": "What New York buyers, sellers and boards need to know about the 2026 condo financing overhaul",
       "source": "HousingWire",
-      "source_url": "https://www.housingwire.com/articles/will-mortgage-rates-rise-to-8-or-drop-to-6/",
-      "cover_text": "Mortgage spreads matter more than Fed cuts",
-      "caption": "Rate cuts from the Federal Reserve will not singlehandedly fix mortgage pricing for buyers. The spread between ten year Treasury yields and mortgage backed securities remains historically wide, creating extra cost for everyday borrowers. When underwriters review files in the pipeline, daily interest rate volatility creates sudden pricing changes that can break debt ratio limits right before closing. Understanding how secondary market spreads operate gives you a serious edge over industry competitors who only track benchmark Fed announcements. If mortgage spreads compress back toward historical averages, consumer rates can drop significantly even if central bank policy stays completely unchanged. Focus your client conversations on market structure rather than guessing Fed meeting outcomes.\n\nSource : https://tinyurl.com/2akc6wah\n#SafetrustMortgage #MortgageIntelligenceDaily #mortgagerates #mortgagebroker #loanofficer",
+      "source_url": "https://www.housingwire.com/articles/ny-condo-financing-overhaul/",
+      "cover_text": "New York condo rules are changing fast",
+      "caption": "New York condo financing is getting a major shakeup that every buyer and seller needs to track now. Limited reviews end on August 3, and reserve minimums climb to 15 percent for applications dated January 4, 2027. If you are structuring deals in NYC, your timelines just shrank and your documentation requirements just doubled. This is not just a minor operational tweak; it is a structural shift in how files get cleared. Ignore this and watch your closings stall out completely.\n\nSource : https://tinyurl.com/2398z3oa\n#SafetrustMortgage #MortgageIntelligenceDaily #housingmarket #realestateagent #mortgagerates",
       "hashtags": [
         "#SafetrustMortgage",
         "#MortgageIntelligenceDaily",
-        "#mortgagerates",
-        "#mortgagebroker",
-        "#loanofficer"
-      ],
-      "hook_tag": "Spread Dynamics",
-      "hook": "Fed rate cuts will not fix your mortgage rates alone.",
-      "what_happened_heading": "Spreads distort historical rate relationships",
-      "what_happened": "Mortgage spreads remain historically wide relative to ten year Treasury yields. The gap reflects investor uncertainty and elevated volatility in the bond market.",
-      "breakdown": [
-        {
-          "heading": "Treasuries tell only half the story",
-          "body": "Mortgage rates track ten year Treasury yields, but the spread between them determines the actual rate borrowers see at lock."
-        },
-        {
-          "heading": "Investors demand a risk premium",
-          "body": "When interest rate volatility spikes, secondary market investors demand higher yields to hold mortgage backed securities."
-        },
-        {
-          "heading": "What underwriting sees in pipeline",
-          "body": "Underwriters see locks falling through because spread widening adds unpredictable pricing adjustments right before closing."
-        },
-        {
-          "heading": "Normalization is the real catalyst",
-          "body": "If spreads revert to historical averages, mortgage rates could fall significantly even without aggressive Federal Reserve rate cuts."
-        }
-      ],
-      "my_take_heading": "Fix the spread, fix the market",
-      "my_take": "Stop obsessing over Fed rate decisions when compression in the mortgage spread holds the real key to unlocking six percent rates.",
-      "action_lo": "Educate buyers on how secondary market spreads impact daily lock pricing beyond benchmark rate headlines.",
-      "action_realtor": "Set realistic price expectations with sellers rather than waiting for hypothetical benchmark interest rate drops.",
-      "cta_question": "Do you think spread compression will happen before the Fed cuts rates again?"
-    },
-    {
-      "slug": "geopolitical-conflict-rate-impact",
-      "title": "How Middle East tension creates opposing rate forces",
-      "source": "HousingWire",
-      "source_url": "https://www.housingwire.com/articles/will-mortgage-rates-rise-to-8-or-drop-to-6/",
-      "cover_text": "Geopolitics are pulling mortgage rates two directions",
-      "caption": "International conflict pushes mortgage interest rates in two completely opposite directions simultaneously. On one side, global anxiety drives investors into safe haven assets like government bonds, pulling yields down. On the other side, potential energy supply disruptions spark oil price hikes that reignite inflation fears and push interest rates up. When an underwriter looks at active lock pipelines during geopolitical crises, extreme daily volatility leads to sudden debt ratio failures for buyers with tight income margins. Loan officers who stress test client files early will protect their pipelines from unpredicted market shifts. Navigating market turbulence requires educating clients about rate locks instead of gambling on international headlines.\n\nSource : https://tinyurl.com/2akc6wah\n#SafetrustMortgage #MortgageIntelligenceDaily #mortgagerates #housingmarket #loanofficer",
-      "hashtags": [
-        "#SafetrustMortgage",
-        "#MortgageIntelligenceDaily",
-        "#mortgagerates",
         "#housingmarket",
-        "#loanofficer"
+        "#realestateagent",
+        "#mortgagerates"
       ],
-      "hook_tag": "Market Volatility",
-      "hook": "Global conflict creates two opposing forces for mortgage rates.",
-      "what_happened_heading": "War shocks trigger conflicting rate drivers",
-      "what_happened": "Middle East tensions create a tug of war between safe haven bond buying and inflation driven oil price spikes. The balance between these forces determines whether rates move toward six or eight percent.",
+      "hook_tag": "Market Rules",
+      "hook": "The end of limited reviews in New York will kill unprepared deals.",
+      "what_happened_heading": "The 2026 financing shift",
+      "what_happened": "Limited review options for New York condos end on August 3. Meanwhile, reserve minimums jump to 15 percent for applications dated January 4, 2027.",
       "breakdown": [
         {
-          "heading": "Flight to safety lowers yields",
-          "body": "Global crises drive investors into ten year Treasuries, pulling yields and mortgage rates lower in the short term."
+          "heading": "The end of shortcuts",
+          "body": "Limited reviews let some buyers bypass deep financial dives on the building. Losing this option means full portfolio reviews for almost every deal."
         },
         {
-          "heading": "Oil shocks ignite inflation fear",
-          "body": "Escalating conflict threatens energy supplies, pushing oil prices higher and reigniting inflation concerns that push rates up."
+          "heading": "Reserves hit 15 percent",
+          "body": "Associations must hold 15 percent of their budget in reserves. Many older New York buildings will struggle to hit this hard target."
         },
         {
-          "heading": "Underwriting pipeline risk multiplies",
-          "body": "Underwriters face sudden debt ratio failures when rapid rate spikes push monthly obligations past maximum allowable limits mid transaction."
+          "heading": "Underwriting reality check",
+          "body": "When a file hits underwriting with a weak reserve study, it is dead on arrival. Underwriters will not stretch guidelines on New York condo projects anymore."
         },
         {
-          "heading": "Inflation usually wins long term",
-          "body": "Safe haven rallies are typically brief, while sustained energy inflation forces central banks to hold rates higher for longer."
+          "heading": "Timeline shock",
+          "body": "Collecting condo questionnaires and financial statements now takes weeks longer. Deal timelines must adjust to avoid frantic rate lock expirations."
         }
       ],
-      "my_take_heading": "Geopolitics favour higher rate volatility",
-      "my_take": "Safe haven rallies offer temporary relief, but persistent energy inflation poses the greater long term threat to housing affordability.",
-      "action_lo": "Run stress tests on buyer qualification at higher rates to protect files against mid escrow volatility.",
-      "action_realtor": "Advise buyers to secure rate locks early instead of gambling on geopolitical headline swings.",
-      "cta_question": "Are you advising clients to lock early during periods of international conflict?"
+      "my_take_heading": "The underwriting bottleneck",
+      "my_take": "If a New York building cannot prove a 15 percent reserve fund, the loan file is dead before it ever reaches the closing table.",
+      "action_lo": "Audit your active New York condo pipeline for reserve compliance today.",
+      "action_realtor": "Ask building management for the latest reserve study before listing any condo.",
+      "cta_question": "How many buildings in your current market can actually clear a strict 15 percent reserve rule?"
     },
     {
-      "slug": "path-to-eight-percent-rates",
-      "title": "What triggers an eight percent mortgage rate scenario",
+      "slug": "california-real-estate-career-2026",
+      "title": "Is real estate still a viable career in California in 2026? The market data says yes",
       "source": "HousingWire",
-      "source_url": "https://www.housingwire.com/articles/will-mortgage-rates-rise-to-8-or-drop-to-6/",
-      "cover_text": "The path that pushes rates to eight percent",
-      "caption": "While most industry forecasts assume interest rates will gradually decline, an eight percent rate scenario remains a very real possibility. Massive government debt issuance combined with resilient wage growth keeps strong upward pressure on Treasury yields. In the underwriting department, eight percent mortgage rates completely eliminate marginal buyers whose qualification metrics collapse under higher monthly housing obligations. Surviving a higher for longer rate environment requires mortgage professionals to pivot away from refinance expectations and focus heavily on creative purchase solutions like temporary or permanent rate buy downs. Preparing your buyers and realtor partners for stubborn inflation gives your team a durable strategy for any market cycle.\n\nSource : https://tinyurl.com/2akc6wah\n#SafetrustMortgage #MortgageIntelligenceDaily #mortgagerates #loanofficer #firsttimehomebuyer",
+      "source_url": "https://www.housingwire.com/articles/california-real-estate-career-2026/",
+      "cover_text": "Fewer agents mean bigger wins ahead",
+      "caption": "California real estate is shaking out the part-timers, leaving serious professionals with massive opportunity. With the median price hitting $887,680 in July 2026 and about 10,500 fewer licensees year over year, the math favors the focused. Less competition means your commission dollars are concentrated among fewer active players. If you survived the squeeze, your market share is about to expand whether you chase it or not.\n\nSource : https://tinyurl.com/2crpo955\n#SafetrustMortgage #MortgageIntelligenceDaily #realestateagent #housingmarket #homebuying",
       "hashtags": [
         "#SafetrustMortgage",
         "#MortgageIntelligenceDaily",
-        "#mortgagerates",
-        "#loanofficer",
-        "#firsttimehomebuyer"
-      ],
-      "hook_tag": "Rate Scenarios",
-      "hook": "Eight percent mortgage rates are not off the table.",
-      "what_happened_heading": "Persistent inflation risks pushing rates higher",
-      "what_happened": "A resurgence in inflation paired with strong economic growth could push mortgage rates toward eight percent. Persistent labor strength gives central bankers reason to maintain tighter monetary policy.",
-      "breakdown": [
-        {
-          "heading": "Strong labor markets delay relief",
-          "body": "Resilient employment numbers keep wage growth elevated, preventing inflation from cooling to target levels smoothly."
-        },
-        {
-          "heading": "Treasury supply floods the market",
-          "body": "Massive government debt issuance increases supply in bond markets, forcing yields higher to attract buyers."
-        },
-        {
-          "heading": "Underwriting stress on lower incomes",
-          "body": "At eight percent rates, underwriters see debt to income ratios breach caps, eliminating marginal first time homebuyers entirely."
-        },
-        {
-          "heading": "Refinance pipelines go completely dark",
-          "body": "Higher sustained rates freeze rate and term refinance activity, forcing lenders to survive purely on purchase volume."
-        }
-      ],
-      "my_take_heading": "Higher for longer is still possible",
-      "my_take": "Assuming rates must fall ignores structural deficit spending and stubborn services inflation that could easily push yields higher.",
-      "action_lo": "Shift focus toward strategy based origination like permanent buy downs rather than relying on future refinancing assumptions.",
-      "action_realtor": "Focus listings on price points that accommodate higher borrowing costs for local wage earners.",
-      "cta_question": "Is your team structurally prepared if mortgage rates hit eight percent this year?"
-    },
-    {
-      "slug": "path-to-six-percent-rates",
-      "title": "What it takes to reach six percent mortgage rates",
-      "source": "HousingWire",
-      "source_url": "https://www.housingwire.com/articles/will-mortgage-rates-rise-to-8-or-drop-to-6/",
-      "cover_text": "How mortgage rates could drop to six percent",
-      "caption": "Reaching six percent mortgage rates is the ideal target for many real estate professionals, but it comes with distinct economic trade offs. Lower interest rates typically require a slowing economy, cooling wage growth, and rising unemployment figures to materialize. Inside underwriting departments, a shift toward six percent brings previously stalled files back to life as lower payments rescue tight debt to income ratios. However, loan officers must remember that broader economic stress can also impact borrower job security during underwriting review. Real estate agents and lenders who prepare for this shift can capture pent up demand while managing buyer expectations responsibly.\n\nSource : https://tinyurl.com/2akc6wah\n#SafetrustMortgage #MortgageIntelligenceDaily #mortgagerates #housingmarket #homebuying",
-      "hashtags": [
-        "#SafetrustMortgage",
-        "#MortgageIntelligenceDaily",
-        "#mortgagerates",
+        "#realestateagent",
         "#housingmarket",
         "#homebuying"
       ],
-      "hook_tag": "Economic Outlook",
-      "hook": "Six percent mortgage rates require specific economic conditions.",
-      "what_happened_heading": "Cooling labor data clears rate cut pathways",
-      "what_happened": "Falling inflation and softening economic indicators could pave the way for mortgage rates to drop toward six percent. Lower Treasury yields combined with narrowing spreads provide the necessary tailwinds.",
+      "hook_tag": "Agent Survival",
+      "hook": "California lost 10,500 licensees, and that is the best news for remaining agents.",
+      "what_happened_heading": "The Golden State squeeze",
+      "what_happened": "California recorded a median price of $887,680 in July 2026. At the same time, the state has about 10,500 fewer active licensees year over year.",
       "breakdown": [
         {
-          "heading": "Economic cooling drives yield relief",
-          "body": "Slower GDP growth and rising unemployment force bond yields down as investors price in aggressive monetary easing."
+          "heading": "Price resilience",
+          "body": "A median price near $890,000 proves high demand persists despite affordability strains. High values mean solid commission checks for closed transactions."
         },
         {
-          "heading": "Inflation cooling reassures bond investors",
-          "body": "Consistent drops in consumer price indexes give fixed income investors confidence to accept lower long term returns."
+          "heading": "The agent exodus",
+          "body": "Losing 10,500 agents means the market is cleansing itself of part-time operators. Commissions are consolidating among full-time professionals."
         },
         {
-          "heading": "Underwriting volume expands rapidly",
-          "body": "Underwriters see previously declined files become viable again as lower rates reduce monthly housing obligations significantly."
+          "heading": "Underwriting volume shift",
+          "body": "Fewer agents writing contracts means loan officers receive cleaner, more structured purchase files from seasoned pros who actually know guidelines."
         },
         {
-          "heading": "Inventory velocity picks up speed",
-          "body": "Dropping closer to six percent unlocks rate locked sellers, boosting inventory and transaction velocity across markets."
+          "heading": "Inventory pressure",
+          "body": "High prices require precise buyer qualification. Top agents are winning by partnering with lenders who can structure jumbo and high-balance loans flawlessly."
         }
       ],
-      "my_take_heading": "Six percent requires labor market weakness",
-      "my_take": "Be careful what you wish for because six percent mortgage rates likely require economic pain and rising unemployment to materialize.",
-      "action_lo": "Re-engage pre-approved buyers who dropped out due to affordability limits to recalculate their buying power.",
-      "action_realtor": "Prepare listing strategies for an influx of seller inventory once rate lock-in effects begin to thaw.",
-      "cta_question": "Will six percent rates trigger a wave of buyer demand or seller inventory first?"
-    }
-  ],
-  "carousels_es": [
-    {
-      "slug": "mortgage-spreads-explained",
-      "title": "Por qué los diferenciales hipotecarios importan más que la Fed ahora",
-      "source": "HousingWire",
-      "source_url": "https://www.housingwire.com/articles/will-mortgage-rates-rise-to-8-or-drop-to-6/",
-      "cover_text": "Los diferenciales hipotecarios importan más que los recortes de la Fed",
-      "caption": "Los recortes de tasas de la Reserva Federal no solucionarán por sí solos los precios de las hipotecas para los compradores. El diferencial entre los rendimientos de los bonos del Tesoro a diez años y los valores respaldados por hipotecas sigue siendo históricamente amplio, creando un costo adicional para los prestatarios. Cuando los asesores revisan los expedientes, la volatilidad diaria de las tasas de interés crea cambios de precio repentinos que pueden romper los límites de la relación deuda-ingresos justo antes del cierre. Entender cómo funcionan los diferenciales del mercado secundario te da una gran ventaja sobre la competencia que solo sigue los anuncios de la Fed. Si los diferenciales hipotecarios se reducen a promedios históricos, las tasas para el consumidor pueden bajar significativamente, incluso si la política del banco central no cambia. Enfoca las conversaciones con tus clientes en la estructura del mercado, no en adivinar los resultados de las reuniones de la Fed.\n\nFuente : https://tinyurl.com/2akc6wah\n#SafetrustMortgage #MortgageIntelligenceDaily #mortgagerates #mortgagebroker #loanofficer",
-      "hashtags": [
-        "#SafetrustMortgage",
-        "#MortgageIntelligenceDaily",
-        "#mortgagerates",
-        "#mortgagebroker",
-        "#loanofficer"
-      ],
-      "hook_tag": "Dinámica del Diferencial",
-      "hook": "Los recortes de la Fed no arreglarán solos tus tasas hipotecarias.",
-      "what_happened_heading": "Los diferenciales distorsionan las relaciones históricas de las tasas",
-      "what_happened": "Los diferenciales hipotecarios siguen siendo históricamente amplios en relación con los rendimientos de los bonos del Tesoro a diez años. La brecha refleja la incertidumbre de los inversores y la alta volatilidad en el mercado de bonos.",
-      "breakdown": [
-        {
-          "heading": "Los bonos del Tesoro solo cuentan la mitad de la historia",
-          "body": "Las tasas hipotecarias siguen los rendimientos de los bonos del Tesoro a diez años, pero el diferencial entre ellos determina la tasa real que ven los prestatarios."
-        },
-        {
-          "heading": "Los inversores exigen una prima por riesgo",
-          "body": "Cuando la volatilidad de las tasas de interés se dispara, los inversores del mercado secundario exigen rendimientos más altos por los valores respaldados por hipotecas."
-        },
-        {
-          "heading": "Lo que ve el asesor en el proceso",
-          "body": "Los asesores ven que los cierres se caen porque la ampliación del diferencial añade ajustes de precios impredecibles justo antes del cierre."
-        },
-        {
-          "heading": "La normalización es el verdadero catalizador",
-          "body": "Si los diferenciales vuelven a los promedios históricos, las tasas hipotecarias podrían bajar mucho, incluso sin recortes agresivos de la Reserva Federal."
-        }
-      ],
-      "my_take_heading": "Arregla el diferencial, arregla el mercado",
-      "my_take": "Deja de obsesionarte con las decisiones de tasas de la Fed. La reducción del diferencial hipotecario tiene la verdadera clave para desbloquear tasas del seis por ciento.",
-      "action_lo": "Educa a los compradores sobre cómo los diferenciales del mercado secundario afectan los precios de cierre diarios, más allá de los titulares sobre las tasas de referencia.",
-      "action_realtor": "Establece expectativas de precios realistas con los vendedores en lugar de esperar hipotéticas caídas de las tasas de interés de referencia.",
-      "cta_question": "¿Crees que la compresión del diferencial ocurrirá antes de que la Fed vuelva a recortar las tasas?"
+      "my_take_heading": "The consolidation bonus",
+      "my_take": "When 10,500 part-timers exit the market, your pipeline expands simply because the survivors inherit their transaction volume.",
+      "action_lo": "Target the top surviving California agents who just picked up extra market share.",
+      "action_realtor": "Double down on your farm area while thousands of competitors are walking away.",
+      "cta_question": "Are you seeing weaker agents drop out of your local market, or are new faces taking their place?"
     },
     {
-      "slug": "geopolitical-conflict-rate-impact",
-      "title": "Cómo la tensión en Medio Oriente crea fuerzas opuestas para las tasas",
+      "slug": "mortgage-document-intelligence-1003-servicing",
+      "title": "How document intelligence is bringing automation across the mortgage lifecycle",
       "source": "HousingWire",
-      "source_url": "https://www.housingwire.com/articles/will-mortgage-rates-rise-to-8-or-drop-to-6/",
-      "cover_text": "La geopolítica está jalando las tasas hipotecarias en dos direcciones",
-      "caption": "El conflicto internacional empuja las tasas de interés hipotecarias en dos direcciones completamente opuestas a la vez. Por un lado, la ansiedad global lleva a los inversores a activos seguros como los bonos del gobierno, lo que hace que los rendimientos bajen. Por otro lado, posibles interrupciones en el suministro de energía provocan aumentos en los precios del petróleo que reavivan los temores inflacionarios y empujan las tasas al alza. Cuando un asesor revisa procesos de cierre activos durante crisis geopolíticas, la volatilidad diaria extrema lleva a fallas repentinas en la relación deuda-ingresos para compradores con márgenes de ingresos ajustados. Los oficiales de préstamos que ponen a prueba los expedientes de sus clientes a tiempo protegerán sus procesos de los cambios inesperados del mercado. Navegar por la turbulencia del mercado requiere educar a los clientes sobre los cierres de tasas en lugar de apostar por los titulares internacionales.\n\nFuente : https://tinyurl.com/2akc6wah\n#SafetrustMortgage #MortgageIntelligenceDaily #mortgagerates #housingmarket #loanofficer",
+      "source_url": "https://www.housingwire.com/articles/mortgage-document-intelligence-1003-servicing/",
+      "cover_text": "AI will not save a bad loan file",
+      "caption": "Document intelligence is changing how lenders process the 1003 (Uniform Residential Loan Application) from origination all the way to servicing. Tools from companies like Consolidated Analytics promise to accelerate workflows and catch issues early. But let us be honest: automation only speeds up what you feed it. If your initial data entry is garbage, AI just processes garbage faster. Operational efficiency starts with human discipline, not just software licenses.\n\nSource : https://tinyurl.com/2caks84p\n#SafetrustMortgage #MortgageIntelligenceDaily #loanofficer #mortgagebroker #housingmarket",
       "hashtags": [
         "#SafetrustMortgage",
         "#MortgageIntelligenceDaily",
-        "#mortgagerates",
-        "#housingmarket",
-        "#loanofficer"
-      ],
-      "hook_tag": "Volatilidad del Mercado",
-      "hook": "El conflicto global crea dos fuerzas opuestas para las tasas hipotecarias.",
-      "what_happened_heading": "Los choques de guerra desencadenan impulsores de tasas conflictivos",
-      "what_happened": "Las tensiones en Medio Oriente crean una lucha entre la compra de bonos como refugio seguro y los aumentos de precios del petróleo impulsados por la inflación. El equilibrio entre estas fuerzas determina si las tasas se mueven hacia el seis o el ocho por ciento.",
-      "breakdown": [
-        {
-          "heading": "La huida hacia la seguridad baja los rendimientos",
-          "body": "Las crisis globales llevan a los inversores a los bonos del Tesoro a diez años, haciendo que los rendimientos y las tasas hipotecarias bajen a corto plazo."
-        },
-        {
-          "heading": "Los choques petroleros encienden el miedo a la inflación",
-          "body": "La escalada del conflicto amenaza los suministros de energía, lo que eleva los precios del petróleo y reaviva las preocupaciones inflacionarias que empujan las tasas al alza."
-        },
-        {
-          "heading": "El riesgo de los procesos de cierre se multiplica",
-          "body": "Los asesores enfrentan fallas repentinas en la relación deuda-ingresos cuando los aumentos rápidos de tasas elevan las obligaciones mensuales más allá de los límites permitidos a mitad de la transacción."
-        },
-        {
-          "heading": "La inflación suele ganar a largo plazo",
-          "body": "Los repuntes de refugio seguro suelen ser breves, mientras que la inflación energética sostenida obliga a los bancos centrales a mantener las tasas más altas por más tiempo."
-        }
-      ],
-      "my_take_heading": "La geopolítica favorece una mayor volatilidad de las tasas",
-      "my_take": "Los repuntes de refugio seguro ofrecen un alivio temporal, pero la inflación energética persistente plantea la mayor amenaza a largo plazo para la asequibilidad de la vivienda.",
-      "action_lo": "Realiza pruebas de estrés en la calificación de los compradores con tasas más altas para proteger los expedientes de la volatilidad durante el proceso de cierre.",
-      "action_realtor": "Aconseja a los compradores que aseguren las tasas hipotecarias temprano en lugar de apostar por los vaivenes de los titulares geopolíticos.",
-      "cta_question": "¿Estás aconsejando a tus clientes que aseguren su tasa pronto durante períodos de conflicto internacional?"
-    },
-    {
-      "slug": "path-to-eight-percent-rates",
-      "title": "Lo que desencadena un escenario de tasas hipotecarias del ocho por ciento",
-      "source": "HousingWire",
-      "source_url": "https://www.housingwire.com/articles/will-mortgage-rates-rise-to-8-or-drop-to-6/",
-      "cover_text": "El camino que empuja las tasas al ocho por ciento",
-      "caption": "Aunque la mayoría de los pronósticos de la industria asumen que las tasas de interés bajarán gradualmente, un escenario de tasas del ocho por ciento sigue siendo una posibilidad muy real. La emisión masiva de deuda pública combinada con un crecimiento salarial resistente mantiene una fuerte presión al alza sobre los rendimientos de los bonos del Tesoro. En el departamento de asesoramiento, las tasas hipotecarias del ocho por ciento eliminan por completo a los compradores marginales cuyas métricas de calificación colapsan bajo obligaciones hipotecarias mensuales más altas. Sobrevivir a un entorno de tasas más altas por más tiempo requiere que los profesionales hipotecarios cambien de las expectativas de refinanciamiento y se centren en soluciones de compra creativas como los \"buy downs\" de tasas temporales o permanentes. Preparar a tus compradores y agentes inmobiliarios para una inflación obstinada le da a tu equipo una estrategia duradera para cualquier ciclo de mercado.\n\nFuente : https://tinyurl.com/2akc6wah\n#SafetrustMortgage #MortgageIntelligenceDaily #mortgagerates #loanofficer #firsttimehomebuyer",
-      "hashtags": [
-        "#SafetrustMortgage",
-        "#MortgageIntelligenceDaily",
-        "#mortgagerates",
         "#loanofficer",
-        "#firsttimehomebuyer"
+        "#mortgagebroker",
+        "#housingmarket"
       ],
-      "hook_tag": "Escenarios de Tasas",
-      "hook": "Las tasas hipotecarias del ocho por ciento no están descartadas.",
-      "what_happened_heading": "La inflación persistente amenaza con empujar las tasas al alza",
-      "what_happened": "Un resurgimiento de la inflación junto con un fuerte crecimiento económico podría empujar las tasas hipotecarias hacia el ocho por ciento. La persistente fortaleza laboral da a los banqueros centrales razones para mantener una política monetaria más estricta.",
+      "hook_tag": "Tech Reality",
+      "hook": "Automation will not save your operations if your front-end data is broken.",
+      "what_happened_heading": "The automation wave",
+      "what_happened": "Consolidated Analytics explains how adaptable automation accelerates the 1003 and identifies issues earlier. This technology now supports workflows from origination through servicing.",
       "breakdown": [
         {
-          "heading": "Los mercados laborales fuertes retrasan el alivio",
-          "body": "Las cifras de empleo resistentes mantienen el crecimiento salarial elevado, impidiendo que la inflación se enfríe a los niveles objetivo sin problemas."
+          "heading": "Speeding up the 1003",
+          "body": "Document intelligence extracts borrower data from tax returns and paystubs instantly. It cuts manual typing time down to seconds."
         },
         {
-          "heading": "La oferta del Tesoro inunda el mercado",
-          "body": "La emisión masiva de deuda pública aumenta la oferta en los mercados de bonos, lo que obliga a los rendimientos a subir para atraer compradores."
+          "heading": "Early issue spotting",
+          "body": "Systems flag income discrepancies and missing asset pages before submission. This reduces back-and-forth conditions later in the lifecycle."
         },
         {
-          "heading": "Estrés de los asesores en ingresos bajos",
-          "body": "Con tasas del ocho por ciento, los asesores ven que las relaciones deuda-ingresos superan los límites, eliminando por completo a los compradores primerizos marginales."
+          "heading": "Underwriting friction points",
+          "body": "An underwriter still has to verify what the machine flags. Software finds the anomaly, but a human must decide if the risk is acceptable."
         },
         {
-          "heading": "Los procesos de refinanciamiento se apagan por completo",
-          "body": "Tasas sostenidas más altas congelan la actividad de refinanciamiento de tasa y término, lo que obliga a los prestamistas a sobrevivir puramente del volumen de compras."
+          "heading": "Servicing continuity",
+          "body": "Carrying clean digital data from origination into servicing prevents lost documents at handoff. That protects investors from costly compliance penalties."
         }
       ],
-      "my_take_heading": "Más altas por más tiempo sigue siendo posible",
-      "my_take": "Asumir que las tasas deben bajar ignora el gasto deficitario estructural y la inflación persistente en servicios que fácilmente podrían empujar los rendimientos al alza.",
-      "action_lo": "Cambia el enfoque hacia la originación basada en estrategias, como los \"buy downs\" permanentes, en lugar de depender de supuestos futuros de refinanciamiento.",
-      "action_realtor": "Centra los listados en puntos de precio que se ajusten a costos de endeudamiento más altos para los trabajadores locales.",
-      "cta_question": "¿Está tu equipo preparado estructuralmente si las tasas hipotecarias alcanzan el ocho por ciento este año?"
+      "my_take_heading": "The garbage-in rule",
+      "my_take": "Software does not underwrite risk; it only reads paper. If your loan officer takes bad initial data, AI just manufactures conditions faster.",
+      "action_lo": "Train your team to verify source documents before running them through extraction software.",
+      "action_realtor": "Partner with lenders using fast tech to shorten your contract-to-close windows.",
+      "cta_question": "Has document automation actually lowered your cost per loan, or just created new software expenses?"
     },
     {
-      "slug": "path-to-six-percent-rates",
-      "title": "Lo que se necesita para alcanzar tasas hipotecarias del seis por ciento",
+      "slug": "default-servicing-handoffs",
+      "title": "Why default servicing breaks at the handoffs",
       "source": "HousingWire",
-      "source_url": "https://www.housingwire.com/articles/will-mortgage-rates-rise-to-8-or-drop-to-6/",
-      "cover_text": "Cómo las tasas hipotecarias podrían bajar al seis por ciento",
-      "caption": "Alcanzar tasas hipotecarias del seis por ciento es el objetivo ideal para muchos profesionales del sector inmobiliario, pero conlleva claras compensaciones económicas. Tasas de interés más bajas suelen requerir una economía en desaceleración, un enfriamiento del crecimiento salarial y un aumento de las cifras de desempleo para materializarse. Dentro de los departamentos de asesoramiento, un cambio hacia el seis por ciento devuelve a la vida expedientes previamente estancados, ya que pagos más bajos rescatan relaciones deuda-ingresos ajustadas. Sin embargo, los oficiales de préstamos deben recordar que el estrés económico más amplio también puede afectar la seguridad laboral del prestatario durante la revisión del asesor. Los agentes inmobiliarios y prestamistas que se preparan para este cambio pueden capturar la demanda acumulada mientras gestionan las expectativas del comprador de manera responsable.\n\nFuente : https://tinyurl.com/2akc6wah\n#SafetrustMortgage #MortgageIntelligenceDaily #mortgagerates #housingmarket #homebuying",
+      "source_url": "https://www.housingwire.com/articles/default-servicing-handoffs/",
+      "cover_text": "Where default servicing breaks down",
+      "caption": "Default servicing is where loan files go to die when communication breaks down between teams. Five specific handoffs cost mortgage investors, servicers, and law firms massive amounts of time, visibility, and money. When a distressed file moves from loss mitigation to foreclosure, data gets lost in translation every single time. If your operations cannot track these handoffs, your legal expenses will eat your servicing profits alive.\n\nSource : https://tinyurl.com/24dwfwbw\n#SafetrustMortgage #MortgageIntelligenceDaily #mortgagerates #housingmarket #realestateinvesting",
       "hashtags": [
         "#SafetrustMortgage",
         "#MortgageIntelligenceDaily",
         "#mortgagerates",
         "#housingmarket",
-        "#homebuying"
+        "#realestateinvesting"
       ],
-      "hook_tag": "Perspectiva Económica",
-      "hook": "Las tasas hipotecarias del seis por ciento requieren condiciones económicas específicas.",
-      "what_happened_heading": "Datos laborales que se enfrían abren el camino a recortes de tasas",
-      "what_happened": "La caída de la inflación y el ablandamiento de los indicadores económicos podrían allanar el camino para que las tasas hipotecarias bajen hacia el seis por ciento. Rendimientos más bajos de los bonos del Tesoro, combinados con diferenciales más estrechos, proporcionan los vientos de cola necesarios.",
+      "hook_tag": "Default Risk",
+      "hook": "Most default losses happen in the transition between departments, not the market.",
+      "what_happened_heading": "The hidden default leaks",
+      "what_happened": "Industry analysis highlights five default servicing handoffs that bleed time, visibility, and money for investors and law firms. These operational disconnects threaten profitability across the board.",
       "breakdown": [
         {
-          "heading": "El enfriamiento económico alivia los rendimientos",
-          "body": "Un crecimiento más lento del PIB y un aumento del desempleo hacen que los rendimientos de los bonos bajen a medida que los inversores descuentan una relajación monetaria agresiva."
+          "heading": "The loss mitigation gap",
+          "body": "When a borrower fails trial payments, transferring them to foreclosure status often lacks clear audit trails. This delay frustrates investors."
         },
         {
-          "heading": "El enfriamiento de la inflación tranquiliza a los inversores en bonos",
-          "body": "Las caídas consistentes en los índices de precios al consumidor dan confianza a los inversores de renta fija para aceptar rendimientos a largo plazo más bajos."
+          "heading": "Legal handoff friction",
+          "body": "Passing files to outside counsel without clean servicing notes creates massive document backlogs. Attorneys waste days asking for basic payment histories."
         },
         {
-          "heading": "El volumen de asesoramiento se expande rápidamente",
-          "body": "Los asesores ven que los expedientes previamente denegados vuelven a ser viables, ya que las tasas más bajas reducen significativamente las obligaciones mensuales de la vivienda."
+          "heading": "Underwriter risk translation",
+          "body": "Underwriters who review modified default files often miss previous verbal agreements made by collectors. Siloed departments destroy file integrity."
         },
         {
-          "heading": "La velocidad del inventario se acelera",
-          "body": "Acercarse al seis por ciento libera a los vendedores con tasas bloqueadas, impulsando el inventario y la velocidad de las transacciones en todos los mercados."
+          "heading": "Investor visibility loss",
+          "body": "Investors lose real-time tracking when files bounce between multiple third-party vendors. Transparency disappears right when it matters most."
         }
       ],
-      "my_take_heading": "El seis por ciento requiere debilidad del mercado laboral",
-      "my_take": "Ten cuidado con lo que deseas, porque las tasas hipotecarias del seis por ciento probablemente requieran dolor económico y un aumento del desempleo para materializarse.",
-      "action_lo": "Vuelve a contactar a compradores preaprobados que se retiraron debido a límites de asequibilidad para recalcular su poder de compra.",
-      "action_realtor": "Prepara estrategias de listado para una afluencia de inventario de vendedores una vez que los efectos del bloqueo de tasas comiencen a desaparecer.",
-      "cta_question": "¿Las tasas del seis por ciento desencadenarán una ola de demanda de compradores o de inventario de vendedores primero?"
+      "my_take_heading": "The silo tax",
+      "my_take": "Every time a distressed file crosses a departmental handoff without clean data, your legal expenses double and your investor trust drops.",
+      "action_lo": "Review your operational pipelines to ensure no department works in a vacuum.",
+      "action_realtor": "Build relationships with servicers who handle short sales and REO files efficiently.",
+      "cta_question": "Which department in your company drops the ball most often during inter-team handoffs?"
     }
   ]
 }
