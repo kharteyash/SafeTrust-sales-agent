@@ -1,342 +1,172 @@
 {
   "carousels": [
     {
-      "slug": "ny-condo-financing-overhaul",
-      "title": "What New York buyers, sellers and boards need to know about the 2026 condo financing overhaul",
+      "slug": "condo-approval-rules-affordability",
+      "title": "Condo Approval Policies Need Underwriting Balance",
       "source": "HousingWire",
-      "source_url": "https://www.housingwire.com/articles/ny-condo-financing-overhaul/",
-      "cover_text": "New York condo rules are changing fast",
-      "caption": "New York condo financing is getting a major shakeup that every buyer and seller needs to track now. Limited reviews end on August 3, and reserve minimums climb to 15 percent for applications dated January 4, 2027. If you are structuring deals in NYC, your timelines just shrank and your documentation requirements just doubled. This is not just a minor operational tweak; it is a structural shift in how files get cleared. Ignore this and watch your closings stall out completely.\n\nSource : https://tinyurl.com/2398z3oa\n#SafetrustMortgage #MortgageIntelligenceDaily #housingmarket #realestateagent #mortgagerates",
+      "source_url": "https://www.housingwire.com/articles/condo-approval-affordability-rules/",
+      "cover_text": "The sudden collapse of condo limited reviews",
+      "caption": "Ending limited condo reviews sounded like safe risk management, but it slowed operations across the country. Industry groups estimate that between 60% and 80% of condo originations (loans created by lenders) used limited reviews prior to the August 3 policy change. Now every single condo file faces intense full-review mandates that increase costs and extend closing timelines significantly. Here is what this actually changes when a file hits underwriting: underwriters must audit complex HOA (homeowners association) financial reserves, deferred maintenance reports, and litigation records before issuing a clear to close. That creates massive operational bottlenecks across processing teams. If lenders do not adapt their condo intake process immediately, turn times will explode and viable transactions will fail.\n\nSource : https://tinyurl.com/2bak5xvu\n#SafetrustMortgage #MortgageIntelligenceDaily #mortgagebroker #loanofficer #housingmarket",
       "hashtags": [
         "#SafetrustMortgage",
         "#MortgageIntelligenceDaily",
-        "#housingmarket",
-        "#realestateagent",
-        "#mortgagerates"
-      ],
-      "hook_tag": "Market Rules",
-      "hook": "The end of limited reviews in New York will kill unprepared deals.",
-      "what_happened_heading": "The 2026 financing shift",
-      "what_happened": "Limited review options for New York condos end on August 3. Meanwhile, reserve minimums jump to 15 percent for applications dated January 4, 2027.",
-      "breakdown": [
-        {
-          "heading": "The end of shortcuts",
-          "body": "Limited reviews let some buyers bypass deep financial dives on the building. Losing this option means full portfolio reviews for almost every deal."
-        },
-        {
-          "heading": "Reserves hit 15 percent",
-          "body": "Associations must hold 15 percent of their budget in reserves. Many older New York buildings will struggle to hit this hard target."
-        },
-        {
-          "heading": "Underwriting reality check",
-          "body": "When a file hits underwriting with a weak reserve study, it is dead on arrival. Underwriters will not stretch guidelines on New York condo projects anymore."
-        },
-        {
-          "heading": "Timeline shock",
-          "body": "Collecting condo questionnaires and financial statements now takes weeks longer. Deal timelines must adjust to avoid frantic rate lock expirations."
-        }
-      ],
-      "my_take_heading": "The underwriting bottleneck",
-      "my_take": "If a New York building cannot prove a 15 percent reserve fund, the loan file is dead before it ever reaches the closing table.",
-      "action_lo": "Audit your active New York condo pipeline for reserve compliance today.",
-      "action_realtor": "Ask building management for the latest reserve study before listing any condo.",
-      "cta_question": "How many buildings in your current market can actually clear a strict 15 percent reserve rule?"
-    },
-    {
-      "slug": "california-real-estate-career-2026",
-      "title": "Is real estate still a viable career in California in 2026? The market data says yes",
-      "source": "HousingWire",
-      "source_url": "https://www.housingwire.com/articles/california-real-estate-career-2026/",
-      "cover_text": "Fewer agents mean bigger wins ahead",
-      "caption": "California real estate is shaking out the part-timers, leaving serious professionals with massive opportunity. With the median price hitting $887,680 in July 2026 and about 10,500 fewer licensees year over year, the math favors the focused. Less competition means your commission dollars are concentrated among fewer active players. If you survived the squeeze, your market share is about to expand whether you chase it or not.\n\nSource : https://tinyurl.com/2crpo955\n#SafetrustMortgage #MortgageIntelligenceDaily #realestateagent #housingmarket #homebuying",
-      "hashtags": [
-        "#SafetrustMortgage",
-        "#MortgageIntelligenceDaily",
-        "#realestateagent",
-        "#housingmarket",
-        "#homebuying"
-      ],
-      "hook_tag": "Agent Survival",
-      "hook": "California lost 10,500 licensees, and that is the best news for remaining agents.",
-      "what_happened_heading": "The Golden State squeeze",
-      "what_happened": "California recorded a median price of $887,680 in July 2026. At the same time, the state has about 10,500 fewer active licensees year over year.",
-      "breakdown": [
-        {
-          "heading": "Price resilience",
-          "body": "A median price near $890,000 proves high demand persists despite affordability strains. High values mean solid commission checks for closed transactions."
-        },
-        {
-          "heading": "The agent exodus",
-          "body": "Losing 10,500 agents means the market is cleansing itself of part-time operators. Commissions are consolidating among full-time professionals."
-        },
-        {
-          "heading": "Underwriting volume shift",
-          "body": "Fewer agents writing contracts means loan officers receive cleaner, more structured purchase files from seasoned pros who actually know guidelines."
-        },
-        {
-          "heading": "Inventory pressure",
-          "body": "High prices require precise buyer qualification. Top agents are winning by partnering with lenders who can structure jumbo and high-balance loans flawlessly."
-        }
-      ],
-      "my_take_heading": "The consolidation bonus",
-      "my_take": "When 10,500 part-timers exit the market, your pipeline expands simply because the survivors inherit their transaction volume.",
-      "action_lo": "Target the top surviving California agents who just picked up extra market share.",
-      "action_realtor": "Double down on your farm area while thousands of competitors are walking away.",
-      "cta_question": "Are you seeing weaker agents drop out of your local market, or are new faces taking their place?"
-    },
-    {
-      "slug": "mortgage-document-intelligence-1003-servicing",
-      "title": "How document intelligence is bringing automation across the mortgage lifecycle",
-      "source": "HousingWire",
-      "source_url": "https://www.housingwire.com/articles/mortgage-document-intelligence-1003-servicing/",
-      "cover_text": "AI will not save a bad loan file",
-      "caption": "Document intelligence is changing how lenders process the 1003 (Uniform Residential Loan Application) from origination all the way to servicing. Tools from companies like Consolidated Analytics promise to accelerate workflows and catch issues early. But let us be honest: automation only speeds up what you feed it. If your initial data entry is garbage, AI just processes garbage faster. Operational efficiency starts with human discipline, not just software licenses.\n\nSource : https://tinyurl.com/2caks84p\n#SafetrustMortgage #MortgageIntelligenceDaily #loanofficer #mortgagebroker #housingmarket",
-      "hashtags": [
-        "#SafetrustMortgage",
-        "#MortgageIntelligenceDaily",
-        "#loanofficer",
         "#mortgagebroker",
+        "#loanofficer",
         "#housingmarket"
       ],
-      "hook_tag": "Tech Reality",
-      "hook": "Automation will not save your operations if your front-end data is broken.",
-      "what_happened_heading": "The automation wave",
-      "what_happened": "Consolidated Analytics explains how adaptable automation accelerates the 1003 and identifies issues earlier. This technology now supports workflows from origination through servicing.",
+      "hook_tag": "Condo Underwriting",
+      "hook": "Condo loans are stalling because limited reviews disappeared overnight.",
+      "what_happened_heading": "New condo guidelines crush transaction volume",
+      "what_happened": "Industry groups estimate 60% to 80% of condo originations used limited reviews before the August 3 change. Lenders now face strict full-review mandates that delay approvals and increase costs.",
       "breakdown": [
         {
-          "heading": "Speeding up the 1003",
-          "body": "Document intelligence extracts borrower data from tax returns and paystubs instantly. It cuts manual typing time down to seconds."
+          "heading": "The sudden loss of limited review fast tracks",
+          "body": "Up to 80% of condo loans previously relied on limited review processes. Eliminating them forces every condo project through lengthy full-review questionnaires."
         },
         {
-          "heading": "Early issue spotting",
-          "body": "Systems flag income discrepancies and missing asset pages before submission. This reduces back-and-forth conditions later in the lifecycle."
+          "heading": "What changes when the file hits underwriting",
+          "body": "Here's what this actually changes when a file hits underwriting: underwriters must audit HOA reserves and litigation, stopping files dead in their tracks."
         },
         {
-          "heading": "Underwriting friction points",
-          "body": "An underwriter still has to verify what the machine flags. Software finds the anomaly, but a human must decide if the risk is acceptable."
+          "heading": "Affordability suffers under rigid guidelines",
+          "body": "Pushing full reviews onto standard condos adds thousands in administrative costs and delays closings. Buyers lose leverage in fast-moving housing markets."
         },
         {
-          "heading": "Servicing continuity",
-          "body": "Carrying clean digital data from origination into servicing prevents lost documents at handoff. That protects investors from costly compliance penalties."
+          "heading": "Balancing prudent risk with market reality",
+          "body": "Strict condo rules aim to prevent risk, but over-regulation freezes sound properties. Lenders must balance risk management with sensible buyer access."
         }
       ],
-      "my_take_heading": "The garbage-in rule",
-      "my_take": "Software does not underwrite risk; it only reads paper. If your loan officer takes bad initial data, AI just manufactures conditions faster.",
-      "action_lo": "Train your team to verify source documents before running them through extraction software.",
-      "action_realtor": "Partner with lenders using fast tech to shorten your contract-to-close windows.",
-      "cta_question": "Has document automation actually lowered your cost per loan, or just created new software expenses?"
+      "my_take_heading": "Full condo reviews belong on high risk buildings only",
+      "my_take": "Scrubbing every condo like a distressed building kills viable pipeline volume without lowering real credit risk.",
+      "action_lo": "Audit your active condo pre-approvals before buyers write offers to prevent last-minute underwriting rejections.",
+      "action_realtor": "Request complete HOA (homeowners association) master insurance policies and budget docs before listing any condo unit.",
+      "cta_question": "Should Fannie and Freddie bring back limited condo reviews for pristine buildings?"
     },
     {
-      "slug": "default-servicing-handoffs",
-      "title": "Why default servicing breaks at the handoffs",
+      "slug": "florida-zoning-parity-factory-built-homes",
+      "title": "Florida Passes Zoning Parity for Off-Site Built Homes",
       "source": "HousingWire",
-      "source_url": "https://www.housingwire.com/articles/default-servicing-handoffs/",
-      "cover_text": "Where default servicing breaks down",
-      "caption": "Default servicing is where loan files go to die when communication breaks down between teams. Five specific handoffs cost mortgage investors, servicers, and law firms massive amounts of time, visibility, and money. When a distressed file moves from loss mitigation to foreclosure, data gets lost in translation every single time. If your operations cannot track these handoffs, your legal expenses will eat your servicing profits alive.\n\nSource : https://tinyurl.com/24dwfwbw\n#SafetrustMortgage #MortgageIntelligenceDaily #mortgagerates #housingmarket #realestateinvesting",
-      "hashtags": [
-        "#SafetrustMortgage",
-        "#MortgageIntelligenceDaily",
-        "#mortgagerates",
-        "#housingmarket",
-        "#realestateinvesting"
-      ],
-      "hook_tag": "Default Risk",
-      "hook": "Most default losses happen in the transition between departments, not the market.",
-      "what_happened_heading": "The hidden default leaks",
-      "what_happened": "Industry analysis highlights five default servicing handoffs that bleed time, visibility, and money for investors and law firms. These operational disconnects threaten profitability across the board.",
-      "breakdown": [
-        {
-          "heading": "The loss mitigation gap",
-          "body": "When a borrower fails trial payments, transferring them to foreclosure status often lacks clear audit trails. This delay frustrates investors."
-        },
-        {
-          "heading": "Legal handoff friction",
-          "body": "Passing files to outside counsel without clean servicing notes creates massive document backlogs. Attorneys waste days asking for basic payment histories."
-        },
-        {
-          "heading": "Underwriter risk translation",
-          "body": "Underwriters who review modified default files often miss previous verbal agreements made by collectors. Siloed departments destroy file integrity."
-        },
-        {
-          "heading": "Investor visibility loss",
-          "body": "Investors lose real-time tracking when files bounce between multiple third-party vendors. Transparency disappears right when it matters most."
-        }
-      ],
-      "my_take_heading": "The silo tax",
-      "my_take": "Every time a distressed file crosses a departmental handoff without clean data, your legal expenses double and your investor trust drops.",
-      "action_lo": "Review your operational pipelines to ensure no department works in a vacuum.",
-      "action_realtor": "Build relationships with servicers who handle short sales and REO files efficiently.",
-      "cta_question": "Which department in your company drops the ball most often during inter-team handoffs?"
-    }
-  ],
-  "carousels_es": [
-    {
-      "slug": "ny-condo-financing-overhaul",
-      "title": "Lo que compradores, vendedores y juntas de Nueva York deben saber sobre los cambios en el financiamiento de condominios en 2026",
-      "source": "HousingWire",
-      "source_url": "https://www.housingwire.com/articles/ny-condo-financing-overhaul/",
-      "cover_text": "Las reglas de condominios en NY cambian",
-      "caption": "El financiamiento de condominios en Nueva York está cambiando, y todo comprador y vendedor debe estar al tanto. Las revisiones limitadas terminan el 3 de agosto, y los mínimos de reserva suben al 15% para solicitudes con fecha del 4 de enero de 2027. Si estás estructurando negocios en NYC, tus plazos se acortaron y tus requisitos de documentos se duplicaron. Esto no es un simple ajuste, es un cambio estructural. Ignóralo y verás cómo tus cierres se detienen por completo.\n\nFuente : https://tinyurl.com/2398z3oa\n#SafetrustMortgage #MortgageIntelligenceDaily #housingmarket #realestateagent #mortgagerates",
+      "source_url": "https://www.housingwire.com/articles/florida-zoning-parity-offsite-homes/",
+      "cover_text": "Florida bans local zoning discrimination against offsite homes",
+      "caption": "Florida just made a huge regulatory move that every housing market executive should study. Section 553.385 requires qualifying off-site constructed single-family homes to receive the exact same local zoning treatment as traditional site-built homes. For decades, local zoning boards blocked modular and factory-built housing under the guise of municipal design control. Here is what this actually changes when a file hits underwriting: appraisers can finally use standard site-built comps (comparable sale properties) without taking forced location or construction-type adjustments. That eliminates appraisal shortfalls on factory builds and unlocks affordable inventory across expanding submarkets.\n\nSource : https://tinyurl.com/28dj7f3a\n#SafetrustMortgage #MortgageIntelligenceDaily #housingmarket #realestateagent #homebuying",
       "hashtags": [
         "#SafetrustMortgage",
         "#MortgageIntelligenceDaily",
         "#housingmarket",
         "#realestateagent",
-        "#mortgagerates"
-      ],
-      "hook_tag": "Reglas del Mercado",
-      "hook": "El fin de las revisiones limitadas en Nueva York anulará los tratos sin preparación.",
-      "what_happened_heading": "El cambio de financiamiento de 2026",
-      "what_happened": "Las opciones de revisión limitada para condominios en Nueva York terminan el 3 de agosto. Además, los mínimos de reserva suben al 15% para solicitudes con fecha del 4 de enero de 2027.",
-      "breakdown": [
-        {
-          "heading": "El fin de los atajos",
-          "body": "Las revisiones limitadas permitían a algunos compradores evitar investigaciones financieras profundas del edificio. Perder esta opción significa revisiones de portafolio completas para casi todas las transacciones."
-        },
-        {
-          "heading": "Reservas al 15 por ciento",
-          "body": "Las asociaciones deben tener el 15% de su presupuesto en reservas. Muchos edificios antiguos de Nueva York batallarán para cumplir con este requisito tan estricto."
-        },
-        {
-          "heading": "El asesor no arriesgará",
-          "body": "Si un archivo llega al asesor (underwriting) con reservas bajas, será rechazado. Los asesores ya no serán flexibles con los proyectos de condominios en Nueva York."
-        },
-        {
-          "heading": "Plazos más largos",
-          "body": "Reunir cuestionarios de condominios y estados financieros ahora toma semanas. Los plazos de los tratos deben ajustarse para evitar que los bloqueos de tasas venzan."
-        }
-      ],
-      "my_take_heading": "El cuello de botella del asesor",
-      "my_take": "Si un edificio en Nueva York no puede comprobar un fondo de reserva del 15%, el préstamo muere antes de llegar a la mesa de cierre.",
-      "action_lo": "Revisa hoy mismo tu cartera de condominios activos en Nueva York para ver si cumplen con las reservas.",
-      "action_realtor": "Pide a la administración del edificio el estudio de reservas más reciente antes de listar cualquier condominio.",
-      "cta_question": "¿Cuántos edificios en tu mercado actual pueden cumplir con la estricta regla del 15% de reserva?"
-    },
-    {
-      "slug": "california-real-estate-career-2026",
-      "title": "¿Sigue siendo una carrera viable el sector inmobiliario en California en 2026? Los datos del mercado dicen que sí",
-      "source": "HousingWire",
-      "source_url": "https://www.housingwire.com/articles/california-real-estate-career-2026/",
-      "cover_text": "Menos agentes, más ganancias por venir",
-      "caption": "El mercado inmobiliario de California está eliminando a los agentes de medio tiempo, lo que significa una gran oportunidad para los profesionales serios. Con un precio promedio de $887,680 en julio de 2026 y unos 10,500 agentes menos que el año anterior, los números favorecen a los enfocados. Menos competencia significa que tus comisiones se concentran entre menos jugadores activos. Si sobreviviste a la presión, tu participación de mercado está a punto de crecer, lo busques o no.\n\nFuente : https://tinyurl.com/2crpo955\n#SafetrustMortgage #MortgageIntelligenceDaily #realestateagent #housingmarket #homebuying",
-      "hashtags": [
-        "#SafetrustMortgage",
-        "#MortgageIntelligenceDaily",
-        "#realestateagent",
-        "#housingmarket",
         "#homebuying"
       ],
-      "hook_tag": "Supervivencia del Agente",
-      "hook": "California perdió 10,500 licencias de agentes, y esa es la mejor noticia para los que quedan.",
-      "what_happened_heading": "La presión en el Estado Dorado",
-      "what_happened": "California registró un precio promedio de $887,680 en julio de 2026. Al mismo tiempo, el estado tiene unos 10,500 agentes activos menos que el año anterior.",
+      "hook_tag": "Zoning Reform",
+      "hook": "Florida just leveled the playing field for factory-built housing.",
+      "what_happened_heading": "Florida enforces equal zoning for factory-built housing",
+      "what_happened": "Section 553.385 requires qualifying off-site constructed single-family homes to receive the same local zoning treatment as site-built homes. The law preserves neutral design and development standards across local municipalities.",
       "breakdown": [
         {
-          "heading": "Precios firmes",
-          "body": "Un precio promedio cercano a $890,000 demuestra que la alta demanda persiste a pesar de las dificultades de accesibilidad. Los valores altos significan buenas comisiones por las transacciones cerradas."
+          "heading": "Banning local municipal discrimination",
+          "body": "Cities can no longer ban off-site constructed single-family homes simply because they were built in a factory. They must meet equal standards."
         },
         {
-          "heading": "El éxodo de agentes",
-          "body": "Perder 10,500 agentes significa que el mercado se está depurando de los operadores de medio tiempo. Las comisiones se están consolidando entre los profesionales de tiempo completo."
+          "heading": "Design standards stay completely neutral",
+          "body": "Local governments can still enforce architectural and setback rules. However, those rules must apply equally to traditional site-built homes."
         },
         {
-          "heading": "Cambio en el volumen del asesor",
-          "body": "Menos agentes que redactan contratos significa que los agentes hipotecarios reciben archivos de compra más limpios y estructurados de profesionales experimentados que conocen las reglas."
+          "heading": "What changes when the file hits underwriting",
+          "body": "Here's what this actually changes when a file hits underwriting: appraisers can use site-built comps once local zoning bias disappears from property valuations."
         },
         {
-          "heading": "Presión del inventario",
-          "body": "Los precios altos exigen una cualificación precisa del comprador. Los mejores agentes ganan al asociarse con prestamistas que pueden estructurar préstamos jumbo y de alto saldo sin fallas."
+          "heading": "Unlocking lower cost inventory fast",
+          "body": "Off-site construction delivers homes faster and cheaper. Equal zoning clears the regulatory hurdles that previously stalled builder expansion."
         }
       ],
-      "my_take_heading": "La ventaja de la consolidación",
-      "my_take": "Cuando 10,500 agentes de medio tiempo salen del mercado, tu cartera de clientes se expande simplemente porque los que sobreviven heredan su volumen de transacciones.",
-      "action_lo": "Enfócate en los principales agentes de California que quedaron y que ahora tienen más participación de mercado.",
-      "action_realtor": "Duplica tus esfuerzos en tu área mientras miles de competidores se retiran.",
-      "cta_question": "¿Estás viendo a los agentes menos preparados abandonar tu mercado local, o están llegando caras nuevas para ocupar su lugar?"
+      "my_take_heading": "Zoning parity is the single fastest route to new inventory",
+      "my_take": "Land use restrictions, not construction technology, have been the real bottleneck keeping affordable single-family housing off the market.",
+      "action_lo": "Partner with modular builders to structure construction-to-permanent loans (loans that combine construction and mortgage financing) ahead of the curve.",
+      "action_realtor": "Show clients factory-built options on zoned lots to create affordable housing inventory out of thin air.",
+      "cta_question": "Will other high-cost states follow Florida in banning zoning discrimination for factory homes?"
     },
     {
-      "slug": "mortgage-document-intelligence-1003-servicing",
-      "title": "Cómo la inteligencia de documentos automatiza todo el ciclo de vida hipotecario",
+      "slug": "technology-is-not-culture-mortgage-cost",
+      "title": "Cutting Non-Sales Cost Per Loan Without Cutting Tech",
       "source": "HousingWire",
-      "source_url": "https://www.housingwire.com/articles/mortgage-document-intelligence-1003-servicing/",
-      "cover_text": "La IA no salvará un mal préstamo",
-      "caption": "La inteligencia de documentos está cambiando cómo los prestamistas procesan el 1003 (Solicitud Uniforme de Préstamo Hipotecario Residencial) desde el inicio hasta el servicio. Herramientas de empresas como Consolidated Analytics prometen acelerar los procesos y detectar problemas a tiempo. Pero seamos honestos: la automatización solo acelera lo que le das. Si tus datos iniciales son malos, la IA solo procesa basura más rápido. La eficiencia operativa comienza con disciplina humana, no solo con licencias de software.\n\nFuente : https://tinyurl.com/2caks84p\n#SafetrustMortgage #MortgageIntelligenceDaily #loanofficer #mortgagebroker #housingmarket",
+      "source_url": "https://www.housingwire.com/articles/technology-not-culture-mortgage/",
+      "cover_text": "Technology is not culture in mortgage operations",
+      "caption": "Too many mortgage executives confuse buying expensive software with building operational excellence. True operational efficiency comes from total process transparency, which slashes non-sales cost per loan while leaving more margin to pay originators higher compensation splits. Here is what this actually changes when a file hits underwriting: eliminating unnecessary document re-requests drops file touchpoints from seven down to two. That speeds up clear-to-close timelines without adding compliance risk or forcing underwriters to work overtime. When processes are clear, technology acts as an accelerator rather than an expensive band-aid for broken loan origination workflows.\n\nSource : https://tinyurl.com/26ondzf8\n#SafetrustMortgage #MortgageIntelligenceDaily #mortgagebroker #loanofficer #realestate",
       "hashtags": [
         "#SafetrustMortgage",
         "#MortgageIntelligenceDaily",
-        "#loanofficer",
         "#mortgagebroker",
-        "#housingmarket"
+        "#loanofficer",
+        "#realestate"
       ],
-      "hook_tag": "Realidad Tecnológica",
-      "hook": "La automatización no salvará tus operaciones si tus datos iniciales están mal.",
-      "what_happened_heading": "La ola de la automatización",
-      "what_happened": "Consolidated Analytics explica cómo la automatización adaptable acelera el formulario 1003 y detecta problemas a tiempo. Esta tecnología ahora apoya los procesos desde el inicio hasta el servicio.",
+      "hook_tag": "Operations & Tech",
+      "hook": "Tech software won't save your loan margin if processes stay broken.",
+      "what_happened_heading": "Transparency slashes non-sales expense per loan file",
+      "what_happened": "Mortgage companies are finding that operational transparency reduces non-sales cost per loan while increasing originator payouts. Process clarity outperforms expensive software rollouts every time.",
       "breakdown": [
         {
-          "heading": "Acelerar el 1003",
-          "body": "La inteligencia de documentos extrae datos del prestatario de declaraciones de impuestos y recibos de pago al instante. Reduce el tiempo de transcripción manual a segundos."
+          "heading": "Software alone never fixes bad workflows",
+          "body": "Buying new tech tools without fixing operational bottlenecks just automates confusion across your processing staff."
         },
         {
-          "heading": "Detección temprana de problemas",
-          "body": "Los sistemas marcan discrepancias de ingresos y páginas de activos faltantes antes de la entrega. Esto reduce las idas y venidas de condiciones más adelante en el proceso."
+          "heading": "What changes when the file hits underwriting",
+          "body": "Here's what this actually changes when a file hits underwriting: clear milestone tracking reduces touchpoints per loan file, letting underwriters issue clean conditional approvals faster."
         },
         {
-          "heading": "Puntos de fricción del asesor",
-          "body": "Un asesor (underwriter) todavía tiene que verificar lo que la máquina señala. El software encuentra la anomalía, pero un humano debe decidir si el riesgo es aceptable."
+          "heading": "Cutting non-sales cost per loan file",
+          "body": "Eliminating redundant verification steps lowers operational overhead. Lower costs create room to pay higher compensation to top producers."
         },
         {
-          "heading": "Continuidad del servicio",
-          "body": "Mantener datos digitales limpios desde el inicio hasta el servicio evita la pérdida de documentos en la transferencia. Esto protege a los inversores de costosas multas por incumplimiento."
+          "heading": "Driving accountability through open data",
+          "body": "Real transparency lets branch managers see exactly where files stall. Speed improves when everyone sees operational metrics daily."
         }
       ],
-      "my_take_heading": "La regla de 'basura entra, basura sale'",
-      "my_take": "El software no evalúa el riesgo; solo lee papeles. Si tu agente hipotecario acepta datos iniciales malos, la IA solo generará condiciones más rápido.",
-      "action_lo": "Capacita a tu equipo para verificar los documentos fuente antes de pasarlos por el software de extracción.",
-      "action_realtor": "Asóciate con prestamistas que usan tecnología rápida para acortar tus plazos de contrato a cierre.",
-      "cta_question": "¿La automatización de documentos ha reducido el costo por préstamo o solo ha creado nuevos gastos de software?"
+      "my_take_heading": "Operational efficiency pays loan officers better than tech hype",
+      "my_take": "Fancy tech stacks do not cut costs; ruthless operational clarity and removing unnecessary file touches create real margin.",
+      "action_lo": "Map your file handoffs from application to processing to eliminate duplicate document requests to borrowers.",
+      "action_realtor": "Partner with lenders who track underwriting SLA (service level agreement) cycle times publicly.",
+      "cta_question": "Is your organization over-invested in mortgage tech and under-invested in process discipline?"
     },
     {
-      "slug": "default-servicing-handoffs",
-      "title": "Por qué el servicio de préstamos en mora se rompe en las transferencias",
-      "source": "HousingWire",
-      "source_url": "https://www.housingwire.com/articles/default-servicing-handoffs/",
-      "cover_text": "Donde falla el servicio de mora",
-      "caption": "El servicio de préstamos en mora es donde los expedientes de préstamos mueren cuando la comunicación entre equipos falla. Cinco transferencias específicas cuestan a los inversionistas hipotecarios, administradores de préstamos y firmas de abogados grandes cantidades de tiempo, visibilidad y dinero. Cuando un expediente en apuros pasa de la mitigación de pérdidas a la ejecución hipotecaria, se pierden datos en cada traspaso. Si tus operaciones no pueden seguir estas transferencias, tus gastos legales consumirán tus ganancias del servicio.\n\nFuente : https://tinyurl.com/24dwfwbw\n#SafetrustMortgage #MortgageIntelligenceDaily #mortgagerates #housingmarket #realestateinvesting",
+      "slug": "best-week-to-buy-borrower-readiness",
+      "title": "Recalibrating Preapprovals as Buyer Leverage Increases",
+      "source": "National Mortgage Professional",
+      "source_url": "https://nationalmortgageprofessional.com/news/best-week-buy-almost-here-are-your-borrowers-ready",
+      "cover_text": "Your buyers have leverage but expired preapprovals",
+      "caption": "Buyers are entering a market window where they have more leverage, more listing options, and better negotiation power with sellers. But there is a major trap waiting in your pipeline. Preapprovals (a lender's formal promise to lend based on verified income) issued before recent rate increases are ticking time bombs. Here is what this actually changes when a file hits underwriting: underwriters strictly recalculate DTI (debt-to-income ratio) using current interest rates, meaning a half-percent rate jump can destroy a buyer's qualifying capacity mid-escrow. Originators must recalibrate pipeline preapprovals now before deals fall apart.\n\nSource : https://tinyurl.com/22cmxn5b\n#SafetrustMortgage #MortgageIntelligenceDaily #homebuying #firsttimehomebuyer #realestateagent",
       "hashtags": [
         "#SafetrustMortgage",
         "#MortgageIntelligenceDaily",
-        "#mortgagerates",
-        "#housingmarket",
-        "#realestateinvesting"
+        "#homebuying",
+        "#firsttimehomebuyer",
+        "#realestateagent"
       ],
-      "hook_tag": "Riesgo de Mora",
-      "hook": "La mayoría de las pérdidas por mora ocurren en la transición entre departamentos, no en el mercado.",
-      "what_happened_heading": "Las fugas ocultas de la mora",
-      "what_happened": "El análisis de la industria destaca cinco transferencias en el servicio de mora que agotan tiempo, visibilidad y dinero para inversores y bufetes de abogados. Estas desconexiones operativas amenazan la rentabilidad en general.",
+      "hook_tag": "Borrower Strategy",
+      "hook": "Buyers finally have leverage, but old preapprovals will ruin deals.",
+      "what_happened_heading": "Market shifts give buyers leverage while rate hikes erode buying power",
+      "what_happened": "Buyers are gaining market leverage with more inventory and room to negotiate price concessions. However, preapprovals issued before recent rate increases no longer reflect actual borrower affordability.",
       "breakdown": [
         {
-          "heading": "La brecha de mitigación de pérdidas",
-          "body": "Cuando un prestatario incumple los pagos de prueba, su transferencia al estado de ejecución hipotecaria a menudo carece de registros claros. Esto retrasa e irrita a los inversores."
+          "heading": "Housing inventory creates buyer negotiating power",
+          "body": "More available listings give buyers selection and negotiating room. Seller concessions are back on the table for active offers."
         },
         {
-          "heading": "Fricción en la transferencia legal",
-          "body": "Pasar expedientes a abogados externos sin notas de servicio claras crea grandes retrasos en los documentos. Los abogados pierden días pidiendo historiales de pago básicos."
+          "heading": "Rate increases quietly erode buyer purchasing power",
+          "body": "Higher rates cut maximum purchase prices silently. A borrower preapproved last month may fail qualification at today's rates."
         },
         {
-          "heading": "Traducción de riesgos del asesor",
-          "body": "Los asesores que revisan expedientes modificados a menudo omiten acuerdos verbales previos hechos por los cobradores. Los departamentos aislados destruyen la integridad del expediente."
+          "heading": "What changes when the file hits underwriting",
+          "body": "Here's what this actually changes when a file hits underwriting: underwriters must recalculate DTI, instantly turning approved buyers into declined files."
         },
         {
-          "heading": "Pérdida de visibilidad del inversor",
-          "body": "Los inversores pierden el seguimiento en tiempo real cuando los expedientes rebotan entre varios proveedores externos. La transparencia desaparece justo cuando más importa."
+          "heading": "Recalibrating preapprovals before writing offers",
+          "body": "Originators must review income and debt figures before buyers write contracts. Updating preapprovals prevents cancelled escrow agreements."
         }
       ],
-      "my_take_heading": "El costo del aislamiento",
-      "my_take": "Cada vez que un expediente en problemas pasa de un departamento a otro sin datos claros, tus gastos legales se duplican y la confianza de tus inversores baja.",
-      "action_lo": "Revisa tus procesos operativos para asegurarte de que ningún departamento trabaje de forma aislada.",
-      "action_realtor": "Establece relaciones con administradores de préstamos que manejen ventas cortas y expedientes de REO de manera eficiente.",
-      "cta_question": "¿Qué departamento de tu empresa suele cometer más errores durante las transferencias entre equipos?"
+      "my_take_heading": "Negotiating power means nothing with an inaccurate preapproval letter",
+      "my_take": "A buyer with seller leverage and an uncalibrated preapproval is just one rate spike away from a dead transaction.",
+      "action_lo": "Re-underwrite every preapproval letter in your pipeline that is older than 30 days immediately.",
+      "action_realtor": "Require updated preapproval letters reflecting current rates before submitting purchase offers on homes.",
+      "cta_question": "Are your loan officers systematically refreshing pipeline preapprovals as interest rates move?"
     }
   ]
 }
