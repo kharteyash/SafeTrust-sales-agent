@@ -168,5 +168,175 @@
       "action_realtor": "Use regional data differences to prove to hesitant buyers that waiting out the market in high-demand pockets is a losing bet.",
       "cta_question": "Are your local sellers finally dropping their price expectations, or are they stubbornly sitting on their equity?"
     }
+  ],
+  "carousels_es": [
+    {
+      "slug": "mortgage-rate-spreads",
+      "title": "Las tasas hipotecarias entre prestamistas varían casi un 1% ahora",
+      "source": "The Truth About Mortgage",
+      "source_url": "https://www.thetruthaboutmortgage.com/mortgage-rates-are-nearly-1-apart-between-lenders-right-now/",
+      "cover_text": "Los prestamistas varían un 1% en el mismo préstamo.",
+      "caption": "No te obsesiones con una mínima variación de dos puntos básicos en el índice diario cuando los prestamistas de tu misma zona ofrecen tasas con una diferencia de casi un punto porcentual completo para el mismo perfil de prestatario. En un entorno de tasas altas, comparar no es solo un hábito de consumidor inteligente: es el factor más importante en el costo total del préstamo. Aquí te explico por qué la diferencia se está ampliando tanto ahora y lo que significa para tu cartera de clientes.\n\nFuente : https://tinyurl.com/26optjkg\n#SafetrustMortgage #MortgageIntelligenceDaily #mortgagerates #mortgagebroker #homebuying",
+      "hashtags": [
+        "#SafetrustMortgage",
+        "#MortgageIntelligenceDaily",
+        "#mortgagerates",
+        "#mortgagebroker",
+        "#homebuying"
+      ],
+      "hook_tag": "Análisis de Precios",
+      "hook": "¿Por qué los prestamistas ofrecen el mismo préstamo a tasa fija a 30 años con casi 1% de diferencia?",
+      "what_happened_heading": "La creciente brecha en las tasas",
+      "what_happened": "Datos recientes del mercado muestran una enorme brecha de casi un punto porcentual completo entre prestamistas para perfiles idénticos de prestatarios. Mientras los medios se obsesionan con pequeños cambios diarios, los prestamistas tienen grandes diferencias en cómo valoran el riesgo.",
+      "breakdown": [
+        {
+          "heading": "La capacidad define el precio",
+          "body": "Los prestamistas con mucha capacidad operativa y metas de volumen agresivas están bajando los precios para ganar participación de mercado. Otros, con muchas solicitudes, prefieren mantener precios altos y dejar ir algunos clientes."
+        },
+        {
+          "heading": "La visión del asesor",
+          "body": "Cuando un expediente llega a los asesores de un prestamista con grandes descuentos, las normas no cambian. Las tasas bajas no significan políticas de crédito flexibles ni ratios de deuda-ingreso (cuánto de tus ingresos va a deudas) más fáciles."
+        },
+        {
+          "heading": "Diferencias en los 'overlays'",
+          "body": "Dos prestamistas pueden ofrecer la misma tasa principal, pero uno podría añadir 'overlays' (requisitos adicionales) ocultos sobre puntajes de crédito o reservas que arruinan el trato a mitad del proceso."
+        },
+        {
+          "heading": "La realidad de comparar",
+          "body": "Los prestatarios están notando esta variación. La lealtad a un solo banco minorista les está costando a los consumidores miles de dólares en intereses innecesarios durante la vida del préstamo."
+        }
+      ],
+      "my_take_heading": "El costo real de la lealtad a una marca",
+      "my_take": "Si no comparas tus opciones mayoristas con los bancos minoristas ahora mismo, estás pagando un impuesto por la ignorancia del consumidor.",
+      "action_lo": "Pide cotizaciones competitivas de tres agregadores diferentes esta semana para ver dónde se sitúan tus precios frente a los valores atípicos.",
+      "action_realtor": "Explica a tus compradores que el prestamista con la app más sofisticada también podría tener la tasa más cara.",
+      "cta_question": "¿Estás viendo que los bancos minoristas bajan sus precios para competir con los 'brokers' mayoristas, o se mantienen firmes en sus márgenes?"
+    },
+    {
+      "slug": "october-home-buying-deals",
+      "title": "Octubre es el mejor momento para que los compradores de casa consigan un buen trato en estas grandes ciudades de EE. UU.",
+      "source": "Redfin",
+      "source_url": "https://www.redfin.com/news/october-best-time-to-buy-home-us-metros/",
+      "cover_text": "Octubre es secretamente el mejor mes para comprar.",
+      "caption": "Olvídate de las guerras de ofertas de primavera. Según datos estacionales recientes de Redfin, principios y mediados de octubre marcan el momento ideal para los compradores que buscan un buen trato en grandes ciudades como Boston, Chicago y Filadelfia. Aunque el inventario disminuye, los vendedores motivados que se perdieron la prisa del verano finalmente están listos para negociar. Así es como puedes posicionar a tus compradores para aprovechar la desaceleración del otoño.\n\nFuente : https://tinyurl.com/24ykakvl\n#SafetrustMortgage #MortgageIntelligenceDaily #housingmarket #realestateagent #homebuying",
+      "hashtags": [
+        "#SafetrustMortgage",
+        "#MortgageIntelligenceDaily",
+        "#housingmarket",
+        "#realestateagent",
+        "#homebuying"
+      ],
+      "hook_tag": "Cambio de Mercado Estacional",
+      "hook": "Por qué octubre es secretamente el mejor mes del año para comprar una casa.",
+      "what_happened_heading": "El momento ideal en octubre",
+      "what_happened": "Un nuevo análisis revela que de principios a mediados de octubre es el momento óptimo para que los compradores de vivienda obtengan concesiones de precios en las principales ciudades de EE. UU. Los vendedores motivados están bajando los precios a medida que se acerca la desaceleración de las fiestas.",
+      "breakdown": [
+        {
+          "heading": "La desesperación se apodera",
+          "body": "Los vendedores que pusieron su casa en el caótico mercado de verano y no lograron vender, se están poniendo nerviosos. Se dan cuenta de que esperar hasta la primavera significa mantener la propiedad por otros seis meses."
+        },
+        {
+          "heading": "Menos competencia",
+          "body": "Los que solo 'miraban' casas los fines de semana regresaron a la temporada de fútbol. Los compradores serios se enfrentan a menos escenarios de ofertas múltiples en mercados como Chicago y Boston."
+        },
+        {
+          "heading": "Revisando los plazos",
+          "body": "Cuando se firma un contrato en octubre, asegúrate de que las contingencias de tasación tomen en cuenta posibles retrasos por las fiestas en el trabajo de títulos y los cronogramas de procesamiento bancario."
+        },
+        {
+          "heading": "Palanca de concesión",
+          "body": "Los vendedores están mucho más dispuestos a aceptar 'buydowns' de tasas temporales pagados por ellos ahora, que durante la máxima euforia de la temporada de ventas de primavera."
+        }
+      ],
+      "my_take_heading": "Cambiar inventario por ventaja",
+      "my_take": "Puedes tener una docena de casas más para ver en junio, o puedes tener un vendedor motivado que realmente pagará tus gastos de cierre en octubre. Tú eliges.",
+      "action_lo": "Contacta a tus socios inmobiliarios con una lista de compradores preaprobados que estén cansados de perder en las guerras de ofertas de primavera.",
+      "action_realtor": "Llama a cada anuncio vencido o con precio reducido de agosto e infórmales que tus compradores están listos para negociar.",
+      "cta_question": "¿Tus vendedores locales finalmente están siendo realistas con los precios a medida que el clima se enfría?"
+    },
+    {
+      "slug": "fannie-mae-departing-residence-rent",
+      "title": "Fannie cambia cómo cuenta el alquiler de una casa anterior",
+      "source": "National Mortgage Professional",
+      "source_url": "https://nationalmortgageprofessional.com/news/fannie-changes-how-rent-former-home-counts",
+      "cover_text": "Fannie cambió cómo cuenta el alquiler anterior.",
+      "caption": "Fannie Mae acaba de dar a los oficiales de préstamos una gran herramienta para los compradores que desean mejorar su vivienda, al introducir una nueva alternativa para documentar el alquiler proyectado de una residencia anterior. Al evitar el tradicional cronograma de alquiler completado por el tasador, los plazos de procesamiento finalmente pueden aliviarse un poco. Esto es lo que significa esta actualización de suscripción para tu próximo archivo complejo y contingente.\n\nFuente : https://tinyurl.com/25ng4hjn\n#SafetrustMortgage #MortgageIntelligenceDaily #loanofficer #mortgagerates #realestateinvesting",
+      "hashtags": [
+        "#SafetrustMortgage",
+        "#MortgageIntelligenceDaily",
+        "#loanofficer",
+        "#mortgagerates",
+        "#realestateinvesting"
+      ],
+      "hook_tag": "Actualización de Políticas",
+      "hook": "Fannie Mae acaba de facilitar el conteo del alquiler de una casa anterior.",
+      "what_happened_heading": "Un nuevo camino para la documentación",
+      "what_happened": "Fannie Mae está ofreciendo a los originadores de préstamos una nueva forma de documentar los ingresos por alquiler proyectados de la residencia que el prestatario dejará. Esto crea una alternativa a los cronogramas de alquiler tradicionales completados por tasadores, que competidores como Freddie Mac no ofrecen actualmente.",
+      "breakdown": [
+        {
+          "heading": "Eliminando al tasador",
+          "body": "Esperar a que un tasador complete un Formulario 1007 de cronograma de alquiler siempre ha añadido días y fricción al cierre de un expediente de compra."
+        },
+        {
+          "heading": "La visión del asesor",
+          "body": "Incluso con la documentación alternativa permitida, los asesores aún examinarán el contrato de arrendamiento y la prueba de recibo para asegurar que la deuda anterior se compense correctamente."
+        },
+        {
+          "heading": "Ventaja competitiva",
+          "body": "Los originadores que dominen esta nueva guía de Fannie pueden estructurar expedientes de compradores que buscan mejorar su vivienda más rápido que los prestamistas que aún dependen estrictamente de los cronogramas de tasación antiguos."
+        },
+        {
+          "heading": "Alivio en el DTI",
+          "body": "Capturar con precisión los ingresos por alquiler de una residencia principal que se desocupa es a menudo el mecanismo exacto que mantiene el ratio deuda-ingreso (DTI) de un comprador por debajo de los límites máximos."
+        }
+      ],
+      "my_take_heading": "La velocidad gana el contrato",
+      "my_take": "Cualquier cambio en las políticas que elimine la dependencia de una tasación de terceros del cálculo de ingresos es una victoria total para la velocidad de cierre.",
+      "action_lo": "Revisa tu lista de clientes activos para ver si esta nueva opción de Fannie les ahorra una tarifa de tasación y tiempo.",
+      "action_realtor": "Diles a tus agentes de bienes raíces que tus prestamistas preferidos ahora pueden cerrar expedientes de compradores que buscan mejorar su vivienda sin esperar papeleo adicional de tasación.",
+      "cta_question": "¿Con qué frecuencia los cronogramas de alquiler solicitados por tasadores arruinan tus plazos de cierre en residencias que se desocupan?"
+    },
+    {
+      "slug": "redfin-august-home-prices",
+      "title": "Los precios de las casas en EE. UU. subieron un 0.25% en agosto",
+      "source": "Redfin",
+      "source_url": "https://www.redfin.com/news/home-price-index-august-2026/",
+      "cover_text": "Los precios subieron 3.7% pese al mercado de compradores.",
+      "caption": "Oficialmente estamos en un mercado récord para compradores, pero los precios nacionales de las casas aún lograron subir un 0.25% en agosto, llevando el crecimiento anual al 3.7%. St. Louis y Pittsburgh están muy calientes, mientras que Austin y Charlotte sienten la escasez de oferta. Aquí te explico por qué los datos principales están mintiendo a los compradores sobre obtener un descuento.\n\nFuente : https://tinyurl.com/26huhwdo\n#SafetrustMortgage #MortgageIntelligenceDaily #housingmarket #realestateagent #homebuying",
+      "hashtags": [
+        "#SafetrustMortgage",
+        "#MortgageIntelligenceDaily",
+        "#housingmarket",
+        "#realestateagent",
+        "#homebuying"
+      ],
+      "hook_tag": "Paradoja del Mercado",
+      "hook": "¿Por qué los precios de las casas siguen subiendo en un mercado récord para compradores?",
+      "what_happened_heading": "Los precios suben",
+      "what_happened": "Los precios de las casas en todo el país crecieron un 0.25% en agosto, según el Índice de Precios de Viviendas de Redfin, lo que impulsó el crecimiento anual al 3.7%. St. Louis y Pittsburgh lideraron las ganancias mes a mes, mientras que Austin y Charlotte vieron disminuciones de precios.",
+      "breakdown": [
+        {
+          "heading": "La división local",
+          "body": "Los promedios nacionales ocultan grandes historias locales. Mientras Austin y Charlotte enfrentan un alto inventario de vendedores y precios a la baja, el Medio Oeste está viendo una apreciación rápida y competitiva."
+        },
+        {
+          "heading": "Desajuste de inventario",
+          "body": "Un mercado de compradores simplemente significa que menos compradores activos compiten por casas, pero no significa que los vendedores estén dispuestos a regalar su patrimonio por unas pocas monedas."
+        },
+        {
+          "heading": "La visión del asesor",
+          "body": "Los tasadores en mercados a la baja como Austin se están volviendo muy conservadores, lo que obliga a compradores y vendedores a renegociar los términos cuando las valoraciones son inferiores al precio de contrato."
+        },
+        {
+          "heading": "Fricción de asequibilidad",
+          "body": "Con un crecimiento anual de precios del 3.7% junto con tasas de interés elevadas, los compradores primerizos continúan enfrentando obstáculos extremos en el pago mensual, sin importar el inventario local."
+        }
+      ],
+      "my_take_heading": "El mito del desplome del mercado",
+      "my_take": "Deja de esperar un desplome nacional de precios que los fundamentos locales de oferta y demanda simplemente se niegan a apoyar.",
+      "action_lo": "Muestra a tus compradores preaprobados cómo la apreciación de precios local se compara con sus tarifas de alquiler actuales para ajustar sus expectativas.",
+      "action_realtor": "Usa las diferencias de datos regionales para demostrar a los compradores indecisos que esperar a que el mercado baje en zonas de alta demanda es una apuesta perdedora.",
+      "cta_question": "¿Tus vendedores locales finalmente están bajando sus expectativas de precios, o se aferran tercamente a su patrimonio?"
+    }
   ]
 }
