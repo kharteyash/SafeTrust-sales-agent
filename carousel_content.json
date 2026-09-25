@@ -168,5 +168,175 @@
       "action_realtor": "Evaluate whether your current brokerage platform provides the backend tech support needed to compete with integrated giants.",
       "cta_question": "Are you worried about real estate networks absorbing mortgage operations, or is it just business as usual?"
     }
+  ],
+  "carousels_es": [
+    {
+      "slug": "rates-spike-745",
+      "title": "La tasa de hipoteca fija a 30 años sube bruscamente el jueves a 7.45%",
+      "source": "CNBC",
+      "source_url": "https://www.cnbc.com/2026/09/24/30-year-fixed-rate-spikes-thursday-to-7point45percent.html",
+      "cover_text": "Tasas en 7.45%. Este es el problema real.",
+      "caption": "El mercado de bonos nos dio un fuerte golpe de realidad. La tasa fija a 30 años subió a 7.45% —el nivel más alto desde abril de 2024—. La conversación debe cambiar de inmediato: de asegurar tasas a calcular cuánto dinero se necesita para cerrar (cash-to-close). Cuando los rendimientos suben un jueves cualquiera sin un motivo macroeconómico claro, la volatilidad de precios se vuelve tu mayor riesgo. Si tienes preaprobaciones hechas al 6.875%, esos préstamos están a punto de disparar su DTI (relación deuda-ingresos). Deja de esperar que la Fed salve tu mesa de cierres. Arma tu estrategia de compra en función del pago mensual que el prestatario puede realmente afrontar hoy, no de la tasa que espera conseguir mañana.\n\nFuente : https://tinyurl.com/2ak7944l\n#SafetrustMortgage #MortgageIntelligenceDaily #mortgagerates #housingmarket #loanofficer",
+      "hashtags": [
+        "#SafetrustMortgage",
+        "#MortgageIntelligenceDaily",
+        "#mortgagerates",
+        "#housingmarket",
+        "#loanofficer"
+      ],
+      "hook_tag": "Volatilidad de Tasas",
+      "hook": "Las tasas subieron al 7.45% el jueves. Lo más alarmante no es el número.",
+      "what_happened_heading": "Las tasas alcanzan máximos de varios meses",
+      "what_happened": "La tasa de hipoteca fija a 30 años subió a 7.45% el jueves, el nivel más alto desde abril de 2024. Este fuerte aumento fue causado por una venta masiva en el mercado de bonos y el alza de rendimientos.",
+      "breakdown": [
+        {
+          "heading": "El riesgo silencioso",
+          "body": "Cuando las tasas suben medio punto en semanas, la preaprobación de ayer ya no sirve. Los compradores enfrentan un shock severo en su capacidad de pago."
+        },
+        {
+          "heading": "La realidad del asesor",
+          "body": "Esto es lo que cambia cuando un expediente llega a asesoría: cada relación de deuda se recalcula con la nueva tasa. Si el margen era estrecho, el préstamo se cae."
+        },
+        {
+          "heading": "La presión en el proceso",
+          "body": "Las estrategias de 'flotar' tasas son castigadas. Las mesas de cierre están bajo presión, ya que los compradores entran en pánico esperando una baja que no llega."
+        },
+        {
+          "heading": "Contexto histórico",
+          "body": "Los rendimientos están en sus niveles más altos en casi dos décadas. Esto convierte la asequibilidad básica en un obstáculo estructural, no solo un problema temporal."
+        }
+      ],
+      "my_take_heading": "No vendas la tasa",
+      "my_take": "Si toda tu estrategia con un comprador es prometer que las tasas bajarán el próximo año, estás vendiendo una fantasía. Vende el pago que pueden costear hoy, o verás cómo tus clientes se van.",
+      "action_lo": "Revisa de inmediato tus preaprobaciones activas y vuelve a calcular los DTI al 7.75% para ver quién aún califica.",
+      "action_realtor": "Ten una conversación honesta con tus compradores activos sobre ajustar los precios de compra a la baja para compensar los mayores costos de deuda.",
+      "cta_question": "¿Tus clientes actuales se echan para atrás cuando las tasas suben, o ajustan sus presupuestos para comprar de todos modos?"
+    },
+    {
+      "slug": "uwm-ai-voice-command",
+      "title": "UWM pone el proceso del bróker detrás de un comando de voz con IA",
+      "source": "National Mortgage Professional",
+      "source_url": "https://nationalmortgageprofessional.com/news/uwm-puts-broker-pipeline-behind-ai-voice-command",
+      "cover_text": "La nueva app de voz con IA de UWM lo cambia todo.",
+      "caption": "La tecnología debería ahorrarnos tiempo, pero a menudo solo nos da más pantallas que mirar. La nueva aplicación móvil ChatUWM de UWM busca solucionar esto permitiendo a los brókeres consultar sus procesos y reglas con comandos de voz de IA. Desde la perspectiva de ganancias, ahorrar treinta segundos en una verificación de estado de préstamo en cientos de transacciones diarias suma mucho. Pero seamos realistas sobre lo que esto significa para el apalancamiento operativo. La eficiencia no cierra tratos por sí sola; solo da a los mejores productores más capacidad para buscar la próxima relación. Si no usas el tiempo extra para hablar con socios de referencia, solo estás yendo más rápido en una cinta de correr.\n\nFuente : https://tinyurl.com/26yahlkw\n#SafetrustMortgage #MortgageIntelligenceDaily #mortgagebroker #loanofficer #housingmarket",
+      "hashtags": [
+        "#SafetrustMortgage",
+        "#MortgageIntelligenceDaily",
+        "#mortgagebroker",
+        "#loanofficer",
+        "#housingmarket"
+      ],
+      "hook_tag": "Proptech e IA",
+      "hook": "UWM lanzó el seguimiento de préstamos por voz con IA. Esto significa para los brókeres:",
+      "what_happened_heading": "Llegan los préstamos activados por voz",
+      "what_happened": "United Wholesale Mortgage presentó una nueva aplicación móvil, ChatUWM, el jueves. La herramienta permite a los brókeres y asesores de préstamos revisar el estado de un préstamo, las pautas y los datos con un asistente de voz de IA.",
+      "breakdown": [
+        {
+          "heading": "Menos clics, más fluidez",
+          "body": "Los asesores pierden tiempo navegando interfaces complejas. Los comandos de voz eliminan la fricción de las tareas diarias, como verificar el estado de un préstamo."
+        },
+        {
+          "heading": "Perspectiva del asesor",
+          "body": "Esto agiliza la comunicación interna cuando un expediente llega a asesoría. Las condiciones se resuelven más rápido, sin esperar actualizaciones en el portal."
+        },
+        {
+          "heading": "La carrera mayorista",
+          "body": "Los prestamistas ya no compiten solo por la tasa. La usabilidad de la tecnología y la conveniencia móvil son ahora diferenciadores clave para la lealtad del bróker."
+        },
+        {
+          "heading": "El factor humano",
+          "body": "Las herramientas de automatización liberan tiempo administrativo, pero solo si los originadores usan esos minutos para conversaciones que generen ingresos."
+        }
+      ],
+      "my_take_heading": "La velocidad no es una estrategia",
+      "my_take": "Verificar tus préstamos con comandos de voz es genial, pero ahorrar tres minutos no importa si los pasas mirando el teléfono en vez de llamar a un agente de bienes raíces.",
+      "action_lo": "Prueba las nuevas funciones de la aplicación, pero comprométete a usar cada minuto ahorrado para fortalecer tus alianzas con agentes de bienes raíces.",
+      "action_realtor": "Pregunta a tus socios de préstamos cómo su tecnología acelera tus transacciones conjuntas, desde la solicitud hasta el cierre.",
+      "cta_question": "¿Ves los lanzamientos de tecnología de IA como un gran impulsor de eficiencia, o solo ruido de marketing de los prestamistas?"
+    },
+    {
+      "slug": "builders-cut-prices-incentives",
+      "title": "Constructores bajan precios mientras la oferta de casas nuevas se mantiene en 8.5 meses",
+      "source": "HousingWire",
+      "source_url": "https://www.housingwire.com/articles/august-new-home-sales-incentives/",
+      "cover_text": "Constructores bajan precios. Vendedores de casas usadas, despierten.",
+      "caption": "El mercado de construcción de casas nuevas está enviando una señal fuerte que los vendedores de casas existentes están ignorando por completo. Con precios promedio cayendo 5.8% año tras año y un inventario que se mantiene obstinadamente en 8.5 meses, los constructores hacen lo que sea para deshacerse de sus casas listas. Las reducciones de tasas (rate buydowns) pasaron de ser un truco de marketing a un costo fijo de hacer negocios. Si intentas vender una casa usada con acabados antiguos al precio máximo del mercado, estás compitiendo contra grandes constructores que ofrecen financiamiento subsidiado y planos de casas a estrenar. Los números son brutales, y al inventario no le importa tu apego emocional a tu patrimonio.\n\nFuente : https://tinyurl.com/2956qrnb\n#SafetrustMortgage #MortgageIntelligenceDaily #housingmarket #realestateagent #homebuying",
+      "hashtags": [
+        "#SafetrustMortgage",
+        "#MortgageIntelligenceDaily",
+        "#housingmarket",
+        "#realestateagent",
+        "#homebuying"
+      ],
+      "hook_tag": "Estrategia de Constructores",
+      "hook": "Los precios de casas nuevas cayeron 5.8%. Vendedores de casas usadas, ¡cuidado!",
+      "what_happened_heading": "Las rebajas de precios de constructores se mantienen",
+      "what_happened": "El precio promedio de las casas nuevas cayó 5.8% año tras año, mientras la oferta se mantuvo alta, en 8.5 meses. Los constructores siguen usando mucho las reducciones de tasas de interés para mover su inventario.",
+      "breakdown": [
+        {
+          "heading": "Exceso de inventario",
+          "body": "Una oferta de 8.5 meses de casas nuevas da a los compradores una ventaja enorme. Los constructores no pueden darse el lujo de tener casas terminadas sin incurrir en altos costos de mantenimiento."
+        },
+        {
+          "heading": "Perspectiva del asesor",
+          "body": "Esto es lo que cambia cuando un expediente llega a asesoría: las concesiones del constructor y las reducciones permanentes de tasas deben calcularse cuidadosamente contra los límites máximos de contribución del vendedor."
+        },
+        {
+          "heading": "Desconexión con casas usadas",
+          "body": "Los vendedores individuales ponen precios como si todavía fuera 2022, sin ver la presión competitiva de las casas nuevas con fuertes incentivos."
+        },
+        {
+          "heading": "La base de la reducción de tasas",
+          "body": "Las reducciones de tasas ya no son promociones temporales. Son una parte permanente del mercado actual de compra, necesarias para cubrir la falta de asequibilidad."
+        }
+      ],
+      "my_take_heading": "Compite con los constructores o espera",
+      "my_take": "Si los vendedores de casas usadas no igualan la flexibilidad de los incentivos de los constructores, sus casas se quedarán en el mercado hasta que acepten la realidad.",
+      "action_lo": "Diseña propuestas de financiación que incluyan concesiones del vendedor para ayudar a los compradores de casas usadas a competir con los programas de reducción de tasas de los constructores.",
+      "action_realtor": "Informa a tus vendedores de inmediato sobre la competencia de construcción nueva en la zona antes de que su propiedad se estanque.",
+      "cta_question": "¿Cómo convences a los vendedores tradicionales de casas usadas de ajustar sus expectativas de precios en este mercado?"
+    },
+    {
+      "slug": "place-acquires-maxwell",
+      "title": "PLACE añade Maxwell a su creciente pila tecnológica hipotecaria",
+      "source": "National Mortgage Professional",
+      "source_url": "https://nationalmortgageprofessional.com/news/place-adds-maxwell-growing-mortgage-technology-stack",
+      "cover_text": "La compra de Maxwell por Place cambia el juego para los brókeres.",
+      "caption": "Las plataformas de corretaje de bienes raíces están dominando el espacio de originación de hipotecas, y esta adquisición lo demuestra. Que PLACE compre a Maxwell —proveedor de tecnología hipotecaria usado por más de 400 instituciones financieras— no es solo una mejora de software; es una jugada estratégica para controlar todo el ciclo de la transacción. Cuando las redes de bienes raíces integran la infraestructura hipotecaria, eliminan por completo a los prestamistas independientes. Si manejas una sucursal de hipotecas al por menor, esto debería preocuparte. El futuro pertenece a los ecosistemas integrados donde el agente, el corredor y el asesor de préstamos operan bajo un mismo techo.\n\nFuente : https://tinyurl.com/22ue8fzk\n#SafetrustMortgage #MortgageIntelligenceDaily #realestateagent #mortgagebroker #loanofficer",
+      "hashtags": [
+        "#SafetrustMortgage",
+        "#MortgageIntelligenceDaily",
+        "#realestateagent",
+        "#mortgagebroker",
+        "#loanofficer"
+      ],
+      "hook_tag": "Fusiones y Adquisiciones en la Industria",
+      "hook": "PLACE compró Maxwell. Las barreras entre bienes raíces y hipotecas caen.",
+      "what_happened_heading": "Place expande su presencia hipotecaria",
+      "what_happened": "La empresa de tecnología inmobiliaria PLACE adquirió el proveedor de tecnología hipotecaria Maxwell. La plataforma de Maxwell es utilizada actualmente por más de 400 instituciones financieras en todo el país.",
+      "breakdown": [
+        {
+          "heading": "Consolidación de ecosistemas",
+          "body": "Los gigantes inmobiliarios compran infraestructura hipotecaria para capturar cada dólar de ingresos por transacción, sin depender de socios externos."
+        },
+        {
+          "heading": "Perspectiva del asesor",
+          "body": "Esto es lo que cambia cuando un expediente llega a asesoría: la tecnología integrada reduce errores en la transferencia de documentos entre agentes y procesadores."
+        },
+        {
+          "heading": "La amenaza al independiente",
+          "body": "Las hipotecarias independientes enfrentan presión. Las redes integradas ofrecen experiencias de compra de vivienda completas y sin fricciones a los consumidores."
+        },
+        {
+          "heading": "Expansión de plataformas",
+          "body": "Al absorber un proveedor de tecnología usado por cientos de instituciones, PLACE demuestra su seria intención de expandir sus capacidades operativas de préstamos."
+        }
+      ],
+      "my_take_heading": "La integración vertical es clave",
+      "my_take": "Los asesores de préstamos independientes que creen poder sobrevivir solo con carisma, mientras las plataformas inmobiliarias construyen ecosistemas cerrados, están librando una batalla perdida.",
+      "action_lo": "Forma alianzas sólidas con corredurías independientes que estén desarrollando activamente sus propios ecosistemas tecnológicos internos.",
+      "action_realtor": "Evalúa si tu plataforma de correduría actual te ofrece el soporte tecnológico necesario para competir con los gigantes integrados.",
+      "cta_question": "¿Te preocupa que las redes inmobiliarias absorban las operaciones hipotecarias, o es solo parte del negocio?"
+    }
   ]
 }
