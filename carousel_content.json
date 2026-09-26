@@ -1,342 +1,172 @@
 {
   "carousels": [
     {
-      "slug": "rates-spike-745",
-      "title": "30-year fixed mortgage rate jumps sharply Thursday to 7.45%",
-      "source": "CNBC",
-      "source_url": "https://www.cnbc.com/2026/09/24/30-year-fixed-rate-spikes-thursday-to-7point45percent.html",
-      "cover_text": "Rates just hit 7.45%. Here is the real problem.",
-      "caption": "The bond market just delivered a harsh reality check. With the 30-year fixed rate jumping to 7.45%—the highest level since April 2024—the conversation in the pipeline needs to shift immediately from rate locks to cash-to-close math. When yields spike on a random Thursday with no obvious macroeconomic trigger, pricing volatility becomes your biggest fallout risk. If you are sitting on pre-approvals written at 6.875%, those files are about to blow up their DTI (debt-to-income ratio). Stop waiting for the Fed to save your lock desk. Build your purchase strategy around the monthly payment the borrower can actually support today, not the rate they hope to get tomorrow.\n\nSource : https://tinyurl.com/2ak7944l\n#SafetrustMortgage #MortgageIntelligenceDaily #mortgagerates #housingmarket #loanofficer",
+      "slug": "compass-mls-recruiting-data",
+      "title": "Compass demands MLSs block recruiting tools from agent data",
+      "source": "HousingWire",
+      "source_url": "https://www.housingwire.com/articles/compass-mls-recruiting-data/",
+      "cover_text": "Compass demands MLSs block recruiting data tools",
+      "caption": "Compass is drawing a line in the sand over how MLS listing data gets used. In a letter to multiple MLSs, the brokerage demanded an immediate opt-out blocking listing feeds from non-IDX and VOW vendor tools often used for agent recruitment, setting a tight 30-day window. For years, third-party tech platforms have leveraged listing feeds to track production metrics and target high-performing agents. But treating home sales records as headhunting intel crosses a line for major brokerages protecting talent. When MLS data gets repurposed for corporate recruiting, it changes the entire purpose of public cooperative feeds. Real estate executives need to look closely at their vendor data agreements right now.\n\nSource : https://tinyurl.com/28telnrh\n#SafetrustMortgage #MortgageIntelligenceDaily #realestateagent #mortgagebroker #loanofficer",
       "hashtags": [
         "#SafetrustMortgage",
         "#MortgageIntelligenceDaily",
-        "#mortgagerates",
-        "#housingmarket",
+        "#realestateagent",
+        "#mortgagebroker",
         "#loanofficer"
       ],
-      "hook_tag": "Rate Volatility",
-      "hook": "Rates surged to 7.45% on Thursday. The scariest part isn't the number.",
-      "what_happened_heading": "Rates climb to multi-month highs",
-      "what_happened": "The 30-year fixed mortgage rate surged to 7.45% on Thursday, marking the highest level since April 2024. The sharp move higher was driven by a broader bond market sell-off and rising yields.",
+      "hook_tag": "Brokerage Data Battle",
+      "hook": "Is your MLS listing data being weaponized against your brokerage?",
+      "what_happened_heading": "Compass demands MLS data feed opt-out deadline",
+      "what_happened": "Compass sent a letter requesting MLSs block listing data from non-IDX and VOW vendor feeds. The brokerage gave systems a 30-day deadline to restrict access for recruiting tools.",
       "breakdown": [
         {
-          "heading": "The silent fallout risk",
-          "body": "When rates jump half a point in a matter of weeks, yesterday's pre-approval letter is instantly rendered obsolete. Borrowers are looking at severe affordability shocks."
+          "heading": "Listing data became headhunting tools",
+          "body": "MLS feeds designed for property marketing are being harvested by third-party software to track agent production and pitch recruiting offers."
         },
         {
-          "heading": "Underwriting reality check",
-          "body": "Here is what this actually changes when a file hits underwriting: every single debt ratio gets recalculated at the new note rate. If the buffer was thin, the file is dead."
+          "heading": "The battle over vendor access",
+          "body": "Compass targets feeds outside IDX (Internet Data Exchange) and VOW (Virtual Office Website) rules, where agent performance data flows unchecked."
         },
         {
-          "heading": "The pipeline squeeze",
-          "body": "Float strategies are getting punished. Lock desks are under intense pressure as borrowers panic-float into a rising yield environment, hoping for a floor that isn't there."
+          "heading": "The underwriting perspective on agent data",
+          "body": "In underwriting, verified production data proves loan officer capacity; similarly, brokerages view production metrics as proprietary assets worth defending from competitors."
         },
         {
-          "heading": "Historical context",
-          "body": "As market observers noted, yields are sitting at some of their highest levels in nearly two decades, making baseline affordability a structural hurdle rather than a temporary blip."
+          "heading": "MLS governance faces direct pressure",
+          "body": "Giving MLSs a strict 30-day deadline forces associations to choose between vendor monetization and brokerage privacy protections."
         }
       ],
-      "my_take_heading": "Stop selling the rate",
-      "my_take": "If your entire pitch to a buyer is that rates will drop next year, you are underwriting a fantasy. Sell the payment they can afford today, or watch your pipeline drain out.",
-      "action_lo": "Audit your active pre-approval pipeline immediately and re-run DTI ratios at 7.75% to see who still qualifies.",
-      "action_realtor": "Have an honest conversation with active buyers about adjusting purchase price targets downward to match higher debt service costs.",
-      "cta_question": "Are your current borrowers dropping out when rates spike, or are they adjusting their budgets to buy anyway?"
+      "my_take_heading": "MLS data was built to sell homes, not poach top producers",
+      "my_take": "MLS feeds were designed to market properties, not feed corporate headhunters. If brokerages lose control of production data, MLS membership loses core value.",
+      "action_lo": "Audit where your production data is shared across vendor tools to protect client privacy.",
+      "action_realtor": "Ask your local MLS board how vendor feeds are monitored and restricted today.",
+      "cta_question": "Should MLSs ban third-party software from using listing data for agent recruitment?"
     },
     {
-      "slug": "uwm-ai-voice-command",
-      "title": "UWM Puts Broker Pipeline Behind An AI Voice Command",
+      "slug": "builder-discounts-market-pricing",
+      "title": "Builder discounts spread across all major housing markets",
+      "source": "HousingWire",
+      "source_url": "https://www.housingwire.com/articles/builder-marketing-2027-planning/",
+      "cover_text": "Every market analyzed sold below original asking price",
+      "caption": "New data shows builders are discounting homes in 100% of markets analyzed. A study of 201,000 sales across 25 major metro areas by Audience Town revealed that every single market sold below asking price. To keep inventory moving without tanking public comps, builders rely heavily on seller concessions, financing credits, and mortgage rate buydowns. But masking real price drops through financing adjustments creates accounting headaches down the road. Underwriters must carefully scrutinize builder incentives to ensure appraiser comparables reflect true market value rather than subsidized paper prices. Industry professionals must look past sticker prices to see real transaction terms.\n\nSource : https://tinyurl.com/2awy5rt3\n#SafetrustMortgage #MortgageIntelligenceDaily #housingmarket #firsttimehomebuyer #homebuying",
+      "hashtags": [
+        "#SafetrustMortgage",
+        "#MortgageIntelligenceDaily",
+        "#housingmarket",
+        "#firsttimehomebuyer",
+        "#homebuying"
+      ],
+      "hook_tag": "Builder Concessions Revealed",
+      "hook": "Are builder discounts hiding the real drop in home values?",
+      "what_happened_heading": "Builder sales study reveals widespread price reductions",
+      "what_happened": "Audience Town analyzed 201,000 sales across 25 housing markets and found every single market sold below asking price. Builders are relying heavily on discounts and incentives to keep prospective buyers closing deals.",
+      "breakdown": [
+        {
+          "heading": "Universal price adjustments across markets",
+          "body": "Across 25 analyzed regions, not a single market maintained full asking price on new home contracts."
+        },
+        {
+          "heading": "Incentives mask true asset valuations",
+          "body": "Builders prefer closing cost credits and rate buydowns over listed sticker price drops to protect neighborhood appraisal baselines."
+        },
+        {
+          "heading": "The underwriter view on builder comps",
+          "body": "When an underwriter reviews comps (comparable sales), builder concessions (seller-paid financing costs) must be adjusted line-by-line to prevent overvaluing property appraisals."
+        },
+        {
+          "heading": "Marketing budgets pivot to buyer survival",
+          "body": "Builder marketing strategy for 2027 planning now centers on financing subsidies rather than standard upgrades or features."
+        }
+      ],
+      "my_take_heading": "Concessions are masking real home price corrections today",
+      "my_take": "Discounting every market proves pricing power has shifted. Financing concessions are simply price cuts hiding behind mortgage paperwork.",
+      "action_lo": "Review builder concession limits on Fannie Mae and FHA guidelines before structuring purchase offers.",
+      "action_realtor": "Negotiate for rate buydowns or fee credits instead of asking for minor purchase price reductions.",
+      "cta_question": "Are builder rate buydowns helping buyers, or just delaying realistic price drops?"
+    },
+    {
+      "slug": "assurance-medpro-specialty-mortgage",
+      "title": "Assurance launches 100 percent financing for medical professionals",
       "source": "National Mortgage Professional",
-      "source_url": "https://nationalmortgageprofessional.com/news/uwm-puts-broker-pipeline-behind-ai-voice-command",
-      "cover_text": "Uwm's new ai voice app changes everything.",
-      "caption": "Technology is supposed to save us time, but usually, it just gives us more dashboards to stare at. UWM's new ChatUWM mobile app attempts to fix that by letting brokers query their pipeline and guidelines via AI voice commands. From a P&L perspective, shaving thirty seconds off a loan status check across hundreds of daily transactions adds up fast. But let's be real about what this means for operational leverage. Efficiency doesn't win deals by itself; it just gives top producers more capacity to chase the next relationship. If you aren't using the extra time to talk to referral partners, you're just moving faster on a treadmill.\n\nSource : https://tinyurl.com/26yahlkw\n#SafetrustMortgage #MortgageIntelligenceDaily #mortgagebroker #loanofficer #housingmarket",
+      "source_url": "https://nationalmortgageprofessional.com/news/assurance-joins-growing-push-medical-professional-borrowers",
+      "cover_text": "Assurance offers zero down payment for medical professionals",
+      "caption": "Mortgage lenders are competing aggressively for healthcare workers. Assurance Financial launched MedPro Mortgage+, giving medical professionals access to 100% financing without PMI (private mortgage insurance). These specialty products target early-career doctors who face heavy student loan burdens and limited cash reserves, but possess strong future income prospects. Underwriting these files requires looking beyond rigid DTI (debt-to-income ratio) rules to accept verified employment contracts and specialized debt treatment. While high earning potential makes these borrowers attractive, zero-down financing always carries risk when market values adjust.\n\nSource : https://tinyurl.com/2cktwoh5\n#SafetrustMortgage #MortgageIntelligenceDaily #mortgagebroker #loanofficer #homebuying",
       "hashtags": [
         "#SafetrustMortgage",
         "#MortgageIntelligenceDaily",
         "#mortgagebroker",
         "#loanofficer",
-        "#housingmarket"
-      ],
-      "hook_tag": "Proptech & AI",
-      "hook": "UWM just launched AI voice pipeline tracking. Here is what it means for brokers.",
-      "what_happened_heading": "Voice-activated loan pipelines arrive",
-      "what_happened": "United Wholesale Mortgage unveiled a new ChatUWM mobile app on Thursday. The tool allows brokers and loan officers to check loan status, guidelines, and pipeline data using an AI voice assistant.",
-      "breakdown": [
-        {
-          "heading": "Cutting down click fatigue",
-          "body": "Loan officers spend too much time navigating heavy software interfaces. Moving routine status checks to voice commands removes friction from daily operations."
-        },
-        {
-          "heading": "Underwriting perspective",
-          "body": "Here is what this actually changes when a file hits underwriting: faster internal communication means conditions can be addressed and cleared without waiting for portal refreshes."
-        },
-        {
-          "heading": "The wholesale arms race",
-          "body": "Lenders are no longer competing solely on rate. Technology stack usability and mobile convenience are becoming the primary differentiators for broker loyalty."
-        },
-        {
-          "heading": "The human multiplier",
-          "body": "Automation tools like this free up administrative bandwidth, but only if originators redirect those saved minutes toward revenue-generating conversations."
-        }
-      ],
-      "my_take_heading": "Speed isn't a strategy",
-      "my_take": "Checking your pipeline via voice command is cool, but saving three minutes doesn't matter if you spend those minutes staring at your phone instead of calling a realtor.",
-      "action_lo": "Test drive the new app features, but commit to using every saved minute to deepen realtor partnerships.",
-      "action_realtor": "Ask your lending partners how their tech stack speeds up your joint transactions from application to clear-to-close.",
-      "cta_question": "Do you view AI tech rollouts as a massive efficiency driver, or just marketing noise from lenders?"
-    },
-    {
-      "slug": "builders-cut-prices-incentives",
-      "title": "Builders cut prices as new home supply holds at 8.5 months",
-      "source": "HousingWire",
-      "source_url": "https://www.housingwire.com/articles/august-new-home-sales-incentives/",
-      "cover_text": "Builders are slashing prices. Resale sellers must wake up.",
-      "caption": "The new construction market is sending a loud signal that existing-home sellers are completely ignoring. With median prices falling 5.8% year over year and inventory sitting stubbornly at 8.5 months, builders are doing whatever it takes to clear out spec inventory. Rate buydowns have gone from a clever marketing gimmick to an entrenched cost of doing business. If you are trying to sell a resale home with outdated finishes at peak-market pricing, you are competing against corporate builders offering subsidized financing and brand-new floor plans. The math is brutal, and inventory doesn't care about your emotional attachment to your equity.\n\nSource : https://tinyurl.com/2956qrnb\n#SafetrustMortgage #MortgageIntelligenceDaily #housingmarket #realestateagent #homebuying",
-      "hashtags": [
-        "#SafetrustMortgage",
-        "#MortgageIntelligenceDaily",
-        "#housingmarket",
-        "#realestateagent",
         "#homebuying"
       ],
-      "hook_tag": "Builder Strategy",
-      "hook": "New home prices fell 5.8%. Resale sellers are walking into a trap.",
-      "what_happened_heading": "Builder price cuts remain entrenched",
-      "what_happened": "The median price for new homes fell 5.8% year over year as supply held at a high 8.5 months. Builders continue relying heavily on mortgage rate buydowns to keep inventory moving.",
+      "hook_tag": "Physician Loan Expansion",
+      "hook": "Can zero-down medical loans overcome rising interest rate pressures?",
+      "what_happened_heading": "Assurance Financial unveils MedPro Mortgage Plus program",
+      "what_happened": "Assurance Financial introduced MedPro Mortgage+, offering eligible healthcare workers up to 100% financing with zero private mortgage insurance. The program aims at doctors with high student debt but strong future earning potential.",
       "breakdown": [
         {
-          "heading": "The inventory glut",
-          "body": "An 8.5-month supply of new homes gives buyers immense leverage. Builders cannot afford to sit on completed inventory without incurring heavy carrying costs."
+          "heading": "Zero down payment eliminates cash barriers",
+          "body": "Healthcare professionals can finance 100% of the purchase price without paying PMI (private mortgage insurance - coverage protecting lenders against default)."
         },
         {
-          "heading": "Underwriting perspective",
-          "body": "Here is what this actually changes when a file hits underwriting: builder concessions and permanent rate buydowns must be carefully calculated against maximum seller contribution limits."
+          "heading": "Targeting high debt to income borrowers",
+          "body": "Early-career doctors carry massive student loans, requiring specialized credit guidelines that accommodate low current liquidity alongside high income trajectories."
         },
         {
-          "heading": "Resale disconnect",
-          "body": "Individual home sellers are pricing their properties as if it is still 2022, completely missing the competitive pressure coming from heavily incentivized new construction."
+          "heading": "The underwriter lens on medical debt",
+          "body": "Underwriters evaluate future employment contracts and deferred student loans differently, relying on guaranteed income projections rather than traditional historical tax returns."
         },
         {
-          "heading": "The buydown baseline",
-          "body": "Rate buydowns are no longer temporary promotions. They are a permanent fixture of the current purchase landscape required to bridge affordability gaps."
+          "heading": "Expanding competition for specialized niches",
+          "body": "Lenders are aggressive on niche programs to secure high-net-worth clients early, betting long-term banking relationships offset initial risk."
         }
       ],
-      "my_take_heading": "Compete with builders or sit",
-      "my_take": "If resale sellers refuse to match the flexibility of builder incentives, their homes are going to sit on the market until reality sets in.",
-      "action_lo": "Structure financing proposals that incorporate seller concessions to help resale buyers compete with builder buydown programs.",
-      "action_realtor": " Educate your sellers immediately on local new construction competition before their listing goes stale.",
-      "cta_question": "How are you convincing traditional resale sellers to adjust their pricing expectations in this market?"
+      "my_take_heading": "High future earnings don't eliminate immediate liquidity risk",
+      "my_take": "Betting on high medical income potential is smart, but zero down payment in a shifting market leaves zero cushion if property values fluctuate.",
+      "action_lo": "Market specialty doctor programs to local residency programs and hospital staff administrators.",
+      "action_realtor": "Partner with medical recruiters to connect with incoming hospital physicians needing zero-down options.",
+      "cta_question": "Are 100% financing physician loans a safe growth strategy in today's market?"
     },
     {
-      "slug": "place-acquires-maxwell",
-      "title": "PLACE Adds Maxwell To Growing Mortgage Technology Stack",
+      "slug": "friday-harbor-dscr-underwriting-platform",
+      "title": "Friday Harbor expands AI platform to DSCR investor loans",
       "source": "National Mortgage Professional",
-      "source_url": "https://nationalmortgageprofessional.com/news/place-adds-maxwell-growing-mortgage-technology-stack",
-      "cover_text": "Place buying maxwell changes the brokerage game.",
-      "caption": "Real estate brokerage platforms are eating the mortgage origination space, and this acquisition proves it. PLACE adding mortgage technology provider Maxwell—used by over 400 financial institutions—isn't just a software upgrade; it's a structural play to control the entire transaction lifecycle. When real estate networks bring mortgage infrastructure in-house, they cut independent lenders out of the loop entirely. If you run a retail mortgage branch, this should make you deeply uncomfortable. The future belongs to integrated ecosystems where the agent, the broker, and the loan officer operate under one roof.\n\nSource : https://tinyurl.com/22ue8fzk\n#SafetrustMortgage #MortgageIntelligenceDaily #realestateagent #mortgagebroker #loanofficer",
+      "source_url": "https://nationalmortgageprofessional.com/news/friday-harbor-takes-aim-dscrs-underwriting-bottleneck",
+      "cover_text": "Friday Harbor tackles investor DSCR underwriting bottlenecks",
+      "caption": "Non-QM investor lending just got a tech upgrade. Friday Harbor expanded its pre-underwriting software to investor loans, targeting DSCR (debt-service coverage ratio) files. The platform automatically reviews lease documents, appraisal-based rent schedules, and cash flow calculations to remove approval delays. For loan officers, calculating DSCR accurately upfront prevents dead files later in the pipeline. However, automated systems can miss subtle lease clauses or spotty rent collection history that experienced underwriters catch immediately. Tech speeds up processing, but thorough human review remains essential for investor credit quality.\n\nSource : https://tinyurl.com/243mzl43\n#SafetrustMortgage #MortgageIntelligenceDaily #realestateinvesting #mortgagebroker #loanofficer",
       "hashtags": [
         "#SafetrustMortgage",
         "#MortgageIntelligenceDaily",
-        "#realestateagent",
+        "#realestateinvesting",
         "#mortgagebroker",
         "#loanofficer"
       ],
-      "hook_tag": "Industry M&A",
-      "hook": "PLACE just bought Maxwell. The walls between real estate and mortgage are falling.",
-      "what_happened_heading": "Place expands its mortgage footprint",
-      "what_happened": "Real estate technology company PLACE has acquired mortgage tech provider Maxwell. Maxwell's platform is currently utilized by more than 400 financial institutions across the country.",
+      "hook_tag": "Investor Tech Automated",
+      "hook": "Can automated pre-underwriting fix the bottleneck in investor loans?",
+      "what_happened_heading": "Friday Harbor expands tech to DSCR pre-underwriting",
+      "what_happened": "Friday Harbor expanded its pre-underwriting platform to handle investor loans, specifically debt-service coverage ratio mortgages. The system automatically audits lease agreements, appraisal rent schedules, and property cash flow metrics.",
       "breakdown": [
         {
-          "heading": "Ecosystem consolidation",
-          "body": "Real estate giants are acquiring mortgage infrastructure to capture every single dollar of transaction revenue rather than relying on external referral partners."
+          "heading": "Targeted automation for investor loans",
+          "body": "The platform focuses on DSCR (debt-service coverage ratio - property rental income divided by monthly mortgage debt) calculations to speed up Non-QM approval pipelines."
         },
         {
-          "heading": "Underwriting perspective",
-          "body": "Here is what this actually changes when a file hits underwriting: streamlined tech stacks reduce document handoff errors between real estate agents and loan processors."
+          "heading": "Automated document and rent auditing",
+          "body": "Technology analyzes lease paperwork and appraisal Form 1007 rent schedules, flagging cash flow discrepancies before files reach underwriting staff."
         },
         {
-          "heading": "The independent threat",
-          "body": "Standalone mortgage brokerages face mounting pressure as vertically integrated networks offer frictionless, all-in-one home buying experiences to consumers."
+          "heading": "What underwriters spot that AI misses",
+          "body": "Underwriters review actual bank deposit history and lease terms to catch phantom leases or short-term rental variance that automated scrapers overlook."
         },
         {
-          "heading": "Platform scaling",
-          "body": "By absorbing a tech provider used by hundreds of institutions, PLACE is signaling serious intent to scale deep operational lending capabilities."
+          "heading": "Removing loan officer technical friction",
+          "body": "Pushing complex investor qualification rules upstream allows loan officers to structure Non-QM deals accurately without waiting days for manual review."
         }
       ],
-      "my_take_heading": "Vertical integration wins",
-      "my_take": "Independent loan officers who think they can survive on charm alone while real estate platforms build closed loops are fighting a losing battle.",
-      "action_lo": "Form deep alliances with independent brokerages that are actively building out their own internal tech ecosystems.",
-      "action_realtor": "Evaluate whether your current brokerage platform provides the backend tech support needed to compete with integrated giants.",
-      "cta_question": "Are you worried about real estate networks absorbing mortgage operations, or is it just business as usual?"
-    }
-  ],
-  "carousels_es": [
-    {
-      "slug": "rates-spike-745",
-      "title": "La tasa de hipoteca fija a 30 años sube bruscamente el jueves a 7.45%",
-      "source": "CNBC",
-      "source_url": "https://www.cnbc.com/2026/09/24/30-year-fixed-rate-spikes-thursday-to-7point45percent.html",
-      "cover_text": "Tasas en 7.45%. Este es el problema real.",
-      "caption": "El mercado de bonos nos dio un fuerte golpe de realidad. La tasa fija a 30 años subió a 7.45% —el nivel más alto desde abril de 2024—. La conversación debe cambiar de inmediato: de asegurar tasas a calcular cuánto dinero se necesita para cerrar (cash-to-close). Cuando los rendimientos suben un jueves cualquiera sin un motivo macroeconómico claro, la volatilidad de precios se vuelve tu mayor riesgo. Si tienes preaprobaciones hechas al 6.875%, esos préstamos están a punto de disparar su DTI (relación deuda-ingresos). Deja de esperar que la Fed salve tu mesa de cierres. Arma tu estrategia de compra en función del pago mensual que el prestatario puede realmente afrontar hoy, no de la tasa que espera conseguir mañana.\n\nFuente : https://tinyurl.com/2ak7944l\n#SafetrustMortgage #MortgageIntelligenceDaily #mortgagerates #housingmarket #loanofficer",
-      "hashtags": [
-        "#SafetrustMortgage",
-        "#MortgageIntelligenceDaily",
-        "#mortgagerates",
-        "#housingmarket",
-        "#loanofficer"
-      ],
-      "hook_tag": "Volatilidad de Tasas",
-      "hook": "Las tasas subieron al 7.45% el jueves. Lo más alarmante no es el número.",
-      "what_happened_heading": "Las tasas alcanzan máximos de varios meses",
-      "what_happened": "La tasa de hipoteca fija a 30 años subió a 7.45% el jueves, el nivel más alto desde abril de 2024. Este fuerte aumento fue causado por una venta masiva en el mercado de bonos y el alza de rendimientos.",
-      "breakdown": [
-        {
-          "heading": "El riesgo silencioso",
-          "body": "Cuando las tasas suben medio punto en semanas, la preaprobación de ayer ya no sirve. Los compradores enfrentan un shock severo en su capacidad de pago."
-        },
-        {
-          "heading": "La realidad del asesor",
-          "body": "Esto es lo que cambia cuando un expediente llega a asesoría: cada relación de deuda se recalcula con la nueva tasa. Si el margen era estrecho, el préstamo se cae."
-        },
-        {
-          "heading": "La presión en el proceso",
-          "body": "Las estrategias de 'flotar' tasas son castigadas. Las mesas de cierre están bajo presión, ya que los compradores entran en pánico esperando una baja que no llega."
-        },
-        {
-          "heading": "Contexto histórico",
-          "body": "Los rendimientos están en sus niveles más altos en casi dos décadas. Esto convierte la asequibilidad básica en un obstáculo estructural, no solo un problema temporal."
-        }
-      ],
-      "my_take_heading": "No vendas la tasa",
-      "my_take": "Si toda tu estrategia con un comprador es prometer que las tasas bajarán el próximo año, estás vendiendo una fantasía. Vende el pago que pueden costear hoy, o verás cómo tus clientes se van.",
-      "action_lo": "Revisa de inmediato tus preaprobaciones activas y vuelve a calcular los DTI al 7.75% para ver quién aún califica.",
-      "action_realtor": "Ten una conversación honesta con tus compradores activos sobre ajustar los precios de compra a la baja para compensar los mayores costos de deuda.",
-      "cta_question": "¿Tus clientes actuales se echan para atrás cuando las tasas suben, o ajustan sus presupuestos para comprar de todos modos?"
-    },
-    {
-      "slug": "uwm-ai-voice-command",
-      "title": "UWM pone el proceso del bróker detrás de un comando de voz con IA",
-      "source": "National Mortgage Professional",
-      "source_url": "https://nationalmortgageprofessional.com/news/uwm-puts-broker-pipeline-behind-ai-voice-command",
-      "cover_text": "La nueva app de voz con IA de UWM lo cambia todo.",
-      "caption": "La tecnología debería ahorrarnos tiempo, pero a menudo solo nos da más pantallas que mirar. La nueva aplicación móvil ChatUWM de UWM busca solucionar esto permitiendo a los brókeres consultar sus procesos y reglas con comandos de voz de IA. Desde la perspectiva de ganancias, ahorrar treinta segundos en una verificación de estado de préstamo en cientos de transacciones diarias suma mucho. Pero seamos realistas sobre lo que esto significa para el apalancamiento operativo. La eficiencia no cierra tratos por sí sola; solo da a los mejores productores más capacidad para buscar la próxima relación. Si no usas el tiempo extra para hablar con socios de referencia, solo estás yendo más rápido en una cinta de correr.\n\nFuente : https://tinyurl.com/26yahlkw\n#SafetrustMortgage #MortgageIntelligenceDaily #mortgagebroker #loanofficer #housingmarket",
-      "hashtags": [
-        "#SafetrustMortgage",
-        "#MortgageIntelligenceDaily",
-        "#mortgagebroker",
-        "#loanofficer",
-        "#housingmarket"
-      ],
-      "hook_tag": "Proptech e IA",
-      "hook": "UWM lanzó el seguimiento de préstamos por voz con IA. Esto significa para los brókeres:",
-      "what_happened_heading": "Llegan los préstamos activados por voz",
-      "what_happened": "United Wholesale Mortgage presentó una nueva aplicación móvil, ChatUWM, el jueves. La herramienta permite a los brókeres y asesores de préstamos revisar el estado de un préstamo, las pautas y los datos con un asistente de voz de IA.",
-      "breakdown": [
-        {
-          "heading": "Menos clics, más fluidez",
-          "body": "Los asesores pierden tiempo navegando interfaces complejas. Los comandos de voz eliminan la fricción de las tareas diarias, como verificar el estado de un préstamo."
-        },
-        {
-          "heading": "Perspectiva del asesor",
-          "body": "Esto agiliza la comunicación interna cuando un expediente llega a asesoría. Las condiciones se resuelven más rápido, sin esperar actualizaciones en el portal."
-        },
-        {
-          "heading": "La carrera mayorista",
-          "body": "Los prestamistas ya no compiten solo por la tasa. La usabilidad de la tecnología y la conveniencia móvil son ahora diferenciadores clave para la lealtad del bróker."
-        },
-        {
-          "heading": "El factor humano",
-          "body": "Las herramientas de automatización liberan tiempo administrativo, pero solo si los originadores usan esos minutos para conversaciones que generen ingresos."
-        }
-      ],
-      "my_take_heading": "La velocidad no es una estrategia",
-      "my_take": "Verificar tus préstamos con comandos de voz es genial, pero ahorrar tres minutos no importa si los pasas mirando el teléfono en vez de llamar a un agente de bienes raíces.",
-      "action_lo": "Prueba las nuevas funciones de la aplicación, pero comprométete a usar cada minuto ahorrado para fortalecer tus alianzas con agentes de bienes raíces.",
-      "action_realtor": "Pregunta a tus socios de préstamos cómo su tecnología acelera tus transacciones conjuntas, desde la solicitud hasta el cierre.",
-      "cta_question": "¿Ves los lanzamientos de tecnología de IA como un gran impulsor de eficiencia, o solo ruido de marketing de los prestamistas?"
-    },
-    {
-      "slug": "builders-cut-prices-incentives",
-      "title": "Constructores bajan precios mientras la oferta de casas nuevas se mantiene en 8.5 meses",
-      "source": "HousingWire",
-      "source_url": "https://www.housingwire.com/articles/august-new-home-sales-incentives/",
-      "cover_text": "Constructores bajan precios. Vendedores de casas usadas, despierten.",
-      "caption": "El mercado de construcción de casas nuevas está enviando una señal fuerte que los vendedores de casas existentes están ignorando por completo. Con precios promedio cayendo 5.8% año tras año y un inventario que se mantiene obstinadamente en 8.5 meses, los constructores hacen lo que sea para deshacerse de sus casas listas. Las reducciones de tasas (rate buydowns) pasaron de ser un truco de marketing a un costo fijo de hacer negocios. Si intentas vender una casa usada con acabados antiguos al precio máximo del mercado, estás compitiendo contra grandes constructores que ofrecen financiamiento subsidiado y planos de casas a estrenar. Los números son brutales, y al inventario no le importa tu apego emocional a tu patrimonio.\n\nFuente : https://tinyurl.com/2956qrnb\n#SafetrustMortgage #MortgageIntelligenceDaily #housingmarket #realestateagent #homebuying",
-      "hashtags": [
-        "#SafetrustMortgage",
-        "#MortgageIntelligenceDaily",
-        "#housingmarket",
-        "#realestateagent",
-        "#homebuying"
-      ],
-      "hook_tag": "Estrategia de Constructores",
-      "hook": "Los precios de casas nuevas cayeron 5.8%. Vendedores de casas usadas, ¡cuidado!",
-      "what_happened_heading": "Las rebajas de precios de constructores se mantienen",
-      "what_happened": "El precio promedio de las casas nuevas cayó 5.8% año tras año, mientras la oferta se mantuvo alta, en 8.5 meses. Los constructores siguen usando mucho las reducciones de tasas de interés para mover su inventario.",
-      "breakdown": [
-        {
-          "heading": "Exceso de inventario",
-          "body": "Una oferta de 8.5 meses de casas nuevas da a los compradores una ventaja enorme. Los constructores no pueden darse el lujo de tener casas terminadas sin incurrir en altos costos de mantenimiento."
-        },
-        {
-          "heading": "Perspectiva del asesor",
-          "body": "Esto es lo que cambia cuando un expediente llega a asesoría: las concesiones del constructor y las reducciones permanentes de tasas deben calcularse cuidadosamente contra los límites máximos de contribución del vendedor."
-        },
-        {
-          "heading": "Desconexión con casas usadas",
-          "body": "Los vendedores individuales ponen precios como si todavía fuera 2022, sin ver la presión competitiva de las casas nuevas con fuertes incentivos."
-        },
-        {
-          "heading": "La base de la reducción de tasas",
-          "body": "Las reducciones de tasas ya no son promociones temporales. Son una parte permanente del mercado actual de compra, necesarias para cubrir la falta de asequibilidad."
-        }
-      ],
-      "my_take_heading": "Compite con los constructores o espera",
-      "my_take": "Si los vendedores de casas usadas no igualan la flexibilidad de los incentivos de los constructores, sus casas se quedarán en el mercado hasta que acepten la realidad.",
-      "action_lo": "Diseña propuestas de financiación que incluyan concesiones del vendedor para ayudar a los compradores de casas usadas a competir con los programas de reducción de tasas de los constructores.",
-      "action_realtor": "Informa a tus vendedores de inmediato sobre la competencia de construcción nueva en la zona antes de que su propiedad se estanque.",
-      "cta_question": "¿Cómo convences a los vendedores tradicionales de casas usadas de ajustar sus expectativas de precios en este mercado?"
-    },
-    {
-      "slug": "place-acquires-maxwell",
-      "title": "PLACE añade Maxwell a su creciente pila tecnológica hipotecaria",
-      "source": "National Mortgage Professional",
-      "source_url": "https://nationalmortgageprofessional.com/news/place-adds-maxwell-growing-mortgage-technology-stack",
-      "cover_text": "La compra de Maxwell por Place cambia el juego para los brókeres.",
-      "caption": "Las plataformas de corretaje de bienes raíces están dominando el espacio de originación de hipotecas, y esta adquisición lo demuestra. Que PLACE compre a Maxwell —proveedor de tecnología hipotecaria usado por más de 400 instituciones financieras— no es solo una mejora de software; es una jugada estratégica para controlar todo el ciclo de la transacción. Cuando las redes de bienes raíces integran la infraestructura hipotecaria, eliminan por completo a los prestamistas independientes. Si manejas una sucursal de hipotecas al por menor, esto debería preocuparte. El futuro pertenece a los ecosistemas integrados donde el agente, el corredor y el asesor de préstamos operan bajo un mismo techo.\n\nFuente : https://tinyurl.com/22ue8fzk\n#SafetrustMortgage #MortgageIntelligenceDaily #realestateagent #mortgagebroker #loanofficer",
-      "hashtags": [
-        "#SafetrustMortgage",
-        "#MortgageIntelligenceDaily",
-        "#realestateagent",
-        "#mortgagebroker",
-        "#loanofficer"
-      ],
-      "hook_tag": "Fusiones y Adquisiciones en la Industria",
-      "hook": "PLACE compró Maxwell. Las barreras entre bienes raíces y hipotecas caen.",
-      "what_happened_heading": "Place expande su presencia hipotecaria",
-      "what_happened": "La empresa de tecnología inmobiliaria PLACE adquirió el proveedor de tecnología hipotecaria Maxwell. La plataforma de Maxwell es utilizada actualmente por más de 400 instituciones financieras en todo el país.",
-      "breakdown": [
-        {
-          "heading": "Consolidación de ecosistemas",
-          "body": "Los gigantes inmobiliarios compran infraestructura hipotecaria para capturar cada dólar de ingresos por transacción, sin depender de socios externos."
-        },
-        {
-          "heading": "Perspectiva del asesor",
-          "body": "Esto es lo que cambia cuando un expediente llega a asesoría: la tecnología integrada reduce errores en la transferencia de documentos entre agentes y procesadores."
-        },
-        {
-          "heading": "La amenaza al independiente",
-          "body": "Las hipotecarias independientes enfrentan presión. Las redes integradas ofrecen experiencias de compra de vivienda completas y sin fricciones a los consumidores."
-        },
-        {
-          "heading": "Expansión de plataformas",
-          "body": "Al absorber un proveedor de tecnología usado por cientos de instituciones, PLACE demuestra su seria intención de expandir sus capacidades operativas de préstamos."
-        }
-      ],
-      "my_take_heading": "La integración vertical es clave",
-      "my_take": "Los asesores de préstamos independientes que creen poder sobrevivir solo con carisma, mientras las plataformas inmobiliarias construyen ecosistemas cerrados, están librando una batalla perdida.",
-      "action_lo": "Forma alianzas sólidas con corredurías independientes que estén desarrollando activamente sus propios ecosistemas tecnológicos internos.",
-      "action_realtor": "Evalúa si tu plataforma de correduría actual te ofrece el soporte tecnológico necesario para competir con los gigantes integrados.",
-      "cta_question": "¿Te preocupa que las redes inmobiliarias absorban las operaciones hipotecarias, o es solo parte del negocio?"
+      "my_take_heading": "Faster DSCR pre-checks only work if cash flow documentation holds up",
+      "my_take": "Automating rental calculation speeds up turn times, but Non-QM investor loans live or die on real cash flow verification, not fast document reading.",
+      "action_lo": "Use pre-underwriting tools to verify DSCR ratios before issuing investor pre-approval letters.",
+      "action_realtor": "Collect active lease agreements and deposit proof early when representing real estate investors.",
+      "cta_question": "Will automated DSCR pre-underwriting increase Non-QM volume or create pipeline risk?"
     }
   ]
 }
