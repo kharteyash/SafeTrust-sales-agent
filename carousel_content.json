@@ -168,5 +168,175 @@
       "action_realtor": "Collect active lease agreements and deposit proof early when representing real estate investors.",
       "cta_question": "Will automated DSCR pre-underwriting increase Non-QM volume or create pipeline risk?"
     }
+  ],
+  "carousels_es": [
+    {
+      "slug": "compass-mls-recruiting-data",
+      "title": "Compass exige a los MLS que bloqueen herramientas de reclutamiento de datos de agentes",
+      "source": "HousingWire",
+      "source_url": "https://www.housingwire.com/articles/compass-mls-recruiting-data/",
+      "cover_text": "Compass exige bloquear datos de reclutamiento",
+      "caption": "Compass ha puesto un alto sobre cómo se usan los datos de listados del MLS. La agencia envió una carta a varios MLS, exigiendo bloquear de inmediato el acceso a herramientas de proveedores que no sean IDX ni VOW, usadas a menudo para reclutar agentes. Dieron un plazo de 30 días. Por años, plataformas de terceros han usado estos datos para rastrear el rendimiento de los agentes y captar a los mejores. Pero usar registros de ventas de viviendas para \"cazar\" talentos es un límite que las grandes agencias no van a cruzar para proteger a su personal. Cuando los datos del MLS se usan para reclutamiento corporativo, cambia todo el propósito de las plataformas de cooperación. Los ejecutivos de bienes raíces deben revisar a fondo sus acuerdos con los proveedores ahora mismo.\n\nFuente : https://tinyurl.com/28telnrh\n#SafetrustMortgage #MortgageIntelligenceDaily #realestateagent #mortgagebroker #loanofficer",
+      "hashtags": [
+        "#SafetrustMortgage",
+        "#MortgageIntelligenceDaily",
+        "#realestateagent",
+        "#mortgagebroker",
+        "#loanofficer"
+      ],
+      "hook_tag": "Batalla de Datos de Agencias",
+      "hook": "Están usando los datos de tu MLS en contra de tu agencia?",
+      "what_happened_heading": "Compass exige fecha límite para bloquear datos del MLS",
+      "what_happened": "Compass envió una carta pidiendo a los MLS que bloqueen los datos de listados de proveedores que no sean IDX ni VOW. La agencia dio 30 días para restringir el acceso a herramientas de reclutamiento.",
+      "breakdown": [
+        {
+          "heading": "Datos de listados se volvieron herramientas de \"caza\"",
+          "body": "Empresas externas usan los datos del MLS, creados para vender casas, para rastrear el rendimiento de agentes y hacerles ofertas de reclutamiento."
+        },
+        {
+          "heading": "La batalla por el acceso de proveedores",
+          "body": "Compass apunta a los datos fuera de las reglas IDX (Intercambio de Datos de Internet) y VOW (Sitio Web de Oficina Virtual), donde la información de agentes fluye sin control."
+        },
+        {
+          "heading": "La visión del asesor sobre datos de agentes",
+          "body": "Para los asesores hipotecarios, los datos de producción verificados demuestran la capacidad de un originador. Las agencias ven estas métricas como activos propios que deben defender de la competencia."
+        },
+        {
+          "heading": "Gobierno del MLS bajo presión directa",
+          "body": "Dar un plazo de 30 días obliga a los MLS a elegir entre monetizar datos con proveedores o proteger la privacidad de las agencias."
+        }
+      ],
+      "my_take_heading": "Los datos del MLS son para vender casas, no para 'cazar' talentos",
+      "my_take": "Los datos del MLS fueron creados para promocionar propiedades, no para reclutar personal. Si las agencias pierden control de sus datos de producción, ser miembro del MLS pierde su valor principal.",
+      "action_lo": "Revisa dónde se comparten tus datos de producción con proveedores para proteger la privacidad del cliente.",
+      "action_realtor": "Pregunta a tu junta local del MLS cómo se monitorean y restringen hoy los datos de los proveedores.",
+      "cta_question": "Deberían los MLS prohibir que software de terceros use datos de listados para reclutar agentes?"
+    },
+    {
+      "slug": "builder-discounts-market-pricing",
+      "title": "Descuentos de constructores se extienden por todos los mercados principales",
+      "source": "HousingWire",
+      "source_url": "https://www.housingwire.com/articles/builder-marketing-2027-planning/",
+      "cover_text": "Todo mercado analizado vendió debajo del precio inicial",
+      "caption": "Nuevos datos muestran que los constructores están ofreciendo descuentos en el 100% de los mercados analizados. Un estudio de Audience Town, con 201,000 ventas en 25 áreas metropolitanas principales, reveló que cada mercado vendió por debajo del precio inicial. Para mover el inventario sin dañar los valores públicos, los constructores usan mucho las concesiones del vendedor, créditos de financiamiento y reducciones de tasas. Pero disfrazar las caídas reales de precios con ajustes de financiamiento crea problemas contables a futuro. Los asesores deben examinar las concesiones de los constructores para asegurar que los comparables reflejen el valor real del mercado, no precios subsidiados en papel. Los profesionales de la industria deben mirar más allá del precio de etiqueta para ver los términos reales de la transacción.\n\nFuente : https://tinyurl.com/2awy5rt3\n#SafetrustMortgage #MortgageIntelligenceDaily #housingmarket #firsttimehomebuyer #homebuying",
+      "hashtags": [
+        "#SafetrustMortgage",
+        "#MortgageIntelligenceDaily",
+        "#housingmarket",
+        "#firsttimehomebuyer",
+        "#homebuying"
+      ],
+      "hook_tag": "Concesiones de Constructores Reveladas",
+      "hook": "Están ocultando los descuentos de constructores la caída real de valores?",
+      "what_happened_heading": "Estudio revela reducciones de precios generalizadas de constructores",
+      "what_happened": "Audience Town analizó 201,000 ventas en 25 mercados y encontró que todos vendieron por debajo del precio inicial. Los constructores usan muchos descuentos para cerrar ventas.",
+      "breakdown": [
+        {
+          "heading": "Ajustes de precios universales en mercados",
+          "body": "En 25 regiones analizadas, ningún mercado mantuvo el precio inicial completo en contratos de casas nuevas."
+        },
+        {
+          "heading": "Incentivos enmascaran valoraciones reales",
+          "body": "Los constructores prefieren créditos para gastos de cierre y reducciones de tasa en lugar de bajar el precio de etiqueta para proteger el valor de las propiedades cercanas."
+        },
+        {
+          "heading": "La visión del asesor sobre comparables de constructores",
+          "body": "Cuando un asesor revisa comparables, las concesiones del constructor (costos de financiamiento pagados por el vendedor) deben ajustarse línea por línea para evitar sobrevalorar las propiedades."
+        },
+        {
+          "heading": "Presupuestos de marketing se centran en el comprador",
+          "body": "La estrategia de marketing de los constructores para 2027 se enfoca en subsidios de financiamiento, no en mejoras o características estándar."
+        }
+      ],
+      "my_take_heading": "Las concesiones ocultan hoy correcciones reales de precios de viviendas",
+      "my_take": "Descontar en cada mercado demuestra que el poder de fijación de precios ha cambiado. Las concesiones de financiamiento son simplemente recortes de precios escondidos detrás del papeleo hipotecario.",
+      "action_lo": "Revisa los límites de concesiones del constructor en las guías de Fannie Mae y FHA antes de estructurar ofertas de compra.",
+      "action_realtor": "Negocia reducciones de tasas o créditos por tarifas en lugar de pedir pequeñas reducciones en el precio de compra.",
+      "cta_question": "Están las reducciones de tasas de los constructores ayudando a los compradores, o solo demorando caídas de precios más realistas?"
+    },
+    {
+      "slug": "assurance-medpro-specialty-mortgage",
+      "title": "Assurance lanza financiamiento del 100% para profesionales médicos",
+      "source": "National Mortgage Professional",
+      "source_url": "https://nationalmortgageprofessional.com/news/assurance-joins-growing-push-medical-professional-borrowers",
+      "cover_text": "Assurance ofrece 0% de enganche a médicos",
+      "caption": "Los prestamistas hipotecarios están compitiendo agresivamente por los trabajadores de la salud. Assurance Financial lanzó MedPro Mortgage+, dando a los profesionales médicos acceso a un financiamiento del 100% sin PMI (seguro hipotecario privado). Estos productos especiales están dirigidos a médicos al inicio de su carrera con grandes deudas estudiantiles y pocas reservas de efectivo, pero con fuertes perspectivas de ingresos futuros. Evaluar estos casos requiere ir más allá de las reglas rígidas de DTI (relación deuda-ingresos) para aceptar contratos de empleo verificados y un tratamiento especializado de la deuda. Si bien el alto potencial de ingresos los hace atractivos, el financiamiento sin enganche siempre conlleva riesgos cuando los valores del mercado se ajustan.\n\nFuente : https://tinyurl.com/2cktwoh5\n#SafetrustMortgage #MortgageIntelligenceDaily #mortgagebroker #loanofficer #homebuying",
+      "hashtags": [
+        "#SafetrustMortgage",
+        "#MortgageIntelligenceDaily",
+        "#mortgagebroker",
+        "#loanofficer",
+        "#homebuying"
+      ],
+      "hook_tag": "Expansión de Préstamos para Médicos",
+      "hook": "Podrán los préstamos para médicos sin enganche superar las altas tasas de interés?",
+      "what_happened_heading": "Assurance Financial presenta programa MedPro Mortgage Plus",
+      "what_happened": "Assurance Financial lanzó MedPro Mortgage+, ofreciendo a trabajadores de la salud elegibles hasta 100% de financiamiento sin seguro hipotecario privado. El programa apunta a médicos con mucha deuda estudiantil, pero con gran potencial de ingresos futuros.",
+      "breakdown": [
+        {
+          "heading": "Cero enganche elimina barreras de efectivo",
+          "body": "Los profesionales de la salud pueden financiar el 100% del precio de compra sin pagar PMI (seguro hipotecario privado), que protege a los prestamistas contra incumplimiento."
+        },
+        {
+          "heading": "Dirigido a prestatarios con alta deuda/ingresos",
+          "body": "Los médicos jóvenes tienen préstamos estudiantiles masivos, lo que requiere guías de crédito especiales que acomoden baja liquidez actual con altas trayectorias de ingresos."
+        },
+        {
+          "heading": "La mirada del asesor a la deuda médica",
+          "body": "Los asesores evalúan contratos de empleo futuros y préstamos estudiantiles diferidos de forma diferente, basándose en proyecciones de ingresos garantizados en lugar de declaraciones de impuestos históricas tradicionales."
+        },
+        {
+          "heading": "Competencia creciente por nichos especializados",
+          "body": "Los prestamistas son agresivos con programas de nicho para asegurar clientes de alto valor temprano, apostando que las relaciones bancarias a largo plazo compensan el riesgo inicial."
+        }
+      ],
+      "my_take_heading": "Altos ingresos futuros no eliminan el riesgo de liquidez inmediata",
+      "my_take": "Apostar por un alto potencial de ingresos médicos es inteligente, pero un financiamiento sin enganche en un mercado cambiante no deja margen si los valores de las propiedades fluctúan.",
+      "action_lo": "Promociona programas especiales para médicos a programas de residencia locales y administradores de personal hospitalario.",
+      "action_realtor": "Asóciate con reclutadores médicos para conectar con médicos recién llegados a hospitales que necesiten opciones sin enganche.",
+      "cta_question": "Son los préstamos para médicos con 100% de financiamiento una estrategia de crecimiento segura en el mercado actual?"
+    },
+    {
+      "slug": "friday-harbor-dscr-underwriting-platform",
+      "title": "Friday Harbor expande plataforma de IA para préstamos de inversionistas DSCR",
+      "source": "National Mortgage Professional",
+      "source_url": "https://nationalmortgageprofessional.com/news/friday-harbor-takes-aim-dscrs-underwriting-bottleneck",
+      "cover_text": "Friday Harbor resuelve cuellos de botella DSCR",
+      "caption": "Los préstamos para inversionistas Non-QM acaban de recibir una actualización tecnológica. Friday Harbor expandió su software de pre-evaluación a préstamos para inversionistas, enfocándose en archivos DSCR (relación de cobertura de servicio de deuda). La plataforma revisa automáticamente documentos de alquiler, cronogramas de alquiler basados en valuaciones y cálculos de flujo de efectivo para eliminar demoras en la aprobación. Para los originadores, calcular el DSCR de forma precisa desde el principio evita archivos muertos más adelante. Sin embargo, los sistemas automatizados pueden pasar por alto cláusulas sutiles de arrendamiento o historiales de cobro de alquileres irregulares que los asesores experimentados detectan de inmediato. La tecnología acelera el procesamiento, pero una revisión humana exhaustiva sigue siendo esencial para la calidad crediticia del inversionista.\n\nFuente : https://tinyurl.com/243mzl43\n#SafetrustMortgage #MortgageIntelligenceDaily #realestateinvesting #mortgagebroker #loanofficer",
+      "hashtags": [
+        "#SafetrustMortgage",
+        "#MortgageIntelligenceDaily",
+        "#realestateinvesting",
+        "#mortgagebroker",
+        "#loanofficer"
+      ],
+      "hook_tag": "Tecnología para Inversionistas Automatizada",
+      "hook": "Puede la pre-evaluación automatizada arreglar el cuello de botella en préstamos de inversionistas?",
+      "what_happened_heading": "Friday Harbor expande tecnología a pre-evaluación DSCR",
+      "what_happened": "Friday Harbor expandió su plataforma de pre-evaluación para manejar préstamos de inversionistas, específicamente hipotecas con relación de cobertura de servicio de deuda. El sistema audita automáticamente acuerdos de arrendamiento, programas de alquiler y métricas de flujo de efectivo de propiedades.",
+      "breakdown": [
+        {
+          "heading": "Automatización dirigida a préstamos de inversionistas",
+          "body": "La plataforma se enfoca en cálculos DSCR (relación de cobertura de servicio de deuda: ingresos de alquiler divididos por deuda hipotecaria mensual) para acelerar las aprobaciones Non-QM."
+        },
+        {
+          "heading": "Auditoría automatizada de documentos y alquileres",
+          "body": "La tecnología analiza documentos de arrendamiento y formularios de alquiler (Form 1007), señalando discrepancias de flujo de efectivo antes de que lleguen al personal de asesoría."
+        },
+        {
+          "heading": "Lo que detecta el asesor que la IA omite",
+          "body": "Los asesores revisan el historial real de depósitos bancarios y los términos del arrendamiento para detectar alquileres fantasmas o variaciones en alquileres a corto plazo que los sistemas automatizados pasan por alto."
+        },
+        {
+          "heading": "Eliminando fricción técnica para el originador",
+          "body": "Subir las complejas reglas de calificación de inversionistas permite a los originadores estructurar acuerdos Non-QM con precisión sin esperar días por revisiones manuales."
+        }
+      ],
+      "my_take_heading": "Pre-chequeos DSCR más rápidos solo funcionan si la documentación de flujo de efectivo es sólida",
+      "my_take": "Automatizar el cálculo de alquileres acelera los tiempos, pero los préstamos para inversionistas Non-QM dependen de la verificación real del flujo de efectivo, no de una lectura rápida de documentos.",
+      "action_lo": "Usa herramientas de pre-evaluación para verificar las relaciones DSCR antes de emitir cartas de pre-aprobación para inversionistas.",
+      "action_realtor": "Recopila acuerdos de arrendamiento activos y pruebas de depósito temprano al representar a inversionistas inmobiliarios.",
+      "cta_question": "Aumentará la pre-evaluación automatizada de DSCR el volumen de Non-QM o creará riesgo en la cartera?"
+    }
   ]
 }
