@@ -1,342 +1,172 @@
 {
   "carousels": [
     {
-      "slug": "compass-mls-recruiting-data",
-      "title": "Compass demands MLSs block recruiting tools from agent data",
-      "source": "HousingWire",
-      "source_url": "https://www.housingwire.com/articles/compass-mls-recruiting-data/",
-      "cover_text": "Compass demands MLSs block recruiting data tools",
-      "caption": "Compass is drawing a line in the sand over how MLS listing data gets used. In a letter to multiple MLSs, the brokerage demanded an immediate opt-out blocking listing feeds from non-IDX and VOW vendor tools often used for agent recruitment, setting a tight 30-day window. For years, third-party tech platforms have leveraged listing feeds to track production metrics and target high-performing agents. But treating home sales records as headhunting intel crosses a line for major brokerages protecting talent. When MLS data gets repurposed for corporate recruiting, it changes the entire purpose of public cooperative feeds. Real estate executives need to look closely at their vendor data agreements right now.\n\nSource : https://tinyurl.com/28telnrh\n#SafetrustMortgage #MortgageIntelligenceDaily #realestateagent #mortgagebroker #loanofficer",
+      "slug": "homeowners-insurance-coverage-gap",
+      "title": "Many homeowners have a big insurance coverage gap",
+      "source": "CNBC",
+      "source_url": "https://www.cnbc.com/2026/09/26/homeowners-insurance-coverage-gap.html",
+      "cover_text": "The hidden insurance gap destroying home equity",
+      "caption": "Most homeowners are walking around with a massive financial blind spot and they do not even know it. Experts warn that a widespread coverage gap is leaving properties severely underinsured against modern replacement costs. In my decade underwriting loans, I watched too many borrowers scramble when disaster struck and their policy payout fell short. This is not just a consumer problem; it impacts collateral risk and DTI calculations when claims happen. Read on to see how this affects your pipeline and what you need to check on your current files today.\n\nSource : https://tinyurl.com/27m74pgq\n#SafetrustMortgage #MortgageIntelligenceDaily #homebuying #housingmarket #mortgagerates",
       "hashtags": [
         "#SafetrustMortgage",
         "#MortgageIntelligenceDaily",
-        "#realestateagent",
-        "#mortgagebroker",
-        "#loanofficer"
+        "#homebuying",
+        "#housingmarket",
+        "#mortgagerates"
       ],
-      "hook_tag": "Brokerage Data Battle",
-      "hook": "Is your MLS listing data being weaponized against your brokerage?",
-      "what_happened_heading": "Compass demands MLS data feed opt-out deadline",
-      "what_happened": "Compass sent a letter requesting MLSs block listing data from non-IDX and VOW vendor feeds. The brokerage gave systems a 30-day deadline to restrict access for recruiting tools.",
+      "hook_tag": "Risk Management",
+      "hook": "Your borrowers think they have full coverage, but they are walking into a trap.",
+      "what_happened_heading": "The silent coverage crisis",
+      "what_happened": "Experts report that many consumers have a dangerous gap in their homeowners insurance coverage. This puts them at severe financial risk while leaving them completely unaware.",
       "breakdown": [
         {
-          "heading": "Listing data became headhunting tools",
-          "body": "MLS feeds designed for property marketing are being harvested by third-party software to track agent production and pitch recruiting offers."
+          "heading": "Replacement costs surged",
+          "body": "Construction materials and labor costs skyrocketed over recent years, meaning old policy limits will no longer pay to rebuild the same house."
         },
         {
-          "heading": "The battle over vendor access",
-          "body": "Compass targets feeds outside IDX (Internet Data Exchange) and VOW (Virtual Office Website) rules, where agent performance data flows unchecked."
+          "heading": "Underwriting collateral blind spots",
+          "body": "Here is what this actually changes when a file hits underwriting: we verify the face value of the hazard policy matches loan amounts, not actual build costs."
         },
         {
-          "heading": "The underwriting perspective on agent data",
-          "body": "In underwriting, verified production data proves loan officer capacity; similarly, brokerages view production metrics as proprietary assets worth defending from competitors."
+          "heading": "Escrow shock down the road",
+          "body": "When homeowners realize they are underinsured and rush to fix it, their annual premiums spike, causing massive payment shock and escrow shortages."
         },
         {
-          "heading": "MLS governance faces direct pressure",
-          "body": "Giving MLSs a strict 30-day deadline forces associations to choose between vendor monetization and brokerage privacy protections."
+          "heading": "The silent default trigger",
+          "body": "An uninsured loss does not just destroy the property value; it forces the borrower into personal default while still owing the full mortgage balance."
         }
       ],
-      "my_take_heading": "MLS data was built to sell homes, not poach top producers",
-      "my_take": "MLS feeds were designed to market properties, not feed corporate headhunters. If brokerages lose control of production data, MLS membership loses core value.",
-      "action_lo": "Audit where your production data is shared across vendor tools to protect client privacy.",
-      "action_realtor": "Ask your local MLS board how vendor feeds are monitored and restricted today.",
-      "cta_question": "Should MLSs ban third-party software from using listing data for agent recruitment?"
+      "my_take_heading": "An underinsured asset is a ticking time bomb",
+      "my_take": "If your borrowers are only insuring their home for the purchase price instead of the true rebuild cost, their entire financial foundation is built on sand.",
+      "action_lo": "Review hazard insurance declarations pages on active files to confirm dwelling coverage reflects current local construction costs.",
+      "action_realtor": "Advise buyers to consult an insurance agent for a replacement cost estimate before removing inspection contingencies.",
+      "cta_question": "Are you checking rebuild costs or just minimum lender requirements on insurance binders?"
     },
     {
-      "slug": "builder-discounts-market-pricing",
-      "title": "Builder discounts spread across all major housing markets",
-      "source": "HousingWire",
-      "source_url": "https://www.housingwire.com/articles/builder-marketing-2027-planning/",
-      "cover_text": "Every market analyzed sold below original asking price",
-      "caption": "New data shows builders are discounting homes in 100% of markets analyzed. A study of 201,000 sales across 25 major metro areas by Audience Town revealed that every single market sold below asking price. To keep inventory moving without tanking public comps, builders rely heavily on seller concessions, financing credits, and mortgage rate buydowns. But masking real price drops through financing adjustments creates accounting headaches down the road. Underwriters must carefully scrutinize builder incentives to ensure appraiser comparables reflect true market value rather than subsidized paper prices. Industry professionals must look past sticker prices to see real transaction terms.\n\nSource : https://tinyurl.com/2awy5rt3\n#SafetrustMortgage #MortgageIntelligenceDaily #housingmarket #firsttimehomebuyer #homebuying",
+      "slug": "homeowners-insurance-coverage-gap-2",
+      "title": "Many homeowners have a big insurance coverage gap",
+      "source": "CNBC",
+      "source_url": "https://www.cnbc.com/2026/09/26/homeowners-insurance-coverage-gap.html",
+      "cover_text": "Why your clients are severely underinsured right now",
+      "caption": "Insurance is no longer just a closing checklist item; it is the single biggest threat to portfolio health. As coverage gaps widen across the country, lenders and agents need to change how they talk about hazard policies. I spent years clearing conditions where the insurance policy barely met the bare minimum. That old approach is failing borrowers as rebuilding expenses outpace historical estimates. Let us break down why standard policies are falling short and how you can protect your deals from collapsing.\n\nSource : https://tinyurl.com/27m74pgq\n#SafetrustMortgage #MortgageIntelligenceDaily #homebuying #realestateagent #mortgagebroker",
+      "hashtags": [
+        "#SafetrustMortgage",
+        "#MortgageIntelligenceDaily",
+        "#homebuying",
+        "#realestateagent",
+        "#mortgagebroker"
+      ],
+      "hook_tag": "Policy Warning",
+      "hook": "The standard homeowners insurance policy is no longer enough to protect your buyers.",
+      "what_happened_heading": "A widespread protection failure",
+      "what_happened": "Recent industry findings reveal a massive coverage gap leaving standard homeowners exposed. Experts note that most consumers remain totally oblivious to their lack of adequate protection.",
+      "breakdown": [
+        {
+          "heading": "Outdated policy limits",
+          "body": "Many policies were set years ago and have not scaled with rapid inflation in home improvement and labor expenses."
+        },
+        {
+          "heading": "The underwriting reality check",
+          "body": "Here is what this actually changes when a file hits underwriting: we check that the mortgage is covered, but we do not audit if the house can actually be rebuilt."
+        },
+        {
+          "heading": "Secondary market exposure",
+          "body": "When a disaster hits an underinsured property, the collateral backing the mortgage loses value instantly, creating systemic risk for investors."
+        },
+        {
+          "heading": "The annual premium crunch",
+          "body": "Catching these gaps too late leads to sudden policy upgrades that disrupt monthly debt-to-income ratios right before closing."
+        }
+      ],
+      "my_take_heading": "We are underwriting ghost coverage",
+      "my_take": "Checking the box on a hazard insurance binder is no longer enough to protect the lender or the borrower.",
+      "action_lo": "Ask your insurance partners to review existing client portfolios for inflation-guard endorsement gaps.",
+      "action_realtor": "Educate your buyers to look beyond the basic lender minimums when securing property coverage.",
+      "cta_question": "How are you helping clients navigate rising insurance costs without killing deals?"
+    },
+    {
+      "slug": "homeowners-insurance-coverage-gap-3",
+      "title": "Many homeowners have a big insurance coverage gap",
+      "source": "CNBC",
+      "source_url": "https://www.cnbc.com/2026/09/26/homeowners-insurance-coverage-gap.html",
+      "cover_text": "The hidden flaw in your home insurance policy",
+      "caption": "Most people think buying a home and getting insurance means they are safe. They are wrong. A major coverage gap is leaving everyday homeowners vulnerable to devastating financial losses. Having spent a decade underwriting files, I know how easily a policy looks good on paper while failing in reality. If you are originating loans or selling homes, ignoring this insurance crisis is professional malpractice. Here is the breakdown of why this gap exists and how to address it.\n\nSource : https://tinyurl.com/27m74pgq\n#SafetrustMortgage #MortgageIntelligenceDaily #housingmarket #firsttimehomebuyer #realestateinvesting",
       "hashtags": [
         "#SafetrustMortgage",
         "#MortgageIntelligenceDaily",
         "#housingmarket",
         "#firsttimehomebuyer",
-        "#homebuying"
+        "#realestateinvesting"
       ],
-      "hook_tag": "Builder Concessions Revealed",
-      "hook": "Are builder discounts hiding the real drop in home values?",
-      "what_happened_heading": "Builder sales study reveals widespread price reductions",
-      "what_happened": "Audience Town analyzed 201,000 sales across 25 housing markets and found every single market sold below asking price. Builders are relying heavily on discounts and incentives to keep prospective buyers closing deals.",
+      "hook_tag": "Market Reality",
+      "hook": "Most homeowners have a massive coverage gap and do not even realize it.",
+      "what_happened_heading": "The hidden consumer vulnerability",
+      "what_happened": "New reports highlight a pervasive gap in homeowners insurance coverage across the market. Experts confirm this leaves everyday buyers exposed to major financial risk without their knowledge.",
       "breakdown": [
         {
-          "heading": "Universal price adjustments across markets",
-          "body": "Across 25 analyzed regions, not a single market maintained full asking price on new home contracts."
+          "heading": "The inflation mismatch",
+          "body": "Building costs have outpaced standard policy riders, leaving a wide gulf between market value and actual replacement cost."
         },
         {
-          "heading": "Incentives mask true asset valuations",
-          "body": "Builders prefer closing cost credits and rate buydowns over listed sticker price drops to protect neighborhood appraisal baselines."
+          "heading": "Underwriting through rose glasses",
+          "body": "Here is what this actually changes when a file hits underwriting: we accept minimum required coverage limits that have zero relation to local construction realities."
         },
         {
-          "heading": "The underwriter view on builder comps",
-          "body": "When an underwriter reviews comps (comparable sales), builder concessions (seller-paid financing costs) must be adjusted line-by-line to prevent overvaluing property appraisals."
+          "heading": "Escrow account volatility",
+          "body": "When policies are finally updated to close the gap, escrow shortages trigger unexpected payment hikes that shock homeowners."
         },
         {
-          "heading": "Marketing budgets pivot to buyer survival",
-          "body": "Builder marketing strategy for 2027 planning now centers on financing subsidies rather than standard upgrades or features."
+          "heading": "Total financial exposure",
+          "body": "A partial payout after a loss means the homeowner must pay out of pocket to rebuild while still carrying a mortgage."
         }
       ],
-      "my_take_heading": "Concessions are masking real home price corrections today",
-      "my_take": "Discounting every market proves pricing power has shifted. Financing concessions are simply price cuts hiding behind mortgage paperwork.",
-      "action_lo": "Review builder concession limits on Fannie Mae and FHA guidelines before structuring purchase offers.",
-      "action_realtor": "Negotiate for rate buydowns or fee credits instead of asking for minor purchase price reductions.",
-      "cta_question": "Are builder rate buydowns helping buyers, or just delaying realistic price drops?"
+      "my_take_heading": "Insurance minimums are a false sense of security",
+      "my_take": "Meeting the lender's minimum insurance requirement is the bare minimum for failure if a major loss occurs.",
+      "action_lo": "Proactively reach out to past clients to recommend annual policy reviews with their insurance carriers.",
+      "action_realtor": "Add an insurance coverage review step to your standard buyer closing checklist.",
+      "cta_question": "What is your protocol for verifying that a buyer's insurance policy covers actual replacement costs?"
     },
     {
-      "slug": "assurance-medpro-specialty-mortgage",
-      "title": "Assurance launches 100 percent financing for medical professionals",
-      "source": "National Mortgage Professional",
-      "source_url": "https://nationalmortgageprofessional.com/news/assurance-joins-growing-push-medical-professional-borrowers",
-      "cover_text": "Assurance offers zero down payment for medical professionals",
-      "caption": "Mortgage lenders are competing aggressively for healthcare workers. Assurance Financial launched MedPro Mortgage+, giving medical professionals access to 100% financing without PMI (private mortgage insurance). These specialty products target early-career doctors who face heavy student loan burdens and limited cash reserves, but possess strong future income prospects. Underwriting these files requires looking beyond rigid DTI (debt-to-income ratio) rules to accept verified employment contracts and specialized debt treatment. While high earning potential makes these borrowers attractive, zero-down financing always carries risk when market values adjust.\n\nSource : https://tinyurl.com/2cktwoh5\n#SafetrustMortgage #MortgageIntelligenceDaily #mortgagebroker #loanofficer #homebuying",
+      "slug": "homeowners-insurance-coverage-gap-4",
+      "title": "Many homeowners have a big insurance coverage gap",
+      "source": "CNBC",
+      "source_url": "https://www.cnbc.com/2026/09/26/homeowners-insurance-coverage-gap.html",
+      "cover_text": "Why your home insurance policy might be failing you",
+      "caption": "The biggest risk to a homeowner today is not the interest rate; it is a policy that fails to pay out when it counts. A widespread insurance coverage gap is trapping buyers in underinsured properties. In my underwriting days, we worried about credit and income, but hazard insurance was treated as an afterthought. That luxury no longer exists in today's high-cost construction environment. Swipe through to understand how this gap forms and how to protect your transactions.\n\nSource : https://tinyurl.com/27m74pgq\n#SafetrustMortgage #MortgageIntelligenceDaily #mortgagerates #homebuying #realestateagent",
       "hashtags": [
         "#SafetrustMortgage",
         "#MortgageIntelligenceDaily",
-        "#mortgagebroker",
-        "#loanofficer",
-        "#homebuying"
+        "#mortgagerates",
+        "#homebuying",
+        "#realestateagent"
       ],
-      "hook_tag": "Physician Loan Expansion",
-      "hook": "Can zero-down medical loans overcome rising interest rate pressures?",
-      "what_happened_heading": "Assurance Financial unveils MedPro Mortgage Plus program",
-      "what_happened": "Assurance Financial introduced MedPro Mortgage+, offering eligible healthcare workers up to 100% financing with zero private mortgage insurance. The program aims at doctors with high student debt but strong future earning potential.",
+      "hook_tag": "Equity Protection",
+      "hook": "Your home purchase is fully insured, right? Think again.",
+      "what_happened_heading": "The alarming protection shortfall",
+      "what_happened": "Industry experts reveal that a significant number of consumers carry a major gap in their homeowners insurance. This blind spot leaves property owners exposed to immense financial danger.",
       "breakdown": [
         {
-          "heading": "Zero down payment eliminates cash barriers",
-          "body": "Healthcare professionals can finance 100% of the purchase price without paying PMI (private mortgage insurance - coverage protecting lenders against default)."
+          "heading": "Rebuild costs outpace policies",
+          "body": "The cost to frame, wire, and roof a home has surged past what older insurance policy limits were designed to cover."
         },
         {
-          "heading": "Targeting high debt to income borrowers",
-          "body": "Early-career doctors carry massive student loans, requiring specialized credit guidelines that accommodate low current liquidity alongside high income trajectories."
+          "heading": "The underwriter blind spot",
+          "body": "Here is what this actually changes when a file hits underwriting: we approve policies based on loan balance formulas, ignoring true local replacement data."
         },
         {
-          "heading": "The underwriter lens on medical debt",
-          "body": "Underwriters evaluate future employment contracts and deferred student loans differently, relying on guaranteed income projections rather than traditional historical tax returns."
+          "heading": "The downstream default risk",
+          "body": "An underinsured loss leaves the borrower unable to repair their home, dramatically increasing the likelihood of strategic default."
         },
         {
-          "heading": "Expanding competition for specialized niches",
-          "body": "Lenders are aggressive on niche programs to secure high-net-worth clients early, betting long-term banking relationships offset initial risk."
+          "heading": "Surprise cost adjustments",
+          "body": "Borrowers scrambling to fix coverage gaps late in the game often face unexpected premium hikes that strain their monthly budget."
         }
       ],
-      "my_take_heading": "High future earnings don't eliminate immediate liquidity risk",
-      "my_take": "Betting on high medical income potential is smart, but zero down payment in a shifting market leaves zero cushion if property values fluctuate.",
-      "action_lo": "Market specialty doctor programs to local residency programs and hospital staff administrators.",
-      "action_realtor": "Partner with medical recruiters to connect with incoming hospital physicians needing zero-down options.",
-      "cta_question": "Are 100% financing physician loans a safe growth strategy in today's market?"
-    },
-    {
-      "slug": "friday-harbor-dscr-underwriting-platform",
-      "title": "Friday Harbor expands AI platform to DSCR investor loans",
-      "source": "National Mortgage Professional",
-      "source_url": "https://nationalmortgageprofessional.com/news/friday-harbor-takes-aim-dscrs-underwriting-bottleneck",
-      "cover_text": "Friday Harbor tackles investor DSCR underwriting bottlenecks",
-      "caption": "Non-QM investor lending just got a tech upgrade. Friday Harbor expanded its pre-underwriting software to investor loans, targeting DSCR (debt-service coverage ratio) files. The platform automatically reviews lease documents, appraisal-based rent schedules, and cash flow calculations to remove approval delays. For loan officers, calculating DSCR accurately upfront prevents dead files later in the pipeline. However, automated systems can miss subtle lease clauses or spotty rent collection history that experienced underwriters catch immediately. Tech speeds up processing, but thorough human review remains essential for investor credit quality.\n\nSource : https://tinyurl.com/243mzl43\n#SafetrustMortgage #MortgageIntelligenceDaily #realestateinvesting #mortgagebroker #loanofficer",
-      "hashtags": [
-        "#SafetrustMortgage",
-        "#MortgageIntelligenceDaily",
-        "#realestateinvesting",
-        "#mortgagebroker",
-        "#loanofficer"
-      ],
-      "hook_tag": "Investor Tech Automated",
-      "hook": "Can automated pre-underwriting fix the bottleneck in investor loans?",
-      "what_happened_heading": "Friday Harbor expands tech to DSCR pre-underwriting",
-      "what_happened": "Friday Harbor expanded its pre-underwriting platform to handle investor loans, specifically debt-service coverage ratio mortgages. The system automatically audits lease agreements, appraisal rent schedules, and property cash flow metrics.",
-      "breakdown": [
-        {
-          "heading": "Targeted automation for investor loans",
-          "body": "The platform focuses on DSCR (debt-service coverage ratio - property rental income divided by monthly mortgage debt) calculations to speed up Non-QM approval pipelines."
-        },
-        {
-          "heading": "Automated document and rent auditing",
-          "body": "Technology analyzes lease paperwork and appraisal Form 1007 rent schedules, flagging cash flow discrepancies before files reach underwriting staff."
-        },
-        {
-          "heading": "What underwriters spot that AI misses",
-          "body": "Underwriters review actual bank deposit history and lease terms to catch phantom leases or short-term rental variance that automated scrapers overlook."
-        },
-        {
-          "heading": "Removing loan officer technical friction",
-          "body": "Pushing complex investor qualification rules upstream allows loan officers to structure Non-QM deals accurately without waiting days for manual review."
-        }
-      ],
-      "my_take_heading": "Faster DSCR pre-checks only work if cash flow documentation holds up",
-      "my_take": "Automating rental calculation speeds up turn times, but Non-QM investor loans live or die on real cash flow verification, not fast document reading.",
-      "action_lo": "Use pre-underwriting tools to verify DSCR ratios before issuing investor pre-approval letters.",
-      "action_realtor": "Collect active lease agreements and deposit proof early when representing real estate investors.",
-      "cta_question": "Will automated DSCR pre-underwriting increase Non-QM volume or create pipeline risk?"
-    }
-  ],
-  "carousels_es": [
-    {
-      "slug": "compass-mls-recruiting-data",
-      "title": "Compass exige a los MLS que bloqueen herramientas de reclutamiento de datos de agentes",
-      "source": "HousingWire",
-      "source_url": "https://www.housingwire.com/articles/compass-mls-recruiting-data/",
-      "cover_text": "Compass exige bloquear datos de reclutamiento",
-      "caption": "Compass ha puesto un alto sobre cómo se usan los datos de listados del MLS. La agencia envió una carta a varios MLS, exigiendo bloquear de inmediato el acceso a herramientas de proveedores que no sean IDX ni VOW, usadas a menudo para reclutar agentes. Dieron un plazo de 30 días. Por años, plataformas de terceros han usado estos datos para rastrear el rendimiento de los agentes y captar a los mejores. Pero usar registros de ventas de viviendas para \"cazar\" talentos es un límite que las grandes agencias no van a cruzar para proteger a su personal. Cuando los datos del MLS se usan para reclutamiento corporativo, cambia todo el propósito de las plataformas de cooperación. Los ejecutivos de bienes raíces deben revisar a fondo sus acuerdos con los proveedores ahora mismo.\n\nFuente : https://tinyurl.com/28telnrh\n#SafetrustMortgage #MortgageIntelligenceDaily #realestateagent #mortgagebroker #loanofficer",
-      "hashtags": [
-        "#SafetrustMortgage",
-        "#MortgageIntelligenceDaily",
-        "#realestateagent",
-        "#mortgagebroker",
-        "#loanofficer"
-      ],
-      "hook_tag": "Batalla de Datos de Agencias",
-      "hook": "Están usando los datos de tu MLS en contra de tu agencia?",
-      "what_happened_heading": "Compass exige fecha límite para bloquear datos del MLS",
-      "what_happened": "Compass envió una carta pidiendo a los MLS que bloqueen los datos de listados de proveedores que no sean IDX ni VOW. La agencia dio 30 días para restringir el acceso a herramientas de reclutamiento.",
-      "breakdown": [
-        {
-          "heading": "Datos de listados se volvieron herramientas de \"caza\"",
-          "body": "Empresas externas usan los datos del MLS, creados para vender casas, para rastrear el rendimiento de agentes y hacerles ofertas de reclutamiento."
-        },
-        {
-          "heading": "La batalla por el acceso de proveedores",
-          "body": "Compass apunta a los datos fuera de las reglas IDX (Intercambio de Datos de Internet) y VOW (Sitio Web de Oficina Virtual), donde la información de agentes fluye sin control."
-        },
-        {
-          "heading": "La visión del asesor sobre datos de agentes",
-          "body": "Para los asesores hipotecarios, los datos de producción verificados demuestran la capacidad de un originador. Las agencias ven estas métricas como activos propios que deben defender de la competencia."
-        },
-        {
-          "heading": "Gobierno del MLS bajo presión directa",
-          "body": "Dar un plazo de 30 días obliga a los MLS a elegir entre monetizar datos con proveedores o proteger la privacidad de las agencias."
-        }
-      ],
-      "my_take_heading": "Los datos del MLS son para vender casas, no para 'cazar' talentos",
-      "my_take": "Los datos del MLS fueron creados para promocionar propiedades, no para reclutar personal. Si las agencias pierden control de sus datos de producción, ser miembro del MLS pierde su valor principal.",
-      "action_lo": "Revisa dónde se comparten tus datos de producción con proveedores para proteger la privacidad del cliente.",
-      "action_realtor": "Pregunta a tu junta local del MLS cómo se monitorean y restringen hoy los datos de los proveedores.",
-      "cta_question": "Deberían los MLS prohibir que software de terceros use datos de listados para reclutar agentes?"
-    },
-    {
-      "slug": "builder-discounts-market-pricing",
-      "title": "Descuentos de constructores se extienden por todos los mercados principales",
-      "source": "HousingWire",
-      "source_url": "https://www.housingwire.com/articles/builder-marketing-2027-planning/",
-      "cover_text": "Todo mercado analizado vendió debajo del precio inicial",
-      "caption": "Nuevos datos muestran que los constructores están ofreciendo descuentos en el 100% de los mercados analizados. Un estudio de Audience Town, con 201,000 ventas en 25 áreas metropolitanas principales, reveló que cada mercado vendió por debajo del precio inicial. Para mover el inventario sin dañar los valores públicos, los constructores usan mucho las concesiones del vendedor, créditos de financiamiento y reducciones de tasas. Pero disfrazar las caídas reales de precios con ajustes de financiamiento crea problemas contables a futuro. Los asesores deben examinar las concesiones de los constructores para asegurar que los comparables reflejen el valor real del mercado, no precios subsidiados en papel. Los profesionales de la industria deben mirar más allá del precio de etiqueta para ver los términos reales de la transacción.\n\nFuente : https://tinyurl.com/2awy5rt3\n#SafetrustMortgage #MortgageIntelligenceDaily #housingmarket #firsttimehomebuyer #homebuying",
-      "hashtags": [
-        "#SafetrustMortgage",
-        "#MortgageIntelligenceDaily",
-        "#housingmarket",
-        "#firsttimehomebuyer",
-        "#homebuying"
-      ],
-      "hook_tag": "Concesiones de Constructores Reveladas",
-      "hook": "Están ocultando los descuentos de constructores la caída real de valores?",
-      "what_happened_heading": "Estudio revela reducciones de precios generalizadas de constructores",
-      "what_happened": "Audience Town analizó 201,000 ventas en 25 mercados y encontró que todos vendieron por debajo del precio inicial. Los constructores usan muchos descuentos para cerrar ventas.",
-      "breakdown": [
-        {
-          "heading": "Ajustes de precios universales en mercados",
-          "body": "En 25 regiones analizadas, ningún mercado mantuvo el precio inicial completo en contratos de casas nuevas."
-        },
-        {
-          "heading": "Incentivos enmascaran valoraciones reales",
-          "body": "Los constructores prefieren créditos para gastos de cierre y reducciones de tasa en lugar de bajar el precio de etiqueta para proteger el valor de las propiedades cercanas."
-        },
-        {
-          "heading": "La visión del asesor sobre comparables de constructores",
-          "body": "Cuando un asesor revisa comparables, las concesiones del constructor (costos de financiamiento pagados por el vendedor) deben ajustarse línea por línea para evitar sobrevalorar las propiedades."
-        },
-        {
-          "heading": "Presupuestos de marketing se centran en el comprador",
-          "body": "La estrategia de marketing de los constructores para 2027 se enfoca en subsidios de financiamiento, no en mejoras o características estándar."
-        }
-      ],
-      "my_take_heading": "Las concesiones ocultan hoy correcciones reales de precios de viviendas",
-      "my_take": "Descontar en cada mercado demuestra que el poder de fijación de precios ha cambiado. Las concesiones de financiamiento son simplemente recortes de precios escondidos detrás del papeleo hipotecario.",
-      "action_lo": "Revisa los límites de concesiones del constructor en las guías de Fannie Mae y FHA antes de estructurar ofertas de compra.",
-      "action_realtor": "Negocia reducciones de tasas o créditos por tarifas en lugar de pedir pequeñas reducciones en el precio de compra.",
-      "cta_question": "Están las reducciones de tasas de los constructores ayudando a los compradores, o solo demorando caídas de precios más realistas?"
-    },
-    {
-      "slug": "assurance-medpro-specialty-mortgage",
-      "title": "Assurance lanza financiamiento del 100% para profesionales médicos",
-      "source": "National Mortgage Professional",
-      "source_url": "https://nationalmortgageprofessional.com/news/assurance-joins-growing-push-medical-professional-borrowers",
-      "cover_text": "Assurance ofrece 0% de enganche a médicos",
-      "caption": "Los prestamistas hipotecarios están compitiendo agresivamente por los trabajadores de la salud. Assurance Financial lanzó MedPro Mortgage+, dando a los profesionales médicos acceso a un financiamiento del 100% sin PMI (seguro hipotecario privado). Estos productos especiales están dirigidos a médicos al inicio de su carrera con grandes deudas estudiantiles y pocas reservas de efectivo, pero con fuertes perspectivas de ingresos futuros. Evaluar estos casos requiere ir más allá de las reglas rígidas de DTI (relación deuda-ingresos) para aceptar contratos de empleo verificados y un tratamiento especializado de la deuda. Si bien el alto potencial de ingresos los hace atractivos, el financiamiento sin enganche siempre conlleva riesgos cuando los valores del mercado se ajustan.\n\nFuente : https://tinyurl.com/2cktwoh5\n#SafetrustMortgage #MortgageIntelligenceDaily #mortgagebroker #loanofficer #homebuying",
-      "hashtags": [
-        "#SafetrustMortgage",
-        "#MortgageIntelligenceDaily",
-        "#mortgagebroker",
-        "#loanofficer",
-        "#homebuying"
-      ],
-      "hook_tag": "Expansión de Préstamos para Médicos",
-      "hook": "Podrán los préstamos para médicos sin enganche superar las altas tasas de interés?",
-      "what_happened_heading": "Assurance Financial presenta programa MedPro Mortgage Plus",
-      "what_happened": "Assurance Financial lanzó MedPro Mortgage+, ofreciendo a trabajadores de la salud elegibles hasta 100% de financiamiento sin seguro hipotecario privado. El programa apunta a médicos con mucha deuda estudiantil, pero con gran potencial de ingresos futuros.",
-      "breakdown": [
-        {
-          "heading": "Cero enganche elimina barreras de efectivo",
-          "body": "Los profesionales de la salud pueden financiar el 100% del precio de compra sin pagar PMI (seguro hipotecario privado), que protege a los prestamistas contra incumplimiento."
-        },
-        {
-          "heading": "Dirigido a prestatarios con alta deuda/ingresos",
-          "body": "Los médicos jóvenes tienen préstamos estudiantiles masivos, lo que requiere guías de crédito especiales que acomoden baja liquidez actual con altas trayectorias de ingresos."
-        },
-        {
-          "heading": "La mirada del asesor a la deuda médica",
-          "body": "Los asesores evalúan contratos de empleo futuros y préstamos estudiantiles diferidos de forma diferente, basándose en proyecciones de ingresos garantizados en lugar de declaraciones de impuestos históricas tradicionales."
-        },
-        {
-          "heading": "Competencia creciente por nichos especializados",
-          "body": "Los prestamistas son agresivos con programas de nicho para asegurar clientes de alto valor temprano, apostando que las relaciones bancarias a largo plazo compensan el riesgo inicial."
-        }
-      ],
-      "my_take_heading": "Altos ingresos futuros no eliminan el riesgo de liquidez inmediata",
-      "my_take": "Apostar por un alto potencial de ingresos médicos es inteligente, pero un financiamiento sin enganche en un mercado cambiante no deja margen si los valores de las propiedades fluctúan.",
-      "action_lo": "Promociona programas especiales para médicos a programas de residencia locales y administradores de personal hospitalario.",
-      "action_realtor": "Asóciate con reclutadores médicos para conectar con médicos recién llegados a hospitales que necesiten opciones sin enganche.",
-      "cta_question": "Son los préstamos para médicos con 100% de financiamiento una estrategia de crecimiento segura en el mercado actual?"
-    },
-    {
-      "slug": "friday-harbor-dscr-underwriting-platform",
-      "title": "Friday Harbor expande plataforma de IA para préstamos de inversionistas DSCR",
-      "source": "National Mortgage Professional",
-      "source_url": "https://nationalmortgageprofessional.com/news/friday-harbor-takes-aim-dscrs-underwriting-bottleneck",
-      "cover_text": "Friday Harbor resuelve cuellos de botella DSCR",
-      "caption": "Los préstamos para inversionistas Non-QM acaban de recibir una actualización tecnológica. Friday Harbor expandió su software de pre-evaluación a préstamos para inversionistas, enfocándose en archivos DSCR (relación de cobertura de servicio de deuda). La plataforma revisa automáticamente documentos de alquiler, cronogramas de alquiler basados en valuaciones y cálculos de flujo de efectivo para eliminar demoras en la aprobación. Para los originadores, calcular el DSCR de forma precisa desde el principio evita archivos muertos más adelante. Sin embargo, los sistemas automatizados pueden pasar por alto cláusulas sutiles de arrendamiento o historiales de cobro de alquileres irregulares que los asesores experimentados detectan de inmediato. La tecnología acelera el procesamiento, pero una revisión humana exhaustiva sigue siendo esencial para la calidad crediticia del inversionista.\n\nFuente : https://tinyurl.com/243mzl43\n#SafetrustMortgage #MortgageIntelligenceDaily #realestateinvesting #mortgagebroker #loanofficer",
-      "hashtags": [
-        "#SafetrustMortgage",
-        "#MortgageIntelligenceDaily",
-        "#realestateinvesting",
-        "#mortgagebroker",
-        "#loanofficer"
-      ],
-      "hook_tag": "Tecnología para Inversionistas Automatizada",
-      "hook": "Puede la pre-evaluación automatizada arreglar el cuello de botella en préstamos de inversionistas?",
-      "what_happened_heading": "Friday Harbor expande tecnología a pre-evaluación DSCR",
-      "what_happened": "Friday Harbor expandió su plataforma de pre-evaluación para manejar préstamos de inversionistas, específicamente hipotecas con relación de cobertura de servicio de deuda. El sistema audita automáticamente acuerdos de arrendamiento, programas de alquiler y métricas de flujo de efectivo de propiedades.",
-      "breakdown": [
-        {
-          "heading": "Automatización dirigida a préstamos de inversionistas",
-          "body": "La plataforma se enfoca en cálculos DSCR (relación de cobertura de servicio de deuda: ingresos de alquiler divididos por deuda hipotecaria mensual) para acelerar las aprobaciones Non-QM."
-        },
-        {
-          "heading": "Auditoría automatizada de documentos y alquileres",
-          "body": "La tecnología analiza documentos de arrendamiento y formularios de alquiler (Form 1007), señalando discrepancias de flujo de efectivo antes de que lleguen al personal de asesoría."
-        },
-        {
-          "heading": "Lo que detecta el asesor que la IA omite",
-          "body": "Los asesores revisan el historial real de depósitos bancarios y los términos del arrendamiento para detectar alquileres fantasmas o variaciones en alquileres a corto plazo que los sistemas automatizados pasan por alto."
-        },
-        {
-          "heading": "Eliminando fricción técnica para el originador",
-          "body": "Subir las complejas reglas de calificación de inversionistas permite a los originadores estructurar acuerdos Non-QM con precisión sin esperar días por revisiones manuales."
-        }
-      ],
-      "my_take_heading": "Pre-chequeos DSCR más rápidos solo funcionan si la documentación de flujo de efectivo es sólida",
-      "my_take": "Automatizar el cálculo de alquileres acelera los tiempos, pero los préstamos para inversionistas Non-QM dependen de la verificación real del flujo de efectivo, no de una lectura rápida de documentos.",
-      "action_lo": "Usa herramientas de pre-evaluación para verificar las relaciones DSCR antes de emitir cartas de pre-aprobación para inversionistas.",
-      "action_realtor": "Recopila acuerdos de arrendamiento activos y pruebas de depósito temprano al representar a inversionistas inmobiliarios.",
-      "cta_question": "Aumentará la pre-evaluación automatizada de DSCR el volumen de Non-QM o creará riesgo en la cartera?"
+      "my_take_heading": "We need to treat insurance like a primary underwriting risk",
+      "my_take": "If the insurance policy cannot rebuild the house, the loan is fundamentally undercollateralized from day one.",
+      "action_lo": "Partner with local property and casualty agents to run comprehensive coverage audits for your pipeline.",
+      "action_realtor": "Warn your buyers against shopping solely for the cheapest insurance premium at the expense of adequate coverage.",
+      "cta_question": "Should lenders start requiring replacement cost valuations as a standard underwriting condition?"
     }
   ]
 }
