@@ -168,5 +168,175 @@
       "action_realtor": "Warn your buyers against shopping solely for the cheapest insurance premium at the expense of adequate coverage.",
       "cta_question": "Should lenders start requiring replacement cost valuations as a standard underwriting condition?"
     }
+  ],
+  "carousels_es": [
+    {
+      "slug": "homeowners-insurance-coverage-gap",
+      "title": "Muchos propietarios tienen un gran vacío en su cobertura de seguro",
+      "source": "CNBC",
+      "source_url": "https://www.cnbc.com/2026/09/26/homeowners-insurance-coverage-gap.html",
+      "cover_text": "El vacío oculto del seguro que destruye tu plusvalía",
+      "caption": "La mayoría de los dueños de casa tienen un gran punto ciego financiero y ni siquiera lo saben. Los expertos advierten que un vacío generalizado en la cobertura está dejando a las propiedades gravemente desprotegidas ante los costos actuales de reconstrucción. En mi década como asesor de préstamos, vi a demasiados prestatarios en apuros cuando un desastre golpeó y el pago de su póliza no fue suficiente. Este no es solo un problema del consumidor; impacta el riesgo colateral y los cálculos de DTI cuando ocurren los reclamos. Sigue leyendo para ver cómo esto afecta tu cartera y qué debes verificar en tus archivos actuales hoy.\n\nFuente : https://tinyurl.com/27m74pgq\n#SafetrustMortgage #MortgageIntelligenceDaily #homebuying #housingmarket #mortgagerates",
+      "hashtags": [
+        "#SafetrustMortgage",
+        "#MortgageIntelligenceDaily",
+        "#homebuying",
+        "#housingmarket",
+        "#mortgagerates"
+      ],
+      "hook_tag": "Gestión de Riesgos",
+      "hook": "Tus prestatarios creen que tienen cobertura total, pero caen en una trampa.",
+      "what_happened_heading": "La crisis silenciosa de la cobertura",
+      "what_happened": "Expertos informan que muchos consumidores tienen un vacío peligroso en la cobertura de su seguro de vivienda. Esto los pone en grave riesgo financiero sin que lo sepan.",
+      "breakdown": [
+        {
+          "heading": "Los costos de reemplazo se dispararon",
+          "body": "Los materiales de construcción y los costos laborales se dispararon en los últimos años. Esto significa que los límites de las pólizas antiguas ya no alcanzan para reconstruir la misma casa."
+        },
+        {
+          "heading": "Puntos ciegos al evaluar la garantía",
+          "body": "Esto es lo que realmente cambia cuando un archivo llega a tasación: verificamos que el valor nominal de la póliza coincida con el préstamo, no con los costos de reconstrucción reales."
+        },
+        {
+          "heading": "Impacto inesperado en la cuenta de fideicomiso",
+          "body": "Cuando los propietarios descubren que están desprotegidos y corren a corregirlo, sus primas anuales se disparan, causando un impacto masivo y escasez en el fideicomiso (escrow)."
+        },
+        {
+          "heading": "El disparador silencioso de incumplimiento",
+          "body": "Una pérdida sin seguro no solo destruye el valor de la propiedad, sino que obliga al prestatario a una situación de incumplimiento personal mientras aún debe la hipoteca completa."
+        }
+      ],
+      "my_take_heading": "Un activo sin seguro suficiente es una bomba de tiempo",
+      "my_take": "Si tus prestatarios solo aseguran su casa por el precio de compra en lugar del costo real de reconstrucción, toda su base financiera se construye sobre arena.",
+      "action_lo": "Revisa las declaraciones de seguro en archivos activos para confirmar que la cobertura de vivienda refleja los costos de construcción locales actuales.",
+      "action_realtor": "Aconseja a los compradores que consulten a un agente de seguros para obtener un estimado de costo de reemplazo antes de eliminar las contingencias de inspección.",
+      "cta_question": "¿Estás verificando los costos de reconstrucción o solo los requisitos mínimos del prestamista en los certificados de seguro?"
+    },
+    {
+      "slug": "homeowners-insurance-coverage-gap-2",
+      "title": "Muchos propietarios tienen un gran vacío en su cobertura de seguro",
+      "source": "CNBC",
+      "source_url": "https://www.cnbc.com/2026/09/26/homeowners-insurance-coverage-gap.html",
+      "cover_text": "Por qué tus clientes tienen cobertura insuficiente",
+      "caption": "El seguro ya no es solo un punto en la lista de cierre; es la mayor amenaza para la salud de la cartera. A medida que las brechas de cobertura se amplían en todo el país, los prestamistas y agentes deben cambiar la forma en que hablan sobre las pólizas. Pasé años resolviendo condiciones donde la póliza de seguro apenas cumplía con lo mínimo. Ese enfoque antiguo está fallando a los prestatarios, ya que los gastos de reconstrucción superan las estimaciones históricas. Analicemos por qué las pólizas estándar se quedan cortas y cómo puedes proteger tus tratos de colapsar.\n\nFuente : https://tinyurl.com/27m74pgq\n#SafetrustMortgage #MortgageIntelligenceDaily #homebuying #realestateagent #mortgagebroker",
+      "hashtags": [
+        "#SafetrustMortgage",
+        "#MortgageIntelligenceDaily",
+        "#homebuying",
+        "#realestateagent",
+        "#mortgagebroker"
+      ],
+      "hook_tag": "Advertencia de Póliza",
+      "hook": "La póliza de seguro estándar para propietarios ya no es suficiente para proteger a tus compradores.",
+      "what_happened_heading": "Una falla de protección generalizada",
+      "what_happened": "Hallazgos recientes de la industria revelan una brecha masiva de cobertura que deja a los propietarios de vivienda estándar expuestos. Los expertos señalan que la mayoría de los consumidores permanecen totalmente ajenos a su falta de protección adecuada.",
+      "breakdown": [
+        {
+          "heading": "Límites de póliza desactualizados",
+          "body": "Muchas pólizas se establecieron hace años y no se han ajustado a la rápida inflación en mejoras del hogar y gastos de mano de obra."
+        },
+        {
+          "heading": "La realidad al evaluar",
+          "body": "Esto es lo que realmente cambia cuando un archivo llega a tasación: verificamos que la hipoteca esté cubierta, pero no auditamos si la casa realmente puede ser reconstruida."
+        },
+        {
+          "heading": "Exposición del mercado secundario",
+          "body": "Cuando un desastre golpea una propiedad insuficientemente asegurada, la garantía que respalda la hipoteca pierde valor al instante, creando un riesgo sistémico para los inversores."
+        },
+        {
+          "heading": "La presión de la prima anual",
+          "body": "Descubrir estas brechas demasiado tarde lleva a mejoras repentinas de póliza que alteran las relaciones deuda-ingresos mensuales justo antes del cierre."
+        }
+      ],
+      "my_take_heading": "Estamos evaluando una cobertura fantasma",
+      "my_take": "Simplemente marcar la casilla en un certificado de seguro ya no es suficiente para proteger al prestamista o al prestatario.",
+      "action_lo": "Pide a tus socios de seguros que revisen las carteras de clientes existentes en busca de vacíos en las cláusulas de ajuste por inflación.",
+      "action_realtor": "Educa a tus compradores para que miren más allá de los mínimos básicos del prestamista al asegurar la cobertura de propiedad.",
+      "cta_question": "¿Cómo ayudas a los clientes a manejar el aumento de los costos de seguro sin estropear los negocios?"
+    },
+    {
+      "slug": "homeowners-insurance-coverage-gap-3",
+      "title": "Muchos propietarios tienen un gran vacío en su cobertura de seguro",
+      "source": "CNBC",
+      "source_url": "https://www.cnbc.com/2026/09/26/homeowners-insurance-coverage-gap.html",
+      "cover_text": "El defecto oculto en tu póliza de seguro",
+      "caption": "La mayoría de la gente cree que comprar una casa y obtener un seguro significa que están seguros. Se equivocan. Una gran brecha de cobertura está dejando a los propietarios vulnerables a pérdidas financieras devastadoras. Habiendo pasado una década evaluando archivos, sé lo fácil que es que una póliza se vea bien en papel mientras falla en la realidad. Si estás originando préstamos o vendiendo casas, ignorar esta crisis de seguros es una negligencia profesional. Aquí te explico por qué existe esta brecha y cómo abordarla.\n\nFuente : https://tinyurl.com/27m74pgq\n#SafetrustMortgage #MortgageIntelligenceDaily #housingmarket #firsttimehomebuyer #realestateinvesting",
+      "hashtags": [
+        "#SafetrustMortgage",
+        "#MortgageIntelligenceDaily",
+        "#housingmarket",
+        "#firsttimehomebuyer",
+        "#realestateinvesting"
+      ],
+      "hook_tag": "Realidad del Mercado",
+      "hook": "La mayoría de los propietarios tienen una brecha de cobertura masiva y ni siquiera lo saben.",
+      "what_happened_heading": "La vulnerabilidad oculta del consumidor",
+      "what_happened": "Nuevos informes resaltan una brecha generalizada en la cobertura del seguro de vivienda en todo el mercado. Los expertos confirman que esto deja a los compradores expuestos a un gran riesgo financiero sin su conocimiento.",
+      "breakdown": [
+        {
+          "heading": "El desajuste de la inflación",
+          "body": "Los costos de construcción han superado las cláusulas de póliza estándar, dejando una gran brecha entre el valor de mercado y el costo real de reemplazo."
+        },
+        {
+          "heading": "Evaluación con gafas de color rosa",
+          "body": "Esto es lo que realmente cambia cuando un archivo llega a tasación: aceptamos los límites mínimos de cobertura requeridos que no tienen relación con las realidades de construcción locales."
+        },
+        {
+          "heading": "Volatilidad de la cuenta de fideicomiso",
+          "body": "Cuando las pólizas finalmente se actualizan para cerrar la brecha, la escasez en el fideicomiso (escrow) provoca aumentos inesperados de pago que sorprenden a los propietarios."
+        },
+        {
+          "heading": "Exposición financiera total",
+          "body": "Un pago parcial después de una pérdida significa que el propietario debe pagar de su bolsillo para reconstruir mientras sigue con una hipoteca."
+        }
+      ],
+      "my_take_heading": "Los mínimos de seguro son una falsa sensación de seguridad",
+      "my_take": "Cumplir con el requisito mínimo de seguro del prestamista es el mínimo para el fracaso si ocurre una pérdida importante.",
+      "action_lo": "Contacta de forma proactiva a clientes anteriores para recomendar revisiones anuales de pólizas con sus aseguradoras.",
+      "action_realtor": "Agrega un paso de revisión de cobertura de seguro a tu lista de verificación estándar de cierre para compradores.",
+      "cta_question": "¿Cuál es tu protocolo para verificar que la póliza de seguro de un comprador cubra los costos reales de reemplazo?"
+    },
+    {
+      "slug": "homeowners-insurance-coverage-gap-4",
+      "title": "Muchos propietarios tienen un gran vacío en su cobertura de seguro",
+      "source": "CNBC",
+      "source_url": "https://www.cnbc.com/2026/09/26/homeowners-insurance-coverage-gap.html",
+      "cover_text": "Por qué tu póliza de seguro podría estar fallándote",
+      "caption": "El mayor riesgo para un propietario hoy no es la tasa de interés, es una póliza que no paga cuando cuenta. Un vacío generalizado en la cobertura de seguro está atrapando a los compradores en propiedades subaseguradas. En mis días de asesor, nos preocupábamos por el crédito y los ingresos, pero el seguro contra riesgos se trataba como una idea secundaria. Ese lujo ya no existe en el entorno actual de altos costos de construcción. Desliza para entender cómo se forma esta brecha y cómo proteger tus transacciones.\n\nFuente : https://tinyurl.com/27m74pgq\n#SafetrustMortgage #MortgageIntelligenceDaily #mortgagerates #homebuying #realestateagent",
+      "hashtags": [
+        "#SafetrustMortgage",
+        "#MortgageIntelligenceDaily",
+        "#mortgagerates",
+        "#homebuying",
+        "#realestateagent"
+      ],
+      "hook_tag": "Protección del Patrimonio",
+      "hook": "¿La compra de tu casa está totalmente asegurada, verdad? Piensa de nuevo.",
+      "what_happened_heading": "La alarmante deficiencia de protección",
+      "what_happened": "Expertos de la industria revelan que un número significativo de consumidores tiene una gran brecha en su seguro de vivienda. Este punto ciego deja a los propietarios expuestos a un inmenso peligro financiero.",
+      "breakdown": [
+        {
+          "heading": "Los costos de reconstrucción superan las pólizas",
+          "body": "El costo de enmarcar, cablear y techar una casa ha superado lo que los límites de las pólizas de seguro más antiguas estaban diseñados para cubrir."
+        },
+        {
+          "heading": "El punto ciego del asesor",
+          "body": "Esto es lo que realmente cambia cuando un archivo llega a tasación: aprobamos pólizas basadas en fórmulas de saldo de préstamo, ignorando los datos reales de reemplazo local."
+        },
+        {
+          "heading": "El riesgo de incumplimiento aguas abajo",
+          "body": "Una pérdida sin seguro suficiente deja al prestatario incapaz de reparar su hogar, aumentando drásticamente la probabilidad de incumplimiento estratégico."
+        },
+        {
+          "heading": "Ajustes de costos sorpresa",
+          "body": "Los prestatarios que se apresuran a corregir las brechas de cobertura a última hora a menudo enfrentan aumentos inesperados de primas que presionan su presupuesto mensual."
+        }
+      ],
+      "my_take_heading": "Debemos tratar el seguro como un riesgo de tasación principal",
+      "my_take": "Si la póliza de seguro no puede reconstruir la casa, el préstamo está fundamentalmente subgarantizado desde el primer día.",
+      "action_lo": "Asóciate con agentes locales de propiedades y accidentes para realizar auditorías de cobertura completas para tu cartera de clientes.",
+      "action_realtor": "Advierte a tus compradores que no busquen solo la prima de seguro más barata a expensas de una cobertura adecuada.",
+      "cta_question": "¿Deberían los prestamistas comenzar a exigir valoraciones de costos de reemplazo como una condición de tasación estándar?"
+    }
   ]
 }
