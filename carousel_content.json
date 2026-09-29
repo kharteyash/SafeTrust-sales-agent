@@ -1,342 +1,172 @@
 {
   "carousels": [
     {
-      "slug": "reverse-mortgage-growth",
-      "title": "Luminate Bank's reverse mortgage strategy",
-      "source": "HousingWire",
-      "source_url": "https://www.housingwire.com/articles/luminate-bank-reverse-mortgage/",
-      "cover_text": "Reverse mortgages are moving upscale fast.",
-      "caption": "The reverse mortgage conversation is shifting from a last resort to a wealth management tool. Co-founder Eric Lovins explains how Minneapolis-based Luminate Bank is building a concierge financial experience around older homeowners. If you think reverse products are just for cash-strapped seniors, you are missing where the high-net-worth volume is heading.\n\nSource : https://tinyurl.com/22lwg9bg\n#SafetrustMortgage #MortgageIntelligenceDaily #mortgagebroker #realestateinvesting #homebuying",
-      "hashtags": [
-        "#SafetrustMortgage",
-        "#MortgageIntelligenceDaily",
-        "#mortgagebroker",
-        "#realestateinvesting",
-        "#homebuying"
-      ],
-      "hook_tag": "Product Strategy",
-      "hook": "Why smart lenders are treating reverse mortgages like wealth management.",
-      "what_happened_heading": "Concierge banking meets senior equity",
-      "what_happened": "Eric Lovins explains how Minneapolis-based Luminate Bank is scaling its reverse mortgage division through a concierge financial model. The strategy focuses on repositioning these products for high-net-worth homeowners.",
-      "breakdown": [
-        {
-          "heading": "The stigma is fading",
-          "body": "For years, loan officers treated reverse mortgages as a product of absolute last resort. That mindset is finally dying out among top producers."
-        },
-        {
-          "heading": "Tapping massive equity",
-          "body": "Older Americans are sitting on trillions in unencumbered home equity. Ignoring this asset class means leaving serious advisory fees on the table."
-        },
-        {
-          "heading": "The underwriting lens",
-          "body": "When a file hits underwriting, a HECM (Home Equity Conversion Mortgage) requires strict residual income checks. It is an advisory sale, not a quick transactional slam dunk."
-        },
-        {
-          "heading": "Advisory over volume",
-          "body": "Lenders building concierge models win because they educate the family and financial planner early, removing execution friction down the road."
-        }
-      ],
-      "my_take_heading": "The advisory shift",
-      "my_take": "Treating a reverse mortgage like a standard retail refinance is why most LOs fail at it. This is a complex estate-planning conversation.",
-      "action_lo": "Reach out to local financial planners and CPAs to discuss how equity extraction protects liquid retirement portfolios.",
-      "action_realtor": "Identify past clients or senior sphere contacts who might want to age in place using their equity instead of selling.",
-      "cta_question": "Are you seeing more financial planners embrace reverse mortgages for wealth preservation, or are they still fighting the old stigma?"
-    },
-    {
-      "slug": "leaders-take-the-stairs",
-      "title": "Sometimes leaders have to take the stairs",
-      "source": "HousingWire",
-      "source_url": "https://www.housingwire.com/articles/leaders-take-the-stairs/",
-      "cover_text": "Stop looking for the elevator in leadership.",
-      "caption": "When market pressure spikes, mortgage leaders often look for the elevator hack to save their pipeline or P&L. But true operational resilience comes from small, consistent daily actions that compound over time. If your branch or brokerage is addicted to silver bullets, you are setting yourself up for burnout.\n\nSource : https://tinyurl.com/27eojcyu\n#SafetrustMortgage #MortgageIntelligenceDaily #loanofficer #realestateagent #mortgagerates",
-      "hashtags": [
-        "#SafetrustMortgage",
-        "#MortgageIntelligenceDaily",
-        "#loanofficer",
-        "#realestateagent",
-        "#mortgagerates"
-      ],
-      "hook_tag": "Leadership Insights",
-      "hook": "Why looking for a shortcut is killing your mortgage pipeline.",
-      "what_happened_heading": "The reality of daily execution",
-      "what_happened": "Industry commentary highlights how small, consistent actions compound when time is limited by intense market pressure. Leaders must embrace the slow grind of execution rather than chasing instant fixes.",
-      "breakdown": [
-        {
-          "heading": "The silver bullet myth",
-          "body": "Every down market brings a new software or lead vendor promising instant volume. Experienced leaders know these quick fixes rarely save a broken P&L."
-        },
-        {
-          "heading": "Compounding habits",
-          "body": "Making five proactive calls a day to past referral partners beats one massive marketing blast every quarter. Consistency wins in fluctuating rate cycles."
-        },
-        {
-          "heading": "The underwriting lens",
-          "body": "Just like a clean file needs steady, verifiable income rather than a one-time large deposit, a sustainable business needs predictable daily habits."
-        },
-        {
-          "heading": "Protecting your margin",
-          "body": "When volume drops, panic spending is the default reaction. Taking the stairs means auditing your operational overhead line by line instead."
-        }
-      ],
-      "my_take_heading": "The discipline of boring work",
-      "my_take": "The most successful operators I know are aggressively boring. They do the same foundational blocking and tackling every single day.",
-      "action_lo": "Commit to three relationship-building calls a day, and track that habit for thirty days straight without missing.",
-      "action_realtor": "Audit your weekly schedule and ruthlessly cut low-return activities to double down on your core sphere of influence.",
-      "cta_question": "What is one unglamorous daily habit that keeps your pipeline alive when the market gets tough?"
-    },
-    {
-      "slug": "mortgage-rates-wild",
-      "title": "Mortgage rates have gone wild, what is next",
-      "source": "HousingWire",
-      "source_url": "https://www.housingwire.com/articles/mortgage-rates-wild-whats-next-housing/",
-      "cover_text": "Rates near 7.5% just hit demand hard.",
-      "caption": "Mortgage rates hovering near 7.5% alongside heavy market volatility have delivered an undeniable blow to weekly purchase demand. If you are waiting for rates to magically drop back to historical lows before you plan your next move, you are betting your business on a coin flip.\n\nSource : https://tinyurl.com/29hb3g3g\n#SafetrustMortgage #MortgageIntelligenceDaily #mortgagerates #housingmarket #homebuying",
+      "slug": "rocket-vantagescore-switch",
+      "title": "Rocket Mortgage making the switch from FICO to VantageScore",
+      "source": "The Truth About Mortgage",
+      "source_url": "https://www.thetruthaboutmortgage.com/rocket-mortgage-making-the-switch-from-fico-to-vantagescore/",
+      "cover_text": "Rocket drops FICO for VantageScore 4.0.",
+      "caption": "The biggest name in retail origination is making a massive pivot. Rocket Mortgage announced it will default to VantageScore 4.0 starting in the fourth quarter of 2026 across all eligible loan types, including Fannie Mae and Freddie Mac loans. As a 20-year veteran who has spent a decade underwriting files, I can tell you this is not just a software update. It fundamentally changes how credit risk is calculated and who gets an approval letter. When the largest lenders shift their foundational data infrastructure, the rest of the secondary market has no choice but to take notice. Here is what this move actually means for your pipeline and your processing desks.\n\nSource : https://tinyurl.com/28vkm2yn\n#SafetrustMortgage #MortgageIntelligenceDaily #mortgagerates #homebuying #loanofficer",
       "hashtags": [
         "#SafetrustMortgage",
         "#MortgageIntelligenceDaily",
         "#mortgagerates",
+        "#homebuying",
+        "#loanofficer"
+      ],
+      "hook_tag": "Credit Scoring Shift",
+      "hook": "Rocket is ditching FICO. Here is what that actually means for your pipeline.",
+      "what_happened_heading": "Rocket adopts VantageScore 4.0",
+      "what_happened": "Rocket Mortgage announced it will default to VantageScore 4.0 instead of FICO starting in the fourth quarter of 2026. The switch applies to all eligible loan types, including loans backed by Fannie Mae and Freddie Mac.",
+      "breakdown": [
+        {
+          "heading": "The score behind the curtain",
+          "body": "For decades, FICO has been the undisputed gatekeeper of the American mortgage. Moving away from it is a structural earthquake for the secondary market."
+        },
+        {
+          "heading": "Underwriting the trend",
+          "body": "When a file hits underwriting with a VantageScore 4.0, you are looking at trended data and broader inclusion. It often rescues thin files that FICO auto-rejects."
+        },
+        {
+          "heading": "The agency alignment play",
+          "body": "Because this applies to Fannie and Freddie loans, Rocket is leaning hard into the GSE-backed push for credit score modernization and expanded access."
+        },
+        {
+          "heading": "Operational growing pains",
+          "body": "Your automated underwriting systems and pricing engines must talk seamlessly to the new model. Expect a brief adjustment period for AUS (Automated Underwriting System) findings."
+        }
+      ],
+      "my_take_heading": "The real reason behind the swap",
+      "my_take": "This isn't about charity or inclusion. It's about data costs and controlling the origination stack from top to bottom.",
+      "action_lo": "Audit your own CRM and loan origination software to ensure compatibility with VantageScore 4.0 guidelines ahead of the Q4 rollout.",
+      "action_realtor": "Talk to your preferred lenders about how alternative scoring models might soon help your borderline buyers qualify.",
+      "cta_question": "Are you ready to explain VantageScore differences to your real estate partners, or are you sticking with FICO habits? Drop your thoughts below."
+    },
+    {
+      "slug": "eleven-mortgage-wholesale-exit",
+      "title": "Eleven Mortgage exits wholesale with loans still in pipeline",
+      "source": "National Mortgage Professional",
+      "source_url": "https://nationalmortgageprofessional.com/news/eleven-mortgage-exits-wholesale-loans-still-pipeline",
+      "cover_text": "Another wholesale lender bites the dust.",
+      "caption": "The wholesale channel just took another hit. Eleven Mortgage abruptly exited wholesale and correspondent lending, ending an eight-year run and leaving brokers scrambling with active loans still in the pipeline. Benchmark Mortgage confirmed it will redirect resources away from Eleven. If you have ever had a lender pull out mid-stream, you know the absolute panic it causes for borrowers and loan officers alike. As a former underwriter, I can tell you that pipeline triage is an ugly business. Here is how to protect your files when a wholesale partner suddenly shuts its doors.\n\nSource : https://tinyurl.com/24qekqvz\n#SafetrustMortgage #MortgageIntelligenceDaily #mortgagebroker #housingmarket #loanofficer",
+      "hashtags": [
+        "#SafetrustMortgage",
+        "#MortgageIntelligenceDaily",
+        "#mortgagebroker",
         "#housingmarket",
-        "#homebuying"
+        "#loanofficer"
       ],
-      "hook_tag": "Market Analysis",
-      "hook": "Rates near 7.5% just delivered a direct hit to demand.",
-      "what_happened_heading": "Volatility freezes weekly demand",
-      "what_happened": "Mortgage rates staying near 7.5% paired with intense market volatility created a clear, immediate hit to weekly purchase demand. Borrowers are retreating to the sidelines as affordability constraints tighten further.",
+      "hook_tag": "Wholesale Channel Shock",
+      "hook": "Eleven Mortgage just exited wholesale instantly. Here is how to save your pipeline.",
+      "what_happened_heading": "Eleven mortgage shuts wholesale doors",
+      "what_happened": "Eleven Mortgage ended its eight-year run in third-party origination effective immediately. Benchmark Mortgage confirmed it is redirecting leadership and capital away from the unit, leaving active pipeline files stranded.",
       "breakdown": [
         {
-          "heading": "The affordability wall",
-          "body": "At 7.5%, the DTI (how much of your income goes to debt) math breaks down for a massive segment of first-time buyers. Qualification is harder than ever."
+          "heading": "The sudden liquidity squeeze",
+          "body": "When a lender exits overnight, it usually points to a severe margin squeeze or parent company reallocation. Overhead is crushing mid-tier shops right now."
         },
         {
-          "heading": "The lock-in effect",
-          "body": "Existing homeowners with 3% rates refuse to list their properties. This keeps inventory artificially restricted even as demand slows down."
+          "heading": "Underwriting in panic mode",
+          "body": "When a file is sitting in a closing queue at a shuttered lender, you have zero control over final conditions. You must re-disclose and rush transfer immediately."
         },
         {
-          "heading": "The underwriting lens",
-          "body": "Underwriters are seeing higher debt ratios and tighter compensating factors. Every file requires deep scrutiny of residual income and asset reserves."
+          "heading": "The broker nightmare scenario",
+          "body": "Borrowers do not care why a lender closed. They only care that their lock is expiring and their closing date is in jeopardy."
         },
         {
-          "heading": "Pricing realism",
-          "body": "Sellers who refuse to adjust pricing in a 7.5% rate environment are finding their homes sitting on the market much longer."
+          "heading": "Protecting your fallout ratios",
+          "body": "A sudden mass withdrawal spikes your pull-through and locks up earnest money deposits. Quick broker-to-broker rescues are your only lifeline."
         }
       ],
-      "my_take_heading": "Navigating the new normal",
-      "my_take": "Rates are not going back to 3% anytime soon. Stop lamenting the macro environment and start structuring creative financing solutions.",
-      "action_lo": "Educate your realtor partners on how temporary buydowns can bridge the monthly payment gap for hesitant buyers.",
-      "action_realtor": "Focus your conversations on pricing strategy and seller concessions rather than trying to predict where the Fed goes next.",
-      "cta_question": "How are your buyers reacting to 7.5% rates—are they walking away, or are they adjusting their price points?"
+      "my_take_heading": "The shakeout is accelerating",
+      "my_take": "If a lender's balance sheet relies on thin volume to survive this rate environment, they won't make it to next quarter.",
+      "action_lo": "Review every single active loan in your pipeline today and identify which wholesale lenders have the most fragile capital backing.",
+      "action_realtor": "Ask your lender partners point-blank about their investor warehouse lines so your clients never get caught in a sudden shutdown.",
+      "cta_question": "How many wholesale partners do you currently rely on for your volume? Are you consolidating to the giants?"
     },
     {
-      "slug": "luminate-strategy-expansion",
-      "title": "Luminate expands market footprint",
+      "slug": "uwm-vantagescore-ishbia",
+      "title": "UWM's Mat Ishbia backs VantageScore 4.0",
       "source": "HousingWire",
-      "source_url": "https://www.housingwire.com/articles/luminate-bank-reverse-mortgage/",
-      "cover_text": "M&A and niche products are winning now.",
-      "caption": "Independent mortgage banks cannot rely on plain-vanilla forward purchase volume to survive margin compression. Luminate Bank's push into reverse mortgages and strategic growth highlights the need for diversified product shelves. If your company only offers standard agency loans, you are vulnerable.\n\nSource : https://tinyurl.com/22lwg9bg\n#SafetrustMortgage #MortgageIntelligenceDaily #mortgagebroker #loanofficer #housingmarket",
-      "hashtags": [
-        "#SafetrustMortgage",
-        "#MortgageIntelligenceDaily",
-        "#mortgagebroker",
-        "#loanofficer",
-        "#housingmarket"
-      ],
-      "hook_tag": "Industry Trends",
-      "hook": "Why vanilla loan products are no longer enough to survive.",
-      "what_happened_heading": "Diversifying beyond vanilla loans",
-      "what_happened": "Co-founder Eric Lovins detailed how Luminate Bank is expanding its footprint through strategic M&A and specialized reverse mortgage offerings. The lender aims to insulate itself from market swings by capturing specialized borrower segments.",
-      "breakdown": [
-        {
-          "heading": "The mono-line trap",
-          "body": "Lenders relying entirely on conventional purchase volume get crushed every time the 10-year Treasury spikes. Diversification is no longer optional."
-        },
-        {
-          "heading": "M&A as a lifeline",
-          "body": "Smaller independent mortgage companies are looking at acquisitions and mergers just to share overhead costs and retain top talent."
-        },
-        {
-          "heading": "The underwriting lens",
-          "body": "Specialized products require specialized operations teams. Underwriters must cross-train across non-QM and HECM guidelines to keep pull-through high."
-        },
-        {
-          "heading": "Capturing niche wealth",
-          "body": "By catering to affluent seniors and specialized niches, lenders can maintain healthy margins even when overall volume drops industry-wide."
-        }
-      ],
-      "my_take_heading": "Adapt or consolidate",
-      "my_take": "The era of the mom-and-pop shop doing one loan type is ending. You either need scale or a distinct niche.",
-      "action_lo": "Review your product matrix this week and master at least one non-traditional loan program to pitch your local realtors.",
-      "action_realtor": "Partner with lenders who offer diverse financing tools so you never lose a deal to strict bank overlays.",
-      "cta_question": "Is your current lender expanding their product shelf, or are they doubling down on conventional loans?"
-    }
-  ],
-  "carousels_es": [
-    {
-      "slug": "reverse-mortgage-growth",
-      "title": "Estrategia de hipotecas inversas de Luminate Bank",
-      "source": "HousingWire",
-      "source_url": "https://www.housingwire.com/articles/luminate-bank-reverse-mortgage/",
-      "cover_text": "Las hipotecas inversas suben de nivel.",
-      "caption": "La hipoteca inversa deja de ser un último recurso para convertirse en una herramienta de gestión de patrimonio. El cofundador Eric Lovins explica cómo Luminate Bank, con sede en Minneapolis, está creando una experiencia financiera de lujo para los propietarios de viviendas mayores. Si crees que los productos inversos son solo para personas mayores con problemas de dinero, te estás perdiendo hacia dónde se dirige el volumen de clientes de alto patrimonio.\n\nFuente : https://tinyurl.com/22lwg9bg\n#SafetrustMortgage #MortgageIntelligenceDaily #mortgagebroker #realestateinvesting #homebuying",
-      "hashtags": [
-        "#SafetrustMortgage",
-        "#MortgageIntelligenceDaily",
-        "#mortgagebroker",
-        "#realestateinvesting",
-        "#homebuying"
-      ],
-      "hook_tag": "Estrategia de producto",
-      "hook": "Por qué los prestamistas inteligentes tratan las hipotecas inversas como gestión de patrimonio.",
-      "what_happened_heading": "Banca de lujo se une a la equidad de personas mayores",
-      "what_happened": "Eric Lovins explica cómo Luminate Bank, con sede en Minneapolis, está expandiendo su división de hipotecas inversas a través de un modelo financiero de lujo. La estrategia se enfoca en reposicionar estos productos para propietarios de alto patrimonio.",
-      "breakdown": [
-        {
-          "heading": "El estigma se desvanece",
-          "body": "Durante años, los agentes de préstamos trataron las hipotecas inversas como un producto de último recurso. Esa mentalidad finalmente está desapareciendo entre los principales productores."
-        },
-        {
-          "heading": "Aprovechando una enorme plusvalía",
-          "body": "Los estadounidenses mayores poseen billones en plusvalía de sus casas sin deudas. Ignorar este tipo de activo significa dejar de ganar serias tarifas de asesoramiento."
-        },
-        {
-          "heading": "La perspectiva del asesor",
-          "body": "Cuando un expediente llega a asesoría, una HECM (Home Equity Conversion Mortgage) requiere estrictas verificaciones de ingresos residuales. Es una venta de asesoramiento, no una transacción rápida y sencilla."
-        },
-        {
-          "heading": "Asesoramiento sobre volumen",
-          "body": "Los prestamistas que construyen modelos de lujo ganan porque educan a la familia y al planificador financiero desde el principio, eliminando fricciones en el proceso."
-        }
-      ],
-      "my_take_heading": "El cambio hacia el asesoramiento",
-      "my_take": "Tratar una hipoteca inversa como un refinanciamiento minorista estándar es la razón por la que la mayoría de los agentes de préstamos fallan. Esta es una conversación compleja de planificación patrimonial.",
-      "action_lo": "Comunícate con planificadores financieros y contadores públicos certificados (CPAs) locales para analizar cómo la extracción de capital protege las carteras de jubilación líquidas.",
-      "action_realtor": "Identifica clientes anteriores o contactos mayores que puedan querer envejecer en su hogar usando su patrimonio en lugar de vender.",
-      "cta_question": "¿Estás viendo a más planificadores financieros aceptar las hipotecas inversas para la preservación del patrimonio, o siguen luchando contra el viejo estigma?"
-    },
-    {
-      "slug": "leaders-take-the-stairs",
-      "title": "A veces los líderes tienen que subir por las escaleras",
-      "source": "HousingWire",
-      "source_url": "https://www.housingwire.com/articles/leaders-take-the-stairs/",
-      "cover_text": "Deja de buscar el ascensor en el liderazgo.",
-      "caption": "Cuando la presión del mercado aumenta, los líderes hipotecarios a menudo buscan un atajo para salvar sus ventas o ganancias y pérdidas. Pero la verdadera resiliencia operativa proviene de acciones diarias pequeñas y constantes que se acumulan con el tiempo. Si tu sucursal o corretaje es adicto a las soluciones mágicas, te estás preparando para el agotamiento.\n\nFuente : https://tinyurl.com/27eojcyu\n#SafetrustMortgage #MortgageIntelligenceDaily #loanofficer #realestateagent #mortgagerates",
-      "hashtags": [
-        "#SafetrustMortgage",
-        "#MortgageIntelligenceDaily",
-        "#loanofficer",
-        "#realestateagent",
-        "#mortgagerates"
-      ],
-      "hook_tag": "Perspectivas de liderazgo",
-      "hook": "Por qué buscar un atajo está matando tus ventas de hipotecas.",
-      "what_happened_heading": "La realidad de la ejecución diaria",
-      "what_happened": "Los comentarios de la industria destacan cómo las acciones pequeñas y consistentes se acumulan cuando el tiempo es limitado por la intensa presión del mercado. Los líderes deben aceptar el lento trabajo de la ejecución en lugar de buscar soluciones instantáneas.",
-      "breakdown": [
-        {
-          "heading": "El mito de la solución mágica",
-          "body": "Cada mercado a la baja trae un nuevo software o proveedor de clientes potenciales que promete un volumen instantáneo. Los líderes experimentados saben que estas soluciones rápidas rara vez salvan unas pérdidas y ganancias deficientes."
-        },
-        {
-          "heading": "Hábitos acumulativos",
-          "body": "Hacer cinco llamadas proactivas al día a socios de referencia anteriores es mejor que una campaña de marketing masiva cada trimestre. La constancia gana en ciclos de tasas fluctuantes."
-        },
-        {
-          "heading": "La perspectiva del asesor",
-          "body": "Así como un expediente claro necesita ingresos constantes y verificables en lugar de un gran depósito único, un negocio sostenible necesita hábitos diarios predecibles."
-        },
-        {
-          "heading": "Protegiendo tu margen",
-          "body": "Cuando el volumen baja, el gasto de pánico es la reacción predeterminada. Subir por las escaleras significa auditar tus gastos operativos línea por línea en su lugar."
-        }
-      ],
-      "my_take_heading": "La disciplina del trabajo aburrido",
-      "my_take": "Los operadores más exitosos que conozco son extremadamente aburridos. Hacen lo mismo, lo básico y fundamental, todos los días.",
-      "action_lo": "Comprométete a hacer tres llamadas diarias para construir relaciones y sigue ese hábito durante treinta días seguidos sin falta.",
-      "action_realtor": "Audita tu horario semanal y elimina sin piedad las actividades de bajo rendimiento para duplicar tu enfoque en tu círculo de influencia principal.",
-      "cta_question": "¿Cuál es un hábito diario poco glamuroso que mantiene tus ventas vivas cuando el mercado se pone difícil?"
-    },
-    {
-      "slug": "mortgage-rates-wild",
-      "title": "Las tasas hipotecarias se han vuelto locas, ¿qué sigue?",
-      "source": "HousingWire",
-      "source_url": "https://www.housingwire.com/articles/mortgage-rates-wild-whats-next-housing/",
-      "cover_text": "Las tasas cercanas al 7.5% golpearon fuerte la demanda.",
-      "caption": "Las tasas hipotecarias que rondan el 7.5% junto con una fuerte volatilidad del mercado han asestado un golpe innegable a la demanda semanal de compras. Si estás esperando que las tasas bajen mágicamente a mínimos históricos antes de planificar tu próximo movimiento, estás apostando tu negocio a un volado.\n\nFuente : https://tinyurl.com/29hb3g3g\n#SafetrustMortgage #MortgageIntelligenceDaily #mortgagerates #housingmarket #homebuying",
+      "source_url": "https://www.housingwire.com/articles/uwm-ishbia-vantagescore-4-mortgages/",
+      "cover_text": "Ishbia backs VantageScore 4.0 for brokers.",
+      "caption": "At the recent AIME Fuse event, UWM CEO Mat Ishbia threw his weight behind VantageScore 4.0 and praised the results of the Underwriter+ program as off the charts. When the largest wholesale lender in the country starts shifting its stance on credit scoring and underwriting tech, the entire ecosystem reacts. Having originated loans and sat in the underwriter seat, I look past the marketing hype to see how file flow is actually impacted. Automation is only as good as the human decisions behind it. Here is what is really happening beneath the surface of UWM's latest tech push.\n\nSource : https://tinyurl.com/2by76639\n#SafetrustMortgage #MortgageIntelligenceDaily #mortgagerates #mortgagebroker #housingmarket",
       "hashtags": [
         "#SafetrustMortgage",
         "#MortgageIntelligenceDaily",
         "#mortgagerates",
-        "#housingmarket",
-        "#homebuying"
+        "#mortgagebroker",
+        "#housingmarket"
       ],
-      "hook_tag": "Análisis de Mercado",
-      "hook": "Las tasas cercanas al 7.5% golpearon la demanda directamente.",
-      "what_happened_heading": "La volatilidad congela la demanda semanal",
-      "what_happened": "Las tasas hipotecarias manteniéndose cerca del 7.5% junto con una intensa volatilidad del mercado crearon un golpe claro e inmediato a la demanda semanal de compras. Los prestatarios se están retirando a la espera mientras las restricciones de asequibilidad se endurecen aún más.",
+      "hook_tag": "Wholesale Tech Push",
+      "hook": "Mat Ishbia is doubling down on VantageScore. Here is what the hype misses.",
+      "what_happened_heading": "UWM champions new scoring tech",
+      "what_happened": "At the AIME Fuse event, UWM head Mat Ishbia backed VantageScore 4.0 and highlighted exceptional results from the Underwriter+ program. The push comes as major lenders rethink how credit data flows into mortgage approvals.",
       "breakdown": [
         {
-          "heading": "El muro de la asequibilidad",
-          "body": "Al 7.5%, el cálculo de la relación deuda-ingresos (DTI) no funciona para una gran parte de los compradores primerizos. Calificar es más difícil que nunca."
+          "heading": "The wholesale volume engine",
+          "body": "UWM moves massive amounts of paper. Any technology that speeds up decisioning on their platform directly impacts broker turnaround times nationwide."
         },
         {
-          "heading": "El efecto de \"encierro\"",
-          "body": "Los propietarios actuales con tasas del 3% se niegan a vender sus propiedades. Esto mantiene el inventario artificialmente restringido incluso cuando la demanda disminuye."
+          "heading": "Underwriting the automation claim",
+          "body": "When executives call results off the charts, underwriters look at the repurchase risk. Speed is great, but clean quality control keeps doors open."
         },
         {
-          "heading": "La perspectiva del asesor",
-          "body": "Los asesores están viendo mayores relaciones deuda-ingresos y factores compensatorios más estrictos. Cada expediente requiere un escrutinio profundo del ingreso residual y las reservas de activos."
+          "heading": "The battle for broker loyalty",
+          "body": "Proprietary tools and alternative scoring adoption are the new battleground for keeping independent brokers locked into a single ecosystem."
         },
         {
-          "heading": "Realismo de precios",
-          "body": "Los vendedores que se niegan a ajustar los precios en un entorno de tasas del 7.5% están viendo sus casas en el mercado mucho más tiempo."
+          "heading": "Data standards are shifting",
+          "body": "The industry is steadily moving away from rigid legacy scoring models toward inclusive trended data that reflects modern consumer financial behavior."
         }
       ],
-      "my_take_heading": "Navegando la nueva normalidad",
-      "my_take": "Las tasas no volverán al 3% pronto. Deja de lamentar el entorno macro y comienza a estructurar soluciones de financiación creativas.",
-      "action_lo": "Educa a tus socios agentes inmobiliarios sobre cómo las reducciones temporales de tasas (temporary buydowns) pueden reducir la brecha de pago mensual para los compradores indecisos.",
-      "action_realtor": "Centra tus conversaciones en la estrategia de precios y las concesiones del vendedor en lugar de intentar predecir lo que hará la Reserva Federal.",
-      "cta_question": "¿Cómo reaccionan tus compradores a las tasas del 7.5%? ¿Se están echando atrás o están ajustando sus puntos de precio?"
+      "my_take_heading": "Technology cannot fix bad fundamentals",
+      "my_take": "Faster underwriting engines and alternative scores are helpful, but they won't lower a 7.5% interest rate or create more housing inventory.",
+      "action_lo": "Test drive every new broker tool your primary lender offers so you can spot operational bottlenecks before your borrowers do.",
+      "action_realtor": "Keep your clients educated on how changing credit tech might help borderline borrowers qualify faster this fall.",
+      "cta_question": "Do you trust automated underwriting systems to make the final call on complex self-employed files?"
     },
     {
-      "slug": "luminate-strategy-expansion",
-      "title": "Luminate expande su presencia en el mercado",
-      "source": "HousingWire",
-      "source_url": "https://www.housingwire.com/articles/luminate-bank-reverse-mortgage/",
-      "cover_text": "Fusiones, adquisiciones y nichos ganan ahora.",
-      "caption": "Los bancos hipotecarios independientes no pueden depender del volumen de compra directo tradicional para sobrevivir a la compresión de márgenes. El impulso de Luminate Bank hacia las hipotecas inversas y el crecimiento estratégico resalta la necesidad de estanterías de productos diversificadas. Si tu empresa solo ofrece préstamos de agencias estándar, eres vulnerable.\n\nFuente : https://tinyurl.com/22lwg9bg\n#SafetrustMortgage #MortgageIntelligenceDaily #mortgagebroker #loanofficer #housingmarket",
+      "slug": "aven-forest-river-heloc",
+      "title": "Aven and Forest River bring HELOC financing to RV dealerships",
+      "source": "National Mortgage Professional",
+      "source_url": "https://nationalmortgageprofessional.com/news/aven-forest-river-heloc-financing-rv-dealerships",
+      "cover_text": "HELOCs at RV dealerships are here.",
+      "caption": "Home equity is leaving the traditional mortgage office. Aven and RV manufacturer Forest River have launched a co-branded HELOC linked to a credit card, letting buyers finance major recreational purchases right at the dealership floor without ever talking to a mortgage loan officer. As a veteran who watched home equity products sit dormant for a decade, I find this evolution fascinating. Non-traditional lenders are aggressively monetizing home equity faster than traditional banks can issue a standard appraisal. Here is what this consumer shift means for your mortgage business.\n\nSource : https://tinyurl.com/26ty4vx4\n#SafetrustMortgage #MortgageIntelligenceDaily #homebuying #realestateinvesting #loanofficer",
       "hashtags": [
         "#SafetrustMortgage",
         "#MortgageIntelligenceDaily",
-        "#mortgagebroker",
-        "#loanofficer",
-        "#housingmarket"
+        "#homebuying",
+        "#realestateinvesting",
+        "#loanofficer"
       ],
-      "hook_tag": "Tendencias de la industria",
-      "hook": "Por qué los productos de préstamo estándar ya no son suficientes para sobrevivir.",
-      "what_happened_heading": "Diversificando más allá de los préstamos básicos",
-      "what_happened": "El cofundador Eric Lovins detalló cómo Luminate Bank está expandiendo su presencia a través de fusiones y adquisiciones estratégicas y ofertas especializadas de hipotecas inversas. El prestamista busca protegerse de las fluctuaciones del mercado al captar segmentos de prestatarios especializados.",
+      "hook_tag": "Home Equity Disruption",
+      "hook": "You can now buy an RV with a HELOC at the dealership. Seriously.",
+      "what_happened_heading": "HELOCs move to retail floors",
+      "what_happened": "Aven and RV maker Forest River launched a co-branded card combining a HELOC with credit lines for marine and RV purchases. This allows qualified homeowners to access home equity directly at the dealership without a traditional lender.",
       "breakdown": [
         {
-          "heading": "La trampa de la línea única",
-          "body": "Los prestamistas que dependen completamente del volumen de compra convencional sufren cada vez que el Tesoro a 10 años sube. La diversificación ya no es opcional."
+          "heading": "Bypassing the traditional loan officer",
+          "body": "Borrowers no longer need to call their local bank or broker to tap equity for a major luxury purchase. Point-of-sale financing is winning."
         },
         {
-          "heading": "Fusiones y adquisiciones como salvavidas",
-          "body": "Las empresas hipotecarias independientes más pequeñas están considerando adquisiciones y fusiones solo para compartir gastos generales y retener a los mejores talentos."
+          "heading": "Underwriting equity in real time",
+          "body": "Instant data verification allows these platforms to approve credit lines on the showroom floor. Speed is replacing traditional manual asset verification."
         },
         {
-          "heading": "La perspectiva del asesor",
-          "body": "Los productos especializados requieren equipos operativos especializados. Los asesores deben capacitarse en pautas de préstamos no-QM y HECM para mantener alta la tasa de cierre."
+          "heading": "Monetizing accumulated wealth",
+          "body": "With trillions in tappable home equity locked up nationwide, non-mortgage companies figured out how to monetize it before we did."
         },
         {
-          "heading": "Capturando riqueza de nicho",
-          "body": "Al atender a personas mayores adineradas y nichos especializados, los prestamistas pueden mantener márgenes saludables incluso cuando el volumen general disminuye en toda la industria."
+          "heading": "The hidden lien risk",
+          "body": "More revolving senior or junior liens hitting title reports means traditional lenders must monitor subordinate debt much closer during refinances."
         }
       ],
-      "my_take_heading": "Adaptarse o consolidar",
-      "my_take": "La era de la pequeña empresa familiar que hace un solo tipo de préstamo está terminando. Necesitas escala o un nicho distinto.",
-      "action_lo": "Revisa tu matriz de productos esta semana y domina al menos un programa de préstamos no tradicional para ofrecer a tus agentes inmobiliarios locales.",
-      "action_realtor": "Asóciate con prestamistas que ofrezcan herramientas de financiación diversas para que nunca pierdas un trato por estrictas restricciones bancarias.",
-      "cta_question": "¿Tu prestamista actual está ampliando su gama de productos, o se está centrando en préstamos convencionales?"
+      "my_take_heading": "The danger of friction-free debt",
+      "my_take": "When tapping home equity becomes as easy as swiping a credit card at a dealership, consumer debt risk skyrockets.",
+      "action_lo": "Reach out to your past database immediately to offer structured HELOC options before retail dealerships tap their equity first.",
+      "action_realtor": "Remind your homeowners that treating their equity like an ATM for recreational toys can complicate future real estate moves.",
+      "cta_question": "Are traditional loan officers losing their monopoly on home equity products to fintech disruptors?"
     }
   ]
 }
