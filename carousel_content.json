@@ -1,12 +1,12 @@
 {
   "carousels": [
     {
-      "slug": "rocket-vantagescore-switch",
-      "title": "Rocket Mortgage making the switch from FICO to VantageScore",
-      "source": "The Truth About Mortgage",
-      "source_url": "https://www.thetruthaboutmortgage.com/rocket-mortgage-making-the-switch-from-fico-to-vantagescore/",
-      "cover_text": "Rocket drops FICO for VantageScore 4.0.",
-      "caption": "The biggest name in retail origination is making a massive pivot. Rocket Mortgage announced it will default to VantageScore 4.0 starting in the fourth quarter of 2026 across all eligible loan types, including Fannie Mae and Freddie Mac loans. As a 20-year veteran who has spent a decade underwriting files, I can tell you this is not just a software update. It fundamentally changes how credit risk is calculated and who gets an approval letter. When the largest lenders shift their foundational data infrastructure, the rest of the secondary market has no choice but to take notice. Here is what this move actually means for your pipeline and your processing desks.\n\nSource : https://tinyurl.com/28vkm2yn\n#SafetrustMortgage #MortgageIntelligenceDaily #mortgagerates #homebuying #loanofficer",
+      "slug": "rocket-vantagescore-default",
+      "title": "Rocket Makes VantageScore Its Default After Testing Finds Borrower Savings",
+      "source": "National Mortgage Professional",
+      "source_url": "https://nationalmortgageprofessional.com/news/rocket-makes-vantagescore-its-default-after-testing-finds-borrower-savings",
+      "cover_text": "Rocket just dropped FICO as default.",
+      "caption": "The monopoly on your credit score is officially cracking. When Rocket Mortgage makes VantageScore 4.0 its preferred credit-scoring model after testing borrower savings, it is not just a software update. It is a seismic shift in how loans get priced. For years, the industry was handcuffed to a single scoring model. Now, competition is driving actual savings for borrowers who previously fell through the cracks of legacy credit assessment. If you are not paying attention to how lenders route credit reports, your pipeline is leaving basis points on the table. Drop your thoughts on multi-score pricing below.\n\nSource : https://tinyurl.com/24ckfmt5\n#SafetrustMortgage #MortgageIntelligenceDaily #mortgagerates #homebuying #loanofficer",
       "hashtags": [
         "#SafetrustMortgage",
         "#MortgageIntelligenceDaily",
@@ -14,329 +14,159 @@
         "#homebuying",
         "#loanofficer"
       ],
-      "hook_tag": "Credit Scoring Shift",
-      "hook": "Rocket is ditching FICO. Here is what that actually means for your pipeline.",
-      "what_happened_heading": "Rocket adopts VantageScore 4.0",
-      "what_happened": "Rocket Mortgage announced it will default to VantageScore 4.0 instead of FICO starting in the fourth quarter of 2026. The switch applies to all eligible loan types, including loans backed by Fannie Mae and Freddie Mac.",
+      "hook_tag": "Credit Score Shift",
+      "hook": "Rocket Mortgage just made VantageScore its default model. Here is why that matters.",
+      "what_happened_heading": "The shift to alternative scoring",
+      "what_happened": "Rocket Mortgage is making VantageScore 4.0 its preferred credit-scoring model for eligible loans during the fourth quarter. This follows roughly four months of testing alongside classic FICO that found tangible borrower savings.",
       "breakdown": [
         {
-          "heading": "The score behind the curtain",
-          "body": "For decades, FICO has been the undisputed gatekeeper of the American mortgage. Moving away from it is a structural earthquake for the secondary market."
+          "heading": "The end of a monopoly",
+          "body": "For decades, classic FICO sat comfortably as the undisputed gatekeeper of mortgage credit. Fannie Mae and Freddie Mac opening the door to VantageScore 4.0 changed the underlying math of qualifying."
         },
         {
-          "heading": "Underwriting the trend",
-          "body": "When a file hits underwriting with a VantageScore 4.0, you are looking at trended data and broader inclusion. It often rescues thin files that FICO auto-rejects."
+          "heading": "Underwriting the alternative score",
+          "body": "When a file hits underwriting with VantageScore 4.0, we look at trended credit data differently. It captures rental and utility payment history that legacy models completely miss on borderline files."
         },
         {
-          "heading": "The agency alignment play",
-          "body": "Because this applies to Fannie and Freddie loans, Rocket is leaning hard into the GSE-backed push for credit score modernization and expanded access."
+          "heading": "The pricing alignment",
+          "body": "FHFA ensured both scoring models share a single LLPA (Loan-Level Price Adjustment) grid. Lenders no longer face a penalty for utilizing the alternative score on conventional deliveries."
         },
         {
-          "heading": "Operational growing pains",
-          "body": "Your automated underwriting systems and pricing engines must talk seamlessly to the new model. Expect a brief adjustment period for AUS (Automated Underwriting System) findings."
+          "heading": "The trickle-down effect",
+          "body": "When a giant like Rocket makes a scoring pivot, secondary market desks and competing wholesale lenders must adapt fast. Smaller shops cannot afford to ignore the approval rate lift."
         }
       ],
-      "my_take_heading": "The real reason behind the swap",
-      "my_take": "This isn't about charity or inclusion. It's about data costs and controlling the origination stack from top to bottom.",
-      "action_lo": "Audit your own CRM and loan origination software to ensure compatibility with VantageScore 4.0 guidelines ahead of the Q4 rollout.",
-      "action_realtor": "Talk to your preferred lenders about how alternative scoring models might soon help your borderline buyers qualify.",
-      "cta_question": "Are you ready to explain VantageScore differences to your real estate partners, or are you sticking with FICO habits? Drop your thoughts below."
+      "my_take_heading": "The strategic credit pivot",
+      "my_take": "FICO is no longer the only game in town. Lenders who refuse to adopt multi-score strategies will lose deals to operations that know how to optimize credit models.",
+      "action_lo": "Run a comparative check on denied or borderline files using VantageScore 4.0 to see if it saves your borrower money.",
+      "action_realtor": "Ask your lender partners how they handle alternative credit scores for clients with thin or unconventional files.",
+      "cta_question": "Are you actively running dual credit scores on your borderline files yet, or waiting for your competitors to do it first?"
     },
     {
-      "slug": "eleven-mortgage-wholesale-exit",
-      "title": "Eleven Mortgage exits wholesale with loans still in pipeline",
+      "slug": "ai-monitoring-gap",
+      "title": "Mortgage AI Survey Finds Monitoring Gap At Smaller Lenders",
       "source": "National Mortgage Professional",
-      "source_url": "https://nationalmortgageprofessional.com/news/eleven-mortgage-exits-wholesale-loans-still-pipeline",
-      "cover_text": "Another wholesale lender bites the dust.",
-      "caption": "The wholesale channel just took another hit. Eleven Mortgage abruptly exited wholesale and correspondent lending, ending an eight-year run and leaving brokers scrambling with active loans still in the pipeline. Benchmark Mortgage confirmed it will redirect resources away from Eleven. If you have ever had a lender pull out mid-stream, you know the absolute panic it causes for borrowers and loan officers alike. As a former underwriter, I can tell you that pipeline triage is an ugly business. Here is how to protect your files when a wholesale partner suddenly shuts its doors.\n\nSource : https://tinyurl.com/24qekqvz\n#SafetrustMortgage #MortgageIntelligenceDaily #mortgagebroker #housingmarket #loanofficer",
+      "source_url": "https://nationalmortgageprofessional.com/news/mortgage-ai-survey-finds-monitoring-gap-smaller-lenders",
+      "cover_text": "Most lenders have AI policies, zero oversight.",
+      "caption": "Writing an AI policy and actually supervising the algorithm are two entirely different universes. A new survey from AARMR, MBA, and Boston Consulting Group reveals that while 87% of lenders have written AI standards, a staggering 58% fail to monitor those tools after they go live. This compliance blind spot is a ticking time bomb for operations and secondary market desks. As an underwriter, if I cannot audit how a decision was generated, the file stops dead in its tracks. Check your technology stack before regulators and warehouse lenders start doing it for you. What is your current post-implementation AI review process?\n\nSource : https://tinyurl.com/257yt4n6\n#SafetrustMortgage #MortgageIntelligenceDaily #mortgagerates #realestateagent #homebuying",
       "hashtags": [
         "#SafetrustMortgage",
         "#MortgageIntelligenceDaily",
-        "#mortgagebroker",
+        "#mortgagerates",
+        "#realestateagent",
+        "#homebuying"
+      ],
+      "hook_tag": "AI Compliance Risk",
+      "hook": "Eighty-seven percent of lenders have AI policies, but most forgot to watch them.",
+      "what_happened_heading": "The post-launch monitoring void",
+      "what_happened": "A new survey by AARMR, MBA, and Boston Consulting Group found that 87% of responding mortgage companies have written AI standards. However, 58% reported a complete lack of consistent post-implementation monitoring.",
+      "breakdown": [
+        {
+          "heading": "The illusion of compliance",
+          "body": "Having a written policy on a corporate server does not satisfy regulatory expectations. Regulators want to see active, ongoing validation of automated decisions, especially in underwriting and pricing."
+        },
+        {
+          "heading": "The underwriter auditing nightmare",
+          "body": "When an automated tool flags or clears a file, the underwriting department is on the hook for the validity. If the model drifts and nobody checks it, the buyback risk falls squarely on the P&L."
+        },
+        {
+          "heading": "The scale disadvantage",
+          "body": "Smaller independent mortgage banks are falling behind on post-implementation oversight. They adopt the software for efficiency gains but lack the dedicated compliance staff to audit the outputs continuously."
+        },
+        {
+          "heading": "Warehouse lender exposure",
+          "body": "Warehouse lines care deeply about algorithmic integrity. If automated valuation models or underwriting bots produce skewed risk profiles, liquidity providers will tighten covenants fast."
+        }
+      ],
+      "my_take_heading": "The oversight illusion",
+      "my_take": "Buying AI software is easy. Proving to an auditor that the algorithm did not discriminate six months after deployment is where lenders will bleed cash.",
+      "action_lo": "Audit your internal tech vendors today and demand written proof of their post-implementation accuracy monitoring.",
+      "action_realtor": "Partner with lenders who have airtight compliance protocols so your transactions never stall out on technology audits.",
+      "cta_question": "How is your compliance team currently tracking algorithmic drift in your automated underwriting workflows?"
+    },
+    {
+      "slug": "serious-delinquencies-rise",
+      "title": "Serious Mortgage Delinquencies Rise 19% After Five Months Of Improvement",
+      "source": "National Mortgage Professional",
+      "source_url": "https://nationalmortgageprofessional.com/news/serious-delinquencies-rise-19-after-five-months-improvement",
+      "cover_text": "Serious delinquencies jump 19 percent.",
+      "caption": "The five-month streak of improving serious mortgage delinquencies just hit a wall. According to ICE's latest First Look report, loans 90 or more days past due jumped by 19% year-over-year, hitting 574,000 delinquent loans. Before the doomsayers start screaming 2008 all over again, look at the actual loan-level mechanics. This is not a broad new wave of panic selling or reckless subprime originations. It is a stubborn backlog working its way through legacy servicing channels. Do not let mainstream media headlines spook your purchase clients this week. What are you telling your agents about current market health?\n\nSource : https://tinyurl.com/22gta6yb\n#SafetrustMortgage #MortgageIntelligenceDaily #housingmarket #realestateinvesting #homebuying",
+      "hashtags": [
+        "#SafetrustMortgage",
+        "#MortgageIntelligenceDaily",
         "#housingmarket",
-        "#loanofficer"
-      ],
-      "hook_tag": "Wholesale Channel Shock",
-      "hook": "Eleven Mortgage just exited wholesale instantly. Here is how to save your pipeline.",
-      "what_happened_heading": "Eleven mortgage shuts wholesale doors",
-      "what_happened": "Eleven Mortgage ended its eight-year run in third-party origination effective immediately. Benchmark Mortgage confirmed it is redirecting leadership and capital away from the unit, leaving active pipeline files stranded.",
-      "breakdown": [
-        {
-          "heading": "The sudden liquidity squeeze",
-          "body": "When a lender exits overnight, it usually points to a severe margin squeeze or parent company reallocation. Overhead is crushing mid-tier shops right now."
-        },
-        {
-          "heading": "Underwriting in panic mode",
-          "body": "When a file is sitting in a closing queue at a shuttered lender, you have zero control over final conditions. You must re-disclose and rush transfer immediately."
-        },
-        {
-          "heading": "The broker nightmare scenario",
-          "body": "Borrowers do not care why a lender closed. They only care that their lock is expiring and their closing date is in jeopardy."
-        },
-        {
-          "heading": "Protecting your fallout ratios",
-          "body": "A sudden mass withdrawal spikes your pull-through and locks up earnest money deposits. Quick broker-to-broker rescues are your only lifeline."
-        }
-      ],
-      "my_take_heading": "The shakeout is accelerating",
-      "my_take": "If a lender's balance sheet relies on thin volume to survive this rate environment, they won't make it to next quarter.",
-      "action_lo": "Review every single active loan in your pipeline today and identify which wholesale lenders have the most fragile capital backing.",
-      "action_realtor": "Ask your lender partners point-blank about their investor warehouse lines so your clients never get caught in a sudden shutdown.",
-      "cta_question": "How many wholesale partners do you currently rely on for your volume? Are you consolidating to the giants?"
-    },
-    {
-      "slug": "uwm-vantagescore-ishbia",
-      "title": "UWM's Mat Ishbia backs VantageScore 4.0",
-      "source": "HousingWire",
-      "source_url": "https://www.housingwire.com/articles/uwm-ishbia-vantagescore-4-mortgages/",
-      "cover_text": "Ishbia backs VantageScore 4.0 for brokers.",
-      "caption": "At the recent AIME Fuse event, UWM CEO Mat Ishbia threw his weight behind VantageScore 4.0 and praised the results of the Underwriter+ program as off the charts. When the largest wholesale lender in the country starts shifting its stance on credit scoring and underwriting tech, the entire ecosystem reacts. Having originated loans and sat in the underwriter seat, I look past the marketing hype to see how file flow is actually impacted. Automation is only as good as the human decisions behind it. Here is what is really happening beneath the surface of UWM's latest tech push.\n\nSource : https://tinyurl.com/2by76639\n#SafetrustMortgage #MortgageIntelligenceDaily #mortgagerates #mortgagebroker #housingmarket",
-      "hashtags": [
-        "#SafetrustMortgage",
-        "#MortgageIntelligenceDaily",
-        "#mortgagerates",
-        "#mortgagebroker",
-        "#housingmarket"
-      ],
-      "hook_tag": "Wholesale Tech Push",
-      "hook": "Mat Ishbia is doubling down on VantageScore. Here is what the hype misses.",
-      "what_happened_heading": "UWM champions new scoring tech",
-      "what_happened": "At the AIME Fuse event, UWM head Mat Ishbia backed VantageScore 4.0 and highlighted exceptional results from the Underwriter+ program. The push comes as major lenders rethink how credit data flows into mortgage approvals.",
-      "breakdown": [
-        {
-          "heading": "The wholesale volume engine",
-          "body": "UWM moves massive amounts of paper. Any technology that speeds up decisioning on their platform directly impacts broker turnaround times nationwide."
-        },
-        {
-          "heading": "Underwriting the automation claim",
-          "body": "When executives call results off the charts, underwriters look at the repurchase risk. Speed is great, but clean quality control keeps doors open."
-        },
-        {
-          "heading": "The battle for broker loyalty",
-          "body": "Proprietary tools and alternative scoring adoption are the new battleground for keeping independent brokers locked into a single ecosystem."
-        },
-        {
-          "heading": "Data standards are shifting",
-          "body": "The industry is steadily moving away from rigid legacy scoring models toward inclusive trended data that reflects modern consumer financial behavior."
-        }
-      ],
-      "my_take_heading": "Technology cannot fix bad fundamentals",
-      "my_take": "Faster underwriting engines and alternative scores are helpful, but they won't lower a 7.5% interest rate or create more housing inventory.",
-      "action_lo": "Test drive every new broker tool your primary lender offers so you can spot operational bottlenecks before your borrowers do.",
-      "action_realtor": "Keep your clients educated on how changing credit tech might help borderline borrowers qualify faster this fall.",
-      "cta_question": "Do you trust automated underwriting systems to make the final call on complex self-employed files?"
-    },
-    {
-      "slug": "aven-forest-river-heloc",
-      "title": "Aven and Forest River bring HELOC financing to RV dealerships",
-      "source": "National Mortgage Professional",
-      "source_url": "https://nationalmortgageprofessional.com/news/aven-forest-river-heloc-financing-rv-dealerships",
-      "cover_text": "HELOCs at RV dealerships are here.",
-      "caption": "Home equity is leaving the traditional mortgage office. Aven and RV manufacturer Forest River have launched a co-branded HELOC linked to a credit card, letting buyers finance major recreational purchases right at the dealership floor without ever talking to a mortgage loan officer. As a veteran who watched home equity products sit dormant for a decade, I find this evolution fascinating. Non-traditional lenders are aggressively monetizing home equity faster than traditional banks can issue a standard appraisal. Here is what this consumer shift means for your mortgage business.\n\nSource : https://tinyurl.com/26ty4vx4\n#SafetrustMortgage #MortgageIntelligenceDaily #homebuying #realestateinvesting #loanofficer",
-      "hashtags": [
-        "#SafetrustMortgage",
-        "#MortgageIntelligenceDaily",
-        "#homebuying",
         "#realestateinvesting",
-        "#loanofficer"
+        "#homebuying"
       ],
-      "hook_tag": "Home Equity Disruption",
-      "hook": "You can now buy an RV with a HELOC at the dealership. Seriously.",
-      "what_happened_heading": "HELOCs move to retail floors",
-      "what_happened": "Aven and RV maker Forest River launched a co-branded card combining a HELOC with credit lines for marine and RV purchases. This allows qualified homeowners to access home equity directly at the dealership without a traditional lender.",
+      "hook_tag": "Delinquency Data",
+      "hook": "Serious mortgage delinquencies just spiked 19% year-over-year. Here is what is really happening.",
+      "what_happened_heading": "The end of a five-month improvement",
+      "what_happened": "A five-month stretch of improvement in serious mortgage delinquencies ended in August according to ICE's First Look report. Loans 90 or more days past due increased by 11,000 for the month to 574,000 total.",
       "breakdown": [
         {
-          "heading": "Bypassing the traditional loan officer",
-          "body": "Borrowers no longer need to call their local bank or broker to tap equity for a major luxury purchase. Point-of-sale financing is winning."
+          "heading": "Separating noise from signal",
+          "body": "A 19% year-over-year jump sounds alarming on a news ticker. In reality, it represents 92,000 more loans out of a massive multi-trillion-dollar national mortgage debt pool."
         },
         {
-          "heading": "Underwriting equity in real time",
-          "body": "Instant data verification allows these platforms to approve credit lines on the showroom floor. Speed is replacing traditional manual asset verification."
+          "heading": "The underwriting reality check",
+          "body": "When we look at credit files today versus 2008, underwriting standards are night and day. Borrowers sitting in these delinquent buckets are largely legacy modifications or unique judicial foreclosure bottlenecks."
         },
         {
-          "heading": "Monetizing accumulated wealth",
-          "body": "With trillions in tappable home equity locked up nationwide, non-mortgage companies figured out how to monetize it before we did."
+          "heading": "Servicing pipeline friction",
+          "body": "Loss mitigation departments are stretched thin trying to navigate permanent modifications as pandemic-era forbearances and early programs finally wind down entirely."
         },
         {
-          "heading": "The hidden lien risk",
-          "body": "More revolving senior or junior liens hitting title reports means traditional lenders must monitor subordinate debt much closer during refinances."
+          "heading": "No macro distress signal",
+          "body": "Because home equity levels remain at historic highs, true forced liquidations remain low. Borrowers typically sell or cash-out refi long before reaching foreclosure auction."
         }
       ],
-      "my_take_heading": "The danger of friction-free debt",
-      "my_take": "When tapping home equity becomes as easy as swiping a credit card at a dealership, consumer debt risk skyrockets.",
-      "action_lo": "Reach out to your past database immediately to offer structured HELOC options before retail dealerships tap their equity first.",
-      "action_realtor": "Remind your homeowners that treating their equity like an ATM for recreational toys can complicate future real estate moves.",
-      "cta_question": "Are traditional loan officers losing their monopoly on home equity products to fintech disruptors?"
-    }
-  ],
-  "carousels_es": [
-    {
-      "slug": "rocket-vantagescore-switch",
-      "title": "Rocket Mortgage cambia de FICO a VantageScore",
-      "source": "The Truth About Mortgage",
-      "source_url": "https://www.thetruthaboutmortgage.com/rocket-mortgage-making-the-switch-from-fico-to-vantagescore/",
-      "cover_text": "Rocket cambia FICO por VantageScore 4.0.",
-      "caption": "El nombre más grande en la originación minorista está haciendo un giro masivo. Rocket Mortgage anunció que, a partir del cuarto trimestre de 2026, usará VantageScore 4.0 por defecto para todos los tipos de préstamos elegibles, incluidos los de Fannie Mae y Freddie Mac. Como veterano de 20 años que ha pasado una década como asesor hipotecario, te puedo decir que esto no es solo una actualización de software. Cambia fundamentalmente cómo se calcula el riesgo crediticio y quién obtiene una carta de aprobación. Cuando los prestamistas más grandes cambian su infraestructura de datos fundamental, el resto del mercado secundario no tiene más remedio que tomar nota. Esto es lo que significa este cambio para tus clientes y tu equipo de procesamiento.\n\nFuente : https://tinyurl.com/28vkm2yn\n#SafetrustMortgage #MortgageIntelligenceDaily #mortgagerates #homebuying #loanofficer",
-      "hashtags": [
-        "#SafetrustMortgage",
-        "#MortgageIntelligenceDaily",
-        "#mortgagerates",
-        "#homebuying",
-        "#loanofficer"
-      ],
-      "hook_tag": "Cambio en Puntuación de Crédito",
-      "hook": "Rocket abandona FICO. Esto es lo que realmente significa para tus clientes.",
-      "what_happened_heading": "Rocket adopta VantageScore 4.0",
-      "what_happened": "Rocket Mortgage anunció que, a partir del cuarto trimestre de 2026, usará VantageScore 4.0 por defecto en lugar de FICO. El cambio aplica a todos los tipos de préstamos elegibles, incluidos los respaldados por Fannie Mae y Freddie Mac.",
-      "breakdown": [
-        {
-          "heading": "El puntaje detrás de la cortina",
-          "body": "Durante décadas, FICO ha sido el guardián indiscutible de las hipotecas en EE. UU. Alejarse de él es un terremoto estructural para el mercado secundario."
-        },
-        {
-          "heading": "El asesor evaluando la tendencia",
-          "body": "Cuando un expediente llega al asesor con VantageScore 4.0, se ve un historial de datos y mayor inclusión. A menudo rescata expedientes que FICO rechaza automáticamente."
-        },
-        {
-          "heading": "La estrategia de las agencias",
-          "body": "Como esto aplica a préstamos de Fannie y Freddie, Rocket se inclina por el impulso de las GSE para modernizar los puntajes de crédito y expandir el acceso."
-        },
-        {
-          "heading": "Dificultades operativas iniciales",
-          "body": "Tus sistemas de evaluación automatizada y motores de precios deben comunicarse sin problemas con el nuevo modelo. Espera un breve período de ajuste para los resultados del AUS."
-        }
-      ],
-      "my_take_heading": "La verdadera razón detrás del cambio",
-      "my_take": "Esto no es por caridad o inclusión. Se trata de costos de datos y de controlar el proceso de originación de principio a fin.",
-      "action_lo": "Audita tu propio CRM y software de originación de préstamos para asegurar la compatibilidad con las guías de VantageScore 4.0 antes del lanzamiento en el cuarto trimestre.",
-      "action_realtor": "Habla con tus prestamistas preferidos sobre cómo los modelos de puntuación alternativos podrían pronto ayudar a tus compradores que están en el límite a calificar.",
-      "cta_question": "¿Estás listo para explicar las diferencias de VantageScore a tus socios de bienes raíces, o sigues con los hábitos de FICO? Deja tus comentarios abajo."
+      "my_take_heading": "The headline vs. the file",
+      "my_take": "Headlines love to weaponize delinquency percentages. At the file level, today's borrower equity cushions completely change the endgame compared to past cycles.",
+      "action_lo": "Arm your real estate partners with macro data to help them calm jittery buyers worried about a housing crash.",
+      "action_realtor": "Use equity data to show sellers that current market distress is localized and nowhere near systemic collapse levels.",
+      "cta_question": "Are your buyers bringing up foreclosure fears when writing offers in this rate environment?"
     },
     {
-      "slug": "eleven-mortgage-wholesale-exit",
-      "title": "Eleven Mortgage sale del mercado mayorista con préstamos aún en proceso",
-      "source": "National Mortgage Professional",
-      "source_url": "https://nationalmortgageprofessional.com/news/eleven-mortgage-exits-wholesale-loans-still-pipeline",
-      "cover_text": "Otro prestamista mayorista cae.",
-      "caption": "El canal mayorista acaba de sufrir otro golpe. Eleven Mortgage se retiró abruptamente de los préstamos mayoristas y corresponsales, poniendo fin a una trayectoria de ocho años y dejando a los brokers con préstamos activos en proceso. Benchmark Mortgage confirmó que redirigirá recursos de Eleven. Si alguna vez has tenido un prestamista que se retira a mitad del proceso, conoces el pánico que causa a los prestatarios y a los oficiales de préstamos. Como ex asesor, te puedo decir que la gestión de préstamos en proceso es un asunto complicado. Aquí te mostramos cómo proteger tus expedientes cuando un socio mayorista cierra sus puertas de repente.\n\nFuente : https://tinyurl.com/24qekqvz\n#SafetrustMortgage #MortgageIntelligenceDaily #mortgagebroker #housingmarket #loanofficer",
+      "slug": "zillow-antitrust-lawsuit",
+      "title": "Judge denies Zillow’s motion to dismiss antitrust lawsuit",
+      "source": "HousingWire",
+      "source_url": "https://www.housingwire.com/articles/zillow-antitrust-lawsuit-tying/",
+      "cover_text": "Zillow loses antitrust motion to dismiss.",
+      "caption": "The portal wars just escalated. A federal judge denied Zillow's motion to dismiss an antitrust lawsuit, zeroing in on allegations of 35% to 40% referral fees and a dominant 60% audience share. When a tech platform commands that much market real estate and ties services together, regulatory and legal crosshairs are inevitable. For realtors and lenders who rely on portal leads to feed their pipelines, this lawsuit signals potential structural changes ahead for lead generation pricing. If your entire GCI (Gross Commission Income) depends on paying high referral fees to a single giant, your business model has a single point of failure. How are you diversifying your lead sources?\n\nSource : https://tinyurl.com/2y8o6gqq\n#SafetrustMortgage #MortgageIntelligenceDaily #realestateagent #housingmarket #mortgagebroker",
       "hashtags": [
         "#SafetrustMortgage",
         "#MortgageIntelligenceDaily",
-        "#mortgagebroker",
+        "#realestateagent",
         "#housingmarket",
-        "#loanofficer"
+        "#mortgagebroker"
       ],
-      "hook_tag": "Impacto en el Canal Mayorista",
-      "hook": "Eleven Mortgage salió del mercado mayorista al instante. Así salvas tus préstamos.",
-      "what_happened_heading": "Eleven Mortgage cierra su división mayorista",
-      "what_happened": "Eleven Mortgage terminó su trayectoria de ocho años en la originación de terceros con efecto inmediato. Benchmark Mortgage confirmó que está redirigiendo el liderazgo y el capital de la unidad, dejando expedientes de préstamos activos en el aire.",
+      "hook_tag": "Portal Antitrust",
+      "hook": "A federal judge just kept Zillow's antitrust lawsuit alive. The portal model is on trial.",
+      "what_happened_heading": "The motion to dismiss denial",
+      "what_happened": "A federal court denied Zillow's motion to dismiss an antitrust lawsuit. The judge cited disputed 35% to 40% referral fees and claims of a 60% audience share in letting the case move forward.",
       "breakdown": [
         {
-          "heading": "La repentina escasez de liquidez",
-          "body": "Cuando un prestamista sale de la noche a la mañana, suele indicar una grave presión en los márgenes o una reasignación de la empresa matriz. Los gastos están aplastando a las empresas medianas ahora."
+          "heading": "The tying arrangement scrutiny",
+          "body": "The core of the lawsuit attacks how platforms allegedly bundle visibility and lead routing. Antitrust law looks hard at whether dominant players leverage market share to force compliance."
         },
         {
-          "heading": "Asesoramiento en modo pánico",
-          "body": "Cuando un expediente está en la cola de cierre de un prestamista que cerró, no tienes control sobre las condiciones finales. Debes volver a divulgar y apresurar la transferencia de inmediato."
+          "heading": "The referral fee pinch",
+          "body": "Taking up to 40% off the top of a realtor or team commission leaves very thin margins. High referral fees directly impact how agents price and fund their local marketing efforts."
         },
         {
-          "heading": "El peor escenario para el broker",
-          "body": "A los prestatarios no les importa por qué cerró un prestamista. Solo les importa que su tasa de interés está a punto de expirar y que la fecha de cierre está en riesgo."
+          "heading": "The lender connection",
+          "body": "When portal economics shift, affiliated mortgage joint ventures and ad placements feel the downstream impact. Lead cost efficiency dictates how loan officers buy and convert internet leads."
         },
         {
-          "heading": "Protegiendo tus tasas de pérdida",
-          "body": "Un retiro masivo repentino dispara tu tasa de cierre y bloquea los depósitos de arras. Los rescates rápidos de broker a broker son tu única salvación."
+          "heading": "Discovery will set the agenda",
+          "body": "Moving past the motion to dismiss means internal emails, pricing strategies, and algorithmic lead routing practices will face public discovery. Expect plenty of industry fallout."
         }
       ],
-      "my_take_heading": "La sacudida se acelera",
-      "my_take": "Si el balance de un prestamista depende de un volumen bajo para sobrevivir en este entorno de tasas, no llegará al próximo trimestre.",
-      "action_lo": "Revisa cada préstamo activo en tu proceso hoy mismo e identifica qué prestamistas mayoristas tienen el respaldo de capital más frágil.",
-      "action_realtor": "Pregunta directamente a tus prestamistas asociados sobre sus líneas de crédito de almacén para que tus clientes nunca se vean atrapados en un cierre repentino.",
-      "cta_question": "¿En cuántos socios mayoristas confías actualmente para tu volumen? ¿Estás consolidando con los gigantes?"
-    },
-    {
-      "slug": "uwm-vantagescore-ishbia",
-      "title": "Mat Ishbia de UWM apoya VantageScore 4.0",
-      "source": "HousingWire",
-      "source_url": "https://www.housingwire.com/articles/uwm-ishbia-vantagescore-4-mortgages/",
-      "cover_text": "Ishbia apoya VantageScore 4.0 para brokers.",
-      "caption": "En el reciente evento AIME Fuse, el CEO de UWM, Mat Ishbia, respaldó VantageScore 4.0 y elogió los resultados del programa Underwriter+ como excepcionales. Cuando el mayor prestamista mayorista del país comienza a cambiar su postura sobre la puntuación de crédito y la tecnología de asesoramiento, todo el ecosistema reacciona. Habiendo originado préstamos y trabajado como asesor, miro más allá del bombo publicitario para ver cómo se afecta realmente el flujo de expedientes. La automatización es tan buena como las decisiones humanas detrás de ella. Esto es lo que realmente está sucediendo debajo de la superficie del último impulso tecnológico de UWM.\n\nFuente : https://tinyurl.com/2by76639\n#SafetrustMortgage #MortgageIntelligenceDaily #mortgagerates #mortgagebroker #housingmarket",
-      "hashtags": [
-        "#SafetrustMortgage",
-        "#MortgageIntelligenceDaily",
-        "#mortgagerates",
-        "#mortgagebroker",
-        "#housingmarket"
-      ],
-      "hook_tag": "Impulso Tecnológico Mayorista",
-      "hook": "Mat Ishbia apuesta por VantageScore. Esto es lo que el bombo no dice.",
-      "what_happened_heading": "UWM impulsa nueva tecnología de puntuación",
-      "what_happened": "En el evento AIME Fuse, el líder de UWM, Mat Ishbia, respaldó VantageScore 4.0 y destacó resultados excepcionales del programa Underwriter+. Este impulso llega mientras los principales prestamistas repensan cómo fluyen los datos de crédito hacia las aprobaciones de hipotecas.",
-      "breakdown": [
-        {
-          "heading": "El motor de volumen mayorista",
-          "body": "UWM mueve una enorme cantidad de trabajo. Cualquier tecnología que acelere la toma de decisiones en su plataforma impacta directamente los tiempos de respuesta de los brokers a nivel nacional."
-        },
-        {
-          "heading": "El asesor evaluando la automatización",
-          "body": "Cuando los ejecutivos llaman a los resultados 'excepcionales', los asesores miran el riesgo de recompra. La velocidad es genial, pero un control de calidad limpio mantiene las puertas abiertas."
-        },
-        {
-          "heading": "La batalla por la lealtad del broker",
-          "body": "Las herramientas propias y la adopción de puntuación alternativa son el nuevo campo de batalla para mantener a los brokers independientes anclados a un solo ecosistema."
-        },
-        {
-          "heading": "Los estándares de datos están cambiando",
-          "body": "La industria se aleja constantemente de los modelos de puntuación rígidos y anticuados hacia datos de tendencia inclusivos que reflejan el comportamiento financiero moderno del consumidor."
-        }
-      ],
-      "my_take_heading": "La tecnología no soluciona problemas de base",
-      "my_take": "Motores de asesoramiento más rápidos y puntuaciones alternativas son útiles, pero no bajarán una tasa de interés del 7.5% ni crearán más inventario de viviendas.",
-      "action_lo": "Prueba cada nueva herramienta de broker que tu prestamista principal ofrece para que puedas detectar cuellos de botella operativos antes que tus prestatarios.",
-      "action_realtor": "Mantén a tus clientes informados sobre cómo los cambios en la tecnología de crédito podrían ayudar a los prestatarios que están en el límite a calificar más rápido este otoño.",
-      "cta_question": "¿Confías en los sistemas de evaluación automatizados para tomar la decisión final en expedientes complejos de trabajadores autónomos?"
-    },
-    {
-      "slug": "aven-forest-river-heloc",
-      "title": "Aven y Forest River llevan el financiamiento HELOC a los concesionarios de vehículos recreativos",
-      "source": "National Mortgage Professional",
-      "source_url": "https://nationalmortgageprofessional.com/news/aven-forest-river-heloc-financing-rv-dealerships",
-      "cover_text": "HELOCs en concesionarios de RV ya están aquí.",
-      "caption": "El capital hipotecario está saliendo de la oficina hipotecaria tradicional. Aven y el fabricante de vehículos recreativos Forest River han lanzado una línea de crédito con garantía hipotecaria (HELOC) de marca compartida, vinculada a una tarjeta de crédito, permitiendo a los compradores financiar grandes compras recreativas directamente en el concesionario sin hablar con un oficial de préstamos hipotecarios. Como veterano que vio productos de capital hipotecario inactivos durante una década, encuentro esta evolución fascinante. Los prestamistas no tradicionales están monetizando agresivamente el capital hipotecario más rápido de lo que los bancos tradicionales pueden emitir una tasación estándar. Esto es lo que significa este cambio de consumidor para tu negocio hipotecario.\n\nFuente : https://tinyurl.com/26ty4vx4\n#SafetrustMortgage #MortgageIntelligenceDaily #homebuying #realestateinvesting #loanofficer",
-      "hashtags": [
-        "#SafetrustMortgage",
-        "#MortgageIntelligenceDaily",
-        "#homebuying",
-        "#realestateinvesting",
-        "#loanofficer"
-      ],
-      "hook_tag": "Disrupción del Capital Hipotecario",
-      "hook": "Ahora puedes comprar un RV con un HELOC en el concesionario. En serio.",
-      "what_happened_heading": "Los HELOC llegan a las tiendas minoristas",
-      "what_happened": "Aven y el fabricante de RV Forest River lanzaron una tarjeta de marca compartida que combina un HELOC con líneas de crédito para compras de embarcaciones y RV. Esto permite a los propietarios calificados acceder al capital de su vivienda directamente en el concesionario sin un prestamista tradicional.",
-      "breakdown": [
-        {
-          "heading": "Saltándose al oficial de préstamos tradicional",
-          "body": "Los prestatarios ya no necesitan llamar a su banco o broker local para usar el capital de su vivienda para una compra de lujo. El financiamiento en el punto de venta está ganando."
-        },
-        {
-          "heading": "Evaluando el capital en tiempo real",
-          "body": "La verificación instantánea de datos permite a estas plataformas aprobar líneas de crédito en la sala de exposición. La velocidad está reemplazando la verificación manual de activos tradicional."
-        },
-        {
-          "heading": "Monetizando la riqueza acumulada",
-          "body": "Con billones en capital hipotecario disponible en todo el país, las empresas no hipotecarias descubrieron cómo monetizarlo antes que nosotros."
-        },
-        {
-          "heading": "El riesgo de gravamen oculto",
-          "body": "Más gravámenes rotatorios, senior o junior, en los informes de título significan que los prestamistas tradicionales deben monitorear la deuda subordinada mucho más de cerca durante los refinanciamientos."
-        }
-      ],
-      "my_take_heading": "El peligro de la deuda sin fricciones",
-      "my_take": "Cuando acceder al capital hipotecario se vuelve tan fácil como deslizar una tarjeta de crédito en un concesionario, el riesgo de deuda del consumidor se dispara.",
-      "action_lo": "Comunícate de inmediato con tu base de datos anterior para ofrecer opciones de HELOC estructuradas antes de que los concesionarios minoristas accedan a su capital primero.",
-      "action_realtor": "Recuerda a tus propietarios que tratar su capital como un cajero automático para juguetes recreativos puede complicar futuros movimientos inmobiliarios.",
-      "cta_question": "¿Están los oficiales de préstamos tradicionales perdiendo su monopolio sobre los productos de capital hipotecario frente a los disruptores de tecnología financiera?"
+      "my_take_heading": "The end of rented audience",
+      "my_take": "Renting your entire business pipeline from a single portal is a dangerous game. This lawsuit proves reliance on tech gatekeepers carries massive structural risk.",
+      "action_lo": "Build direct partnerships with local originators and agents instead of relying strictly on purchased portal lead feeds.",
+      "action_realtor": "Invest in personal brand and database marketing so your business survives any future shifts in portal pricing.",
+      "cta_question": "What percentage of your closed volume comes from paying high referral fees to third-party real estate portals?"
     }
   ]
 }
