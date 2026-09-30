@@ -168,5 +168,175 @@
       "action_realtor": "Invest in personal brand and database marketing so your business survives any future shifts in portal pricing.",
       "cta_question": "What percentage of your closed volume comes from paying high referral fees to third-party real estate portals?"
     }
+  ],
+  "carousels_es": [
+    {
+      "slug": "rocket-vantagescore-default",
+      "title": "Rocket hace de VantageScore su valor predeterminado después de que las pruebas encontraron ahorros para el prestatario",
+      "source": "National Mortgage Professional",
+      "source_url": "https://nationalmortgageprofessional.com/news/rocket-makes-vantagescore-its-default-after-testing-finds-borrower-savings",
+      "cover_text": "Rocket dejó FICO como predeterminado.",
+      "caption": "El monopolio de tu puntaje de crédito se está resquebrajando oficialmente. Que Rocket Mortgage adopte VantageScore 4.0 como su modelo preferido de puntaje de crédito, tras probar el ahorro para el prestatario, no es solo una actualización de software. Es un cambio sísmico en cómo se fijan los precios de los préstamos. Durante años, la industria estuvo atada a un único modelo de puntaje. Ahora, la competencia está generando ahorros reales para los prestatarios que antes no calificaban con los modelos de crédito tradicionales. Si no estás atento a cómo los prestamistas enrutan los informes de crédito, tu cartera está dejando puntos básicos sobre la mesa. Comparte tus opiniones sobre la fijación de precios multi-score abajo.\n\nFuente : https://tinyurl.com/24ckfmt5\n#SafetrustMortgage #MortgageIntelligenceDaily #mortgagerates #homebuying #loanofficer",
+      "hashtags": [
+        "#SafetrustMortgage",
+        "#MortgageIntelligenceDaily",
+        "#mortgagerates",
+        "#homebuying",
+        "#loanofficer"
+      ],
+      "hook_tag": "Cambio en Puntaje de Crédito",
+      "hook": "Rocket Mortgage acaba de hacer de VantageScore su modelo predeterminado. Así es por qué importa.",
+      "what_happened_heading": "El cambio a un puntaje alternativo",
+      "what_happened": "Rocket Mortgage está adoptando VantageScore 4.0 como su modelo de puntaje de crédito preferido para préstamos elegibles durante el cuarto trimestre. Esto sigue a unos cuatro meses de pruebas junto con el clásico FICO, que encontraron ahorros tangibles para el prestatario.",
+      "breakdown": [
+        {
+          "heading": "El fin de un monopolio",
+          "body": "Durante décadas, el FICO clásico fue el guardián indiscutible del crédito hipotecario. Que Fannie Mae y Freddie Mac abrieran la puerta a VantageScore 4.0 cambió las reglas para calificar."
+        },
+        {
+          "heading": "Evaluando el puntaje alternativo",
+          "body": "Cuando un expediente llega a evaluación con VantageScore 4.0, vemos los datos de crédito de forma diferente. Captura el historial de pagos de alquiler y servicios públicos que los modelos antiguos pasan por alto en casos límite."
+        },
+        {
+          "heading": "La alineación de precios",
+          "body": "FHFA aseguró que ambos modelos de puntaje compartan una única tabla de LLPA (Ajuste de Precios a Nivel de Préstamo). Los prestamistas ya no serán penalizados por usar el puntaje alternativo en entregas convencionales."
+        },
+        {
+          "heading": "El efecto dominó",
+          "body": "Cuando un gigante como Rocket cambia de puntaje, los mercados secundarios y los prestamistas mayoristas competidores deben adaptarse rápido. Los negocios pequeños no pueden darse el lujo de ignorar el aumento en la tasa de aprobación."
+        }
+      ],
+      "my_take_heading": "El giro estratégico del crédito",
+      "my_take": "FICO ya no es el único modelo. Los prestamistas que no adopten estrategias multi-score perderán negocios frente a quienes saben optimizar los modelos de crédito.",
+      "action_lo": "Haz una comparación en expedientes negados o al límite usando VantageScore 4.0 para ver si le ahorra dinero a tu cliente.",
+      "action_realtor": "Pregúntales a tus prestamistas cómo manejan los puntajes de crédito alternativos para clientes con historiales escasos o poco convencionales.",
+      "cta_question": "¿Ya estás usando puntajes de crédito duales en tus expedientes límite, o esperas a que tus competidores lo hagan primero?"
+    },
+    {
+      "slug": "ai-monitoring-gap",
+      "title": "Encuesta de IA hipotecaria encuentra brecha de monitoreo en prestamistas pequeños",
+      "source": "National Mortgage Professional",
+      "source_url": "https://nationalmortgageprofessional.com/news/mortgage-ai-survey-finds-monitoring-gap-smaller-lenders",
+      "cover_text": "Mayoría de prestamistas con políticas de IA, sin supervisión.",
+      "caption": "Escribir una política de IA y supervisar el algoritmo son dos mundos totalmente distintos. Una nueva encuesta de AARMR, MBA y Boston Consulting Group revela que, aunque el 87% de los prestamistas tienen estándares de IA escritos, un asombroso 58% no monitorea esas herramientas después de su implementación. Este punto ciego de cumplimiento es una bomba de tiempo para las operaciones y los mercados secundarios. Como asesor, si no puedo auditar cómo se generó una decisión, el expediente se detiene. Revisa tu tecnología antes de que los reguladores y los prestamistas mayoristas lo hagan por ti. ¿Cuál es tu proceso actual de revisión de IA después de la implementación?\n\nFuente : https://tinyurl.com/257yt4n6\n#SafetrustMortgage #MortgageIntelligenceDaily #mortgagerates #realestateagent #homebuying",
+      "hashtags": [
+        "#SafetrustMortgage",
+        "#MortgageIntelligenceDaily",
+        "#mortgagerates",
+        "#realestateagent",
+        "#homebuying"
+      ],
+      "hook_tag": "Riesgo de Cumplimiento de IA",
+      "hook": "El 87% de los prestamistas tiene políticas de IA, pero la mayoría olvidó vigilarlas.",
+      "what_happened_heading": "El vacío de monitoreo post-lanzamiento",
+      "what_happened": "Una nueva encuesta de AARMR, MBA y Boston Consulting Group encontró que el 87% de las compañías hipotecarias encuestadas tienen estándares de IA escritos. Sin embargo, el 58% reportó una completa falta de monitoreo consistente después de la implementación.",
+      "breakdown": [
+        {
+          "heading": "La ilusión del cumplimiento",
+          "body": "Tener una política escrita en un servidor corporativo no satisface las expectativas regulatorias. Los reguladores quieren ver una validación activa y continua de las decisiones automatizadas, especialmente en asesoramiento y fijación de precios."
+        },
+        {
+          "heading": "La pesadilla de la auditoría del asesor",
+          "body": "Cuando una herramienta automatizada aprueba o rechaza un expediente, el departamento de asesoramiento es responsable de su validez. Si el modelo se desvía y nadie lo revisa, el riesgo de recompra recae directamente en las ganancias y pérdidas."
+        },
+        {
+          "heading": "La desventaja de escala",
+          "body": "Los bancos hipotecarios independientes más pequeños se están quedando atrás en la supervisión posterior a la implementación. Adoptan el software para obtener eficiencia, pero carecen de personal de cumplimiento dedicado para auditar los resultados continuamente."
+        },
+        {
+          "heading": "Exposición del prestamista mayorista",
+          "body": "Las líneas de crédito mayoristas se preocupan mucho por la integridad algorítmica. Si los modelos de valoración automatizados o los bots de asesoramiento producen perfiles de riesgo sesgados, los proveedores de liquidez ajustarán los convenios rápidamente."
+        }
+      ],
+      "my_take_heading": "La ilusión de la supervisión",
+      "my_take": "Comprar software de IA es fácil. Demostrarle a un auditor que el algoritmo no discriminó seis meses después de su implementación es donde los prestamistas perderán dinero.",
+      "action_lo": "Audita hoy a tus proveedores de tecnología internos y exige pruebas escritas de su monitoreo de precisión post-implementación.",
+      "action_realtor": "Asóciate con prestamistas que tengan protocolos de cumplimiento herméticos para que tus transacciones nunca se estanquen por auditorías tecnológicas.",
+      "cta_question": "¿Cómo está tu equipo de cumplimiento rastreando actualmente la desviación algorítmica en tus flujos de trabajo de asesoramiento automatizado?"
+    },
+    {
+      "slug": "serious-delinquencies-rise",
+      "title": "Morosidades hipotecarias graves aumentan 19% tras cinco meses de mejora",
+      "source": "National Mortgage Professional",
+      "source_url": "https://nationalmortgageprofessional.com/news/serious-delinquencies-rise-19-after-five-months-improvement",
+      "cover_text": "Morosidades graves suben un 19 por ciento.",
+      "caption": "La racha de cinco meses de mejora en las morosidades hipotecarias graves acaba de terminar. Según el último informe First Look de ICE, los préstamos con 90 o más días de atraso aumentaron un 19% interanual, llegando a 574,000 préstamos morosos. Antes de que los pesimistas empiecen a gritar \"2008 otra vez\", miremos la mecánica real a nivel de préstamo. Esto no es una nueva ola generalizada de ventas por pánico o de originaciones imprudentes de alto riesgo. Es un atraso persistente que se está resolviendo a través de los canales de servicio tradicionales. No dejes que los titulares de los medios de comunicación asusten a tus clientes compradores esta semana. ¿Qué les estás diciendo a tus agentes sobre la salud actual del mercado?\n\nFuente : https://tinyurl.com/22gta6yb\n#SafetrustMortgage #MortgageIntelligenceDaily #housingmarket #realestateinvesting #homebuying",
+      "hashtags": [
+        "#SafetrustMortgage",
+        "#MortgageIntelligenceDaily",
+        "#housingmarket",
+        "#realestateinvesting",
+        "#homebuying"
+      ],
+      "hook_tag": "Datos de Morosidad",
+      "hook": "Las morosidades hipotecarias graves subieron 19% interanual. Esto es lo que realmente pasa.",
+      "what_happened_heading": "El fin de una mejora de cinco meses",
+      "what_happened": "Un período de cinco meses de mejora en las morosidades hipotecarias graves terminó en agosto, según el informe First Look de ICE. Los préstamos con 90 o más días de atraso aumentaron en 11,000 durante el mes, llegando a un total de 574,000.",
+      "breakdown": [
+        {
+          "heading": "Separando el ruido de la señal",
+          "body": "Un aumento del 19% interanual suena alarmante en las noticias. En realidad, representa 92,000 préstamos más de un enorme grupo de deuda hipotecaria nacional de billones de dólares."
+        },
+        {
+          "heading": "La realidad del asesoramiento",
+          "body": "Cuando vemos expedientes de crédito hoy versus 2008, los estándares de asesoramiento son como la noche y el día. Los prestatarios en mora son en gran parte modificaciones antiguas o cuellos de botella únicos en ejecuciones judiciales."
+        },
+        {
+          "heading": "Fricción en el proceso de servicio",
+          "body": "Los departamentos de mitigación de pérdidas están sobrecargados tratando de gestionar las modificaciones permanentes mientras las moratorias de la era pandémica y los primeros programas finalmente terminan."
+        },
+        {
+          "heading": "No hay señal de macro angustia",
+          "body": "Debido a que los niveles de plusvalía (equity) se mantienen en máximos históricos, las liquidaciones forzadas reales siguen siendo bajas. Los prestatarios suelen vender o refinanciar mucho antes de llegar a la subasta de ejecución hipotecaria."
+        }
+      ],
+      "my_take_heading": "El titular vs. el expediente",
+      "my_take": "A los titulares les encanta usar porcentajes de morosidad. A nivel de expediente, los colchones de plusvalía de hoy cambian por completo el desenlace comparado con ciclos anteriores.",
+      "action_lo": "Proporciona a tus socios inmobiliarios datos macro para ayudarlos a calmar a los compradores nerviosos por una caída del mercado inmobiliario.",
+      "action_realtor": "Usa los datos de plusvalía para mostrar a los vendedores que el estrés actual del mercado es localizado y no se acerca a niveles de colapso sistémico.",
+      "cta_question": "¿Tus compradores mencionan temores de ejecución hipotecaria al hacer ofertas en este entorno de tasas?"
+    },
+    {
+      "slug": "zillow-antitrust-lawsuit",
+      "title": "Juez niega moción de Zillow para desestimar demanda antimonopolio",
+      "source": "HousingWire",
+      "source_url": "https://www.housingwire.com/articles/zillow-antitrust-lawsuit-tying/",
+      "cover_text": "Zillow pierde moción antimonopolio para desestimar.",
+      "caption": "Las guerras de portales acaban de escalar. Un juez federal negó la moción de Zillow para desestimar una demanda antimonopolio, enfocándose en acusaciones de tarifas de referencia del 35% al 40% y una cuota de audiencia dominante del 60%. Cuando una plataforma tecnológica domina tanto el mercado inmobiliario y vincula servicios, las miradas regulatorias y legales son inevitables. Para los agentes inmobiliarios y prestamistas que dependen de los leads de portales para alimentar sus carteras, esta demanda indica posibles cambios estructurales en los precios de generación de leads. Si tu GCI (Ingreso Bruto por Comisiones) depende de pagar altas tarifas de referencia a un solo gigante, tu modelo de negocio tiene un único punto de falla. ¿Cómo estás diversificando tus fuentes de leads?\n\nFuente : https://tinyurl.com/2y8o6gqq\n#SafetrustMortgage #MortgageIntelligenceDaily #realestateagent #housingmarket #mortgagebroker",
+      "hashtags": [
+        "#SafetrustMortgage",
+        "#MortgageIntelligenceDaily",
+        "#realestateagent",
+        "#housingmarket",
+        "#mortgagebroker"
+      ],
+      "hook_tag": "Antimonopolio de Portal",
+      "hook": "Un juez federal mantuvo viva la demanda antimonopolio de Zillow. El modelo de portal está en juicio.",
+      "what_happened_heading": "La negación de la moción para desestimar",
+      "what_happened": "Un tribunal federal negó la moción de Zillow para desestimar una demanda antimonopolio. El juez citó disputadas tarifas de referencia del 35% al 40% y alegaciones de una cuota de audiencia del 60% al permitir que el caso avance.",
+      "breakdown": [
+        {
+          "heading": "El escrutinio del acuerdo de vinculación",
+          "body": "El centro de la demanda ataca cómo las plataformas supuestamente agrupan la visibilidad y el enrutamiento de leads. La ley antimonopolio examina si los actores dominantes aprovechan su cuota de mercado para forzar el cumplimiento."
+        },
+        {
+          "heading": "El pellizco de la tarifa de referencia",
+          "body": "Quitar hasta el 40% de la comisión de un agente inmobiliario o equipo deja márgenes muy delgados. Las altas tarifas de referencia impactan directamente cómo los agentes valoran y financian sus esfuerzos de marketing local."
+        },
+        {
+          "heading": "La conexión con el prestamista",
+          "body": "Cuando la economía de los portales cambia, las empresas conjuntas hipotecarias afiliadas y la colocación de anuncios sienten el impacto. La eficiencia del costo de los leads dicta cómo los asesores compran y convierten los leads de internet."
+        },
+        {
+          "heading": "El descubrimiento establecerá la agenda",
+          "body": "Avanzar más allá de la moción para desestimar significa que los correos electrónicos internos, las estrategias de precios y las prácticas algorítmicas de enrutamiento de leads enfrentarán un descubrimiento público. Espera muchas repercusiones en la industria."
+        }
+      ],
+      "my_take_heading": "El fin de la audiencia alquilada",
+      "my_take": "Alquilar toda tu cartera de negocios de un solo portal es un juego peligroso. Esta demanda demuestra que la dependencia de los guardianes tecnológicos conlleva un riesgo estructural enorme.",
+      "action_lo": "Construye asociaciones directas con originadores y agentes locales en lugar de depender estrictamente de la compra de leads de portales.",
+      "action_realtor": "Invierte en tu marca personal y marketing de base de datos para que tu negocio sobreviva a futuros cambios en los precios de los portales.",
+      "cta_question": "¿Qué porcentaje de tu volumen cerrado proviene de pagar altas tarifas de referencia a portales inmobiliarios de terceros?"
+    }
   ]
 }
