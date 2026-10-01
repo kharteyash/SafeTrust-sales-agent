@@ -168,5 +168,175 @@
       "action_realtor": "Understand that more credit scoring options mean fewer borderline buyers getting unfairly rejected by rigid legacy models.",
       "cta_question": "Are you ready to move past traditional FICO models in your daily origination workflow?"
     }
+  ],
+  "carousels_es": [
+    {
+      "slug": "rates-surging-demand-dropping",
+      "title": "Las tasas hipotecarias suben a un máximo de casi 3 años, lo que provoca una caída en la demanda",
+      "source": "CNBC",
+      "source_url": "https://www.cnbc.com/2026/09/30/mortgage-rates-jump-to-near-3-year-high-causing-demand-to-drop-.html",
+      "cover_text": "Tasas en 7.6%. La demanda se desploma.",
+      "caption": "Las tasas hipotecarias acaban de subir por sexta semana consecutiva, empujando las tasas fijas a 30 años de primer nivel al 7.60% y haciendo que la demanda hipotecaria disminuya por séptima semana consecutiva. Aunque los datos económicos como la inflación del PCE mostraron cierto enfriamiento, un PIB y un gasto del consumidor más fuertes de lo esperado mantuvieron el aumento de los rendimientos de los bonos. Aquí te explicamos por qué el plan habitual para la caída de las tasas está roto y qué significa esto para tu flujo de clientes.\n\nFuente : https://tinyurl.com/29yqtbal\n#SafetrustMortgage #MortgageIntelligenceDaily #mortgagerates #housingmarket #loanofficer",
+      "hashtags": [
+        "#SafetrustMortgage",
+        "#MortgageIntelligenceDaily",
+        "#mortgagerates",
+        "#housingmarket",
+        "#loanofficer"
+      ],
+      "hook_tag": "Chequeo de la Realidad de las Tasas",
+      "hook": "Las tasas acaban de tocar el 7.6% y el plan viejo ya no funciona.",
+      "what_happened_heading": "Las tasas suben mientras la demanda cae",
+      "what_happened": "Las tasas hipotecarias subieron por sexta semana consecutiva, alcanzando tasas fijas a 30 años de primer nivel del 7.60%. En consecuencia, la demanda hipotecaria general cayó por séptima semana consecutiva, mientras el mercado sufre los altos costos de los préstamos.",
+      "breakdown": [
+        {
+          "heading": "La paradoja de la inflación",
+          "body": "Hoy recibimos un informe de PCE (índice de precios de gastos de consumo personal, una medida de inflación) más moderado, que normalmente hace caer los rendimientos de los bonos. Sin embargo, los rendimientos alcanzaron nuevos máximos históricos."
+        },
+        {
+          "heading": "El PIB fuerte rompe la tendencia",
+          "body": "Un PIB (Producto Interno Bruto, el valor total de bienes y servicios producidos) y un gasto del consumidor más fuertes de lo esperado superaron completamente el alivio de la inflación en el mercado de bonos."
+        },
+        {
+          "heading": "El cuello de botella de los asesores",
+          "body": "Esto es lo que realmente cambia cuando un expediente llega a los asesores: los límites de DTI (relación deuda-ingresos, cuánto de tu ingreso se destina a la deuda) se están ajustando al límite absoluto."
+        },
+        {
+          "heading": "La realidad del flujo de clientes",
+          "body": "Cuando las tasas superan el 7.5%, los refinanciamientos de tasa y plazo desaparecen por completo. Si tu flujo no se basa en compras o extracción de capital, tu volumen será cero."
+        }
+      ],
+      "my_take_heading": "El cambio estructural",
+      "my_take": "Deja de esperar que la Reserva Federal salve tu flujo de clientes. El mercado está proyectando una realidad de tasas más altas por más tiempo.",
+      "action_lo": "Redirige hoy mismo todo el enfoque de tu CRM hacia soluciones de capital y productos de compra no tradicionales.",
+      "action_realtor": "Informa a los compradores sobre las reducciones de tasas (buydowns) y las estructuras de tasas ajustables antes de que se queden fuera del mercado por completo.",
+      "cta_question": "¿Cómo estás ajustando tu estrategia de originación para un piso de 7.5% en lugar de un techo? Comparte tus ideas abajo."
+    },
+    {
+      "slug": "september-price-drops-record",
+      "title": "La tasa de caída de precios sube a un récord en septiembre",
+      "source": "Redfin",
+      "source_url": "https://www.redfin.com/news/price-drop-rate-ticks-up/",
+      "cover_text": "Los vendedores están bajando precios a velocidad récord.",
+      "caption": "El veintiuno por ciento de los vendedores de casas en EE. UU. redujeron su precio de venta durante las cuatro semanas que terminaron el 20 de septiembre, marcando el porcentaje más alto para esta época del año en la historia registrada. Las guerras de ofertas están desapareciendo y las casas permanecen más tiempo en el mercado. Pero antes de que lo llames un colapso del mercado inmobiliario, mira más de cerca los datos. Aquí te explicamos lo que realmente está sucediendo detrás de los recortes de precios de los vendedores.\n\nFuente : https://tinyurl.com/2ylflk8l\n#SafetrustMortgage #MortgageIntelligenceDaily #housingmarket #homebuying #realestateagent",
+      "hashtags": [
+        "#SafetrustMortgage",
+        "#MortgageIntelligenceDaily",
+        "#housingmarket",
+        "#homebuying",
+        "#realestateagent"
+      ],
+      "hook_tag": "Corrección de Mercado",
+      "hook": "Los recortes récord de precios en septiembre no significan que el mercado inmobiliario esté colapsando.",
+      "what_happened_heading": "Los vendedores bajan precios rápidamente",
+      "what_happened": "El 21% de los vendedores de casas en EE. UU. redujeron sus precios de venta durante las cuatro semanas que terminaron el 20 de septiembre. Esto es un ligero aumento del 19.8% de hace un año y establece un nuevo récord para septiembre.",
+      "breakdown": [
+        {
+          "heading": "Las guerras de ofertas terminaron",
+          "body": "Los días de ofertas incondicionales e inspecciones eliminadas están desapareciendo rápidamente. Las casas permanecen más tiempo en el mercado, ya que los compradores chocan con un límite de asequibilidad estricto."
+        },
+        {
+          "heading": "La expectativa sin ajustar",
+          "body": "Los vendedores que pusieron precio a sus casas basándose en comparables de la primavera de 2024 finalmente se están dando cuenta de las tasas hipotecarias del 7.5%. Estas caídas de precios son simplemente un ajuste a la realidad."
+        },
+        {
+          "heading": "La realidad de la tasación",
+          "body": "Esto es lo que realmente cambia cuando un expediente llega a los asesores: la caída de los precios de lista significa que los tasadores se están volviendo híper-conservadores en el valor, lo que lleva a frecuentes brechas de valor."
+        },
+        {
+          "heading": "No es un colapso macro",
+          "body": "El inventario no está inundando el mercado en pánico. La tasa de caída de precios ha aumentado solo ligeramente, lo que demuestra que esta es una corrección de precios localizada, no un colapso total."
+        }
+      ],
+      "my_take_heading": "La ilusión de los precios",
+      "my_take": "Los vendedores no están vendiendo por pánico; solo se están dando cuenta de que su casa nunca valió lo que su vecino obtuvo hace dos años.",
+      "action_lo": "Advierte a tus clientes compradores sobre tasaciones más estrictas y prepáralos para posibles exenciones o diferencias en la tasación.",
+      "action_realtor": "Ten conversaciones francas con los vendedores desde el principio sobre cómo fijar precios por delante del mercado en lugar de perseguirlo.",
+      "cta_question": "¿Tus vendedores finalmente están escuchando la retroalimentación del mercado, o siguen persiguiendo el pico de ayer? Conversemos."
+    },
+    {
+      "slug": "newrez-homehub-wholesale-brokers",
+      "title": "Newrez convierte los datos de servicio en negocio repetido para corredores",
+      "source": "National Mortgage Professional",
+      "source_url": "https://nationalmortgageprofessional.com/news/newrez-turns-servicing-data-repeat-business-brokers",
+      "cover_text": "Datos de servicio ahora para corredores.",
+      "caption": "Newrez está extendiendo su plataforma de interacción con el propietario, HomeHub, a prestatarios mayoristas protegidos. Esto les da a los corredores hipotecarios un camino directo de regreso a clientes anteriores cuando surgen nuevas oportunidades de financiación. Durante años, los prestamistas minoristas tenían todas las ventajas de los datos de servicio. Ahora, los corredores mayoristas tienen una oportunidad de luchar para retener su cartera.\n\nFuente : https://tinyurl.com/267cd2pa\n#SafetrustMortgage #MortgageIntelligenceDaily #mortgagebroker #loanofficer #housingmarket",
+      "hashtags": [
+        "#SafetrustMortgage",
+        "#MortgageIntelligenceDaily",
+        "#mortgagebroker",
+        "#loanofficer",
+        "#housingmarket"
+      ],
+      "hook_tag": "Ventaja del Corredor",
+      "hook": "Los corredores mayoristas finalmente acceden al arma de datos de servicio.",
+      "what_happened_heading": "Newrez amplía acceso a HomeHub",
+      "what_happened": "Newrez está extendiendo su plataforma HomeHub a prestatarios mayoristas protegidos. Esto permite a los propietarios monitorear los valores de las viviendas, el capital y las oportunidades hipotecarias directamente a través de un portal con su marca.",
+      "breakdown": [
+        {
+          "heading": "La guerra por la retención de cartera",
+          "body": "Los prestamistas minoristas siempre usaron los datos de servicio para comercializar directamente con clientes anteriores. Los corredores mayoristas generalmente perdían esa relación en el momento en que se vendía o subarrendaba el préstamo."
+        },
+        {
+          "heading": "Seguimiento de capital en tiempo real",
+          "body": "HomeHub permite a los clientes monitorear los valores estimados de las viviendas y el capital, exponiendo automáticamente oportunidades de retiro de efectivo (cash-out) y línea de crédito con garantía hipotecaria (HELOC)."
+        },
+        {
+          "heading": "El cortafuegos de cumplimiento",
+          "body": "Esto es lo que realmente cambia cuando un expediente llega a los asesores: las herramientas de retención de clientes del corredor deben permanecer estrictamente dentro de las pautas de cumplimiento de RESPA (Ley de Procedimientos de Liquidación de Bienes Raíces, reglas federales contra sobornos)."
+        },
+        {
+          "heading": "Convertir clientes pasados en prospectos",
+          "body": "En lugar de comprar costosos prospectos de internet, los originadores ahora pueden confiar en alertas automatizadas de la plataforma cuando un prestatario protegido interactúa con sus datos de capital."
+        }
+      ],
+      "my_take_heading": "El ecualizador de datos",
+      "my_take": "Si eres un corredor que ignora las herramientas de retención de cartera, estás pagando el doble para adquirir clientes que ya cerraste.",
+      "action_lo": "Audita tus socios mayoristas actuales para ver cuáles ofrecen tecnología de retención orientada al cliente con tu marca.",
+      "action_realtor": "Asóciate con LOs que usan estas plataformas para que puedas mantenerte al tanto de los hitos de capital de tus compradores anteriores.",
+      "cta_question": "¿El intercambio de datos como este amenaza a los prestamistas minoristas, o es una victoria largamente esperada para los corredores mayoristas?"
+    },
+    {
+      "slug": "transunion-vantagescore-pricing",
+      "title": "TransUnion bloquea el precio de VantageScore en 99 centavos hasta 2028",
+      "source": "National Mortgage Professional",
+      "source_url": "https://nationalmortgageprofessional.com/news/transunion-locks-in-99-cent-vantagescore-pricing-through-2028",
+      "cover_text": "Precio de puntaje de crédito fijo en 99 centavos.",
+      "caption": "TransUnion está fijando su precio de 99 centavos para VantageScore 4.0 hasta finales de 2028, dando a los prestamistas hipotecarios casi tres años más de certeza de precios. A medida que la competencia entre los modelos de puntuación de crédito avanza más profundamente en la producción real de préstamos, este movimiento establece un enorme campo de batalla para las agencias de crédito y los costos de datos de las GSE (Empresas Patrocinadas por el Gobierno como Fannie Mae o Freddie Mac).\n\nFuente : https://tinyurl.com/2dna244j\n#SafetrustMortgage #MortgageIntelligenceDaily #mortgagerates #firsttimehomebuyer #loanofficer",
+      "hashtags": [
+        "#SafetrustMortgage",
+        "#MortgageIntelligenceDaily",
+        "#mortgagerates",
+        "#firsttimehomebuyer",
+        "#loanofficer"
+      ],
+      "hook_tag": "Guerras de Crédito",
+      "hook": "TransUnion fijó el precio de informes de crédito en 99 centavos hasta 2028.",
+      "what_happened_heading": "Precio de VantageScore asegurado",
+      "what_happened": "TransUnion anunció que fijará su precio de 99 centavos para VantageScore 4.0 hasta finales de 2028. Esto proporciona a los prestamistas hipotecarios una certeza de precios extendida durante un entorno de costos volátil.",
+      "breakdown": [
+        {
+          "heading": "El ajuste del oligopolio crediticio",
+          "body": "Los prestamistas han visto cómo las tarifas de los informes de crédito se disparan en los últimos años. Este bloqueo de precios es una jugada agresiva para capturar cuota de mercado de los modelos FICO tradicionales."
+        },
+        {
+          "heading": "Integración de producción",
+          "body": "La certeza de precios permite a los prestamistas presupuestar los gastos operativos sin temor a aumentos repentinos de las tarifas de las agencias de crédito que se transmiten en las divulgaciones de cierre."
+        },
+        {
+          "heading": "El ajuste del asesor",
+          "body": "Esto es lo que realmente cambia cuando un expediente llega a los asesores: los asesores se sienten más cómodos evaluando modelos de puntuación alternativos que capturan a prestatarios con un historial crediticio limitado."
+        },
+        {
+          "heading": "Evolución crediticia de las GSE",
+          "body": "Con Fannie y Freddie explorando modelos de puntuación de crédito propios junto con VantageScore, el monopolio en la puntuación de crédito hipotecario finalmente se está desmoronando."
+        }
+      ],
+      "my_take_heading": "El fin del monopolio",
+      "my_take": "El precio de los puntajes de crédito nunca debió ser un centro de ganancias. La competencia finalmente está forzando precios razonables.",
+      "action_lo": "Revisa la configuración de tu LOS (Sistema de Operación de Préstamos, el software utilizado para procesar hipotecas) para asegurarte de que estás listo para extraer y comparar archivos de VantageScore 4.0 sin problemas.",
+      "action_realtor": "Comprende que más opciones de puntuación de crédito significan menos compradores en el límite siendo rechazados injustamente por modelos rígidos y anticuados.",
+      "cta_question": "¿Estás listo para ir más allá de los modelos FICO tradicionales en tu flujo de trabajo diario de originación?"
+    }
   ]
 }
