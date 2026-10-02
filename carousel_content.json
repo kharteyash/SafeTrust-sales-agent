@@ -1,342 +1,172 @@
 {
   "carousels": [
     {
-      "slug": "rates-surging-demand-dropping",
-      "title": "Mortgage rates jump to near 3-year high causing demand to drop",
-      "source": "CNBC",
-      "source_url": "https://www.cnbc.com/2026/09/30/mortgage-rates-jump-to-near-3-year-high-causing-demand-to-drop-.html",
-      "cover_text": "Rates hit 7.6%. Demand is crashing.",
-      "caption": "Mortgage rates just jumped for the sixth straight week, pushing top-tier 30-year fixed rates to 7.60% and driving mortgage demand down for the seventh consecutive week. While economic data like PCE inflation showed some cooling, stronger-than-expected GDP and consumer spending kept bond yields climbing. Here is why the usual playbook for falling rates is broken and what this means for your pipeline.\n\nSource : https://tinyurl.com/29yqtbal\n#SafetrustMortgage #MortgageIntelligenceDaily #mortgagerates #housingmarket #loanofficer",
+      "slug": "bi-merge-credit-reports",
+      "title": "FHFA Orders Fannie and Freddie to Accept Two-Bureau Credit Reports",
+      "source": "HousingWire",
+      "source_url": "https://www.housingwire.com/articles/fhfa-bi-merge-credit-reports-fannie-freddie/",
+      "cover_text": "Tri-merge credit is officially on the chopping block.",
+      "caption": "The FHFA is moving Fannie and Freddie to a two-bureau credit reporting standard, ending the long-standing tri-merge requirement. For years, the industry relied on pulling three scores and taking the middle. Dropping to a bi-merge model changes how files are priced, underwritten, and packaged for the secondary market. If you are running an origination shop, your vendor integrations and AUS engines need to get ahead of this transition before the mandate drops. This shift impacts every corner of the pipeline, from initial processing down to final AUS clearing. How is your operations team preparing for the bi-merge transition?\n\nSource : https://tinyurl.com/22tyc86h\n#SafetrustMortgage #MortgageIntelligenceDaily #mortgagenews #loanofficer #underwriting",
       "hashtags": [
         "#SafetrustMortgage",
         "#MortgageIntelligenceDaily",
-        "#mortgagerates",
-        "#housingmarket",
-        "#loanofficer"
-      ],
-      "hook_tag": "Rate Reality Check",
-      "hook": "Rates just touched 7.6% and the old playbook is officially dead.",
-      "what_happened_heading": "Rates climb as demand drops",
-      "what_happened": "Mortgage rates jumped for the sixth straight week, hitting top-tier 30-year fixed rates of 7.60%. Consequently, overall mortgage demand dropped for the seventh straight week as the market strains under high borrowing costs.",
-      "breakdown": [
-        {
-          "heading": "The inflation paradox",
-          "body": "We got a tamer PCE (Personal Consumption Expenditures price index, a measure of inflation) report this morning, which normally drops bond yields. Instead, yields hit new long-term highs."
-        },
-        {
-          "heading": "Strong GDP breaks the trend",
-          "body": "Stronger-than-expected GDP (Gross Domestic Product, the total value of goods and services produced) and consumer spending completely overpowered the inflation relief in the bond market."
-        },
-        {
-          "heading": "The underwriting bottleneck",
-          "body": "Here is what this actually changes when a file hits underwriting: DTI (Debt-to-Income ratio, how much of your income goes to debt) limits are getting squeezed to the absolute breaking point."
-        },
-        {
-          "heading": "Pipeline reality",
-          "body": "When rates push past 7.5%, rate-and-term refis completely vanish. If your pipeline isn't built on purchase or equity extraction, you are sitting on zero volume."
-        }
-      ],
-      "my_take_heading": "The structural shift",
-      "my_take": "Stop waiting for the Fed to save your pipeline. The market is pricing in a permanent higher-for-longer reality.",
-      "action_lo": "Pivot your entire CRM focus to equity solutions and non-traditional purchase products today.",
-      "action_realtor": "Educate buyers on buydowns and adjustable-rate structures before they price themselves out completely.",
-      "cta_question": "How are you adjusting your origination strategy for a 7.5% floor instead of a ceiling? Drop your thoughts below."
-    },
-    {
-      "slug": "september-price-drops-record",
-      "title": "Price-Drop Rate Ticks Up to Record September Rate",
-      "source": "Redfin",
-      "source_url": "https://www.redfin.com/news/price-drop-rate-ticks-up/",
-      "cover_text": "Sellers are slashing prices at record speeds.",
-      "caption": "Twenty-one percent of U.S. home sellers dropped their asking price during the four weeks ending September 20, marking the highest share for this time of year in recorded history. Bidding wars are fading and homes are lingering on the market. But before you call it a housing crash, look closer at the data. Here is what is actually happening behind the seller price cuts.\n\nSource : https://tinyurl.com/2ylflk8l\n#SafetrustMortgage #MortgageIntelligenceDaily #housingmarket #homebuying #realestateagent",
-      "hashtags": [
-        "#SafetrustMortgage",
-        "#MortgageIntelligenceDaily",
-        "#housingmarket",
-        "#homebuying",
-        "#realestateagent"
-      ],
-      "hook_tag": "Market Correction",
-      "hook": "Record price cuts in September do not mean the housing market is crashing.",
-      "what_happened_heading": "Sellers cut prices rapidly",
-      "what_happened": "21% of U.S. home sellers dropped their asking prices during the four weeks ending September 20. This is up slightly from 19.8% a year earlier and sets a new record for September.",
-      "breakdown": [
-        {
-          "heading": "Bidding wars are gone",
-          "body": "The days of unconditional offers and waived inspections are fading fast. Homes are lingering longer on the market as buyers hit a strict affordability wall."
-        },
-        {
-          "heading": "The unadjusted expectation",
-          "body": "Sellers who priced their homes based on spring 2024 comps are finally waking up to 7.5% mortgage rates. These price drops are simply a reality check."
-        },
-        {
-          "heading": "The appraisal reality",
-          "body": "Here is what this actually changes when a file hits underwriting: falling list prices mean appraisers are getting hyper-conservative on value, leading to frequent value gaps."
-        },
-        {
-          "heading": "Not a macro crash",
-          "body": "Inventory is not flooding the market in a panic. The price-drop rate has risen only slightly, proving this is a localized pricing correction, not a total collapse."
-        }
-      ],
-      "my_take_heading": "The pricing illusion",
-      "my_take": "Sellers aren't panic-selling; they are just realizing their home was never worth what their neighbor got two years ago.",
-      "action_lo": "Warn your purchase clients about tighter appraisals and prep them for potential appraisal waivers or gaps.",
-      "action_realtor": "Have hard conversations with sellers early about pricing ahead of the market rather than chasing it down.",
-      "cta_question": "Are your sellers finally listening to market feedback, or are they still chasing yesterday's peak? Let's discuss."
-    },
-    {
-      "slug": "newrez-homehub-wholesale-brokers",
-      "title": "Newrez Turns Servicing Data Into Repeat Business For Brokers",
-      "source": "National Mortgage Professional",
-      "source_url": "https://nationalmortgageprofessional.com/news/newrez-turns-servicing-data-repeat-business-brokers",
-      "cover_text": "Servicing data is now available to brokers.",
-      "caption": "Newrez is extending its homeowner-engagement platform, HomeHub, to protected wholesale borrowers. This gives mortgage brokers a direct path back to past clients when new financing opportunities arise. For years, retail lenders held all the servicing data advantages. Now, wholesale brokers have a fighting chance to retain their portfolio.\n\nSource : https://tinyurl.com/267cd2pa\n#SafetrustMortgage #MortgageIntelligenceDaily #mortgagebroker #loanofficer #housingmarket",
-      "hashtags": [
-        "#SafetrustMortgage",
-        "#MortgageIntelligenceDaily",
-        "#mortgagebroker",
+        "#mortgagenews",
         "#loanofficer",
-        "#housingmarket"
+        "#underwriting"
       ],
-      "hook_tag": "Broker Advantage",
-      "hook": "Wholesale brokers finally get access to the servicing data weapon.",
-      "what_happened_heading": "Newrez expands HomeHub access",
-      "what_happened": "Newrez is extending its HomeHub platform to protected wholesale borrowers. This allows homeowners to monitor home values, equity, and mortgage opportunities directly through a branded portal.",
+      "hook_tag": "Credit Reporting Shakeup",
+      "hook": "Why the mandatory tri-merge credit report is about to become history.",
+      "what_happened_heading": "Fhfa targets tri-merge credit reports",
+      "what_happened": "The FHFA is set to order Fannie Mae and Freddie Mac to accept two-bureau credit reports instead of the traditional three. The new requirement is expected to take effect one to three months after it is officially announced.",
       "breakdown": [
         {
-          "heading": "The portfolio retention war",
-          "body": "Retail lenders have always used servicing data to market directly to past clients. Wholesale brokers usually lost that relationship the second the loan was sold or sub-serviced."
+          "heading": "The end of the middle score",
+          "body": "For decades, lenders pulled Equifax, Experian, and TransUnion data to throw out the high and low, using the middle score for qualification."
         },
         {
-          "heading": "Real-time equity tracking",
-          "body": "HomeHub lets clients monitor estimated home values and equity, exposing cash-out and HELOC (Home Equity Line of Credit, a loan backed by home equity) opportunities automatically."
+          "heading": "Cutting down consumer costs",
+          "body": "Proponents argue that moving to a bi-merge report will significantly lower credit report fees for borrowers at the point of application."
         },
         {
-          "heading": "The compliance firewall",
-          "body": "Here is what this actually changes when a file hits underwriting: broker-client retention tools must stay strictly within RESPA (Real Estate Settlement Procedures Act, federal rules against kickbacks) compliance guardrails."
+          "heading": "Underwriting logic changes",
+          "body": "When a file hits underwriting under a bi-merge model, underwriters will evaluate risk based on just two scores, altering borderline credit decisions."
         },
         {
-          "heading": "Turning past clients into leads",
-          "body": "Instead of buying expensive internet leads, originators can now rely on automated platform alerts when a protected borrower interacts with their equity data."
+          "heading": "Vendor integration hurdles",
+          "body": "Lenders and credit vendors must update their loan origination software and automated underwriting system connections within a very tight rollout window."
         }
       ],
-      "my_take_heading": "The data equalizer",
-      "my_take": "If you are a broker ignoring portfolio retention tools, you are paying twice to acquire clients you already closed.",
-      "action_lo": "Audit your current wholesale partners to see which ones offer client-facing retention tech branded to your shop.",
-      "action_realtor": "Partner with LOs who use these platforms so you can stay looped into your past buyers' equity milestones.",
-      "cta_question": "Does data-sharing like this threaten retail lenders, or is it a long-overdue win for wholesale brokers?"
+      "my_take_heading": "The hidden cost of cutting a bureau",
+      "my_take": "Saving borrowers twenty bucks on a credit report is great, but shifting to a two-bureau model creates a brand new variance in risk assessment that underwriters are going to have to manually police.",
+      "action_lo": "Audit your current credit vendor contracts and ask how their software will handle the two-bureau switchover.",
+      "action_realtor": "Let your buyers know that credit scoring models are evolving, making early credit optimization more critical than ever.",
+      "cta_question": "Do you think a two-bureau model introduces too much risk, or is tri-merge just an outdated tax on borrowers?"
     },
     {
-      "slug": "transunion-vantagescore-pricing",
-      "title": "TransUnion Locks In 99-Cent VantageScore Pricing Through 2028",
+      "slug": "uwm-vantagescore-adjustment",
+      "title": "UWM Removes 20-Point VantageScore Adjustment",
       "source": "National Mortgage Professional",
-      "source_url": "https://nationalmortgageprofessional.com/news/transunion-locks-in-99-cent-vantagescore-pricing-through-2028",
-      "cover_text": "Credit score pricing locked at 99 cents.",
-      "caption": "TransUnion is locking in its 99-cent price for VantageScore 4.0 through the end of 2028, giving mortgage lenders nearly three more years of price certainty. As competition between credit-scoring models moves deeper into actual loan production, this move sets up a massive battleground for credit bureaus and GSE (Government-Sponsored Enterprise like Fannie Mae or Freddie Mac) data costs.\n\nSource : https://tinyurl.com/2dna244j\n#SafetrustMortgage #MortgageIntelligenceDaily #mortgagerates #firsttimehomebuyer #loanofficer",
+      "source_url": "https://nationalmortgageprofessional.com/news/uwm-removes-20-point-vantagescore-adjustment",
+      "cover_text": "Vantagescore just got a major seat at the table.",
+      "caption": "United Wholesale Mortgage has officially eliminated its 20-point adjustment on VantageScore, aligning with Fannie and Freddie's new unified pricing grid. For years, Classic FICO held a near-monopoly on mortgage underwriting. Now, lenders and brokers have a real path to integrate VantageScore 4.0 without taking a pricing penalty on the back end. This shifts how files are priced and opens up credit access for millions of unscorability-challenged borrowers. If you are an originator, it is time to look at how alternative scoring models affect your pipeline pricing. Are you ready to explain VantageScore to your referral partners?\n\nSource : https://tinyurl.com/27y7dg9m\n#SafetrustMortgage #MortgageIntelligenceDaily #mortgagerates #loanofficer #mortgagebroker",
       "hashtags": [
         "#SafetrustMortgage",
         "#MortgageIntelligenceDaily",
         "#mortgagerates",
-        "#firsttimehomebuyer",
-        "#loanofficer"
-      ],
-      "hook_tag": "Credit Wars",
-      "hook": "TransUnion just locked credit report pricing at 99 cents through 2028.",
-      "what_happened_heading": "VantageScore pricing secured",
-      "what_happened": "TransUnion announced it is locking in its 99-cent price for VantageScore 4.0 through the end of 2028. This provides mortgage lenders with extended price certainty during a volatile cost environment.",
-      "breakdown": [
-        {
-          "heading": "The credit oligopoly squeeze",
-          "body": "Lenders have watched credit report fees skyrocket over the last few years. This price lock is a direct aggressive play to capture market share from legacy FICO models."
-        },
-        {
-          "heading": "Production integration",
-          "body": "Price certainty allows lenders to budget operational overhead without fearing sudden credit bureau fee hikes passed down on closing disclosures."
-        },
-        {
-          "heading": "The underwriting adjustment",
-          "body": "Here is what this actually changes when a file hits underwriting: underwriters are getting more comfortable evaluating alternative scoring models that capture thin-file borrowers."
-        },
-        {
-          "heading": "GSE credit evolution",
-          "body": "With Fannie and Freddie exploring proprietary credit scoring models alongside VantageScore, the monopoly on mortgage credit scoring is finally breaking apart."
-        }
-      ],
-      "my_take_heading": "The end of the monopoly",
-      "my_take": "Credit score pricing should never have been a profit center. Competition is finally forcing rational pricing.",
-      "action_lo": "Check your LOS (Loan Operating System, the software used to process mortgages) setup to ensure you are ready to pull and compare VantageScore 4.0 files seamlessly.",
-      "action_realtor": "Understand that more credit scoring options mean fewer borderline buyers getting unfairly rejected by rigid legacy models.",
-      "cta_question": "Are you ready to move past traditional FICO models in your daily origination workflow?"
-    }
-  ],
-  "carousels_es": [
-    {
-      "slug": "rates-surging-demand-dropping",
-      "title": "Las tasas hipotecarias suben a un máximo de casi 3 años, lo que provoca una caída en la demanda",
-      "source": "CNBC",
-      "source_url": "https://www.cnbc.com/2026/09/30/mortgage-rates-jump-to-near-3-year-high-causing-demand-to-drop-.html",
-      "cover_text": "Tasas en 7.6%. La demanda se desploma.",
-      "caption": "Las tasas hipotecarias acaban de subir por sexta semana consecutiva, empujando las tasas fijas a 30 años de primer nivel al 7.60% y haciendo que la demanda hipotecaria disminuya por séptima semana consecutiva. Aunque los datos económicos como la inflación del PCE mostraron cierto enfriamiento, un PIB y un gasto del consumidor más fuertes de lo esperado mantuvieron el aumento de los rendimientos de los bonos. Aquí te explicamos por qué el plan habitual para la caída de las tasas está roto y qué significa esto para tu flujo de clientes.\n\nFuente : https://tinyurl.com/29yqtbal\n#SafetrustMortgage #MortgageIntelligenceDaily #mortgagerates #housingmarket #loanofficer",
-      "hashtags": [
-        "#SafetrustMortgage",
-        "#MortgageIntelligenceDaily",
-        "#mortgagerates",
-        "#housingmarket",
-        "#loanofficer"
-      ],
-      "hook_tag": "Chequeo de la Realidad de las Tasas",
-      "hook": "Las tasas acaban de tocar el 7.6% y el plan viejo ya no funciona.",
-      "what_happened_heading": "Las tasas suben mientras la demanda cae",
-      "what_happened": "Las tasas hipotecarias subieron por sexta semana consecutiva, alcanzando tasas fijas a 30 años de primer nivel del 7.60%. En consecuencia, la demanda hipotecaria general cayó por séptima semana consecutiva, mientras el mercado sufre los altos costos de los préstamos.",
-      "breakdown": [
-        {
-          "heading": "La paradoja de la inflación",
-          "body": "Hoy recibimos un informe de PCE (índice de precios de gastos de consumo personal, una medida de inflación) más moderado, que normalmente hace caer los rendimientos de los bonos. Sin embargo, los rendimientos alcanzaron nuevos máximos históricos."
-        },
-        {
-          "heading": "El PIB fuerte rompe la tendencia",
-          "body": "Un PIB (Producto Interno Bruto, el valor total de bienes y servicios producidos) y un gasto del consumidor más fuertes de lo esperado superaron completamente el alivio de la inflación en el mercado de bonos."
-        },
-        {
-          "heading": "El cuello de botella de los asesores",
-          "body": "Esto es lo que realmente cambia cuando un expediente llega a los asesores: los límites de DTI (relación deuda-ingresos, cuánto de tu ingreso se destina a la deuda) se están ajustando al límite absoluto."
-        },
-        {
-          "heading": "La realidad del flujo de clientes",
-          "body": "Cuando las tasas superan el 7.5%, los refinanciamientos de tasa y plazo desaparecen por completo. Si tu flujo no se basa en compras o extracción de capital, tu volumen será cero."
-        }
-      ],
-      "my_take_heading": "El cambio estructural",
-      "my_take": "Deja de esperar que la Reserva Federal salve tu flujo de clientes. El mercado está proyectando una realidad de tasas más altas por más tiempo.",
-      "action_lo": "Redirige hoy mismo todo el enfoque de tu CRM hacia soluciones de capital y productos de compra no tradicionales.",
-      "action_realtor": "Informa a los compradores sobre las reducciones de tasas (buydowns) y las estructuras de tasas ajustables antes de que se queden fuera del mercado por completo.",
-      "cta_question": "¿Cómo estás ajustando tu estrategia de originación para un piso de 7.5% en lugar de un techo? Comparte tus ideas abajo."
-    },
-    {
-      "slug": "september-price-drops-record",
-      "title": "La tasa de caída de precios sube a un récord en septiembre",
-      "source": "Redfin",
-      "source_url": "https://www.redfin.com/news/price-drop-rate-ticks-up/",
-      "cover_text": "Los vendedores están bajando precios a velocidad récord.",
-      "caption": "El veintiuno por ciento de los vendedores de casas en EE. UU. redujeron su precio de venta durante las cuatro semanas que terminaron el 20 de septiembre, marcando el porcentaje más alto para esta época del año en la historia registrada. Las guerras de ofertas están desapareciendo y las casas permanecen más tiempo en el mercado. Pero antes de que lo llames un colapso del mercado inmobiliario, mira más de cerca los datos. Aquí te explicamos lo que realmente está sucediendo detrás de los recortes de precios de los vendedores.\n\nFuente : https://tinyurl.com/2ylflk8l\n#SafetrustMortgage #MortgageIntelligenceDaily #housingmarket #homebuying #realestateagent",
-      "hashtags": [
-        "#SafetrustMortgage",
-        "#MortgageIntelligenceDaily",
-        "#housingmarket",
-        "#homebuying",
-        "#realestateagent"
-      ],
-      "hook_tag": "Corrección de Mercado",
-      "hook": "Los recortes récord de precios en septiembre no significan que el mercado inmobiliario esté colapsando.",
-      "what_happened_heading": "Los vendedores bajan precios rápidamente",
-      "what_happened": "El 21% de los vendedores de casas en EE. UU. redujeron sus precios de venta durante las cuatro semanas que terminaron el 20 de septiembre. Esto es un ligero aumento del 19.8% de hace un año y establece un nuevo récord para septiembre.",
-      "breakdown": [
-        {
-          "heading": "Las guerras de ofertas terminaron",
-          "body": "Los días de ofertas incondicionales e inspecciones eliminadas están desapareciendo rápidamente. Las casas permanecen más tiempo en el mercado, ya que los compradores chocan con un límite de asequibilidad estricto."
-        },
-        {
-          "heading": "La expectativa sin ajustar",
-          "body": "Los vendedores que pusieron precio a sus casas basándose en comparables de la primavera de 2024 finalmente se están dando cuenta de las tasas hipotecarias del 7.5%. Estas caídas de precios son simplemente un ajuste a la realidad."
-        },
-        {
-          "heading": "La realidad de la tasación",
-          "body": "Esto es lo que realmente cambia cuando un expediente llega a los asesores: la caída de los precios de lista significa que los tasadores se están volviendo híper-conservadores en el valor, lo que lleva a frecuentes brechas de valor."
-        },
-        {
-          "heading": "No es un colapso macro",
-          "body": "El inventario no está inundando el mercado en pánico. La tasa de caída de precios ha aumentado solo ligeramente, lo que demuestra que esta es una corrección de precios localizada, no un colapso total."
-        }
-      ],
-      "my_take_heading": "La ilusión de los precios",
-      "my_take": "Los vendedores no están vendiendo por pánico; solo se están dando cuenta de que su casa nunca valió lo que su vecino obtuvo hace dos años.",
-      "action_lo": "Advierte a tus clientes compradores sobre tasaciones más estrictas y prepáralos para posibles exenciones o diferencias en la tasación.",
-      "action_realtor": "Ten conversaciones francas con los vendedores desde el principio sobre cómo fijar precios por delante del mercado en lugar de perseguirlo.",
-      "cta_question": "¿Tus vendedores finalmente están escuchando la retroalimentación del mercado, o siguen persiguiendo el pico de ayer? Conversemos."
-    },
-    {
-      "slug": "newrez-homehub-wholesale-brokers",
-      "title": "Newrez convierte los datos de servicio en negocio repetido para corredores",
-      "source": "National Mortgage Professional",
-      "source_url": "https://nationalmortgageprofessional.com/news/newrez-turns-servicing-data-repeat-business-brokers",
-      "cover_text": "Datos de servicio ahora para corredores.",
-      "caption": "Newrez está extendiendo su plataforma de interacción con el propietario, HomeHub, a prestatarios mayoristas protegidos. Esto les da a los corredores hipotecarios un camino directo de regreso a clientes anteriores cuando surgen nuevas oportunidades de financiación. Durante años, los prestamistas minoristas tenían todas las ventajas de los datos de servicio. Ahora, los corredores mayoristas tienen una oportunidad de luchar para retener su cartera.\n\nFuente : https://tinyurl.com/267cd2pa\n#SafetrustMortgage #MortgageIntelligenceDaily #mortgagebroker #loanofficer #housingmarket",
-      "hashtags": [
-        "#SafetrustMortgage",
-        "#MortgageIntelligenceDaily",
-        "#mortgagebroker",
         "#loanofficer",
-        "#housingmarket"
+        "#mortgagebroker"
       ],
-      "hook_tag": "Ventaja del Corredor",
-      "hook": "Los corredores mayoristas finalmente acceden al arma de datos de servicio.",
-      "what_happened_heading": "Newrez amplía acceso a HomeHub",
-      "what_happened": "Newrez está extendiendo su plataforma HomeHub a prestatarios mayoristas protegidos. Esto permite a los propietarios monitorear los valores de las viviendas, el capital y las oportunidades hipotecarias directamente a través de un portal con su marca.",
+      "hook_tag": "Credit Scoring Shift",
+      "hook": "Uwm just dropped its 20-point penalty on vantagescore. Here is why it matters.",
+      "what_happened_heading": "Uwm drops the vantagescore penalty",
+      "what_happened": "United Wholesale Mortgage has eliminated the 20-point adjustment it previously applied to VantageScore for new locks. This change coincides with Fannie Mae and Freddie Mac moving to aligned pricing across VantageScore and Classic FICO.",
       "breakdown": [
         {
-          "heading": "La guerra por la retención de cartera",
-          "body": "Los prestamistas minoristas siempre usaron los datos de servicio para comercializar directamente con clientes anteriores. Los corredores mayoristas generalmente perdían esa relación en el momento en que se vendía o subarrendaba el préstamo."
+          "heading": "Leveling the playing field",
+          "body": "By removing the 20-point penalty, lenders can finally price VantageScore 4.0 loans competitively without passing hidden costs to the consumer."
         },
         {
-          "heading": "Seguimiento de capital en tiempo real",
-          "body": "HomeHub permite a los clientes monitorear los valores estimados de las viviendas y el capital, exponiendo automáticamente oportunidades de retiro de efectivo (cash-out) y línea de crédito con garantía hipotecaria (HELOC)."
+          "heading": "The gse pricing alignment",
+          "body": "Fannie and Freddie implemented aligned pricing across credit models, forcing the wholesale and retail channels to adapt their pricing engines."
         },
         {
-          "heading": "El cortafuegos de cumplimiento",
-          "body": "Esto es lo que realmente cambia cuando un expediente llega a los asesores: las herramientas de retención de clientes del corredor deben permanecer estrictamente dentro de las pautas de cumplimiento de RESPA (Ley de Procedimientos de Liquidación de Bienes Raíces, reglas federales contra sobornos)."
+          "heading": "Underwriting thin credit files",
+          "body": "When a file hits underwriting with a VantageScore, underwriters will see a broader financial picture incorporating rental and utility payment histories."
         },
         {
-          "heading": "Convertir clientes pasados en prospectos",
-          "body": "En lugar de comprar costosos prospectos de internet, los originadores ahora pueden confiar en alertas automatizadas de la plataforma cuando un prestatario protegido interactúa con sus datos de capital."
+          "heading": "Broker flexibility expands",
+          "body": "Brokers now have more flexibility to choose the credit model that yields the best qualification terms for their specific borrower scenarios."
         }
       ],
-      "my_take_heading": "El ecualizador de datos",
-      "my_take": "Si eres un corredor que ignora las herramientas de retención de cartera, estás pagando el doble para adquirir clientes que ya cerraste.",
-      "action_lo": "Audita tus socios mayoristas actuales para ver cuáles ofrecen tecnología de retención orientada al cliente con tu marca.",
-      "action_realtor": "Asóciate con LOs que usan estas plataformas para que puedas mantenerte al tanto de los hitos de capital de tus compradores anteriores.",
-      "cta_question": "¿El intercambio de datos como este amenaza a los prestamistas minoristas, o es una victoria largamente esperada para los corredores mayoristas?"
+      "my_take_heading": "Fico's monopoly is finally cracking",
+      "my_take": "For years, FICO had zero real competition in the mortgage space. Removing this penalty is the exact catalyst the industry needed to make alternative credit scoring viable.",
+      "action_lo": "Run test scenarios comparing Classic FICO and VantageScore 4.0 on your borderline credit files today.",
+      "action_realtor": "Talk to your lending partners about how these new scoring models can help buyers who previously missed out on traditional financing.",
+      "cta_question": "Will you start actively utilizing VantageScore 4.0 now that the pricing penalty is gone?"
     },
     {
-      "slug": "transunion-vantagescore-pricing",
-      "title": "TransUnion bloquea el precio de VantageScore en 99 centavos hasta 2028",
+      "slug": "uad-appraisal-exceptions",
+      "title": "New Appraisal Rules Could Vary By Lender Under GSE Exception",
       "source": "National Mortgage Professional",
-      "source_url": "https://nationalmortgageprofessional.com/news/transunion-locks-in-99-cent-vantagescore-pricing-through-2028",
-      "cover_text": "Precio de puntaje de crédito fijo en 99 centavos.",
-      "caption": "TransUnion está fijando su precio de 99 centavos para VantageScore 4.0 hasta finales de 2028, dando a los prestamistas hipotecarios casi tres años más de certeza de precios. A medida que la competencia entre los modelos de puntuación de crédito avanza más profundamente en la producción real de préstamos, este movimiento establece un enorme campo de batalla para las agencias de crédito y los costos de datos de las GSE (Empresas Patrocinadas por el Gobierno como Fannie Mae o Freddie Mac).\n\nFuente : https://tinyurl.com/2dna244j\n#SafetrustMortgage #MortgageIntelligenceDaily #mortgagerates #firsttimehomebuyer #loanofficer",
+      "source_url": "https://nationalmortgageprofessional.com/news/new-appraisal-rules-could-vary-lender-under-gse-exception",
+      "cover_text": "The uad 3.6 rollout just hit a temporary roadblock.",
+      "caption": "Fannie Mae and Freddie Mac are offering temporary policy exceptions for lenders who cannot meet the Nov. 2 mandate for redesigned UAD 3.6 appraisals. This means your operational workflow might look completely different depending on which lender funds the loan. While some shops are fully transitioned, others will continue submitting legacy UAD 2.6 appraisals well into 2027. If you are a broker or operations manager, you need to know your wholesale partners' capabilities immediately. Inconsistency across lenders creates massive pipeline friction. How is your operations team handling the UAD transition?\n\nSource : https://tinyurl.com/24xpa3r6\n#SafetrustMortgage #MortgageIntelligenceDaily #mortgagenews #realestateagent #homebuying",
       "hashtags": [
         "#SafetrustMortgage",
         "#MortgageIntelligenceDaily",
-        "#mortgagerates",
-        "#firsttimehomebuyer",
-        "#loanofficer"
+        "#mortgagenews",
+        "#realestateagent",
+        "#homebuying"
       ],
-      "hook_tag": "Guerras de Crédito",
-      "hook": "TransUnion fijó el precio de informes de crédito en 99 centavos hasta 2028.",
-      "what_happened_heading": "Precio de VantageScore asegurado",
-      "what_happened": "TransUnion anunció que fijará su precio de 99 centavos para VantageScore 4.0 hasta finales de 2028. Esto proporciona a los prestamistas hipotecarios una certeza de precios extendida durante un entorno de costos volátil.",
+      "hook_tag": "Appraisal Rule Changes",
+      "hook": "Why your next appraisal might follow completely different rules depending on the lender.",
+      "what_happened_heading": "Gses offer uad appraisal exceptions",
+      "what_happened": "Fannie Mae and Freddie Mac are offering temporary policy exceptions to approved lenders that cannot meet the Nov. 2 mandate for the redesigned Uniform Appraisal Dataset. These lenders can continue submitting legacy UAD 2.6 appraisals well into 2027.",
       "breakdown": [
         {
-          "heading": "El ajuste del oligopolio crediticio",
-          "body": "Los prestamistas han visto cómo las tarifas de los informes de crédito se disparan en los últimos años. Este bloqueo de precios es una jugada agresiva para capturar cuota de mercado de los modelos FICO tradicionales."
+          "heading": "The November deadline looms",
+          "body": "The industry was told to prepare for a hard switch to UAD 3.6, but readiness gaps forced the GSEs to offer a safety valve."
         },
         {
-          "heading": "Integración de producción",
-          "body": "La certeza de precios permite a los prestamistas presupuestar los gastos operativos sin temor a aumentos repentinos de las tarifas de las agencias de crédito que se transmiten en las divulgaciones de cierre."
+          "heading": "Lender-specific compliance",
+          "body": "Some investors will require the new dataset immediately, while others will utilize the exception, creating a fragmented origination landscape."
         },
         {
-          "heading": "El ajuste del asesor",
-          "body": "Esto es lo que realmente cambia cuando un expediente llega a los asesores: los asesores se sienten más cómodos evaluando modelos de puntuación alternativos que capturan a prestatarios con un historial crediticio limitado."
+          "heading": "Underwriting valuation checks",
+          "body": "Underwriters must now juggle two entirely different appraisal formats, increasing review times and the risk of formatting condition errors."
         },
         {
-          "heading": "Evolución crediticia de las GSE",
-          "body": "Con Fannie y Freddie explorando modelos de puntuación de crédito propios junto con VantageScore, el monopolio en la puntuación de crédito hipotecario finalmente se está desmoronando."
+          "heading": "Impact on mortgage brokers",
+          "body": "Brokers must verify specific investor readiness to ensure their appraisal orders match what each lender's automated systems can process."
         }
       ],
-      "my_take_heading": "El fin del monopolio",
-      "my_take": "El precio de los puntajes de crédito nunca debió ser un centro de ganancias. La competencia finalmente está forzando precios razonables.",
-      "action_lo": "Revisa la configuración de tu LOS (Sistema de Operación de Préstamos, el software utilizado para procesar hipotecas) para asegurarte de que estás listo para extraer y comparar archivos de VantageScore 4.0 sin problemas.",
-      "action_realtor": "Comprende que más opciones de puntuación de crédito significan menos compradores en el límite siendo rechazados injustamente por modelos rígidos y anticuados.",
-      "cta_question": "¿Estás listo para ir más allá de los modelos FICO tradicionales en tu flujo de trabajo diario de originación?"
+      "my_take_heading": "A fragmented rollout is a risk multiplier",
+      "my_take": "Giving lenders an out on UAD 3.6 avoids a total market freeze, but letting some use legacy forms while others upgrade turns underwriting review into an operational nightmare.",
+      "action_lo": "Check with your top three wholesale lenders today to confirm if they are enforcing UAD 3.6 on November 2 or using the exception.",
+      "action_realtor": "Ask your preferred loan officers how their appraisal desk is handling the upcoming dataset transition to avoid closing delays.",
+      "cta_question": "Are your lending partners ready for UAD 3.6, or are they taking advantage of the GSE exception?"
+    },
+    {
+      "slug": "price-cuts-hit-four-year-high",
+      "title": "Price Cuts Hit Four-Year High As Mortgage Rates Top 7%",
+      "source": "National Mortgage Professional",
+      "source_url": "https://nationalmortgageprofessional.com/news/price-cuts-hit-four-year-high-mortgage-rates-top-7",
+      "cover_text": "One in five sellers just blinked on price.",
+      "caption": "More than 20% of homes listed for sale in September had a price reduction, hitting a four-year high as mortgage rates topped 7%. Inventory climbed to 1.16 million active listings, giving buyers more breathing room but punishing sellers who refuse to acknowledge current market realities. Higher rates are eating away at buyer purchasing power, forcing sellers to reevaluate their pricing strategies. If you are an agent or a loan officer, this environment demands proactive pricing conversations with your clients. Are your sellers adjusting fast enough to keep up with the market?\n\nSource : https://tinyurl.com/2yhf2pc3\n#SafetrustMortgage #MortgageIntelligenceDaily #housingmarket #realestateagent #homebuying",
+      "hashtags": [
+        "#SafetrustMortgage",
+        "#MortgageIntelligenceDaily",
+        "#housingmarket",
+        "#realestateagent",
+        "#homebuying"
+      ],
+      "hook_tag": "Housing Market Shift",
+      "hook": "Over twenty percent of home sellers just slashed their prices. Here is why.",
+      "what_happened_heading": "Price cuts hit a four-year high",
+      "what_happened": "More than one in five homes listed for sale had a price reduction in September, marking the highest share in nearly four years according to Realtor.com. Active inventory also climbed 5.4% from a year earlier to roughly 1.16 million listings.",
+      "breakdown": [
+        {
+          "heading": "Rates above seven percent",
+          "body": "Persistent mortgage rates hovering above 7% have sharply reduced buyer purchasing power, stalling activity on overpriced properties."
+        },
+        {
+          "heading": "Inventory continues to build",
+          "body": "Active listings reached 1.16 million, giving buyers more options and stripping away the artificial scarcity of previous years."
+        },
+        {
+          "heading": "Underwriting valuation pressure",
+          "body": "When a file hits underwriting in a cooling market with active price cuts, appraisers have a much harder time justifying peak-season comps."
+        },
+        {
+          "heading": "Seller mindset adjustment",
+          "body": "Sellers are finally realizing that sitting on the market leads to stale listings and deeper eventual discounts."
+        }
+      ],
+      "my_take_heading": "Sellers are finally trading greed for reality",
+      "my_take": "The four-year high in price cuts isn't a crash; it's a recalibration. Sellers who cling to 2023 pricing fantasies are learning that 7% rates do not care about their emotional attachment.",
+      "action_lo": "Review your pre-approval lists to see who can qualify at current rates with a slightly lower purchase price.",
+      "action_realtor": "Use these rising inventory and price-cut stats to counsel stubborn sellers on realistic pricing before their listing goes stale.",
+      "cta_question": "Are sellers in your local market finally accepting that 7% rates require price adjustments?"
     }
   ]
 }
