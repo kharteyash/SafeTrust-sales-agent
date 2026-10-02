@@ -168,5 +168,175 @@
       "action_realtor": "Use these rising inventory and price-cut stats to counsel stubborn sellers on realistic pricing before their listing goes stale.",
       "cta_question": "Are sellers in your local market finally accepting that 7% rates require price adjustments?"
     }
+  ],
+  "carousels_es": [
+    {
+      "slug": "bi-merge-credit-reports",
+      "title": "FHFA ordena a Fannie y Freddie aceptar informes de crédito de dos agencias",
+      "source": "HousingWire",
+      "source_url": "https://www.housingwire.com/articles/fhfa-bi-merge-credit-reports-fannie-freddie/",
+      "cover_text": "El crédito tri-merge tiene los días contados.",
+      "caption": "La FHFA está cambiando a Fannie y Freddie a un estándar de informes de crédito de dos agencias, poniendo fin al requisito de tri-merge. Durante años, la industria se basó en obtener tres puntajes y usar el del medio. Pasar a un modelo bi-merge cambia cómo se valoran los expedientes, cómo se evalúan y cómo se empaquetan para el mercado secundario. Si diriges una empresa de originación, tus integraciones de proveedores y motores AUS deben anticiparse a esta transición. Este cambio impacta cada rincón, desde el procesamiento inicial hasta la aprobación final del AUS. ¿Cómo se está preparando tu equipo de operaciones para la transición al bi-merge?\n\nFuente : https://tinyurl.com/22tyc86h\n#SafetrustMortgage #MortgageIntelligenceDaily #mortgagenews #loanofficer #underwriting",
+      "hashtags": [
+        "#SafetrustMortgage",
+        "#MortgageIntelligenceDaily",
+        "#mortgagenews",
+        "#loanofficer",
+        "#underwriting"
+      ],
+      "hook_tag": "Cambio en informes de crédito",
+      "hook": "Por qué el informe de crédito tri-merge obligatorio está a punto de ser historia.",
+      "what_happened_heading": "La FHFA apunta a los informes de crédito tri-merge",
+      "what_happened": "La FHFA está a punto de ordenar a Fannie Mae y Freddie Mac que acepten informes de crédito de dos agencias, en lugar de los tradicionales tres. Se espera que el nuevo requisito entre en vigor uno a tres meses después de su anuncio oficial.",
+      "breakdown": [
+        {
+          "heading": "El fin del puntaje central",
+          "body": "Durante décadas, los prestamistas usaban datos de Equifax, Experian y TransUnion. Descartaban el más alto y el más bajo, usando el puntaje del medio para calificar."
+        },
+        {
+          "heading": "Reducción de costos para el consumidor",
+          "body": "Los defensores argumentan que pasar a un informe bi-merge reducirá significativamente las tarifas de informes de crédito para los prestatarios al momento de la solicitud."
+        },
+        {
+          "heading": "Cambios en la lógica de evaluación",
+          "body": "Cuando un expediente llega a evaluación bajo un modelo bi-merge, los asesores evaluarán el riesgo basándose en solo dos puntajes, alterando decisiones de crédito límites."
+        },
+        {
+          "heading": "Obstáculos en la integración de proveedores",
+          "body": "Los prestamistas y proveedores de crédito deben actualizar su software de originación de préstamos y sistemas de evaluación automatizados en una ventana de implementación muy ajustada."
+        }
+      ],
+      "my_take_heading": "El costo oculto de eliminar una agencia",
+      "my_take": "Ahorrar a los prestatarios veinte dólares en un informe de crédito es bueno, pero el cambio a un modelo de dos agencias crea una nueva varianza en la evaluación de riesgos que los asesores tendrán que supervisar manualmente.",
+      "action_lo": "Audita tus contratos actuales con proveedores de crédito y pregunta cómo su software manejará el cambio a dos agencias.",
+      "action_realtor": "Informa a tus compradores que los modelos de puntaje de crédito están evolucionando, haciendo que la optimización temprana del crédito sea más crítica que nunca.",
+      "cta_question": "¿Crees que un modelo de dos agencias introduce demasiado riesgo, o el tri-merge es solo un impuesto obsoleto para los prestatarios?"
+    },
+    {
+      "slug": "uwm-vantagescore-adjustment",
+      "title": "UWM elimina el ajuste de 20 puntos de VantageScore",
+      "source": "National Mortgage Professional",
+      "source_url": "https://nationalmortgageprofessional.com/news/uwm-removes-20-point-vantagescore-adjustment",
+      "cover_text": "VantageScore acaba de obtener un puesto importante.",
+      "caption": "United Wholesale Mortgage ha eliminado oficialmente su ajuste de 20 puntos en VantageScore, alineándose con la nueva tabla de precios unificada de Fannie y Freddie. Durante años, Classic FICO tuvo un monopolio en la evaluación hipotecaria. Ahora, los prestamistas y corredores tienen un camino real para integrar VantageScore 4.0 sin penalizaciones en los precios. Esto cambia cómo se valoran los expedientes y abre el acceso al crédito para millones de prestatarios con desafíos de puntaje. Si eres un originador, es hora de ver cómo los modelos de puntaje alternativos afectan los precios de tu cartera. ¿Estás listo para explicar VantageScore a tus socios?\n\nFuente : https://tinyurl.com/27y7dg9m\n#SafetrustMortgage #MortgageIntelligenceDaily #mortgagerates #loanofficer #mortgagebroker",
+      "hashtags": [
+        "#SafetrustMortgage",
+        "#MortgageIntelligenceDaily",
+        "#mortgagerates",
+        "#loanofficer",
+        "#mortgagebroker"
+      ],
+      "hook_tag": "Cambio en puntaje de crédito",
+      "hook": "UWM eliminó la penalización de 20 puntos en VantageScore. Aquí te decimos por qué es importante.",
+      "what_happened_heading": "UWM elimina la penalización de VantageScore",
+      "what_happened": "United Wholesale Mortgage ha eliminado el ajuste de 20 puntos que aplicaba previamente a VantageScore para nuevas solicitudes. Este cambio coincide con Fannie Mae y Freddie Mac que se mueven a precios alineados entre VantageScore y Classic FICO.",
+      "breakdown": [
+        {
+          "heading": "Igualando el campo de juego",
+          "body": "Al eliminar la penalización de 20 puntos, los prestamistas pueden finalmente ofrecer préstamos con VantageScore 4.0 competitivos sin costos ocultos para el consumidor."
+        },
+        {
+          "heading": "La alineación de precios de las GSE",
+          "body": "Fannie y Freddie implementaron precios alineados en los modelos de crédito, obligando a los canales mayorista y minorista a adaptar sus motores de precios."
+        },
+        {
+          "heading": "Evaluación de expedientes con poco crédito",
+          "body": "Cuando un expediente llega a evaluación con un VantageScore, los asesores verán una imagen financiera más amplia que incorpora historiales de pagos de alquiler y servicios públicos."
+        },
+        {
+          "heading": "Aumenta la flexibilidad del corredor",
+          "body": "Los corredores ahora tienen más flexibilidad para elegir el modelo de crédito que ofrezca las mejores condiciones de calificación para los escenarios específicos de sus prestatarios."
+        }
+      ],
+      "my_take_heading": "El monopolio de FICO por fin se está rompiendo",
+      "my_take": "Durante años, FICO no tuvo competencia real en el sector hipotecario. Eliminar esta penalización es el catalizador exacto que la industria necesitaba para que los puntajes de crédito alternativos fueran viables.",
+      "action_lo": "Realiza escenarios de prueba comparando Classic FICO y VantageScore 4.0 en tus expedientes con crédito límite hoy mismo.",
+      "action_realtor": "Habla con tus socios prestamistas sobre cómo estos nuevos modelos de puntaje pueden ayudar a compradores que antes no calificaban para financiación tradicional.",
+      "cta_question": "¿Empezarás a utilizar activamente VantageScore 4.0 ahora que la penalización de precios ha desaparecido?"
+    },
+    {
+      "slug": "uad-appraisal-exceptions",
+      "title": "Nuevas reglas de tasación podrían variar por prestamista bajo la excepción de las GSE",
+      "source": "National Mortgage Professional",
+      "source_url": "https://nationalmortgageprofessional.com/news/new-appraisal-rules-could-vary-lender-under-gse-exception",
+      "cover_text": "El lanzamiento de UAD 3.6 acaba de toparse con un obstáculo.",
+      "caption": "Fannie Mae y Freddie Mac están ofreciendo excepciones temporales a los prestamistas que no puedan cumplir con el mandato del 2 de noviembre para las tasaciones UAD 3.6 rediseñadas. Esto significa que tu flujo de trabajo podría ser diferente según el prestamista. Mientras algunas empresas ya hicieron la transición, otras seguirán enviando tasaciones UAD 2.6 hasta bien entrado 2027. Si eres corredor o gerente de operaciones, necesitas conocer las capacidades de tus socios mayoristas de inmediato. La inconsistencia genera fricción. ¿Cómo está manejando tu equipo la transición de UAD?\n\nFuente : https://tinyurl.com/24xpa3r6\n#SafetrustMortgage #MortgageIntelligenceDaily #mortgagenews #realestateagent #homebuying",
+      "hashtags": [
+        "#SafetrustMortgage",
+        "#MortgageIntelligenceDaily",
+        "#mortgagenews",
+        "#realestateagent",
+        "#homebuying"
+      ],
+      "hook_tag": "Cambios en reglas de tasación",
+      "hook": "Por qué tu próxima tasación podría seguir reglas totalmente diferentes según el prestamista.",
+      "what_happened_heading": "Las GSE ofrecen excepciones para tasaciones UAD",
+      "what_happened": "Fannie Mae y Freddie Mac están ofreciendo excepciones temporales a los prestamistas aprobados que no puedan cumplir con el mandato del 2 de noviembre para el Conjunto de Datos Uniforme de Tasación (UAD) rediseñado. Estos prestamistas podrán seguir enviando tasaciones UAD 2.6 hasta bien entrado 2027.",
+      "breakdown": [
+        {
+          "heading": "Se acerca la fecha límite de noviembre",
+          "body": "Se dijo a la industria que se preparara para un cambio total a UAD 3.6, pero las brechas de preparación obligaron a las GSE a ofrecer una válvula de escape."
+        },
+        {
+          "heading": "Cumplimiento específico del prestamista",
+          "body": "Algunos inversionistas exigirán el nuevo conjunto de datos de inmediato, mientras que otros utilizarán la excepción, creando un panorama de originación fragmentado."
+        },
+        {
+          "heading": "Controles de valoración de evaluación",
+          "body": "Los asesores ahora deben manejar dos formatos de tasación completamente diferentes, lo que aumenta los tiempos de revisión y el riesgo de errores en las condiciones de formato."
+        },
+        {
+          "heading": "Impacto en los corredores hipotecarios",
+          "body": "Los corredores deben verificar la preparación específica del inversionista para asegurar que sus órdenes de tasación coincidan con lo que los sistemas automatizados de cada prestamista pueden procesar."
+        }
+      ],
+      "my_take_heading": "Un lanzamiento fragmentado multiplica el riesgo",
+      "my_take": "Darles una salida a los prestamistas en UAD 3.6 evita un congelamiento total del mercado, pero permitir que algunos usen formularios antiguos mientras otros actualizan, convierte la revisión de evaluación en una pesadilla operativa.",
+      "action_lo": "Consulta hoy mismo con tus tres principales prestamistas mayoristas para confirmar si aplicarán UAD 3.6 el 2 de noviembre o si usarán la excepción.",
+      "action_realtor": "Pregúntale a tus agentes de préstamos preferidos cómo su departamento de tasaciones está manejando la próxima transición de datos para evitar retrasos en el cierre.",
+      "cta_question": "¿Están tus socios prestamistas listos para UAD 3.6, o están aprovechando la excepción de las GSE?"
+    },
+    {
+      "slug": "price-cuts-hit-four-year-high",
+      "title": "Recortes de precios alcanzan máximo de cuatro años mientras tasas hipotecarias superan el 7%",
+      "source": "National Mortgage Professional",
+      "source_url": "https://nationalmortgageprofessional.com/news/price-cuts-hit-four-year-high-mortgage-rates-top-7",
+      "cover_text": "Uno de cada cinco vendedores cedió en el precio.",
+      "caption": "Más del 20% de las casas listadas para la venta en septiembre tuvieron una reducción de precio, alcanzando un máximo de cuatro años ya que las tasas hipotecarias superaron el 7%. El inventario subió a 1.16 millones de listados activos, dando a los compradores más respiro pero castigando a los vendedores que se niegan a reconocer las realidades del mercado actual. Las tasas más altas están erosionando el poder adquisitivo del comprador, obligando a los vendedores a reevaluar sus estrategias de precios. Si eres agente o agente de préstamos, este entorno exige conversaciones proactivas sobre precios con tus clientes. ¿Están tus vendedores ajustándose lo suficientemente rápido para seguir el ritmo del mercado?\n\nFuente : https://tinyurl.com/2yhf2pc3\n#SafetrustMortgage #MortgageIntelligenceDaily #housingmarket #realestateagent #homebuying",
+      "hashtags": [
+        "#SafetrustMortgage",
+        "#MortgageIntelligenceDaily",
+        "#housingmarket",
+        "#realestateagent",
+        "#homebuying"
+      ],
+      "hook_tag": "Cambio en el mercado de vivienda",
+      "hook": "Más del veinte por ciento de los vendedores de casas acaban de bajar sus precios. Aquí te decimos por qué.",
+      "what_happened_heading": "Los recortes de precios alcanzan un máximo de cuatro años",
+      "what_happened": "Más de una de cada cinco casas listadas para la venta tuvo una reducción de precio en septiembre, marcando la proporción más alta en casi cuatro años, según Realtor.com. El inventario activo también subió un 5.4% respecto al año anterior, llegando a aproximadamente 1.16 millones de listados.",
+      "breakdown": [
+        {
+          "heading": "Tasas por encima del siete por ciento",
+          "body": "Las tasas hipotecarias persistentes por encima del 7% han reducido drásticamente el poder adquisitivo del comprador, estancando la actividad en propiedades con precios excesivos."
+        },
+        {
+          "heading": "El inventario sigue creciendo",
+          "body": "Los listados activos alcanzaron los 1.16 millones, dando a los compradores más opciones y eliminando la escasez artificial de años anteriores."
+        },
+        {
+          "heading": "Presión de valoración de evaluación",
+          "body": "Cuando un expediente llega a evaluación en un mercado en enfriamiento con recortes de precios activos, los tasadores tienen más dificultades para justificar comparables de temporada alta."
+        },
+        {
+          "heading": "Ajuste de mentalidad del vendedor",
+          "body": "Los vendedores finalmente se están dando cuenta de que permanecer en el mercado conduce a listados estancados y descuentos eventuales más profundos."
+        }
+      ],
+      "my_take_heading": "Los vendedores finalmente cambian la ambición por la realidad",
+      "my_take": "El máximo de cuatro años en los recortes de precios no es una caída; es una recalibración. Los vendedores que se aferran a fantasías de precios de 2023 están aprendiendo que a las tasas del 7% no les importa su apego emocional.",
+      "action_lo": "Revisa tus listas de preaprobación para ver quién puede calificar con las tasas actuales y un precio de compra ligeramente menor.",
+      "action_realtor": "Usa estas estadísticas de aumento de inventario y recortes de precios para aconsejar a los vendedores obstinados sobre precios realistas antes de que su listado se estanque.",
+      "cta_question": "¿Están los vendedores de tu mercado local aceptando finalmente que las tasas del 7% exigen ajustes de precios?"
+    }
   ]
 }
