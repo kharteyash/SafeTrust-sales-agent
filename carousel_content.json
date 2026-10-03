@@ -168,5 +168,175 @@
       "action_realtor": "Work with lenders using automated pricing tools to get accurate, instant fee disclosures for your buyers.",
       "cta_question": "Is your organization leveraging AI for operational backend tasks or just front-end marketing?"
     }
+  ],
+  "carousels_es": [
+    {
+      "slug": "fha-uad-36-transition",
+      "title": "FHA lanza período de transición opcional a UAD 3.6",
+      "source": "HousingWire",
+      "source_url": "https://www.housingwire.com/articles/fha-optional-uad-3-6/",
+      "cover_text": "Llegan los cambios de tasación FHA",
+      "caption": "FHA acaba de abrir la ventana de transición opcional para UAD 3.6 (Uniform Appraisal Dataset), permitiendo a los prestamistas entregar tasaciones en el formato digital actualizado. Si bien \"opcional\" suena a algo que puedes posponer, retrasar las actualizaciones del sistema es una trampa operativa. Como ex-asesor, te puedo decir que los cambios en los estándares de datos siempre traen errores iniciales al enviar documentos. Los prestamistas que prueben temprano resolverán los problemas de entrega de tasaciones ahora. Los prestamistas que esperen hasta que sea obligatorio enfrentarán retrasos en la evaluación cuando los errores del sistema bloqueen los expedientes de préstamos. Alinea tu departamento de tasaciones, LOS (sistema de originación de préstamos) y asesores antes de que llegue el mandato.\n\nFuente : https://tinyurl.com/2c9686q8\n#SafetrustMortgage #MortgageIntelligenceDaily #mortgagebroker #loanofficer #housingmarket",
+      "hashtags": [
+        "#SafetrustMortgage",
+        "#MortgageIntelligenceDaily",
+        "#mortgagebroker",
+        "#loanofficer",
+        "#housingmarket"
+      ],
+      "hook_tag": "Estándares de Tasación",
+      "hook": "Las actualizaciones opcionales de tasación evitan grandes cuellos de botella para los asesores después.",
+      "what_happened_heading": "FHA abre transición opcional UAD 3.6",
+      "what_happened": "FHA ha lanzado un período de transición opcional para que los prestamistas presenten tasaciones utilizando UAD 3.6 (un formato de datos de tasación estandarizado). Los prestamistas ahora pueden comenzar a entregar informes de tasación FHA en este formato de datos actualizado.",
+      "breakdown": [
+        {
+          "heading": "El sello \"opcional\" confunde",
+          "body": "Esperar la fecha de cumplimiento obligatorio crea una presión en la producción. Las pruebas anticipadas permiten a los equipos operativos corregir errores de mapeo de datos antes de que los mandatos conviertan los errores en detenciones críticas del préstamo."
+        },
+        {
+          "heading": "Lo que los asesores examinarán primero",
+          "body": "Como asesor, UAD 3.6 cambia cómo la evaluación automatizada marca el riesgo de tasación. Las transferencias de datos limpias significan menos solicitudes manuales de condiciones y plazos de \"listo para cerrar\" más rápidos."
+        },
+        {
+          "heading": "El despliegue técnico requiere pruebas",
+          "body": "Los sistemas de gestión de tasaciones deben integrar el nuevo esquema de forma limpia. Los campos de datos defectuosos rechazarán las entregas de tasaciones incluso antes de que un asesor vea el archivo."
+        },
+        {
+          "heading": "Velocidad competitiva para originadores",
+          "body": "Los prestamistas que adoptan temprano resuelven las condiciones de tasación más rápido, mientras que los competidores luchan con fallas de formato durante las transiciones de mayor volumen."
+        }
+      ],
+      "my_take_heading": "Las transiciones opcionales son pruebas de estrés",
+      "my_take": "Los prestamistas que tratan este período de transición como opcional están preparando a su equipo de operaciones para un cuello de botella cuando el cumplimiento total sea obligatorio.",
+      "action_lo": "Pregúntale hoy a tu gerente de operaciones si tu LOS está configurado para importar tasaciones UAD 3.6.",
+      "action_realtor": "Pregunta a tus prestamistas si su proceso de presentación de tasaciones admite formatos de datos actualizados para evitar retrasos en el cierre.",
+      "cta_question": "¿Tu equipo de operaciones está probando las entregas de UAD 3.6 ahora o esperando que sea obligatorio?"
+    },
+    {
+      "slug": "nondelegated-lender-market-share",
+      "title": "Mercado competitivo concentra el crecimiento en prestamistas no delegados",
+      "source": "HousingWire",
+      "source_url": "https://www.housingwire.com/articles/mortgage-market-share/",
+      "cover_text": "Por qué el crecimiento se mueve a plataformas no delegadas",
+      "caption": "Los cambios estratégicos en la originación de hipotecas se están acelerando. Los datos de la industria revelan que un pequeño porcentaje de prestamistas está absorbiendo la mayor parte de la cuota de mercado disponible en este entorno competitivo. Los oficiales de préstamos están dejando cada vez más las costosas configuraciones minoristas por plataformas de corretaje y no delegadas (donde los prestamistas externalizan la aprobación final de la evaluación a los inversionistas). Habiendo pasado años tanto en originación como en evaluación, la razón es clara: los gastos generales eliminan la competitividad de precios. Los modelos no delegados y de corredor permiten a los originadores apoyarse en las pautas de los inversionistas y en estructuras operativas más ligeras. Si tu modelo de negocio impone altos costos fijos a tus precios, estás librando una batalla perdida contra plataformas más ágiles.\n\nFuente : https://tinyurl.com/27n9go9j\n#SafetrustMortgage #MortgageIntelligenceDaily #mortgagebroker #loanofficer #mortgagerates",
+      "hashtags": [
+        "#SafetrustMortgage",
+        "#MortgageIntelligenceDaily",
+        "#mortgagebroker",
+        "#loanofficer",
+        "#mortgagerates"
+      ],
+      "hook_tag": "Estrategia de Mercado",
+      "hook": "La cuota de mercado se concentra en prestamistas que usan canales no delegados y de corretaje.",
+      "what_happened_heading": "Mercado competitivo cambia el crecimiento de plataformas",
+      "what_happened": "Los datos de la industria en la Mortgage Banking Summit mostraron que una pequeña fracción de prestamistas capturó la mayor parte de la nueva producción. Los oficiales de préstamos se están moviendo activamente hacia plataformas de corretaje y corresponsales, impulsando el crecimiento hacia prestamistas no delegados (prestamistas que externalizan la aprobación final de la evaluación a los inversionistas).",
+      "breakdown": [
+        {
+          "heading": "La escala se concentra en la cima",
+          "body": "En un mercado con márgenes reducidos, un grupo pequeño de prestamistas agresivos está absorbiendo la gran mayoría del nuevo volumen de préstamos."
+        },
+        {
+          "heading": "Los oficiales de préstamos cambian de canal",
+          "body": "Los productores están dejando plataformas minoristas rígidas por configuraciones de corretaje mayorista y corresponsales que ofrecen precios competitivos y opciones de préstamo flexibles."
+        },
+        {
+          "heading": "El riesgo de evaluación sale de los balances",
+          "body": "Desde la perspectiva de un asesor, las configuraciones no delegadas protegen a los prestamistas de la responsabilidad del balance, a la vez que otorgan acceso a diversas pautas de crédito para inversionistas."
+        },
+        {
+          "heading": "La eficiencia del capital gana la batalla",
+          "body": "Los prestamistas con menores gastos generales fijos pueden ofrecer precios más ajustados, haciendo casi imposible que las tiendas minoristas delegadas tradicionales compitan en precio."
+        }
+      ],
+      "my_take_heading": "La elección de plataforma es clave para sobrevivir",
+      "my_take": "Los oficiales de préstamos no están cambiando de empresa por mejor señalización; están migrando a modelos de negocio que reducen los costos del consumidor sin sacrificar la velocidad.",
+      "action_lo": "Compara tu estructura de compensación y márgenes de precios con alternativas de canales corresponsales no delegados y de corredores.",
+      "action_realtor": "Alíate con oficiales de préstamos que operan en plataformas con múltiples opciones de inversionistas para aumentar el éxito de aprobación del comprador.",
+      "cta_question": "¿Tu plataforma de prestamista actual está preparada para ganar batallas de precios en este mercado tan ajustado?"
+    },
+    {
+      "slug": "mortgage-rates-rise-soft-jobs-report",
+      "title": "Las tasas hipotecarias suben a pesar del débil informe de empleo de septiembre",
+      "source": "Mortgage News Daily",
+      "source_url": "https://www.mortgagenewsdaily.com/markets/mortgage-rates-10022026",
+      "cover_text": "Informe de empleo débil no bajó las tasas",
+      "caption": "Las tasas hipotecarias subieron un 0.04% a 7.57% hoy para escenarios de hipotecas fijas a 30 años de primera categoría, a pesar de que las Nóminas No Agrícolas (NFP, la medida total de trabajadores pagados en EE. UU.) reportaron un débil aumento de 29,000 empleos, frente a los 90,000 pronosticados, mientras que el desempleo alcanzó el 4.2%. Muchos esperaban que un informe de empleo débil provocara una recuperación inmediata de las tasas, pero los mercados de bonos respondieron de manera diferente. Desde el escritorio de un asesor, estas pequeñas subidas de tasas impactan directamente los cálculos de DTI (relación deuda-ingresos, la proporción de la deuda mensual respecto al ingreso bruto) en las pre-aprobaciones pendientes. Un comprador con un DTI del 44% puede superar instantáneamente los límites de evaluación automatizada con un aumento menor de la tasa. No dejes que los titulares te engañen asumiendo que las tasas bajarán automáticamente; mantén los expedientes de tus prestatarios protegidos contra las fluctuaciones diarias del mercado.\n\nFuente : https://tinyurl.com/23z3fg6e\n#SafetrustMortgage #MortgageIntelligenceDaily #mortgagerates #housingmarket #homebuying",
+      "hashtags": [
+        "#SafetrustMortgage",
+        "#MortgageIntelligenceDaily",
+        "#mortgagerates",
+        "#housingmarket",
+        "#homebuying"
+      ],
+      "hook_tag": "Tasas de Interés",
+      "hook": "Datos económicos débiles no causaron la esperada baja en las tasas hipotecarias.",
+      "what_happened_heading": "Las tasas suben tras datos de nóminas",
+      "what_happened": "Las tasas hipotecarias subieron un 0.04% a un valor de índice de 7.57% para escenarios de hipotecas fijas a 30 años de primera categoría. Este aumento ocurrió a pesar de un débil informe de empleo que mostró que las Nóminas No Agrícolas (NFP, la medida total de trabajadores pagados en EE. UU.) añadieron solo 29,000 empleos frente a un pronóstico de 90,000, junto con una tasa de desempleo del 4.2%.",
+      "breakdown": [
+        {
+          "heading": "Las cifras principales del NFP engañaron",
+          "body": "Aunque las nóminas no cumplieron las expectativas con solo 29,000 empleos, los detalles subyacentes del mercado laboral impidieron una recuperación del mercado de bonos."
+        },
+        {
+          "heading": "El contexto de la tasa de desempleo importó",
+          "body": "La tasa de desempleo se mantuvo en 4.2%, pero los detalles subyacentes de la participación de la fuerza laboral evitaron que los rendimientos de los bonos tuvieran un movimiento descendente sostenido."
+        },
+        {
+          "heading": "Visión del asesor sobre la relación deuda-ingresos",
+          "body": "Las tasas más altas aumentan directamente el DTI (relación deuda-ingresos, la proporción de la deuda mensual respecto al ingreso bruto) del comprador, convirtiendo archivos antes manejables en aprobaciones de evaluación ajustadas."
+        },
+        {
+          "heading": "Los mercados requieren tendencias sostenidas",
+          "body": "Un solo informe de empleo débil no puede revertir las tendencias de las tasas cuando factores de mercado más amplios mantienen los rendimientos del Tesoro elevados."
+        }
+      ],
+      "my_take_heading": "Las malas noticias no son siempre buenas para las tasas",
+      "my_take": "Esperar que un solo informe laboral débil haga caer inmediatamente las tasas hipotecarias ignora la profundidad del reposicionamiento del mercado de bonos.",
+      "action_lo": "Pon a prueba a los compradores pre-aprobados con aumentos de tasa del 0.25% para asegurar que los ratios de deuda resistan la volatilidad del mercado.",
+      "action_realtor": "Re-califica a los compradores activos con su prestamista antes de presentar ofertas en entornos de tasas volátiles.",
+      "cta_question": "¿Cómo estás estructurando las pre-aprobaciones de los compradores para manejar aumentos repentinos de tasas?"
+    },
+    {
+      "slug": "lender-price-ai-agents-pricing",
+      "title": "Lender Price pone a trabajar agentes de IA detrás de su motor de precios",
+      "source": "National Mortgage Professional",
+      "source_url": "https://nationalmortgageprofessional.com/news/lender-price-puts-ai-agents-work-behind-pricing",
+      "cover_text": "La IA toma el control de los precios hipotecarios",
+      "caption": "Lender Price ha introducido agentes de IA dentro de su \"Pricing Optimization Dashboard (POD)\" para automatizar los flujos de trabajo de marketing secundario. La IA maneja actualizaciones en tiempo real de tasas, elegibilidad de productos y LLPAs (ajustes de precio a nivel de préstamo, tarifas adicionales basadas en el riesgo de crédito). Olvídate de los chatbots para consumidores; aquí es donde la IA hipotecaria realmente crea valor empresarial. Habiendo revisado cientos de expedientes de préstamos como asesor, puedo decir que los ajustes de precios incorrectamente aplicados o las pautas de elegibilidad desactualizadas crean enormes cuellos de botella de cumplimiento antes del cierre. La automatización de la lógica del motor de precios reduce el error humano, protege los márgenes del prestamista y da a los originadores la confianza de que las tasas cotizadas son precisas. La eficiencia operativa \"backend\" es la verdadera frontera para la tecnología hipotecaria.\n\nFuente : https://tinyurl.com/28aszzts\n#SafetrustMortgage #MortgageIntelligenceDaily #loanofficer #mortgagebroker #housingmarket",
+      "hashtags": [
+        "#SafetrustMortgage",
+        "#MortgageIntelligenceDaily",
+        "#loanofficer",
+        "#mortgagebroker",
+        "#housingmarket"
+      ],
+      "hook_tag": "Innovación Tecnológica",
+      "hook": "La IA en las hojas de tasas reducirá errores de precios y tiempos de procesamiento.",
+      "what_happened_heading": "Lender Price despliega capacidades de agentes de IA",
+      "what_happened": "Lender Price lanzó capacidades de agentes de IA dentro de su plataforma POD (Pricing Optimization Dashboard). La tecnología automatiza tareas repetibles del equipo de precios, incluyendo actualizaciones de hojas de tasas, LLPAs (ajustes de precio a nivel de préstamo, tarifas adicionales basadas en el riesgo de crédito) y reglas de elegibilidad de productos.",
+      "breakdown": [
+        {
+          "heading": "Automatización de matrices de precios complejas",
+          "body": "Las actualizaciones del motor de precios suelen requerir mano de obra, creando riesgo de error humano durante la rápida volatilidad de las tasas y los cambios en el mercado secundario."
+        },
+        {
+          "heading": "Eliminación del retraso manual en hojas de tasas",
+          "body": "Los agentes de IA procesan las actualizaciones de pautas al instante, asegurando que los motores de precios reflejen el apetito exacto del inversionista sin demora."
+        },
+        {
+          "heading": "Los asesores obtienen datos de cierre más limpios",
+          "body": "Como asesor, los errores de cálculo de precios durante el cierre conducen a problemas de auditoría post-cierre y re-divulgaciones de cumplimiento. Las verificaciones automatizadas de elegibilidad resuelven esto al inicio."
+        },
+        {
+          "heading": "Ejecución de precios más rápida para originadores",
+          "body": "Los originadores pueden cotizar programas Non-QM o de nicho complejos al instante sin esperar a que los departamentos de marketing secundario verifiquen manualmente la elegibilidad."
+        }
+      ],
+      "my_take_heading": "La verdadera IA hipotecaria automatiza el trabajo operativo",
+      "my_take": "La mejor implementación de IA no es un chatbot para clientes; es la automatización operativa que evita que los oficiales de préstamos coticen ajustes de precios incorrectos.",
+      "action_lo": "Verifica si tu motor de precios actualiza automáticamente los LLPAs en tiempo real para evitar costosas re-divulgaciones al cierre.",
+      "action_realtor": "Trabaja con prestamistas que usen herramientas de precios automatizadas para obtener divulgaciones de tarifas precisas e instantáneas para tus compradores.",
+      "cta_question": "¿Tu organización está utilizando la IA para tareas operativas internas o solo para marketing frontal?"
+    }
   ]
 }
