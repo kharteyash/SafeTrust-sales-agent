@@ -168,5 +168,175 @@
       "action_realtor": "Partner with local general contractors to find homeowners who desperately need a bigger space and are ready to list instead.",
       "cta_question": "Are you seeing homeowners choose to stay put and cram into smaller spaces rather than pay high equity rates?"
     }
+  ],
+  "carousels_es": [
+    {
+      "slug": "housing-rates-7-percent",
+      "title": "¿Qué sigue para la vivienda: tasas hipotecarias del 7%, 8% o 9%?",
+      "source": "HousingWire",
+      "source_url": "https://www.housingwire.com/articles/whats-next-for-housing-7-8-or-9-mortgage-rates/",
+      "cover_text": "Tasas en 7.57 por ciento y cae la demanda.",
+      "caption": "Todo el mundo está entrando en pánico sobre hacia dónde van las tasas hipotecarias, pero la verdadera historia es qué pasa con tus clientes cuando los compradores simplemente se niegan a participar. Cuando las tasas alcanzan el 7.57 por ciento y la demanda de solicitudes disminuye aún más, la estrategia de esperar un giro del mercado deja de funcionar. Los oficiales de préstamos deben cambiar a estructuras creativas, y los agentes inmobiliarios deben encontrar vendedores motivados antes de que el inventario se congele por completo. Si te quedas de brazos cruzados esperando una caída repentina a las tasas del cinco por ciento, tu competencia ya te está sacando ventaja. ¿Cómo estás ajustando tu alcance diario mientras el mercado se reajusta?\n\nFuente : https://tinyurl.com/26aaenko\n#SafetrustMortgage #MortgageIntelligenceDaily #mortgagerates #housingmarket #loanofficer",
+      "hashtags": [
+        "#SafetrustMortgage",
+        "#MortgageIntelligenceDaily",
+        "#mortgagerates",
+        "#housingmarket",
+        "#loanofficer"
+      ],
+      "hook_tag": "Análisis de Tasas",
+      "hook": "Las tasas llegaron al 7.57 por ciento. Deja de esperar el truco mágico del cinco.",
+      "what_happened_heading": "La demanda disminuye a medida que las tasas suben",
+      "what_happened": "Las tasas hipotecarias alcanzaron recientemente el 7.57 por ciento a medida que aumentan las presiones económicas en el sector financiero. La demanda de solicitudes cayó aún más la semana pasada, ya que compradores y vendedores se retiraron para observar el panorama.",
+      "breakdown": [
+        {
+          "heading": "El techo psicológico",
+          "body": "A los compradores no les importan los promedios históricos. Una vez que las tasas superan el siete y medio por ciento, los modelos de asequibilidad dejan de funcionar para quienes tienen ingresos medios."
+        },
+        {
+          "heading": "Evaluando el impacto del pago",
+          "body": "Cuando un expediente llega a evaluación al 7.57 por ciento, las razones DTI (cuánto de tu ingreso se destina a deudas) se topan de inmediato. Vemos que los límites de deuda-ingreso se acercan a los topes."
+        },
+        {
+          "heading": "Estancamiento de clientes",
+          "body": "La actividad de fijación de tasas ha disminuido. Los prestatarios están dejando las tasas sin asegurar cuando deberían hacerlo, porque se niegan a aceptar la realidad del pago mensual actual."
+        },
+        {
+          "heading": "La ilusión del volumen",
+          "body": "Los originadores que esperan el regreso a tasas históricas del tres por ciento están perdiendo dinero. La nueva base requiere una reestructuración activa, no una esperanza pasiva."
+        }
+      ],
+      "my_take_heading": "La obsesión por las tasas está matando a los clientes",
+      "my_take": "Deja de intentar predecir si las tasas subirán al ocho o nueve por ciento. Enfócate en el diferencial, el precio de la propiedad y reestructura la deuda para que el prestatario pueda refinanciar más tarde sin perder dinero hoy.",
+      "action_lo": "Llama a cada prestatario preaprobado con un DTI ajustado y calcula de inmediato las cifras de reducción temporal (temporary buydown).",
+      "action_realtor": "Ten una conversación honesta con los vendedores sobre ajustes de precios antes de que el mercado los obligue.",
+      "cta_question": "¿Estás viendo a los compradores abandonar por completo la búsqueda con tasas al 7.57 por ciento, o solo la están pausando temporalmente?"
+    },
+    {
+      "slug": "housing-demand-softens",
+      "title": "Las tasas hipotecarias están en 7.57% y la demanda disminuyó más la semana pasada",
+      "source": "HousingWire",
+      "source_url": "https://www.housingwire.com/articles/whats-next-for-housing-7-8-or-9-mortgage-rates/",
+      "cover_text": "Cae la demanda cuando las tasas llegan a 7.57 por ciento.",
+      "caption": "Cuando la demanda disminuye a la par que suben las tasas, el mercado de compras te dice una historia muy clara sobre el agotamiento del comprador. Con el 7.57 por ciento, los números simplemente dejan de funcionar para un segmento masivo de compradores primerizos. Los oficiales de préstamos deben buscar productos alternativos, y los agentes inmobiliarios deben educar a los vendedores sobre por qué las visitas están disminuyendo. Fingir que esto es una caída estacional normal es una excelente manera de perder a tus socios agentes inmobiliarios de mayor producción. ¿Cómo mantienes interesados a tus compradores preaprobados cuando su poder adquisitivo disminuye cada semana?\n\nFuente : https://tinyurl.com/26aaenko\n#SafetrustMortgage #MortgageIntelligenceDaily #housingmarket #mortgagerates #firsttimehomebuyer",
+      "hashtags": [
+        "#SafetrustMortgage",
+        "#MortgageIntelligenceDaily",
+        "#housingmarket",
+        "#mortgagerates",
+        "#firsttimehomebuyer"
+      ],
+      "hook_tag": "Baja Demanda",
+      "hook": "La demanda semanal vuelve a bajar. Aquí el porqué el siete por ciento es brutal.",
+      "what_happened_heading": "Las solicitudes disminuyen a medida que suben las tasas",
+      "what_happened": "El volumen de solicitudes de hipotecas disminuyó la semana pasada, ya que las tasas promedio se mantuvieron en 7.57 por ciento. Los posibles compradores se encuentran sin poder pagar sus vecindarios objetivo más rápido de lo que pueden ahorrar.",
+      "breakdown": [
+        {
+          "heading": "El ajuste del poder adquisitivo",
+          "body": "Cada aumento de un cuarto de punto en las tasas quita miles de dólares de poder adquisitivo a un prestatario. Con el 7.57 por ciento, los compradores obtienen mucho menos casa por más efectivo mensual."
+        },
+        {
+          "heading": "Evaluando márgenes más ajustados",
+          "body": "Los asesores están viendo que los sistemas de evaluación automática devuelven más condiciones para la verificación de deudas. Los prestamistas no pueden permitirse incumplimientos cuando los márgenes son tan ajustados."
+        },
+        {
+          "heading": "El estancamiento continúa",
+          "body": "Los vendedores se niegan a bajar los precios porque ellos mismos tienen tasas bajas. Los compradores se niegan a pagar de más con tasas altas. ¿Resultado? Un estancamiento total."
+        },
+        {
+          "heading": "Dirigiéndose al comprador resistente",
+          "body": "Los compradores en efectivo y los clientes de alto patrimonio siguen moviéndose. Si tu flujo de clientes depende solo de compradores FHA de ingresos medios, estás librando una batalla difícil."
+        }
+      ],
+      "my_take_heading": "El estancamiento es completamente estructural",
+      "my_take": "No puedes salir de un desajuste matemático con marketing. Hasta que las tasas bajen o los precios se ajusten, el volumen se mantendrá bajo. Enfócate en la calidad, no en la cantidad.",
+      "action_lo": "Revisa toda tu base de datos de clientes anteriores con alta plusvalía que podrían querer comprar una propiedad de inversión con efectivo o financiamiento alternativo.",
+      "action_realtor": "Dirígete a los inquilinos que están pagando rentas altísimas y muéstrales cómo se comparan los productos de tasa ajustable.",
+      "cta_question": "¿Qué estrategia de productos estás usando para cerrar tratos en un ambiente de baja demanda?"
+    },
+    {
+      "slug": "homeowners-trapped-rates",
+      "title": "Las altas tasas hipotecarias están dejando a los propietarios atrapados",
+      "source": "CNBC",
+      "source_url": "https://www.cnbc.com/2026/10/03/mortgage-rates-home-equity-heloc-remodeling.html",
+      "cover_text": "Propietarios con tasas fijas no pueden mudarse o remodelar.",
+      "caption": "Millones de propietarios son prisioneros de sus propias tasas hipotecarias del tres por ciento. Como mejorar su casa significa asumir una tasa doble a la que tienen ahora, se quedan y tratan de renovar. Pero con las líneas de crédito con garantía hipotecaria (HELOC) y los préstamos con garantía hipotecaria cada vez más caros, incluso la remodelación se está deteniendo. Este efecto de bloqueo está asfixiando el inventario de viviendas y privando al mercado de casas de gama media-alta de la oferta esencial. ¿Tus socios agentes inmobiliarios se quejan de la falta de listados, o están encontrando formas creativas de desbloquear el inventario?\n\nFuente : https://tinyurl.com/28m9hyjv\n#SafetrustMortgage #MortgageIntelligenceDaily #realestateagent #homebuying #realestateinvesting",
+      "hashtags": [
+        "#SafetrustMortgage",
+        "#MortgageIntelligenceDaily",
+        "#realestateagent",
+        "#homebuying",
+        "#realestateinvesting"
+      ],
+      "hook_tag": "Trampa de Inventario",
+      "hook": "Los propietarios están atrapados por las tasas bajas y ahora sus planes de remodelación están muertos.",
+      "what_happened_heading": "El bloqueo de tasas inmoviliza a los vendedores",
+      "what_happened": "Los propietarios se quedan en casas que normalmente ya les quedarían pequeñas, porque renunciar a una tasa hipotecaria históricamente baja es doloroso financieramente. Al mismo tiempo, los altos costos de los préstamos hacen que las renovaciones sean casi imposibles de financiar.",
+      "breakdown": [
+        {
+          "heading": "El efecto de las esposas de oro",
+          "body": "Los vendedores con una tasa del tres por ciento se niegan a listar sus propiedades. Mudarse significa reemplazar una hipoteca barata con una enorme del 7.57 por ciento."
+        },
+        {
+          "heading": "Fricción en precios de HELOC",
+          "body": "Los propietarios que recurren a líneas de crédito con garantía hipotecaria (HELOC) se sorprenden con los precios. Las HELOC basadas en la tasa preferencial hacen que pedir prestado contra el patrimonio acumulado sea muy caro."
+        },
+        {
+          "heading": "Evaluando el patrimonio atrapado",
+          "body": "Al evaluar expedientes de HELOC o préstamos con garantía hipotecaria, los asesores deben asegurar que la relación LTV combinada (préstamo-valor, la relación de tu préstamo al valor de la vivienda) se mantenga conservadora en un mercado volátil."
+        },
+        {
+          "heading": "La congelación de las remodelaciones",
+          "body": "En lugar de agrandar su espacio mudándose, las familias están atrapadas en espacios reducidos porque los refinanciamientos con retiro de efectivo y los HELOC ya no son rentables."
+        }
+      ],
+      "my_take_heading": "La escalera de la vivienda tiene peldaños rotos",
+      "my_take": "Cuando los compradores que buscan una casa más grande no pueden avanzar, los compradores primerizos no encuentran casas de nivel de entrada. Todo el ecosistema de la vivienda está atascado de arriba a abajo.",
+      "action_lo": "Ofrece préstamos combinados (piggyback loans) o productos especializados de renovación a clientes que necesitan expandir su casa actual en lugar de mudarse.",
+      "action_realtor": "Busca ventas de propiedades de herencia, reubicaciones corporativas y vendedores por eventos de vida que tienen que mudarse sin importar las tasas del mercado.",
+      "cta_question": "¿Cómo están financiando tus clientes las mejoras del hogar con las tasas actuales de HELOC?"
+    },
+    {
+      "slug": "helocs-expensive-remodeling",
+      "title": "No puedes remodelar si las HELOC son muy caras para usar",
+      "source": "CNBC",
+      "source_url": "https://www.cnbc.com/2026/10/03/mortgage-rates-home-equity-heloc-remodeling.html",
+      "cover_text": "Los costos de HELOC aplastan el auge de remodelación de casas.",
+      "caption": "El auge de las mejoras para el hogar ha terminado oficialmente, aniquilado por las altas tasas de interés sobre el capital prestado. Los propietarios con montañas de riqueza en papel ya no pueden permitirse usarla para cocinas o ampliaciones porque los pagos mensuales de una línea de crédito con garantía hipotecaria (HELOC) son demasiado altos. Esto deja a millones de familias atrapadas en casas que ya no se ajustan a sus vidas sin una forma asequible de arreglarlas. Si tu modelo de negocio dependía de refinanciamientos con retiro de efectivo o préstamos con garantía hipotecaria, necesitas una nueva estrategia ahora mismo. ¿Cómo estás ayudando a los propietarios a acceder a liquidez sin destruir su flujo de efectivo mensual?\n\nFuente : https://tinyurl.com/28m9hyjv\n#SafetrustMortgage #MortgageIntelligenceDaily #homebuying #housingmarket #realestateinvesting",
+      "hashtags": [
+        "#SafetrustMortgage",
+        "#MortgageIntelligenceDaily",
+        "#homebuying",
+        "#housingmarket",
+        "#realestateinvesting"
+      ],
+      "hook_tag": "Patrimonio Bloqueado",
+      "hook": "Tu patrimonio vale una fortuna, pero pedir prestado sobre él es muy costoso.",
+      "what_happened_heading": "Crédito caro detiene renovaciones",
+      "what_happened": "Los propietarios que buscan financiar grandes remodelaciones se están alejando de las líneas de crédito con garantía hipotecaria a medida que suben las tasas de interés. El costo de pedir prestado contra el patrimonio de la vivienda ha superado el retorno financiero de la mayoría de las mejoras del hogar.",
+      "breakdown": [
+        {
+          "heading": "La ilusión de la riqueza",
+          "body": "Los valores del patrimonio de la vivienda están cerca de máximos históricos, pero esa riqueza está completamente atrapada si el costo de usarla consume tu presupuesto mensual."
+        },
+        {
+          "heading": "Evaluando segundos gravámenes",
+          "body": "Los asesores examinan con lupa los productos de capital con segundos gravámenes en este momento. Combinar una primera hipoteca baja con un segundo gravamen de alta tasa requiere cuidado extremo en las razones de deuda total."
+        },
+        {
+          "heading": "Los contratistas sienten la presión",
+          "body": "Los contratistas de remodelación están viendo un aumento en las cancelaciones de proyectos, ya que los propietarios se dan cuenta de que financiar una renovación de cocina a las tasas actuales es imprudente."
+        },
+        {
+          "heading": "Necesidades de financiación alternativa",
+          "body": "Los prestatarios necesitan soluciones creativas como préstamos personales, financiación especializada de contratistas, o una reducción estratégica en lugar de usar el capital tradicional."
+        }
+      ],
+      "my_take_heading": "La riqueza en papel no paga al contratista",
+      "my_take": "Tener trescientos mil dólares de patrimonio no ayuda a una familia con escasez de espacio para niños si el pago de la financiación cuesta más que un coche nuevo. El patrimonio es inútil si es muy caro de usar.",
+      "action_lo": "Contacta a clientes anteriores que preguntaron sobre refinanciamientos con retiro de efectivo y muéstrales un desglose exacto de los costos de las opciones de capital actuales versus esperar.",
+      "action_realtor": "Asóciate con contratistas generales locales para encontrar propietarios que necesiten desesperadamente un espacio más grande y estén listos para listar su propiedad en venta.",
+      "cta_question": "¿Estás viendo que los propietarios eligen quedarse y vivir en espacios más pequeños en lugar de pagar altas tasas de capital?"
+    }
   ]
 }
