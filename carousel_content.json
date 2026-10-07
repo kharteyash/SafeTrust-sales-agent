@@ -1,342 +1,172 @@
 {
   "carousels": [
     {
-      "slug": "crmls-compass-lawsuit",
-      "title": "CRMLS Asks Court to Block Compass Antitrust Claims",
+      "slug": "uwm-dual-score-model",
+      "title": "UWM moves to dual-score model",
       "source": "HousingWire",
-      "source_url": "https://www.housingwire.com/articles/crmls-sues-compass-mls/",
-      "cover_text": "mls rules are headed to federal court.",
-      "caption": "The legal battle lines between brokerage models and Multiple Listing Services are hardening fast. When a major MLS takes the proactive step of asking a federal judge to declare its policies antitrust compliant, it signals that the industry is done waiting for the lawsuits to settle organically. For real estate agents and team leaders, this isn't just courtroom drama—it directly impacts how listings, data sharing, and cooperative compensation operate on the ground. Understanding these structural shifts is vital for protecting your business model as enforcement and litigation reshape traditional brokerage operations from the top down. Follow for daily breakdowns of the real estate trends that actually impact your pipeline.\n\nSource : https://tinyurl.com/2aapufxh\n#SafetrustMortgage #MortgageIntelligenceDaily #realestateagent #housingmarket #mortgagebroker",
-      "hashtags": [
-        "#SafetrustMortgage",
-        "#MortgageIntelligenceDaily",
-        "#realestateagent",
-        "#housingmarket",
-        "#mortgagebroker"
-      ],
-      "hook_tag": "mls legal battle",
-      "hook": "Why one major mls just took the offensive against brokerage antitrust claims.",
-      "what_happened_heading": "The MLS takes preemptive legal action",
-      "what_happened": "CRMLS asked a New York federal judge to declare its policies procompetitive and compliant with antitrust laws. The move comes in direct response to antitrust claims brought by brokerage giant Compass.",
-      "breakdown": [
-        {
-          "heading": "A defensive offensive move",
-          "body": "Instead of waiting to be sued in multiple jurisdictions, the MLS is forcing a federal court to rule on the core legality of its operating rules."
-        },
-        {
-          "heading": "The underwriting impact",
-          "body": "Here is what this actually changes when a file hits underwriting: absolutely nothing today. But long-term stability in brokerages dictates how clean purchase transactions look on paper."
-        },
-        {
-          "heading": "Brokerage model disruption",
-          "body": "As independent brokerages challenge traditional cooperative structures, the definition of an open market is being rewritten in real time by the courts."
-        },
-        {
-          "heading": "Data and access at stake",
-          "body": "The core of the dispute centers on who controls listing data, commission structures, and how agents access inventory across regional boundaries."
-        }
-      ],
-      "my_take_heading": "Litigation is the new product roadmap",
-      "my_take": "When the industry starts litigating its own rulebook in federal court, the days of passive compliance are officially over.",
-      "action_lo": "Keep a close eye on real estate partner stability as legal costs and structural changes hit brokerage balance sheets.",
-      "action_realtor": "Review your brokerage's compliance framework and agency agreements to ensure you are insulated from shifting MLS policies.",
-      "cta_question": "Do you think federal courts or local boards should dictate MLS rules?"
-    },
-    {
-      "slug": "uad-36-deadline",
-      "title": "UAD 3.6 is almost here. Lenders need to move from awareness to production.",
-      "source": "HousingWire",
-      "source_url": "https://www.housingwire.com/articles/uad-36-deadline/",
-      "cover_text": "the new appraisal standard is coming.",
-      "caption": "Forget minor form tweaks. The rollout of UAD 3.6 is a fundamental overhaul of how collateral data flows through the entire mortgage manufacturing process. Lenders who treat this as a simple software update are setting themselves up for massive pipeline friction, delayed closing dates, and blown lock periods. Moving from awareness to actual production means auditing your appraisal vendors and internal LOS (Loan Origination Software) logic right now. If your operations team isn't testing these new data fields today, your underwriting queue is going to face a severe bottleneck tomorrow. Save this post to prep your operations team before the transition deadline arrives.\n\nSource : https://tinyurl.com/2yg8vuqr\n#SafetrustMortgage #MortgageIntelligenceDaily #mortgagerates #housingmarket #firsttimehomebuyer",
+      "source_url": "https://www.housingwire.com/articles/uwm-moves-to-dual-score-model/",
+      "cover_text": "Dual credit scores change everything.",
+      "caption": "The credit scoring landscape just shifted under our feet. When UWM announced they are pulling both FICO and VantageScore on every single credit report and auto-selecting the best result, the entire industry looked sideways. This isn't just a minor tech update. It is a massive operational pivot that changes how marginal files get approved. If you are an originator or a realtor trying to save a declining file, you need to understand how this dual-score strategy impacts underwriting approvals immediately. Let us break down what this means for your pipeline.\n\nSource : https://tinyurl.com/27tg7c3y\n#SafetrustMortgage #MortgageIntelligenceDaily #mortgagerates #loanofficer #realestateagent",
       "hashtags": [
         "#SafetrustMortgage",
         "#MortgageIntelligenceDaily",
         "#mortgagerates",
-        "#housingmarket",
-        "#firsttimehomebuyer"
+        "#loanofficer",
+        "#realestateagent"
       ],
-      "hook_tag": "appraisal standard",
-      "hook": "Most lenders are treating uad 3.6 like a simple form update. They are wrong.",
-      "what_happened_heading": "A massive overhaul for collateral data",
-      "what_happened": "The Uniform Appraisal Dataset 3.6 standard is almost here, requiring lenders to shift immediately from awareness to active production. This update introduces structured collateral data that goes far beyond traditional appraisal forms.",
+      "hook_tag": "Credit Scoring",
+      "hook": "Pulling two credit scores instead of one just rewrote the approval rulebook.",
+      "what_happened_heading": "Uwm updates credit pull process",
+      "what_happened": "United Wholesale Mortgage will now obtain both FICO and VantageScore on every credit pull. The system will automatically select the best scoring result for the borrower.",
       "breakdown": [
         {
-          "heading": "Beyond the standard form",
-          "body": "UAD 3.6 restructures how property data is collected, standardized, and delivered, impacting every single residential loan file in your pipeline."
+          "heading": "The multi-score reality",
+          "body": "For years, lenders relied exclusively on traditional FICO scores to determine borrower eligibility. Adding VantageScore into the standard pull creates an immediate alternative pathway for credit evaluation."
         },
         {
-          "heading": "The underwriting bottleneck",
-          "body": "Here is what this actually changes when a file hits underwriting: underwriters will face hyper-detailed property data fields that leave zero room for vague descriptions."
+          "heading": "Underwriting the variance",
+          "body": "Here is what this actually changes when a file hits underwriting: automated underwriting systems can now leverage whichever model yields a higher qualifying middle score."
         },
         {
-          "heading": "Vendor alignment is critical",
-          "body": "Lenders must actively coordinate with appraisal management companies and software providers to ensure data mapping is seamless before hard deadlines hit."
+          "heading": "Rescuing borderline files",
+          "body": "Borrowers with thin credit files often score higher under alternative scoring models. This auto-selection feature can push a borderline DTI (how much of your income goes to debt) file across the finish line."
         },
         {
-          "heading": "Protecting pipeline continuity",
-          "body": "Without early testing in a live production environment, lenders risk severe closing delays as loan officers and processors stumble through unfamiliar data requirements."
+          "heading": "Pipeline speed gains",
+          "body": "Lenders no longer have to manually request secondary credit reports if the first score comes in light. The automated workflow keeps loans moving forward without unnecessary delays."
         }
       ],
-      "my_take_heading": "Data structure dictates loan quality",
-      "my_take": "If your operations team views UAD 3.6 as a compliance checklist rather than a data overhaul, your pipeline will pay the price.",
-      "action_lo": "Reach out to your appraisal vendors this week to confirm their timeline for adopting UAD 3.6 compliant reporting formats.",
-      "action_realtor": "Expect appraisers to ask more granular questions about property features and updates as standardized data fields take effect.",
-      "cta_question": "Is your operations team currently testing UAD 3.6 in a live environment?"
+      "my_take_heading": "The underwriting advantage",
+      "my_take": "Auto-selecting the best score isn't a shortcut. It's using all available data to get qualified buyers across the finish line.",
+      "action_lo": "Review your current pipeline for denied files that might pass using a secondary credit scoring model.",
+      "action_realtor": "Ask your preferred lending partners how dual-score models can help rescue your near-approval buyers.",
+      "cta_question": "Will your current LOS easily handle dual-score evaluation without manual workarounds?"
     },
     {
-      "slug": "valon-servicing-tech-push",
-      "title": "Valon Raises $150M At $2.3B Valuation",
+      "slug": "hud-section-184-fee-increase",
+      "title": "HUD Raises Section 184 Loan Fee",
       "source": "National Mortgage Professional",
-      "source_url": "https://nationalmortgageprofessional.com/news/valon-raises-150m-23b-valuation-accelerating-servicing-tech-push",
-      "cover_text": "mortgage servicing tech just got a giant.",
-      "caption": "A $150 million Series D funding round at a $2.3 billion valuation proves that investors see massive upside in replacing legacy mortgage servicing platforms. Valon is making a direct play to get the nation's largest servicers to rip out core systems and replace them with ValonOS. For mortgage executives, servicing technology has been a notoriously sticky, outdated bottleneck for decades. When venture capital backs a full core replacement strategy at a multi-billion dollar valuation, it means the industry is finally ready to modernize the backend of homeownership. Drop a comment below with your thoughts on legacy core tech replacement.\n\nSource : https://tinyurl.com/2625ndag\n#SafetrustMortgage #MortgageIntelligenceDaily #mortgagebroker #realestateinvesting #housingmarket",
-      "hashtags": [
-        "#SafetrustMortgage",
-        "#MortgageIntelligenceDaily",
-        "#mortgagebroker",
-        "#realestateinvesting",
-        "#housingmarket"
-      ],
-      "hook_tag": "servicing technology",
-      "hook": "Why investors just poured 150 million dollars into replacing legacy loan servicing systems.",
-      "what_happened_heading": "A massive valuation for core replacement",
-      "what_happened": "Valon Technologies raised $150 million in a Series D funding round, doubling its valuation to $2.3 billion. The company aims to convince the nation's largest servicers to replace their legacy core systems with ValonOS.",
-      "breakdown": [
-        {
-          "heading": "The legacy software problem",
-          "body": "Most mortgage servicers operate on decades-old software architectures that make scaling, auditing, and consumer communication painfully inefficient."
-        },
-        {
-          "heading": "The underwriting and servicing bridge",
-          "body": "Here is what this actually changes when a file hits underwriting: modern servicing platforms create cleaner historical data that feeds directly back into future credit decisions."
-        },
-        {
-          "heading": "Heavyweight investor backing",
-          "body": "The round included new investor Ribbit Capital alongside existing heavyweights like Andreessen Horowitz, signaling strong institutional conviction."
-        },
-        {
-          "heading": "The push for full replacement",
-          "body": "Instead of offering piecemeal software add-ons, Valon is pitching a complete root-and-branch replacement of core servicing infrastructure."
-        }
-      ],
-      "my_take_heading": "Servicing is the next frontier of profit",
-      "my_take": "The most profitable mortgage companies of the next decade won't just originate better loans—they will service them on modern software.",
-      "action_lo": "Understand how your current subservicer handles borrower retention, because poor servicing tech kills future repeat business.",
-      "action_realtor": "Look at which servicers handle your past clients' loans to ensure they provide a top-tier digital experience during payoff requests.",
-      "cta_question": "Are legacy servicing platforms holding back the entire mortgage ecosystem?"
-    },
-    {
-      "slug": "aging-homeowners-move-up-market",
-      "title": "Aging Homeowners Could Open Up The Move-Up Market",
-      "source": "National Mortgage Professional",
-      "source_url": "https://nationalmortgageprofessional.com/news/aging-homeowners-opem-move-market",
-      "cover_text": "boomers are selling, but not for you.",
-      "caption": "The upcoming wave of housing inventory from aging homeowners sounds like the ultimate fix for the American housing shortage on paper. New research from Realtor.com shows that Baby Boomers and the Silent Generation will release 13.9 million homes over the next decade. But there's a massive catch: this inventory wave will do very little to solve the inventory drought for first-time home buyers. Why? Because most of these homes are tailored for move-up buyers or require significant modernization before they fit entry-level budgets. Share this with a colleague who thinks macro inventory numbers tell the whole story.\n\nSource : https://tinyurl.com/246ehtfm\n#SafetrustMortgage #MortgageIntelligenceDaily #firsttimehomebuyer #housingmarket #realestateagent",
+      "source_url": "https://www.nationalmortgageprofessional.com/news/hud-raises-section-184-loan-fee-50-native-american-borrowers/",
+      "cover_text": "Section 184 loan fees just jumped.",
+      "caption": "Borrowers using the Section 184 Indian Housing Loan Guarantee Program just took a hit to their upfront costs. HUD reversed a prior reduction by hiking the upfront loan guarantee fee from 1% to 1.5%. When financing costs increase overnight, it changes how borrowers structure their cash-to-close. Originators and realtors working in these markets need to adjust their pre-approvals immediately to account for the higher fee before closing documents go out.\n\nSource : https://tinyurl.com/2cym8k66\n#SafetrustMortgage #MortgageIntelligenceDaily #firsttimehomebuyer #mortgagerates #realestateinvesting",
       "hashtags": [
         "#SafetrustMortgage",
         "#MortgageIntelligenceDaily",
         "#firsttimehomebuyer",
-        "#housingmarket",
-        "#realestateagent"
+        "#mortgagerates",
+        "#realestateinvesting"
       ],
-      "hook_tag": "housing inventory",
-      "hook": "Millions of homes are about to hit the market. First-time buyers won't want them.",
-      "what_happened_heading": "A massive demographic shift is coming",
-      "what_happened": "America's aging homeowners are expected to release 13.9 million homes over the next decade as Baby Boomers and the Silent Generation exit their current properties. However, new Realtor.com research reveals this wave will do little to help first-time home buyers.",
+      "hook_tag": "Policy Update",
+      "hook": "A sudden 50% fee hike on a key federal loan program changes cash-to-close math.",
+      "what_happened_heading": "Hud raises loan guarantee fee",
+      "what_happened": "The Department of Housing and Urban Development increased the upfront loan guarantee fee for the Section 184 program from 1% to 1.5%. The change applies to all new firm commitments issued on or after October 1.",
       "breakdown": [
         {
-          "heading": "The 36.7 million home footprint",
-          "body": "Older generations currently occupy an estimated 36.7 million homes they own outright or hold significant equity in across the country."
+          "heading": "The fee reversal",
+          "body": "HUD decided to roll back a previous fee reduction made three years ago. This brings the guarantee fee right back up to 1.5% for all incoming Native American borrowers."
         },
         {
-          "heading": "The wrong type of inventory",
-          "body": "The homes being released are largely unsuited for entry-level buyers, often requiring major updates or sitting in suburban move-up brackets."
+          "heading": "Impact on cash to close",
+          "body": "On a 300,000 dollar loan amount, that extra half percent adds 1,500 dollars directly to the total upfront financing costs. Borrowers must bring more funds or finance the fee."
         },
         {
-          "heading": "The underwriting perspective",
-          "body": "Here is what this actually changes when a file hits underwriting: older homes often trigger repair conditions and structural appraisal flags that complicate conventional financing."
+          "heading": "Underwriting adjustments",
+          "body": "Here is what this actually changes when a file hits underwriting: maximum LTV (loan-to-value ratio) and cash-to-close calculations must be re-verified instantly to avoid closing day funding shortfalls."
         },
         {
-          "heading": "First-time buyer displacement",
-          "body": "While move-up buyers will find relief, entry-level purchasers will remain starved for inventory priced below median market thresholds."
+          "heading": "Protecting affordability",
+          "body": "Originators must proactively update their initial fee worksheets so buyers do not get blindsided by higher closing costs right before signing final loan documents."
         }
       ],
-      "my_take_heading": "Macro data hides micro reality",
-      "my_take": "Total inventory numbers are a trap if the homes hitting the market don't match the DTI and price point of entry-level buyers.",
-      "action_lo": "Educate your first-time buyers on renovation loan products to help them capture older inventory that other buyers pass on.",
-      "action_realtor": "Target aging move-up sellers with specialized downsizing strategies to unlock unlisted inventory in your local market.",
-      "cta_question": "How should lenders adapt to a market where inventory relief bypasses first-time buyers?"
-    }
-  ],
-  "carousels_es": [
-    {
-      "slug": "crmls-compass-lawsuit",
-      "title": "CRMLS Pide a la Corte que Bloquee Demandas Antimonopolio de Compass",
-      "source": "HousingWire",
-      "source_url": "https://www.housingwire.com/articles/crmls-sues-compass-mls/",
-      "cover_text": "las reglas mls van a corte federal.",
-      "caption": "Las líneas de batalla legal entre los modelos de corretaje y los Servicios de Listados Múltiples (MLS) se endurecen rápidamente. Cuando un MLS importante toma la iniciativa de pedir a un juez federal que declare sus políticas como conformes a las leyes antimonopolio, señala que la industria ya no espera a que las demandas se resuelvan de forma orgánica. Para agentes inmobiliarios y líderes de equipo, esto no es solo un drama judicial; impacta directamente cómo operan los listados, el intercambio de datos y la compensación cooperativa en la práctica. Entender estos cambios estructurales es vital para proteger tu modelo de negocio, ya que la aplicación de la ley y los litigios reconfiguran las operaciones de corretaje tradicionales desde arriba. Síguenos para análisis diarios de las tendencias inmobiliarias que realmente afectan tu negocio.\n\nFuente : https://tinyurl.com/2aapufxh\n#SafetrustMortgage #MortgageIntelligenceDaily #realestateagent #housingmarket #mortgagebroker",
-      "hashtags": [
-        "#SafetrustMortgage",
-        "#MortgageIntelligenceDaily",
-        "#realestateagent",
-        "#housingmarket",
-        "#mortgagebroker"
-      ],
-      "hook_tag": "batalla legal mls",
-      "hook": "Por qué un mls importante tomó la ofensiva contra demandas antimonopolio de corretaje.",
-      "what_happened_heading": "El MLS toma acción legal preventiva",
-      "what_happened": "CRMLS pidió a un juez federal de Nueva York que declare sus políticas procompetitivas y conformes a las leyes antimonopolio. La medida responde directamente a las demandas antimonopolio presentadas por el gigante de corretaje Compass.",
-      "breakdown": [
-        {
-          "heading": "Una ofensiva defensiva",
-          "body": "En vez de esperar a ser demandado en múltiples jurisdicciones, el MLS obliga a una corte federal a decidir sobre la legalidad de sus reglas operativas."
-        },
-        {
-          "heading": "El impacto en la aprobación",
-          "body": "Esto es lo que realmente cambia cuando un expediente llega a aprobación: absolutamente nada hoy. Pero la estabilidad a largo plazo en las corretajes determina la claridad de las transacciones de compra."
-        },
-        {
-          "heading": "Disrupción del modelo de corretaje",
-          "body": "Mientras las corretajes independientes desafían las estructuras cooperativas, la definición de un mercado abierto es reescrita en tiempo real por los tribunales."
-        },
-        {
-          "heading": "Datos y acceso en juego",
-          "body": "El centro de la disputa es quién controla los datos de listados, las estructuras de comisiones y cómo los agentes acceden al inventario entre regiones."
-        }
-      ],
-      "my_take_heading": "El litigio es la nueva hoja de ruta",
-      "my_take": "Cuando la industria empieza a litigar su propio reglamento en una corte federal, los días de cumplimiento pasivo han terminado oficialmente.",
-      "action_lo": "Monitorea de cerca la estabilidad de tus socios inmobiliarios, ya que los costos legales y cambios estructurales afectan los balances de las corretajes.",
-      "action_realtor": "Revisa el marco de cumplimiento y los acuerdos de agencia de tu corretaje para asegurar que estás protegido de los cambios en las políticas del MLS.",
-      "cta_question": "¿Crees que los tribunales federales o las juntas locales deben dictar las reglas del MLS?"
+      "my_take_heading": "The cost of policy shifts",
+      "my_take": "Policy reversals that hike upfront costs hurt affordability when buyers are already stretched thin by high rates.",
+      "action_lo": "Audit all active Section 184 pre-approvals to update cash-to-close figures for the new 1.5% fee.",
+      "action_realtor": "Check in with your tribal lending clients to ensure their financing buffers cover the increased fee.",
+      "cta_question": "How do you keep clients confident when government fees increase mid-transaction?"
     },
     {
-      "slug": "uad-36-deadline",
-      "title": "UAD 3.6 ya casi llega. Los prestamistas deben pasar de la preparación a la producción.",
-      "source": "HousingWire",
-      "source_url": "https://www.housingwire.com/articles/uad-36-deadline/",
-      "cover_text": "el nuevo estándar de tasación viene.",
-      "caption": "Olvida los pequeños ajustes de formularios. El lanzamiento de UAD 3.6 es una reforma fundamental de cómo fluyen los datos de garantías hipotecarias a través de todo el proceso hipotecario. Los prestamistas que lo tratan como una simple actualización de software se están preparando para una fricción masiva en sus procesos, cierres retrasados y plazos de tasas expirados. Pasar de la preparación a la producción real significa auditar a tus proveedores de tasaciones y la lógica interna de tu LOS (Loan Origination Software) ahora mismo. Si tu equipo de operaciones no está probando estos nuevos campos de datos hoy, tu fila de aprobaciones enfrentará un cuello de botella severo mañana. Guarda esta publicación para preparar a tu equipo de operaciones antes de la fecha límite de transición.\n\nFuente : https://tinyurl.com/2yg8vuqr\n#SafetrustMortgage #MortgageIntelligenceDaily #mortgagerates #housingmarket #firsttimehomebuyer",
+      "slug": "pennymac-vantagescore-rollout",
+      "title": "Pennymac Takes VantageScore Across All Channels",
+      "source": "National Mortgage Professional",
+      "source_url": "https://nationalmortgageprofessional.com/news/pennymac-takes-vantagescore-across-retail-broker-and-correspondent",
+      "cover_text": "VantageScore is officially mainstream.",
+      "caption": "Alternative credit scoring just crossed a major milestone. Pennymac has officially rolled out VantageScore 4.0 across its consumer-direct, broker, and correspondent production channels. This gives originators another massive institutional platform where alternative credit scores can be used on eligible loans. If you are still ignoring alternative scoring models, you are missing out on a massive pool of qualified borrowers.\n\nSource : https://tinyurl.com/2xznahkj\n#SafetrustMortgage #MortgageIntelligenceDaily #mortgagerates #loanofficer #firsttimehomebuyer",
       "hashtags": [
         "#SafetrustMortgage",
         "#MortgageIntelligenceDaily",
         "#mortgagerates",
-        "#housingmarket",
+        "#loanofficer",
         "#firsttimehomebuyer"
       ],
-      "hook_tag": "estándar de tasación",
-      "hook": "Muchos prestamistas tratan uad 3.6 como una simple actualización. Se equivocan.",
-      "what_happened_heading": "Una revisión masiva para datos de garantías",
-      "what_happened": "El estándar Uniform Appraisal Dataset 3.6 (UAD 3.6) está a punto de llegar, lo que exige que los prestamistas pasen de inmediato de la preparación a la producción activa. Esta actualización introduce datos de garantías estructurados que van mucho más allá de los formularios de tasación tradicionales.",
+      "hook_tag": "Credit Access",
+      "hook": "Another major lending giant just fully integrated alternative credit scoring across all channels.",
+      "what_happened_heading": "Pennymac adopts vantagescore 4.0",
+      "what_happened": "Pennymac rolled out VantageScore 4.0 across its consumer-direct, broker, and correspondent businesses. The change gives originators another major platform to use alternative credit scores on eligible loans.",
       "breakdown": [
         {
-          "heading": "Más allá del formulario estándar",
-          "body": "UAD 3.6 reestructura cómo se recopilan, estandarizan y entregan los datos de propiedades, impactando cada expediente de préstamo residencial en tu cartera."
+          "heading": "Multi-channel adoption",
+          "body": "By rolling this out across retail, wholesale, and correspondent channels, Pennymac ensures that originators nationwide can access alternative scoring on a massive scale."
         },
         {
-          "heading": "El cuello de botella en aprobación",
-          "body": "Esto es lo que cambia cuando un archivo llega a aprobación: los asesores enfrentarán campos de datos de propiedad súper detallados que no dejan espacio para descripciones vagas."
+          "heading": "Expanding the credit box",
+          "body": "Alternative credit models evaluate rental history and utility payments that traditional scoring often misses. This helps score thin-file borrowers who otherwise get left out."
         },
         {
-          "heading": "Alineación de proveedores crítica",
-          "body": "Los prestamistas deben coordinarse activamente con las compañías de gestión de tasaciones y proveedores de software para asegurar un mapeo de datos fluido antes de las fechas límite."
+          "heading": "Underwriting readiness",
+          "body": "Here is what this actually changes when a file hits underwriting: underwriters must be fully trained on evaluating VantageScore data alongside traditional credit histories seamlessly."
         },
         {
-          "heading": "Protegiendo la continuidad del proceso",
-          "body": "Sin pruebas tempranas en un entorno de producción real, los prestamistas corren el riesgo de retrasos severos en los cierres, ya que los agentes y procesadores batallarán con requisitos de datos desconocidos."
+          "heading": "Market momentum",
+          "body": "As more secondary market players accept alternative models, the industry inches closer to a multi-model future that reduces reliance on a single credit bureau monopoly."
         }
       ],
-      "my_take_heading": "La estructura de datos dicta la calidad",
-      "my_take": "Si tu equipo de operaciones ve UAD 3.6 como una lista de verificación de cumplimiento en lugar de una reforma de datos, tu proceso lo pagará.",
-      "action_lo": "Comunícate esta semana con tus proveedores de tasación para confirmar su cronograma de adopción de los formatos de informe compatibles con UAD 3.6.",
-      "action_realtor": "Espera que los tasadores hagan preguntas más detalladas sobre características y mejoras de propiedades a medida que los campos de datos estandarizados entren en vigor.",
-      "cta_question": "¿Tu equipo de operaciones está probando UAD 3.6 en un entorno real actualmente?"
+      "my_take_heading": "The multi-model future",
+      "my_take": "Adopting alternative scoring isn't experimental anymore. It's mandatory for capturing the next generation of creditworthy buyers.",
+      "action_lo": "Learn the specific underwriting guidelines for VantageScore 4.0 to start packaging alternative credit files.",
+      "action_realtor": "Educate your self-employed and thin-file clients about how new credit models can help them qualify.",
+      "cta_question": "Are your lending partners fully equipped to process alternative credit scores today?"
     },
     {
-      "slug": "valon-servicing-tech-push",
-      "title": "Valon Recauda $150M con una Valoración de $2.3B",
+      "slug": "dark-matter-mezzanine-verification",
+      "title": "Dark Matter Gives Lenders More Leverage Over Verification",
       "source": "National Mortgage Professional",
-      "source_url": "https://nationalmortgageprofessional.com/news/valon-raises-150m-23b-valuation-accelerating-servicing-tech-push",
-      "cover_text": "la tecnología de administración hipotecaria tiene un gigante.",
-      "caption": "Una ronda de financiación Serie D de $150 millones, con una valoración de $2.3 mil millones, demuestra que los inversionistas ven un potencial enorme en reemplazar las plataformas antiguas de administración hipotecaria. Valon está haciendo un movimiento directo para que los administradores más grandes del país reemplacen sus sistemas centrales con ValonOS. Para los ejecutivos hipotecarios, la tecnología de administración ha sido un cuello de botella notoriamente difícil y obsoleto durante décadas. Cuando el capital de riesgo respalda una estrategia completa de reemplazo de sistemas con una valoración multimillonaria, significa que la industria finalmente está lista para modernizar la parte \"backend\" de la propiedad de vivienda. Deja un comentario abajo con tus pensamientos sobre el reemplazo de la tecnología central antigua.\n\nFuente : https://tinyurl.com/2625ndag\n#SafetrustMortgage #MortgageIntelligenceDaily #mortgagebroker #realestateinvesting #housingmarket",
+      "source_url": "https://nationalmortgageprofessional.com/news/dark-matter-gives-lenders-more-leverage-over-verification-vendors/",
+      "cover_text": "Automated verification routing changes operations.",
+      "caption": "Verification vendor costs are eating into lender margins. Dark Matter Technologies just integrated Mezzo's verification orchestration technology into its Empower loan origination system. This lets lenders automatically route verification orders among multiple providers based on custom rules. If you run operations or manage pipeline costs, this is the kind of workflow automation that protects your bottom line.\n\nSource : https://tinyurl.com/232xht2m\n#SafetrustMortgage #MortgageIntelligenceDaily #housingmarket #mortgagebroker #loanofficer",
       "hashtags": [
         "#SafetrustMortgage",
         "#MortgageIntelligenceDaily",
-        "#mortgagebroker",
-        "#realestateinvesting",
-        "#housingmarket"
-      ],
-      "hook_tag": "tecnología de administración",
-      "hook": "Por qué inversionistas inyectaron 150 millones para reemplazar sistemas hipotecarios.",
-      "what_happened_heading": "Una valoración masiva para el reemplazo de sistemas",
-      "what_happened": "Valon Technologies recaudó $150 millones en una ronda de financiación Serie D, duplicando su valoración a $2.3 mil millones. La compañía busca convencer a los administradores de hipotecas más grandes del país de reemplazar sus sistemas centrales antiguos con ValonOS.",
-      "breakdown": [
-        {
-          "heading": "El problema del software heredado",
-          "body": "La mayoría de los administradores de hipotecas operan con arquitecturas de software de décadas que hacen que la escalabilidad, auditoría y comunicación con el consumidor sean ineficientes."
-        },
-        {
-          "heading": "El puente entre aprobación y administración",
-          "body": "Esto es lo que cambia cuando un archivo llega a aprobación: las plataformas modernas de administración crean datos históricos más limpios que alimentan directamente futuras decisiones de crédito."
-        },
-        {
-          "heading": "Respaldo de inversionistas poderosos",
-          "body": "La ronda incluyó al nuevo inversionista Ribbit Capital junto a pesos pesados existentes como Andreessen Horowitz, lo que indica una fuerte convicción institucional."
-        },
-        {
-          "heading": "El impulso por el reemplazo total",
-          "body": "En lugar de ofrecer complementos de software parciales, Valon propone un reemplazo completo de la infraestructura central de administración."
-        }
-      ],
-      "my_take_heading": "La administración es la próxima frontera",
-      "my_take": "Las compañías hipotecarias más rentables de la próxima década no solo originarán mejores préstamos, también los administrarán con software moderno.",
-      "action_lo": "Entiende cómo tu subadministrador actual maneja la retención de prestatarios, porque una mala tecnología de administración mata futuras oportunidades de negocio.",
-      "action_realtor": "Mira qué administradores manejan los préstamos de tus clientes anteriores para asegurar una experiencia digital superior durante las solicitudes de liquidación.",
-      "cta_question": "¿Están las plataformas de administración antiguas frenando todo el ecosistema hipotecario?"
-    },
-    {
-      "slug": "aging-homeowners-move-up-market",
-      "title": "Propietarios Mayores Podrían Abrir el Mercado de Viviendas de Ascenso",
-      "source": "National Mortgage Professional",
-      "source_url": "https://nationalmortgageprofessional.com/news/aging-homeowners-opem-move-market",
-      "cover_text": "boomers venden, pero no para ti.",
-      "caption": "La próxima ola de inventario de viviendas de propietarios mayores parece la solución definitiva a la escasez de viviendas en Estados Unidos en teoría. Una nueva investigación de Realtor.com muestra que los Baby Boomers y la Generación Silenciosa liberarán 13.9 millones de hogares en la próxima década. Pero hay un gran inconveniente: esta ola de inventario hará muy poco para resolver la escasez para los compradores de primera vivienda. ¿Por qué? Porque la mayoría de estas casas están diseñadas para compradores de ascenso o requieren una modernización significativa antes de que se ajusten a los presupuestos de nivel de entrada. Comparte esto con un colega que cree que los números macro de inventario cuentan toda la historia.\n\nFuente : https://tinyurl.com/246ehtfm\n#SafetrustMortgage #MortgageIntelligenceDaily #firsttimehomebuyer #housingmarket #realestateagent",
-      "hashtags": [
-        "#SafetrustMortgage",
-        "#MortgageIntelligenceDaily",
-        "#firsttimehomebuyer",
         "#housingmarket",
-        "#realestateagent"
+        "#mortgagebroker",
+        "#loanofficer"
       ],
-      "hook_tag": "inventario de viviendas",
-      "hook": "Millones de casas están por salir al mercado. Compradores primerizos no las querrán.",
-      "what_happened_heading": "Se avecina un cambio demográfico masivo",
-      "what_happened": "Se espera que los propietarios de viviendas mayores en Estados Unidos liberen 13.9 millones de hogares en la próxima década, a medida que los Baby Boomers y la Generación Silenciosa se muden de sus propiedades actuales. Sin embargo, una nueva investigación de Realtor.com revela que esta ola hará poco para ayudar a los compradores de primera vivienda.",
+      "hook_tag": "Loan Technology",
+      "hook": "Lenders finally get automated leverage to control rising verification vendor costs.",
+      "what_happened_heading": "Dark matter integrates mezzo technology",
+      "what_happened": "Dark Matter Technologies is integrating Mezzo's verification orchestration technology into its Empower loan origination system. This gives lenders the ability to automatically route verification orders among multiple providers using custom rules.",
       "breakdown": [
         {
-          "heading": "La huella de 36.7 millones de hogares",
-          "body": "Las generaciones mayores ocupan actualmente unos 36.7 millones de hogares de su propiedad, o con una participación significativa, en todo el país."
+          "heading": "The verification bottleneck",
+          "body": "Verifying income and assets has traditionally locked lenders into single-vendor pricing models. Costs keep climbing while operational flexibility remains completely stagnant."
         },
         {
-          "heading": "El tipo de inventario equivocado",
-          "body": "Las casas que se liberan no son adecuadas para compradores de primera vivienda; a menudo requieren grandes actualizaciones o están en segmentos suburbanos de ascenso."
+          "heading": "Smart orchestration rules",
+          "body": "Instead of relying on a single provider, lenders can now set rules that automatically shop and route orders to the most cost-effective and efficient vendor."
         },
         {
-          "heading": "La perspectiva de aprobación",
-          "body": "Esto es lo que cambia cuando un archivo llega a aprobación: las casas antiguas suelen activar condiciones de reparación y alertas estructurales de tasación que complican la financiación convencional."
+          "heading": "Underwriting efficiency",
+          "body": "Here is what this actually changes when a file hits underwriting: faster automated document return times mean fewer stips (stipulations) holding up final loan approval."
         },
         {
-          "heading": "Desplazamiento del comprador primerizo",
-          "body": "Aunque los compradores de ascenso encontrarán alivio, los de primera vivienda seguirán sin inventario con precios por debajo del umbral del mercado medio."
+          "heading": "Protecting operational margins",
+          "body": "In a high-rate market where every basis point of margin matters, automating vendor selection helps lenders shave critical dollars off per-loan origination costs."
         }
       ],
-      "my_take_heading": "Los datos macro esconden la realidad micro",
-      "my_take": "Los números totales de inventario son una trampa si las casas que llegan al mercado no coinciden con el DTI y el precio de los compradores primerizos.",
-      "action_lo": "Educa a tus compradores de primera vivienda sobre productos de préstamos para renovación para ayudarles a adquirir inventario más antiguo que otros compradores rechazan.",
-      "action_realtor": "Dirígete a vendedores de ascenso mayores con estrategias especializadas de reducción de tamaño para desbloquear inventario no listado en tu mercado local.",
-      "cta_question": "¿Cómo deben adaptarse los prestamistas a un mercado donde el alivio de inventario no beneficia a los compradores de primera vivienda?"
+      "my_take_heading": "Controlling operational drag",
+      "my_take": "Vendor orchestration is the key to lowering origination costs without sacrificing loan quality or speed.",
+      "action_lo": "Talk to your operations team about how automated vendor routing can speed up your initial processing times.",
+      "action_realtor": "Partner with lenders who use advanced tech stacks to eliminate conditional delays before closing.",
+      "cta_question": "How are you currently managing and reducing third-party verification costs in your pipeline?"
     }
   ]
 }
