@@ -168,5 +168,175 @@
       "action_realtor": "Partner with lenders who use advanced tech stacks to eliminate conditional delays before closing.",
       "cta_question": "How are you currently managing and reducing third-party verification costs in your pipeline?"
     }
+  ],
+  "carousels_es": [
+    {
+      "slug": "uwm-dual-score-model",
+      "title": "UWM adopta un modelo de doble puntaje",
+      "source": "HousingWire",
+      "source_url": "https://www.housingwire.com/articles/uwm-moves-to-dual-score-model/",
+      "cover_text": "Los puntajes de crédito duales lo cambian todo.",
+      "caption": "El panorama de los puntajes de crédito acaba de cambiar. Cuando UWM anunció que usarán FICO y VantageScore en cada informe de crédito y elegirán automáticamente el mejor resultado, la industria volteó a ver. Esto no es solo una actualización tecnológica menor. Es un cambio operativo masivo que modifica cómo se aprueban los casos con historial limitado. Si eres un originador o un agente de bienes raíces intentando salvar un archivo que no avanza, necesitas entender cómo esta estrategia de doble puntaje impacta las aprobaciones del asesor. Analicemos lo que esto significa para tus casos.\n\nFuente : https://tinyurl.com/27tg7c3y\n#SafetrustMortgage #MortgageIntelligenceDaily #mortgagerates #loanofficer #realestateagent",
+      "hashtags": [
+        "#SafetrustMortgage",
+        "#MortgageIntelligenceDaily",
+        "#mortgagerates",
+        "#loanofficer",
+        "#realestateagent"
+      ],
+      "hook_tag": "Puntaje de Crédito",
+      "hook": "Usar dos puntajes de crédito en lugar de uno reescribe las reglas de aprobación.",
+      "what_happened_heading": "UWM actualiza proceso de historial de crédito",
+      "what_happened": "United Wholesale Mortgage ahora obtendrá FICO y VantageScore en cada revisión de crédito. El sistema seleccionará automáticamente el mejor resultado para el prestatario.",
+      "breakdown": [
+        {
+          "heading": "La realidad de múltiples puntajes",
+          "body": "Por años, los prestamistas dependieron solo de FICO para la elegibilidad. Añadir VantageScore crea una vía alternativa inmediata para evaluar el crédito."
+        },
+        {
+          "heading": "Analizando la variación",
+          "body": "Esto es lo que realmente cambia cuando un caso llega al asesor: los sistemas automatizados pueden usar el modelo con el puntaje medio más alto."
+        },
+        {
+          "heading": "Rescatando casos al límite",
+          "body": "Prestatarios con poco historial suelen tener mejor puntaje con modelos alternativos. Esta selección automática puede ayudar a aprobar un caso con DTI (deuda-ingreso) al límite."
+        },
+        {
+          "heading": "Acelera el proceso",
+          "body": "Los prestamistas ya no tienen que pedir manualmente informes secundarios si el primer puntaje es bajo. El proceso automatizado evita retrasos innecesarios."
+        }
+      ],
+      "my_take_heading": "La ventaja del asesor",
+      "my_take": "Elegir automáticamente el mejor puntaje no es un atajo. Es usar todos los datos disponibles para ayudar a los compradores calificados a obtener su aprobación.",
+      "action_lo": "Revisa tus casos actuales con aprobaciones negadas, que podrían calificar con un modelo de puntaje de crédito secundario.",
+      "action_realtor": "Pregunta a tus prestamistas de confianza cómo los modelos de doble puntaje pueden ayudar a tus compradores que están a punto de calificar.",
+      "cta_question": "¿Tu sistema LOS actual manejará fácilmente la evaluación de doble puntaje sin soluciones manuales?"
+    },
+    {
+      "slug": "hud-section-184-fee-increase",
+      "title": "HUD aumenta la tarifa del préstamo de la Sección 184",
+      "source": "National Mortgage Professional",
+      "source_url": "https://www.nationalmortgageprofessional.com/news/hud-raises-section-184-loan-fee-50-native-american-borrowers/",
+      "cover_text": "Las tarifas del préstamo Sección 184 subieron.",
+      "caption": "Los prestatarios que usan el Programa de Garantía de Préstamos para Vivienda Indígena de la Sección 184 acaban de sufrir un golpe en sus costos iniciales. HUD revirtió una reducción previa al aumentar la tarifa de garantía inicial del préstamo del 1% al 1.5%. Cuando los costos de financiamiento aumentan de la noche a la mañana, cambia la forma en que los prestatarios estructuran su efectivo para el cierre. Los originadores y agentes de bienes raíces que trabajan en estos mercados deben ajustar sus pre-aprobaciones de inmediato para la tarifa más alta antes de que se envíen los documentos de cierre.\n\nFuente : https://tinyurl.com/2cym8k66\n#SafetrustMortgage #MortgageIntelligenceDaily #firsttimehomebuyer #mortgagerates #realestateinvesting",
+      "hashtags": [
+        "#SafetrustMortgage",
+        "#MortgageIntelligenceDaily",
+        "#firsttimehomebuyer",
+        "#mortgagerates",
+        "#realestateinvesting"
+      ],
+      "hook_tag": "Actualización de Políticas",
+      "hook": "Un aumento repentino del 50% en un programa de préstamo federal clave cambia los cálculos de efectivo para el cierre.",
+      "what_happened_heading": "HUD aumenta la tarifa de garantía del préstamo",
+      "what_happened": "El Departamento de Vivienda y Desarrollo Urbano (HUD) aumentó la tarifa de garantía inicial del préstamo del programa Sección 184 del 1% al 1.5%. El cambio aplica a todos los nuevos compromisos firmes emitidos a partir del 1 de octubre.",
+      "breakdown": [
+        {
+          "heading": "La reversión de la tarifa",
+          "body": "HUD decidió revertir una reducción de tarifa hecha hace tres años. Esto sube la tarifa de garantía al 1.5% para todos los prestatarios indígenas americanos."
+        },
+        {
+          "heading": "Impacto en el efectivo para el cierre",
+          "body": "En un préstamo de 300,000 dólares, ese medio por ciento extra añade 1,500 dólares a los costos iniciales. Los prestatarios deben traer más fondos o financiar la tarifa."
+        },
+        {
+          "heading": "Ajustes del asesor",
+          "body": "Esto es lo que realmente cambia cuando un caso llega al asesor: el LTV máximo (relación préstamo-valor) y los cálculos de efectivo para el cierre deben verificarse de nuevo al instante para evitar faltantes de fondos al cierre."
+        },
+        {
+          "heading": "Protegiendo la asequibilidad",
+          "body": "Los originadores deben actualizar proactivamente sus hojas de trabajo de tarifas para que los compradores no se sorprendan con costos de cierre más altos justo antes de firmar los documentos finales del préstamo."
+        }
+      ],
+      "my_take_heading": "El costo de los cambios de políticas",
+      "my_take": "Las reversiones de políticas que aumentan los costos iniciales afectan la asequibilidad cuando los compradores ya tienen problemas con las altas tasas.",
+      "action_lo": "Audita todas las pre-aprobaciones activas de la Sección 184 para actualizar las cifras de efectivo para el cierre con la nueva tarifa del 1.5%.",
+      "action_realtor": "Comunícate con tus clientes prestamistas tribales para asegurarte de que sus fondos de financiamiento cubran la tarifa aumentada.",
+      "cta_question": "¿Cómo mantienes la confianza de los clientes cuando las tarifas del gobierno aumentan a mitad de la transacción?"
+    },
+    {
+      "slug": "pennymac-vantagescore-rollout",
+      "title": "Pennymac adopta VantageScore en todos los canales",
+      "source": "National Mortgage Professional",
+      "source_url": "https://nationalmortgageprofessional.com/news/pennymac-takes-vantagescore-across-retail-broker-and-correspondent",
+      "cover_text": "VantageScore ya es oficial.",
+      "caption": "La puntuación de crédito alternativa acaba de superar un hito importante. Pennymac ha lanzado oficialmente VantageScore 4.0 en sus canales de producción directa al consumidor, de brokers y de corresponsales. Esto brinda a los originadores otra plataforma institucional masiva donde se pueden usar puntajes de crédito alternativos en préstamos elegibles. Si aún ignoras los modelos de puntuación alternativos, te estás perdiendo una gran cantidad de prestatarios calificados.\n\nFuente : https://tinyurl.com/2xznahkj\n#SafetrustMortgage #MortgageIntelligenceDaily #mortgagerates #loanofficer #firsttimehomebuyer",
+      "hashtags": [
+        "#SafetrustMortgage",
+        "#MortgageIntelligenceDaily",
+        "#mortgagerates",
+        "#loanofficer",
+        "#firsttimehomebuyer"
+      ],
+      "hook_tag": "Acceso al Crédito",
+      "hook": "Otro gigante prestamista acaba de integrar completamente la puntuación de crédito alternativa en todos los canales.",
+      "what_happened_heading": "Pennymac adopta VantageScore 4.0",
+      "what_happened": "Pennymac lanzó VantageScore 4.0 en sus negocios directos al consumidor, de brokers y corresponsales. El cambio les da a los originadores otra plataforma importante para usar puntajes de crédito alternativos en préstamos elegibles.",
+      "breakdown": [
+        {
+          "heading": "Adopción multicanal",
+          "body": "Al implementarlo en canales minoristas, mayoristas y corresponsales, Pennymac asegura que los originadores de todo el país puedan acceder a puntuaciones alternativas a gran escala."
+        },
+        {
+          "heading": "Expandiendo el universo de crédito",
+          "body": "Los modelos de crédito alternativos evalúan el historial de alquiler y los pagos de servicios públicos que los puntajes tradicionales suelen omitir. Esto ayuda a calificar a prestatarios con historial limitado que de otro modo quedarían fuera."
+        },
+        {
+          "heading": "Preparación del asesor",
+          "body": "Esto es lo que realmente cambia cuando un caso llega al asesor: los asesores deben estar completamente capacitados para evaluar los datos de VantageScore junto con los historiales de crédito tradicionales sin problemas."
+        },
+        {
+          "heading": "Impulso del mercado",
+          "body": "A medida que más actores del mercado secundario aceptan modelos alternativos, la industria se acerca a un futuro multimodelos que reduce la dependencia de un solo monopolio de crédito."
+        }
+      ],
+      "my_take_heading": "El futuro multimodelos",
+      "my_take": "Adoptar una puntuación alternativa ya no es un experimento. Es obligatorio para captar a la próxima generación de compradores solventes.",
+      "action_lo": "Aprende las pautas de evaluación específicas para VantageScore 4.0 para empezar a armar casos de crédito alternativos.",
+      "action_realtor": "Educa a tus clientes autónomos y con historial limitado sobre cómo los nuevos modelos de crédito pueden ayudarles a calificar.",
+      "cta_question": "¿Tus socios prestamistas están totalmente equipados para procesar puntajes de crédito alternativos hoy?"
+    },
+    {
+      "slug": "dark-matter-mezzanine-verification",
+      "title": "Dark Matter les da a los prestamistas más control sobre la verificación",
+      "source": "National Mortgage Professional",
+      "source_url": "https://nationalmortgageprofessional.com/news/dark-matter-gives-lenders-more-leverage-over-verification-vendors/",
+      "cover_text": "La verificación automatizada cambia las operaciones.",
+      "caption": "Los costos de los proveedores de verificación están afectando los márgenes de los prestamistas. Dark Matter Technologies acaba de integrar la tecnología de orquestación de verificación de Mezzo en su sistema de originación de préstamos Empower. Esto permite a los prestamistas enviar órdenes de verificación automáticamente entre varios proveedores basándose en reglas personalizadas. Si gestionas operaciones o controlas los costos, este tipo de automatización de flujo de trabajo protege tus ganancias.\n\nFuente : https://tinyurl.com/232xht2m\n#SafetrustMortgage #MortgageIntelligenceDaily #housingmarket #mortgagebroker #loanofficer",
+      "hashtags": [
+        "#SafetrustMortgage",
+        "#MortgageIntelligenceDaily",
+        "#housingmarket",
+        "#mortgagebroker",
+        "#loanofficer"
+      ],
+      "hook_tag": "Tecnología de Préstamos",
+      "hook": "Los prestamistas finalmente obtienen control automatizado para gestionar el aumento de costos de verificación.",
+      "what_happened_heading": "Dark Matter integra tecnología Mezzo",
+      "what_happened": "Dark Matter Technologies está integrando la tecnología de orquestación de verificación de Mezzo en su sistema de originación de préstamos Empower. Esto les da a los prestamistas la capacidad de enviar órdenes de verificación automáticamente entre varios proveedores usando reglas personalizadas.",
+      "breakdown": [
+        {
+          "heading": "El cuello de botella de la verificación",
+          "body": "Verificar ingresos y activos ha limitado a los prestamistas a modelos de precios de un solo proveedor. Los costos siguen subiendo mientras la flexibilidad operativa permanece estancada."
+        },
+        {
+          "heading": "Reglas de orquestación inteligentes",
+          "body": "En lugar de depender de un solo proveedor, los prestamistas ahora pueden establecer reglas para buscar y enviar pedidos automáticamente al proveedor más eficiente y rentable."
+        },
+        {
+          "heading": "Eficiencia del asesor",
+          "body": "Esto es lo que realmente cambia cuando un caso llega al asesor: tiempos de devolución de documentos automatizados más rápidos significan menos estipulaciones que retrasan la aprobación final del préstamo."
+        },
+        {
+          "heading": "Protegiendo los márgenes operativos",
+          "body": "En un mercado de altas tasas donde cada punto de margen importa, la automatización de la selección de proveedores ayuda a los prestamistas a reducir costos críticos por préstamo."
+        }
+      ],
+      "my_take_heading": "Controlando la resistencia operativa",
+      "my_take": "La orquestación de proveedores es clave para reducir los costos de originación sin sacrificar la calidad o la velocidad del préstamo.",
+      "action_lo": "Habla con tu equipo de operaciones sobre cómo el enrutamiento automatizado de proveedores puede acelerar tus tiempos de procesamiento iniciales.",
+      "action_realtor": "Asóciate con prestamistas que usen tecnología avanzada para eliminar retrasos condicionales antes del cierre.",
+      "cta_question": "¿Cómo estás gestionando y reduciendo actualmente los costos de verificación de terceros en tu proceso?"
+    }
   ]
 }
