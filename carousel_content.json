@@ -1,138 +1,54 @@
 {
   "carousels": [
     {
-      "slug": "uwm-dual-score-model",
-      "title": "UWM moves to dual-score model",
+      "slug": "uwm-credit-score-removal",
+      "title": "UWM Removes Minimum Credit Scores on Most Mortgages",
+      "source": "The Truth About Mortgage",
+      "source_url": "https://www.thetruthaboutmortgage.com/uwm-removes-minimum-credit-scores-on-most-mortgages/",
+      "cover_text": "No minimum credit scores? Let's talk reality.",
+      "caption": "Dropping credit score minimums sounds like a massive win for accessibility, but what does it actually mean for your pipeline and risk profile? UWM's latest move shakes up how lenders approach underwriting guidelines, pushing the industry into uncharted territory. Before you celebrate looser guidelines, you need to look at how pricing and automated underwriting systems will handle the shift. Here is the operational truth behind the headlines.\n\nSource : https://tinyurl.com/2c4g5yar\n#SafetrustMortgage #MortgageIntelligenceDaily #mortgagerates #homebuying #loanofficer",
+      "hashtags": [
+        "#SafetrustMortgage",
+        "#MortgageIntelligenceDaily",
+        "#mortgagerates",
+        "#homebuying",
+        "#loanofficer"
+      ],
+      "hook_tag": "Underwriting Shift",
+      "hook": "UWM just dropped minimum credit score floors. Here is why underwriters are sweating.",
+      "what_happened_heading": "The credit score floor is gone",
+      "what_happened": "United Wholesale Mortgage has removed its minimum credit score requirement on conventional, FHA, VA, and USDA loans. The policy change is effective immediately for brokers nationwide.",
+      "breakdown": [
+        {
+          "heading": "No hard stop",
+          "body": "Lenders previously enforced rigid credit floors that automatically denied files below a set number. That barrier is officially removed."
+        },
+        {
+          "heading": "AUS still rules",
+          "body": "Here is what this actually changes when a file hits underwriting: the Automated Underwriting System (AUS) still calls the shots on risk approval."
+        },
+        {
+          "heading": "Pricing penalties",
+          "body": "A lower score will not get an automatic denial, but Loan-Level Price Adjustments (LLPAs) will make the financing significantly more expensive."
+        },
+        {
+          "heading": "Manual review load",
+          "body": "Underwriters will spend more time evaluating compensating factors because low scores require bulletproof asset and income documentation."
+        }
+      ],
+      "my_take_heading": "The underwriting reality check",
+      "my_take": "Removing the score floor does not mean lowering lending standards. It just shifts the burden from a hard stop to your pricing engine and your sanity.",
+      "action_lo": "Review past denied files to see which ones now pass automated underwriting under the new guidelines.",
+      "action_realtor": "Educate buyers that qualifying without a credit floor still requires managing their debt-to-income ratio carefully.",
+      "cta_question": "Are you ready to explain risk-based pricing to borrowers with marginal credit profiles?"
+    },
+    {
+      "slug": "fico-layoffs-scoring-competition",
+      "title": "FICO to cut 15% of staff, reduce management layers",
       "source": "HousingWire",
-      "source_url": "https://www.housingwire.com/articles/uwm-moves-to-dual-score-model/",
-      "cover_text": "Dual credit scores change everything.",
-      "caption": "The credit scoring landscape just shifted under our feet. When UWM announced they are pulling both FICO and VantageScore on every single credit report and auto-selecting the best result, the entire industry looked sideways. This isn't just a minor tech update. It is a massive operational pivot that changes how marginal files get approved. If you are an originator or a realtor trying to save a declining file, you need to understand how this dual-score strategy impacts underwriting approvals immediately. Let us break down what this means for your pipeline.\n\nSource : https://tinyurl.com/27tg7c3y\n#SafetrustMortgage #MortgageIntelligenceDaily #mortgagerates #loanofficer #realestateagent",
-      "hashtags": [
-        "#SafetrustMortgage",
-        "#MortgageIntelligenceDaily",
-        "#mortgagerates",
-        "#loanofficer",
-        "#realestateagent"
-      ],
-      "hook_tag": "Credit Scoring",
-      "hook": "Pulling two credit scores instead of one just rewrote the approval rulebook.",
-      "what_happened_heading": "Uwm updates credit pull process",
-      "what_happened": "United Wholesale Mortgage will now obtain both FICO and VantageScore on every credit pull. The system will automatically select the best scoring result for the borrower.",
-      "breakdown": [
-        {
-          "heading": "The multi-score reality",
-          "body": "For years, lenders relied exclusively on traditional FICO scores to determine borrower eligibility. Adding VantageScore into the standard pull creates an immediate alternative pathway for credit evaluation."
-        },
-        {
-          "heading": "Underwriting the variance",
-          "body": "Here is what this actually changes when a file hits underwriting: automated underwriting systems can now leverage whichever model yields a higher qualifying middle score."
-        },
-        {
-          "heading": "Rescuing borderline files",
-          "body": "Borrowers with thin credit files often score higher under alternative scoring models. This auto-selection feature can push a borderline DTI (how much of your income goes to debt) file across the finish line."
-        },
-        {
-          "heading": "Pipeline speed gains",
-          "body": "Lenders no longer have to manually request secondary credit reports if the first score comes in light. The automated workflow keeps loans moving forward without unnecessary delays."
-        }
-      ],
-      "my_take_heading": "The underwriting advantage",
-      "my_take": "Auto-selecting the best score isn't a shortcut. It's using all available data to get qualified buyers across the finish line.",
-      "action_lo": "Review your current pipeline for denied files that might pass using a secondary credit scoring model.",
-      "action_realtor": "Ask your preferred lending partners how dual-score models can help rescue your near-approval buyers.",
-      "cta_question": "Will your current LOS easily handle dual-score evaluation without manual workarounds?"
-    },
-    {
-      "slug": "hud-section-184-fee-increase",
-      "title": "HUD Raises Section 184 Loan Fee",
-      "source": "National Mortgage Professional",
-      "source_url": "https://www.nationalmortgageprofessional.com/news/hud-raises-section-184-loan-fee-50-native-american-borrowers/",
-      "cover_text": "Section 184 loan fees just jumped.",
-      "caption": "Borrowers using the Section 184 Indian Housing Loan Guarantee Program just took a hit to their upfront costs. HUD reversed a prior reduction by hiking the upfront loan guarantee fee from 1% to 1.5%. When financing costs increase overnight, it changes how borrowers structure their cash-to-close. Originators and realtors working in these markets need to adjust their pre-approvals immediately to account for the higher fee before closing documents go out.\n\nSource : https://tinyurl.com/2cym8k66\n#SafetrustMortgage #MortgageIntelligenceDaily #firsttimehomebuyer #mortgagerates #realestateinvesting",
-      "hashtags": [
-        "#SafetrustMortgage",
-        "#MortgageIntelligenceDaily",
-        "#firsttimehomebuyer",
-        "#mortgagerates",
-        "#realestateinvesting"
-      ],
-      "hook_tag": "Policy Update",
-      "hook": "A sudden 50% fee hike on a key federal loan program changes cash-to-close math.",
-      "what_happened_heading": "Hud raises loan guarantee fee",
-      "what_happened": "The Department of Housing and Urban Development increased the upfront loan guarantee fee for the Section 184 program from 1% to 1.5%. The change applies to all new firm commitments issued on or after October 1.",
-      "breakdown": [
-        {
-          "heading": "The fee reversal",
-          "body": "HUD decided to roll back a previous fee reduction made three years ago. This brings the guarantee fee right back up to 1.5% for all incoming Native American borrowers."
-        },
-        {
-          "heading": "Impact on cash to close",
-          "body": "On a 300,000 dollar loan amount, that extra half percent adds 1,500 dollars directly to the total upfront financing costs. Borrowers must bring more funds or finance the fee."
-        },
-        {
-          "heading": "Underwriting adjustments",
-          "body": "Here is what this actually changes when a file hits underwriting: maximum LTV (loan-to-value ratio) and cash-to-close calculations must be re-verified instantly to avoid closing day funding shortfalls."
-        },
-        {
-          "heading": "Protecting affordability",
-          "body": "Originators must proactively update their initial fee worksheets so buyers do not get blindsided by higher closing costs right before signing final loan documents."
-        }
-      ],
-      "my_take_heading": "The cost of policy shifts",
-      "my_take": "Policy reversals that hike upfront costs hurt affordability when buyers are already stretched thin by high rates.",
-      "action_lo": "Audit all active Section 184 pre-approvals to update cash-to-close figures for the new 1.5% fee.",
-      "action_realtor": "Check in with your tribal lending clients to ensure their financing buffers cover the increased fee.",
-      "cta_question": "How do you keep clients confident when government fees increase mid-transaction?"
-    },
-    {
-      "slug": "pennymac-vantagescore-rollout",
-      "title": "Pennymac Takes VantageScore Across All Channels",
-      "source": "National Mortgage Professional",
-      "source_url": "https://nationalmortgageprofessional.com/news/pennymac-takes-vantagescore-across-retail-broker-and-correspondent",
-      "cover_text": "VantageScore is officially mainstream.",
-      "caption": "Alternative credit scoring just crossed a major milestone. Pennymac has officially rolled out VantageScore 4.0 across its consumer-direct, broker, and correspondent production channels. This gives originators another massive institutional platform where alternative credit scores can be used on eligible loans. If you are still ignoring alternative scoring models, you are missing out on a massive pool of qualified borrowers.\n\nSource : https://tinyurl.com/2xznahkj\n#SafetrustMortgage #MortgageIntelligenceDaily #mortgagerates #loanofficer #firsttimehomebuyer",
-      "hashtags": [
-        "#SafetrustMortgage",
-        "#MortgageIntelligenceDaily",
-        "#mortgagerates",
-        "#loanofficer",
-        "#firsttimehomebuyer"
-      ],
-      "hook_tag": "Credit Access",
-      "hook": "Another major lending giant just fully integrated alternative credit scoring across all channels.",
-      "what_happened_heading": "Pennymac adopts vantagescore 4.0",
-      "what_happened": "Pennymac rolled out VantageScore 4.0 across its consumer-direct, broker, and correspondent businesses. The change gives originators another major platform to use alternative credit scores on eligible loans.",
-      "breakdown": [
-        {
-          "heading": "Multi-channel adoption",
-          "body": "By rolling this out across retail, wholesale, and correspondent channels, Pennymac ensures that originators nationwide can access alternative scoring on a massive scale."
-        },
-        {
-          "heading": "Expanding the credit box",
-          "body": "Alternative credit models evaluate rental history and utility payments that traditional scoring often misses. This helps score thin-file borrowers who otherwise get left out."
-        },
-        {
-          "heading": "Underwriting readiness",
-          "body": "Here is what this actually changes when a file hits underwriting: underwriters must be fully trained on evaluating VantageScore data alongside traditional credit histories seamlessly."
-        },
-        {
-          "heading": "Market momentum",
-          "body": "As more secondary market players accept alternative models, the industry inches closer to a multi-model future that reduces reliance on a single credit bureau monopoly."
-        }
-      ],
-      "my_take_heading": "The multi-model future",
-      "my_take": "Adopting alternative scoring isn't experimental anymore. It's mandatory for capturing the next generation of creditworthy buyers.",
-      "action_lo": "Learn the specific underwriting guidelines for VantageScore 4.0 to start packaging alternative credit files.",
-      "action_realtor": "Educate your self-employed and thin-file clients about how new credit models can help them qualify.",
-      "cta_question": "Are your lending partners fully equipped to process alternative credit scores today?"
-    },
-    {
-      "slug": "dark-matter-mezzanine-verification",
-      "title": "Dark Matter Gives Lenders More Leverage Over Verification",
-      "source": "National Mortgage Professional",
-      "source_url": "https://nationalmortgageprofessional.com/news/dark-matter-gives-lenders-more-leverage-over-verification-vendors/",
-      "cover_text": "Automated verification routing changes operations.",
-      "caption": "Verification vendor costs are eating into lender margins. Dark Matter Technologies just integrated Mezzo's verification orchestration technology into its Empower loan origination system. This lets lenders automatically route verification orders among multiple providers based on custom rules. If you run operations or manage pipeline costs, this is the kind of workflow automation that protects your bottom line.\n\nSource : https://tinyurl.com/232xht2m\n#SafetrustMortgage #MortgageIntelligenceDaily #housingmarket #mortgagebroker #loanofficer",
+      "source_url": "https://www.housingwire.com/articles/fico-layoffs-competition-mortgages/",
+      "cover_text": "Fico is cutting staff. The monopoly is cracking.",
+      "caption": "FICO is slashing 15 percent of its workforce and flattening management as competition heats up in the credit scoring space. For years, the scoring giant sat comfortably atop a cash cow with zero real threats. Now, regulators and large lenders are actively embracing competing credit score models. This shakeup signals the beginning of the end for a decades-long mortgage pricing monopoly. Here is why every mortgage executive should pay close attention.\n\nSource : https://tinyurl.com/27654tl3\n#SafetrustMortgage #MortgageIntelligenceDaily #housingmarket #mortgagebroker #loanofficer",
       "hashtags": [
         "#SafetrustMortgage",
         "#MortgageIntelligenceDaily",
@@ -140,203 +56,117 @@
         "#mortgagebroker",
         "#loanofficer"
       ],
-      "hook_tag": "Loan Technology",
-      "hook": "Lenders finally get automated leverage to control rising verification vendor costs.",
-      "what_happened_heading": "Dark matter integrates mezzo technology",
-      "what_happened": "Dark Matter Technologies is integrating Mezzo's verification orchestration technology into its Empower loan origination system. This gives lenders the ability to automatically route verification orders among multiple providers using custom rules.",
+      "hook_tag": "Market Disruption",
+      "hook": "FICO just cut 15 percent of its staff. The mortgage credit monopoly is breaking.",
+      "what_happened_heading": "Structural cuts at the scoring giant",
+      "what_happened": "Fair Isaac Corporation is eliminating roughly 15 percent of its positions and simplifying its operating structure. The company pointed to AI integration and organizational changes as key drivers.",
       "breakdown": [
         {
-          "heading": "The verification bottleneck",
-          "body": "Verifying income and assets has traditionally locked lenders into single-vendor pricing models. Costs keep climbing while operational flexibility remains completely stagnant."
+          "heading": "The monopoly cracks",
+          "body": "For decades, FICO faced zero meaningful competition in the mortgage origination space, allowing steady, unchallenged price hikes."
         },
         {
-          "heading": "Smart orchestration rules",
-          "body": "Instead of relying on a single provider, lenders can now set rules that automatically shop and route orders to the most cost-effective and efficient vendor."
+          "heading": "Enter the alternatives",
+          "body": "Regulators and major lenders are finally embracing competing credit score models like VantageScore for agency underwriting."
         },
         {
-          "heading": "Underwriting efficiency",
-          "body": "Here is what this actually changes when a file hits underwriting: faster automated document return times mean fewer stips (stipulations) holding up final loan approval."
+          "heading": "Underwriter impact",
+          "body": "Here is what this actually changes when a file hits underwriting: loan officers must learn how dual scoring models alter borrower pricing overnight."
         },
         {
-          "heading": "Protecting operational margins",
-          "body": "In a high-rate market where every basis point of margin matters, automating vendor selection helps lenders shave critical dollars off per-loan origination costs."
+          "heading": "Tech efficiency",
+          "body": "FICO is leaning into artificial intelligence to protect margins, acknowledging that its old administrative bloat cannot survive a competitive market."
         }
       ],
-      "my_take_heading": "Controlling operational drag",
-      "my_take": "Vendor orchestration is the key to lowering origination costs without sacrificing loan quality or speed.",
-      "action_lo": "Talk to your operations team about how automated vendor routing can speed up your initial processing times.",
-      "action_realtor": "Partner with lenders who use advanced tech stacks to eliminate conditional delays before closing.",
-      "cta_question": "How are you currently managing and reducing third-party verification costs in your pipeline?"
-    }
-  ],
-  "carousels_es": [
+      "my_take_heading": "Monopolies fall slowly, then all at once",
+      "my_take": "When a dominant player starts cutting fifteen percent of its workforce during a housing downturn, it is not just cost-cutting. It is panic over lost market share.",
+      "action_lo": "Master how competing credit models evaluate your marginal borrowers before your competitors do.",
+      "action_realtor": "Ask your lending partners how multi-model credit scoring could help your borderline buyers qualify for better rates.",
+      "cta_question": "Will alternative scoring models finally lower borrowing costs, or just create more confusion?"
+    },
     {
-      "slug": "uwm-dual-score-model",
-      "title": "UWM adopta un modelo de doble puntaje",
+      "slug": "property-tax-delinquency-rise",
+      "title": "Property tax delinquency reaches highest level since 2017",
       "source": "HousingWire",
-      "source_url": "https://www.housingwire.com/articles/uwm-moves-to-dual-score-model/",
-      "cover_text": "Los puntajes de crédito duales lo cambian todo.",
-      "caption": "El panorama de los puntajes de crédito acaba de cambiar. Cuando UWM anunció que usarán FICO y VantageScore en cada informe de crédito y elegirán automáticamente el mejor resultado, la industria volteó a ver. Esto no es solo una actualización tecnológica menor. Es un cambio operativo masivo que modifica cómo se aprueban los casos con historial limitado. Si eres un originador o un agente de bienes raíces intentando salvar un archivo que no avanza, necesitas entender cómo esta estrategia de doble puntaje impacta las aprobaciones del asesor. Analicemos lo que esto significa para tus casos.\n\nFuente : https://tinyurl.com/27tg7c3y\n#SafetrustMortgage #MortgageIntelligenceDaily #mortgagerates #loanofficer #realestateagent",
-      "hashtags": [
-        "#SafetrustMortgage",
-        "#MortgageIntelligenceDaily",
-        "#mortgagerates",
-        "#loanofficer",
-        "#realestateagent"
-      ],
-      "hook_tag": "Puntaje de Crédito",
-      "hook": "Usar dos puntajes de crédito en lugar de uno reescribe las reglas de aprobación.",
-      "what_happened_heading": "UWM actualiza proceso de historial de crédito",
-      "what_happened": "United Wholesale Mortgage ahora obtendrá FICO y VantageScore en cada revisión de crédito. El sistema seleccionará automáticamente el mejor resultado para el prestatario.",
-      "breakdown": [
-        {
-          "heading": "La realidad de múltiples puntajes",
-          "body": "Por años, los prestamistas dependieron solo de FICO para la elegibilidad. Añadir VantageScore crea una vía alternativa inmediata para evaluar el crédito."
-        },
-        {
-          "heading": "Analizando la variación",
-          "body": "Esto es lo que realmente cambia cuando un caso llega al asesor: los sistemas automatizados pueden usar el modelo con el puntaje medio más alto."
-        },
-        {
-          "heading": "Rescatando casos al límite",
-          "body": "Prestatarios con poco historial suelen tener mejor puntaje con modelos alternativos. Esta selección automática puede ayudar a aprobar un caso con DTI (deuda-ingreso) al límite."
-        },
-        {
-          "heading": "Acelera el proceso",
-          "body": "Los prestamistas ya no tienen que pedir manualmente informes secundarios si el primer puntaje es bajo. El proceso automatizado evita retrasos innecesarios."
-        }
-      ],
-      "my_take_heading": "La ventaja del asesor",
-      "my_take": "Elegir automáticamente el mejor puntaje no es un atajo. Es usar todos los datos disponibles para ayudar a los compradores calificados a obtener su aprobación.",
-      "action_lo": "Revisa tus casos actuales con aprobaciones negadas, que podrían calificar con un modelo de puntaje de crédito secundario.",
-      "action_realtor": "Pregunta a tus prestamistas de confianza cómo los modelos de doble puntaje pueden ayudar a tus compradores que están a punto de calificar.",
-      "cta_question": "¿Tu sistema LOS actual manejará fácilmente la evaluación de doble puntaje sin soluciones manuales?"
-    },
-    {
-      "slug": "hud-section-184-fee-increase",
-      "title": "HUD aumenta la tarifa del préstamo de la Sección 184",
-      "source": "National Mortgage Professional",
-      "source_url": "https://www.nationalmortgageprofessional.com/news/hud-raises-section-184-loan-fee-50-native-american-borrowers/",
-      "cover_text": "Las tarifas del préstamo Sección 184 subieron.",
-      "caption": "Los prestatarios que usan el Programa de Garantía de Préstamos para Vivienda Indígena de la Sección 184 acaban de sufrir un golpe en sus costos iniciales. HUD revirtió una reducción previa al aumentar la tarifa de garantía inicial del préstamo del 1% al 1.5%. Cuando los costos de financiamiento aumentan de la noche a la mañana, cambia la forma en que los prestatarios estructuran su efectivo para el cierre. Los originadores y agentes de bienes raíces que trabajan en estos mercados deben ajustar sus pre-aprobaciones de inmediato para la tarifa más alta antes de que se envíen los documentos de cierre.\n\nFuente : https://tinyurl.com/2cym8k66\n#SafetrustMortgage #MortgageIntelligenceDaily #firsttimehomebuyer #mortgagerates #realestateinvesting",
-      "hashtags": [
-        "#SafetrustMortgage",
-        "#MortgageIntelligenceDaily",
-        "#firsttimehomebuyer",
-        "#mortgagerates",
-        "#realestateinvesting"
-      ],
-      "hook_tag": "Actualización de Políticas",
-      "hook": "Un aumento repentino del 50% en un programa de préstamo federal clave cambia los cálculos de efectivo para el cierre.",
-      "what_happened_heading": "HUD aumenta la tarifa de garantía del préstamo",
-      "what_happened": "El Departamento de Vivienda y Desarrollo Urbano (HUD) aumentó la tarifa de garantía inicial del préstamo del programa Sección 184 del 1% al 1.5%. El cambio aplica a todos los nuevos compromisos firmes emitidos a partir del 1 de octubre.",
-      "breakdown": [
-        {
-          "heading": "La reversión de la tarifa",
-          "body": "HUD decidió revertir una reducción de tarifa hecha hace tres años. Esto sube la tarifa de garantía al 1.5% para todos los prestatarios indígenas americanos."
-        },
-        {
-          "heading": "Impacto en el efectivo para el cierre",
-          "body": "En un préstamo de 300,000 dólares, ese medio por ciento extra añade 1,500 dólares a los costos iniciales. Los prestatarios deben traer más fondos o financiar la tarifa."
-        },
-        {
-          "heading": "Ajustes del asesor",
-          "body": "Esto es lo que realmente cambia cuando un caso llega al asesor: el LTV máximo (relación préstamo-valor) y los cálculos de efectivo para el cierre deben verificarse de nuevo al instante para evitar faltantes de fondos al cierre."
-        },
-        {
-          "heading": "Protegiendo la asequibilidad",
-          "body": "Los originadores deben actualizar proactivamente sus hojas de trabajo de tarifas para que los compradores no se sorprendan con costos de cierre más altos justo antes de firmar los documentos finales del préstamo."
-        }
-      ],
-      "my_take_heading": "El costo de los cambios de políticas",
-      "my_take": "Las reversiones de políticas que aumentan los costos iniciales afectan la asequibilidad cuando los compradores ya tienen problemas con las altas tasas.",
-      "action_lo": "Audita todas las pre-aprobaciones activas de la Sección 184 para actualizar las cifras de efectivo para el cierre con la nueva tarifa del 1.5%.",
-      "action_realtor": "Comunícate con tus clientes prestamistas tribales para asegurarte de que sus fondos de financiamiento cubran la tarifa aumentada.",
-      "cta_question": "¿Cómo mantienes la confianza de los clientes cuando las tarifas del gobierno aumentan a mitad de la transacción?"
-    },
-    {
-      "slug": "pennymac-vantagescore-rollout",
-      "title": "Pennymac adopta VantageScore en todos los canales",
-      "source": "National Mortgage Professional",
-      "source_url": "https://nationalmortgageprofessional.com/news/pennymac-takes-vantagescore-across-retail-broker-and-correspondent",
-      "cover_text": "VantageScore ya es oficial.",
-      "caption": "La puntuación de crédito alternativa acaba de superar un hito importante. Pennymac ha lanzado oficialmente VantageScore 4.0 en sus canales de producción directa al consumidor, de brokers y de corresponsales. Esto brinda a los originadores otra plataforma institucional masiva donde se pueden usar puntajes de crédito alternativos en préstamos elegibles. Si aún ignoras los modelos de puntuación alternativos, te estás perdiendo una gran cantidad de prestatarios calificados.\n\nFuente : https://tinyurl.com/2xznahkj\n#SafetrustMortgage #MortgageIntelligenceDaily #mortgagerates #loanofficer #firsttimehomebuyer",
-      "hashtags": [
-        "#SafetrustMortgage",
-        "#MortgageIntelligenceDaily",
-        "#mortgagerates",
-        "#loanofficer",
-        "#firsttimehomebuyer"
-      ],
-      "hook_tag": "Acceso al Crédito",
-      "hook": "Otro gigante prestamista acaba de integrar completamente la puntuación de crédito alternativa en todos los canales.",
-      "what_happened_heading": "Pennymac adopta VantageScore 4.0",
-      "what_happened": "Pennymac lanzó VantageScore 4.0 en sus negocios directos al consumidor, de brokers y corresponsales. El cambio les da a los originadores otra plataforma importante para usar puntajes de crédito alternativos en préstamos elegibles.",
-      "breakdown": [
-        {
-          "heading": "Adopción multicanal",
-          "body": "Al implementarlo en canales minoristas, mayoristas y corresponsales, Pennymac asegura que los originadores de todo el país puedan acceder a puntuaciones alternativas a gran escala."
-        },
-        {
-          "heading": "Expandiendo el universo de crédito",
-          "body": "Los modelos de crédito alternativos evalúan el historial de alquiler y los pagos de servicios públicos que los puntajes tradicionales suelen omitir. Esto ayuda a calificar a prestatarios con historial limitado que de otro modo quedarían fuera."
-        },
-        {
-          "heading": "Preparación del asesor",
-          "body": "Esto es lo que realmente cambia cuando un caso llega al asesor: los asesores deben estar completamente capacitados para evaluar los datos de VantageScore junto con los historiales de crédito tradicionales sin problemas."
-        },
-        {
-          "heading": "Impulso del mercado",
-          "body": "A medida que más actores del mercado secundario aceptan modelos alternativos, la industria se acerca a un futuro multimodelos que reduce la dependencia de un solo monopolio de crédito."
-        }
-      ],
-      "my_take_heading": "El futuro multimodelos",
-      "my_take": "Adoptar una puntuación alternativa ya no es un experimento. Es obligatorio para captar a la próxima generación de compradores solventes.",
-      "action_lo": "Aprende las pautas de evaluación específicas para VantageScore 4.0 para empezar a armar casos de crédito alternativos.",
-      "action_realtor": "Educa a tus clientes autónomos y con historial limitado sobre cómo los nuevos modelos de crédito pueden ayudarles a calificar.",
-      "cta_question": "¿Tus socios prestamistas están totalmente equipados para procesar puntajes de crédito alternativos hoy?"
-    },
-    {
-      "slug": "dark-matter-mezzanine-verification",
-      "title": "Dark Matter les da a los prestamistas más control sobre la verificación",
-      "source": "National Mortgage Professional",
-      "source_url": "https://nationalmortgageprofessional.com/news/dark-matter-gives-lenders-more-leverage-over-verification-vendors/",
-      "cover_text": "La verificación automatizada cambia las operaciones.",
-      "caption": "Los costos de los proveedores de verificación están afectando los márgenes de los prestamistas. Dark Matter Technologies acaba de integrar la tecnología de orquestación de verificación de Mezzo en su sistema de originación de préstamos Empower. Esto permite a los prestamistas enviar órdenes de verificación automáticamente entre varios proveedores basándose en reglas personalizadas. Si gestionas operaciones o controlas los costos, este tipo de automatización de flujo de trabajo protege tus ganancias.\n\nFuente : https://tinyurl.com/232xht2m\n#SafetrustMortgage #MortgageIntelligenceDaily #housingmarket #mortgagebroker #loanofficer",
+      "source_url": "https://www.housingwire.com/articles/property-tax-delinquency-reaches-highest-level-since-2017/",
+      "cover_text": "Property tax defaults hit a seven-year high.",
+      "caption": "Property tax delinquencies have climbed to their highest level since 2017. While the media focuses on home price appreciation, homeowners are quietly drowning in rising local tax assessments and insurance premiums. When households stop paying the local government, mortgage defaults are usually not far behind. Here is what this macro warning sign means for your portfolio and pipeline.\n\nSource : https://tinyurl.com/2dx7xyca\n#SafetrustMortgage #MortgageIntelligenceDaily #housingmarket #realestateinvesting #mortgagerates",
       "hashtags": [
         "#SafetrustMortgage",
         "#MortgageIntelligenceDaily",
         "#housingmarket",
-        "#mortgagebroker",
-        "#loanofficer"
+        "#realestateinvesting",
+        "#mortgagerates"
       ],
-      "hook_tag": "Tecnología de Préstamos",
-      "hook": "Los prestamistas finalmente obtienen control automatizado para gestionar el aumento de costos de verificación.",
-      "what_happened_heading": "Dark Matter integra tecnología Mezzo",
-      "what_happened": "Dark Matter Technologies está integrando la tecnología de orquestación de verificación de Mezzo en su sistema de originación de préstamos Empower. Esto les da a los prestamistas la capacidad de enviar órdenes de verificación automáticamente entre varios proveedores usando reglas personalizadas.",
+      "hook_tag": "Risk Warning",
+      "hook": "Property tax delinquencies just hit a seven-year high. Your pipeline is exposed.",
+      "what_happened_heading": "The tax bill comes due",
+      "what_happened": "Property tax delinquency rates reached their highest level since 2017 across the country. North Dakota and Wisconsin recorded the lowest state rates at 1.4% and 1.5%, respectively.",
       "breakdown": [
         {
-          "heading": "El cuello de botella de la verificación",
-          "body": "Verificar ingresos y activos ha limitado a los prestamistas a modelos de precios de un solo proveedor. Los costos siguen subiendo mientras la flexibilidad operativa permanece estancada."
+          "heading": "The hidden squeeze",
+          "body": "Escrow shortages are exploding because soaring property assessments caught millions of homeowners completely off guard."
         },
         {
-          "heading": "Reglas de orquestación inteligentes",
-          "body": "En lugar de depender de un solo proveedor, los prestamistas ahora pueden establecer reglas para buscar y enviar pedidos automáticamente al proveedor más eficiente y rentable."
+          "heading": "Prioritized debt",
+          "body": "When household budgets break, property taxes are often defaulted on before the primary mortgage payment—but it is a flashing red warning light."
         },
         {
-          "heading": "Eficiencia del asesor",
-          "body": "Esto es lo que realmente cambia cuando un caso llega al asesor: tiempos de devolución de documentos automatizados más rápidos significan menos estipulaciones que retrasan la aprobación final del préstamo."
+          "heading": "Underwriter view",
+          "body": "Here is what this actually changes when a file hits underwriting: scrutinize historical tax payments and local assessment trends on every self-employed file."
         },
         {
-          "heading": "Protegiendo los márgenes operativos",
-          "body": "En un mercado de altas tasas donde cada punto de margen importa, la automatización de la selección de proveedores ayuda a los prestamistas a reducir costos críticos por préstamo."
+          "heading": "Servicing fallout",
+          "body": "Expect a wave of forced-place insurance and escrow shortage notices that will shock borrowers and clog up loan servicing departments."
         }
       ],
-      "my_take_heading": "Controlando la resistencia operativa",
-      "my_take": "La orquestación de proveedores es clave para reducir los costos de originación sin sacrificar la calidad o la velocidad del préstamo.",
-      "action_lo": "Habla con tu equipo de operaciones sobre cómo el enrutamiento automatizado de proveedores puede acelerar tus tiempos de procesamiento iniciales.",
-      "action_realtor": "Asóciate con prestamistas que usen tecnología avanzada para eliminar retrasos condicionales antes del cierre.",
-      "cta_question": "¿Cómo estás gestionando y reduciendo actualmente los costos de verificación de terceros en tu proceso?"
+      "my_take_heading": "Escrow shocks are the quiet killer",
+      "my_take": "Homeowners think their housing payment is fixed. When the annual escrow analysis hits with a massive tax spike, delinquency follows fast.",
+      "action_lo": "Proactively check your past clients' escrow accounts for potential shortages before their annual statements drop.",
+      "action_realtor": "Always factor local tax reassessment rules into your buyer's long-term affordability calculations.",
+      "cta_question": "Are your current borrowers prepared for the next round of property tax hikes?"
+    },
+    {
+      "slug": "bank-of-america-older-americans-wealth",
+      "title": "Bank of America: Older Americans have taken on a bigger economic role",
+      "source": "HousingWire",
+      "source_url": "https://www.housingwire.com/articles/bank-of-america-older-americans-have-taken-on-a-bigger-economic-role/",
+      "cover_text": "Boomers hold the keys to the housing market.",
+      "caption": "Households headed by someone 55 or older held nearly $140 trillion in net worth as of Q2 2026. According to Bank of America, older Americans are driving the entire economy while younger buyers fight for scraps. If you are building a marketing strategy around first-time homebuyers while ignoring the baby boomer wealth wave, you are fighting a losing battle. Here is where the real transaction volume is hiding.\n\nSource : https://tinyurl.com/2cjg9qvq\n#SafetrustMortgage #MortgageIntelligenceDaily #housingmarket #realestateagent #homebuying",
+      "hashtags": [
+        "#SafetrustMortgage",
+        "#MortgageIntelligenceDaily",
+        "#housingmarket",
+        "#realestateagent",
+        "#homebuying"
+      ],
+      "hook_tag": "Wealth Trend",
+      "hook": "Older Americans now sit on $140 trillion. Stop ignoring where the money is.",
+      "what_happened_heading": "Boomers control the balance sheet",
+      "what_happened": "Households headed by individuals aged 55 or older held close to $140 trillion in net worth as of the second quarter of 2026. This demographic continues to expand its dominant economic footprint.",
+      "breakdown": [
+        {
+          "heading": "The equity fortress",
+          "body": "Older homeowners are sitting on massive amounts of unencumbered home equity accumulated over decades of property appreciation."
+        },
+        {
+          "heading": "Cash is king",
+          "body": "Boomers are driving all-cash purchases, completely bypassing high mortgage rates while younger buyers get priced out."
+        },
+        {
+          "heading": "Underwriter reality",
+          "body": "Here is what this actually changes when a file hits underwriting: asset verification for older buyers often involves complex trust accounts and retirement portfolios."
+        },
+        {
+          "heading": "The domino effect",
+          "body": "Until older generations downsize or relocate, the inventory logjam for entry-level buyers will remain completely locked up."
+        }
+      ],
+      "my_take_heading": "Follow the actual wealth",
+      "my_take": "The industry spends ninety percent of its energy fighting over entry-level buyers. The real money is moving upstream with the generation holding the equity.",
+      "action_lo": "Build specialized loan products and marketing campaigns tailored to downsizing baby boomers and senior equity access.",
+      "action_realtor": "Focus your listing presentations on older homeowners who need a seamless transition to single-level living.",
+      "cta_question": "Is your business model built for the generation holding the wealth, or just the one wishing they had it?"
     }
   ]
 }
