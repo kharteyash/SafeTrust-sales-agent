@@ -1,342 +1,172 @@
 {
   "carousels": [
     {
-      "slug": "uwm-credit-score-removal",
-      "title": "UWM Removes Minimum Credit Scores on Most Mortgages",
-      "source": "The Truth About Mortgage",
-      "source_url": "https://www.thetruthaboutmortgage.com/uwm-removes-minimum-credit-scores-on-most-mortgages/",
-      "cover_text": "No minimum credit scores? Let's talk reality.",
-      "caption": "Dropping credit score minimums sounds like a massive win for accessibility, but what does it actually mean for your pipeline and risk profile? UWM's latest move shakes up how lenders approach underwriting guidelines, pushing the industry into uncharted territory. Before you celebrate looser guidelines, you need to look at how pricing and automated underwriting systems will handle the shift. Here is the operational truth behind the headlines.\n\nSource : https://tinyurl.com/2c4g5yar\n#SafetrustMortgage #MortgageIntelligenceDaily #mortgagerates #homebuying #loanofficer",
+      "slug": "chase-business-deposits-rate-discounts",
+      "title": "Chase Taps Business Deposits To Offer Mortgage Rate Discounts",
+      "source": "National Mortgage Professional",
+      "source_url": "https://nationalmortgageprofessional.com/news/chase-taps-business-deposits-offer-mortgage-rate-discounts",
+      "cover_text": "chase just opened jumbo rates to business cash",
+      "caption": "Banks are leveraging commercial deposits to dominate self-employed mortgage pricing. Chase is letting small-business owners combine commercial liquidity with personal accounts to secure lower interest rates. As a former underwriter, I know self-employed files are tough due to tax write-offs, but balance-sheet offsets change the game. Depositories are using deep liquidity to undercut nonbank pricing without sacrificing yield. Nonbanks must find creative asset-verification solutions or risk losing high-net-worth borrowers entirely.\n\nSource : https://tinyurl.com/2593tucj\n#SafetrustMortgage #MortgageIntelligenceDaily #loanofficer #mortgagerates #realestateinvesting",
       "hashtags": [
         "#SafetrustMortgage",
         "#MortgageIntelligenceDaily",
+        "#loanofficer",
         "#mortgagerates",
-        "#homebuying",
-        "#loanofficer"
+        "#realestateinvesting"
       ],
-      "hook_tag": "Underwriting Shift",
-      "hook": "UWM just dropped minimum credit score floors. Here is why underwriters are sweating.",
-      "what_happened_heading": "The credit score floor is gone",
-      "what_happened": "United Wholesale Mortgage has removed its minimum credit score requirement on conventional, FHA, VA, and USDA loans. The policy change is effective immediately for brokers nationwide.",
+      "hook_tag": "deposit relationship play",
+      "hook": "small business liquidity is now a mortgage rate lever.",
+      "what_happened_heading": "chase expands relationship pricing to business deposits",
+      "what_happened": "Chase is allowing over seven million small-business customers to count eligible commercial deposits toward mortgage interest rate discounts. Business owners can now aggregate balances across Chase and J.P. Morgan accounts to unlock lower pricing.",
       "breakdown": [
         {
-          "heading": "No hard stop",
-          "body": "Lenders previously enforced rigid credit floors that automatically denied files below a set number. That barrier is officially removed."
+          "heading": "moving beyond personal deposit limits",
+          "body": "Traditional relationship pricing required personal liquidity, excluding high-earning business owners who keep capital in corporate accounts. This change treats corporate liquidity as personal strength."
         },
         {
-          "heading": "AUS still rules",
-          "body": "Here is what this actually changes when a file hits underwriting: the Automated Underwriting System (AUS) still calls the shots on risk approval."
+          "heading": "what underwriters look for on deposit trails",
+          "body": "In underwriting, using business asset balances requires verifying operating liquidity so business stability is not compromised. You must prove funds are not earmarked for payroll or taxes."
         },
         {
-          "heading": "Pricing penalties",
-          "body": "A lower score will not get an automatic denial, but Loan-Level Price Adjustments (LLPAs) will make the financing significantly more expensive."
+          "heading": "nonbank lenders face liquidity pressure",
+          "body": "Nonbank originators cannot match bank balance-sheet plays that leverage deep commercial deposits. Depository banks are using balance sheet depth to capture prime self-employed borrowers."
         },
         {
-          "heading": "Manual review load",
-          "body": "Underwriters will spend more time evaluating compensating factors because low scores require bulletproof asset and income documentation."
+          "heading": "targeting high net worth self-employed files",
+          "body": "Self-employed borrowers often struggle with tax-return income qualification. Allowing corporate cash to buy down mortgage rates gives depositories a massive conversion advantage on complex files."
         }
       ],
-      "my_take_heading": "The underwriting reality check",
-      "my_take": "Removing the score floor does not mean lowering lending standards. It just shifts the burden from a hard stop to your pricing engine and your sanity.",
-      "action_lo": "Review past denied files to see which ones now pass automated underwriting under the new guidelines.",
-      "action_realtor": "Educate buyers that qualifying without a credit floor still requires managing their debt-to-income ratio carefully.",
-      "cta_question": "Are you ready to explain risk-based pricing to borrowers with marginal credit profiles?"
+      "my_take_heading": "depository banks are redefining borrower retention",
+      "my_take": "Banks are no longer competing on rate sheets; they are competing on balance sheet aggregation. If nonbanks do not partner with wealth managers, they will lose prime self-employed market share.",
+      "action_lo": "Audit your database for self-employed clients with business deposits to structure relationship pricing options before bank competitors do.",
+      "action_realtor": "Pitch business owner clients on depository rate discounts to help them preserve purchasing power without sacrificing operating capital.",
+      "cta_question": "Can nonbank lenders survive without asset-based rate offsets in a high-rate market?"
     },
     {
-      "slug": "fico-layoffs-scoring-competition",
-      "title": "FICO to cut 15% of staff, reduce management layers",
-      "source": "HousingWire",
-      "source_url": "https://www.housingwire.com/articles/fico-layoffs-competition-mortgages/",
-      "cover_text": "Fico is cutting staff. The monopoly is cracking.",
-      "caption": "FICO is slashing 15 percent of its workforce and flattening management as competition heats up in the credit scoring space. For years, the scoring giant sat comfortably atop a cash cow with zero real threats. Now, regulators and large lenders are actively embracing competing credit score models. This shakeup signals the beginning of the end for a decades-long mortgage pricing monopoly. Here is why every mortgage executive should pay close attention.\n\nSource : https://tinyurl.com/27654tl3\n#SafetrustMortgage #MortgageIntelligenceDaily #housingmarket #mortgagebroker #loanofficer",
+      "slug": "newrez-exp-realty-joint-venture",
+      "title": "Newrez, eXp Realty Form Joint Venture To Target Purchase Business",
+      "source": "National Mortgage Professional",
+      "source_url": "https://nationalmortgageprofessional.com/news/newrez-exp-realty-form-joint-venture-target-purchase-business",
+      "cover_text": "exp drops kind lending for newrez venture",
+      "caption": "The battle for purchase transaction capture just took a massive turn. eXp Realty replaced Kind Lending with Newrez to form Revenos Mortgage, aiming for nationwide scale by 2027. Joint ventures used to be about local marketing agreements, but today they are about servicing portfolios and lead recycling. Having spent decades in underwriting and originating, I can tell you that scale and file efficiency are the only ways to sustain low-margin purchase operations. Independent LOs must prove superior local execution to compete with corporate JV pipelines.\n\nSource : https://tinyurl.com/22zvavno\n#SafetrustMortgage #MortgageIntelligenceDaily #loanofficer #realestateagent #mortgagebroker",
       "hashtags": [
         "#SafetrustMortgage",
         "#MortgageIntelligenceDaily",
-        "#housingmarket",
-        "#mortgagebroker",
-        "#loanofficer"
+        "#loanofficer",
+        "#realestateagent",
+        "#mortgagebroker"
       ],
-      "hook_tag": "Market Disruption",
-      "hook": "FICO just cut 15 percent of its staff. The mortgage credit monopoly is breaking.",
-      "what_happened_heading": "Structural cuts at the scoring giant",
-      "what_happened": "Fair Isaac Corporation is eliminating roughly 15 percent of its positions and simplifying its operating structure. The company pointed to AI integration and organizational changes as key drivers.",
+      "hook_tag": "joint venture shift",
+      "hook": "real estate brokerages are rebuilding their mortgage capture pipelines.",
+      "what_happened_heading": "exp realty partners with newrez for joint venture",
+      "what_happened": "eXp Realty is replacing Kind Lending with Newrez as its joint venture partner to launch Revenos Mortgage in early 2027. The deal pairs one of the nation's largest real estate brokerages with a dominant nonbank lender.",
       "breakdown": [
         {
-          "heading": "The monopoly cracks",
-          "body": "For decades, FICO faced zero meaningful competition in the mortgage origination space, allowing steady, unchallenged price hikes."
+          "heading": "shifting away from boutique lenders",
+          "body": "eXp swapped a boutique lender for a massive nonbank servicer capable of scaling national purchase volume. Scale and servicing retention are paramount in low-volume markets."
         },
         {
-          "heading": "Enter the alternatives",
-          "body": "Regulators and major lenders are finally embracing competing credit score models like VantageScore for agency underwriting."
+          "heading": "what underwriters see in joint ventures",
+          "body": "From an underwriting standpoint, co-branded platforms must maintain strict separation between real estate commissions and loan manufacturing. File quality cannot be sacrificed for speed or capture rates."
         },
         {
-          "heading": "Underwriter impact",
-          "body": "Here is what this actually changes when a file hits underwriting: loan officers must learn how dual scoring models alter borrower pricing overnight."
+          "heading": "servicing portfolios fuel purchase capture",
+          "body": "Newrez brings a massive servicing portfolio that allows them to recycle leads back to eXp agents. It creates a closed-loop ecosystem from home search to loan servicing."
         },
         {
-          "heading": "Tech efficiency",
-          "body": "FICO is leaning into artificial intelligence to protect margins, acknowledging that its old administrative bloat cannot survive a competitive market."
+          "heading": "purchase share consolidation accelerates",
+          "body": "Independent mortgage brokers are losing preferred status as national brokerages build internalized, co-owned mortgage channels. Control over the point of sale is shifting rapidly."
         }
       ],
-      "my_take_heading": "Monopolies fall slowly, then all at once",
-      "my_take": "When a dominant player starts cutting fifteen percent of its workforce during a housing downturn, it is not just cost-cutting. It is panic over lost market share.",
-      "action_lo": "Master how competing credit models evaluate your marginal borrowers before your competitors do.",
-      "action_realtor": "Ask your lending partners how multi-model credit scoring could help your borderline buyers qualify for better rates.",
-      "cta_question": "Will alternative scoring models finally lower borrowing costs, or just create more confusion?"
+      "my_take_heading": "joint ventures are about lead recycling not referral fees",
+      "my_take": "Capturing a purchase loan at pre-approval is cheap, but keeping that borrower for life requires a massive servicing engine. Scale wins where boutique lenders fail.",
+      "action_lo": "Build deep relationships with local realtors before national JV agreements lock you out of their transaction ecosystem.",
+      "action_realtor": "Evaluate if your brokerage mortgage partner has the servicing scale to help you retain past clients through market cycles.",
+      "cta_question": "Will co-owned mortgage joint ventures eventually replace traditional loan officer real estate referrals?"
     },
     {
-      "slug": "property-tax-delinquency-rise",
-      "title": "Property tax delinquency reaches highest level since 2017",
+      "slug": "uad-36-appraisal-fees-production",
+      "title": "UAD 3.6 Appraisal Fees Climb $65, Early Data Shows Faster Production",
+      "source": "National Mortgage Professional",
+      "source_url": "https://nationalmortgageprofessional.com/news/uad-36-appraisal-fees-climb-65-early-data-shows-faster-production",
+      "cover_text": "uad 3.6 appraisals cost more but speed up",
+      "caption": "Appraisal fees are climbing under the new UAD 3.6 report format, but turnaround times are actually improving. Clear Capital data shows an average $65 cost increase during the transition, but appraisers gain efficiency once onboarded. As a former underwriter, I can confirm that structured appraisal data cuts review friction and eliminates unnecessary condition requests. While no buyer likes higher fees, reducing closing timelines saves money on rate lock extensions and removes stress from purchase contracts.\n\nSource : https://tinyurl.com/27w9ftye\n#SafetrustMortgage #MortgageIntelligenceDaily #homebuying #loanofficer #housingmarket",
+      "hashtags": [
+        "#SafetrustMortgage",
+        "#MortgageIntelligenceDaily",
+        "#homebuying",
+        "#loanofficer",
+        "#housingmarket"
+      ],
+      "hook_tag": "appraisal tech update",
+      "hook": "higher appraisal fees are buying faster loan underwriting turn times.",
+      "what_happened_heading": "appraisal fees rise under uad 3.6 standard",
+      "what_happened": "Clear Capital reports an average $65 fee increase as the industry transitions to the new UAD 3.6 appraisal format. Despite higher upfront costs, early production data shows appraisers are completing reports faster once trained.",
+      "breakdown": [
+        {
+          "heading": "restructuring the appraisal data structure",
+          "body": "The Uniform Appraisal Dataset (UAD) 3.6 redesigns report architecture, forcing appraisers to input more granular property data upfront. Initial learning curves drive short-term cost increases."
+        },
+        {
+          "heading": "underwriter efficiency on standardized reports",
+          "body": "For underwriters, standardized digital appraisal data cuts review times dramatically. Fewer ambiguous condition notes mean fewer appraisal conditions and faster clear-to-close decisions on files."
+        },
+        {
+          "heading": "upfront cost vs pipeline velocity",
+          "body": "A $65 fee increase hurts borrower closing costs, but gaining days in turnaround speed prevents rate lock extensions. Pipeline velocity saves lenders more money than the fee costs."
+        },
+        {
+          "heading": "preparing borrowers for higher fee sheets",
+          "body": "Loan officers must adjust Fee Worksheets and Loan Estimates early to reflect updated appraisal pricing. Discrepancies between estimates and actual appraisal invoices trigger tolerance cures."
+        }
+      ],
+      "my_take_heading": "data standardization eliminates underwriting friction",
+      "my_take": "Paying $65 more for an appraisal is a bargain if it removes three days of underwriter back-and-forth. Speed to close is worth more than minor fee savings.",
+      "action_lo": "Update your fee templates now to avoid LE fee tolerances while appraisers adjust to new UAD pricing.",
+      "action_realtor": "Set expectations with buyers that property appraisal fees are rising slightly, but faster turn times protect lock expiration dates.",
+      "cta_question": "Is a $65 increase in closing costs worth saving two days in appraisal turn time?"
+    },
+    {
+      "slug": "mortgage-credit-availability-declines-september",
+      "title": "Mortgage Credit Availability Declines Slightly in September",
       "source": "HousingWire",
-      "source_url": "https://www.housingwire.com/articles/property-tax-delinquency-reaches-highest-level-since-2017/",
-      "cover_text": "Property tax defaults hit a seven-year high.",
-      "caption": "Property tax delinquencies have climbed to their highest level since 2017. While the media focuses on home price appreciation, homeowners are quietly drowning in rising local tax assessments and insurance premiums. When households stop paying the local government, mortgage defaults are usually not far behind. Here is what this macro warning sign means for your portfolio and pipeline.\n\nSource : https://tinyurl.com/2dx7xyca\n#SafetrustMortgage #MortgageIntelligenceDaily #housingmarket #realestateinvesting #mortgagerates",
+      "source_url": "https://www.housingwire.com/articles/mortgage-credit-availability-declines-slightly-in-september/",
+      "cover_text": "lenders tighten credit on investors and cash outs",
+      "caption": "Mortgage credit availability dipped in September as lenders quietly trimmed risk in cash-out refinances and investor loans. Core primary purchase guidelines remain intact, but peripheral loan products are seeing stricter overlays. From my years in underwriting, when rate volatility stays high, secondary investors demand larger cushions on non-owner occupied debt. Loan officers must double-check borrower reserves and cash-flow ratios on investment deals now to prevent unexpected file rejections before closing.\n\nSource : https://tinyurl.com/274s2e7d\n#SafetrustMortgage #MortgageIntelligenceDaily #housingmarket #realestateinvesting #loanofficer",
       "hashtags": [
         "#SafetrustMortgage",
         "#MortgageIntelligenceDaily",
         "#housingmarket",
         "#realestateinvesting",
-        "#mortgagerates"
-      ],
-      "hook_tag": "Risk Warning",
-      "hook": "Property tax delinquencies just hit a seven-year high. Your pipeline is exposed.",
-      "what_happened_heading": "The tax bill comes due",
-      "what_happened": "Property tax delinquency rates reached their highest level since 2017 across the country. North Dakota and Wisconsin recorded the lowest state rates at 1.4% and 1.5%, respectively.",
-      "breakdown": [
-        {
-          "heading": "The hidden squeeze",
-          "body": "Escrow shortages are exploding because soaring property assessments caught millions of homeowners completely off guard."
-        },
-        {
-          "heading": "Prioritized debt",
-          "body": "When household budgets break, property taxes are often defaulted on before the primary mortgage payment—but it is a flashing red warning light."
-        },
-        {
-          "heading": "Underwriter view",
-          "body": "Here is what this actually changes when a file hits underwriting: scrutinize historical tax payments and local assessment trends on every self-employed file."
-        },
-        {
-          "heading": "Servicing fallout",
-          "body": "Expect a wave of forced-place insurance and escrow shortage notices that will shock borrowers and clog up loan servicing departments."
-        }
-      ],
-      "my_take_heading": "Escrow shocks are the quiet killer",
-      "my_take": "Homeowners think their housing payment is fixed. When the annual escrow analysis hits with a massive tax spike, delinquency follows fast.",
-      "action_lo": "Proactively check your past clients' escrow accounts for potential shortages before their annual statements drop.",
-      "action_realtor": "Always factor local tax reassessment rules into your buyer's long-term affordability calculations.",
-      "cta_question": "Are your current borrowers prepared for the next round of property tax hikes?"
-    },
-    {
-      "slug": "bank-of-america-older-americans-wealth",
-      "title": "Bank of America: Older Americans have taken on a bigger economic role",
-      "source": "HousingWire",
-      "source_url": "https://www.housingwire.com/articles/bank-of-america-older-americans-have-taken-on-a-bigger-economic-role/",
-      "cover_text": "Boomers hold the keys to the housing market.",
-      "caption": "Households headed by someone 55 or older held nearly $140 trillion in net worth as of Q2 2026. According to Bank of America, older Americans are driving the entire economy while younger buyers fight for scraps. If you are building a marketing strategy around first-time homebuyers while ignoring the baby boomer wealth wave, you are fighting a losing battle. Here is where the real transaction volume is hiding.\n\nSource : https://tinyurl.com/2cjg9qvq\n#SafetrustMortgage #MortgageIntelligenceDaily #housingmarket #realestateagent #homebuying",
-      "hashtags": [
-        "#SafetrustMortgage",
-        "#MortgageIntelligenceDaily",
-        "#housingmarket",
-        "#realestateagent",
-        "#homebuying"
-      ],
-      "hook_tag": "Wealth Trend",
-      "hook": "Older Americans now sit on $140 trillion. Stop ignoring where the money is.",
-      "what_happened_heading": "Boomers control the balance sheet",
-      "what_happened": "Households headed by individuals aged 55 or older held close to $140 trillion in net worth as of the second quarter of 2026. This demographic continues to expand its dominant economic footprint.",
-      "breakdown": [
-        {
-          "heading": "The equity fortress",
-          "body": "Older homeowners are sitting on massive amounts of unencumbered home equity accumulated over decades of property appreciation."
-        },
-        {
-          "heading": "Cash is king",
-          "body": "Boomers are driving all-cash purchases, completely bypassing high mortgage rates while younger buyers get priced out."
-        },
-        {
-          "heading": "Underwriter reality",
-          "body": "Here is what this actually changes when a file hits underwriting: asset verification for older buyers often involves complex trust accounts and retirement portfolios."
-        },
-        {
-          "heading": "The domino effect",
-          "body": "Until older generations downsize or relocate, the inventory logjam for entry-level buyers will remain completely locked up."
-        }
-      ],
-      "my_take_heading": "Follow the actual wealth",
-      "my_take": "The industry spends ninety percent of its energy fighting over entry-level buyers. The real money is moving upstream with the generation holding the equity.",
-      "action_lo": "Build specialized loan products and marketing campaigns tailored to downsizing baby boomers and senior equity access.",
-      "action_realtor": "Focus your listing presentations on older homeowners who need a seamless transition to single-level living.",
-      "cta_question": "Is your business model built for the generation holding the wealth, or just the one wishing they had it?"
-    }
-  ],
-  "carousels_es": [
-    {
-      "slug": "uwm-credit-score-removal",
-      "title": "UWM elimina puntajes de crédito mínimos en la mayoría de las hipotecas",
-      "source": "The Truth About Mortgage",
-      "source_url": "https://www.thetruthaboutmortgage.com/uwm-removes-minimum-credit-scores-on-most-mortgages/",
-      "cover_text": "¿Sin puntaje de crédito mínimo? Hablemos con la verdad.",
-      "caption": "Eliminar los puntajes de crédito mínimos suena a un gran avance para la accesibilidad, pero ¿qué significa realmente para tu cartera de clientes y tu perfil de riesgo? La última jugada de UWM cambia cómo los prestamistas evalúan las solicitudes, llevando a la industria a un territorio nuevo. Antes de celebrar reglas más flexibles, necesitas ver cómo los precios y los sistemas de evaluación automática manejarán este cambio. Aquí te explico la verdad operativa detrás de los titulares.\n\nFuente : https://tinyurl.com/2c4g5yar\n#SafetrustMortgage #MortgageIntelligenceDaily #mortgagerates #homebuying #loanofficer",
-      "hashtags": [
-        "#SafetrustMortgage",
-        "#MortgageIntelligenceDaily",
-        "#mortgagerates",
-        "#homebuying",
         "#loanofficer"
       ],
-      "hook_tag": "Cambio en la Evaluación",
-      "hook": "UWM eliminó los puntajes de crédito mínimos. Por esto, los asesores están nerviosos.",
-      "what_happened_heading": "Se elimina el piso del puntaje de crédito",
-      "what_happened": "United Wholesale Mortgage ha eliminado su requisito de puntaje de crédito mínimo en préstamos convencionales, FHA, VA y USDA. El cambio de política es efectivo de inmediato para los brókers en todo el país.",
+      "hook_tag": "credit tightening alert",
+      "hook": "mortgage credit availability pulled back again as lenders reduce exposure.",
+      "what_happened_heading": "mortgage credit index falls in september",
+      "what_happened": "Mortgage credit availability declined slightly in September according to industry metrics. Lenders specifically pulled back on product offerings for cash-out refinances and investor property purchases.",
       "breakdown": [
         {
-          "heading": "Sin un \"alto\" automático",
-          "body": "Los prestamistas antes tenían un puntaje de crédito mínimo rígido que rechazaba solicitudes automáticamente si no lo alcanzabas. Esa barrera oficial ya no existe."
+          "heading": "targeting high risk product categories",
+          "body": "Credit pullbacks were concentrated in investor loans and cash-out refinances rather than primary purchase programs. Lenders are trimming peripheral risk while defending core agency business."
         },
         {
-          "heading": "El sistema AUS sigue mandando",
-          "body": "Esto es lo que realmente cambia cuando una solicitud llega a evaluación: el Sistema de Evaluación Automática (AUS) sigue decidiendo si el riesgo es aceptable."
+          "heading": "what underwriters see on investor files",
+          "body": "In underwriting, cash-out and investor files face stricter reserve requirements and tighter debt-service coverage metrics. Higher interest rates make investor cash-flow calculations fail faster."
         },
         {
-          "heading": "Recargos en el precio",
-          "body": "Un puntaje más bajo no causará un rechazo automático, pero los ajustes de precio por nivel de préstamo (LLPAs) harán que tu financiamiento sea mucho más caro."
+          "heading": "liquidity restrictions impact non agency space",
+          "body": "Secondary market appetite for non-agency investor paper is shrinking as capital providers demand higher risk premiums. Nonbank lenders are forced to narrow their product menus."
         },
         {
-          "heading": "Más revisiones manuales",
-          "body": "Los asesores dedicarán más tiempo a evaluar otros factores, ya que los puntajes bajos exigen documentos de ingresos y bienes irrefutables."
+          "heading": "purchase money focus stays intact",
+          "body": "While cash-out and investor guidelines tighten, owner-occupied purchase programs remain fully accessible. Lenders are allocating balance sheet capacity strictly to primary home buyers."
         }
       ],
-      "my_take_heading": "La realidad de la evaluación de crédito",
-      "my_take": "Eliminar el puntaje mínimo no significa que bajen los estándares. Solo cambia la carga del puntaje de crédito al precio de tu préstamo y a tu tranquilidad.",
-      "action_lo": "Revisa las solicitudes antes rechazadas para ver cuáles ahora pasan la evaluación automática con las nuevas reglas.",
-      "action_realtor": "Explica a tus compradores que calificar sin puntaje mínimo exige manejar bien su proporción de deuda-ingresos.",
-      "cta_question": "¿Estás listo para explicar los precios basados en riesgo a prestatarios con perfiles de crédito ajustados?"
-    },
-    {
-      "slug": "fico-layoffs-scoring-competition",
-      "title": "FICO recortará 15% de su personal y reducirá capas gerenciales",
-      "source": "HousingWire",
-      "source_url": "https://www.housingwire.com/articles/fico-layoffs-competition-mortgages/",
-      "cover_text": "FICO reduce personal. Su monopolio se está desmoronando.",
-      "caption": "FICO está recortando el 15 por ciento de su personal y aplanando su estructura gerencial, ya que la competencia se intensifica en el ámbito de los puntajes de crédito. Durante años, el gigante de los puntajes estuvo cómodamente en la cima, sin amenazas reales. Ahora, los reguladores y grandes prestamistas están adoptando modelos de puntaje de crédito de la competencia. Este cambio señala el principio del fin de un monopolio de décadas en los precios de las hipotecas. Aquí te explico por qué cada ejecutivo hipotecario debe prestar mucha atención.\n\nFuente : https://tinyurl.com/27654tl3\n#SafetrustMortgage #MortgageIntelligenceDaily #housingmarket #mortgagebroker #loanofficer",
-      "hashtags": [
-        "#SafetrustMortgage",
-        "#MortgageIntelligenceDaily",
-        "#housingmarket",
-        "#mortgagebroker",
-        "#loanofficer"
-      ],
-      "hook_tag": "Disrupción del Mercado",
-      "hook": "FICO recortó el 15% de su personal. El monopolio de crédito hipotecario se quiebra.",
-      "what_happened_heading": "Recortes estructurales en el gigante de los puntajes",
-      "what_happened": "Fair Isaac Corporation está eliminando aproximadamente el 15 por ciento de sus puestos y simplificando su estructura operativa. La empresa citó la integración de la inteligencia artificial y los cambios organizacionales como motivos clave.",
-      "breakdown": [
-        {
-          "heading": "El monopolio se quiebra",
-          "body": "Durante décadas, FICO no tuvo competencia real en hipotecas, lo que le permitió subir precios sin problema."
-        },
-        {
-          "heading": "Llegan las alternativas",
-          "body": "Reguladores y grandes prestamistas finalmente usan modelos de puntaje como VantageScore para las evaluaciones de agencias."
-        },
-        {
-          "heading": "Impacto en el asesor",
-          "body": "Esto es lo que realmente cambia cuando una solicitud llega a evaluación: los oficiales de préstamo deben aprender cómo los dos modelos de puntaje afectan los precios del prestatario de inmediato."
-        },
-        {
-          "heading": "Eficiencia tecnológica",
-          "body": "FICO usa la inteligencia artificial para proteger sus márgenes, admitiendo que su antigua burocracia no puede sobrevivir a la competencia del mercado."
-        }
-      ],
-      "my_take_heading": "Los monopolios caen lento, y luego de golpe",
-      "my_take": "Cuando un jugador dominante recorta el quince por ciento de su personal en una baja del mercado inmobiliario, no es solo reducción de costos. Es pánico por perder cuota de mercado.",
-      "action_lo": "Domina cómo los modelos de crédito de la competencia evalúan a tus prestatarios con perfiles ajustados antes que tus competidores.",
-      "action_realtor": "Pregunta a tus colegas prestamistas cómo los diferentes modelos de puntaje de crédito pueden ayudar a tus compradores que están \"en el límite\" a calificar para mejores tasas.",
-      "cta_question": "¿Los modelos de puntaje alternativos bajarán los costos de los préstamos o solo crearán más confusión?"
-    },
-    {
-      "slug": "property-tax-delinquency-rise",
-      "title": "La mora en el impuesto a la propiedad alcanza su nivel más alto desde 2017",
-      "source": "HousingWire",
-      "source_url": "https://www.housingwire.com/articles/property-tax-delinquency-reaches-highest-level-since-2017/",
-      "cover_text": "La mora en impuestos a la propiedad sube a un máximo de 7 años.",
-      "caption": "Las deudas por impuestos a la propiedad han subido a su nivel más alto desde 2017. Mientras los medios se enfocan en el aumento del precio de las casas, los propietarios están ahogándose silenciosamente en el incremento de las evaluaciones fiscales locales y las primas de seguros. Cuando las familias dejan de pagar al gobierno local, las hipotecas impagas no tardan en aparecer. Aquí te explico qué significa esta señal de alerta macro para tu cartera de clientes y tu futuro negocio.\n\nFuente : https://tinyurl.com/2dx7xyca\n#SafetrustMortgage #MortgageIntelligenceDaily #housingmarket #realestateinvesting #mortgagerates",
-      "hashtags": [
-        "#SafetrustMortgage",
-        "#MortgageIntelligenceDaily",
-        "#housingmarket",
-        "#realestateinvesting",
-        "#mortgagerates"
-      ],
-      "hook_tag": "Alerta de Riesgo",
-      "hook": "Las deudas de impuestos a la propiedad en un máximo de siete años. Tu cartera está expuesta.",
-      "what_happened_heading": "La factura de impuestos se paga",
-      "what_happened": "Las tasas de mora en el impuesto a la propiedad alcanzaron su nivel más alto desde 2017 en todo el país. Dakota del Norte y Wisconsin registraron las tasas estatales más bajas, con 1.4% y 1.5% respectivamente.",
-      "breakdown": [
-        {
-          "heading": "La presión oculta",
-          "body": "La falta de dinero en las cuentas de depósito en garantía se dispara porque los altos impuestos sorprendieron a millones de propietarios."
-        },
-        {
-          "heading": "Deuda prioritaria",
-          "body": "Cuando los presupuestos familiares se rompen, los impuestos a la propiedad suelen ser impagos antes que la hipoteca, pero es una gran señal de alerta."
-        },
-        {
-          "heading": "Visión del asesor",
-          "body": "Esto es lo que realmente cambia cuando una solicitud llega a evaluación: analiza los pagos de impuestos anteriores y las tendencias de evaluación locales en cada expediente de trabajadores independientes."
-        },
-        {
-          "heading": "Consecuencias en el servicio",
-          "body": "Espera una ola de seguros forzados y avisos de falta de dinero que sorprenderán a los prestatarios y saturarán los departamentos de servicio de préstamos."
-        }
-      ],
-      "my_take_heading": "Los sustos en la cuenta de depósito son el enemigo silencioso",
-      "my_take": "Los propietarios creen que el pago de su casa es fijo. Cuando el análisis anual de la cuenta de depósito llega con un aumento enorme de impuestos, la mora se dispara rápidamente.",
-      "action_lo": "Revisa de forma proactiva las cuentas de depósito en garantía de tus clientes pasados por posibles faltantes antes de que lleguen sus estados de cuenta anuales.",
-      "action_realtor": "Siempre considera las reglas de reevaluación de impuestos locales en los cálculos de asequibilidad a largo plazo de tus compradores.",
-      "cta_question": "¿Están tus prestatarios actuales preparados para la próxima ronda de aumentos de impuestos a la propiedad?"
-    },
-    {
-      "slug": "bank-of-america-older-americans-wealth",
-      "title": "Bank of America: Los estadounidenses mayores asumen un mayor rol económico",
-      "source": "HousingWire",
-      "source_url": "https://www.housingwire.com/articles/bank-of-america-older-americans-have-taken-on-a-bigger-economic-role/",
-      "cover_text": "Los boomers tienen la llave del mercado inmobiliario.",
-      "caption": "Los hogares liderados por personas de 55 años o más tenían casi $140 billones en patrimonio neto en el segundo trimestre de 2026. Según Bank of America, los estadounidenses mayores están impulsando toda la economía, mientras los compradores más jóvenes luchan por las sobras. Si estás creando una estrategia de marketing enfocada en los compradores de primera vivienda e ignorando la riqueza de los baby boomers, estás luchando una batalla perdida. Aquí es donde se esconde el verdadero volumen de transacciones.\n\nFuente : https://tinyurl.com/2cjg9qvq\n#SafetrustMortgage #MortgageIntelligenceDaily #housingmarket #realestateagent #homebuying",
-      "hashtags": [
-        "#SafetrustMortgage",
-        "#MortgageIntelligenceDaily",
-        "#housingmarket",
-        "#realestateagent",
-        "#homebuying"
-      ],
-      "hook_tag": "Tendencia de Riqueza",
-      "hook": "Los estadounidenses mayores poseen $140 billones. No ignores dónde está el dinero.",
-      "what_happened_heading": "Los boomers controlan el balance general",
-      "what_happened": "Los hogares encabezados por personas de 55 años o más tenían cerca de $140 billones en patrimonio neto al segundo trimestre de 2026. Esta demografía sigue ampliando su huella económica dominante.",
-      "breakdown": [
-        {
-          "heading": "La fortaleza del capital",
-          "body": "Los propietarios mayores tienen una gran cantidad de capital hipotecario sin deudas, acumulado durante décadas de aumento en el valor de las propiedades."
-        },
-        {
-          "heading": "El efectivo es rey",
-          "body": "Los boomers impulsan las compras en efectivo, evitando las altas tasas de interés, mientras los compradores más jóvenes no pueden pagar."
-        },
-        {
-          "heading": "Realidad del asesor",
-          "body": "Esto es lo que realmente cambia cuando una solicitud llega a evaluación: la verificación de bienes para compradores mayores a menudo incluye cuentas fiduciarias complejas y carteras de jubilación."
-        },
-        {
-          "heading": "El efecto dominó",
-          "body": "Hasta que las generaciones mayores reduzcan sus propiedades o se muden, el bloqueo de inventario para compradores primerizos seguirá sin solución."
-        }
-      ],
-      "my_take_heading": "Sigue la riqueza real",
-      "my_take": "La industria gasta el noventa por ciento de su energía en competir por compradores primerizos. El dinero real se mueve hacia la generación que tiene el capital.",
-      "action_lo": "Crea productos de préstamo y campañas de marketing especializados para boomers que quieren reducir el tamaño de sus propiedades y para el acceso a capital para personas mayores.",
-      "action_realtor": "Enfoca tus presentaciones de venta en propietarios mayores que necesitan una transición sencilla a una vivienda de un solo nivel.",
-      "cta_question": "¿Tu modelo de negocio está diseñado para la generación que tiene la riqueza, o solo para la que desea tenerla?"
+      "my_take_heading": "lenders are quietly de-risking before year end",
+      "my_take": "This is not a housing crash; it is secondary market risk discipline. Investors without strong cash reserves will find fewer debt options as lenders protect balance sheets.",
+      "action_lo": "Re-underwrite investor pre-approvals today to ensure their cash flow and reserve requirements still meet updated guidelines.",
+      "action_realtor": "Advise investor clients to secure financing pre-approvals with non-QM or portfolio lenders before making cash-out purchase offers.",
+      "cta_question": "Are tighter investor lending guidelines a healthy market reset or a drag on housing liquidity?"
     }
   ]
 }
