@@ -13,6 +13,8 @@ import sys
 from datetime import datetime
 from pathlib import Path
 
+from textcase import fix_case
+
 # Run date, e.g. "13th July 2024" (Eastern — matches the daily 6am ET run).
 try:
     from zoneinfo import ZoneInfo
@@ -476,30 +478,6 @@ go(0);
 </script></body></html>"""
     return head + frame + script
 
-# Acronyms kept uppercase when a shouted heading is normalized to sentence case.
-_ACRONYMS = {"AI", "IA", "GSE", "GSES", "FHA", "VA", "USDA", "MLS", "DSCR", "HELOC",
-             "ARM", "MBS", "LO", "LOS", "UWM", "CFPB", "HUD", "FED", "QM", "NON-QM",
-             "DTI", "IRS", "US", "U.S.", "TNX", "US10Y", "APR", "PMI", "REIT", "ETF"}
-
-
-def _unshout(text):
-    """Models occasionally return headings in ALL CAPS. If the whole heading is
-    shouted, normalize to sentence case, keeping known industry acronyms.
-    Mixed-case headings pass through untouched."""
-    text = (text or "").strip()
-    if not text or not text.isupper():
-        return text
-    words = []
-    for i, w in enumerate(text.split()):
-        if w.strip(".,!?:;¿¡") in _ACRONYMS:
-            words.append(w)
-        elif i == 0:
-            words.append(w.capitalize())
-        else:
-            words.append(w.lower())
-    return " ".join(words)
-
-
 # ---------------------------------------------------------------- data -> slides
 def render_carousel_slides(c, cover_blue=False, lang="en"):
     """Build the ~9-slide industry-analysis script from a structured carousel dict
@@ -513,16 +491,16 @@ def render_carousel_slides(c, cover_blue=False, lang="en"):
     # 1 — Hook / cover (centered) — brand + MID paired masthead.
     if cover_blue:
         hook = (logo_lockup(False, es=es) + tag(e(c["hook_tag"]), "gradient")
-                + h_dark(e(_unshout(c["cover_text"])), 33) + p_dark(e(c["hook"])))
+                + h_dark(e(fix_case(c["cover_text"])), 33) + p_dark(e(fix_case(c["hook"]))))
         slides = [{"bg": "gradient", "justify": "center", "content": hook}]
     else:
         hook = (logo_lockup(True, es=es) + tag(e(c["hook_tag"]), "light")
-                + h_light(e(_unshout(c["cover_text"])), 33) + p_light(e(c["hook"])))
+                + h_light(e(fix_case(c["cover_text"])), 33) + p_light(e(fix_case(c["hook"]))))
         slides = [{"bg": "light", "justify": "center", "content": hook}]
 
     # 2 — What happened (dark)
-    wh = (tag(L["what_happened"], "dark") + h_dark(e(_unshout(c["what_happened_heading"])))
-          + p_dark(e(c["what_happened"])))
+    wh = (tag(L["what_happened"], "dark") + h_dark(e(fix_case(c["what_happened_heading"])))
+          + p_dark(e(fix_case(c["what_happened"]))))
     slides.append({"bg": "dark", "content": wh, "ghost": True})
 
     # 3-6 — The breakdown (one idea per slide, alternating backgrounds)
@@ -532,15 +510,15 @@ def render_carousel_slides(c, cover_blue=False, lang="en"):
         head = h_light if bg == "light" else h_dark
         body = p_light if bg == "light" else p_dark
         content = (tag(L["breakdown"], bg)
-                   + head(e(_unshout(b["heading"]))) + body(e(b["body"])))
+                   + head(e(fix_case(b["heading"]))) + body(e(fix_case(b["body"]))))
         slides.append({"bg": bg, "content": content, "ghost": True})
 
     # 7 — My take (gradient, centered) — the contrarian, screenshot slide.
     # The background-removed cutout stands along the right edge; the copy keeps
     # to a narrower left column so the figure stays clear of the text.
     mt = (tag(L["my_take"], "gradient")
-          + h_dark(e(_unshout(c["my_take_heading"])), 21 if es else 25)
-          + quote_box(L["angle"], e(c["my_take"]), qsize=_fit_quote_size(c["my_take"])))
+          + h_dark(e(fix_case(c["my_take_heading"])), 21 if es else 25)
+          + quote_box(L["angle"], e(fix_case(c["my_take"])), qsize=_fit_quote_size(c["my_take"])))
     slide7 = {"bg": "gradient", "justify": "center", "content": mt}
     if CUTOUT_URI:
         slide7["underlay"] = (
@@ -553,8 +531,8 @@ def render_carousel_slides(c, cover_blue=False, lang="en"):
     # 8 — What to do (light) — one move for LOs, one for realtors
     wtd = tag(L["what_to_do"], "light") + h_light(L["next_move"])
     wtd += stack([
-        feature_row(L["for_lo"], e(c["action_lo"]), last=False),
-        feature_row(L["for_realtor"], e(c["action_realtor"]), last=True),
+        feature_row(L["for_lo"], e(fix_case(c["action_lo"])), last=False),
+        feature_row(L["for_realtor"], e(fix_case(c["action_realtor"])), last=True),
     ])
     slides.append({"bg": "light", "content": wtd, "ghost": True})
 
@@ -563,7 +541,7 @@ def render_carousel_slides(c, cover_blue=False, lang="en"):
     handle = (f'<p class="sans" style="font-size:12px;color:rgba(255,255,255,0.6);'
               f'margin-top:16px;letter-spacing:0.5px;">@{HANDLE_ES}</p>') if es else ""
     cta = (logo_lockup(False, show_mid=False, es=es) + tag(L["join"], "gradient")
-           + h_dark(e(_unshout(c["cta_question"])), 27) + handle
+           + h_dark(e(fix_case(c["cta_question"])), 27) + handle
            + source_line(c.get("source", ""), label=L["source"]))
     slides.append({"bg": "gradient", "justify": "center", "content": cta,
                    "source": c.get("source", "")})

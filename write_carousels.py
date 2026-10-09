@@ -23,6 +23,8 @@ from google import genai
 from google.genai import types
 from pydantic import BaseModel
 
+from textcase import fix_carousel
+
 BASE = Path(__file__).parent
 NEWS = BASE / "daily_news.json"
 OUT = BASE / "carousel_content.json"
@@ -334,6 +336,7 @@ fit on one slide.
 that label.
 - Headings stay in sentence case — NEVER ALL CAPS, and never a generic label like \
 "Lo que sucedio" as a heading.
+- Normal capitalization everywhere: every sentence starts with a capital letter. Never all-lowercase output.
 - The result must read like it was WRITTEN in Spanish by a mortgage pro who posts on \
 Instagram every day — punchy, human, quotable.
 - Return the same JSON structure with exactly 4 carousels in the same order.
@@ -437,6 +440,7 @@ FILL THESE FIELDS FOR EACH CAROUSEL (they map to a 9-slide carousel):
 cover_text) is written in sentence case — NEVER ALL CAPS. Headings must be specific to the \
 story; never reuse the slide's own label ("What Happened", "My Take", "The Breakdown") as \
 the heading text.
+- CAPITALIZATION: normal sentence capitalization everywhere — every sentence, heading and caption line starts with a capital letter. NEVER write in all lowercase, never in ALL CAPS.
 - breakdown: slides 3-6 — EXACTLY 4 items, each {heading, body}. One idea per slide, body MAX 30 \
 words. Build the argument step by step, using the underwriter lens at least once.
 - my_take_heading + my_take: slide 7 — the contrarian or non-obvious angle. This is the screenshot \
@@ -586,6 +590,8 @@ def generate_english():
     if result is None:
         result = Output.model_validate_json(response.text)
 
+    for c in result.carousels:
+        fix_carousel(c)  # never ship ALL CAPS or all-lowercase copy
     _finalize_captions(result.carousels, {}, source_label="Source")
     # A fresh English set invalidates any previous day's translation.
     OUT.write_text(json.dumps(result.model_dump(), indent=2, ensure_ascii=False),
@@ -613,6 +619,8 @@ def generate_spanish():
     es_carousels = translate_carousels(_client(), en)
     if not es_carousels:
         sys.exit("Spanish translation failed on every provider — try again later.")
+    for c in es_carousels:
+        fix_carousel(c)  # never ship ALL CAPS or all-lowercase copy
     _finalize_captions(es_carousels, {}, source_label="Fuente")
 
     data["carousels_es"] = [c.model_dump() for c in es_carousels]
