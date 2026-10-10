@@ -168,5 +168,175 @@
       "action_realtor": "Target real estate investors who need alternative income qualification for rental purchases.",
       "cta_question": "Is your pipeline shifting toward non-agency products as conventional credit guidelines tighten?"
     }
+  ],
+  "carousels_es": [
+    {
+      "slug": "unscored-credit-pulls-and-margin-traps",
+      "title": "Las consultas de crédito sin puntaje crean trampas para los originadores",
+      "source": "HousingWire",
+      "source_url": "https://www.housingwire.com/articles/mortgage-score-costs/",
+      "cover_text": "Las consultas de crédito sin puntaje no arreglarán tus márgenes",
+      "caption": "Las agencias de crédito ofrecen herramientas para calificar más tarde como la cura para el aumento de las tarifas de los proveedores. Obtener un historial crediticio sin un puntaje permite a los prestamistas aplazar los costos de calificación hasta que un préstamo avance. Pero postergar la visibilidad del crédito crea un gran punto ciego estructural en tu proceso. Cuando los expedientes llegan a procesamiento sin puntajes de crédito verificados, los asesores de préstamos corren el riesgo de pasar horas estructurando solicitudes no calificables. La verdadera reducción de costos proviene de tomar decisiones tempranas, no de retrasar datos crediticios esenciales. Si tu sucursal ahorra treinta dólares en una consulta de crédito solo para gastar cientos en expedientes no aprobables, tu ganancia neta es cero. Los prestamistas deben equilibrar los ahorros de los proveedores con la capacidad operativa.\n\nFuente : https://tinyurl.com/2am2pvqn\n#SafetrustMortgage #MortgageIntelligenceDaily #mortgagebroker #loanofficer #housingmarket",
+      "hashtags": [
+        "#SafetrustMortgage",
+        "#MortgageIntelligenceDaily",
+        "#mortgagebroker",
+        "#loanofficer",
+        "#housingmarket"
+      ],
+      "hook_tag": "Estrategia de crédito",
+      "hook": "Las consultas de crédito sin puntaje ocultan el problema real en la originación de hipotecas.",
+      "what_happened_heading": "Las agencias ofrecen opciones para calificar más tarde",
+      "what_happened": "TransUnion y Equifax introdujeron nuevas herramientas que permiten a los prestamistas obtener historiales crediticios sin puntajes al principio. Los prestamistas pueden agregar los puntajes más tarde en el proceso de originación para reducir los costos iniciales del informe de crédito.",
+      "breakdown": [
+        {
+          "heading": "Menores costos iniciales de consulta",
+          "body": "Los prestamistas ahorran dinero en preaprobaciones tempranas al retener los puntajes hasta que los prestatarios se comprometen. Esto reduce el gasto inicial de crédito en expedientes no cerrados."
+        },
+        {
+          "heading": "El riesgo oculto en el proceso",
+          "body": "Retrasar la generación de puntajes lleva la evaluación de riesgos más profundo en el procesamiento. Ahorras treinta dólares al principio solo para gastar cientos procesando solicitantes no calificables."
+        },
+        {
+          "heading": "Impacto en la evaluación del expediente",
+          "body": "Esto es lo que realmente cambia cuando un expediente llega a evaluación: los sistemas de evaluación automatizados (algoritmos informáticos que emiten aprobaciones de préstamos) no pueden tomar una decisión sin puntajes de crédito."
+        },
+        {
+          "heading": "Realidad operativa",
+          "body": "Sin puntajes de crédito iniciales, los asesores de préstamos no pueden calcular con precisión la DTI (cuánto de tus ingresos se destina a deudas) o los ajustes de precios hasta tarde en el flujo de trabajo."
+        }
+      ],
+      "my_take_heading": "Recortar costos en la etapa equivocada",
+      "my_take": "Ahorrar en consultas de crédito mientras se inflan los gastos de procesamiento es una trampa hipotecaria clásica. Una negación rápida ahorra mucho más capital que retrasar la calificación.",
+      "action_lo": "Revisa a fondo los ingresos y el perfil de deuda del solicitante antes de solicitar informes sin puntaje.",
+      "action_realtor": "Verifica que tu prestamista esté preaprobando el crédito y no solo solicitando expedientes sin puntaje.",
+      "cta_question": "¿Son las herramientas de calificación posterior un control de costos inteligente o un cuello de botella operativo?"
+    },
+    {
+      "slug": "prospective-conforming-loan-limit-risks",
+      "title": "Los prestamistas se arriesgan con límites de préstamos conformes no oficiales",
+      "source": "National Mortgage Professional",
+      "source_url": "https://nationalmortgageprofessional.com/news/three-competing-2027-conforming-loan-limits-and-none-official",
+      "cover_text": "Saltarse el límite conforme expone un riesgo importante",
+      "caption": "Más de cincuenta prestamistas ya están financiando préstamos convencionales de hasta $850,000 antes de que la Agencia Federal de Financiamiento de la Vivienda (FHFA) publique las cifras oficiales. Los prestamistas están ansiosos por capturar participación de mercado de alto valor ofreciendo precios convencionales en préstamos tipo jumbo. Pero adelantarse a los reguladores gubernamentales introduce una seria exposición al mercado secundario. Si el límite conforme final es más bajo de lo proyectado, esos expedientes financiados no se pueden vender a Fannie Mae o Freddie Mac. Eso deja a los originadores con documentos ilíquidos en costosas líneas de crédito de almacén. Las estrategias de alto volumen solo funcionan cuando la ejecución secundaria está garantizada.\n\nFuente : https://tinyurl.com/2a5qzcbp\n#SafetrustMortgage #MortgageIntelligenceDaily #mortgagerates #mortgagebroker #homebuying",
+      "hashtags": [
+        "#SafetrustMortgage",
+        "#MortgageIntelligenceDaily",
+        "#mortgagerates",
+        "#mortgagebroker",
+        "#homebuying"
+      ],
+      "hook_tag": "Límites de préstamos",
+      "hook": "Los prestamistas están apostando por límites conformes no oficiales para ganar mercado.",
+      "what_happened_heading": "Lanzan límites de préstamos especulativos",
+      "what_happened": "Más de 50 prestamistas principales han comenzado a financiar préstamos bajo límites anticipados de hasta $850,000. La Agencia Federal de Financiamiento de la Vivienda aún no ha establecido oficialmente los límites de préstamos conformes.",
+      "breakdown": [
+        {
+          "heading": "Estimaciones de límites en competencia",
+          "body": "Los prestamistas usan tres límites previstos distintos para fijar el precio de los préstamos convencionales. Apuestan por proyecciones de fórmulas gubernamentales antes de la confirmación oficial."
+        },
+        {
+          "heading": "Capturando volumen temprano",
+          "body": "Los originadores usan límites más altos ahora para ponerle precio a los préstamos de alto valor como convencionales. Esto ofrece tasas de interés más bajas en comparación con los productos jumbo (préstamos que superan los límites de la agencia)."
+        },
+        {
+          "heading": "Impacto en la evaluación del expediente",
+          "body": "Esto es lo que realmente cambia cuando un expediente llega a evaluación: si la FHFA establece el límite final más bajo de lo esperado, estos préstamos financiados no pueden entregarse a Fannie o Freddie."
+        },
+        {
+          "heading": "Riesgo de balance de cartera",
+          "body": "Los préstamos en el limbo deben permanecer en las líneas de crédito de almacén (líneas de crédito bancarias a corto plazo para prestamistas) o venderse con descuento en el mercado secundario."
+        }
+      ],
+      "my_take_heading": "Cuota de mercado sobre disciplina de balance",
+      "my_take": "Redactar préstamos con límites conformes no oficiales es marketing agresivo disfrazado de innovación. Un cálculo erróneo convierte tu ejecución secundaria en una pérdida de cartera.",
+      "action_lo": "Identifica prestatarios jumbo cerca de los ochocientos mil dólares que califican bajo los límites prospectivos.",
+      "action_realtor": "Asóciate con prestamistas que ofrecen una expansión temprana de límites para aumentar el poder adquisitivo de los compradores de lujo.",
+      "cta_question": "¿Tu institución está originando bajo límites prospectivos o esperando el lanzamiento oficial de la FHFA?"
+    },
+    {
+      "slug": "non-delegated-correspondent-operational-control",
+      "title": "Los préstamos corresponsales no delegados se tratan de procesos, no de precios",
+      "source": "National Mortgage Professional",
+      "source_url": "https://nationalmortgageprofessional.com/news/going-non-del-mortgage-brokers-say-biggest-payoff-isnt-pricing",
+      "cover_text": "Ser no delegado es control operativo, no márgenes",
+      "caption": "Los corredores de hipotecas que dan el salto a los préstamos corresponsales no delegados están descubriendo que la verdadera recompensa no es el precio. Aunque muchos corredores esperan márgenes de ganancia más amplios, las tarifas de almacén y los gastos administrativos rápidamente consumen las ganancias de los puntos base. El verdadero valor radica en el control operativo. Los prestamistas no delegados controlan sus programas de cierre, la experiencia del prestatario y los flujos de trabajo de cumplimiento. En mercados con muchas compras, la velocidad y la previsibilidad generan referidos de agentes repetidos mucho mejor que los descuentos fraccionados en los precios. Si haces la transición solo para aumentar los márgenes sin arreglar las operaciones de back-office, tu balance se verá afectado.\n\nFuente : https://tinyurl.com/2dp4464j\n#SafetrustMortgage #MortgageIntelligenceDaily #mortgagebroker #loanofficer #housingmarket",
+      "hashtags": [
+        "#SafetrustMortgage",
+        "#MortgageIntelligenceDaily",
+        "#mortgagebroker",
+        "#loanofficer",
+        "#housingmarket"
+      ],
+      "hook_tag": "Estrategia para brókers",
+      "hook": "Los corredores que pasan a préstamos no delegados solo por los márgenes se equivocan.",
+      "what_happened_heading": "Los corredores reconsideran los beneficios de no ser delegado",
+      "what_happened": "Los corredores de hipotecas que hacen la transición a préstamos corresponsales no delegados informan que la ganancia financiera no proviene de los márgenes de precios. Los ejecutivos enfatizan que obtener control operativo sobre el procesamiento de préstamos impulsa la rentabilidad a largo plazo.",
+      "breakdown": [
+        {
+          "heading": "El mito del margen de precios",
+          "body": "Los corredores a menudo esperan mejoras masivas en el margen de rendimiento al pasar a modelos no delegados. Los costos de ejecución secundaria y las tarifas de almacén erosionan rápidamente las escasas ganancias de precios."
+        },
+        {
+          "heading": "Ventajas de la propiedad del proceso",
+          "body": "El control directo sobre el procesamiento de documentos y la velocidad de respuesta permite a los equipos retener clientes. Controlar los tiempos de entrega gana contratos de compra en mercados de vivienda competitivos."
+        },
+        {
+          "heading": "Impacto en la evaluación del expediente",
+          "body": "Esto es lo que realmente cambia cuando un expediente llega a evaluación: los asesores no delegados que trabajan para patrocinadores de inversores aún aplican reglas de superposición estrictas (pautas específicas del prestamista más allá de la base de la agencia)."
+        },
+        {
+          "heading": "Realidad de la responsabilidad del almacén",
+          "body": "Operar como prestamista no delegado requiere administrar líneas de crédito de almacén (financiamiento a corto plazo para préstamos) y recomprar expedientes defectuosos."
+        }
+      ],
+      "my_take_heading": "El control supera a los puntos base",
+      "my_take": "Los préstamos no delegados son una mejora operativa, no una jugada de margen. Si cambias solo por el precio, los costos de almacén devorarán tus ganancias.",
+      "action_lo": "Audita tus tiempos de respuesta actuales para evaluar si el control operativo justifica los gastos generales no delegados.",
+      "action_realtor": "Trabaja con originadores no delegados que aprovechan el control de procesamiento para garantizar fechas de cierre rápidas.",
+      "cta_question": "¿Moverte a préstamos no delegados te ha dado eficiencia operativa o solo ha aumentado los gastos de back-office?"
+    },
+    {
+      "slug": "conventional-credit-tightening-non-qm-growth",
+      "title": "El ajuste del crédito convencional impulsa el crecimiento de las hipotecas no de agencia",
+      "source": "National Mortgage Professional",
+      "source_url": "https://nationalmortgageprofessional.com/news/conventional-credit-tightens-while-non-qm-gains-ground",
+      "cover_text": "El endurecimiento convencional lleva a los prestatarios a Non-QM",
+      "caption": "Los estándares de crédito convencional se endurecieron significativamente en septiembre, ya que los prestamistas de agencia redujeron los refinanciamientos con retiro de efectivo y los préstamos para inversores. Pero el endurecimiento del crédito convencional no significa que la demanda de hipotecas haya desaparecido. Los productos Non-QM (préstamos hipotecarios no calificables que quedan fuera de las reglas de la agencia) se están expandiendo rápidamente para llenar el vacío creado por la retirada de las agencias. Los prestatarios autónomos y los inversores inmobiliarios están recurriendo a programas de extractos bancarios y préstamos DSCR para financiar transacciones. Los originadores que dependen estrictamente de sistemas de evaluación automatizados están perdiendo negocios frente a competidores proactivos. Adaptarse a los estándares de evaluación no de agencia ya no es opcional para los asesores de préstamos orientados al crecimiento.\n\nFuente : https://tinyurl.com/22pednxu\n#SafetrustMortgage #MortgageIntelligenceDaily #mortgagerates #realestateinvesting #loanofficer",
+      "hashtags": [
+        "#SafetrustMortgage",
+        "#MortgageIntelligenceDaily",
+        "#mortgagerates",
+        "#realestateinvesting",
+        "#loanofficer"
+      ],
+      "hook_tag": "Crédito de mercado",
+      "hook": "El ajuste de las agencias obliga a los originadores a adoptar productos hipotecarios alternativos.",
+      "what_happened_heading": "Las pautas de las agencias se endurecen mientras Non-QM crece",
+      "what_happened": "Los prestamistas convencionales restringieron los estándares de crédito en septiembre, reduciendo los refinanciamientos con retiro de efectivo y los préstamos para inversores. Mientras tanto, los productos no de agencia aumentaron su cuota de mercado general.",
+      "breakdown": [
+        {
+          "heading": "Retiros de riesgo convencionales",
+          "body": "Las agencias están frenando el apetito por los refinanciamientos con retiro de efectivo de alto LTV (relación préstamo-valor) y las propiedades de inversión. Las pautas más estrictas dejan a los prestatarios estándar buscando estructuras alternativas."
+        },
+        {
+          "heading": "Captura del mercado Non-QM",
+          "body": "Los prestamistas Non-QM están expandiendo su capacidad. Ofrecen programas de extractos bancarios y préstamos DSCR (relación de cobertura del servicio de la deuda) para inversores."
+        },
+        {
+          "heading": "Impacto en la evaluación del expediente",
+          "body": "Esto es lo que realmente cambia cuando un expediente llega a evaluación: los refinanciamientos con retiro de efectivo enfrentan límites más estrictos de DTI (cuánto ingreso se destina a la deuda) y restricciones de evaluación de escritorio."
+        },
+        {
+          "heading": "Pivote de originación necesario",
+          "body": "Los asesores de préstamos que dependen únicamente de las aprobaciones de evaluación automatizadas de las agencias pierden clientes inversores. El dominio de la documentación alternativa se está volviendo obligatorio."
+        }
+      ],
+      "my_take_heading": "La huella de la agencia se está reduciendo",
+      "my_take": "El endurecimiento del crédito convencional no es una desaceleración, es una migración. Los originadores que dominen la evaluación no de agencia dominarán los mercados de inversores.",
+      "action_lo": "Domina las pautas de evaluación de DSCR y extractos bancarios para capturar inversores convencionales desplazados.",
+      "action_realtor": "Dirígete a inversores inmobiliarios que necesitan calificación de ingresos alternativa para compras de propiedades de alquiler.",
+      "cta_question": "¿Tu proceso de préstamos se está moviendo hacia productos no de agencia a medida que se endurecen las pautas de crédito convencionales?"
+    }
   ]
 }
