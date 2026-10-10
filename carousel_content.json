@@ -1,342 +1,172 @@
 {
   "carousels": [
     {
-      "slug": "non-del-pricing-myth",
-      "title": "Going Non-Del? Mortgage Brokers Say The Biggest Payoff Isn't Pricing",
-      "source": "National Mortgage Professional",
-      "source_url": "https://nationalmortgageprofessional.com/news/going-non-del-mortgage-brokers-say-biggest-payoff-isnt-pricing",
-      "cover_text": "Stop chasing pricing when going non-del.",
-      "caption": "Too many mortgage brokers make the jump to non-delegated correspondent lending for the wrong reasons. They think it is all about squeezing out an extra few basis points in margin. But veteran brokers who have made the transition know pricing is just the bait. The real payoff is operational control. When you take underwriting authority in-house, you stop losing deals to third-party turn times and arbitrary investor overlays. Here is why the structural shift matters more than the rate sheet.\n\nSource : https://tinyurl.com/2dp4464j\n#SafetrustMortgage #MortgageIntelligenceDaily #mortgagebroker #loanofficer #mortgagelending",
+      "slug": "unscored-credit-pulls-and-margin-traps",
+      "title": "Unscored credit pulls create margin traps for originators",
+      "source": "HousingWire",
+      "source_url": "https://www.housingwire.com/articles/mortgage-score-costs/",
+      "cover_text": "Unscoring credit pulls won't fix your margins",
+      "caption": "Credit bureaus are pitching score later tools as the cure for skyrocketing vendor fees. Pulling a credit file without a score lets lenders defer scoring costs until a loan actually moves forward. But deferring credit visibility creates a major structural blind spot in your pipeline. When files reach processing without verified credit scores, loan officers risk spending hours structuring unqualifiable applications. True cost reduction comes from early decisioning, not delaying essential credit data. If your branch saves thirty dollars on a credit pull only to burn hundreds on unapprovable files, your net margin gain is zero. Lenders must balance vendor savings against operational capacity.\n\nSource : https://tinyurl.com/2am2pvqn\n#SafetrustMortgage #MortgageIntelligenceDaily #mortgagebroker #loanofficer #housingmarket",
       "hashtags": [
         "#SafetrustMortgage",
         "#MortgageIntelligenceDaily",
         "#mortgagebroker",
         "#loanofficer",
-        "#mortgagelending"
+        "#housingmarket"
       ],
-      "hook_tag": "Broker Strategy",
-      "hook": "Why chasing margin in non-del lending is a massive strategic mistake.",
-      "what_happened_heading": "The real reason to go non-del",
-      "what_happened": "Mortgage brokers moving into non-delegated correspondent lending say the biggest payoff is not better pricing. Instead, it is gaining control over the lending process to close more loans.",
+      "hook_tag": "Credit strategy",
+      "hook": "Unscored credit pulls hide the real problem in mortgage originations.",
+      "what_happened_heading": "Bureaus roll out score later options",
+      "what_happened": "TransUnion and Equifax introduced new tools letting lenders pull credit files without scores upfront. Lenders can add the scores later in the origination process to lower initial credit report costs.",
       "breakdown": [
         {
-          "heading": "The pricing illusion",
-          "body": "Many lenders enter non-del expecting an instant margin windfall. In reality, secondary market execution costs often eat those initial gains right up."
+          "heading": "Lower upfront pull costs",
+          "body": "Lenders save money on early stage pre-approvals by withholding scores until borrowers commit. This cuts upfront credit expense on unclosed files."
         },
         {
-          "heading": "Control beats cost",
-          "body": "Owning the process means you stop waiting on external wholesale lenders to make common-sense underwriting calls on complex files."
+          "heading": "The hidden pipeline risk",
+          "body": "Delaying score generation pushes risk assessment deeper into processing. You save thirty dollars upfront only to burn hundreds in processing unqualifiable applicants."
         },
         {
-          "heading": "Underwriting reality",
-          "body": "Here is what this actually changes when a file hits underwriting: your own staff interprets the guidelines, eliminating outside investor overlays that kill deals."
+          "heading": "Underwriting file impact",
+          "body": "Here is what this actually changes when a file hits underwriting: automated underwriting systems (computer algorithms that issue loan approvals) cannot render a decision without credit scores."
         },
         {
-          "heading": "Product flexibility",
-          "body": "Operating as a non-del allows you to curate niche products that your current wholesale partners simply refuse to touch."
+          "heading": "Operational reality check",
+          "body": "Without initial credit scores, loan officers cannot accurately calculate DTI (how much of your income goes to debt) or pricing adjustments until late in the workflow."
         }
       ],
-      "my_take_heading": "Control is your best product",
-      "my_take": "If you are going non-del just for pricing, you will fail. Go for the control, or stay wholesale.",
-      "action_lo": "Audit your current pipeline for deals lost to third-party turn times.",
-      "action_realtor": "Ask your lending partners if they control their own underwriting decisions.",
-      "cta_question": "Is operational control worth the extra compliance headache for your shop? Drop your thoughts below."
+      "my_take_heading": "Cost cutting at the wrong stage",
+      "my_take": "Saving on credit pulls while bloating processing overhead is a classic mortgage trap. Fast denial saves far more capital than delayed scoring.",
+      "action_lo": "Screen applicant income and debt profiles thoroughly before ordering unscored reports.",
+      "action_realtor": "Verify your lender is actually pre-approving credit rather than just pulling unscored files.",
+      "cta_question": "Are score later tools a smart cost control or an operational bottleneck?"
     },
     {
-      "slug": "credit-report-unbundling",
-      "title": "Equifax, TransUnion Launch New Tools To Cut Credit Report Costs",
-      "source": "National Mortgage Professional",
-      "source_url": "https://nationalmortgageprofessional.com/news/equifax-transunion-launch-new-tools-cut-credit-report-costs",
-      "cover_text": "Unbundling credit reports won't fix origination costs.",
-      "caption": "Equifax and TransUnion are rolling out new tools allowing lenders to purchase credit reports and scores separately. It is marketed as a win to cut rising origination expenses. But let's look past the press release. When you dig into the mechanics, unbundling data feeds often creates new operational friction without moving the needle on your P and L. Here is what this actually means for your back office.\n\nSource : https://tinyurl.com/2yyx2ebe\n#SafetrustMortgage #MortgageIntelligenceDaily #mortgagelending #loanofficer #realestateinvesting",
-      "hashtags": [
-        "#SafetrustMortgage",
-        "#MortgageIntelligenceDaily",
-        "#mortgagelending",
-        "#loanofficer",
-        "#realestateinvesting"
-      ],
-      "hook_tag": "Industry Cost",
-      "hook": "Equifax and TransUnion want you to think unbundling saves money.",
-      "what_happened_heading": "New credit report options arrive",
-      "what_happened": "Equifax and TransUnion are introducing new ways for lenders to buy credit reports and scores separately. This targets rising origination expenses as the industry shifts credit-scoring models.",
-      "breakdown": [
-        {
-          "heading": "The unbundling pitch",
-          "body": "Credit bureaus are pitching separate purchases for reports and scores to give lenders more choices amid soaring data costs."
-        },
-        {
-          "heading": "The hidden workflow trap",
-          "body": "Splitting the data pull means your processors have to manage multiple vendors and sync timestamps across different platforms."
-        },
-        {
-          "heading": "Underwriter perspective",
-          "body": "Here is what this actually changes when a file hits underwriting: chasing mismatched report versions will add days to conditional approvals."
-        },
-        {
-          "heading": "Margin math",
-          "body": "Saving a few dollars on a credit report is wiped out if your operational labor costs go up trying to piece data together."
-        }
-      ],
-      "my_take_heading": "Beware of cheap data traps",
-      "my_take": "Saving five bucks on credit data is useless if it costs you fifty dollars in processor friction.",
-      "action_lo": "Ask your credit vendor how this unbundling affects your LOS import times.",
-      "action_realtor": "Understand that credit changes won't speed up pre-approvals anytime soon.",
-      "cta_question": "Are your origination expenses actually going down with these new bureau tools?"
-    },
-    {
-      "slug": "unofficial-loan-limits",
-      "title": "Three Competing 2027 Conforming Loan Limits — And None Is Official",
+      "slug": "prospective-conforming-loan-limit-risks",
+      "title": "Lenders take risks on unofficial conforming limits",
       "source": "National Mortgage Professional",
       "source_url": "https://nationalmortgageprofessional.com/news/three-competing-2027-conforming-loan-limits-and-none-official",
-      "cover_text": "Lenders guessing loan limits are taking huge risks.",
-      "caption": "The Federal Housing Finance Agency has not established the 2027 conforming loan limits yet. That minor detail hasn't stopped more than 50 parent lenders from financing loans under anticipated limits as high as $850,000. Operating on predicted numbers before the official announcement is a massive gamble. One unexpected shift in home price indexing can leave lenders holding unmarketable paper. Here is the operational danger behind guessing loan limits.\n\nSource : https://tinyurl.com/2a5qzcbp\n#SafetrustMortgage #MortgageIntelligenceDaily #mortgagelending #homebuying #mortgagerates",
+      "cover_text": "Jumping the conforming limit exposes major pipeline risk",
+      "caption": "More than fifty lenders are already funding conventional loans up to $850,000 before the Federal Housing Finance Agency releases official numbers. Lenders are eager to capture high-balance market share by offering conventional pricing on jumbo-sized loans. But running ahead of government regulators introduces serious secondary market exposure. If the final conforming baseline comes in lower than projected, those funded files cannot be sold to Fannie Mae or Freddie Mac. That leaves originators holding illiquid paper on expensive warehouse lines. High-volume strategies only work when secondary execution is guaranteed.\n\nSource : https://tinyurl.com/2a5qzcbp\n#SafetrustMortgage #MortgageIntelligenceDaily #mortgagerates #mortgagebroker #homebuying",
       "hashtags": [
         "#SafetrustMortgage",
         "#MortgageIntelligenceDaily",
-        "#mortgagelending",
-        "#homebuying",
-        "#mortgagerates"
+        "#mortgagerates",
+        "#mortgagebroker",
+        "#homebuying"
       ],
-      "hook_tag": "Regulatory Risk",
-      "hook": "Why lenders financing unapproved 2027 loan limits are playing with fire.",
-      "what_happened_heading": "Limits remain completely unofficial",
-      "what_happened": "The Federal Housing Finance Agency has not established the 2027 conforming loan limits. Over 50 parent lenders are already financing loans under anticipated limits reaching $850,000.",
+      "hook_tag": "Loan limits",
+      "hook": "Lenders are gambling on unofficial conforming limits to capture market share.",
+      "what_happened_heading": "Lenders launch speculative loan limits",
+      "what_happened": "More than 50 parent lenders have started financing loans under anticipated limits as high as $850,000. The Federal Housing Finance Agency has not officially established the conforming loan limits yet.",
       "breakdown": [
         {
-          "heading": "The prediction game",
-          "body": "Lenders are using third-party forecasts to jump the gun on projected high-balance limits before any official regulatory guidance drops."
+          "heading": "Competing baseline estimates",
+          "body": "Lenders are using three distinct predicted limits to price conventional loans. They are betting on government formula projections before official confirmation."
         },
         {
-          "heading": "Secondary market exposure",
-          "body": "If the official FHFA limit comes in lower than expected, lenders holding these oversized loans face immediate buyback or portfolio risks."
+          "heading": "Capturing early volume",
+          "body": "Originators use higher limits now to price high-balance loans as conventional. This offers lower interest rates compared to jumbo (loans exceeding agency limits) products."
         },
         {
-          "heading": "Underwriter exposure",
-          "body": "Here is what this actually changes when a file hits underwriting: you are approving loans based on speculative math that might not meet agency delivery guidelines."
+          "heading": "Underwriting file impact",
+          "body": "Here is what this actually changes when a file hits underwriting: if FHFA sets the final limit lower than expected, these funded loans cannot be delivered to Fannie or Freddie."
         },
         {
-          "heading": "Competitive pressure",
-          "body": "Lenders feel forced to take this risk to capture high-end purchase business, even though the regulatory safety net is missing."
+          "heading": "Portfolio balance risk",
+          "body": "Loans stuck in limbo must sit on warehouse lines (short-term bank credit lines for lenders) or sell at a discount on the secondary market."
         }
       ],
-      "my_take_heading": "Speculation is not a lending strategy",
-      "my_take": "Guessing the 2027 loan limits to win business is a great way to buy back bad loans.",
-      "action_lo": "Double-check your investor commitments before locking any speculative high-balance loans.",
-      "action_realtor": "Keep your high-end buyers informed that max loan limits are still subject to change.",
-      "cta_question": "Are you willing to back portfolio risk on unofficial loan limit forecasts?"
+      "my_take_heading": "Market share over balance sheet discipline",
+      "my_take": "Writing loans against unofficial conforming limits is aggressive marketing disguised as product innovation. One wrong estimate turns your secondary execution into a portfolio loss.",
+      "action_lo": "Identify jumbo borrowers near eight hundred thousand dollars who qualify under prospective limits.",
+      "action_realtor": "Partner with lenders offering early limit expansion to boost purchasing power for luxury buyers.",
+      "cta_question": "Is your institution originating under prospective limits or waiting for official FHFA release?"
     },
     {
-      "slug": "place-ardley-acquisition",
-      "title": "PLACE Acquires Ardley, Expanding Push To Turn Existing Borrowers Into New Loans",
-      "source": "National Mortgage Professional",
-      "source_url": "https://nationalmortgageprofessional.com/news/place-acquires-ardley-expanding-push-turn-existing-borrowers-new-loans",
-      "cover_text": "Software won't save a broken database.",
-      "caption": "PLACE is doubling down on borrower retention with the acquisition of Ardley, an AI-powered portfolio intelligence tool. Everyone in the industry is rushing to buy AI recapture tech to squeeze past clients for new loans. But software alone cannot fix a broken CRM database filled with bad data and neglected relationships. If your loan officers never built trust in the first place, automated outreach is just sophisticated spam. Here is why technology cannot replace actual human follow-up.\n\nSource : https://tinyurl.com/29vv6p5x\n#SafetrustMortgage #MortgageIntelligenceDaily #loanofficer #realestateagent #mortgagelending",
-      "hashtags": [
-        "#SafetrustMortgage",
-        "#MortgageIntelligenceDaily",
-        "#loanofficer",
-        "#realestateagent",
-        "#mortgagelending"
-      ],
-      "hook_tag": "Tech Strategy",
-      "hook": "Buying AI recapture tech won't fix a dead database.",
-      "what_happened_heading": "PLACE acquires AI tool",
-      "what_happened": "PLACE is expanding its reach into borrower retention with the acquisition of Ardley, an AI-powered technology provider. The deal adds automated borrower outreach and portfolio intelligence to its mortgage business.",
-      "breakdown": [
-        {
-          "heading": "The AI recapture race",
-          "body": "Platform plays are aggressively buying portfolio intelligence tools to automatically mine past borrowers for upcoming purchase and refi transactions."
-        },
-        {
-          "heading": "The database reality",
-          "body": "Most loan officer databases are a mess of outdated contact info and incomplete notes, making automated outreach completely ineffective."
-        },
-        {
-          "heading": "Underwriter view on past clients",
-          "body": "Here is what this actually changes when a file hits underwriting: automated leads still need clean tax returns, and AI cannot talk a self-employed borrower through a complex P and L."
-        },
-        {
-          "heading": "Relationship over algorithm",
-          "body": "Software can trigger an alert, but only a skilled loan officer can structure the deal and keep the borrower from shopping your rate."
-        }
-      ],
-      "my_take_heading": "Software amplifies bad habits",
-      "my_take": "An AI tool will not save a loan officer who treats their past clients like transactional strangers.",
-      "action_lo": "Clean your database manually before spending money on automated recapture platforms.",
-      "action_realtor": "Partner with lenders who use tech to enhance communication, not replace it.",
-      "cta_question": "Can AI truly replace the human touch in mortgage portfolio retention?"
-    }
-  ],
-  "carousels_es": [
-    {
-      "slug": "non-del-pricing-myth",
-      "title": "Al ser \"non-del\": Los brokers dicen que el mayor beneficio no es el precio",
+      "slug": "non-delegated-correspondent-operational-control",
+      "title": "Non-delegated correspondent lending is about process not pricing",
       "source": "National Mortgage Professional",
       "source_url": "https://nationalmortgageprofessional.com/news/going-non-del-mortgage-brokers-say-biggest-payoff-isnt-pricing",
-      "cover_text": "Deja de buscar el precio al ser non-del.",
-      "caption": "Muchos brokers hipotecarios se lanzan al mundo del prestamista corresponsal no delegado (non-delegated correspondent) por razones equivocadas. Creen que se trata de conseguir unos cuantos puntos básicos adicionales de margen. Pero los brokers veteranos que ya han hecho esta transición saben que el precio es solo un anzuelo. El verdadero beneficio es el control operativo. Cuando tienes la autoridad de aprobación interna, dejas de perder negocios por los tiempos de espera de terceros o por reglas arbitrarias de los inversionistas. Aquí te explico por qué el cambio estructural importa más que la hoja de tarifas.\n\nFuente : https://tinyurl.com/2dp4464j\n#SafetrustMortgage #MortgageIntelligenceDaily #mortgagebroker #loanofficer #mortgagelending",
+      "cover_text": "Going non-delegated is about operational control not margins",
+      "caption": "Mortgage brokers making the jump to non-delegated correspondent lending are finding that the real reward is not pricing. While many brokers expect wider profit margins, warehouse fees and administrative overhead quickly eat up basis point gains. The true value lies in operational control. Non-delegated lenders control their closing schedules, borrower experience, and fulfillment workflows. In purchase-heavy markets, speed and predictability earn repeat agent referrals far better than fractional pricing discounts. If you make the transition solely to boost margins without fixing back-office operations, your balance sheet will suffer.\n\nSource : https://tinyurl.com/2dp4464j\n#SafetrustMortgage #MortgageIntelligenceDaily #mortgagebroker #loanofficer #housingmarket",
       "hashtags": [
         "#SafetrustMortgage",
         "#MortgageIntelligenceDaily",
         "#mortgagebroker",
         "#loanofficer",
-        "#mortgagelending"
+        "#housingmarket"
       ],
-      "hook_tag": "Estrategia para brokers",
-      "hook": "Por qué buscar el margen en préstamos non-del es un grave error estratégico.",
-      "what_happened_heading": "La verdadera razón para ser \"non-del\"",
-      "what_happened": "Los brokers hipotecarios que se vuelven prestamistas corresponsales no delegados dicen que el mayor beneficio no es un mejor precio. En cambio, es obtener control sobre el proceso de préstamo para cerrar más créditos.",
+      "hook_tag": "Broker strategy",
+      "hook": "Brokers moving to non-delegated lending for pricing margins are mistaken.",
+      "what_happened_heading": "Brokers rethink non-delegated payoffs",
+      "what_happened": "Mortgage brokers transitioning to non-delegated correspondent lending report that financial gain does not stem from pricing spreads. Executives emphasize that gaining operational control over loan processing drives long-term profitability.",
       "breakdown": [
         {
-          "heading": "La ilusión del precio",
-          "body": "Muchos prestamistas entran a \"non-del\" esperando un margen de ganancia inmediato. En realidad, los costos de ejecución en el mercado secundario a menudo se comen esas ganancias iniciales."
+          "heading": "The pricing margin myth",
+          "body": "Brokers often expect massive yield spread improvements when moving to non-delegated models. Secondary execution costs and warehouse fees quickly erode thin pricing gains."
         },
         {
-          "heading": "El control es mejor que el costo",
-          "body": "Ser dueño del proceso significa que ya no esperas a que prestamistas mayoristas externos tomen decisiones lógicas de aprobación en casos complejos."
+          "heading": "Process ownership advantages",
+          "body": "Direct control over document processing and turnaround speed allows teams to retain clients. Controlling turn times wins purchase contracts in competitive housing markets."
         },
         {
-          "heading": "La realidad del asesor",
-          "body": "Esto es lo que cambia cuando un expediente llega a aprobación: tu propio personal interpreta las normas, eliminando las reglas externas de inversionistas que frustran los acuerdos."
+          "heading": "Underwriting file impact",
+          "body": "Here is what this actually changes when a file hits underwriting: non-delegated underwriters working for investor sponsors still enforce strict overlay rules (lender-specific guidelines beyond agency baseline)."
         },
         {
-          "heading": "Flexibilidad de productos",
-          "body": "Operar como \"non-del\" te permite ofrecer productos especializados que tus socios mayoristas actuales simplemente se niegan a manejar."
+          "heading": "Warehouse liability reality",
+          "body": "Operating as a non-delegated lender requires managing warehouse lines (short-term financing for funding loans) and repurchasing defective files."
         }
       ],
-      "my_take_heading": "El control es tu mejor producto",
-      "my_take": "Si vas a ser \"non-del\" solo por el precio, fracasarás. Hazlo por el control, o sigue siendo mayorista.",
-      "action_lo": "Audita tus expedientes actuales para ver qué acuerdos perdiste por los tiempos de espera de terceros.",
-      "action_realtor": "Pregúntale a tus socios prestamistas si ellos controlan sus propias decisiones de aprobación.",
-      "cta_question": "¿Vale la pena el control operativo para tu negocio, a pesar del dolor de cabeza adicional por el cumplimiento? Deja tus comentarios abajo."
+      "my_take_heading": "Control trumps raw basis points",
+      "my_take": "Non-delegated lending is an operational upgrade, not a margin play. If you switch for pricing alone, warehouse costs will devour your profits.",
+      "action_lo": "Audit your current turn times to evaluate if operational control justifies non-delegated overhead.",
+      "action_realtor": "Work with non-delegated originators who leverage processing control to guarantee fast closing dates.",
+      "cta_question": "Has moving to non-delegated lending delivered operational efficiency or just increased back-office overhead?"
     },
     {
-      "slug": "credit-report-unbundling",
-      "title": "Equifax y TransUnion lanzan herramientas para reducir costos de informes de crédito",
+      "slug": "conventional-credit-tightening-non-qm-growth",
+      "title": "Conventional credit tightening fuels non-agency mortgage growth",
       "source": "National Mortgage Professional",
-      "source_url": "https://nationalmortgageprofessional.com/news/equifax-transunion-launch-new-tools-cut-credit-report-costs",
-      "cover_text": "Desagrupar informes de crédito no arreglará los costos.",
-      "caption": "Equifax y TransUnion están lanzando nuevas herramientas que permiten a los prestamistas comprar informes y puntajes de crédito por separado. Se vende como una victoria para reducir los crecientes gastos de originación. Pero veamos más allá del comunicado de prensa. Cuando analizas la mecánica, la desagrupación de datos a menudo crea nuevas fricciones operativas sin mover la aguja en tus ganancias y pérdidas. Esto es lo que significa realmente para tu oficina.\n\nFuente : https://tinyurl.com/2yyx2ebe\n#SafetrustMortgage #MortgageIntelligenceDaily #mortgagelending #loanofficer #realestateinvesting",
+      "source_url": "https://nationalmortgageprofessional.com/news/conventional-credit-tightens-while-non-qm-gains-ground",
+      "cover_text": "Conventional tightening is driving borrowers toward Non-QM products",
+      "caption": "Conventional credit standards tightened significantly in September as agency lenders pulled back on cash-out refinances and investor loans. But tightening conventional credit does not mean mortgage demand has disappeared. Non-QM products are expanding rapidly to fill the void created by agency pullback. Self-employed borrowers and real estate investors are turning to bank statement programs and DSCR loans to fund transactions. Originators who rely strictly on automated underwriting systems are losing deals to proactive competitors. Adapting to non-agency underwriting standards is no longer optional for growth-minded loan officers.\n\nSource : https://tinyurl.com/22pednxu\n#SafetrustMortgage #MortgageIntelligenceDaily #mortgagerates #realestateinvesting #loanofficer",
       "hashtags": [
         "#SafetrustMortgage",
         "#MortgageIntelligenceDaily",
-        "#mortgagelending",
-        "#loanofficer",
-        "#realestateinvesting"
+        "#mortgagerates",
+        "#realestateinvesting",
+        "#loanofficer"
       ],
-      "hook_tag": "Costo de la industria",
-      "hook": "Equifax y TransUnion quieren que creas que desagrupar ahorra dinero.",
-      "what_happened_heading": "Llegan nuevas opciones de informes de crédito",
-      "what_happened": "Equifax y TransUnion están ofreciendo nuevas formas para que los prestamistas compren informes y puntajes de crédito por separado. Esto busca reducir los crecientes gastos de originación a medida que la industria cambia los modelos de calificación crediticia.",
+      "hook_tag": "Market credit",
+      "hook": "Agency tightening is forcing originators to embrace alternative mortgage products.",
+      "what_happened_heading": "Agency guidelines tighten as Non-QM grows",
+      "what_happened": "Conventional lenders restricted credit standards in September, pulling back on cash-out refinances and investor loans. Meanwhile, non-agency products expanded their overall market share.",
       "breakdown": [
         {
-          "heading": "La propuesta de desagrupación",
-          "body": "Las agencias de crédito proponen compras separadas de informes y puntajes para dar a los prestamistas más opciones ante los crecientes costos de los datos."
+          "heading": "Conventional risk pullbacks",
+          "body": "Agencies are curbing appetite for high LTV (loan-to-value ratio) cash-out refinances and investor properties. Tightening guidelines leave standard borrowers seeking alternative structures."
         },
         {
-          "heading": "La trampa oculta del flujo de trabajo",
-          "body": "Dividir la extracción de datos significa que tus procesadores deben manejar múltiples proveedores y sincronizar los sellos de tiempo en diferentes plataformas."
+          "heading": "Non-QM market capture",
+          "body": "Non-QM (non-qualifying mortgages that fall outside agency rules) lenders are expanding capacity. They offer bank statement programs and DSCR (debt service coverage ratio) loans for investors."
         },
         {
-          "heading": "La perspectiva del asesor",
-          "body": "Esto es lo que cambia cuando un expediente llega a aprobación: buscar versiones de informes que no coinciden agregará días a las aprobaciones condicionales."
+          "heading": "Underwriting file impact",
+          "body": "Here is what this actually changes when a file hits underwriting: cash-out refinances face stricter DTI (how much income goes to debt) caps and desktop underwriting restrictions."
         },
         {
-          "heading": "Cálculo del margen",
-          "body": "Ahorrar unos pocos dólares en un informe de crédito es inútil si tus costos laborales operativos aumentan al intentar unir los datos."
+          "heading": "Origination pivot necessary",
+          "body": "Loan officers relying solely on agency automated underwriting approvals lose investor clients. Mastery of alternative documentation is becoming mandatory."
         }
       ],
-      "my_take_heading": "Cuidado con las trampas de datos baratos",
-      "my_take": "Ahorrar cinco dólares en datos de crédito es inútil si te cuesta cincuenta dólares en fricción del procesador.",
-      "action_lo": "Pregúntale a tu proveedor de crédito cómo esta desagrupación afecta los tiempos de importación en tu LOS.",
-      "action_realtor": "Entiende que los cambios de crédito no acelerarán las pre-aprobaciones pronto.",
-      "cta_question": "¿Están realmente disminuyendo tus gastos de originación con estas nuevas herramientas de las agencias?"
-    },
-    {
-      "slug": "unofficial-loan-limits",
-      "title": "Tres límites de préstamos conformes para 2027 compiten y ninguno es oficial",
-      "source": "National Mortgage Professional",
-      "source_url": "https://nationalmortgageprofessional.com/news/three-competing-2027-conforming-loan-limits-and-none-official",
-      "cover_text": "Los prestamistas que adivinan límites, toman riesgos.",
-      "caption": "La Agencia Federal de Financiación de la Vivienda (FHFA) aún no ha establecido los límites de préstamos conformes para 2027. Este pequeño detalle no ha impedido que más de 50 prestamistas principales financien préstamos bajo límites anticipados de hasta $850,000. Operar con números proyectados antes del anuncio oficial es una apuesta enorme. Un cambio inesperado en el índice de precios de las viviendas puede dejar a los prestamistas con documentos invendibles. Aquí te explico el peligro operativo detrás de adivinar los límites de los préstamos.\n\nFuente : https://tinyurl.com/2a5qzcbp\n#SafetrustMortgage #MortgageIntelligenceDaily #mortgagelending #homebuying #mortgagerates",
-      "hashtags": [
-        "#SafetrustMortgage",
-        "#MortgageIntelligenceDaily",
-        "#mortgagelending",
-        "#homebuying",
-        "#mortgagerates"
-      ],
-      "hook_tag": "Riesgo Regulatorio",
-      "hook": "Por qué los prestamistas que financian límites de 2027 no aprobados juegan con fuego.",
-      "what_happened_heading": "Los límites siguen siendo completamente extraoficiales",
-      "what_happened": "La Agencia Federal de Financiación de la Vivienda no ha establecido los límites de préstamos conformes para 2027. Más de 50 prestamistas principales ya están financiando préstamos bajo límites anticipados que llegan hasta los $850,000.",
-      "breakdown": [
-        {
-          "heading": "El juego de las predicciones",
-          "body": "Los prestamistas usan pronósticos de terceros para adelantarse a los límites proyectados de alto balance antes de que salga cualquier guía regulatoria oficial."
-        },
-        {
-          "heading": "Exposición al mercado secundario",
-          "body": "Si el límite oficial de la FHFA es menor de lo esperado, los prestamistas con estos préstamos sobredimensionados enfrentan riesgos inmediatos de recompra o de cartera."
-        },
-        {
-          "heading": "Exposición del asesor",
-          "body": "Esto es lo que cambia cuando un expediente llega a aprobación: estás aprobando préstamos basándote en cálculos especulativos que quizás no cumplan las normas de entrega de la agencia."
-        },
-        {
-          "heading": "Presión competitiva",
-          "body": "Los prestamistas se sienten obligados a tomar este riesgo para captar negocios de compra de alto valor, aunque falte la red de seguridad regulatoria."
-        }
-      ],
-      "my_take_heading": "La especulación no es una estrategia de préstamo",
-      "my_take": "Adivinar los límites de préstamos de 2027 para ganar negocio es una excelente manera de recomprar préstamos malos.",
-      "action_lo": "Vuelve a verificar tus compromisos con inversionistas antes de cerrar cualquier préstamo de alto balance especulativo.",
-      "action_realtor": "Mantén informados a tus compradores de alto nivel de que los límites máximos de préstamos aún pueden cambiar.",
-      "cta_question": "¿Estás dispuesto a respaldar el riesgo de cartera en pronósticos no oficiales de límites de préstamos?"
-    },
-    {
-      "slug": "place-ardley-acquisition",
-      "title": "PLACE adquiere Ardley, ampliando el impulso para convertir prestatarios existentes en nuevos préstamos",
-      "source": "National Mortgage Professional",
-      "source_url": "https://nationalmortgageprofessional.com/news/place-acquires-ardley-expanding-push-turn-existing-borrowers-new-loans",
-      "cover_text": "El software no salvará una base de datos rota.",
-      "caption": "PLACE está apostando fuerte por la retención de prestatarios con la adquisición de Ardley, una herramienta de inteligencia de cartera impulsada por IA. Todos en la industria se apresuran a comprar tecnología de recaptura con IA para exprimir a clientes anteriores en busca de nuevos préstamos. Pero el software por sí solo no puede arreglar una base de datos CRM rota, llena de información desactualizada y relaciones descuidadas. Si tus oficiales de préstamo nunca generaron confianza en primer lugar, el alcance automatizado es solo spam sofisticado. Aquí te explico por qué la tecnología no puede reemplazar el seguimiento humano real.\n\nFuente : https://tinyurl.com/29vv6p5x\n#SafetrustMortgage #MortgageIntelligenceDaily #loanofficer #realestateagent #mortgagelending",
-      "hashtags": [
-        "#SafetrustMortgage",
-        "#MortgageIntelligenceDaily",
-        "#loanofficer",
-        "#realestateagent",
-        "#mortgagelending"
-      ],
-      "hook_tag": "Estrategia Tecnológica",
-      "hook": "Comprar tecnología de recaptura con IA no arreglará una base de datos muerta.",
-      "what_happened_heading": "PLACE adquiere herramienta de IA",
-      "what_happened": "PLACE está expandiendo su alcance en la retención de prestatarios con la adquisición de Ardley, un proveedor de tecnología impulsado por IA. El acuerdo añade alcance automatizado a prestatarios e inteligencia de cartera a su negocio hipotecario.",
-      "breakdown": [
-        {
-          "heading": "La carrera de recaptura con IA",
-          "body": "Las plataformas están comprando agresivamente herramientas de inteligencia de cartera para extraer automáticamente clientes anteriores para próximas transacciones de compra y refinanciamiento."
-        },
-        {
-          "heading": "La realidad de la base de datos",
-          "body": "La mayoría de las bases de datos de los oficiales de préstamo son un desastre de información de contacto desactualizada y notas incompletas, lo que hace que el alcance automatizado sea ineficaz."
-        },
-        {
-          "heading": "Visión del asesor sobre clientes pasados",
-          "body": "Esto es lo que cambia cuando un expediente llega a aprobación: los prospectos automatizados aún necesitan declaraciones de impuestos claras, y la IA no puede guiar a un prestatario independiente a través de un estado de resultados complejo."
-        },
-        {
-          "heading": "Relación sobre algoritmo",
-          "body": "El software puede activar una alerta, pero solo un oficial de préstamo hábil puede estructurar el trato y evitar que el prestatario busque otras tasas."
-        }
-      ],
-      "my_take_heading": "El software amplifica los malos hábitos",
-      "my_take": "Una herramienta de IA no salvará a un oficial de préstamo que trata a sus clientes anteriores como extraños transaccionales.",
-      "action_lo": "Limpia tu base de datos manualmente antes de gastar dinero en plataformas de recaptura automatizada.",
-      "action_realtor": "Asóciate con prestamistas que usen la tecnología para mejorar la comunicación, no para reemplazarla.",
-      "cta_question": "¿Puede la IA realmente reemplazar el toque humano en la retención de carteras hipotecarias?"
+      "my_take_heading": "The agency footprint is shrinking",
+      "my_take": "Conventional credit tightening is not a slowdown; it is a migration. Originators who master non-agency underwriting will dominate investor markets.",
+      "action_lo": "Master DSCR and bank statement underwriting guidelines to capture displaced conventional investors.",
+      "action_realtor": "Target real estate investors who need alternative income qualification for rental purchases.",
+      "cta_question": "Is your pipeline shifting toward non-agency products as conventional credit guidelines tighten?"
     }
   ]
 }
