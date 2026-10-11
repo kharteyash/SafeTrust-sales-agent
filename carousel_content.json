@@ -160,5 +160,167 @@
       "action_realtor": "Identify seller concessions that can fund temporary rate buy-downs for active buyers.",
       "cta_question": "What strategy is successfully moving your hesitant buyers off the sidelines?"
     }
+  ],
+  "carousels_es": [
+    {
+      "slug": "mortgage-rate-peak-october-volatility",
+      "title": "Por qué la volatilidad de tasas destruye más préstamos que las tasas altas",
+      "source": "HousingWire",
+      "source_url": "https://www.housingwire.com/articles/have-mortgage-rates-peaked-or-will-we-see-even-more-chaos/",
+      "cover_text": "Por qué la volatilidad causa caos",
+      "caption": "La volatilidad de las tasas provoca más cancelaciones que las mismas tasas altas. Cuando los compradores ven saltos diarios en el mercado, se cancelan trámites asegurados y los préstamos sin bloquear fallan durante el proceso. Como asesores, vemos aprobaciones condicionadas frenarse en seco cuando las relaciones de deuda cambian a mitad de camino. Los oficiales de préstamo deben dejar de adivinar el momento perfecto. Bloquear la tasa a tiempo con opciones de ajuste protege tu volumen de préstamos contra sorpresas económicas este octubre. Los agentes inmobiliarios que educan a sus compradores sobre el pago mensual en lugar de buscar la tasa más baja cierran más ventas. ¿Tu equipo bloquea la tasa al calificar o la deja flotar?\n\nFuente : https://tinyurl.com/26p3h4f5\n#SafetrustMortgage #MortgageIntelligenceDaily #mortgagerates",
+      "hashtags": [
+        "#SafetrustMortgage",
+        "#MortgageIntelligenceDaily",
+        "#mortgagerates"
+      ],
+      "hook_tag": "Volatilidad de tasas",
+      "hook": "¿La volatilidad de las tasas está arruinando tus préstamos activos?",
+      "what_happened_heading": "Los cambios de octubre traen más turbulencia en las tasas",
+      "what_happened": "Las tasas hipotecarias siguen inestables en octubre debido a los datos económicos del mercado. Varios expertos discuten si las tasas de interés finalmente alcanzaron su punto más alto.",
+      "breakdown": [
+        {
+          "heading": "La ilusión de adivinar el piso del mercado",
+          "body": "Los compradores que esperan tasas más bajas corren el riesgo de quedar fuera si el mercado cambia de repente."
+        },
+        {
+          "heading": "Los aumentos repentinos rompen la relación deuda-ingreso",
+          "body": "Un salto de un cuarto de punto cambia tu DTI (deuda frente a ingresos) y puede cancelar tu preaprobación."
+        },
+        {
+          "heading": "Las cancelaciones perjudican las ganancias del prestamista",
+          "body": "Dejar las tasas flotando en tiempos volátiles genera retrasos operativos y cancelaciones inesperadas en tus expedientes de préstamo."
+        },
+        {
+          "heading": "Las opciones de ajuste a la baja protegen el trámite",
+          "body": "Asegurar la tasa con opción de ajuste a la baja le da tranquilidad al comprador sin frenar el proceso."
+        }
+      ],
+      "my_take_heading": "La estabilidad siempre le gana a las especulaciones del mercado",
+      "my_take": "Tratar de adivinar el punto más bajo de las tasas es un error que destruye préstamos activos y la confianza del comprador.",
+      "action_lo": "Estructura cada preaprobación con un margen de seguridad para absorber subidas repentinas.",
+      "action_realtor": "Enfoca las charlas con tus clientes en su presupuesto mensual y no en las noticias del día.",
+      "cta_question": "¿Tus compradores están asegurando la tasa temprano o dejándola flotar en octubre?"
+    },
+    {
+      "slug": "underwriting-rate-swings-dti-limits",
+      "title": "Cómo los cambios de tasas en octubre afectan las aprobaciones",
+      "source": "HousingWire",
+      "source_url": "https://www.housingwire.com/articles/have-mortgage-rates-peaked-or-will-we-see-even-more-chaos/",
+      "cover_text": "Cómo los cambios de tasas arruinan préstamos",
+      "caption": "Un cambio repentino en la tasa puede convertir una aprobación firme en una negación. Cuando las tasas cambian rápido, la capacidad de pago del comprador puede quedar fuera de las guías permitidas. Desde la mirada de un asesor de crédito, dejar flotar la tasa en un trámite ajustado es un grave error operativo. Los oficiales de préstamo deben analizar cada caso bajo el máximo estrés antes de dar una carta de preaprobación. Los agentes inmobiliarios necesitan confirmar que la preaprobación contemple posibles subidas de tasas antes de presentar una oferta de compra. ¿Cómo estás probando la capacidad de tus compradores frente a los cambios del mercado?\n\nFuente : https://tinyurl.com/26p3h4f5\n#SafetrustMortgage #MortgageIntelligenceDaily #loanofficer",
+      "hashtags": [
+        "#SafetrustMortgage",
+        "#MortgageIntelligenceDaily",
+        "#loanofficer"
+      ],
+      "hook_tag": "Riesgo de aprobación",
+      "hook": "¿Tus aprobaciones actuales resistirán otro aumento en las tasas?",
+      "what_happened_heading": "Los cambios de tasas ponen en riesgo las aprobaciones",
+      "what_happened": "La inestabilidad de las tasas en octubre está obligando a revisar las preaprobaciones activas. Si las tasas suben de repente, los trámites con tasa flotante pueden superar los límites permitidos antes del cierre.",
+      "breakdown": [
+        {
+          "heading": "El margen para calificar se reduce cuando las tasas suben",
+          "body": "Los márgenes ajustados desaparecen al instante si las tasas de interés suben durante el procesamiento del préstamo."
+        },
+        {
+          "heading": "Se deben reevaluar los sistemas automáticos de crédito",
+          "body": "Si la tasa sube a mitad del proceso, hay que volver a correr el sistema de evaluación automática (AUS)."
+        },
+        {
+          "heading": "Las reservas de dinero sirven como respaldo clave",
+          "body": "Tener ahorros extra evita rechazos automáticos cuando los pagos más altos aumentan la deuda total del comprador."
+        },
+        {
+          "heading": "El momento de bloquear la tasa define la aprobación",
+          "body": "Bloquear la tasa a tiempo evita rechazos de último minuto justo antes de la firma final de los documentos."
+        }
+      ],
+      "my_take_heading": "Las preaprobaciones sin margen de riesgo son un problema seguro",
+      "my_take": "Una carta de preaprobación que no soporte un aumento del medio punto en la tasa no es una verdadera aprobación.",
+      "action_lo": "Pon a prueba la capacidad del cliente agregando setenta y cinco puntos básicos sobre el precio del mercado.",
+      "action_realtor": "Verifica que tu prestamista haya probado las ofertas contra posibles aumentos de tasas.",
+      "cta_question": "¿Qué margen usas antes de emitir una carta de preaprobación?"
+    },
+    {
+      "slug": "mortgage-spreads-secondary-market-impact",
+      "title": "Por qué los márgenes del mercado secundario fijan las tasas",
+      "source": "HousingWire",
+      "source_url": "https://www.housingwire.com/articles/have-mortgage-rates-peaked-or-will-we-see-even-more-chaos/",
+      "cover_text": "Qué define el precio de las tasas hoy",
+      "caption": "Para entender los precios finales debes mirar más allá de los anuncios oficiales. Los márgenes en el mercado secundario definen la tasa real del comprador, independientemente de los comentarios del banco central. En la evaluación de crédito y ventas secundarias, márgenes altos significan un mayor riesgo percibido. Cuando los inversionistas piden un pago extra por el riesgo, las tasas para el consumidor siguen altas aunque bajen otros indicadores. Los oficiales de préstamo deben explicar esto claramente para mantener bien informados a sus compradores. Los agentes inmobiliarios que entienden esta dinámica gestionan mucho mejor las expectativas de sus clientes. ¿Cómo le explicas la inestabilidad de las tasas a tus clientes?\n\nFuente : https://tinyurl.com/26p3h4f5\n#SafetrustMortgage #MortgageIntelligenceDaily #housingmarket",
+      "hashtags": [
+        "#SafetrustMortgage",
+        "#MortgageIntelligenceDaily",
+        "#housingmarket"
+      ],
+      "hook_tag": "Mercado secundario",
+      "hook": "¿Por qué las tasas hipotecarias no bajan junto con el mercado?",
+      "what_happened_heading": "El mercado secundario define las tasas para el comprador",
+      "what_happened": "Las tasas hipotecarias se mantienen inestables porque el mercado secundario influye en los precios finales. Los informes económicos de octubre afectarán directamente los márgenes y la creación de nuevos préstamos.",
+      "breakdown": [
+        {
+          "heading": "El rendimiento del mercado no lo es todo",
+          "body": "Los bonos del Tesoro no siempre se mueven al mismo ritmo que las tasas hipotecarias finales para los compradores."
+        },
+        {
+          "heading": "Las guías de crédito se ajustan según el riesgo",
+          "body": "Los inversionistas del mercado secundario exigen más requisitos cuando aumenta la inestabilidad en el mercado financiero."
+        },
+        {
+          "heading": "La liquidez del mercado cambia la hoja de tasas",
+          "body": "Las ganancias de los prestamistas cambian a diario para absorber las variaciones sin perder capital operativo."
+        },
+        {
+          "heading": "Explicar el proceso calma la ansiedad del comprador",
+          "body": "Enseñar cómo se fijan las tasas ayuda a entender por qué cambian sin importar los titulares de noticias."
+        }
+      ],
+      "my_take_heading": "Mirar solo al banco central no muestra la realidad del precio",
+      "my_take": "La liquidez del mercado secundario y los márgenes definen las tasas de los compradores mucho más que los anuncios de las noticias.",
+      "action_lo": "Explica a tus socios por qué las tasas hipotecarias no bajan automáticamente cuando caen los bonos del Tesoro.",
+      "action_realtor": "Usa el contexto del mercado secundario para explicar la tendencia de las tasas a compradores con dudas.",
+      "cta_question": "¿Cómo explicas la diferencia entre las noticias y las tasas reales?"
+    },
+    {
+      "slug": "buyer-hesitation-october-market-strategy",
+      "title": "Cómo superar las dudas de los compradores en mercados volátiles",
+      "source": "HousingWire",
+      "source_url": "https://www.housingwire.com/articles/have-mortgage-rates-peaked-or-will-we-see-even-more-chaos/",
+      "cover_text": "Cómo superar las dudas ante las tasas",
+      "caption": "La incertidumbre del mercado paraliza a los compradores de vivienda. Muchos compradores frenan su proceso esperando una estabilidad en las tasas que puede tardar meses en llegar. Tras años analizando trámites, sabemos que quedarse esperando suele costar más en poder de compra que los pequeños cambios en las tasas. Los oficiales de préstamo deben mostrar un análisis real del costo de esperar en lugar de predecir el mercado. Los agentes inmobiliarios deben mantener la atención en las oportunidades del inventario y el crecimiento patrimonial. ¿Tus clientes se quedaron esperando o están tomando decisiones de compra con confianza?\n\nFuente : https://tinyurl.com/26p3h4f5\n#SafetrustMortgage #MortgageIntelligenceDaily #homebuying",
+      "hashtags": [
+        "#SafetrustMortgage",
+        "#MortgageIntelligenceDaily",
+        "#homebuying"
+      ],
+      "hook_tag": "Estrategia de mercado",
+      "hook": "¿Tus compradores están paralizados por la duda sobre las tasas?",
+      "what_happened_heading": "La inestabilidad de las tasas frena la decisión de los compradores",
+      "what_happened": "Los cambios constantes en las tasas de interés durante octubre generan inseguridad en el mercado inmobiliario. Muchos compradores posponen su decisión mientras intentan adivinar si las tasas ya tocaron su punto máximo.",
+      "breakdown": [
+        {
+          "heading": "Esperar una tasa perfecta tiene un costo muy alto",
+          "body": "Los compradores que esperan pierden plusvalía mientras la oferta de casas en el mercado sigue siendo reducida."
+        },
+        {
+          "heading": "La aprobación mide tu capacidad actual no futura",
+          "body": "Las decisiones de crédito se basan en tu capacidad financiera verificada hoy y no en lo que pase mañana."
+        },
+        {
+          "heading": "Las reducciones temporales de tasa facilitan la compra",
+          "body": "Usar reducciones temporales pagadas por el vendedor baja tu pago inicial manteniendo tu hipoteca fija a largo plazo."
+        },
+        {
+          "heading": "La opción de refinanciar te protege a futuro",
+          "body": "Comprar hoy asegura el precio de la casa y te da la opción de refinanciar si las tasas bajan después."
+        }
+      ],
+      "my_take_heading": "Enamórate de la casa y asegura tu financiamiento con estrategia",
+      "my_take": "Esperar la tasa perfecta casi siempre termina en pagar un precio más alto por la casa con la misma cuota mensual.",
+      "action_lo": "Entrega a cada comprador indeciso un análisis detallado del costo real de esperar.",
+      "action_realtor": "Busca aportes del vendedor para financiar rebajas temporales de tasa para tus compradores activos.",
+      "cta_question": "¿Qué estrategia te está funcionando para motivar a los compradores con dudas?"
+    }
   ]
 }
