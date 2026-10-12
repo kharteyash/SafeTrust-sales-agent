@@ -168,5 +168,175 @@
       "action_realtor": "Track builder leadership changes to anticipate shifts in inventory releases and buyer incentive structures.",
       "cta_question": "Are builder incentive changes impacting your pre-approval pull-through rates on new construction?"
     }
+  ],
+  "carousels_es": [
+    {
+      "slug": "dpa-standardization-boosts-volume",
+      "title": "Estandarización de Asistencia de Pago Inicial",
+      "source": "HousingWire",
+      "source_url": "https://www.housingwire.com/articles/dpa-mismo-data-standards/",
+      "cover_text": "Por qué $6.5 mil millones en denegaciones son evitables",
+      "caption": "Un tercio de los compradores rechazados podrían estar listos para comprar ahora mismo. Un análisis de $6.5 mil millones en préstamos denegados mostró que el 35% de esos expedientes podrían haberse salvado usando asistencia para el pago inicial (DPA, subsidios o segundos gravámenes para pagos iniciales). El verdadero obstáculo no es la calificación del prestatario; es la falta de datos estandarizados en miles de programas regionales. Cuando las pautas de asistencia varían drásticamente, los sistemas de asesoría hipotecaria automática rechazan por defecto porque no pueden verificar los fondos automáticamente. Estandarizar estos datos aumenta inmediatamente las tasas de aprobación sin asumir un riesgo de crédito adicional o flexibilizar las pautas. Los prestamistas que estructuren los datos de DPA de manera efectiva tomarán la delantera.\n\nFuente : https://tinyurl.com/2b3agklq\n#SafetrustMortgage #MortgageIntelligenceDaily #mortgagebroker #loanofficer #firsttimehomebuyer",
+      "hashtags": [
+        "#SafetrustMortgage",
+        "#MortgageIntelligenceDaily",
+        "#mortgagebroker",
+        "#loanofficer",
+        "#firsttimehomebuyer"
+      ],
+      "hook_tag": "Originación de Préstamos",
+      "hook": "Un tercio de tus compradores rechazados podrían estar listos para comprar.",
+      "what_happened_heading": "Volumen masivo perdido por datos fragmentados de asistencia",
+      "what_happened": "Un análisis de $6.5 mil millones en volumen de préstamos denegados reveló que el 35% podría haberse salvado usando opciones de asistencia para el pago inicial. El problema surge de la fragmentación de los datos del programa, no de requisitos de prestatarios demasiado complejos.",
+      "breakdown": [
+        {
+          "heading": "La fuga oculta en el proceso",
+          "body": "Los prestamistas están perdiendo más de un tercio de las solicitudes rechazadas simplemente porque los programas de asistencia para el pago inicial carecen de formatos de datos estandarizados entre los proveedores regionales."
+        },
+        {
+          "heading": "Por qué fallan las revisiones manuales",
+          "body": "Los oficiales de préstamo luchan por hacer coincidir a los compradores con cientos de opciones de DPA dispares durante la etapa inicial de preaprobación sin estándares de informes consistentes."
+        },
+        {
+          "heading": "La realidad del expediente de crédito",
+          "body": "Esto es lo que cambia cuando un expediente llega al asesor hipotecario: los sistemas automáticos rechazan los expedientes inmediatamente si los fondos de asistencia no se pueden analizar claramente junto con las obligaciones de deuda principales."
+        },
+        {
+          "heading": "La estandarización soluciona el flujo",
+          "body": "Establecer pautas de datos uniformes permite que las plataformas de asesoría hipotecaria automática evalúen los fondos de asistencia tan rápido como los pagos iniciales convencionales."
+        }
+      ],
+      "my_take_heading": "La barrera real es la data, no la calificación",
+      "my_take": "No tenemos una crisis de calificación de compradores; tenemos una crisis de arquitectura de la información que deja ingresos operativos sobre la mesa.",
+      "action_lo": "Audita tus solicitudes rechazadas del último trimestre para ver qué compradores califican para las opciones de asistencia existentes.",
+      "action_realtor": "Asóciate con prestamistas que rastrean activamente los requisitos de programas de asistencia local para mantener vivas las ofertas marginales.",
+      "cta_question": "¿Tu operación está rastreando activamente las opciones de asistencia de pago inicial en expedientes denegados?"
+    },
+    {
+      "slug": "mortgage-ai-trust-standard",
+      "title": "La IA Hipotecaria Necesita Confianza Basada en Experiencia",
+      "source": "HousingWire",
+      "source_url": "https://www.housingwire.com/articles/mortgage-ai-trust-standard/",
+      "cover_text": "Por qué la IA hipotecaria necesita dos décadas de experiencia",
+      "caption": "Las herramientas de IA fallarán si ignoran los ciclos hipotecarios históricos. Dos décadas de cambios en el mercado de la vivienda muestran que la adopción tecnológica exige responsabilidad y protección financiera. El software creado durante los fáciles auges de refinanciamiento frecuentemente falla cuando escenarios de crédito complejos dominan el mercado. Los prestamistas no pueden delegar el cumplimiento normativo o las responsabilidades de asesoría hipotecaria a un algoritmo. La confianza debe ganarse a través de un rendimiento probado en ciclos volátiles, no con demostraciones llamativas. La automatización debe mejorar la toma de decisiones humana en lugar de intentar reemplazar el juicio de asesor hipotecario probado en batalla.\n\nFuente : https://tinyurl.com/28kx996n\n#SafetrustMortgage #MortgageIntelligenceDaily #mortgagebroker #loanofficer #housingmarket",
+      "hashtags": [
+        "#SafetrustMortgage",
+        "#MortgageIntelligenceDaily",
+        "#mortgagebroker",
+        "#loanofficer",
+        "#housingmarket"
+      ],
+      "hook_tag": "Tecnología Hipotecaria",
+      "hook": "Las herramientas de IA fallarán si ignoran los ciclos hipotecarios históricos.",
+      "what_happened_heading": "La adopción tecnológica requiere responsabilidad probada en ciclos",
+      "what_happened": "Dos décadas de ciclos del mercado hipotecario muestran que la adopción tecnológica requiere responsabilidad y protección financiera. Los proveedores de tecnología deben generar confianza demostrando que sus herramientas pueden manejar la volatilidad real del mercado.",
+      "breakdown": [
+        {
+          "heading": "Los ciclos prueban la resiliencia tecnológica",
+          "body": "El software creado durante los fáciles auges de refinanciamiento a menudo se avería cuando la volatilidad del mercado y los escenarios de crédito complejos toman el control."
+        },
+        {
+          "heading": "La responsabilidad no es negociable",
+          "body": "Los prestamistas no pueden delegar el riesgo de cumplimiento o la responsabilidad financiera a herramientas de software automatizadas cuando ocurren errores en los expedientes de producción."
+        },
+        {
+          "heading": "El asesoramiento requiere juicio",
+          "body": "Esto es lo que cambia cuando un expediente llega al asesor hipotecario: los algoritmos a menudo tienen dificultades con la documentación de ingresos compleja que los asesores humanos evalúan usando un juicio probado en ciclos."
+        },
+        {
+          "heading": "La confianza impulsa la adopción real",
+          "body": "Los equipos de operaciones solo adoptarán la automatización a escala cuando las plataformas tecnológicas demuestren una precisión consistente en entornos regulatorios cambiantes."
+        }
+      ],
+      "my_take_heading": "La automatización sin responsabilidad es solo riesgo",
+      "my_take": "La IA no reemplazará a los originadores y asesores experimentados; simplemente resaltará el inmenso valor del juicio humano probado en batalla.",
+      "action_lo": "Prueba a tus proveedores de tecnología sobre cómo sus algoritmos manejan expedientes de trabajadores autónomos con casos excepcionales antes de confiar plenamente en las salidas automáticas.",
+      "action_realtor": "Trabaja con prestamistas cuya tecnología acelera el procesamiento sin sacrificar una supervisión manual exhaustiva en los expedientes de los compradores.",
+      "cta_question": "¿Tus proveedores de software actuales asumen la responsabilidad financiera por errores de asesoría hipotecaria automática?"
+    },
+    {
+      "slug": "mba-forecast-below-2t-volume",
+      "title": "Pronóstico de MBA: Volumen por Debajo de $2T en 2027",
+      "source": "HousingWire",
+      "source_url": "https://www.housingwire.com/articles/mba-originations-forecast-2027-rates/",
+      "cover_text": "Por qué el volumen hipotecario anual de $2T se está escapando",
+      "caption": "Esperar tasas más bajas para salvar tu proceso es un error. La Asociación de Banqueros Hipotecarios proyecta que el volumen anual caerá por debajo de $2T en 2027 con tasas del 7% persistiendo. Márgenes más amplios y posibles aumentos de tasas de la Reserva Federal indican que los altos costos de endeudamiento están aquí para el futuro previsible. Los prestamistas que esperan una recuperación masiva de refinanciamientos están quemando capital operativo en un mercado fantasma. El éxito a largo plazo requiere reestructurar las operaciones para obtener ganancias del volumen de compras hoy. Los equipos que se adapten a esta realidad ahora dominarán la cuota de mercado.\n\nFuente : https://tinyurl.com/25trnahs\n#SafetrustMortgage #MortgageIntelligenceDaily #mortgagerates #housingmarket #loanofficer",
+      "hashtags": [
+        "#SafetrustMortgage",
+        "#MortgageIntelligenceDaily",
+        "#mortgagerates",
+        "#housingmarket",
+        "#loanofficer"
+      ],
+      "hook_tag": "Pronóstico del Mercado",
+      "hook": "Esperar tasas más bajas para salvar tu proceso es un error.",
+      "what_happened_heading": "Altos costos de endeudamiento persistentes reducen el volumen del mercado",
+      "what_happened": "La Asociación de Banqueros Hipotecarios proyectó que las originaciones anuales caerán por debajo de $2T en 2027 a medida que las tasas del 7% persistan. El pronóstico destaca márgenes más amplios y posibles aumentos de tasas de la Reserva Federal en el futuro.",
+      "breakdown": [
+        {
+          "heading": "Tasas más altas que persisten por más tiempo",
+          "body": "Los costos de endeudamiento persistentes alrededor del 7% significan que la ola de refinanciamiento esperada se retrasa indefinidamente, manteniendo el volumen total del mercado limitado."
+        },
+        {
+          "heading": "Los márgenes siguen incómodamente amplios",
+          "body": "Los márgenes hipotecarios (la diferencia entre los rendimientos del Tesoro y las tasas hipotecarias) se mantienen elevados, impidiendo un alivio de las tasas para el consumidor incluso si los rendimientos de referencia bajan."
+        },
+        {
+          "heading": "Pautas de asesoría más estrictas",
+          "body": "Esto es lo que cambia cuando un expediente llega al asesor hipotecario: las tasas más altas obligan a los asesores a examinar con mucha más atención los límites de DTI (relación deuda-ingresos, el porcentaje del ingreso mensual destinado a la deuda) a medida que los compradores superan los límites de calificación."
+        },
+        {
+          "heading": "La capacidad debe adaptarse hoy",
+          "body": "Los prestamistas que dependen de la recuperación del volumen deben reestructurar los costos operativos ahora en lugar de mantener un exceso de capacidad para una recuperación que está a años de distancia."
+        }
+      ],
+      "my_take_heading": "El rescate de tasas bajas no llegará",
+      "my_take": "Sobrevivir los próximos tres años requiere construir un negocio rentable alrededor de las compras a los niveles de tasas actuales.",
+      "action_lo": "Enfoca tu estrategia de ventas completamente en transacciones de compra en lugar de ofrecer futuras opciones de refinanciamiento a prospectos dudosos.",
+      "action_realtor": "Educa a los compradores sobre soluciones de asequibilidad estructural como incentivos de constructores en lugar de esperar la caída de las tasas.",
+      "cta_question": "¿Cómo está ajustando tu liderazgo la capacidad operativa para un volumen inferior a $2T hasta 2027?"
+    },
+    {
+      "slug": "hhhunt-c-suite-leadership-reset",
+      "title": "Cambio de Liderazgo C-Suite de HHHunt Señala Cambio de Estrategia",
+      "source": "HousingWire",
+      "source_url": "https://www.housingwire.com/articles/hhhunt-ann-kelly-new-ceo-2027/",
+      "cover_text": "Lo que revelan los cambios ejecutivos de constructores sobre la estrategia de vivienda",
+      "caption": "Los cambios de liderazgo de los constructores señalan grandes reasignaciones de capital en el futuro. HHHunt nombró a la CFO Ann Kelly como su próxima CEO en 2027, con Buck Hunt permaneciendo como presidente para liderar una nueva empresa y Steve Brant asumiendo el cargo de CFO. Mover a un director financiero al rol de director ejecutivo muestra que los grandes constructores están priorizando la protección del balance general y la defensa de los márgenes sobre una expansión agresiva. A medida que la asignación de capital cambia, se esperan controles más estrictos sobre los incentivos de los constructores y las opciones de financiamiento de nueva construcción. Los profesionales de la industria deben adaptarse a estos cambios de estrategia institucional.\n\nFuente : https://tinyurl.com/26o93pbt\n#SafetrustMortgage #MortgageIntelligenceDaily #realestateagent #housingmarket #homebuying",
+      "hashtags": [
+        "#SafetrustMortgage",
+        "#MortgageIntelligenceDaily",
+        "#realestateagent",
+        "#housingmarket",
+        "#homebuying"
+      ],
+      "hook_tag": "Estrategia de Constructores",
+      "hook": "Los cambios de liderazgo de constructores señalan grandes reasignaciones de capital.",
+      "what_happened_heading": "Reorganización ejecutiva posiciona al constructor para nuevo crecimiento",
+      "what_happened": "HHHunt nombró a la CFO Ann Kelly como su próxima CEO en 2027 como parte de una reorganización del C-suite. Buck Hunt seguirá siendo presidente para liderar una nueva empresa mientras Steve Brant asume el cargo de CFO.",
+      "breakdown": [
+        {
+          "heading": "El enfoque financiero es central",
+          "body": "Promover a un director financiero a director ejecutivo destaca un cambio hacia una gestión rigurosa del balance general y una implementación disciplinada del capital."
+        },
+        {
+          "heading": "Nuevas empresas buscan expansión",
+          "body": "Mantener al ex CEO como presidente para liderar una nueva empresa sugiere que los constructores se están diversificando más allá de los modelos tradicionales de desarrollo de viviendas unifamiliares."
+        },
+        {
+          "heading": "Los términos de crédito se ajustarán",
+          "body": "Esto es lo que cambia cuando un expediente llega al asesor hipotecario: los constructores liderados por finanzas negocian estructuras de incentivos para compradores más estrictas que los asesores deben verificar cuidadosamente contra los límites máximos de contribución del vendedor."
+        },
+        {
+          "heading": "Planificación de transición a largo plazo",
+          "body": "Ejecutar una hoja de ruta de liderazgo de varios años hasta 2027 garantiza la estabilidad operativa mientras se navega por las condiciones impredecibles del mercado de construcción de viviendas."
+        }
+      ],
+      "my_take_heading": "La disciplina financiera reemplaza la expansión agresiva de terrenos",
+      "my_take": "La elevación de ejecutivos financieros indica que la defensa de los márgenes y la protección del balance general dictarán la estrategia de suministro de viviendas.",
+      "action_lo": "Alíneate con los equipos de ventas de constructores temprano para entender sus paquetes de financiamiento personalizados y límites de concesiones del vendedor.",
+      "action_realtor": "Rastrea los cambios de liderazgo de los constructores para anticipar cambios en los lanzamientos de inventario y las estructuras de incentivos para compradores.",
+      "cta_question": "¿Los cambios en los incentivos de los constructores están afectando tus tasas de aprobación previa en nuevas construcciones?"
+    }
   ]
 }
