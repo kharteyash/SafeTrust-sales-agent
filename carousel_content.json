@@ -168,5 +168,175 @@
       "action_realtor": "Shift your focus toward new construction inventory where builders are offering rate buydowns and paying commissions.",
       "cta_question": "Are you steering your buyers toward new construction or existing homes?"
     }
+  ],
+  "carousels_es": [
+    {
+      "slug": "pending-home-sales-low",
+      "title": "La venta de casas pendientes en EE. UU. cerca de un mínimo de 12 años",
+      "source": "Redfin",
+      "source_url": "https://www.redfin.com/news/pending-home-sales-sink-rates/",
+      "cover_text": "La venta de casas pendientes en un mínimo de 12 años.",
+      "caption": "Cuando las ventas de viviendas pendientes alcanzan un mínimo de 12 años, la prensa dice que el mercado está muerto. Como veterano hipotecario con 20 años de experiencia, veo una realidad completamente diferente en el procesamiento. El volumen no desaparece, sino que migra. Si bien las altas tasas frenan las transacciones de compra estándar, los originadores inteligentes están incursionando en estructuras de financiamiento alternativas y líneas de productos sin explotar para mantener el flujo de trabajo. Si tu modelo de negocio se basa solo en compras con tasas fijas a 30 años, estás en riesgo. Sigue las tendencias, no solo los titulares.\n\nFuente : https://tinyurl.com/25pek6bq\n#SafetrustMortgage #MortgageIntelligenceDaily #housingmarket #realestateagent #mortgagerates",
+      "hashtags": [
+        "#SafetrustMortgage",
+        "#MortgageIntelligenceDaily",
+        "#housingmarket",
+        "#realestateagent",
+        "#mortgagerates"
+      ],
+      "hook_tag": "analizando la realidad del mercado",
+      "hook": "Las ventas pendientes cayeron a su nivel más bajo en 12 años. Así es como la demanda no está muerta.",
+      "what_happened_heading": "La venta de casas pendientes cae a mínimos históricos",
+      "what_happened": "Las ventas de viviendas pendientes en EE. UU. se desplomaron a un mínimo de casi 12 años, ya que las tasas hipotecarias subieron por encima del 7 por ciento. Todas las principales áreas metropolitanas tuvieron bajas interanuales, lideradas por Seattle y el sur de California.",
+      "breakdown": [
+        {
+          "heading": "El pánico del titular",
+          "body": "Los medios comparan las ventas pendientes actuales con la paralización de 2020 y los mínimos de 2014. Esto genera pánico entre agentes y originadores por igual."
+        },
+        {
+          "heading": "La barrera de la asequibilidad",
+          "body": "Cuando las tasas superan el 7 por ciento, el cálculo del DTI (cuánto de tus ingresos va a deudas) se vuelve insostenible para compradores de ingresos medios."
+        },
+        {
+          "heading": "El cuello de botella del asesor",
+          "body": "Cuando los expedientes llegan al asesor, los índices de deuda-ingresos son muy ajustados. Los asesores revisan cada pasivo para que los números cuadren."
+        },
+        {
+          "heading": "El cambio oculto en el flujo de trabajo",
+          "body": "El volumen no se fue, se ha movido hacia productos no tradicionales, préstamos de cartera y estructuras de financiación creativas que evitan los obstáculos estándar."
+        }
+      ],
+      "my_take_heading": "El volumen está migrando, no desapareciendo",
+      "my_take": "Las bajas ventas pendientes no significan que la gente no quiera comprar. Significa que el financiamiento estándar ya no coincide con la realidad del mercado.",
+      "action_lo": "Cambia tu enfoque de marketing de las compras estándar y aprende sobre productos de renovación avanzados y de cartera.",
+      "action_realtor": "Informa a los compradores sobre las reducciones de tasas (buydowns) y las hipotecas de tasa ajustable antes de que se queden sin opciones en tu mercado local.",
+      "cta_question": "¿Qué producto mantiene vivo tu flujo de préstamos ahora mismo?"
+    },
+    {
+      "slug": "tri-merge-credit-phaseout",
+      "title": "Bob Broeksmit dice que la unión triple de crédito 'no durará mucho'",
+      "source": "HousingWire",
+      "source_url": "https://www.housingwire.com/articles/mba-tri-merge-credit-report/",
+      "cover_text": "El reporte de crédito tri-merge terminará pronto.",
+      "caption": "El fin del informe de crédito de unión triple (tri-merge) es el cambio operativo más grande que nuestra industria ha enfrentado en una década. Cuando la FHFA nos aleje del modelo tradicional de tres fuentes, cambiará cómo se evalúan los préstamos desde cero. Los modelos de calificación se alterarán, los precios fluctuarán y los sistemas existentes se adaptarán. Si crees que esto es solo un cambio de papeleo menor, te estás perdiendo el terremoto operativo que se dirige directamente a tu departamento de procesamiento.\n\nFuente : https://tinyurl.com/2b5pp3mg\n#SafetrustMortgage #MortgageIntelligenceDaily #mortgagebroker #loanofficer #mortgagerates",
+      "hashtags": [
+        "#SafetrustMortgage",
+        "#MortgageIntelligenceDaily",
+        "#mortgagebroker",
+        "#loanofficer",
+        "#mortgagerates"
+      ],
+      "hook_tag": "impacto en la industria",
+      "hook": "El reporte de crédito tri-merge está desapareciendo. Esto es lo que lo reemplazará.",
+      "what_happened_heading": "La MBA anuncia el fin del tri-merge",
+      "what_happened": "El presidente y CEO de MBA, Bob Broeksmit, afirmó que los informes de crédito tradicionales de unión triple no durarán mucho. La FHFA está considerando opciones para hacer la transición de la industria.",
+      "breakdown": [
+        {
+          "heading": "La carga de los costos",
+          "body": "Prestadores y consumidores han pagado tarifas exorbitantes por informes de crédito tri-merge durante años. Los precios de monopolio hicieron que las consultas estándar fueran innecesariamente costosas."
+        },
+        {
+          "heading": "El cambio de datos",
+          "body": "El nuevo marco probablemente se moverá hacia modelos de calificación de unión doble (bi-merge) o alternativos. Esto altera cómo se pondera el crédito negativo en las solicitudes iniciales."
+        },
+        {
+          "heading": "El impacto en el asesor",
+          "body": "Cuando un archivo llegue a asesoría con un nuevo modelo de crédito, los sistemas de asesoría automática interpretarán el riesgo de manera diferente. Espera un aumento temporal en las condiciones de suspensión."
+        },
+        {
+          "heading": "La carrera del software",
+          "body": "Los sistemas de originación de préstamos deben actualizar sus integraciones rápidamente. Los proveedores que se retrasen causarán demoras masivas para los prestatarios."
+        }
+      ],
+      "my_take_heading": "Se acerca un terremoto operativo",
+      "my_take": "El cambio del tri-merge ya se esperaba, pero la transición pondrá a prueba la preparación operativa de cada prestamista.",
+      "action_lo": "Pregunta a tus proveedores de crédito cuál es su cronograma para admitir el nuevo marco de informes de crédito exigido por la FHFA.",
+      "action_realtor": "Advierte a los clientes que los cálculos de puntaje de crédito y los estándares de informes podrían cambiar durante las próximas solicitudes de préstamo.",
+      "cta_question": "¿Están tus operaciones listas para dejar el informe tri-merge?"
+    },
+    {
+      "slug": "optimal-blue-usherpa",
+      "title": "Optimal Blue se expande a la interacción con prestatarios con la adquisición de Usherpa",
+      "source": "HousingWire",
+      "source_url": "https://www.housingwire.com/articles/optimal-blue-acquires-usherpa/",
+      "cover_text": "Optimal Blue acaba de comprar Usherpa.",
+      "caption": "La adquisición de Usherpa por parte de Optimal Blue no es solo otra compra tecnológica; es una clara señal de que la capa de infraestructura de nuestra industria se está consolidando. Los motores de precios y las plataformas CRM se están fusionando en ecosistemas únicos. Si eres un prestamista independiente que maneja pilas de software desconectadas, serás superado por gigantes automatizados. La compresión de márgenes exige eficiencia, y las plataformas de software están compitiendo por controlar todo el ciclo de vida del prestatario, desde la primera cotización hasta la retención post-cierre.\n\nFuente : https://tinyurl.com/23ms32a7\n#SafetrustMortgage #MortgageIntelligenceDaily #loanofficer #mortgagebroker #realestateagent",
+      "hashtags": [
+        "#SafetrustMortgage",
+        "#MortgageIntelligenceDaily",
+        "#loanofficer",
+        "#mortgagebroker",
+        "#realestateagent"
+      ],
+      "hook_tag": "consolidación tecnológica",
+      "hook": "La compra de Usherpa por Optimal Blue cambia el juego del software para los prestamistas.",
+      "what_happened_heading": "Optimal Blue adquiere la plataforma CRM Usherpa",
+      "what_happened": "Optimal Blue se está expandiendo directamente a la interacción con el prestatario al adquirir Usherpa. El CRM se integrará de forma nativa directamente en el ecosistema de Optimal Blue.",
+      "breakdown": [
+        {
+          "heading": "El plan de la plataforma",
+          "body": "Los motores de precios solían estar separados de los sistemas de marketing. Ahora, los proveedores de infraestructura quieren controlar tanto la cotización de tasas como el seguimiento."
+        },
+        {
+          "heading": "La carrera por la retención",
+          "body": "Con un volumen de originación limitado, los prestamistas dependen de la retención de cartera. La integración nativa de CRM significa un marketing más rápido cuando las tasas fluctúan."
+        },
+        {
+          "heading": "El flujo de datos de asesoría",
+          "body": "Cuando los datos de interacción y de precios viven bajo un mismo techo, los agentes de préstamos pueden rastrear el comportamiento del prestatario mucho antes de que un archivo entre en procesamiento."
+        },
+        {
+          "heading": "La presión del proveedor",
+          "body": "Los proveedores de CRM independientes sin vínculos con motores de precios enfrentarán una batalla cuesta arriba compitiendo contra plataformas institucionales todo en uno."
+        }
+      ],
+      "my_take_heading": "La pila de software se está reduciendo",
+      "my_take": "La tecnología desconectada es un riesgo. Los prestamistas exigirán cada vez más ecosistemas de inicio de sesión único que manejen precios, CRM y ejecución.",
+      "action_lo": "Evalúa tu pila tecnológica actual para ver si tus herramientas de CRM y precios se comunican entre sí sin problemas.",
+      "action_realtor": "Asóciate con prestamistas que inviertan en plataformas tecnológicas modernas para asegurar que tus clientes conjuntos reciban actualizaciones muy rápidas.",
+      "cta_question": "¿Adoptarás una plataforma todo en uno o seguirás con herramientas individuales?"
+    },
+    {
+      "slug": "private-builder-ma-premiums",
+      "title": "¿Por qué los constructores privados obtienen primas de fusión y adquisición ahora?",
+      "source": "HousingWire",
+      "source_url": "https://www.housingwire.com/articles/private-builder-ma-premiums/",
+      "cover_text": "Constructores privados logran grandes primas por fusiones y adquisiciones.",
+      "caption": "Mientras el mercado de viviendas existentes carece de inventario, los constructores privados poseen minas de oro en terrenos seguros y obtienen grandes primas por fusiones y adquisiciones. Según Whelan Advisory, controlar de cinco a diez años de lotes en mercados fuertes es el mayor poder corporativo. Los constructores públicos no pueden obtener permisos lo suficientemente rápido, por lo que están comprando las carteras de los privados. Si quieres entender de dónde vendrá el futuro volumen de compras, sigue la tierra.\n\nFuente : https://tinyurl.com/285alo7x\n#SafetrustMortgage #MortgageIntelligenceDaily #realestateinvesting #housingmarket #homebuying",
+      "hashtags": [
+        "#SafetrustMortgage",
+        "#MortgageIntelligenceDaily",
+        "#realestateinvesting",
+        "#housingmarket",
+        "#homebuying"
+      ],
+      "hook_tag": "estrategia de mercado",
+      "hook": "Por qué los constructores de viviendas privados están obteniendo grandes primas de adquisición ahora mismo.",
+      "what_happened_heading": "Los constructores privados obtienen el mejor precio",
+      "what_happened": "Margaret Whelan de Whelan Advisory destacó que los constructores de viviendas privados están asegurando precios premium en fusiones y adquisiciones. Tener de cinco a diez años de lotes controlados en mercados fuertes está impulsando este aumento.",
+      "breakdown": [
+        {
+          "heading": "La escasez de inventario",
+          "body": "Los dueños de casas existentes se niegan a vender y a renunciar a sus bajas tasas hipotecarias. Esto deja la nueva construcción como la principal opción para compradores."
+        },
+        {
+          "heading": "El poder de la tierra",
+          "body": "Los cuellos de botella en permisos hacen que la tierra virgen sea casi imposible de desarrollar rápidamente. Controlar lotes terminados es el activo más escaso en bienes raíces."
+        },
+        {
+          "heading": "El ángulo de financiamiento del constructor",
+          "body": "Cuando un expediente de préstamo controlado por el constructor llega a asesoría, los brazos hipotecarios cautivos suelen tener rutas de aprobación más fluidas debido a aprobaciones de proyectos ya revisadas."
+        },
+        {
+          "heading": "La ola de compras corporativas",
+          "body": "Los constructores públicos necesitan una escala inmediata para satisfacer a Wall Street. Comprar constructores privados con grandes carteras de lotes es más rápido que empezar de cero."
+        }
+      ],
+      "my_take_heading": "La tierra controlada es la moneda máxima",
+      "my_take": "En el mercado actual, las casas son difíciles de construir, pero la tierra es casi imposible de reemplazar. Por eso, los constructores tienen todas las ventajas.",
+      "action_lo": "Crea relaciones directas con los gerentes de ventas regionales en sitios de nueva construcción para capturar el tráfico de constructores no representados.",
+      "action_realtor": "Dirige tu enfoque hacia el inventario de nueva construcción, donde los constructores ofrecen reducciones de tasas (buydowns) y pagan comisiones.",
+      "cta_question": "¿Estás guiando a tus compradores hacia casas nuevas o existentes?"
+    }
   ]
 }
