@@ -168,5 +168,175 @@
       "action_realtor": "Partner with loan officers who specialize in non-QM products to help your high-net-worth or entrepreneurial clients buy homes.",
       "cta_question": "How heavily is your current business leaning into non-QM and alternative loan products?"
     }
+  ],
+  "carousels_es": [
+    {
+      "slug": "divorce-refinance-equity-buyout",
+      "title": "Como funcionan las compras de plusvalia en un refinanciamiento por divorcio",
+      "source": "HousingWire",
+      "source_url": "https://www.housingwire.com/articles/divorce-refinance-equity-buyout/",
+      "cover_text": "La trampa de plusvalia en divorcios que nadie menciona.",
+      "caption": "Separarse es bastante dificil, pero intentar desenredar la plusvalia de una casa en un mercado de tasas altas es la peor pesadilla de un asesor. Una tasacion menos el saldo de tu hipoteca establece el capital total, pero para que tu ex salga de la escritura necesitas calificar para un prestamo nuevo con un solo ingreso. Esto es lo que debes tener en cuenta antes de firmar cualquier acuerdo de divorcio. Lee el desglose completo sobre como tu capacidad de endeudamiento individual dicta tu proximo paso en la estrategia inmobiliaria y hipotecaria. Comparte esto con un cliente o amigo que este pasando por una transicion de derecho familiar.\n\nFuente : https://tinyurl.com/25anyvpc\n#SafetrustMortgage #MortgageIntelligenceDaily #mortgagerates #homebuying #realestateagent",
+      "hashtags": [
+        "#SafetrustMortgage",
+        "#MortgageIntelligenceDaily",
+        "#mortgagerates",
+        "#homebuying",
+        "#realestateagent"
+      ],
+      "hook_tag": "finanzas de divorcio",
+      "hook": "Por que quedarte con la casa en un divorcio podria arruinar tu presupuesto.",
+      "what_happened_heading": "La matematica detras de la compra de plusvalia",
+      "what_happened": "Una tasacion menos el saldo restante de la hipoteca determina el capital total disponible para dividir. Sin embargo, el monto real de la compra de plusvalia depende completamente de tu capacidad de endeudamiento individual.",
+      "breakdown": [
+        {
+          "heading": "El calculo del capital",
+          "body": "Primero, se obtiene una tasacion profesional para determinar el valor de mercado. Resta el saldo actual de la hipoteca para encontrar el capital total de la vivienda."
+        },
+        {
+          "heading": "Division de la participacion",
+          "body": "Normalmente, el conyuge que se va tiene derecho al cincuenta por ciento de esa plusvalia calculada. Esto generalmente se paga mediante un refinanciamiento con retiro de efectivo (cash-out refinance)."
+        },
+        {
+          "heading": "Evaluando el expediente",
+          "body": "Esto es lo que realmente cambia cuando un expediente llega a la evaluacion: el conyuge que se queda debe calificar para el prestamo mas grande unicamente con sus propios ingresos."
+        },
+        {
+          "heading": "Limites de calificacion",
+          "body": "Si tu DTI (cuanto de tus ingresos se destina a deudas) es demasiado alto con un solo ingreso, la compra de plusvalia falla, sin importar lo que haya ordenado el tribunal."
+        }
+      ],
+      "my_take_heading": "La orden judicial no anula las pautas",
+      "my_take": "Los jueces de tribunales familiares pueden ordenar una compra de plusvalia todo el dia, pero los asesores responden a Fannie y Freddie, no al juez.",
+      "action_lo": "Revisa el acuerdo de separacion ejecutado para los terminos de pension alimenticia y manutencion de menores antes de ejecutar los resultados iniciales de AUS (Sistema de Evaluacion Automatizado).",
+      "action_realtor": "Aconseja a los clientes que se estan divorciando que consulten a un oficial de prestamos antes de finalizar los acuerdos de division de propiedad en el tribunal.",
+      "cta_question": "Con que frecuencia ves que los terminos de los acuerdos de divorcio chocan con las reglas basicas de evaluacion?"
+    },
+    {
+      "slug": "fha-203k-renovation-program",
+      "title": "HUD considera cambios en el programa de renovacion 203(k) para impulsar la oferta de viviendas",
+      "source": "HousingWire",
+      "source_url": "https://www.housingwire.com/articles/fha-203k-renovation-program/",
+      "cover_text": "HUD finalmente esta arreglando el 203(k)?",
+      "caption": "El prestamo de renovacion FHA 203(k) ha sido durante mucho tiempo el producto ideal para renovar una casa en el papel, pero una pesadilla burocratica en la practica. Con HUD considerando cambios en los desembolsos y requisitos para consultores, la ayuda podria estar en camino para los compradores que buscan propiedades en mal estado. Asi es como estas actualizaciones propuestas podrian cambiar las reglas del juego para el parque de viviendas antiguas y los mercados de bajo inventario. Lee el analisis completo de por que los originadores han evitado este producto y que cambios podrian revivirlo.\n\nFuente : https://tinyurl.com/28vo75s4\n#SafetrustMortgage #MortgageIntelligenceDaily #firsttimehomebuyer #mortgagerates #housingmarket",
+      "hashtags": [
+        "#SafetrustMortgage",
+        "#MortgageIntelligenceDaily",
+        "#firsttimehomebuyer",
+        "#mortgagerates",
+        "#housingmarket"
+      ],
+      "hook_tag": "prestamos para renovacion",
+      "hook": "Por que el prestamo mas poderoso para comprar casa es tambien el mas ignorado.",
+      "what_happened_heading": "HUD se enfoca en el 203(k)",
+      "what_happened": "Los cambios recientes en los desembolsos y una posible revision de los requisitos de consultores senalan un importante reajuste en el producto de renovacion de la FHA. HUD quiere desbloquear la oferta de viviendas al hacer que las casas que necesitan reparaciones sean mas faciles de financiar.",
+      "breakdown": [
+        {
+          "heading": "El problema del inventario",
+          "body": "Millones de casas antiguas necesitan arreglos serios. Los compradores tradicionales no pueden adquirirlas porque la financiacion estandar exige que las propiedades esten listas para habitar."
+        },
+        {
+          "heading": "El cuello de botella actual",
+          "body": "El 203(k) une los costos de compra y renovacion en un solo prestamo. Pero las estrictas reglas de los consultores y los lentos procesos de desembolso ahuyentan a los prestamistas."
+        },
+        {
+          "heading": "Evaluacion de los desembolsos",
+          "body": "Esto es lo que realmente cambia cuando un expediente llega a la evaluacion: la gestion de los desembolsos a contratistas y las inspecciones de hitos consume una enorme capacidad operativa."
+        },
+        {
+          "heading": "Modernizacion propuesta",
+          "body": "La simplificacion de los mandatos de consultores y el desembolso de fondos reducira el riesgo del prestamista y acortara los tiempos de respuesta para los prestatarios ocupados."
+        }
+      ],
+      "my_take_heading": "Salvando el inventario una rehabilitacion a la vez",
+      "my_take": "Si HUD realmente arregla el proceso de desembolso, el 203(k) deja de ser un dolor de cabeza de cumplimiento y empieza a resolver la crisis de inventario.",
+      "action_lo": "Identifica contratistas generales locales que entiendan las pautas de FHA y crea una lista de referidos antes de que se implementen estos cambios.",
+      "action_realtor": "Deja de alejar a los compradores de casas en mal estado y empieza a tratar las propiedades en dificultades como inventario viable.",
+      "cta_question": "Promocionarias activamente los prestamos de renovacion si HUD lograra reducir la burocracia?"
+    },
+    {
+      "slug": "arm-mortgage-borrower-resets",
+      "title": "Miles de propietarios enfrentan reajustes de hipotecas de tasa ajustable",
+      "source": "CNBC",
+      "source_url": "https://www.cnbc.com/2026/10/13/arm-mortgage-borrower-resets/",
+      "cover_text": "La onda de choque de los reajustes ARM esta aqui.",
+      "caption": "Los prestatarios que obtuvieron tasas introductorias bajas en hipotecas de tasa ajustable (ARM) estan llegando a sus primeros ajustes en el peor momento posible. Con tasas mucho mas altas, los pagos mensuales estan a punto de aumentar significativamente para miles de hogares. Esto es lo que este 'shock de pago' significa para el mercado inmobiliario en general y las cargas de deuda de los consumidores. Lee el desglose completo de como estos reajustes impactan la estrategia de cartera y los riesgos de incumplimiento.\n\nFuente : https://tinyurl.com/2d3u8dv9\n#SafetrustMortgage #MortgageIntelligenceDaily #mortgagerates #housingmarket #realestateinvesting",
+      "hashtags": [
+        "#SafetrustMortgage",
+        "#MortgageIntelligenceDaily",
+        "#mortgagerates",
+        "#housingmarket",
+        "#realestateinvesting"
+      ],
+      "hook_tag": "riesgo hipotecario",
+      "hook": "Las bajas tasas introductorias estan expirando y el shock de los pagos esta por llegar.",
+      "what_happened_heading": "La realidad del reajuste ARM",
+      "what_happened": "Las hipotecas de tasa ajustable (ARM) con tasas de interes introductorias bajas estan enfrentando su primer ajuste en un momento en que las tasas predominantes son mucho mas altas. Miles de propietarios ahora enfrentan pagos mensuales de vivienda sustancialmente mas grandes.",
+      "breakdown": [
+        {
+          "heading": "La luna de miel termina",
+          "body": "Los prestatarios que obtuvieron ARMs hace anos disfrutaron de pagos iniciales artificialmente bajos. Esos periodos introductorios estan expirando a gran escala."
+        },
+        {
+          "heading": "Desajuste del entorno de tasas",
+          "body": "En lugar de ajustarse a la baja o mantenerse estables, estos prestamos se estan reajustando a un entorno de tasas de interes significativamente mas altas."
+        },
+        {
+          "heading": "Exposicion en evaluacion",
+          "body": "Esto es lo que realmente cambia cuando un expediente llega a la evaluacion: los originadores deben evaluar de cerca los limites de por vida y los saltos maximos posibles en los pagos."
+        },
+        {
+          "heading": "Urgencia de refinanciamiento",
+          "body": "Muchos de estos propietarios deberan actuar rapidamente para modificar, vender o refinanciar antes de que el 'shock de pago' provoque la morosidad."
+        }
+      ],
+      "my_take_heading": "El reloj sigue corriendo para las tasas ajustables",
+      "my_take": "Las ARM son herramientas financieras fantasticas hasta que el indice las alcanza y el prestatario no tiene donde esconderse.",
+      "action_lo": "Audita tu base de datos pasada en busca de productos ARM que se acerquen a sus fechas de ajuste y contactalos con opciones de refinanciamiento de inmediato.",
+      "action_realtor": "Comunicate con clientes anteriores que compraron con ARM; algunos podrian necesitar vender sus casas antes de que los pagos aumenten.",
+      "cta_question": "Tus prestatarios de ARM anteriores estan preparados para sus proximos ajustes de pago?"
+    },
+    {
+      "slug": "non-qm-arms-optimal-blue",
+      "title": "Datos de Optimal Blue muestran expansion del mercado Non-QM y uso de ARM",
+      "source": "HousingWire",
+      "source_url": "https://www.housingwire.com/articles/non-qm-arms-optimal-blue/",
+      "cover_text": "Non-QM silenciosamente gana terreno en el mercado.",
+      "caption": "Mientras el mercado hipotecario general lidia con tasas conformes mas altas y un volumen decreciente, los productos Non-QM y ARM se estan expandiendo silenciosamente. Los datos de Optimal Blue muestran que Non-QM alcanzo el doce por ciento de la produccion en septiembre, ya que los prestatarios buscan rutas de calificacion alternativas. Esto es por que los productos de prestamo alternativos estan aumentando a pesar de los vientos en contra del mercado. Lee el analisis completo de como los originadores estan adaptando sus carteras para sobrevivir el ciclo de tasas actual.\n\nFuente : https://tinyurl.com/2xs7g9sj\n#SafetrustMortgage #MortgageIntelligenceDaily #mortgagerates #mortgagebroker #housingmarket",
+      "hashtags": [
+        "#SafetrustMortgage",
+        "#MortgageIntelligenceDaily",
+        "#mortgagerates",
+        "#mortgagebroker",
+        "#housingmarket"
+      ],
+      "hook_tag": "tendencias del mercado",
+      "hook": "Los prestamos conformes son demasiado rigidos, por eso los prestatarios buscan otras opciones.",
+      "what_happened_heading": "El volumen Non-QM desafia la caida",
+      "what_happened": "El volumen de bloqueos de tasas Non-QM subio un ocho por ciento desde agosto, incluso cuando el volumen total de bloqueos cayo mes a mes. Non-QM represento el doce por ciento de la produccion en septiembre, ya que la tasa conforme a treinta anos termino el mes en 7.39%.",
+      "breakdown": [
+        {
+          "heading": "La presion al autoempleado",
+          "body": "Los prestatarios tradicionales con W-2 no son los unicos. Los compradores autoempleados necesitan programas de extractos bancarios para calificar en este mercado."
+        },
+        {
+          "heading": "Impacto de la presion de tasas",
+          "body": "Con las tasas conformes rondando maximos historicos, las pautas tradicionales excluyen a compradores solventes que no encajan en el molde."
+        },
+        {
+          "heading": "Flexibilidad de evaluacion",
+          "body": "Esto es lo que realmente cambia cuando un expediente llega a la evaluacion: la documentacion alternativa requiere profundas habilidades analiticas para verificar el flujo de caja real."
+        },
+        {
+          "heading": "Evolucion del producto",
+          "body": "Los ARMs y Non-QM ya no son productos marginales. Son herramientas esenciales que mantienen a los originadores en el negocio durante una desaceleracion de las compras."
+        }
+      ],
+      "my_take_heading": "Adaptarse para sobrevivir a la desaceleracion de bloqueos",
+      "my_take": "Si solo originas documentos de agencia estandar, estas ignorando una creciente porcion de compradores adinerados que necesitan soluciones creativas.",
+      "action_lo": "Repasa las pautas de estados de cuenta bancarios y agotamiento de activos para poder captar clientes autoempleados que son rechazados en otros lugares.",
+      "action_realtor": "Asociate con oficiales de prestamo especializados en productos Non-QM para ayudar a tus clientes de alto poder adquisitivo o emprendedores a comprar casas.",
+      "cta_question": "Que tan fuerte esta apoyando tu negocio actual en Non-QM y productos de prestamo alternativos?"
+    }
   ]
 }
