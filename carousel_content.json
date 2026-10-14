@@ -1,342 +1,172 @@
 {
   "carousels": [
     {
-      "slug": "pending-home-sales-low",
-      "title": "U.S. Pending Home Sales Sink Near 12-Year Low",
-      "source": "Redfin",
-      "source_url": "https://www.redfin.com/news/pending-home-sales-sink-rates/",
-      "cover_text": "Pending home sales hit a 12-year low.",
-      "caption": "When pending home sales hit a 12-year low, the mainstream press tells you the market is dead. As a 20-year mortgage veteran, I see a completely different reality on the processing side. Volume isn't disappearing; it is migrating. While high rates are choking standard purchase transactions, savvy originators are diving into alternative financing structures and untapped product lines to keep pipelines moving. If your business model relies entirely on vanilla 30-year fixed purchases, you are exposed. Read the file trends, not just the headlines.\n\nSource : https://tinyurl.com/25pek6bq\n#SafetrustMortgage #MortgageIntelligenceDaily #housingmarket #realestateagent #mortgagerates",
-      "hashtags": [
-        "#SafetrustMortgage",
-        "#MortgageIntelligenceDaily",
-        "#housingmarket",
-        "#realestateagent",
-        "#mortgagerates"
-      ],
-      "hook_tag": "market reality check",
-      "hook": "Pending sales just hit a 12-year low. Here is why the pipeline is not actually dead.",
-      "what_happened_heading": "Pending home sales drop to historic lows",
-      "what_happened": "U.S. pending home sales sank near a 12-year low as mortgage rates climbed above 7 percent. Every major metro area saw year-over-year declines, led by Seattle and Southern California.",
-      "breakdown": [
-        {
-          "heading": "The headline panic",
-          "body": "Media outlets are comparing current pending sales to the 2020 freeze and 2014 troughs. This creates widespread panic among agents and originators alike."
-        },
-        {
-          "heading": "The affordability wall",
-          "body": "When rates push past 7 percent, the DTI (how much of your income goes to debt) math breaks down instantly for median-income buyers."
-        },
-        {
-          "heading": "The underwriting bottleneck",
-          "body": "When files finally do hit underwriting, debt-to-income ratios are razor-thin. Underwriters are scrubbing every single revolving liability to make numbers fit."
-        },
-        {
-          "heading": "The hidden pipeline shift",
-          "body": "Volume is not gone; it has shifted toward non-traditional products, portfolio lending, and creative financing structures that bypass standard roadblocks."
-        }
-      ],
-      "my_take_heading": "Volume is migrating, not vanishing",
-      "my_take": "Low pending sales do not mean people do not want to buy. It means standard financing no longer matches reality.",
-      "action_lo": "Pivot your marketing away from standard rate-and-term purchases and learn advanced renovation and portfolio products.",
-      "action_realtor": "Educate buyers on buydowns and adjustable-rate mortgages before they get priced out of your local market.",
-      "cta_question": "What product is keeping your loan pipeline alive right now?"
-    },
-    {
-      "slug": "tri-merge-credit-phaseout",
-      "title": "Bob Broeksmit says tri-merge ‘won’t be around for long’",
+      "slug": "divorce-refinance-equity-buyout",
+      "title": "How equity buyouts work in a divorce refinance",
       "source": "HousingWire",
-      "source_url": "https://www.housingwire.com/articles/mba-tri-merge-credit-report/",
-      "cover_text": "The tri-merge credit report is ending soon.",
-      "caption": "The death of the tri-merge credit report is the biggest operational shift our industry has faced in a decade. When the FHFA transitions us away from the traditional three-repository model, it will change how loans are underwritten from the ground up. Scoring models will shift, pricing will fluctuate, and legacy systems will scramble to adapt. If you think this is just a minor paperwork change, you are missing the operational earthquake heading straight for your processing department.\n\nSource : https://tinyurl.com/2b5pp3mg\n#SafetrustMortgage #MortgageIntelligenceDaily #mortgagebroker #loanofficer #mortgagerates",
+      "source_url": "https://www.housingwire.com/articles/divorce-refinance-equity-buyout/",
+      "cover_text": "The divorce buyout trap nobody talks about.",
+      "caption": "Splitting up is hard enough, but trying to untangle home equity in a high-rate market is an underwriter is worst nightmare. An appraisal minus your mortgage balance sets the total equity, but getting your ex off the deed requires qualifying for a brand new loan on a single income. Here is what you need to look out for before you sign any settlement agreement. Read the full breakdown on how solo borrowing capacity dictates your next move in real estate and mortgage strategy. Share this with a client or friend navigating a family law transition.\n\nSource : https://tinyurl.com/25anyvpc\n#SafetrustMortgage #MortgageIntelligenceDaily #mortgagerates #homebuying #realestateagent",
       "hashtags": [
         "#SafetrustMortgage",
         "#MortgageIntelligenceDaily",
-        "#mortgagebroker",
-        "#loanofficer",
-        "#mortgagerates"
-      ],
-      "hook_tag": "industry disruption",
-      "hook": "The tri-merge credit report is on its way out. Here is what replaces it.",
-      "what_happened_heading": "The MBA signals the end of tri-merge",
-      "what_happened": "MBA President and CEO Bob Broeksmit stated that traditional tri-merge credit reports will not be around much longer. The FHFA is actively weighing options to transition the industry.",
-      "breakdown": [
-        {
-          "heading": "The cost burden",
-          "body": "Lenders and consumers have shouldered skyrocketing tri-merge credit report fees for years. Monopoly pricing has made standard pulls unnecessarily expensive."
-        },
-        {
-          "heading": "The data shift",
-          "body": "The new framework will likely move toward bi-merge or alternative scoring models. This alters how derogatory credit is weighted on initial submissions."
-        },
-        {
-          "heading": "The underwriting impact",
-          "body": "When a file hits underwriting under a new credit model, automated underwriting systems will read risk differently. Expect a temporary spike in suspense conditions."
-        },
-        {
-          "heading": "The software scramble",
-          "body": "Loan origination systems must update integrations quickly. Vendors who lag behind will cause massive closing delays for unsuspecting borrowers."
-        }
-      ],
-      "my_take_heading": "An operational earthquake is coming",
-      "my_take": "Moving away from tri-merge is long overdue, but the transition period will test every lender's operational readiness.",
-      "action_lo": "Ask your credit vendors what their timeline is for supporting the new FHFA-mandated credit reporting framework.",
-      "action_realtor": "Warn clients that credit score calculations and reporting standards may shift during upcoming loan applications.",
-      "cta_question": "Are your operations ready to drop the tri-merge report?"
-    },
-    {
-      "slug": "optimal-blue-usherpa",
-      "title": "Optimal Blue expands into borrower engagement with Usherpa acquisition",
-      "source": "HousingWire",
-      "source_url": "https://www.housingwire.com/articles/optimal-blue-acquires-usherpa/",
-      "cover_text": "Optimal Blue just bought Usherpa.",
-      "caption": "Optimal Blue acquiring Usherpa is not just another tech buyout; it is a clear signal that the infrastructure layer of our industry is consolidating. Pricing engines and CRM platforms are merging into single ecosystems. If you are an independent lender juggling disconnected software stacks, you are about to get outpaced by automated giants. Margin compression forces efficiency, and software platforms are racing to own the entire borrower lifecycle from first pricing to post-close retention.\n\nSource : https://tinyurl.com/23ms32a7\n#SafetrustMortgage #MortgageIntelligenceDaily #loanofficer #mortgagebroker #realestateagent",
-      "hashtags": [
-        "#SafetrustMortgage",
-        "#MortgageIntelligenceDaily",
-        "#loanofficer",
-        "#mortgagebroker",
+        "#mortgagerates",
+        "#homebuying",
         "#realestateagent"
       ],
-      "hook_tag": "tech consolidation",
-      "hook": "Optimal Blue buying Usherpa changes the software game for lenders completely.",
-      "what_happened_heading": "Optimal Blue acquires CRM platform Usherpa",
-      "what_happened": "Optimal Blue is expanding directly into borrower engagement by acquiring Usherpa. The CRM will be natively integrated directly into the Optimal Blue ecosystem.",
+      "hook_tag": "divorce finance",
+      "hook": "Why getting awarded the house in a divorce might actually break your budget.",
+      "what_happened_heading": "The math behind equity buyouts",
+      "what_happened": "An appraisal minus the remaining mortgage balance sets the total equity available to split. However, the actual buyout amount hinges entirely on solo borrowing capacity.",
       "breakdown": [
         {
-          "heading": "The platform playbook",
-          "body": "Pricing engines used to sit separately from marketing systems. Now, infrastructure providers want to control both the rate quote and the follow-up."
+          "heading": "The equity calculation",
+          "body": "First, you get a professional appraisal to determine market value. Subtract the current mortgage balance to find the total home equity."
         },
         {
-          "heading": "The retention race",
-          "body": "With origination volume tight, lenders live and die by portfolio retention. Native CRM integration means faster marketing triggers when rates fluctuate."
+          "heading": "Dividing the stake",
+          "body": "Typically, the departing spouse is owed fifty percent of that calculated equity stake. This is usually paid out via a cash-out refinance."
         },
         {
-          "heading": "The underwriting data flow",
-          "body": "When engagement data and pricing data live under one roof, loan officers can track borrower behavior long before a file hits processing."
+          "heading": "Underwriting the file",
+          "body": "Here is what this actually changes when a file hits underwriting: the remaining spouse must qualify for the larger loan entirely on their own income."
         },
         {
-          "heading": "The vendor squeeze",
-          "body": "Standalone CRM providers without pricing engine ties will face an uphill battle competing against all-in-one institutional platforms."
+          "heading": "Qualifying limits",
+          "body": "If DTI (how much of your income goes to debt) is too high on one income, the buyout fails regardless of what the court ordered."
         }
       ],
-      "my_take_heading": "The software stack is shrinking",
-      "my_take": "Disconnected tech is a liability. Lenders will increasingly demand single-login ecosystems that handle pricing, CRM, and execution.",
-      "action_lo": "Evaluate your current tech stack to see if your CRM and pricing tools talk to each other seamlessly.",
-      "action_realtor": "Partner with lenders who invest in modern tech platforms to ensure your joint clients get lightning-fast updates.",
-      "cta_question": "Will you adopt an all-in-one platform or stick to standalone tools?"
+      "my_take_heading": "The court order does not overrule guidelines",
+      "my_take": "Family court judges can order a buyout all day long, but underwriters answer to Fannie and Freddie, not the judge.",
+      "action_lo": "Review the executed separation agreement for alimony and child support terms before running initial AUS (Automated Underwriting System) findings.",
+      "action_realtor": "Advise divorcing clients to consult a loan officer before finalizing property division agreements in court.",
+      "cta_question": "How often do you see divorce settlement terms clash with basic underwriting rules?"
     },
     {
-      "slug": "private-builder-ma-premiums",
-      "title": "Why private homebuilders are getting M&A premiums right now",
+      "slug": "fha-203k-renovation-program",
+      "title": "HUD eyes 203(k) renovation changes to boost housing supply",
       "source": "HousingWire",
-      "source_url": "https://www.housingwire.com/articles/private-builder-ma-premiums/",
-      "cover_text": "Private builders command massive M&A premiums.",
-      "caption": "While the existing home market starves for inventory, private homebuilders are sitting on goldmines of secured land and commanding massive M&A premiums. According to Whelan Advisory, controlling five to ten years of lots in strong markets is the ultimate corporate flex. Public builders cannot permit fast enough, so they are buying up private pipelines instead. If you want to understand where future purchase volume is coming from, follow the dirt.\n\nSource : https://tinyurl.com/285alo7x\n#SafetrustMortgage #MortgageIntelligenceDaily #realestateinvesting #housingmarket #homebuying",
+      "source_url": "https://www.housingwire.com/articles/fha-203k-renovation-program/",
+      "cover_text": "Is HUD finally fixing the broken 203(k)?",
+      "caption": "The FHA 203(k) renovation loan has long been the ultimate fixer-upper product on paper and a total paper-pushing nightmare in practice. With HUD eyeing draw changes and consultant requirements, relief might finally be on the way for buyers looking at distressed inventory. Here is how these proposed updates could change the game for aging housing stock and low-inventory markets. Read the full analysis on why originators have avoided this product and what changes could bring it back to life.\n\nSource : https://tinyurl.com/28vo75s4\n#SafetrustMortgage #MortgageIntelligenceDaily #firsttimehomebuyer #mortgagerates #housingmarket",
       "hashtags": [
         "#SafetrustMortgage",
         "#MortgageIntelligenceDaily",
-        "#realestateinvesting",
-        "#housingmarket",
-        "#homebuying"
+        "#firsttimehomebuyer",
+        "#mortgagerates",
+        "#housingmarket"
       ],
-      "hook_tag": "market strategy",
-      "hook": "Why private homebuilders are cashing in on massive acquisition premiums right now.",
-      "what_happened_heading": "Private builders command top dollar",
-      "what_happened": "Whelan Advisory's Margaret Whelan highlighted that private homebuilders are securing premium pricing in mergers and acquisitions. Having five to ten years of controlled lots in strong markets is driving the surge.",
+      "hook_tag": "renovation lending",
+      "hook": "Why the most powerful homebuying loan in history is also the most ignored.",
+      "what_happened_heading": "HUD targets the 203(k)",
+      "what_happened": "Recent draw changes and a potential review of consultant requirements signal a major refocus on the FHA renovation product. HUD wants to unlock trapped housing supply by making fixer-uppers easier to finance.",
       "breakdown": [
         {
-          "heading": "The inventory drought",
-          "body": "Existing homeowners refuse to sell and give up low mortgage rates. This leaves new construction as the primary destination for willing buyers."
+          "heading": "The inventory problem",
+          "body": "Millions of older homes need serious work. Traditional buyers cannot touch them because standard financing requires properties to be move-in ready."
         },
         {
-          "heading": "The power of land",
-          "body": "Permitting and entitlement bottlenecks make raw dirt nearly impossible to develop quickly. Controlling finished lots is the rarest asset in real estate."
+          "heading": "The current bottleneck",
+          "body": "The 203(k) rolls purchase and renovation costs into one loan. But strict consultant rules and slow draw processes scare away lenders."
         },
         {
-          "heading": "The builder finance angle",
-          "body": "When a builder-controlled loan file hits underwriting, captive mortgage arms often have smoother approval paths due to pre-vetted project approvals."
+          "heading": "Underwriting the draws",
+          "body": "Here is what this actually changes when a file hits underwriting: managing contractor draws and milestone inspections eats up massive operational bandwidth."
         },
         {
-          "heading": "The corporate buyout wave",
-          "body": "Public builders need immediate scale to satisfy Wall Street. Buying private builders with deep lot pipelines is faster than starting from scratch."
+          "heading": "Proposed modernization",
+          "body": "Streamlining consultant mandates and fund disbursement will lower lender risk and slash turnaround times for busy borrowers."
         }
       ],
-      "my_take_heading": "Controlled dirt is the ultimate currency",
-      "my_take": "In today's market, houses are hard to build, but land is nearly impossible to replace. That is why builders hold all the cards.",
-      "action_lo": "Build direct relationships with regional sales managers at new construction sites to capture unrepresented builder traffic.",
-      "action_realtor": "Shift your focus toward new construction inventory where builders are offering rate buydowns and paying commissions.",
-      "cta_question": "Are you steering your buyers toward new construction or existing homes?"
-    }
-  ],
-  "carousels_es": [
-    {
-      "slug": "pending-home-sales-low",
-      "title": "La venta de casas pendientes en EE. UU. cerca de un mínimo de 12 años",
-      "source": "Redfin",
-      "source_url": "https://www.redfin.com/news/pending-home-sales-sink-rates/",
-      "cover_text": "La venta de casas pendientes en un mínimo de 12 años.",
-      "caption": "Cuando las ventas de viviendas pendientes alcanzan un mínimo de 12 años, la prensa dice que el mercado está muerto. Como veterano hipotecario con 20 años de experiencia, veo una realidad completamente diferente en el procesamiento. El volumen no desaparece, sino que migra. Si bien las altas tasas frenan las transacciones de compra estándar, los originadores inteligentes están incursionando en estructuras de financiamiento alternativas y líneas de productos sin explotar para mantener el flujo de trabajo. Si tu modelo de negocio se basa solo en compras con tasas fijas a 30 años, estás en riesgo. Sigue las tendencias, no solo los titulares.\n\nFuente : https://tinyurl.com/25pek6bq\n#SafetrustMortgage #MortgageIntelligenceDaily #housingmarket #realestateagent #mortgagerates",
-      "hashtags": [
-        "#SafetrustMortgage",
-        "#MortgageIntelligenceDaily",
-        "#housingmarket",
-        "#realestateagent",
-        "#mortgagerates"
-      ],
-      "hook_tag": "analizando la realidad del mercado",
-      "hook": "Las ventas pendientes cayeron a su nivel más bajo en 12 años. Así es como la demanda no está muerta.",
-      "what_happened_heading": "La venta de casas pendientes cae a mínimos históricos",
-      "what_happened": "Las ventas de viviendas pendientes en EE. UU. se desplomaron a un mínimo de casi 12 años, ya que las tasas hipotecarias subieron por encima del 7 por ciento. Todas las principales áreas metropolitanas tuvieron bajas interanuales, lideradas por Seattle y el sur de California.",
-      "breakdown": [
-        {
-          "heading": "El pánico del titular",
-          "body": "Los medios comparan las ventas pendientes actuales con la paralización de 2020 y los mínimos de 2014. Esto genera pánico entre agentes y originadores por igual."
-        },
-        {
-          "heading": "La barrera de la asequibilidad",
-          "body": "Cuando las tasas superan el 7 por ciento, el cálculo del DTI (cuánto de tus ingresos va a deudas) se vuelve insostenible para compradores de ingresos medios."
-        },
-        {
-          "heading": "El cuello de botella del asesor",
-          "body": "Cuando los expedientes llegan al asesor, los índices de deuda-ingresos son muy ajustados. Los asesores revisan cada pasivo para que los números cuadren."
-        },
-        {
-          "heading": "El cambio oculto en el flujo de trabajo",
-          "body": "El volumen no se fue, se ha movido hacia productos no tradicionales, préstamos de cartera y estructuras de financiación creativas que evitan los obstáculos estándar."
-        }
-      ],
-      "my_take_heading": "El volumen está migrando, no desapareciendo",
-      "my_take": "Las bajas ventas pendientes no significan que la gente no quiera comprar. Significa que el financiamiento estándar ya no coincide con la realidad del mercado.",
-      "action_lo": "Cambia tu enfoque de marketing de las compras estándar y aprende sobre productos de renovación avanzados y de cartera.",
-      "action_realtor": "Informa a los compradores sobre las reducciones de tasas (buydowns) y las hipotecas de tasa ajustable antes de que se queden sin opciones en tu mercado local.",
-      "cta_question": "¿Qué producto mantiene vivo tu flujo de préstamos ahora mismo?"
+      "my_take_heading": "Saving inventory one rehab at a time",
+      "my_take": "If HUD actually fixes the draw process, the 203(k) stops being a compliance headache and starts solving the inventory crisis.",
+      "action_lo": "Identify local general contractors who understand FHA guidelines and build a referral bench before these changes drop.",
+      "action_realtor": "Stop steering buyers away from ugly houses and start treating distressed listings as viable inventory.",
+      "cta_question": "Would you actively market renovation loans if HUD successfully cuts the red tape?"
     },
     {
-      "slug": "tri-merge-credit-phaseout",
-      "title": "Bob Broeksmit dice que la unión triple de crédito 'no durará mucho'",
-      "source": "HousingWire",
-      "source_url": "https://www.housingwire.com/articles/mba-tri-merge-credit-report/",
-      "cover_text": "El reporte de crédito tri-merge terminará pronto.",
-      "caption": "El fin del informe de crédito de unión triple (tri-merge) es el cambio operativo más grande que nuestra industria ha enfrentado en una década. Cuando la FHFA nos aleje del modelo tradicional de tres fuentes, cambiará cómo se evalúan los préstamos desde cero. Los modelos de calificación se alterarán, los precios fluctuarán y los sistemas existentes se adaptarán. Si crees que esto es solo un cambio de papeleo menor, te estás perdiendo el terremoto operativo que se dirige directamente a tu departamento de procesamiento.\n\nFuente : https://tinyurl.com/2b5pp3mg\n#SafetrustMortgage #MortgageIntelligenceDaily #mortgagebroker #loanofficer #mortgagerates",
+      "slug": "arm-mortgage-borrower-resets",
+      "title": "Thousands of homeowners face adjustable-rate mortgage resets",
+      "source": "CNBC",
+      "source_url": "https://www.cnbc.com/2026/10/13/arm-mortgage-borrower-resets/",
+      "cover_text": "The ARM reset shock wave is here.",
+      "caption": "Borrowers who locked in low introductory rates on adjustable-rate mortgages are hitting their first adjustments at the worst possible time. With rates sitting much higher, monthly payments are about to spike significantly for thousands of households. Here is what this payment shock means for the broader housing market and consumer debt loads. Read the full breakdown on how these resets impact pipeline strategy and default risks.\n\nSource : https://tinyurl.com/2d3u8dv9\n#SafetrustMortgage #MortgageIntelligenceDaily #mortgagerates #housingmarket #realestateinvesting",
       "hashtags": [
         "#SafetrustMortgage",
         "#MortgageIntelligenceDaily",
+        "#mortgagerates",
+        "#housingmarket",
+        "#realestateinvesting"
+      ],
+      "hook_tag": "mortgage risk",
+      "hook": "Low introductory rates are expiring, and the payment shock is about to hit.",
+      "what_happened_heading": "The ARM reset reality",
+      "what_happened": "Adjustable-rate mortgages with low introductory interest rates are facing their first adjustment at a time when prevailing rates are much higher. Thousands of homeowners now face substantially larger monthly housing payments.",
+      "breakdown": [
+        {
+          "heading": "The honeymoon ends",
+          "body": "Borrowers who took out ARMs years ago enjoyed artificially low initial payments. Those introductory periods are now expiring on a massive scale."
+        },
+        {
+          "heading": "Rate environment mismatch",
+          "body": "Instead of adjusting downward or sideways, these loans are resetting into a significantly higher interest rate environment."
+        },
+        {
+          "heading": "Underwriting exposure",
+          "body": "Here is what this actually changes when a file hits underwriting: originators must closely evaluate lifetime caps and maximum possible payment jumps."
+        },
+        {
+          "heading": "Refinance urgency",
+          "body": "Many of these homeowners will need to act fast to modify, sell, or refinance before payment shock triggers delinquency."
+        }
+      ],
+      "my_take_heading": "The ticking clock on adjustable rates",
+      "my_take": "ARMs are fantastic financial tools until the index catches up and the borrower has nowhere to hide.",
+      "action_lo": "Audit your past database for ARM products nearing their adjustment dates and reach out with refinancing options immediately.",
+      "action_realtor": "Check in with past clients who bought with ARMs; some may need to list their homes before payments jump.",
+      "cta_question": "Are your past ARM borrowers prepared for their upcoming payment adjustments?"
+    },
+    {
+      "slug": "non-qm-arms-optimal-blue",
+      "title": "Optimal Blue data shows non-QM lending, ARM usage is expanding",
+      "source": "HousingWire",
+      "source_url": "https://www.housingwire.com/articles/non-qm-arms-optimal-blue/",
+      "cover_text": "Non-QM is quietly eating market share.",
+      "caption": "While the overall mortgage market deals with higher conforming rates and shrinking volume, non-QM and ARM products are quietly expanding. Optimal Blue data shows non-QM hitting twelve percent of production in September as borrowers look for alternative qualification paths. Here is why alternative loan products are surging despite broader market headwinds. Read the full analysis on how originators are adapting their pipelines to survive the current rate cycle.\n\nSource : https://tinyurl.com/2xs7g9sj\n#SafetrustMortgage #MortgageIntelligenceDaily #mortgagerates #mortgagebroker #housingmarket",
+      "hashtags": [
+        "#SafetrustMortgage",
+        "#MortgageIntelligenceDaily",
+        "#mortgagerates",
         "#mortgagebroker",
-        "#loanofficer",
-        "#mortgagerates"
+        "#housingmarket"
       ],
-      "hook_tag": "impacto en la industria",
-      "hook": "El reporte de crédito tri-merge está desapareciendo. Esto es lo que lo reemplazará.",
-      "what_happened_heading": "La MBA anuncia el fin del tri-merge",
-      "what_happened": "El presidente y CEO de MBA, Bob Broeksmit, afirmó que los informes de crédito tradicionales de unión triple no durarán mucho. La FHFA está considerando opciones para hacer la transición de la industria.",
+      "hook_tag": "market trends",
+      "hook": "Standard conforming loans are too rigid, so borrowers are voting with their feet.",
+      "what_happened_heading": "Non-QM volume defies the slump",
+      "what_happened": "Non-QM rate-lock volume rose eight percent from August even while total lock volume fell month over month. Non-QM represented twelve percent of production in September as the thirty-year conforming rate ended the month at 7.39%.",
       "breakdown": [
         {
-          "heading": "La carga de los costos",
-          "body": "Prestadores y consumidores han pagado tarifas exorbitantes por informes de crédito tri-merge durante años. Los precios de monopolio hicieron que las consultas estándar fueran innecesariamente costosas."
+          "heading": "The self-employed squeeze",
+          "body": "Traditional W-2 borrowers are not the only game in town. Self-employed buyers need bank statement programs to qualify in this market."
         },
         {
-          "heading": "El cambio de datos",
-          "body": "El nuevo marco probablemente se moverá hacia modelos de calificación de unión doble (bi-merge) o alternativos. Esto altera cómo se pondera el crédito negativo en las solicitudes iniciales."
+          "heading": "Rate pressure impact",
+          "body": "With conforming rates lingering near historic highs, traditional guidelines exclude creditworthy buyers who do not fit the box."
         },
         {
-          "heading": "El impacto en el asesor",
-          "body": "Cuando un archivo llegue a asesoría con un nuevo modelo de crédito, los sistemas de asesoría automática interpretarán el riesgo de manera diferente. Espera un aumento temporal en las condiciones de suspensión."
+          "heading": "Underwriting flexibility",
+          "body": "Here is what this actually changes when a file hits underwriting: alternative documentation requires deep analytical skills to verify true cash flow."
         },
         {
-          "heading": "La carrera del software",
-          "body": "Los sistemas de originación de préstamos deben actualizar sus integraciones rápidamente. Los proveedores que se retrasen causarán demoras masivas para los prestatarios."
+          "heading": "Product evolution",
+          "body": "ARMs and non-QM are no longer fringe products. They are essential tools keeping originators in business during a purchase slowdown."
         }
       ],
-      "my_take_heading": "Se acerca un terremoto operativo",
-      "my_take": "El cambio del tri-merge ya se esperaba, pero la transición pondrá a prueba la preparación operativa de cada prestamista.",
-      "action_lo": "Pregunta a tus proveedores de crédito cuál es su cronograma para admitir el nuevo marco de informes de crédito exigido por la FHFA.",
-      "action_realtor": "Advierte a los clientes que los cálculos de puntaje de crédito y los estándares de informes podrían cambiar durante las próximas solicitudes de préstamo.",
-      "cta_question": "¿Están tus operaciones listas para dejar el informe tri-merge?"
-    },
-    {
-      "slug": "optimal-blue-usherpa",
-      "title": "Optimal Blue se expande a la interacción con prestatarios con la adquisición de Usherpa",
-      "source": "HousingWire",
-      "source_url": "https://www.housingwire.com/articles/optimal-blue-acquires-usherpa/",
-      "cover_text": "Optimal Blue acaba de comprar Usherpa.",
-      "caption": "La adquisición de Usherpa por parte de Optimal Blue no es solo otra compra tecnológica; es una clara señal de que la capa de infraestructura de nuestra industria se está consolidando. Los motores de precios y las plataformas CRM se están fusionando en ecosistemas únicos. Si eres un prestamista independiente que maneja pilas de software desconectadas, serás superado por gigantes automatizados. La compresión de márgenes exige eficiencia, y las plataformas de software están compitiendo por controlar todo el ciclo de vida del prestatario, desde la primera cotización hasta la retención post-cierre.\n\nFuente : https://tinyurl.com/23ms32a7\n#SafetrustMortgage #MortgageIntelligenceDaily #loanofficer #mortgagebroker #realestateagent",
-      "hashtags": [
-        "#SafetrustMortgage",
-        "#MortgageIntelligenceDaily",
-        "#loanofficer",
-        "#mortgagebroker",
-        "#realestateagent"
-      ],
-      "hook_tag": "consolidación tecnológica",
-      "hook": "La compra de Usherpa por Optimal Blue cambia el juego del software para los prestamistas.",
-      "what_happened_heading": "Optimal Blue adquiere la plataforma CRM Usherpa",
-      "what_happened": "Optimal Blue se está expandiendo directamente a la interacción con el prestatario al adquirir Usherpa. El CRM se integrará de forma nativa directamente en el ecosistema de Optimal Blue.",
-      "breakdown": [
-        {
-          "heading": "El plan de la plataforma",
-          "body": "Los motores de precios solían estar separados de los sistemas de marketing. Ahora, los proveedores de infraestructura quieren controlar tanto la cotización de tasas como el seguimiento."
-        },
-        {
-          "heading": "La carrera por la retención",
-          "body": "Con un volumen de originación limitado, los prestamistas dependen de la retención de cartera. La integración nativa de CRM significa un marketing más rápido cuando las tasas fluctúan."
-        },
-        {
-          "heading": "El flujo de datos de asesoría",
-          "body": "Cuando los datos de interacción y de precios viven bajo un mismo techo, los agentes de préstamos pueden rastrear el comportamiento del prestatario mucho antes de que un archivo entre en procesamiento."
-        },
-        {
-          "heading": "La presión del proveedor",
-          "body": "Los proveedores de CRM independientes sin vínculos con motores de precios enfrentarán una batalla cuesta arriba compitiendo contra plataformas institucionales todo en uno."
-        }
-      ],
-      "my_take_heading": "La pila de software se está reduciendo",
-      "my_take": "La tecnología desconectada es un riesgo. Los prestamistas exigirán cada vez más ecosistemas de inicio de sesión único que manejen precios, CRM y ejecución.",
-      "action_lo": "Evalúa tu pila tecnológica actual para ver si tus herramientas de CRM y precios se comunican entre sí sin problemas.",
-      "action_realtor": "Asóciate con prestamistas que inviertan en plataformas tecnológicas modernas para asegurar que tus clientes conjuntos reciban actualizaciones muy rápidas.",
-      "cta_question": "¿Adoptarás una plataforma todo en uno o seguirás con herramientas individuales?"
-    },
-    {
-      "slug": "private-builder-ma-premiums",
-      "title": "¿Por qué los constructores privados obtienen primas de fusión y adquisición ahora?",
-      "source": "HousingWire",
-      "source_url": "https://www.housingwire.com/articles/private-builder-ma-premiums/",
-      "cover_text": "Constructores privados logran grandes primas por fusiones y adquisiciones.",
-      "caption": "Mientras el mercado de viviendas existentes carece de inventario, los constructores privados poseen minas de oro en terrenos seguros y obtienen grandes primas por fusiones y adquisiciones. Según Whelan Advisory, controlar de cinco a diez años de lotes en mercados fuertes es el mayor poder corporativo. Los constructores públicos no pueden obtener permisos lo suficientemente rápido, por lo que están comprando las carteras de los privados. Si quieres entender de dónde vendrá el futuro volumen de compras, sigue la tierra.\n\nFuente : https://tinyurl.com/285alo7x\n#SafetrustMortgage #MortgageIntelligenceDaily #realestateinvesting #housingmarket #homebuying",
-      "hashtags": [
-        "#SafetrustMortgage",
-        "#MortgageIntelligenceDaily",
-        "#realestateinvesting",
-        "#housingmarket",
-        "#homebuying"
-      ],
-      "hook_tag": "estrategia de mercado",
-      "hook": "Por qué los constructores de viviendas privados están obteniendo grandes primas de adquisición ahora mismo.",
-      "what_happened_heading": "Los constructores privados obtienen el mejor precio",
-      "what_happened": "Margaret Whelan de Whelan Advisory destacó que los constructores de viviendas privados están asegurando precios premium en fusiones y adquisiciones. Tener de cinco a diez años de lotes controlados en mercados fuertes está impulsando este aumento.",
-      "breakdown": [
-        {
-          "heading": "La escasez de inventario",
-          "body": "Los dueños de casas existentes se niegan a vender y a renunciar a sus bajas tasas hipotecarias. Esto deja la nueva construcción como la principal opción para compradores."
-        },
-        {
-          "heading": "El poder de la tierra",
-          "body": "Los cuellos de botella en permisos hacen que la tierra virgen sea casi imposible de desarrollar rápidamente. Controlar lotes terminados es el activo más escaso en bienes raíces."
-        },
-        {
-          "heading": "El ángulo de financiamiento del constructor",
-          "body": "Cuando un expediente de préstamo controlado por el constructor llega a asesoría, los brazos hipotecarios cautivos suelen tener rutas de aprobación más fluidas debido a aprobaciones de proyectos ya revisadas."
-        },
-        {
-          "heading": "La ola de compras corporativas",
-          "body": "Los constructores públicos necesitan una escala inmediata para satisfacer a Wall Street. Comprar constructores privados con grandes carteras de lotes es más rápido que empezar de cero."
-        }
-      ],
-      "my_take_heading": "La tierra controlada es la moneda máxima",
-      "my_take": "En el mercado actual, las casas son difíciles de construir, pero la tierra es casi imposible de reemplazar. Por eso, los constructores tienen todas las ventajas.",
-      "action_lo": "Crea relaciones directas con los gerentes de ventas regionales en sitios de nueva construcción para capturar el tráfico de constructores no representados.",
-      "action_realtor": "Dirige tu enfoque hacia el inventario de nueva construcción, donde los constructores ofrecen reducciones de tasas (buydowns) y pagan comisiones.",
-      "cta_question": "¿Estás guiando a tus compradores hacia casas nuevas o existentes?"
+      "my_take_heading": "Adapting to survive the lock slowdown",
+      "my_take": "If you only originate standard agency paper, you are ignoring a growing slice of affluent buyers who need creative solutions.",
+      "action_lo": "Brush up on bank statement and asset-depletion guidelines so you can capture self-employed clients getting turned down elsewhere.",
+      "action_realtor": "Partner with loan officers who specialize in non-QM products to help your high-net-worth or entrepreneurial clients buy homes.",
+      "cta_question": "How heavily is your current business leaning into non-QM and alternative loan products?"
     }
   ]
 }
