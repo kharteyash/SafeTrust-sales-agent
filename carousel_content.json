@@ -168,5 +168,175 @@
       "action_realtor": "Ensure investment property contracts clearly reflect true intent to avoid catastrophic occupancy fraud flags.",
       "cta_question": "Are your current operations ready for automated GSE scrutiny on every single file?"
     }
+  ],
+  "carousels_es": [
+    {
+      "slug": "sellers-vs-buyers-gap",
+      "title": "Los vendedores de casas superan en un 63 por ciento a los compradores",
+      "source": "Redfin",
+      "source_url": "https://www.redfin.com/news/buyers-vs-sellers-september-2026/",
+      "cover_text": "Vendedores superan a compradores en 63 por ciento",
+      "caption": "El mercado de la vivienda acaba de sufrir un desequilibrio enorme que la mayoría de los agentes inmobiliarios están interpretando mal. Los datos de Redfin muestran que los vendedores de casas superaron a los compradores en un 62.6% en septiembre. Esta es la brecha más grande desde la crisis de 2013, después de la recesión. Aunque los titulares hablan del poder del comprador, esto es lo que significa para tu negocio: el inventario no se mueve, las caídas de precios se aceleran y las cancelaciones aumentan. Si eres asesor de préstamos o agente y lo tratas como un mercado de primavera normal, estás perdiendo tratos. Sigue leyendo para saber cómo cambiar tu estrategia ahora mismo.\n\nFuente : https://tinyurl.com/26zcap8s\n#SafetrustMortgage #MortgageIntelligenceDaily #housingmarket #realestateagent #homebuying",
+      "hashtags": [
+        "#SafetrustMortgage",
+        "#MortgageIntelligenceDaily",
+        "#housingmarket",
+        "#realestateagent",
+        "#homebuying"
+      ],
+      "hook_tag": "Cambio en el mercado",
+      "hook": "Los vendedores superan a los compradores en 63%, la brecha más grande desde 2013.",
+      "what_happened_heading": "La mayor brecha del mercado en trece años",
+      "what_happened": "En septiembre, los vendedores de casas superaron a los compradores en un 62.6% estimado, estableciendo un récord por cuarto mes consecutivo. Las ventas de casas pendientes también rondaron su nivel más bajo en 12 años, mientras que las cancelaciones alcanzaron niveles extremos.",
+      "breakdown": [
+        {
+          "heading": "La cantidad de compradores disminuyó",
+          "body": "Las tasas de interés más altas y los precios de las casas que no bajan hicieron que el número de compradores activos cayera al nivel más bajo desde 2013."
+        },
+        {
+          "heading": "Los vendedores se acumulan",
+          "body": "Por otro lado, los propietarios frustrados siguen listando propiedades a pesar de las altas tasas, llevando el número total de vendedores a máximos históricos."
+        },
+        {
+          "heading": "Aumenta la fricción en la aprobación",
+          "body": "Esto es lo que cambia cuando un expediente llega a aprobación: las caídas frecuentes de precios significan que los valores de tasación son volátiles y están sujetos a escrutinio intenso."
+        },
+        {
+          "heading": "Las cancelaciones están aumentando",
+          "body": "Con los compradores teniendo más poder de negociación, los contratos de compra se están deshaciendo a las tasas más altas vistas desde los primeros meses de la pandemia."
+        }
+      ],
+      "my_take_heading": "El apalancamiento es una ilusión sin poder de financiación",
+      "my_take": "Todos piensan que un mercado de compradores significa victorias fáciles. En realidad, significa guiar a compradores que tienen miedo de pagar de más.",
+      "action_lo": "Estructura préstamos de compra con reducciones temporales de tasa (buydowns) incorporadas para dar certeza de pago a los compradores ansiosos.",
+      "action_realtor": "Busca propiedades con historial de caídas de precio donde los vendedores estén motivados a negociar concesiones.",
+      "cta_question": "¿Cómo ayudas a los clientes a navegar las diferencias en las tasaciones con este excedente de vendedores?"
+    },
+    {
+      "slug": "cpi-inflation-spike",
+      "title": "La inflación alcanza el 3.7 por ciento y aplasta el repunte de las tasas",
+      "source": "The Mortgage Reports",
+      "source_url": "https://themortgagereports.com/135278/september-cpi-2026-mortgage-rates",
+      "cover_text": "La inflación alta acaba de matar el repunte de las tasas",
+      "caption": "Olvídate de un camino suave hacia los siete bajos para las tasas hipotecarias. La inflación de septiembre fue más alta de lo esperado, alcanzando el 3.7%, lo que disparó los rendimientos de los bonos y puso en grave riesgo las recientes mejoras en los costos de los préstamos. Los asesores de préstamos que contaban con un cuarto trimestre fácil se llevarán una sorpresa, ya que la Reserva Federal considera un posible aumento de tasas. Esta volatilidad cambia cómo bloqueamos los préstamos y manejamos las expectativas del cliente. Aquí te mostramos cómo mantener tu negocio en movimiento cuando el mercado de bonos se vuelve en tu contra.\n\nFuente : https://tinyurl.com/2bvnfmjz\n#SafetrustMortgage #MortgageIntelligenceDaily #mortgagerates #housingmarket #mortgagebroker",
+      "hashtags": [
+        "#SafetrustMortgage",
+        "#MortgageIntelligenceDaily",
+        "#mortgagerates",
+        "#housingmarket",
+        "#mortgagebroker"
+      ],
+      "hook_tag": "Perspectiva de tasas",
+      "hook": "La inflación más alta acaba de borrar las mejoras recientes en las tasas hipotecarias.",
+      "what_happened_heading": "El índice de precios al consumidor sube",
+      "what_happened": "La inflación de septiembre llegó al 3.7% interanual, superando las previsiones y deshaciendo el progreso reciente en el mercado de bonos. El informe, más alto de lo esperado, elevó de inmediato los rendimientos de los bonos y congeló el alivio en las tasas hipotecarias.",
+      "breakdown": [
+        {
+          "heading": "La sorpresa de la inflación subyacente",
+          "body": "El IPC subyacente sin redondear fue mucho más alto de lo que predijeron los economistas, lo que indica que la inflación sigue siendo persistente en sectores clave."
+        },
+        {
+          "heading": "Las expectativas de la Fed cambian al instante",
+          "body": "La probabilidad de un aumento de tasas de la Reserva Federal pasó a primer plano, revirtiendo semanas de optimismo entre los inversionistas de bonos."
+        },
+        {
+          "heading": "Presión en la gestión de bloqueo de préstamos",
+          "body": "Esto es lo que cambia cuando un expediente llega a aprobación: mantener tasas flotantes en este entorno es una apuesta costosa para los prestatarios."
+        },
+        {
+          "heading": "La asequibilidad sufre otro golpe",
+          "body": "Con las tasas nuevamente al alza, los pagos mensuales aumentan aún más, dejando a compradores marginales fuera del rango de calificación."
+        }
+      ],
+      "my_take_heading": "Flotar es dinero perdido en un mercado de bonos volátil",
+      "my_take": "Deja de intentar pronosticar el mercado de bonos para tus clientes. Bloquea la tasa temprano y estructura el pago, no solo la tasa.",
+      "action_lo": "Aplica políticas estrictas de reducción de tasas (float-down) y educa a los prestatarios sobre por qué bloquear hoy protege su relación deuda-ingresos.",
+      "action_realtor": "Recuerda a los compradores que se enfoquen en el precio de la casa y los términos, porque esperar una baja de tasas podría costarles más.",
+      "cta_question": "¿Tus prestatarios están aceptando tasas más altas o pausando por completo su búsqueda de casa?"
+    },
+    {
+      "slug": "fannie-mae-rate-forecast",
+      "title": "Fannie Mae eleva drásticamente su pronóstico de tasas para 2027",
+      "source": "CNBC",
+      "source_url": "https://www.cnbc.com/2026/10/14/fannie-mae-sharply-raises-mortgage-rate-forecast-for-2027-.html",
+      "cover_text": "Fannie Mae admite que las tasas altas son permanentes",
+      "caption": "La idea de que las tasas hipotecarias bajarán mágicamente a la normalidad histórica pronto acaba de recibir un golpe directo. Fannie Mae acaba de publicar una previsión revisada para 2027, y los números son significativamente más altos que las estimaciones anteriores. Si todo tu modelo de negocio depende de una ola masiva de refinanciamientos el próximo año, necesitas un nuevo plan ahora mismo. Las originaciones de compra y el financiamiento alternativo son las únicas opciones. Analicemos lo que esta realidad a largo plazo significa para tu volumen.\n\nFuente : https://tinyurl.com/256kk7hx\n#SafetrustMortgage #MortgageIntelligenceDaily #mortgagerates #housingmarket #loanofficer",
+      "hashtags": [
+        "#SafetrustMortgage",
+        "#MortgageIntelligenceDaily",
+        "#mortgagerates",
+        "#housingmarket",
+        "#loanofficer"
+      ],
+      "hook_tag": "Pronóstico de la industria",
+      "hook": "El nuevo pronóstico de Fannie Mae demuestra que las tasas hipotecarias altas llegaron para quedarse.",
+      "what_happened_heading": "Una revisión importante de las expectativas de tasas futuras",
+      "what_happened": "Fannie Mae publicó su pronóstico actualizado de vivienda, aumentando drásticamente sus predicciones de tasas hipotecarias para 2027, muy por encima de las estimaciones anteriores. El ajuste refleja presiones económicas persistentes que mantienen los costos de endeudamiento elevados en el futuro previsible.",
+      "breakdown": [
+        {
+          "heading": "El boom de refinanciamiento se canceló",
+          "body": "Millones de propietarios con tasas bajas no tienen incentivos para refinanciar pronto, privando a los prestamistas del volumen tradicional de refinanciamientos."
+        },
+        {
+          "heading": "El volumen de agencia sigue disminuyendo",
+          "body": "A medida que los préstamos convencionales de agencia se contraen, los originadores deben diversificar sus productos para sobrevivir a la continua presión sobre los márgenes."
+        },
+        {
+          "heading": "Realidad en la aprobación",
+          "body": "Esto es lo que cambia cuando un expediente llega a aprobación: las relaciones deuda-ingresos enfrentarán presión permanente sin alivio de tasas."
+        },
+        {
+          "heading": "El giro estratégico necesario",
+          "body": "Los prestamistas y agentes deben construir modelos de negocio que prosperen en un entorno de compra con altas tasas y baja rotación."
+        }
+      ],
+      "my_take_heading": "La esperanza no es una estrategia de negocios en un mundo de tasas altas",
+      "my_take": "Si estás esperando que las tasas bajen a un cinco por ciento para salvar tu producción, ya estás fuera del negocio.",
+      "action_lo": "Desarrolla una profunda experiencia en productos Non-QM (hipotecas no calificadas) y de capital hipotecario para capturar el capital inmovilizado.",
+      "action_realtor": "Educa a los vendedores que esperar tasas más bajas para listar significa competir más tarde con un inventario mayor inmovilizado.",
+      "cta_question": "¿Cómo está tu equipo de liderazgo ajustando los objetivos de producción para los próximos veinticuatro meses?"
+    },
+    {
+      "slug": "gse-buyback-tech",
+      "title": "Las GSEs implementan nueva tecnología para identificar riesgos de recompra",
+      "source": "HousingWire",
+      "source_url": "https://www.housingwire.com/articles/gse-fannie-freddie-tech/",
+      "cover_text": "Nueva tecnología de Fannie y Freddie busca defectos",
+      "caption": "Fannie Mae y Freddie Mac están actualizando su tecnología, y cada ejecutivo hipotecario debe prestar atención. Las GSEs están implementando análisis avanzados para detectar riesgos de ocupación y defectos de ingresos antes de que los préstamos lleguen al mercado secundario. Esto es un aviso directo para los prestamistas con procesos de preaprobación descuidados. Si tu equipo de operaciones depende de verificaciones manuales, tu exposición a recompras acaba de dispararse. Así es como esto cambia la fabricación de préstamos desde la raíz.\n\nFuente : https://tinyurl.com/28v8ca42\n#SafetrustMortgage #MortgageIntelligenceDaily #mortgagebroker #loanofficer #firsttimehomebuyer",
+      "hashtags": [
+        "#SafetrustMortgage",
+        "#MortgageIntelligenceDaily",
+        "#mortgagebroker",
+        "#loanofficer",
+        "#firsttimehomebuyer"
+      ],
+      "hook_tag": "Riesgo de cumplimiento",
+      "hook": "Las GSEs usan nueva tecnología para detectar defectos de ocupación e ingresos temprano.",
+      "what_happened_heading": "Nuevas herramientas para la calidad del préstamo en el origen",
+      "what_happened": "Los gigantes hipotecarios Fannie Mae y Freddie Mac están implementando tecnología sofisticada diseñada para detectar riesgos de ocupación y defectos de ingresos temprano en el ciclo de originación. La iniciativa busca reducir drásticamente las responsabilidades de recompra al detectar errores antes de la entrega.",
+      "breakdown": [
+        {
+          "heading": "Análisis de datos inicial",
+          "body": "Los nuevos sistemas verifican datos del prestatario contra grandes registros públicos para corroborar al instante las declaraciones de ocupación de residencia principal."
+        },
+        {
+          "heading": "Detección de defectos de ingresos",
+          "body": "Herramientas automatizadas escanean declaraciones de impuestos y recibos de pago buscando inconsistencias que los asesores manuales podrían pasar por alto en momentos de mucho trabajo."
+        },
+        {
+          "heading": "Control de calidad en la aprobación",
+          "body": "Esto es lo que cambia cuando un expediente llega a aprobación: cada hecho declarado debe ser impecable contra las verificaciones algorítmicas."
+        },
+        {
+          "heading": "Reducción de exposición a recompras",
+          "body": "Al endurecer los estándares en el punto de venta, las GSEs transfieren la carga de la prevención de defectos directamente a los originadores."
+        }
+      ],
+      "my_take_heading": "A los algoritmos no les importa tu relación con el prestatario",
+      "my_take": "Si tu equipo de operaciones se basa en conjeturas para ingresos de trabajadores independientes, la nueva tecnología de las GSEs devorará tu patrimonio en recompras.",
+      "action_lo": "Audita tu proceso de preaprobación e implementa herramientas rigurosas de verificación de ingresos antes de enviar expedientes a procesamiento.",
+      "action_realtor": "Asegúrate de que los contratos de propiedades de inversión reflejen claramente la verdadera intención para evitar señales catastróficas de fraude de ocupación.",
+      "cta_question": "¿Están tus operaciones actuales listas para el escrutinio automatizado de las GSEs en cada expediente?"
+    }
   ]
 }
