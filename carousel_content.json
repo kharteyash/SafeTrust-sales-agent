@@ -1,342 +1,172 @@
 {
   "carousels": [
     {
-      "slug": "divorce-refinance-equity-buyout",
-      "title": "How equity buyouts work in a divorce refinance",
-      "source": "HousingWire",
-      "source_url": "https://www.housingwire.com/articles/divorce-refinance-equity-buyout/",
-      "cover_text": "The divorce buyout trap nobody talks about.",
-      "caption": "Splitting up is hard enough, but trying to untangle home equity in a high-rate market is an underwriter is worst nightmare. An appraisal minus your mortgage balance sets the total equity, but getting your ex off the deed requires qualifying for a brand new loan on a single income. Here is what you need to look out for before you sign any settlement agreement. Read the full breakdown on how solo borrowing capacity dictates your next move in real estate and mortgage strategy. Share this with a client or friend navigating a family law transition.\n\nSource : https://tinyurl.com/25anyvpc\n#SafetrustMortgage #MortgageIntelligenceDaily #mortgagerates #homebuying #realestateagent",
+      "slug": "sellers-vs-buyers-gap",
+      "title": "Home Sellers Outnumber Buyers by 63 Percent",
+      "source": "Redfin",
+      "source_url": "https://www.redfin.com/news/buyers-vs-sellers-september-2026/",
+      "cover_text": "Sellers outnumber buyers by sixty three percent",
+      "caption": "The housing market just hit a massive imbalance that most realtors are completely misreading. Redfin data shows home sellers outnumbered buyers by 62.6% in September, creating the biggest gap since the post-recession crash in 2013. While the headlines scream about buyer leverage, here is what this actually means for your pipeline: inventory is sitting, price drops are accelerating, and cancellations are climbing. If you are a loan officer or agent treating this like a normal spring market, you are losing deals. Read on to see how to pivot your strategy right now.\n\nSource : https://tinyurl.com/26zcap8s\n#SafetrustMortgage #MortgageIntelligenceDaily #housingmarket #realestateagent #homebuying",
       "hashtags": [
         "#SafetrustMortgage",
         "#MortgageIntelligenceDaily",
-        "#mortgagerates",
-        "#homebuying",
-        "#realestateagent"
+        "#housingmarket",
+        "#realestateagent",
+        "#homebuying"
       ],
-      "hook_tag": "divorce finance",
-      "hook": "Why getting awarded the house in a divorce might actually break your budget.",
-      "what_happened_heading": "The math behind equity buyouts",
-      "what_happened": "An appraisal minus the remaining mortgage balance sets the total equity available to split. However, the actual buyout amount hinges entirely on solo borrowing capacity.",
+      "hook_tag": "Market Shift",
+      "hook": "Sellers outnumber buyers by 63 percent, creating the widest gap since 2013.",
+      "what_happened_heading": "The widest market gap in thirteen years",
+      "what_happened": "Home sellers outnumbered buyers by an estimated 62.6% in September, setting a record for the fourth consecutive month. Pending home sales also hovered near a 12-year low while cancellations reached extreme levels.",
       "breakdown": [
         {
-          "heading": "The equity calculation",
-          "body": "First, you get a professional appraisal to determine market value. Subtract the current mortgage balance to find the total home equity."
+          "heading": "The buyer pool dried up",
+          "body": "Higher interest rates and stubborn home prices pushed the number of active buyers down to the lowest level in records dating back to 2013."
         },
         {
-          "heading": "Dividing the stake",
-          "body": "Typically, the departing spouse is owed fifty percent of that calculated equity stake. This is usually paid out via a cash-out refinance."
+          "heading": "Sellers are piling up",
+          "body": "On the flip side, frustrated homeowners keep listing properties despite high rates, driving the total number of sellers to historic highs."
         },
         {
-          "heading": "Underwriting the file",
-          "body": "Here is what this actually changes when a file hits underwriting: the remaining spouse must qualify for the larger loan entirely on their own income."
+          "heading": "Underwriting friction increases",
+          "body": "Here is what this actually changes when a file hits underwriting: frequent price drops mean appraisal values are volatile and subject to intense scrutiny."
         },
         {
-          "heading": "Qualifying limits",
-          "body": "If DTI (how much of your income goes to debt) is too high on one income, the buyout fails regardless of what the court ordered."
+          "heading": "Cancellations are spiking",
+          "body": "With buyers holding more negotiating power, purchase contracts are falling apart at the highest rates seen since the early pandemic months."
         }
       ],
-      "my_take_heading": "The court order does not overrule guidelines",
-      "my_take": "Family court judges can order a buyout all day long, but underwriters answer to Fannie and Freddie, not the judge.",
-      "action_lo": "Review the executed separation agreement for alimony and child support terms before running initial AUS (Automated Underwriting System) findings.",
-      "action_realtor": "Advise divorcing clients to consult a loan officer before finalizing property division agreements in court.",
-      "cta_question": "How often do you see divorce settlement terms clash with basic underwriting rules?"
+      "my_take_heading": "Leverage is an illusion without financing power",
+      "my_take": "Everyone thinks a buyer's market means easy wins. It actually means walking buyers who are terrified of overpaying.",
+      "action_lo": "Structure purchase loans with built-in temporary rate buydowns to give anxious buyers payment certainty.",
+      "action_realtor": "Target listings with a history of price drops where sellers are finally motivated to negotiate concessions.",
+      "cta_question": "How are you helping clients navigate appraisal gaps in this seller surplus?"
     },
     {
-      "slug": "fha-203k-renovation-program",
-      "title": "HUD eyes 203(k) renovation changes to boost housing supply",
-      "source": "HousingWire",
-      "source_url": "https://www.housingwire.com/articles/fha-203k-renovation-program/",
-      "cover_text": "Is HUD finally fixing the broken 203(k)?",
-      "caption": "The FHA 203(k) renovation loan has long been the ultimate fixer-upper product on paper and a total paper-pushing nightmare in practice. With HUD eyeing draw changes and consultant requirements, relief might finally be on the way for buyers looking at distressed inventory. Here is how these proposed updates could change the game for aging housing stock and low-inventory markets. Read the full analysis on why originators have avoided this product and what changes could bring it back to life.\n\nSource : https://tinyurl.com/28vo75s4\n#SafetrustMortgage #MortgageIntelligenceDaily #firsttimehomebuyer #mortgagerates #housingmarket",
-      "hashtags": [
-        "#SafetrustMortgage",
-        "#MortgageIntelligenceDaily",
-        "#firsttimehomebuyer",
-        "#mortgagerates",
-        "#housingmarket"
-      ],
-      "hook_tag": "renovation lending",
-      "hook": "Why the most powerful homebuying loan in history is also the most ignored.",
-      "what_happened_heading": "HUD targets the 203(k)",
-      "what_happened": "Recent draw changes and a potential review of consultant requirements signal a major refocus on the FHA renovation product. HUD wants to unlock trapped housing supply by making fixer-uppers easier to finance.",
-      "breakdown": [
-        {
-          "heading": "The inventory problem",
-          "body": "Millions of older homes need serious work. Traditional buyers cannot touch them because standard financing requires properties to be move-in ready."
-        },
-        {
-          "heading": "The current bottleneck",
-          "body": "The 203(k) rolls purchase and renovation costs into one loan. But strict consultant rules and slow draw processes scare away lenders."
-        },
-        {
-          "heading": "Underwriting the draws",
-          "body": "Here is what this actually changes when a file hits underwriting: managing contractor draws and milestone inspections eats up massive operational bandwidth."
-        },
-        {
-          "heading": "Proposed modernization",
-          "body": "Streamlining consultant mandates and fund disbursement will lower lender risk and slash turnaround times for busy borrowers."
-        }
-      ],
-      "my_take_heading": "Saving inventory one rehab at a time",
-      "my_take": "If HUD actually fixes the draw process, the 203(k) stops being a compliance headache and starts solving the inventory crisis.",
-      "action_lo": "Identify local general contractors who understand FHA guidelines and build a referral bench before these changes drop.",
-      "action_realtor": "Stop steering buyers away from ugly houses and start treating distressed listings as viable inventory.",
-      "cta_question": "Would you actively market renovation loans if HUD successfully cuts the red tape?"
-    },
-    {
-      "slug": "arm-mortgage-borrower-resets",
-      "title": "Thousands of homeowners face adjustable-rate mortgage resets",
-      "source": "CNBC",
-      "source_url": "https://www.cnbc.com/2026/10/13/arm-mortgage-borrower-resets/",
-      "cover_text": "The ARM reset shock wave is here.",
-      "caption": "Borrowers who locked in low introductory rates on adjustable-rate mortgages are hitting their first adjustments at the worst possible time. With rates sitting much higher, monthly payments are about to spike significantly for thousands of households. Here is what this payment shock means for the broader housing market and consumer debt loads. Read the full breakdown on how these resets impact pipeline strategy and default risks.\n\nSource : https://tinyurl.com/2d3u8dv9\n#SafetrustMortgage #MortgageIntelligenceDaily #mortgagerates #housingmarket #realestateinvesting",
+      "slug": "cpi-inflation-spike",
+      "title": "Inflation Hits 3.7 Percent and Crushes Rate Rally",
+      "source": "The Mortgage Reports",
+      "source_url": "https://themortgagereports.com/135278/september-cpi-2026-mortgage-rates",
+      "cover_text": "Hotter inflation just killed the rate rally",
+      "caption": "Forget about a smooth glide path down to the low sevens for mortgage rates. September inflation came in hotter than expected at 3.7%, sending bond yields surging and putting recent borrowing cost improvements at serious risk. Loan officers banking on an easy fourth quarter are in for a rude awakening as the Fed weighs a potential rate hike. This volatility changes how we lock loans and manage client expectations. Here is how to keep your pipeline moving when the bond market turns against you.\n\nSource : https://tinyurl.com/2bvnfmjz\n#SafetrustMortgage #MortgageIntelligenceDaily #mortgagerates #housingmarket #mortgagebroker",
       "hashtags": [
         "#SafetrustMortgage",
         "#MortgageIntelligenceDaily",
         "#mortgagerates",
         "#housingmarket",
-        "#realestateinvesting"
+        "#mortgagebroker"
       ],
-      "hook_tag": "mortgage risk",
-      "hook": "Low introductory rates are expiring, and the payment shock is about to hit.",
-      "what_happened_heading": "The ARM reset reality",
-      "what_happened": "Adjustable-rate mortgages with low introductory interest rates are facing their first adjustment at a time when prevailing rates are much higher. Thousands of homeowners now face substantially larger monthly housing payments.",
+      "hook_tag": "Rate Outlook",
+      "hook": "Hotter inflation just wiped out recent mortgage rate improvements.",
+      "what_happened_heading": "Consumer price index jumps higher",
+      "what_happened": "September inflation hit 3.7% year over year, jumping past forecasts and undoing recent progress in the bond market. The hotter-than-expected report immediately pushed bond yields higher and put mortgage rate relief on ice.",
       "breakdown": [
         {
-          "heading": "The honeymoon ends",
-          "body": "Borrowers who took out ARMs years ago enjoyed artificially low initial payments. Those introductory periods are now expiring on a massive scale."
+          "heading": "The core inflation surprise",
+          "body": "Unrounded core CPI came in far higher than economists predicted, signaling that inflation remains sticky across key sectors."
         },
         {
-          "heading": "Rate environment mismatch",
-          "body": "Instead of adjusting downward or sideways, these loans are resetting into a significantly higher interest rate environment."
+          "heading": "Fed expectations shift instantly",
+          "body": "The probability of a Federal Reserve rate hike moved sharply into focus, reversing weeks of optimism among bond investors."
         },
         {
-          "heading": "Underwriting exposure",
-          "body": "Here is what this actually changes when a file hits underwriting: originators must closely evaluate lifetime caps and maximum possible payment jumps."
+          "heading": "Pipeline lock management pressure",
+          "body": "Here is what this actually changes when a file hits underwriting: floating loans in this environment is an expensive gamble for borrowers."
         },
         {
-          "heading": "Refinance urgency",
-          "body": "Many of these homeowners will need to act fast to modify, sell, or refinance before payment shock triggers delinquency."
+          "heading": "Affordability takes another hit",
+          "body": "With rates pushed back up, monthly payments expand further, knocking marginal buyers completely out of qualification range."
         }
       ],
-      "my_take_heading": "The ticking clock on adjustable rates",
-      "my_take": "ARMs are fantastic financial tools until the index catches up and the borrower has nowhere to hide.",
-      "action_lo": "Audit your past database for ARM products nearing their adjustment dates and reach out with refinancing options immediately.",
-      "action_realtor": "Check in with past clients who bought with ARMs; some may need to list their homes before payments jump.",
-      "cta_question": "Are your past ARM borrowers prepared for their upcoming payment adjustments?"
+      "my_take_heading": "Floating is dead money in a volatile bond market",
+      "my_take": "Stop trying to time the bond market for your clients. Lock early and structure the payment, not the rate.",
+      "action_lo": "Enforce strict float-down policies and educate borrowers on why locking today protects their debt-to-income ratio.",
+      "action_realtor": "Remind buyers to focus on the home price and terms, because waiting for a rate drop could cost them more.",
+      "cta_question": "Are your borrowers accepting higher rates or pausing their home search entirely?"
     },
     {
-      "slug": "non-qm-arms-optimal-blue",
-      "title": "Optimal Blue data shows non-QM lending, ARM usage is expanding",
-      "source": "HousingWire",
-      "source_url": "https://www.housingwire.com/articles/non-qm-arms-optimal-blue/",
-      "cover_text": "Non-QM is quietly eating market share.",
-      "caption": "While the overall mortgage market deals with higher conforming rates and shrinking volume, non-QM and ARM products are quietly expanding. Optimal Blue data shows non-QM hitting twelve percent of production in September as borrowers look for alternative qualification paths. Here is why alternative loan products are surging despite broader market headwinds. Read the full analysis on how originators are adapting their pipelines to survive the current rate cycle.\n\nSource : https://tinyurl.com/2xs7g9sj\n#SafetrustMortgage #MortgageIntelligenceDaily #mortgagerates #mortgagebroker #housingmarket",
-      "hashtags": [
-        "#SafetrustMortgage",
-        "#MortgageIntelligenceDaily",
-        "#mortgagerates",
-        "#mortgagebroker",
-        "#housingmarket"
-      ],
-      "hook_tag": "market trends",
-      "hook": "Standard conforming loans are too rigid, so borrowers are voting with their feet.",
-      "what_happened_heading": "Non-QM volume defies the slump",
-      "what_happened": "Non-QM rate-lock volume rose eight percent from August even while total lock volume fell month over month. Non-QM represented twelve percent of production in September as the thirty-year conforming rate ended the month at 7.39%.",
-      "breakdown": [
-        {
-          "heading": "The self-employed squeeze",
-          "body": "Traditional W-2 borrowers are not the only game in town. Self-employed buyers need bank statement programs to qualify in this market."
-        },
-        {
-          "heading": "Rate pressure impact",
-          "body": "With conforming rates lingering near historic highs, traditional guidelines exclude creditworthy buyers who do not fit the box."
-        },
-        {
-          "heading": "Underwriting flexibility",
-          "body": "Here is what this actually changes when a file hits underwriting: alternative documentation requires deep analytical skills to verify true cash flow."
-        },
-        {
-          "heading": "Product evolution",
-          "body": "ARMs and non-QM are no longer fringe products. They are essential tools keeping originators in business during a purchase slowdown."
-        }
-      ],
-      "my_take_heading": "Adapting to survive the lock slowdown",
-      "my_take": "If you only originate standard agency paper, you are ignoring a growing slice of affluent buyers who need creative solutions.",
-      "action_lo": "Brush up on bank statement and asset-depletion guidelines so you can capture self-employed clients getting turned down elsewhere.",
-      "action_realtor": "Partner with loan officers who specialize in non-QM products to help your high-net-worth or entrepreneurial clients buy homes.",
-      "cta_question": "How heavily is your current business leaning into non-QM and alternative loan products?"
-    }
-  ],
-  "carousels_es": [
-    {
-      "slug": "divorce-refinance-equity-buyout",
-      "title": "Como funcionan las compras de plusvalia en un refinanciamiento por divorcio",
-      "source": "HousingWire",
-      "source_url": "https://www.housingwire.com/articles/divorce-refinance-equity-buyout/",
-      "cover_text": "La trampa de plusvalia en divorcios que nadie menciona.",
-      "caption": "Separarse es bastante dificil, pero intentar desenredar la plusvalia de una casa en un mercado de tasas altas es la peor pesadilla de un asesor. Una tasacion menos el saldo de tu hipoteca establece el capital total, pero para que tu ex salga de la escritura necesitas calificar para un prestamo nuevo con un solo ingreso. Esto es lo que debes tener en cuenta antes de firmar cualquier acuerdo de divorcio. Lee el desglose completo sobre como tu capacidad de endeudamiento individual dicta tu proximo paso en la estrategia inmobiliaria y hipotecaria. Comparte esto con un cliente o amigo que este pasando por una transicion de derecho familiar.\n\nFuente : https://tinyurl.com/25anyvpc\n#SafetrustMortgage #MortgageIntelligenceDaily #mortgagerates #homebuying #realestateagent",
-      "hashtags": [
-        "#SafetrustMortgage",
-        "#MortgageIntelligenceDaily",
-        "#mortgagerates",
-        "#homebuying",
-        "#realestateagent"
-      ],
-      "hook_tag": "finanzas de divorcio",
-      "hook": "Por que quedarte con la casa en un divorcio podria arruinar tu presupuesto.",
-      "what_happened_heading": "La matematica detras de la compra de plusvalia",
-      "what_happened": "Una tasacion menos el saldo restante de la hipoteca determina el capital total disponible para dividir. Sin embargo, el monto real de la compra de plusvalia depende completamente de tu capacidad de endeudamiento individual.",
-      "breakdown": [
-        {
-          "heading": "El calculo del capital",
-          "body": "Primero, se obtiene una tasacion profesional para determinar el valor de mercado. Resta el saldo actual de la hipoteca para encontrar el capital total de la vivienda."
-        },
-        {
-          "heading": "Division de la participacion",
-          "body": "Normalmente, el conyuge que se va tiene derecho al cincuenta por ciento de esa plusvalia calculada. Esto generalmente se paga mediante un refinanciamiento con retiro de efectivo (cash-out refinance)."
-        },
-        {
-          "heading": "Evaluando el expediente",
-          "body": "Esto es lo que realmente cambia cuando un expediente llega a la evaluacion: el conyuge que se queda debe calificar para el prestamo mas grande unicamente con sus propios ingresos."
-        },
-        {
-          "heading": "Limites de calificacion",
-          "body": "Si tu DTI (cuanto de tus ingresos se destina a deudas) es demasiado alto con un solo ingreso, la compra de plusvalia falla, sin importar lo que haya ordenado el tribunal."
-        }
-      ],
-      "my_take_heading": "La orden judicial no anula las pautas",
-      "my_take": "Los jueces de tribunales familiares pueden ordenar una compra de plusvalia todo el dia, pero los asesores responden a Fannie y Freddie, no al juez.",
-      "action_lo": "Revisa el acuerdo de separacion ejecutado para los terminos de pension alimenticia y manutencion de menores antes de ejecutar los resultados iniciales de AUS (Sistema de Evaluacion Automatizado).",
-      "action_realtor": "Aconseja a los clientes que se estan divorciando que consulten a un oficial de prestamos antes de finalizar los acuerdos de division de propiedad en el tribunal.",
-      "cta_question": "Con que frecuencia ves que los terminos de los acuerdos de divorcio chocan con las reglas basicas de evaluacion?"
-    },
-    {
-      "slug": "fha-203k-renovation-program",
-      "title": "HUD considera cambios en el programa de renovacion 203(k) para impulsar la oferta de viviendas",
-      "source": "HousingWire",
-      "source_url": "https://www.housingwire.com/articles/fha-203k-renovation-program/",
-      "cover_text": "HUD finalmente esta arreglando el 203(k)?",
-      "caption": "El prestamo de renovacion FHA 203(k) ha sido durante mucho tiempo el producto ideal para renovar una casa en el papel, pero una pesadilla burocratica en la practica. Con HUD considerando cambios en los desembolsos y requisitos para consultores, la ayuda podria estar en camino para los compradores que buscan propiedades en mal estado. Asi es como estas actualizaciones propuestas podrian cambiar las reglas del juego para el parque de viviendas antiguas y los mercados de bajo inventario. Lee el analisis completo de por que los originadores han evitado este producto y que cambios podrian revivirlo.\n\nFuente : https://tinyurl.com/28vo75s4\n#SafetrustMortgage #MortgageIntelligenceDaily #firsttimehomebuyer #mortgagerates #housingmarket",
-      "hashtags": [
-        "#SafetrustMortgage",
-        "#MortgageIntelligenceDaily",
-        "#firsttimehomebuyer",
-        "#mortgagerates",
-        "#housingmarket"
-      ],
-      "hook_tag": "prestamos para renovacion",
-      "hook": "Por que el prestamo mas poderoso para comprar casa es tambien el mas ignorado.",
-      "what_happened_heading": "HUD se enfoca en el 203(k)",
-      "what_happened": "Los cambios recientes en los desembolsos y una posible revision de los requisitos de consultores senalan un importante reajuste en el producto de renovacion de la FHA. HUD quiere desbloquear la oferta de viviendas al hacer que las casas que necesitan reparaciones sean mas faciles de financiar.",
-      "breakdown": [
-        {
-          "heading": "El problema del inventario",
-          "body": "Millones de casas antiguas necesitan arreglos serios. Los compradores tradicionales no pueden adquirirlas porque la financiacion estandar exige que las propiedades esten listas para habitar."
-        },
-        {
-          "heading": "El cuello de botella actual",
-          "body": "El 203(k) une los costos de compra y renovacion en un solo prestamo. Pero las estrictas reglas de los consultores y los lentos procesos de desembolso ahuyentan a los prestamistas."
-        },
-        {
-          "heading": "Evaluacion de los desembolsos",
-          "body": "Esto es lo que realmente cambia cuando un expediente llega a la evaluacion: la gestion de los desembolsos a contratistas y las inspecciones de hitos consume una enorme capacidad operativa."
-        },
-        {
-          "heading": "Modernizacion propuesta",
-          "body": "La simplificacion de los mandatos de consultores y el desembolso de fondos reducira el riesgo del prestamista y acortara los tiempos de respuesta para los prestatarios ocupados."
-        }
-      ],
-      "my_take_heading": "Salvando el inventario una rehabilitacion a la vez",
-      "my_take": "Si HUD realmente arregla el proceso de desembolso, el 203(k) deja de ser un dolor de cabeza de cumplimiento y empieza a resolver la crisis de inventario.",
-      "action_lo": "Identifica contratistas generales locales que entiendan las pautas de FHA y crea una lista de referidos antes de que se implementen estos cambios.",
-      "action_realtor": "Deja de alejar a los compradores de casas en mal estado y empieza a tratar las propiedades en dificultades como inventario viable.",
-      "cta_question": "Promocionarias activamente los prestamos de renovacion si HUD lograra reducir la burocracia?"
-    },
-    {
-      "slug": "arm-mortgage-borrower-resets",
-      "title": "Miles de propietarios enfrentan reajustes de hipotecas de tasa ajustable",
+      "slug": "fannie-mae-rate-forecast",
+      "title": "Fannie Mae Sharply Raises 2027 Rate Forecast",
       "source": "CNBC",
-      "source_url": "https://www.cnbc.com/2026/10/13/arm-mortgage-borrower-resets/",
-      "cover_text": "La onda de choque de los reajustes ARM esta aqui.",
-      "caption": "Los prestatarios que obtuvieron tasas introductorias bajas en hipotecas de tasa ajustable (ARM) estan llegando a sus primeros ajustes en el peor momento posible. Con tasas mucho mas altas, los pagos mensuales estan a punto de aumentar significativamente para miles de hogares. Esto es lo que este 'shock de pago' significa para el mercado inmobiliario en general y las cargas de deuda de los consumidores. Lee el desglose completo de como estos reajustes impactan la estrategia de cartera y los riesgos de incumplimiento.\n\nFuente : https://tinyurl.com/2d3u8dv9\n#SafetrustMortgage #MortgageIntelligenceDaily #mortgagerates #housingmarket #realestateinvesting",
+      "source_url": "https://www.cnbc.com/2026/10/14/fannie-mae-sharply-raises-mortgage-rate-forecast-for-2027-.html",
+      "cover_text": "Fannie Mae admits higher rates are permanent",
+      "caption": "The narrative that mortgage rates will magically drop back to historical norms anytime soon just took a direct hit. Fannie Mae just published a revised forecast for 2027, and the numbers are significantly higher than previous estimates. If your entire business model relies on a massive wave of refinances next year, you need a new plan right now. Purchase originations and alternative financing are the only games in town. Let us break down what this long-term reality check means for your volume.\n\nSource : https://tinyurl.com/256kk7hx\n#SafetrustMortgage #MortgageIntelligenceDaily #mortgagerates #housingmarket #loanofficer",
       "hashtags": [
         "#SafetrustMortgage",
         "#MortgageIntelligenceDaily",
         "#mortgagerates",
         "#housingmarket",
-        "#realestateinvesting"
+        "#loanofficer"
       ],
-      "hook_tag": "riesgo hipotecario",
-      "hook": "Las bajas tasas introductorias estan expirando y el shock de los pagos esta por llegar.",
-      "what_happened_heading": "La realidad del reajuste ARM",
-      "what_happened": "Las hipotecas de tasa ajustable (ARM) con tasas de interes introductorias bajas estan enfrentando su primer ajuste en un momento en que las tasas predominantes son mucho mas altas. Miles de propietarios ahora enfrentan pagos mensuales de vivienda sustancialmente mas grandes.",
+      "hook_tag": "Industry Forecast",
+      "hook": "Fannie Mae's new forecast proves high mortgage rates are here to stay.",
+      "what_happened_heading": "A major revision to future rate expectations",
+      "what_happened": "Fannie Mae released its updated housing forecast, sharply raising its mortgage rate predictions for 2027 well above earlier estimates. The adjustment reflects persistent economic pressures that are keeping borrowing costs elevated for the foreseeable future.",
       "breakdown": [
         {
-          "heading": "La luna de miel termina",
-          "body": "Los prestatarios que obtuvieron ARMs hace anos disfrutaron de pagos iniciales artificialmente bajos. Esos periodos introductorios estan expirando a gran escala."
+          "heading": "The refi boom is cancelled",
+          "body": "Millions of homeowners sitting on low first-lien rates have zero incentive to refinance anytime soon, starving lenders of traditional refi volume."
         },
         {
-          "heading": "Desajuste del entorno de tasas",
-          "body": "En lugar de ajustarse a la baja o mantenerse estables, estos prestamos se estan reajustando a un entorno de tasas de interes significativamente mas altas."
+          "heading": "Agency volume keeps shrinking",
+          "body": "As conventional agency lending contracts, originators must diversify their product mix to survive the ongoing margin squeeze."
         },
         {
-          "heading": "Exposicion en evaluacion",
-          "body": "Esto es lo que realmente cambia cuando un expediente llega a la evaluacion: los originadores deben evaluar de cerca los limites de por vida y los saltos maximos posibles en los pagos."
+          "heading": "Underwriting reality check",
+          "body": "Here is what this actually changes when a file hits underwriting: debt-to-income ratios will face permanent pressure without rate relief."
         },
         {
-          "heading": "Urgencia de refinanciamiento",
-          "body": "Muchos de estos propietarios deberan actuar rapidamente para modificar, vender o refinanciar antes de que el 'shock de pago' provoque la morosidad."
+          "heading": "The strategic pivot required",
+          "body": "Lenders and agents must build business models that thrive in a high-rate, low-turnover purchase environment."
         }
       ],
-      "my_take_heading": "El reloj sigue corriendo para las tasas ajustables",
-      "my_take": "Las ARM son herramientas financieras fantasticas hasta que el indice las alcanza y el prestatario no tiene donde esconderse.",
-      "action_lo": "Audita tu base de datos pasada en busca de productos ARM que se acerquen a sus fechas de ajuste y contactalos con opciones de refinanciamiento de inmediato.",
-      "action_realtor": "Comunicate con clientes anteriores que compraron con ARM; algunos podrian necesitar vender sus casas antes de que los pagos aumenten.",
-      "cta_question": "Tus prestatarios de ARM anteriores estan preparados para sus proximos ajustes de pago?"
+      "my_take_heading": "Hope is not a business strategy for a high rate world",
+      "my_take": "If you are waiting for rates to drop back to five percent to save your production, you are already out of business.",
+      "action_lo": "Build deep proficiency in Non-QM (non-qualified mortgage) and home equity products to capture trapped home equity.",
+      "action_realtor": "Educate sellers that waiting for lower rates to list means competing with a larger wave of sidelined inventory later.",
+      "cta_question": "How is your leadership team adjusting production goals for the next twenty four months?"
     },
     {
-      "slug": "non-qm-arms-optimal-blue",
-      "title": "Datos de Optimal Blue muestran expansion del mercado Non-QM y uso de ARM",
+      "slug": "gse-buyback-tech",
+      "title": "GSEs Deploy New Tech to Target Buyback Risk",
       "source": "HousingWire",
-      "source_url": "https://www.housingwire.com/articles/non-qm-arms-optimal-blue/",
-      "cover_text": "Non-QM silenciosamente gana terreno en el mercado.",
-      "caption": "Mientras el mercado hipotecario general lidia con tasas conformes mas altas y un volumen decreciente, los productos Non-QM y ARM se estan expandiendo silenciosamente. Los datos de Optimal Blue muestran que Non-QM alcanzo el doce por ciento de la produccion en septiembre, ya que los prestatarios buscan rutas de calificacion alternativas. Esto es por que los productos de prestamo alternativos estan aumentando a pesar de los vientos en contra del mercado. Lee el analisis completo de como los originadores estan adaptando sus carteras para sobrevivir el ciclo de tasas actual.\n\nFuente : https://tinyurl.com/2xs7g9sj\n#SafetrustMortgage #MortgageIntelligenceDaily #mortgagerates #mortgagebroker #housingmarket",
+      "source_url": "https://www.housingwire.com/articles/gse-fannie-freddie-tech/",
+      "cover_text": "Fannie and Freddie's new tech hunts defects",
+      "caption": "Fannie Mae and Freddie Mac are upgrading their technology stack, and every single mortgage executive needs to pay attention. The GSEs are deploying advanced analytics to flag occupancy risk and income defects upfront before loans ever hit the secondary market. This is a direct shot across the bow for lenders with sloppy pre-approval processes. If your operations team relies on manual checks, your buyback exposure just skyrocketed. Here is how this changes loan manufacturing from the ground up.\n\nSource : https://tinyurl.com/28v8ca42\n#SafetrustMortgage #MortgageIntelligenceDaily #mortgagebroker #loanofficer #firsttimehomebuyer",
       "hashtags": [
         "#SafetrustMortgage",
         "#MortgageIntelligenceDaily",
-        "#mortgagerates",
         "#mortgagebroker",
-        "#housingmarket"
+        "#loanofficer",
+        "#firsttimehomebuyer"
       ],
-      "hook_tag": "tendencias del mercado",
-      "hook": "Los prestamos conformes son demasiado rigidos, por eso los prestatarios buscan otras opciones.",
-      "what_happened_heading": "El volumen Non-QM desafia la caida",
-      "what_happened": "El volumen de bloqueos de tasas Non-QM subio un ocho por ciento desde agosto, incluso cuando el volumen total de bloqueos cayo mes a mes. Non-QM represento el doce por ciento de la produccion en septiembre, ya que la tasa conforme a treinta anos termino el mes en 7.39%.",
+      "hook_tag": "Compliance Risk",
+      "hook": "The GSEs are using new tech to catch occupancy and income defects upfront.",
+      "what_happened_heading": "New tools target loan quality at the source",
+      "what_happened": "Mortgage giants Fannie Mae and Freddie Mac are deploying sophisticated technology designed to flag occupancy risks and income defects early in the origination cycle. The initiative aims to dramatically cut down repurchase liabilities by catching errors before delivery.",
       "breakdown": [
         {
-          "heading": "La presion al autoempleado",
-          "body": "Los prestatarios tradicionales con W-2 no son los unicos. Los compradores autoempleados necesitan programas de extractos bancarios para calificar en este mercado."
+          "heading": "Upfront data scrutiny",
+          "body": "The new systems cross-reference borrower data against vast public records to instantly verify primary residence occupancy claims."
         },
         {
-          "heading": "Impacto de la presion de tasas",
-          "body": "Con las tasas conformes rondando maximos historicos, las pautas tradicionales excluyen a compradores solventes que no encajan en el molde."
+          "heading": "Income defect detection",
+          "body": "Automated tools scan tax returns and paystubs for inconsistencies that manual underwriters might overlook during busy pipeline surges."
         },
         {
-          "heading": "Flexibilidad de evaluacion",
-          "body": "Esto es lo que realmente cambia cuando un expediente llega a la evaluacion: la documentacion alternativa requiere profundas habilidades analiticas para verificar el flujo de caja real."
+          "heading": "Underwriting quality control",
+          "body": "Here is what this actually changes when a file hits underwriting: every stated fact must be bulletproof against algorithmic cross-checks."
         },
         {
-          "heading": "Evolucion del producto",
-          "body": "Los ARMs y Non-QM ya no son productos marginales. Son herramientas esenciales que mantienen a los originadores en el negocio durante una desaceleracion de las compras."
+          "heading": "Lowering repurchase exposure",
+          "body": "By tightening standards at the point of sale, the GSEs are shifting the burden of defect prevention squarely back onto originators."
         }
       ],
-      "my_take_heading": "Adaptarse para sobrevivir a la desaceleracion de bloqueos",
-      "my_take": "Si solo originas documentos de agencia estandar, estas ignorando una creciente porcion de compradores adinerados que necesitan soluciones creativas.",
-      "action_lo": "Repasa las pautas de estados de cuenta bancarios y agotamiento de activos para poder captar clientes autoempleados que son rechazados en otros lugares.",
-      "action_realtor": "Asociate con oficiales de prestamo especializados en productos Non-QM para ayudar a tus clientes de alto poder adquisitivo o emprendedores a comprar casas.",
-      "cta_question": "Que tan fuerte esta apoyando tu negocio actual en Non-QM y productos de prestamo alternativos?"
+      "my_take_heading": "Algorithms do not care about your relationship with the borrower",
+      "my_take": "If your operations team relies on guesswork for self-employed income, the GSEs' new tech will eat your net worth in buybacks.",
+      "action_lo": "Audit your pre-approval process and implement rigorous income verification tools before submitting files to processing.",
+      "action_realtor": "Ensure investment property contracts clearly reflect true intent to avoid catastrophic occupancy fraud flags.",
+      "cta_question": "Are your current operations ready for automated GSE scrutiny on every single file?"
     }
   ]
 }
