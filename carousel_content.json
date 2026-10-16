@@ -168,5 +168,175 @@
       "action_realtor": "Educate buyers on why lenders are asking more questions about commutes and property use to avoid closing delays.",
       "cta_question": "Are your underwriting teams seeing more occupancy flags pop up on primary purchase files lately?"
     }
+  ],
+  "carousels_es": [
+    {
+      "slug": "rates-plummet-inflation-paradox",
+      "title": "Las tasas hipotecarias caen a pesar del informe de inflación mayorista",
+      "source": "The Truth About Mortgage",
+      "source_url": "https://www.thetruthaboutmortgage.com/mortgage-rates-plummet-despite-hot-wholesale-inflation-report",
+      "cover_text": "Las tasas cayeron a pesar de la mala inflación",
+      "caption": "La reciente caída en las tasas hipotecarias desafía el libro de reglas económicas. El Índice de Precios al Productor (IPP) subió más de lo esperado, pero los rendimientos de los bonos bajaron y las tasas cayeron a su nivel más bajo en tres semanas. Aquí te explicamos qué está sucediendo en los mercados de capitales y qué significa para tu negocio.\n\nFuente : https://tinyurl.com/26v4pqfw\n#SafetrustMortgage #MortgageIntelligenceDaily #mortgagerates #housingmarket #mortgagebroker",
+      "hashtags": [
+        "#SafetrustMortgage",
+        "#MortgageIntelligenceDaily",
+        "#mortgagerates",
+        "#housingmarket",
+        "#mortgagebroker"
+      ],
+      "hook_tag": "La realidad del mercado",
+      "hook": "Las malas noticias de inflación provocaron una gran caída en las tasas.",
+      "what_happened_heading": "Las tasas bajan a pesar de los datos de inflación",
+      "what_happened": "Las tasas fijas a 30 años de primera categoría bajaron a un promedio de 7.33% entre los prestamistas. Esto ocurrió a pesar de que la inflación mayorista subió más de lo esperado.",
+      "breakdown": [
+        {
+          "heading": "La regla tradicional se rompió",
+          "body": "Normalmente, una inflación más alta empuja los rendimientos de los bonos hacia arriba y, con ellos, las tasas hipotecarias. Esta semana, el mercado hizo todo lo contrario."
+        },
+        {
+          "heading": "Las acciones tecnológicas impulsaron los bonos",
+          "body": "Los inversionistas vieron las acciones tecnológicas como activos de riesgo y regresaron a los bonos. Esa prisa por invertir subió los precios de los bonos y bajó los rendimientos."
+        },
+        {
+          "heading": "Entendiendo el cambio en el mercado de bonos",
+          "body": "Cuando un archivo llega a revisión, los precios se basan en los MBS (títulos respaldados por hipotecas). La volatilidad significa que las mesas secundarias manejan cambios extremos en las hojas de tasas cada hora."
+        },
+        {
+          "heading": "La huida hacia la seguridad gana",
+          "body": "A los mercados de capitales globales les importan menos los datos de IPP cuando el miedo macroeconómico se instala. La seguridad siempre supera la preocupación por la inflación a corto plazo."
+        }
+      ],
+      "my_take_heading": "No intentes adivinar el mercado de bonos",
+      "my_take": "Intentar explicar cada movimiento del mercado de bonos es inútil. Enfócate en cerrar la tasa cuando los números tengan sentido hoy.",
+      "action_lo": "Llama a cada cliente cuya cotización de tasa estuvo indecisa la semana pasada y recalcula sus números al 7.33%.",
+      "action_realtor": "Recuerda a los compradores indecisos que las caídas de tasas ocurren rápido y desaparecen igual de rápido cuando cambia el sentimiento del mercado.",
+      "cta_question": "¿Están tus clientes con tasas fijas intentando bajar la tasa después de esta reciente caída? Cuéntanos aquí abajo."
+    },
+    {
+      "slug": "asking-prices-fall-redfin",
+      "title": "Las casas bajan de precio por primera vez desde marzo",
+      "source": "Redfin",
+      "source_url": "https://www.redfin.com/news/housing-market-update-asking-prices-decline-october/",
+      "cover_text": "Los precios de venta están bajando",
+      "caption": "Por primera vez desde marzo, los precios de venta promedio están bajando, mientras que las ventas pendientes se mantienen cerca de mínimos históricos. Los vendedores finalmente están reconociendo la realidad de un mercado en enfriamiento. Aquí te mostramos cómo navegar este cambio en el poder de fijación de precios.\n\nFuente : https://tinyurl.com/2ba65lpt\n#SafetrustMortgage #MortgageIntelligenceDaily #housingmarket #realestateagent #homebuying",
+      "hashtags": [
+        "#SafetrustMortgage",
+        "#MortgageIntelligenceDaily",
+        "#housingmarket",
+        "#realestateagent",
+        "#homebuying"
+      ],
+      "hook_tag": "Cambio de precios",
+      "hook": "Los precios de venta bajaron por primera vez desde marzo.",
+      "what_happened_heading": "El crecimiento de los precios se desacelera",
+      "what_happened": "El precio promedio de venta de casas en EE. UU. subió solo un 0.5% anual, la tasa de crecimiento más lenta desde marzo. Mientras tanto, el precio de venta promedio en realidad bajó.",
+      "breakdown": [
+        {
+          "heading": "La espera está terminando",
+          "body": "Por meses, los vendedores esperaron los precios máximos del mercado, mientras que los compradores se resistieron a las tasas altas. La presión del inventario está obligando a los vendedores a ceder."
+        },
+        {
+          "heading": "Las ventas siguen cerca de mínimos históricos",
+          "body": "Las ventas de casas pendientes subieron un poco esta semana, pero el volumen total sigue suprimido. Los altos precios y tasas mantienen bajo el número de transacciones."
+        },
+        {
+          "heading": "Evaluaciones realistas al revisar los préstamos",
+          "body": "Cuando un tasador revisa un expediente en un mercado en enfriamiento, las comparaciones históricas de hace tres meses no sirven. Estamos viendo más ajustes de valor en propiedades que bajan de precio."
+        },
+        {
+          "heading": "El cambio en el poder de fijación de precios",
+          "body": "Los compradores que no participaron en la locura del verano ahora pueden negociar concesiones y bajadas de precios que no existían hace unos meses."
+        }
+      ],
+      "my_take_heading": "Las bajadas de precio no son una crisis",
+      "my_take": "Que los vendedores bajen los precios no significa una crisis, solo se ajustan a la realidad. Los descuentos son el puente entre tasas altas y ventas cerradas.",
+      "action_lo": "Comunícate con tus compradores preaprobados y muéstrales cómo un precio de compra más bajo es mejor que esperar por tasas más bajas.",
+      "action_realtor": "Usa estos datos para aconsejar a los vendedores que piden demasiado, que la ventana para precios agresivos se ha cerrado.",
+      "cta_question": "¿Tus vendedores locales están aceptando finalmente las reducciones de precios, o siguen buscando el precio máximo?"
+    },
+    {
+      "slug": "lendingtree-home-improvements-equity",
+      "title": "El efectivo domina las mejoras del hogar, pero los préstamos con garantía hipotecaria financian los trabajos grandes",
+      "source": "National Mortgage Professional",
+      "source_url": "https://nationalmortgageprofessional.com/news/cash-dominates-home-improvements-equity-loans-fund-bigger-jobs",
+      "cover_text": "El efectivo domina las mejoras del hogar",
+      "caption": "Un nuevo análisis de LendingTree revela que el efectivo financia casi el 76% de todas las mejoras del hogar, pero los préstamos con garantía hipotecaria (home equity loans) controlan las renovaciones costosas. Si solo estás hablando de préstamos de compra, estás perdiendo el enorme potencial de capital en tu base de datos.\n\nFuente : https://tinyurl.com/2xh53387\n#SafetrustMortgage #MortgageIntelligenceDaily #homebuying #mortgagerates #realestateinvesting",
+      "hashtags": [
+        "#SafetrustMortgage",
+        "#MortgageIntelligenceDaily",
+        "#homebuying",
+        "#mortgagerates",
+        "#realestateinvesting"
+      ],
+      "hook_tag": "Estrategia de capital",
+      "hook": "El efectivo paga por la mayoría de las reparaciones, pero el capital paga los trabajos grandes.",
+      "what_happened_heading": "Efectivo vs. capital en renovaciones del hogar",
+      "what_happened": "Los datos de LendingTree muestran que el 75.7% de los proyectos de mejora del hogar se financiaron con ahorros en efectivo. Sin embargo, los proyectos financiados con préstamos con garantía hipotecaria fueron considerablemente más grandes.",
+      "breakdown": [
+        {
+          "heading": "La realidad de la reparación diaria",
+          "body": "La mayoría de los propietarios pagan en efectivo por reparaciones pequeñas como techos o fallas de HVAC por necesidad. Evitan tocar su hipoteca para actualizaciones menores."
+        },
+        {
+          "heading": "Cuando el capital interviene",
+          "body": "Cuando los propietarios realizan adiciones importantes o remodelaciones completas de la casa, los préstamos con garantía hipotecaria (home equity loans) y las líneas de crédito con garantía hipotecaria (HELOCs) se convierten en el principal mecanismo de financiación."
+        },
+        {
+          "heading": "Revisando el perfil de riesgo",
+          "body": "Cuando un expediente llega a revisión para un segundo gravamen o HELOC, la relación deuda-ingresos (DTI) se evalúa contra el flujo de efectivo actual. Los prestamistas quieren ver que las reservas se mantengan intactas."
+        },
+        {
+          "heading": "La mina de oro de tu base de datos",
+          "body": "Tus clientes anteriores tienen billones en capital disponible. Si no se mudan, están remodelando. Ese es tu próximo producto de préstamo."
+        }
+      ],
+      "my_take_heading": "Deja de esperar a que regresen las compras",
+      "my_take": "Si esperas que el volumen de compras salve tus ganancias, estás ignorando la gran riqueza de tu base de datos de clientes anteriores.",
+      "action_lo": "Realiza una revisión de capital a cada prestatario que cerró un préstamo contigo en los últimos cuatro años.",
+      "action_realtor": "Asóciate con prestamistas para ofrecer soluciones de capital a clientes que desean renovar en lugar de cambiar su baja tasa.",
+      "cta_question": "¿Qué porcentaje de tu cartera actual proviene de productos de capital versus préstamos de compra estándar?"
+    },
+    {
+      "slug": "fannie-expands-occupancy-checks",
+      "title": "Fannie Mae amplía las verificaciones de ocupación; Freddie Mac busca defectos en los préstamos",
+      "source": "National Mortgage Professional",
+      "source_url": "https://nationalmortgageprofessional.com/news/fannie-expands-occupancy-checks-freddie-targets-loan-defects",
+      "cover_text": "Fannie amplía las verificaciones de ocupación",
+      "caption": "Fannie Mae está ampliando sus mensajes de riesgo de ocupación para detectar declaraciones falsas antes de que se cierren los préstamos. Junto con Freddie Mac, que busca defectos en los préstamos mediante verificación digital, los controles de calidad de originación se están endureciendo rápidamente. Así es como puedes proteger tu tasa de cierre.\n\nFuente : https://tinyurl.com/29lvjy8z\n#SafetrustMortgage #MortgageIntelligenceDaily #mortgagebroker #housingmarket #firsttimehomebuyer",
+      "hashtags": [
+        "#SafetrustMortgage",
+        "#MortgageIntelligenceDaily",
+        "#mortgagebroker",
+        "#housingmarket",
+        "#firsttimehomebuyer"
+      ],
+      "hook_tag": "Actualización de revisión de préstamos",
+      "hook": "Fannie Mae está endureciendo las verificaciones de ocupación antes del cierre.",
+      "what_happened_heading": "Nuevas alertas de riesgo de ocupación",
+      "what_happened": "Fannie Mae ampliará la información utilizada en sus mensajes de riesgo de ocupación el próximo mes. Esto les da a los prestamistas la oportunidad de resolver preguntas sobre el uso previsto de la propiedad antes del cierre.",
+      "breakdown": [
+        {
+          "heading": "La verificación previa al cierre se amplía",
+          "body": "Los nuevos mensajes buscan declaraciones falsas de segundas viviendas y propiedades de inversión al inicio del ciclo del préstamo. Los prestamistas ya no pueden esperar a las auditorías posteriores al cierre para detectar señales de alerta."
+        },
+        {
+          "heading": "La verificación digital reduce los defectos",
+          "body": "Las nuevas guías de ambas agencias demuestran que una revisión digital temprana reduce significativamente las demandas de recompra y los defectos a nivel de préstamo."
+        },
+        {
+          "heading": "Revisando la intención de ocupación",
+          "body": "Cuando un asesor ve la compra de una residencia principal demasiado cerca de la casa existente de un prestatario sin un cambio claro de vida, estas nuevas banderas activan condiciones adicionales al instante."
+        },
+        {
+          "heading": "Protegiendo tu tasa de cancelación",
+          "body": "Detectar discrepancias de ocupación antes de la aprobación ahorra semanas de tiempo de procesamiento y evita recompras devastadoras en el futuro."
+        }
+      ],
+      "my_take_heading": "Mejora tu proceso inicial de expedientes",
+      "my_take": "Si tus agentes de préstamos aceptan solicitudes sin verificar correctamente la intención de ocupación, el nuevo sistema de Fannie Mae afectará seriamente tu tasa de cierre.",
+      "action_lo": "Audita tu cuestionario de ingreso inicial para asegurar que la intención de uso (principal vs. inversión) esté clara antes de enviar expedientes.",
+      "action_realtor": "Educa a los compradores sobre por qué los prestamistas hacen más preguntas sobre traslados y uso de la propiedad para evitar retrasos en el cierre.",
+      "cta_question": "¿Tus equipos de revisión de préstamos están viendo más alertas de ocupación en los expedientes de compra de residencia principal últimamente?"
+    }
   ]
 }
