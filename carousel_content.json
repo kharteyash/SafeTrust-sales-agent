@@ -1,54 +1,12 @@
 {
   "carousels": [
     {
-      "slug": "sellers-vs-buyers-gap",
-      "title": "Home Sellers Outnumber Buyers by 63 Percent",
-      "source": "Redfin",
-      "source_url": "https://www.redfin.com/news/buyers-vs-sellers-september-2026/",
-      "cover_text": "Sellers outnumber buyers by sixty three percent",
-      "caption": "The housing market just hit a massive imbalance that most realtors are completely misreading. Redfin data shows home sellers outnumbered buyers by 62.6% in September, creating the biggest gap since the post-recession crash in 2013. While the headlines scream about buyer leverage, here is what this actually means for your pipeline: inventory is sitting, price drops are accelerating, and cancellations are climbing. If you are a loan officer or agent treating this like a normal spring market, you are losing deals. Read on to see how to pivot your strategy right now.\n\nSource : https://tinyurl.com/26zcap8s\n#SafetrustMortgage #MortgageIntelligenceDaily #housingmarket #realestateagent #homebuying",
-      "hashtags": [
-        "#SafetrustMortgage",
-        "#MortgageIntelligenceDaily",
-        "#housingmarket",
-        "#realestateagent",
-        "#homebuying"
-      ],
-      "hook_tag": "Market Shift",
-      "hook": "Sellers outnumber buyers by 63 percent, creating the widest gap since 2013.",
-      "what_happened_heading": "The widest market gap in thirteen years",
-      "what_happened": "Home sellers outnumbered buyers by an estimated 62.6% in September, setting a record for the fourth consecutive month. Pending home sales also hovered near a 12-year low while cancellations reached extreme levels.",
-      "breakdown": [
-        {
-          "heading": "The buyer pool dried up",
-          "body": "Higher interest rates and stubborn home prices pushed the number of active buyers down to the lowest level in records dating back to 2013."
-        },
-        {
-          "heading": "Sellers are piling up",
-          "body": "On the flip side, frustrated homeowners keep listing properties despite high rates, driving the total number of sellers to historic highs."
-        },
-        {
-          "heading": "Underwriting friction increases",
-          "body": "Here is what this actually changes when a file hits underwriting: frequent price drops mean appraisal values are volatile and subject to intense scrutiny."
-        },
-        {
-          "heading": "Cancellations are spiking",
-          "body": "With buyers holding more negotiating power, purchase contracts are falling apart at the highest rates seen since the early pandemic months."
-        }
-      ],
-      "my_take_heading": "Leverage is an illusion without financing power",
-      "my_take": "Everyone thinks a buyer's market means easy wins. It actually means walking buyers who are terrified of overpaying.",
-      "action_lo": "Structure purchase loans with built-in temporary rate buydowns to give anxious buyers payment certainty.",
-      "action_realtor": "Target listings with a history of price drops where sellers are finally motivated to negotiate concessions.",
-      "cta_question": "How are you helping clients navigate appraisal gaps in this seller surplus?"
-    },
-    {
-      "slug": "cpi-inflation-spike",
-      "title": "Inflation Hits 3.7 Percent and Crushes Rate Rally",
-      "source": "The Mortgage Reports",
-      "source_url": "https://themortgagereports.com/135278/september-cpi-2026-mortgage-rates",
-      "cover_text": "Hotter inflation just killed the rate rally",
-      "caption": "Forget about a smooth glide path down to the low sevens for mortgage rates. September inflation came in hotter than expected at 3.7%, sending bond yields surging and putting recent borrowing cost improvements at serious risk. Loan officers banking on an easy fourth quarter are in for a rude awakening as the Fed weighs a potential rate hike. This volatility changes how we lock loans and manage client expectations. Here is how to keep your pipeline moving when the bond market turns against you.\n\nSource : https://tinyurl.com/2bvnfmjz\n#SafetrustMortgage #MortgageIntelligenceDaily #mortgagerates #housingmarket #mortgagebroker",
+      "slug": "rates-plummet-inflation-paradox",
+      "title": "Mortgage Rates Plummet Despite Hot Wholesale Inflation Report",
+      "source": "The Truth About Mortgage",
+      "source_url": "https://www.thetruthaboutmortgage.com/mortgage-rates-plummet-despite-hot-wholesale-inflation-report",
+      "cover_text": "Why mortgage rates dropped after bad inflation news",
+      "caption": "The recent drop in mortgage rates defies the standard economic playbook. Core PPI (how much wholesale prices rise for businesses) came in hot, yet bond yields dropped and rates fell to a three-week low. Here is what is happening behind the scenes in the capital markets and what it means for your pipeline.\n\nSource : https://tinyurl.com/26v4pqfw\n#SafetrustMortgage #MortgageIntelligenceDaily #mortgagerates #housingmarket #mortgagebroker",
       "hashtags": [
         "#SafetrustMortgage",
         "#MortgageIntelligenceDaily",
@@ -56,127 +14,41 @@
         "#housingmarket",
         "#mortgagebroker"
       ],
-      "hook_tag": "Rate Outlook",
-      "hook": "Hotter inflation just wiped out recent mortgage rate improvements.",
-      "what_happened_heading": "Consumer price index jumps higher",
-      "what_happened": "September inflation hit 3.7% year over year, jumping past forecasts and undoing recent progress in the bond market. The hotter-than-expected report immediately pushed bond yields higher and put mortgage rate relief on ice.",
+      "hook_tag": "Rate Market Reality",
+      "hook": "Bad inflation news just triggered a massive rate drop. Here is why.",
+      "what_happened_heading": "Rates fall despite hot inflation data",
+      "what_happened": "Top-tier 30-year fixed rates dropped to an average of 7.33% across lenders. This happened despite core wholesale inflation coming in hotter than expected.",
       "breakdown": [
         {
-          "heading": "The core inflation surprise",
-          "body": "Unrounded core CPI came in far higher than economists predicted, signaling that inflation remains sticky across key sectors."
+          "heading": "The traditional rule broke down",
+          "body": "Normally, higher inflation numbers push bond yields up and send mortgage rates right along with them. This week completely flipped that script."
         },
         {
-          "heading": "Fed expectations shift instantly",
-          "body": "The probability of a Federal Reserve rate hike moved sharply into focus, reversing weeks of optimism among bond investors."
+          "heading": "Tech stocks drove the bond rally",
+          "body": "Investors suddenly viewed tech stocks as risky assets and rotated heavily back into bonds. That rush of capital drove bond prices up and yields down."
         },
         {
-          "heading": "Pipeline lock management pressure",
-          "body": "Here is what this actually changes when a file hits underwriting: floating loans in this environment is an expensive gamble for borrowers."
+          "heading": "Underwriting the bond market shift",
+          "body": "When a file hits underwriting, pricing locks depend on MBS (mortgage-backed securities) execution. Volatility like this means secondary desks are managing extreme rate-sheet changes hourly."
         },
         {
-          "heading": "Affordability takes another hit",
-          "body": "With rates pushed back up, monthly payments expand further, knocking marginal buyers completely out of qualification range."
+          "heading": "The flight to safety wins",
+          "body": "Global capital markets care less about domestic PPI prints when macro fear sets in. Safety always beats inflation worry in the short term."
         }
       ],
-      "my_take_heading": "Floating is dead money in a volatile bond market",
-      "my_take": "Stop trying to time the bond market for your clients. Lock early and structure the payment, not the rate.",
-      "action_lo": "Enforce strict float-down policies and educate borrowers on why locking today protects their debt-to-income ratio.",
-      "action_realtor": "Remind buyers to focus on the home price and terms, because waiting for a rate drop could cost them more.",
-      "cta_question": "Are your borrowers accepting higher rates or pausing their home search entirely?"
+      "my_take_heading": "Stop trying to time the bond market",
+      "my_take": "Trying to explain every tick in the bond market to a borrower is a fool's errand. Focus on locking when the math makes sense today.",
+      "action_lo": "Call every client whose rate quote was on the fence last week and re-run their numbers at 7.33%.",
+      "action_realtor": "Remind hesitant buyers that rate drops happen fast and disappear just as quickly when market sentiment shifts.",
+      "cta_question": "Are you seeing your locked borrowers try to float down after this recent drop? Let us know below."
     },
     {
-      "slug": "fannie-mae-rate-forecast",
-      "title": "Fannie Mae Sharply Raises 2027 Rate Forecast",
-      "source": "CNBC",
-      "source_url": "https://www.cnbc.com/2026/10/14/fannie-mae-sharply-raises-mortgage-rate-forecast-for-2027-.html",
-      "cover_text": "Fannie Mae admits higher rates are permanent",
-      "caption": "The narrative that mortgage rates will magically drop back to historical norms anytime soon just took a direct hit. Fannie Mae just published a revised forecast for 2027, and the numbers are significantly higher than previous estimates. If your entire business model relies on a massive wave of refinances next year, you need a new plan right now. Purchase originations and alternative financing are the only games in town. Let us break down what this long-term reality check means for your volume.\n\nSource : https://tinyurl.com/256kk7hx\n#SafetrustMortgage #MortgageIntelligenceDaily #mortgagerates #housingmarket #loanofficer",
-      "hashtags": [
-        "#SafetrustMortgage",
-        "#MortgageIntelligenceDaily",
-        "#mortgagerates",
-        "#housingmarket",
-        "#loanofficer"
-      ],
-      "hook_tag": "Industry Forecast",
-      "hook": "Fannie Mae's new forecast proves high mortgage rates are here to stay.",
-      "what_happened_heading": "A major revision to future rate expectations",
-      "what_happened": "Fannie Mae released its updated housing forecast, sharply raising its mortgage rate predictions for 2027 well above earlier estimates. The adjustment reflects persistent economic pressures that are keeping borrowing costs elevated for the foreseeable future.",
-      "breakdown": [
-        {
-          "heading": "The refi boom is cancelled",
-          "body": "Millions of homeowners sitting on low first-lien rates have zero incentive to refinance anytime soon, starving lenders of traditional refi volume."
-        },
-        {
-          "heading": "Agency volume keeps shrinking",
-          "body": "As conventional agency lending contracts, originators must diversify their product mix to survive the ongoing margin squeeze."
-        },
-        {
-          "heading": "Underwriting reality check",
-          "body": "Here is what this actually changes when a file hits underwriting: debt-to-income ratios will face permanent pressure without rate relief."
-        },
-        {
-          "heading": "The strategic pivot required",
-          "body": "Lenders and agents must build business models that thrive in a high-rate, low-turnover purchase environment."
-        }
-      ],
-      "my_take_heading": "Hope is not a business strategy for a high rate world",
-      "my_take": "If you are waiting for rates to drop back to five percent to save your production, you are already out of business.",
-      "action_lo": "Build deep proficiency in Non-QM (non-qualified mortgage) and home equity products to capture trapped home equity.",
-      "action_realtor": "Educate sellers that waiting for lower rates to list means competing with a larger wave of sidelined inventory later.",
-      "cta_question": "How is your leadership team adjusting production goals for the next twenty four months?"
-    },
-    {
-      "slug": "gse-buyback-tech",
-      "title": "GSEs Deploy New Tech to Target Buyback Risk",
-      "source": "HousingWire",
-      "source_url": "https://www.housingwire.com/articles/gse-fannie-freddie-tech/",
-      "cover_text": "Fannie and Freddie's new tech hunts defects",
-      "caption": "Fannie Mae and Freddie Mac are upgrading their technology stack, and every single mortgage executive needs to pay attention. The GSEs are deploying advanced analytics to flag occupancy risk and income defects upfront before loans ever hit the secondary market. This is a direct shot across the bow for lenders with sloppy pre-approval processes. If your operations team relies on manual checks, your buyback exposure just skyrocketed. Here is how this changes loan manufacturing from the ground up.\n\nSource : https://tinyurl.com/28v8ca42\n#SafetrustMortgage #MortgageIntelligenceDaily #mortgagebroker #loanofficer #firsttimehomebuyer",
-      "hashtags": [
-        "#SafetrustMortgage",
-        "#MortgageIntelligenceDaily",
-        "#mortgagebroker",
-        "#loanofficer",
-        "#firsttimehomebuyer"
-      ],
-      "hook_tag": "Compliance Risk",
-      "hook": "The GSEs are using new tech to catch occupancy and income defects upfront.",
-      "what_happened_heading": "New tools target loan quality at the source",
-      "what_happened": "Mortgage giants Fannie Mae and Freddie Mac are deploying sophisticated technology designed to flag occupancy risks and income defects early in the origination cycle. The initiative aims to dramatically cut down repurchase liabilities by catching errors before delivery.",
-      "breakdown": [
-        {
-          "heading": "Upfront data scrutiny",
-          "body": "The new systems cross-reference borrower data against vast public records to instantly verify primary residence occupancy claims."
-        },
-        {
-          "heading": "Income defect detection",
-          "body": "Automated tools scan tax returns and paystubs for inconsistencies that manual underwriters might overlook during busy pipeline surges."
-        },
-        {
-          "heading": "Underwriting quality control",
-          "body": "Here is what this actually changes when a file hits underwriting: every stated fact must be bulletproof against algorithmic cross-checks."
-        },
-        {
-          "heading": "Lowering repurchase exposure",
-          "body": "By tightening standards at the point of sale, the GSEs are shifting the burden of defect prevention squarely back onto originators."
-        }
-      ],
-      "my_take_heading": "Algorithms do not care about your relationship with the borrower",
-      "my_take": "If your operations team relies on guesswork for self-employed income, the GSEs' new tech will eat your net worth in buybacks.",
-      "action_lo": "Audit your pre-approval process and implement rigorous income verification tools before submitting files to processing.",
-      "action_realtor": "Ensure investment property contracts clearly reflect true intent to avoid catastrophic occupancy fraud flags.",
-      "cta_question": "Are your current operations ready for automated GSE scrutiny on every single file?"
-    }
-  ],
-  "carousels_es": [
-    {
-      "slug": "sellers-vs-buyers-gap",
-      "title": "Los vendedores de casas superan en un 63 por ciento a los compradores",
+      "slug": "asking-prices-fall-redfin",
+      "title": "Housing Market Update: Asking Prices Fall For the First Time Since March",
       "source": "Redfin",
-      "source_url": "https://www.redfin.com/news/buyers-vs-sellers-september-2026/",
-      "cover_text": "Vendedores superan a compradores en 63 por ciento",
-      "caption": "El mercado de la vivienda acaba de sufrir un desequilibrio enorme que la mayoría de los agentes inmobiliarios están interpretando mal. Los datos de Redfin muestran que los vendedores de casas superaron a los compradores en un 62.6% en septiembre. Esta es la brecha más grande desde la crisis de 2013, después de la recesión. Aunque los titulares hablan del poder del comprador, esto es lo que significa para tu negocio: el inventario no se mueve, las caídas de precios se aceleran y las cancelaciones aumentan. Si eres asesor de préstamos o agente y lo tratas como un mercado de primavera normal, estás perdiendo tratos. Sigue leyendo para saber cómo cambiar tu estrategia ahora mismo.\n\nFuente : https://tinyurl.com/26zcap8s\n#SafetrustMortgage #MortgageIntelligenceDaily #housingmarket #realestateagent #homebuying",
+      "source_url": "https://www.redfin.com/news/housing-market-update-asking-prices-decline-october/",
+      "cover_text": "Asking prices are falling for the first time",
+      "caption": "For the first time since March, median asking prices are on the decline as pending sales linger near record lows. Sellers are finally waking up to the reality of a cooling market. Here is how to navigate this shifting pricing power.\n\nSource : https://tinyurl.com/2ba65lpt\n#SafetrustMortgage #MortgageIntelligenceDaily #housingmarket #realestateagent #homebuying",
       "hashtags": [
         "#SafetrustMortgage",
         "#MortgageIntelligenceDaily",
@@ -184,159 +56,117 @@
         "#realestateagent",
         "#homebuying"
       ],
-      "hook_tag": "Cambio en el mercado",
-      "hook": "Los vendedores superan a los compradores en 63%, la brecha más grande desde 2013.",
-      "what_happened_heading": "La mayor brecha del mercado en trece años",
-      "what_happened": "En septiembre, los vendedores de casas superaron a los compradores en un 62.6% estimado, estableciendo un récord por cuarto mes consecutivo. Las ventas de casas pendientes también rondaron su nivel más bajo en 12 años, mientras que las cancelaciones alcanzaron niveles extremos.",
+      "hook_tag": "Pricing Shift",
+      "hook": "Asking prices just dropped for the first time since March.",
+      "what_happened_heading": "Price growth slows down significantly",
+      "what_happened": "The median U.S. home-sale price rose just 0.5% year over year, marking the slowest growth rate since March. Meanwhile, the median asking price actually fell.",
       "breakdown": [
         {
-          "heading": "La cantidad de compradores disminuyó",
-          "body": "Las tasas de interés más altas y los precios de las casas que no bajan hicieron que el número de compradores activos cayera al nivel más bajo desde 2013."
+          "heading": "The standoff is ending",
+          "body": "For months, sellers held out for peak-market prices while buyers balked at high rates. Inventory pressure is finally forcing sellers to blink."
         },
         {
-          "heading": "Los vendedores se acumulan",
-          "body": "Por otro lado, los propietarios frustrados siguen listando propiedades a pesar de las altas tasas, llevando el número total de vendedores a máximos históricos."
+          "heading": "Sales remain near record lows",
+          "body": "Pending home sales inched up slightly this week, but overall volume remains suppressed. Affordability walls are keeping transaction counts depressed."
         },
         {
-          "heading": "Aumenta la fricción en la aprobación",
-          "body": "Esto es lo que cambia cuando un expediente llega a aprobación: las caídas frecuentes de precios significan que los valores de tasación son volátiles y están sujetos a escrutinio intenso."
+          "heading": "Underwriting realistic valuations",
+          "body": "When an appraiser reviews a file in a cooling market, historical comps from three months ago are dead weight. We are seeing more value adjustments on sliding properties."
         },
         {
-          "heading": "Las cancelaciones están aumentando",
-          "body": "Con los compradores teniendo más poder de negociación, los contratos de compra se están deshaciendo a las tasas más altas vistas desde los primeros meses de la pandemia."
+          "heading": "The shift in pricing power",
+          "body": "Buyers who sat out the summer frenzy now have room to negotiate concessions and price drops that were non-existent a few months ago."
         }
       ],
-      "my_take_heading": "El apalancamiento es una ilusión sin poder de financiación",
-      "my_take": "Todos piensan que un mercado de compradores significa victorias fáciles. En realidad, significa guiar a compradores que tienen miedo de pagar de más.",
-      "action_lo": "Estructura préstamos de compra con reducciones temporales de tasa (buydowns) incorporadas para dar certeza de pago a los compradores ansiosos.",
-      "action_realtor": "Busca propiedades con historial de caídas de precio donde los vendedores estén motivados a negociar concesiones.",
-      "cta_question": "¿Cómo ayudas a los clientes a navegar las diferencias en las tasaciones con este excedente de vendedores?"
+      "my_take_heading": "Price cuts are not a crash",
+      "my_take": "Sellers cutting prices are not crashing the market; they are simply meeting reality. Price cuts are the bridge between high rates and closed deals.",
+      "action_lo": "Reach out to your pre-approved buyers and show them how a lower purchase price beats waiting for lower rates.",
+      "action_realtor": "Use this data point to gently counsel over-priced listings that the window for aggressive pricing has closed.",
+      "cta_question": "Are your local sellers finally accepting price reductions, or are they still chasing the peak?"
     },
     {
-      "slug": "cpi-inflation-spike",
-      "title": "La inflación alcanza el 3.7 por ciento y aplasta el repunte de las tasas",
-      "source": "The Mortgage Reports",
-      "source_url": "https://themortgagereports.com/135278/september-cpi-2026-mortgage-rates",
-      "cover_text": "La inflación alta acaba de matar el repunte de las tasas",
-      "caption": "Olvídate de un camino suave hacia los siete bajos para las tasas hipotecarias. La inflación de septiembre fue más alta de lo esperado, alcanzando el 3.7%, lo que disparó los rendimientos de los bonos y puso en grave riesgo las recientes mejoras en los costos de los préstamos. Los asesores de préstamos que contaban con un cuarto trimestre fácil se llevarán una sorpresa, ya que la Reserva Federal considera un posible aumento de tasas. Esta volatilidad cambia cómo bloqueamos los préstamos y manejamos las expectativas del cliente. Aquí te mostramos cómo mantener tu negocio en movimiento cuando el mercado de bonos se vuelve en tu contra.\n\nFuente : https://tinyurl.com/2bvnfmjz\n#SafetrustMortgage #MortgageIntelligenceDaily #mortgagerates #housingmarket #mortgagebroker",
+      "slug": "lendingtree-home-improvements-equity",
+      "title": "Cash Dominates Home Improvements, Equity Loans Fund Bigger Jobs",
+      "source": "National Mortgage Professional",
+      "source_url": "https://nationalmortgageprofessional.com/news/cash-dominates-home-improvements-equity-loans-fund-bigger-jobs",
+      "cover_text": "Cash dominates home improvements, but equity wins big",
+      "caption": "A new LendingTree analysis reveals that cash funds nearly 76% of all home improvements, but equity loans control the big-ticket renovations. If you are only talking about purchase loans right now, you are missing the massive equity play sitting in your database.\n\nSource : https://tinyurl.com/2xh53387\n#SafetrustMortgage #MortgageIntelligenceDaily #homebuying #mortgagerates #realestateinvesting",
       "hashtags": [
         "#SafetrustMortgage",
         "#MortgageIntelligenceDaily",
+        "#homebuying",
         "#mortgagerates",
-        "#housingmarket",
-        "#mortgagebroker"
+        "#realestateinvesting"
       ],
-      "hook_tag": "Perspectiva de tasas",
-      "hook": "La inflación más alta acaba de borrar las mejoras recientes en las tasas hipotecarias.",
-      "what_happened_heading": "El índice de precios al consumidor sube",
-      "what_happened": "La inflación de septiembre llegó al 3.7% interanual, superando las previsiones y deshaciendo el progreso reciente en el mercado de bonos. El informe, más alto de lo esperado, elevó de inmediato los rendimientos de los bonos y congeló el alivio en las tasas hipotecarias.",
+      "hook_tag": "Equity Strategy",
+      "hook": "Cash pays for most home repairs, but equity funds the big jobs.",
+      "what_happened_heading": "Cash vs equity in home renovations",
+      "what_happened": "LendingTree data shows cash savings funded 75.7% of home improvement projects. However, projects financed with home equity loans were considerably larger.",
       "breakdown": [
         {
-          "heading": "La sorpresa de la inflación subyacente",
-          "body": "El IPC subyacente sin redondear fue mucho más alto de lo que predijeron los economistas, lo que indica que la inflación sigue siendo persistente en sectores clave."
+          "heading": "The everyday repair reality",
+          "body": "Most homeowners pay cash for smaller fixes like roofs or HVAC failures out of necessity. They avoid touching their mortgage for minor updates."
         },
         {
-          "heading": "Las expectativas de la Fed cambian al instante",
-          "body": "La probabilidad de un aumento de tasas de la Reserva Federal pasó a primer plano, revirtiendo semanas de optimismo entre los inversionistas de bonos."
+          "heading": "Where equity steps in",
+          "body": "When homeowners take on major additions or whole-house overhauls, home equity loans and HELOCs (home equity lines of credit) become the primary funding mechanism."
         },
         {
-          "heading": "Presión en la gestión de bloqueo de préstamos",
-          "body": "Esto es lo que cambia cuando un expediente llega a aprobación: mantener tasas flotantes en este entorno es una apuesta costosa para los prestatarios."
+          "heading": "Underwriting the risk profile",
+          "body": "When a file hits underwriting for a second lien or HELOC, DTI (how much of your income goes to debt) gets stress-tested against current cash flow. Lenders want to see reserves remain intact."
         },
         {
-          "heading": "La asequibilidad sufre otro golpe",
-          "body": "Con las tasas nuevamente al alza, los pagos mensuales aumentan aún más, dejando a compradores marginales fuera del rango de calificación."
+          "heading": "The database goldmine",
+          "body": "Your past clients are sitting on trillions in tappable equity. If they are not moving, they are remodeling. That is your next loan product."
         }
       ],
-      "my_take_heading": "Flotar es dinero perdido en un mercado de bonos volátil",
-      "my_take": "Deja de intentar pronosticar el mercado de bonos para tus clientes. Bloquea la tasa temprano y estructura el pago, no solo la tasa.",
-      "action_lo": "Aplica políticas estrictas de reducción de tasas (float-down) y educa a los prestatarios sobre por qué bloquear hoy protege su relación deuda-ingresos.",
-      "action_realtor": "Recuerda a los compradores que se enfoquen en el precio de la casa y los términos, porque esperar una baja de tasas podría costarles más.",
-      "cta_question": "¿Tus prestatarios están aceptando tasas más altas o pausando por completo su búsqueda de casa?"
+      "my_take_heading": "Stop waiting for purchase volume to return",
+      "my_take": "If you are waiting for purchase volume to save your P&L, you are ignoring the massive wealth trapped in your past-client database.",
+      "action_lo": "Run an equity review on every borrower who closed a loan with you over the last four years.",
+      "action_realtor": "Partner with lenders to market home equity solutions to clients who want to renovate instead of trading their low rate.",
+      "cta_question": "What percentage of your current pipeline is coming from equity products versus standard purchase loans?"
     },
     {
-      "slug": "fannie-mae-rate-forecast",
-      "title": "Fannie Mae eleva drásticamente su pronóstico de tasas para 2027",
-      "source": "CNBC",
-      "source_url": "https://www.cnbc.com/2026/10/14/fannie-mae-sharply-raises-mortgage-rate-forecast-for-2027-.html",
-      "cover_text": "Fannie Mae admite que las tasas altas son permanentes",
-      "caption": "La idea de que las tasas hipotecarias bajarán mágicamente a la normalidad histórica pronto acaba de recibir un golpe directo. Fannie Mae acaba de publicar una previsión revisada para 2027, y los números son significativamente más altos que las estimaciones anteriores. Si todo tu modelo de negocio depende de una ola masiva de refinanciamientos el próximo año, necesitas un nuevo plan ahora mismo. Las originaciones de compra y el financiamiento alternativo son las únicas opciones. Analicemos lo que esta realidad a largo plazo significa para tu volumen.\n\nFuente : https://tinyurl.com/256kk7hx\n#SafetrustMortgage #MortgageIntelligenceDaily #mortgagerates #housingmarket #loanofficer",
-      "hashtags": [
-        "#SafetrustMortgage",
-        "#MortgageIntelligenceDaily",
-        "#mortgagerates",
-        "#housingmarket",
-        "#loanofficer"
-      ],
-      "hook_tag": "Pronóstico de la industria",
-      "hook": "El nuevo pronóstico de Fannie Mae demuestra que las tasas hipotecarias altas llegaron para quedarse.",
-      "what_happened_heading": "Una revisión importante de las expectativas de tasas futuras",
-      "what_happened": "Fannie Mae publicó su pronóstico actualizado de vivienda, aumentando drásticamente sus predicciones de tasas hipotecarias para 2027, muy por encima de las estimaciones anteriores. El ajuste refleja presiones económicas persistentes que mantienen los costos de endeudamiento elevados en el futuro previsible.",
-      "breakdown": [
-        {
-          "heading": "El boom de refinanciamiento se canceló",
-          "body": "Millones de propietarios con tasas bajas no tienen incentivos para refinanciar pronto, privando a los prestamistas del volumen tradicional de refinanciamientos."
-        },
-        {
-          "heading": "El volumen de agencia sigue disminuyendo",
-          "body": "A medida que los préstamos convencionales de agencia se contraen, los originadores deben diversificar sus productos para sobrevivir a la continua presión sobre los márgenes."
-        },
-        {
-          "heading": "Realidad en la aprobación",
-          "body": "Esto es lo que cambia cuando un expediente llega a aprobación: las relaciones deuda-ingresos enfrentarán presión permanente sin alivio de tasas."
-        },
-        {
-          "heading": "El giro estratégico necesario",
-          "body": "Los prestamistas y agentes deben construir modelos de negocio que prosperen en un entorno de compra con altas tasas y baja rotación."
-        }
-      ],
-      "my_take_heading": "La esperanza no es una estrategia de negocios en un mundo de tasas altas",
-      "my_take": "Si estás esperando que las tasas bajen a un cinco por ciento para salvar tu producción, ya estás fuera del negocio.",
-      "action_lo": "Desarrolla una profunda experiencia en productos Non-QM (hipotecas no calificadas) y de capital hipotecario para capturar el capital inmovilizado.",
-      "action_realtor": "Educa a los vendedores que esperar tasas más bajas para listar significa competir más tarde con un inventario mayor inmovilizado.",
-      "cta_question": "¿Cómo está tu equipo de liderazgo ajustando los objetivos de producción para los próximos veinticuatro meses?"
-    },
-    {
-      "slug": "gse-buyback-tech",
-      "title": "Las GSEs implementan nueva tecnología para identificar riesgos de recompra",
-      "source": "HousingWire",
-      "source_url": "https://www.housingwire.com/articles/gse-fannie-freddie-tech/",
-      "cover_text": "Nueva tecnología de Fannie y Freddie busca defectos",
-      "caption": "Fannie Mae y Freddie Mac están actualizando su tecnología, y cada ejecutivo hipotecario debe prestar atención. Las GSEs están implementando análisis avanzados para detectar riesgos de ocupación y defectos de ingresos antes de que los préstamos lleguen al mercado secundario. Esto es un aviso directo para los prestamistas con procesos de preaprobación descuidados. Si tu equipo de operaciones depende de verificaciones manuales, tu exposición a recompras acaba de dispararse. Así es como esto cambia la fabricación de préstamos desde la raíz.\n\nFuente : https://tinyurl.com/28v8ca42\n#SafetrustMortgage #MortgageIntelligenceDaily #mortgagebroker #loanofficer #firsttimehomebuyer",
+      "slug": "fannie-expands-occupancy-checks",
+      "title": "Fannie Expands Occupancy Checks; Freddie Targets Loan Defects",
+      "source": "National Mortgage Professional",
+      "source_url": "https://nationalmortgageprofessional.com/news/fannie-expands-occupancy-checks-freddie-targets-loan-defects",
+      "cover_text": "Fannie expands occupancy checks to catch fraud early",
+      "caption": "Fannie Mae is expanding its occupancy-risk messaging to catch misrepresentation before loans close. Combined with Freddie Mac targeting loan defects through digital verification, origination quality controls are tightening fast. Here is how to protect your pull-through.\n\nSource : https://tinyurl.com/29lvjy8z\n#SafetrustMortgage #MortgageIntelligenceDaily #mortgagebroker #housingmarket #firsttimehomebuyer",
       "hashtags": [
         "#SafetrustMortgage",
         "#MortgageIntelligenceDaily",
         "#mortgagebroker",
-        "#loanofficer",
+        "#housingmarket",
         "#firsttimehomebuyer"
       ],
-      "hook_tag": "Riesgo de cumplimiento",
-      "hook": "Las GSEs usan nueva tecnología para detectar defectos de ocupación e ingresos temprano.",
-      "what_happened_heading": "Nuevas herramientas para la calidad del préstamo en el origen",
-      "what_happened": "Los gigantes hipotecarios Fannie Mae y Freddie Mac están implementando tecnología sofisticada diseñada para detectar riesgos de ocupación y defectos de ingresos temprano en el ciclo de originación. La iniciativa busca reducir drásticamente las responsabilidades de recompra al detectar errores antes de la entrega.",
+      "hook_tag": "Underwriting Update",
+      "hook": "Fannie Mae is tightening occupancy checks before your loans even close.",
+      "what_happened_heading": "New occupancy risk alerts launched",
+      "what_happened": "Fannie Mae will expand the information used in its occupancy-risk messaging next month. This gives lenders a chance to resolve questions about a borrower’s intended property use pre-closing.",
       "breakdown": [
         {
-          "heading": "Análisis de datos inicial",
-          "body": "Los nuevos sistemas verifican datos del prestatario contra grandes registros públicos para corroborar al instante las declaraciones de ocupación de residencia principal."
+          "heading": "Pre-closing verification expands",
+          "body": "The new messaging targets second home and investment property misrepresentation early in the loan lifecycle. Lenders can no longer wait until post-closing audits to catch flags."
         },
         {
-          "heading": "Detección de defectos de ingresos",
-          "body": "Herramientas automatizadas escanean declaraciones de impuestos y recibos de pago buscando inconsistencias que los asesores manuales podrían pasar por alto en momentos de mucho trabajo."
+          "heading": "Digital verification lowers defects",
+          "body": "New guidance from both agencies proves that earlier digital review significantly cuts down on repurchase demands and loan-level defects."
         },
         {
-          "heading": "Control de calidad en la aprobación",
-          "body": "Esto es lo que cambia cuando un expediente llega a aprobación: cada hecho declarado debe ser impecable contra las verificaciones algorítmicas."
+          "heading": "Underwriting the occupancy intent",
+          "body": "When an underwriter sees a primary residence purchase too close to a borrower's existing home without a clear life change, these new flags instantly trigger extra conditions."
         },
         {
-          "heading": "Reducción de exposición a recompras",
-          "body": "Al endurecer los estándares en el punto de venta, las GSEs transfieren la carga de la prevención de defectos directamente a los originadores."
+          "heading": "Protecting your fallout rate",
+          "body": "Catching occupancy discrepancies pre-approval saves weeks of wasted processing time and prevents devastating buybacks down the road."
         }
       ],
-      "my_take_heading": "A los algoritmos no les importa tu relación con el prestatario",
-      "my_take": "Si tu equipo de operaciones se basa en conjeturas para ingresos de trabajadores independientes, la nueva tecnología de las GSEs devorará tu patrimonio en recompras.",
-      "action_lo": "Audita tu proceso de preaprobación e implementa herramientas rigurosas de verificación de ingresos antes de enviar expedientes a procesamiento.",
-      "action_realtor": "Asegúrate de que los contratos de propiedades de inversión reflejen claramente la verdadera intención para evitar señales catastróficas de fraude de ocupación.",
-      "cta_question": "¿Están tus operaciones actuales listas para el escrutinio automatizado de las GSEs en cada expediente?"
+      "my_take_heading": "Fix your front-end file intake",
+      "my_take": "If your loan officers are taking applications without properly vetting occupancy intent, Fannie's new system is going to eat your pull-through alive.",
+      "action_lo": "Audit your initial intake questionnaire to ensure primary vs investment intent is bulletproof before submitting files.",
+      "action_realtor": "Educate buyers on why lenders are asking more questions about commutes and property use to avoid closing delays.",
+      "cta_question": "Are your underwriting teams seeing more occupancy flags pop up on primary purchase files lately?"
     }
   ]
 }
