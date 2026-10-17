@@ -1,342 +1,172 @@
 {
   "carousels": [
     {
-      "slug": "rates-plummet-inflation-paradox",
-      "title": "Mortgage Rates Plummet Despite Hot Wholesale Inflation Report",
+      "slug": "first-horizon-portfolio-sale",
+      "title": "First Horizon Sells Mortgage Portfolio at Discount",
+      "source": "HousingWire",
+      "source_url": "https://www.housingwire.com/articles/first-horizon-sells-4-5-billion/",
+      "cover_text": "Banks are dumping standalone mortgage debt",
+      "caption": "Regional banks are making a massive strategic pivot away from traditional mortgage origination. First Horizon just sold off a four point five billion dollar mortgage portfolio at a discount. Why? Because holding standalone mortgage debt without full deposit relationships is no longer profitable for regional institutions. As an underwriter, I watched balance sheet rules tighten whenever liquidity squeezed. Banks want wealth management accounts and checking deposits attached to every note. If your client is just looking for a loan without moving their banking life, bank underwriters will scrutinize the file much harder. Independent mortgage brokers now hold a distinct advantage for pure transaction buyers. Align your pipeline with non-bank lenders who care about the asset, not the checking balance.\n\nSource : https://tinyurl.com/24q5ggw8\n#SafetrustMortgage #MortgageIntelligenceDaily #loanofficer创意 #mortgagebroker #housingmarket",
+      "hashtags": [
+        "#SafetrustMortgage",
+        "#MortgageIntelligenceDaily",
+        "#loanofficer创意",
+        "#mortgagebroker",
+        "#housingmarket"
+      ],
+      "hook_tag": "Banking Strategy Shift",
+      "hook": "Banks are quietly exiting mortgages unless you bring deep relationship deposits.",
+      "what_happened_heading": "First Horizon sells bulk mortgage debt",
+      "what_happened": "First Horizon sold a $4.5 billion mortgage portfolio at a discount. The bank stated this move aligns production closer to core relationship clients.",
+      "breakdown": [
+        {
+          "heading": "Portfolio lending is shifting focus",
+          "body": "Banks no longer want transactional mortgage debt on balance sheets. They want full banking relationships including checking accounts and wealth management."
+        },
+        {
+          "heading": "The underwriter perspective on risk",
+          "body": "Underwriters are instructed to evaluate deposit history and relationship depth before approving non-conforming paper (loans that do not meet standard Fannie Mae or Freddie Mac guidelines)."
+        },
+        {
+          "heading": "Margins force regional bank pivots",
+          "body": "Holding long-term low-yield paper drains bank liquidity. Offloading discounted loans frees capital for higher-margin commercial and relationship lending lines."
+        },
+        {
+          "heading": "Independent brokers gain competitive ground",
+          "body": "As regional banks pull back from transactional buyers, independent mortgage brokers inherit the standalone market without deposit obligations."
+        }
+      ],
+      "my_take_heading": "The death of transactional bank lending",
+      "my_take": "Regional banks are no longer in the mortgage business; they are in the deposit business with mortgages attached.",
+      "action_lo": "Partner with non-bank wholesale lenders who do not require depository relationships to clear loans.",
+      "action_realtor": "Stop sending single-product buyers to regional banks that prioritize deposit-rich wealth clients.",
+      "cta_question": "Are your local bank partners tightening criteria on non-relationship buyers?"
+    },
+    {
+      "slug": "mortgage-rates-fall-on-ai-rout",
+      "title": "Mortgage Rates Fall Despite Hot Inflation",
       "source": "The Truth About Mortgage",
-      "source_url": "https://www.thetruthaboutmortgage.com/mortgage-rates-plummet-despite-hot-wholesale-inflation-report",
-      "cover_text": "Why mortgage rates dropped after bad inflation news",
-      "caption": "The recent drop in mortgage rates defies the standard economic playbook. Core PPI (how much wholesale prices rise for businesses) came in hot, yet bond yields dropped and rates fell to a three-week low. Here is what is happening behind the scenes in the capital markets and what it means for your pipeline.\n\nSource : https://tinyurl.com/26v4pqfw\n#SafetrustMortgage #MortgageIntelligenceDaily #mortgagerates #housingmarket #mortgagebroker",
+      "source_url": "https://www.thetruthaboutmortgage.com/mortgage-rates-keep-falling-on-ai-rout-but-will-it-last/",
+      "cover_text": "Stock market panic dropped mortgage rates",
+      "caption": "Mortgage rates just fell for five straight days despite hot inflation numbers. It sounds completely backward until you look at Wall Street. Investors panicked over AI tech debt and dumped equities, creating a classic flight to quality into bonds. Lower bond yields pulled mortgage rates down to a three-week low near seven point three seven five percent. Here is what you need to know from the underwriting side: flight-to-safety rallies are historically short-lived. Secondary desks know pricing can reverse overnight as soon as stock markets stabilize. You cannot coach buyers to wait for inflation to cool when stock market volatility is giving them an unexpected window today. Move quickly when equities slide.\n\nSource : https://tinyurl.com/256t6ocp\n#SafetrustMortgage #MortgageIntelligenceDaily #mortgagerates #housingmarket #homebuying",
       "hashtags": [
         "#SafetrustMortgage",
         "#MortgageIntelligenceDaily",
         "#mortgagerates",
         "#housingmarket",
-        "#mortgagebroker"
-      ],
-      "hook_tag": "Rate Market Reality",
-      "hook": "Bad inflation news just triggered a massive rate drop. Here is why.",
-      "what_happened_heading": "Rates fall despite hot inflation data",
-      "what_happened": "Top-tier 30-year fixed rates dropped to an average of 7.33% across lenders. This happened despite core wholesale inflation coming in hotter than expected.",
-      "breakdown": [
-        {
-          "heading": "The traditional rule broke down",
-          "body": "Normally, higher inflation numbers push bond yields up and send mortgage rates right along with them. This week completely flipped that script."
-        },
-        {
-          "heading": "Tech stocks drove the bond rally",
-          "body": "Investors suddenly viewed tech stocks as risky assets and rotated heavily back into bonds. That rush of capital drove bond prices up and yields down."
-        },
-        {
-          "heading": "Underwriting the bond market shift",
-          "body": "When a file hits underwriting, pricing locks depend on MBS (mortgage-backed securities) execution. Volatility like this means secondary desks are managing extreme rate-sheet changes hourly."
-        },
-        {
-          "heading": "The flight to safety wins",
-          "body": "Global capital markets care less about domestic PPI prints when macro fear sets in. Safety always beats inflation worry in the short term."
-        }
-      ],
-      "my_take_heading": "Stop trying to time the bond market",
-      "my_take": "Trying to explain every tick in the bond market to a borrower is a fool's errand. Focus on locking when the math makes sense today.",
-      "action_lo": "Call every client whose rate quote was on the fence last week and re-run their numbers at 7.33%.",
-      "action_realtor": "Remind hesitant buyers that rate drops happen fast and disappear just as quickly when market sentiment shifts.",
-      "cta_question": "Are you seeing your locked borrowers try to float down after this recent drop? Let us know below."
-    },
-    {
-      "slug": "asking-prices-fall-redfin",
-      "title": "Housing Market Update: Asking Prices Fall For the First Time Since March",
-      "source": "Redfin",
-      "source_url": "https://www.redfin.com/news/housing-market-update-asking-prices-decline-october/",
-      "cover_text": "Asking prices are falling for the first time",
-      "caption": "For the first time since March, median asking prices are on the decline as pending sales linger near record lows. Sellers are finally waking up to the reality of a cooling market. Here is how to navigate this shifting pricing power.\n\nSource : https://tinyurl.com/2ba65lpt\n#SafetrustMortgage #MortgageIntelligenceDaily #housingmarket #realestateagent #homebuying",
-      "hashtags": [
-        "#SafetrustMortgage",
-        "#MortgageIntelligenceDaily",
-        "#housingmarket",
-        "#realestateagent",
         "#homebuying"
       ],
-      "hook_tag": "Pricing Shift",
-      "hook": "Asking prices just dropped for the first time since March.",
-      "what_happened_heading": "Price growth slows down significantly",
-      "what_happened": "The median U.S. home-sale price rose just 0.5% year over year, marking the slowest growth rate since March. Meanwhile, the median asking price actually fell.",
+      "hook_tag": "Mortgage Rate Dynamics",
+      "hook": "Mortgage rates did not drop due to low inflation. Tech panic did it.",
+      "what_happened_heading": "Inflation rose while mortgage rates fell",
+      "what_happened": "Mortgage rates dropped for five consecutive days down to roughly 7.375 percent. This drop occurred despite hotter-than-expected inflation reports in both CPI (Consumer Price Index) and PPI (Producer Price Index).",
       "breakdown": [
         {
-          "heading": "The standoff is ending",
-          "body": "For months, sellers held out for peak-market prices while buyers balked at high rates. Inventory pressure is finally forcing sellers to blink."
+          "heading": "Stock market fear drives bond buys",
+          "body": "Investors panicked over tech and AI debt exposure. Money fled equities into safe-haven government bonds, pushing bond yields down and taking mortgage rates with them."
         },
         {
-          "heading": "Sales remain near record lows",
-          "body": "Pending home sales inched up slightly this week, but overall volume remains suppressed. Affordability walls are keeping transaction counts depressed."
+          "heading": "Underwriting secondary marketing risk",
+          "body": "Secondary underwriters know flight-to-quality rate rallies are volatile. When stock fear subsides, mortgage rates quickly snap back up to reflect underlying inflation."
         },
         {
-          "heading": "Underwriting realistic valuations",
-          "body": "When an appraiser reviews a file in a cooling market, historical comps from three months ago are dead weight. We are seeing more value adjustments on sliding properties."
+          "heading": "Economic disconnect creates brief windows",
+          "body": "Hot economic data usually pushes rates higher. This stock market fear rally created a temporary disconnect that borrowers must capture quickly."
         },
         {
-          "heading": "The shift in pricing power",
-          "body": "Buyers who sat out the summer frenzy now have room to negotiate concessions and price drops that were non-existent a few months ago."
+          "heading": "Secondary spreads remain historically wide",
+          "body": "Lenders maintain wider margins during stock volatility. Yield drops do not fully pass through to consumer pricing due to hedging costs."
         }
       ],
-      "my_take_heading": "Price cuts are not a crash",
-      "my_take": "Sellers cutting prices are not crashing the market; they are simply meeting reality. Price cuts are the bridge between high rates and closed deals.",
-      "action_lo": "Reach out to your pre-approved buyers and show them how a lower purchase price beats waiting for lower rates.",
-      "action_realtor": "Use this data point to gently counsel over-priced listings that the window for aggressive pricing has closed.",
-      "cta_question": "Are your local sellers finally accepting price reductions, or are they still chasing the peak?"
+      "my_take_heading": "A temporary gift from Wall Street",
+      "my_take": "Your rate relief was bought by tech stock losses, not economic recovery. Do not expect it to hold without lower inflation.",
+      "action_lo": "Lock floating buyers immediately during equity market pullbacks rather than waiting for lower inflation numbers.",
+      "action_realtor": "Educate buyers that short-term rate drops from stock market drops create immediate, fleeting purchase windows.",
+      "cta_question": "Are you locking clients during stock pullbacks or waiting for official inflation reports?"
     },
     {
-      "slug": "lendingtree-home-improvements-equity",
-      "title": "Cash Dominates Home Improvements, Equity Loans Fund Bigger Jobs",
-      "source": "National Mortgage Professional",
-      "source_url": "https://nationalmortgageprofessional.com/news/cash-dominates-home-improvements-equity-loans-fund-bigger-jobs",
-      "cover_text": "Cash dominates home improvements, but equity wins big",
-      "caption": "A new LendingTree analysis reveals that cash funds nearly 76% of all home improvements, but equity loans control the big-ticket renovations. If you are only talking about purchase loans right now, you are missing the massive equity play sitting in your database.\n\nSource : https://tinyurl.com/2xh53387\n#SafetrustMortgage #MortgageIntelligenceDaily #homebuying #mortgagerates #realestateinvesting",
+      "slug": "ftc-scrutiny-real-estate-leads",
+      "title": "Senators Request FTC Inquiry into Real Estate Leads",
+      "source": "HousingWire",
+      "source_url": "https://www.housingwire.com/articles/ftc-online-real-estate-practices/",
+      "cover_text": "Federal scrutiny targets real estate leads",
+      "caption": "Lawmakers are calling on the FTC to investigate real estate lead generation, mortgage steering, and office exclusive listings. They argue these practices inflate housing costs and limit consumer choice. From a compliance underwriter perspective, this is a massive warning sign. Regulators are no longer just looking at simple RESPA violations like co-paying for advertising. They are examining how digital portals route consumer data and steer buyers to preferred lenders. Brokerages relying on internal office exclusives or opaque lead-sharing agreements will soon face heavy regulatory friction. Clean up your co-marketing agreements and ensure complete transparency with consumers now before audits force your hand.\n\nSource : https://tinyurl.com/2956tc95\n#SafetrustMortgage #MortgageIntelligenceDaily #realestateagent #loanofficer #mortgagebroker",
       "hashtags": [
         "#SafetrustMortgage",
         "#MortgageIntelligenceDaily",
-        "#homebuying",
-        "#mortgagerates",
-        "#realestateinvesting"
-      ],
-      "hook_tag": "Equity Strategy",
-      "hook": "Cash pays for most home repairs, but equity funds the big jobs.",
-      "what_happened_heading": "Cash vs equity in home renovations",
-      "what_happened": "LendingTree data shows cash savings funded 75.7% of home improvement projects. However, projects financed with home equity loans were considerably larger.",
-      "breakdown": [
-        {
-          "heading": "The everyday repair reality",
-          "body": "Most homeowners pay cash for smaller fixes like roofs or HVAC failures out of necessity. They avoid touching their mortgage for minor updates."
-        },
-        {
-          "heading": "Where equity steps in",
-          "body": "When homeowners take on major additions or whole-house overhauls, home equity loans and HELOCs (home equity lines of credit) become the primary funding mechanism."
-        },
-        {
-          "heading": "Underwriting the risk profile",
-          "body": "When a file hits underwriting for a second lien or HELOC, DTI (how much of your income goes to debt) gets stress-tested against current cash flow. Lenders want to see reserves remain intact."
-        },
-        {
-          "heading": "The database goldmine",
-          "body": "Your past clients are sitting on trillions in tappable equity. If they are not moving, they are remodeling. That is your next loan product."
-        }
-      ],
-      "my_take_heading": "Stop waiting for purchase volume to return",
-      "my_take": "If you are waiting for purchase volume to save your P&L, you are ignoring the massive wealth trapped in your past-client database.",
-      "action_lo": "Run an equity review on every borrower who closed a loan with you over the last four years.",
-      "action_realtor": "Partner with lenders to market home equity solutions to clients who want to renovate instead of trading their low rate.",
-      "cta_question": "What percentage of your current pipeline is coming from equity products versus standard purchase loans?"
-    },
-    {
-      "slug": "fannie-expands-occupancy-checks",
-      "title": "Fannie Expands Occupancy Checks; Freddie Targets Loan Defects",
-      "source": "National Mortgage Professional",
-      "source_url": "https://nationalmortgageprofessional.com/news/fannie-expands-occupancy-checks-freddie-targets-loan-defects",
-      "cover_text": "Fannie expands occupancy checks to catch fraud early",
-      "caption": "Fannie Mae is expanding its occupancy-risk messaging to catch misrepresentation before loans close. Combined with Freddie Mac targeting loan defects through digital verification, origination quality controls are tightening fast. Here is how to protect your pull-through.\n\nSource : https://tinyurl.com/29lvjy8z\n#SafetrustMortgage #MortgageIntelligenceDaily #mortgagebroker #housingmarket #firsttimehomebuyer",
-      "hashtags": [
-        "#SafetrustMortgage",
-        "#MortgageIntelligenceDaily",
-        "#mortgagebroker",
-        "#housingmarket",
-        "#firsttimehomebuyer"
-      ],
-      "hook_tag": "Underwriting Update",
-      "hook": "Fannie Mae is tightening occupancy checks before your loans even close.",
-      "what_happened_heading": "New occupancy risk alerts launched",
-      "what_happened": "Fannie Mae will expand the information used in its occupancy-risk messaging next month. This gives lenders a chance to resolve questions about a borrower’s intended property use pre-closing.",
-      "breakdown": [
-        {
-          "heading": "Pre-closing verification expands",
-          "body": "The new messaging targets second home and investment property misrepresentation early in the loan lifecycle. Lenders can no longer wait until post-closing audits to catch flags."
-        },
-        {
-          "heading": "Digital verification lowers defects",
-          "body": "New guidance from both agencies proves that earlier digital review significantly cuts down on repurchase demands and loan-level defects."
-        },
-        {
-          "heading": "Underwriting the occupancy intent",
-          "body": "When an underwriter sees a primary residence purchase too close to a borrower's existing home without a clear life change, these new flags instantly trigger extra conditions."
-        },
-        {
-          "heading": "Protecting your fallout rate",
-          "body": "Catching occupancy discrepancies pre-approval saves weeks of wasted processing time and prevents devastating buybacks down the road."
-        }
-      ],
-      "my_take_heading": "Fix your front-end file intake",
-      "my_take": "If your loan officers are taking applications without properly vetting occupancy intent, Fannie's new system is going to eat your pull-through alive.",
-      "action_lo": "Audit your initial intake questionnaire to ensure primary vs investment intent is bulletproof before submitting files.",
-      "action_realtor": "Educate buyers on why lenders are asking more questions about commutes and property use to avoid closing delays.",
-      "cta_question": "Are your underwriting teams seeing more occupancy flags pop up on primary purchase files lately?"
-    }
-  ],
-  "carousels_es": [
-    {
-      "slug": "rates-plummet-inflation-paradox",
-      "title": "Las tasas hipotecarias caen a pesar del informe de inflación mayorista",
-      "source": "The Truth About Mortgage",
-      "source_url": "https://www.thetruthaboutmortgage.com/mortgage-rates-plummet-despite-hot-wholesale-inflation-report",
-      "cover_text": "Las tasas cayeron a pesar de la mala inflación",
-      "caption": "La reciente caída en las tasas hipotecarias desafía el libro de reglas económicas. El Índice de Precios al Productor (IPP) subió más de lo esperado, pero los rendimientos de los bonos bajaron y las tasas cayeron a su nivel más bajo en tres semanas. Aquí te explicamos qué está sucediendo en los mercados de capitales y qué significa para tu negocio.\n\nFuente : https://tinyurl.com/26v4pqfw\n#SafetrustMortgage #MortgageIntelligenceDaily #mortgagerates #housingmarket #mortgagebroker",
-      "hashtags": [
-        "#SafetrustMortgage",
-        "#MortgageIntelligenceDaily",
-        "#mortgagerates",
-        "#housingmarket",
+        "#realestateagent",
+        "#loanofficer",
         "#mortgagebroker"
       ],
-      "hook_tag": "La realidad del mercado",
-      "hook": "Las malas noticias de inflación provocaron una gran caída en las tasas.",
-      "what_happened_heading": "Las tasas bajan a pesar de los datos de inflación",
-      "what_happened": "Las tasas fijas a 30 años de primera categoría bajaron a un promedio de 7.33% entre los prestamistas. Esto ocurrió a pesar de que la inflación mayorista subió más de lo esperado.",
+      "hook_tag": "Regulatory Scrutiny Risk",
+      "hook": "The FTC is coming for co-marketing leads and office exclusive listings.",
+      "what_happened_heading": "Senators request FTC lead generation probe",
+      "what_happened": "U.S. Senators urged the FTC (Federal Trade Commission) to investigate online real estate lead generation, steering practices, and office exclusive listings. They cited rising housing cost pressures as the main driver.",
       "breakdown": [
         {
-          "heading": "La regla tradicional se rompió",
-          "body": "Normalmente, una inflación más alta empuja los rendimientos de los bonos hacia arriba y, con ellos, las tasas hipotecarias. Esta semana, el mercado hizo todo lo contrario."
+          "heading": "Regulatory lens shifts beyond RESPA",
+          "body": "Regulators are moving past traditional RESPA (Real Estate Settlement Procedures Act) kickback enforcement. They now focus on how digital platforms steer consumers to preferred lenders and agents."
         },
         {
-          "heading": "Las acciones tecnológicas impulsaron los bonos",
-          "body": "Los inversionistas vieron las acciones tecnológicas como activos de riesgo y regresaron a los bonos. Esa prisa por invertir subió los precios de los bonos y bajó los rendimientos."
+          "heading": "Underwriter view on legal compliance",
+          "body": "Underwriting compliance teams will scrutinize co-branded lead agreements. Any arrangement that restricts consumer choice faces intense legal and audit risks."
         },
         {
-          "heading": "Entendiendo el cambio en el mercado de bonos",
-          "body": "Cuando un archivo llega a revisión, los precios se basan en los MBS (títulos respaldados por hipotecas). La volatilidad significa que las mesas secundarias manejan cambios extremos en las hojas de tasas cada hora."
+          "heading": "Office exclusives face federal pressure",
+          "body": "Off-market office listings are viewed as anti-competitive barriers. Federal scrutiny threatens brokerage business models relying on internal pocket listings."
         },
         {
-          "heading": "La huida hacia la seguridad gana",
-          "body": "A los mercados de capitales globales les importan menos los datos de IPP cuando el miedo macroeconómico se instala. La seguridad siempre supera la preocupación por la inflación a corto plazo."
+          "heading": "Data practices under federal oversight",
+          "body": "Selling consumer data behind credit monitoring or lead portals is drawing severe antitrust attention from lawmakers seeking housing affordability."
         }
       ],
-      "my_take_heading": "No intentes adivinar el mercado de bonos",
-      "my_take": "Intentar explicar cada movimiento del mercado de bonos es inútil. Enfócate en cerrar la tasa cuando los números tengan sentido hoy.",
-      "action_lo": "Llama a cada cliente cuya cotización de tasa estuvo indecisa la semana pasada y recalcula sus números al 7.33%.",
-      "action_realtor": "Recuerda a los compradores indecisos que las caídas de tasas ocurren rápido y desaparecen igual de rápido cuando cambia el sentimiento del mercado.",
-      "cta_question": "¿Están tus clientes con tasas fijas intentando bajar la tasa después de esta reciente caída? Cuéntanos aquí abajo."
+      "my_take_heading": "The end of pay-to-steer leads",
+      "my_take": "Co-marketing is about to face its biggest regulatory overhaul since the creation of RESPA guidelines.",
+      "action_lo": "Audit your joint co-marketing spending and clear written agreements with compliance immediately.",
+      "action_realtor": "Transition away from off-market office exclusives to ensure maximum transparent market exposure for sellers.",
+      "cta_question": "Is your team prepared for stricter federal oversight on digital lead sharing?"
     },
     {
-      "slug": "asking-prices-fall-redfin",
-      "title": "Las casas bajan de precio por primera vez desde marzo",
-      "source": "Redfin",
-      "source_url": "https://www.redfin.com/news/housing-market-update-asking-prices-decline-october/",
-      "cover_text": "Los precios de venta están bajando",
-      "caption": "Por primera vez desde marzo, los precios de venta promedio están bajando, mientras que las ventas pendientes se mantienen cerca de mínimos históricos. Los vendedores finalmente están reconociendo la realidad de un mercado en enfriamiento. Aquí te mostramos cómo navegar este cambio en el poder de fijación de precios.\n\nFuente : https://tinyurl.com/2ba65lpt\n#SafetrustMortgage #MortgageIntelligenceDaily #housingmarket #realestateagent #homebuying",
-      "hashtags": [
-        "#SafetrustMortgage",
-        "#MortgageIntelligenceDaily",
-        "#housingmarket",
-        "#realestateagent",
-        "#homebuying"
-      ],
-      "hook_tag": "Cambio de precios",
-      "hook": "Los precios de venta bajaron por primera vez desde marzo.",
-      "what_happened_heading": "El crecimiento de los precios se desacelera",
-      "what_happened": "El precio promedio de venta de casas en EE. UU. subió solo un 0.5% anual, la tasa de crecimiento más lenta desde marzo. Mientras tanto, el precio de venta promedio en realidad bajó.",
-      "breakdown": [
-        {
-          "heading": "La espera está terminando",
-          "body": "Por meses, los vendedores esperaron los precios máximos del mercado, mientras que los compradores se resistieron a las tasas altas. La presión del inventario está obligando a los vendedores a ceder."
-        },
-        {
-          "heading": "Las ventas siguen cerca de mínimos históricos",
-          "body": "Las ventas de casas pendientes subieron un poco esta semana, pero el volumen total sigue suprimido. Los altos precios y tasas mantienen bajo el número de transacciones."
-        },
-        {
-          "heading": "Evaluaciones realistas al revisar los préstamos",
-          "body": "Cuando un tasador revisa un expediente en un mercado en enfriamiento, las comparaciones históricas de hace tres meses no sirven. Estamos viendo más ajustes de valor en propiedades que bajan de precio."
-        },
-        {
-          "heading": "El cambio en el poder de fijación de precios",
-          "body": "Los compradores que no participaron en la locura del verano ahora pueden negociar concesiones y bajadas de precios que no existían hace unos meses."
-        }
-      ],
-      "my_take_heading": "Las bajadas de precio no son una crisis",
-      "my_take": "Que los vendedores bajen los precios no significa una crisis, solo se ajustan a la realidad. Los descuentos son el puente entre tasas altas y ventas cerradas.",
-      "action_lo": "Comunícate con tus compradores preaprobados y muéstrales cómo un precio de compra más bajo es mejor que esperar por tasas más bajas.",
-      "action_realtor": "Usa estos datos para aconsejar a los vendedores que piden demasiado, que la ventana para precios agresivos se ha cerrado.",
-      "cta_question": "¿Tus vendedores locales están aceptando finalmente las reducciones de precios, o siguen buscando el precio máximo?"
-    },
-    {
-      "slug": "lendingtree-home-improvements-equity",
-      "title": "El efectivo domina las mejoras del hogar, pero los préstamos con garantía hipotecaria financian los trabajos grandes",
+      "slug": "zippy-manufactured-housing-funding",
+      "title": "Zippy Raises Capital for Manufactured Housing Push",
       "source": "National Mortgage Professional",
-      "source_url": "https://nationalmortgageprofessional.com/news/cash-dominates-home-improvements-equity-loans-fund-bigger-jobs",
-      "cover_text": "El efectivo domina las mejoras del hogar",
-      "caption": "Un nuevo análisis de LendingTree revela que el efectivo financia casi el 76% de todas las mejoras del hogar, pero los préstamos con garantía hipotecaria (home equity loans) controlan las renovaciones costosas. Si solo estás hablando de préstamos de compra, estás perdiendo el enorme potencial de capital en tu base de datos.\n\nFuente : https://tinyurl.com/2xh53387\n#SafetrustMortgage #MortgageIntelligenceDaily #homebuying #mortgagerates #realestateinvesting",
+      "source_url": "https://nationalmortgageprofessional.com/news/zippy-adds-capital-manufactured-home-lending-push",
+      "cover_text": "Private capital bets on manufactured housing",
+      "caption": "Private equity firm Saluda Grade just invested $20 million into Zippy, a specialized manufactured home lender. Capital is following affordability. With standard single-family home prices out of reach for millions, institutional money is betting heavily on factory-built housing. Ten years ago as an underwriter, manufactured housing meant complex chattel paper and limited secondary exit options. Today, cross-underwriting real property and modern building standards have turned manufactured housing into standard mortgage volume. Originators who ignore this sector are turning away legitimate buyers who cannot afford stick-built prices. Expanding your wholesale lender toolkit to include manufactured housing is one of the fastest ways to grow your pipeline in today's market.\n\nSource : https://tinyurl.com/2y8zh3gc\n#SafetrustMortgage #MortgageIntelligenceDaily #firsttimehomebuyer #realestateinvesting #mortgagebroker",
       "hashtags": [
         "#SafetrustMortgage",
         "#MortgageIntelligenceDaily",
-        "#homebuying",
-        "#mortgagerates",
-        "#realestateinvesting"
+        "#firsttimehomebuyer",
+        "#realestateinvesting",
+        "#mortgagebroker"
       ],
-      "hook_tag": "Estrategia de capital",
-      "hook": "El efectivo paga por la mayoría de las reparaciones, pero el capital paga los trabajos grandes.",
-      "what_happened_heading": "Efectivo vs. capital en renovaciones del hogar",
-      "what_happened": "Los datos de LendingTree muestran que el 75.7% de los proyectos de mejora del hogar se financiaron con ahorros en efectivo. Sin embargo, los proyectos financiados con préstamos con garantía hipotecaria fueron considerablemente más grandes.",
+      "hook_tag": "Alternative Housing Finance",
+      "hook": "Smart capital is pouring millions into manufactured homes, not standard housing.",
+      "what_happened_heading": "Zippy secures funding for manufactured homes",
+      "what_happened": "Manufactured home lender Zippy raised $20 million in Series C funding from Saluda Grade. The capital will expand products across community, retail, and wholesale channels.",
       "breakdown": [
         {
-          "heading": "La realidad de la reparación diaria",
-          "body": "La mayoría de los propietarios pagan en efectivo por reparaciones pequeñas como techos o fallas de HVAC por necesidad. Evitan tocar su hipoteca para actualizaciones menores."
+          "heading": "Institutional capital targets factory builds",
+          "body": "Traditional single-family home prices are priced out for average buyers. Wall Street capital is pivot-funding manufactured housing as the main affordable entry point."
         },
         {
-          "heading": "Cuando el capital interviene",
-          "body": "Cuando los propietarios realizan adiciones importantes o remodelaciones completas de la casa, los préstamos con garantía hipotecaria (home equity loans) y las líneas de crédito con garantía hipotecaria (HELOCs) se convierten en el principal mecanismo de financiación."
+          "heading": "Underwriting manufactured loans has evolved",
+          "body": "Underwriters no longer treat modern manufactured housing like chattel loans (loans secured by personal property rather than real estate). Cross-underwriting real property titles allows conventional-style execution."
         },
         {
-          "heading": "Revisando el perfil de riesgo",
-          "body": "Cuando un expediente llega a revisión para un segundo gravamen o HELOC, la relación deuda-ingresos (DTI) se evalúa contra el flujo de efectivo actual. Los prestamistas quieren ver que las reservas se mantengan intactas."
+          "heading": "Wholesale brokers gain new inventory",
+          "body": "Expanding wholesale channels gives brokers fresh options for buyers priced out of stick-built homes without sacrificing loan volume."
         },
         {
-          "heading": "La mina de oro de tu base de datos",
-          "body": "Tus clientes anteriores tienen billones en capital disponible. Si no se mudan, están remodelando. Ese es tu próximo producto de préstamo."
+          "heading": "Community financing becomes institutionalized",
+          "body": "Specialized lenders are streamlining land-lease and community originations, making previously complex loan files scalable and standardized for originators."
         }
       ],
-      "my_take_heading": "Deja de esperar a que regresen las compras",
-      "my_take": "Si esperas que el volumen de compras salve tus ganancias, estás ignorando la gran riqueza de tu base de datos de clientes anteriores.",
-      "action_lo": "Realiza una revisión de capital a cada prestatario que cerró un préstamo contigo en los últimos cuatro años.",
-      "action_realtor": "Asóciate con prestamistas para ofrecer soluciones de capital a clientes que desean renovar en lugar de cambiar su baja tasa.",
-      "cta_question": "¿Qué porcentaje de tu cartera actual proviene de productos de capital versus préstamos de compra estándar?"
-    },
-    {
-      "slug": "fannie-expands-occupancy-checks",
-      "title": "Fannie Mae amplía las verificaciones de ocupación; Freddie Mac busca defectos en los préstamos",
-      "source": "National Mortgage Professional",
-      "source_url": "https://nationalmortgageprofessional.com/news/fannie-expands-occupancy-checks-freddie-targets-loan-defects",
-      "cover_text": "Fannie amplía las verificaciones de ocupación",
-      "caption": "Fannie Mae está ampliando sus mensajes de riesgo de ocupación para detectar declaraciones falsas antes de que se cierren los préstamos. Junto con Freddie Mac, que busca defectos en los préstamos mediante verificación digital, los controles de calidad de originación se están endureciendo rápidamente. Así es como puedes proteger tu tasa de cierre.\n\nFuente : https://tinyurl.com/29lvjy8z\n#SafetrustMortgage #MortgageIntelligenceDaily #mortgagebroker #housingmarket #firsttimehomebuyer",
-      "hashtags": [
-        "#SafetrustMortgage",
-        "#MortgageIntelligenceDaily",
-        "#mortgagebroker",
-        "#housingmarket",
-        "#firsttimehomebuyer"
-      ],
-      "hook_tag": "Actualización de revisión de préstamos",
-      "hook": "Fannie Mae está endureciendo las verificaciones de ocupación antes del cierre.",
-      "what_happened_heading": "Nuevas alertas de riesgo de ocupación",
-      "what_happened": "Fannie Mae ampliará la información utilizada en sus mensajes de riesgo de ocupación el próximo mes. Esto les da a los prestamistas la oportunidad de resolver preguntas sobre el uso previsto de la propiedad antes del cierre.",
-      "breakdown": [
-        {
-          "heading": "La verificación previa al cierre se amplía",
-          "body": "Los nuevos mensajes buscan declaraciones falsas de segundas viviendas y propiedades de inversión al inicio del ciclo del préstamo. Los prestamistas ya no pueden esperar a las auditorías posteriores al cierre para detectar señales de alerta."
-        },
-        {
-          "heading": "La verificación digital reduce los defectos",
-          "body": "Las nuevas guías de ambas agencias demuestran que una revisión digital temprana reduce significativamente las demandas de recompra y los defectos a nivel de préstamo."
-        },
-        {
-          "heading": "Revisando la intención de ocupación",
-          "body": "Cuando un asesor ve la compra de una residencia principal demasiado cerca de la casa existente de un prestatario sin un cambio claro de vida, estas nuevas banderas activan condiciones adicionales al instante."
-        },
-        {
-          "heading": "Protegiendo tu tasa de cancelación",
-          "body": "Detectar discrepancias de ocupación antes de la aprobación ahorra semanas de tiempo de procesamiento y evita recompras devastadoras en el futuro."
-        }
-      ],
-      "my_take_heading": "Mejora tu proceso inicial de expedientes",
-      "my_take": "Si tus agentes de préstamos aceptan solicitudes sin verificar correctamente la intención de ocupación, el nuevo sistema de Fannie Mae afectará seriamente tu tasa de cierre.",
-      "action_lo": "Audita tu cuestionario de ingreso inicial para asegurar que la intención de uso (principal vs. inversión) esté clara antes de enviar expedientes.",
-      "action_realtor": "Educa a los compradores sobre por qué los prestamistas hacen más preguntas sobre traslados y uso de la propiedad para evitar retrasos en el cierre.",
-      "cta_question": "¿Tus equipos de revisión de préstamos están viendo más alertas de ocupación en los expedientes de compra de residencia principal últimamente?"
+      "my_take_heading": "The new standard for first-time buyers",
+      "my_take": "Manufactured housing is no longer a niche product; it is becoming the primary path to homeownership.",
+      "action_lo": "Get approved with specialized manufactured housing wholesale channels to capture priced-out first-time buyers.",
+      "action_realtor": "Learn local manufactured housing zoning rules to unlock lower-priced inventory for budget-conscious clients.",
+      "cta_question": "Are you offering manufactured home financing options to buyers priced out of standard listings?"
     }
   ]
 }
