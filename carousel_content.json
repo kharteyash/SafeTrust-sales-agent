@@ -168,5 +168,175 @@
       "action_realtor": "Write purchase contracts with realistic 45-day timelines to prevent lock expiration stress over seasonal holiday operations.",
       "cta_question": "What is your team's policy on floating client rates into thin holiday market conditions?"
     }
+  ],
+  "carousels_es": [
+    {
+      "slug": "mortgage-rates-7-percent-holiday-spreads",
+      "title": "Por qué los márgenes importan más que los rendimientos de referencia hoy",
+      "source": "HousingWire",
+      "source_url": "https://www.housingwire.com/articles/mortgage-rates-below-7-holidays/",
+      "cover_text": "Por qué bajar del 7% depende del margen",
+      "caption": "Que las tasas bajen del 7% antes de las fiestas depende del margen de ganancia del mercado, no solo de la Reserva Federal.\n\nAunque los rendimientos de referencia dominan las noticias, la diferencia entre los bonos del Tesoro a 10 años y las tasas hipotecarias a 30 años determina lo que realmente pagas. Cuando la volatilidad sube, los prestamistas amplían este margen para protegerse. Como asesor hipotecario, veo préstamos estancarse no por los bonos, sino por ajustes de precio a mitad del proceso. Esperar una caída dramática puede hacerte perder inventario valioso de invierno. Los oficiales de préstamo deben asegurar la estructura del crédito temprano en lugar de adivinar el mercado. Los agentes inmobiliarios deben preparar a los vendedores para compradores con márgenes ajustados. La verdadera ventaja esta temporada es asegurar el cierre, no perseguir la tasa perfecta.\n\nFuente : https://tinyurl.com/22286ryt\n#SafetrustMortgage #MortgageIntelligenceDaily #mortgagerates #housingmarket #loanofficer",
+      "hashtags": [
+        "#SafetrustMortgage",
+        "#MortgageIntelligenceDaily",
+        "#mortgagerates",
+        "#housingmarket",
+        "#loanofficer"
+      ],
+      "hook_tag": "Dinámica de tasas",
+      "hook": "Las tasas no bajarán sin que se reduzca el margen del mercado.",
+      "what_happened_heading": "El camino de las tasas antes de fin de año",
+      "what_happened": "Las tasas hipotecarias tienen una oportunidad real de caer por debajo del 7% antes de las fiestas. Sin embargo, los márgenes del mercado y la volatilidad geopolítica siguen siendo los principales obstáculos.",
+      "breakdown": [
+        {
+          "heading": "Entendiendo el margen del mercado hipotecario",
+          "body": "La brecha entre los bonos del Tesoro y las tasas sigue siendo amplia. Los prestamistas aumentan su margen para protegerse contra la volatilidad y los pagos anticipados."
+        },
+        {
+          "heading": "El riesgo global sube los costos de los préstamos",
+          "body": "La incertidumbre mundial hace que los inversionistas exijan mejores rendimientos en los títulos hipotecarios. Ese costo extra mantiene las tasas para compradores más altas."
+        },
+        {
+          "heading": "La visión del asesor ante la volatilidad",
+          "body": "Para un asesor, los cambios de margen alteran la relación deuda-ingreso (DTI) entre la preaprobación y la aprobación final, cancelando préstamos al límite."
+        },
+        {
+          "heading": "Las fiestas cambian la liquidez del mercado",
+          "body": "El volumen de operaciones baja a fin de año y eso aumenta la volatilidad. Un repunte repentino en los bonos podría bajar las tasas del 7% temporalmente."
+        }
+      ],
+      "my_take_heading": "Mirar solo los bonos oculta el margen del prestamista",
+      "my_take": "Deja de mirar a la Reserva Federal para ver rebajas. Las tasas hipotecarias solo caerán con fuerza cuando la volatilidad se calme y los márgenes del mercado secundario finalmente se reduzcan.",
+      "action_lo": "Estructura préstamos con opción de ajuste a la baja desde temprano para aprovechar caídas repentinas sin arriesgar el cierre.",
+      "action_realtor": "Aconseja a tus compradores obtener una preaprobación completa para asegurar la tasa rápidamente si cae del 7% durante las fiestas.",
+      "cta_question": "¿Tus oficiales de crédito protegen sus préstamos con opciones de ajuste o tus clientes están esperando sentados el 6%?"
+    },
+    {
+      "slug": "geopolitics-and-underwriting-margin-impact",
+      "title": "Cómo la inestabilidad global mantiene altos los márgenes hipotecarios",
+      "source": "HousingWire",
+      "source_url": "https://www.housingwire.com/articles/mortgage-rates-below-7-holidays/",
+      "cover_text": "Conflictos globales mantienen las tasas altas",
+      "caption": "La tensión internacional está manteniendo las tasas de interés cerca del 7% en esta temporada.\n\nCuando el riesgo global aumenta, los títulos hipotecarios exigen mayores rendimientos para atraer inversionistas, ampliando el margen sobre los bonos del Tesoro. Desde la perspectiva de un asesor, esta volatilidad provoca que los sistemas automáticos cambien de aprobado a revisión con pequeños ajustes de tasa. Los prestamistas no pueden ofrecer precios agresivos cuando el mercado secundario es incierto. Los oficiales de préstamo deben enseñar a sus clientes que esperar a que las tasas caigan tiene un costo real. Los agentes inmobiliarios deben negociar créditos del vendedor para comprar puntos de tasa permanentemente en lugar de esperar caídas del mercado. La estabilidad importa mucho más que adivinar el punto más bajo.\n\nFuente : https://tinyurl.com/22286ryt\n#SafetrustMortgage #MortgageIntelligenceDaily #mortgagerates #homebuying #realestateagent",
+      "hashtags": [
+        "#SafetrustMortgage",
+        "#MortgageIntelligenceDaily",
+        "#mortgagerates",
+        "#homebuying",
+        "#realestateagent"
+      ],
+      "hook_tag": "Riesgo de mercado",
+      "hook": "Los conflictos internacionales mantienen las tasas de tus clientes sobre el 7%.",
+      "what_happened_heading": "Eventos internacionales que afectan la vivienda local",
+      "what_happened": "Las noticias internacionales y la economía global siguen inyectando volatilidad al mercado de bonos. Esta tensión evita que las tasas hipotecarias bajen de forma estable del 7%.",
+      "breakdown": [
+        {
+          "heading": "Los inversionistas exigen mayores ganancias",
+          "body": "La incertidumbre hace que los grandes inversionistas pidan más rendimiento por la deuda hipotecaria. Ese costo adicional pasa directamente al comprador de casa."
+        },
+        {
+          "heading": "Los precios del mercado cambian a diario",
+          "body": "Los prestamistas actualizan sus listas de tasas varias veces al día durante alta volatilidad. Esto crea caos para quienes intentan asegurar una tasa flotante."
+        },
+        {
+          "heading": "Los asesores enfrentan límites cambiantes",
+          "body": "Para un asesor hipotecario, un alza repentina de tasa aumenta la relación deuda-ingreso (DTI) del cliente, superando los límites permitidos para la aprobación."
+        },
+        {
+          "heading": "Bajar del 7% requiere estabilidad",
+          "body": "Las tasas no caerán de forma segura hasta que el panorama internacional se calme y los bonos operen basados únicamente en la economía local."
+        }
+      ],
+      "my_take_heading": "Las tasas pagan un impuesto por el riesgo global",
+      "my_take": "Los compradores no solo pagan por la inflación; están pagando una cuota extra por el riesgo geopolítico que mantiene los márgenes de los prestamistas artificialmente altos.",
+      "action_lo": "Realiza pruebas de estrés a cada preaprobación con tasas más altas para confirmar que la relación deuda-ingreso resista la volatilidad del mercado.",
+      "action_realtor": "Negocia aportes del vendedor para comprar puntos de tasa temporales o permanentes en lugar de esperar caídas naturales del mercado.",
+      "cta_question": "¿Cómo están protegiendo tus oficiales de crédito a los compradores ante cambios repentinos de tasa durante el proceso de evaluación?"
+    },
+    {
+      "slug": "holiday-rate-dip-underwriting-reality",
+      "title": "La realidad de una caída de tasas por debajo del 7% en las fiestas",
+      "source": "HousingWire",
+      "source_url": "https://www.housingwire.com/articles/mortgage-rates-below-7-holidays/",
+      "cover_text": "Tasas bajo 7% no resolverán la asequibilidad",
+      "caption": "Una caída de tasas bajo el 7% genera grandes titulares, pero no resolverá mágicamente la asequibilidad.\n\nAunque romper la barrera del 7% motiva psicológicamente a los compradores, los costos de financiamiento siguen siendo exigentes. Para un asesor hipotecario, una baja de un cuarto de punto apenas cambia la relación deuda-ingreso (DTI) del comprador promedio. Los prestamistas continúan revisando con lupa la estabilidad laboral y las reservas de dinero. Los oficiales de crédito que dependen de bajas de tasas para cerrar ventas están perdiendo la verdadera estrategia: créditos del vendedor y estructuración personalizada del préstamo. Los agentes inmobiliarios que muestren escenarios de pago reales ganarán mercado este invierno. No dejes que tus clientes dependan de titulares publicitarios.\n\nFuente : https://tinyurl.com/22286ryt\n#SafetrustMortgage #MortgageIntelligenceDaily #mortgagebroker #housingmarket #firsttimehomebuyer",
+      "hashtags": [
+        "#SafetrustMortgage",
+        "#MortgageIntelligenceDaily",
+        "#mortgagebroker",
+        "#housingmarket",
+        "#firsttimehomebuyer"
+      ],
+      "hook_tag": "Panorama festivo",
+      "hook": "Bajar del 7% en fiestas no resolverá las deudas del comprador.",
+      "what_happened_heading": "Evaluando la proyección de tasas para fin de año",
+      "what_happened": "Analistas del sector ven posible que las tasas hipotecarias toquen niveles inferiores al 7% antes de fin de año. Sin embargo, las condiciones del mercado mantendrán las tasas muy sensibles a los datos económicos.",
+      "breakdown": [
+        {
+          "heading": "Barrera psicológica contra ahorro real",
+          "body": "Bajar del 7% motiva a compradores dudosos, aunque el ahorro mensual real en un préstamo promedio sea bastante modesto."
+        },
+        {
+          "heading": "Los márgenes de los prestamistas siguen apretados",
+          "body": "Los prestamistas operan con márgenes estrechos, por lo que las bajas de tasa no siempre se traducen en menores costos de cierre."
+        },
+        {
+          "heading": "Las reglas de evaluación siguen siendo estrictas",
+          "body": "Los asesores exigen documentación rigurosa de empleo y reservas de dinero, independientemente de pequeñas bajas en las tasas de interés."
+        },
+        {
+          "heading": "Mercados lentos en fiestas crean falsas alarmas",
+          "body": "La baja actividad a fines de diciembre puede causar caídas de tasa breves que se revierten rápidamente cuando el mercado vuelve a la normalidad en enero."
+        }
+      ],
+      "my_take_heading": "Bajar del 7% es un impulso psicológico, no una cura",
+      "my_take": "Una tasa del 6.99% genera urgencia en el comprador, pero sin concesiones del vendedor, hace muy poco para solucionar los problemas reales de asequibilidad en la vivienda.",
+      "action_lo": "Muestra a tus compradores preaprobados comparaciones reales de pago al 7.125% versus 6.875% para aclarar la diferencia real en dólares.",
+      "action_realtor": "Busca vendedores motivados en invierno dispuestos a ofrecer aportes para comprar tasa, en lugar de esperar a que el mercado baje solo.",
+      "cta_question": "¿Tu equipo está listo para atender el aumento de consultas si las tasas tocan brevemente el 6.99% este mes?"
+    },
+    {
+      "slug": "winter-pipeline-strategy-mortgage-spreads",
+      "title": "Estrategia de préstamos en invierno ante los márgenes hipotecarios",
+      "source": "HousingWire",
+      "source_url": "https://www.housingwire.com/articles/mortgage-rates-below-7-holidays/",
+      "cover_text": "Cómo manejar los márgenes hipotecarios en invierno",
+      "caption": "Planificar préstamos en invierno exige entender por qué los márgenes hipotecarios siguen por encima de sus promedios históricos.\n\nAunque existe la posibilidad de bajar del 7% antes de fin de año, el riesgo de ejecución sigue siendo alto para los prestamistas. Los asesores hipotecarios revisan las aprobaciones de cerca porque extender bloqueos de tasa es costoso en mercados volátiles. Cuando los márgenes se amplían, renegociar términos genera fricción entre compradores, oficiales de crédito y agentes inmobiliarios. Debes liderar con estrategias claras de bloqueo de tasa en lugar de dejar que tus clientes floten sin rumbo hacia la falta de liquidez festiva. Los agentes deben cerrar contratos con plazos realistas que consideren los horarios festivos. La gestión preventiva es la única forma de proteger tus cierres.\n\nFuente : https://tinyurl.com/22286ryt\n#SafetrustMortgage #MortgageIntelligenceDaily #loanofficer #realestateinvesting #mortgagerates",
+      "hashtags": [
+        "#SafetrustMortgage",
+        "#MortgageIntelligenceDaily",
+        "#loanofficer",
+        "#realestateinvesting",
+        "#mortgagerates"
+      ],
+      "hook_tag": "Ejecución de préstamos",
+      "hook": "Dejar la tasa flotando durante las fiestas es un juego peligroso.",
+      "what_happened_heading": "Gestión de préstamos ante el cambio de tasas festivas",
+      "what_happened": "Las condiciones del mercado muestran potencial para que las tasas bajen del 7% antes de fin de año. El éxito dependerá de manejar los amplios márgenes de tasa y la baja actividad del mercado.",
+      "breakdown": [
+        {
+          "heading": "El volumen de operaciones cae drásticamente",
+          "body": "La menor liquidez entre noviembre y diciembre causa movimientos bruscos de tasa con pocas noticias económicas, aumentando el riesgo de no bloquear."
+        },
+        {
+          "heading": "Extender el bloqueo de tasa reduce las ganancias",
+          "body": "Si las tasas varían y los cierres se demoran por los feriados, pagar extensiones de tasa reduce la ganancia o los créditos del cliente."
+        },
+        {
+          "heading": "El punto de vista del asesor al vencer un bloqueo",
+          "body": "Si el bloqueo de tasa vence durante la evaluación, el caso se revalúa a la tasa actual, lo que puede causar rechazos por relación deuda-ingreso."
+        },
+        {
+          "heading": "Bloqueos estratégicos aseguran la tranquilidad del cierre",
+          "body": "Asegurar un bloqueo con opción de ajuste a la baja protege la fecha de cierre y permite aprovechar posibles caídas de tasa en las fiestas."
+        }
+      ],
+      "my_take_heading": "Asegurar el cierre supera al riesgo de esperar pequeñas bajas",
+      "my_take": "Apostar por una caída de tasas en las fiestas crea un riesgo innecesario en la evaluación, cuando los aportes del vendedor pueden lograr pagos inferiores al 7% hoy mismo.",
+      "action_lo": "Revisa tus préstamos activos buscando bloqueos que venzan cerca de los feriados y extiéndelos antes de que la volatilidad fuerce un cambio de precio.",
+      "action_realtor": "Redacta contratos de compra con plazos realistas de 45 días para evitar tensiones por vencimiento de tasa durante las vacaciones festivas.",
+      "cta_question": "¿Cuál es la política de tu equipo sobre dejar flotar las tasas de los clientes en mercados lentos de fin de año?"
+    }
   ]
 }
