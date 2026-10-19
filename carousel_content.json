@@ -1,342 +1,172 @@
 {
   "carousels": [
     {
-      "slug": "mortgage-rates-7-percent-holiday-spreads",
-      "title": "Why Spreads Matter More Than Benchmark Yields Today",
+      "slug": "reverse-mortgages-broker-channel",
+      "title": "Access Home Lending wholesale reverse mortgage plans",
       "source": "HousingWire",
-      "source_url": "https://www.housingwire.com/articles/mortgage-rates-below-7-holidays/",
-      "cover_text": "Why sub-7 percent rates depend on spreads",
-      "caption": "Mortgage rates dipping below 7% before the holidays hinges on market spreads rather than Fed rate cuts alone. While benchmark yields drive headlines, the primary-secondary spread (the gap between 10-year Treasury yields and 30-year mortgage rates) determines what borrowers actually pay. When volatility spikes, lenders widen this buffer to manage fallout risk during underwriting. As an underwriter, I see files stall not because of benchmark movements, but because pricing adjustments hit mid-pipeline. Borrowers waiting for a dramatic drop might miss key winter buying inventory. Loan officers need to lock structure early rather than gaming the daily yield curve. Realtors should prep sellers for buyers who have tight qualification margins. The real leverage this season is closing certainty, not chasing a perfect rate.\n\nSource : https://tinyurl.com/22286ryt\n#SafetrustMortgage #MortgageIntelligenceDaily #mortgagerates #housingmarket #loanofficer",
-      "hashtags": [
-        "#SafetrustMortgage",
-        "#MortgageIntelligenceDaily",
-        "#mortgagerates",
-        "#housingmarket",
-        "#loanofficer"
-      ],
-      "hook_tag": "Rate Dynamics",
-      "hook": "Benchmark yield drops won't lower mortgage rates without spread compression.",
-      "what_happened_heading": "Mortgage rate paths toward the holiday season",
-      "what_happened": "Mortgage rates have a viable path below 7% before the upcoming holiday season. However, primary-secondary spreads and geopolitical volatility remain key barriers to sustained rate relief.",
-      "breakdown": [
-        {
-          "heading": "Understanding the primary secondary spread",
-          "body": "The gap between Treasury yields and mortgage rates remains wider than historical norms. Lenders build in wider margins to cushion against market volatility and prepayments."
-        },
-        {
-          "heading": "Geopolitical risk inflates lender buffers",
-          "body": "Global uncertainty forces secondary market buyers to demand higher yields on mortgage-backed securities. This risk premium keeps consumer mortgage rates elevated."
-        },
-        {
-          "heading": "The underwriter lens on rate volatility",
-          "body": "In underwriting, volatile spreads mean debt-to-income (how much income goes to debt) ratios shift rapidly between pre-approval and final approval, killing marginal loan files."
-        },
-        {
-          "heading": "Holiday seasonality shifts market liquidity",
-          "body": "Trading volume drops during holiday weeks, which can amplify rate swings. A sudden bond rally could quickly push rates under 7% temporarily."
-        }
-      ],
-      "my_take_heading": "Focusing on yields misses the lender profit buffer",
-      "my_take": "Stop watching the Fed for rate relief; mortgage rates will only break below 7% when secondary market volatility settles and spreads contract.",
-      "action_lo": "Structure loans with float-down options early so buyers can capture sudden holiday spread compressions without risking closing dates.",
-      "action_realtor": "Advise buyers to get fully underwritten pre-approvals so they can lock quickly if rates dip below 7% during holiday market lulls.",
-      "cta_question": "Are your loan officers managing pipeline risk through float-down structures, or are clients sitting on the sidelines waiting for 6%?"
-    },
-    {
-      "slug": "geopolitics-and-underwriting-margin-impact",
-      "title": "How Global Instability Is Keeping Mortgage Margins High",
-      "source": "HousingWire",
-      "source_url": "https://www.housingwire.com/articles/mortgage-rates-below-7-holidays/",
-      "cover_text": "Global turmoil keeps mortgage rates elevated",
-      "caption": "Geopolitical friction is directly holding mortgage rates around the 7% threshold this season. When global risk escalates, mortgage-backed securities require higher yields to attract investors, widening the margin between Treasuries and mortgage rates. From an underwriting perspective, this volatility means automated underwriting systems (computer algorithms that evaluate loan risk) flip from approve to refer with slight rate ticks. Lenders cannot price aggressively when secondary market execution remains uncertain. Loan officers must educate clients that waiting for rates to plummet carries real opportunity cost. Realtors should focus on negotiating seller concessions to buy down rates permanently rather than waiting for market drops. Stability in pricing matters far more than timing the absolute rate floor.\n\nSource : https://tinyurl.com/22286ryt\n#SafetrustMortgage #MortgageIntelligenceDaily #mortgagerates #homebuying #realestateagent",
-      "hashtags": [
-        "#SafetrustMortgage",
-        "#MortgageIntelligenceDaily",
-        "#mortgagerates",
-        "#homebuying",
-        "#realestateagent"
-      ],
-      "hook_tag": "Market Risk",
-      "hook": "Global turmoil is keeping your borrower's mortgage rate above 7%.",
-      "what_happened_heading": "Overseas events impacting domestic housing costs",
-      "what_happened": "International news events and macroeconomic headlines continue to inject volatility into bond markets. This geopolitical friction prevents mortgage rates from comfortably settling below the 7% mark.",
-      "breakdown": [
-        {
-          "heading": "Investors demand higher risk premiums",
-          "body": "Uncertainty causes institutional investors to demand higher returns on mortgage debt. That added yield requirement gets passed directly to home buyers."
-        },
-        {
-          "heading": "Secondary market pricing changes daily",
-          "body": "Lenders update rate sheets multiple times a day during high volatility. This creates price chaos for originators attempting to lock floating loan files."
-        },
-        {
-          "heading": "Underwriters face shifting debt limits",
-          "body": "From an underwriting standpoint, sudden rate ticks up mid-process push applicant debt-to-income (income allocated to debt payments) over automated approval thresholds."
-        },
-        {
-          "heading": "The path to sub 7 percent requires calm",
-          "body": "Rates cannot drop reliably until geopolitical headlines stabilize long enough for bond markets to trade on domestic economic fundamentals alone."
-        }
-      ],
-      "my_take_heading": "Mortgage rates are paying a global risk tax",
-      "my_take": "Borrowers aren't just paying for inflation; they are paying a geopolitical premium that keeps lender pricing spreads artificially wide.",
-      "action_lo": "Run worst-case rate stress tests on every pre-approval to ensure debt ratios survive sudden market volatility before floating.",
-      "action_realtor": "Negotiate seller-paid temporary or permanent rate buydowns to offset market volatility instead of waiting for natural rate declines.",
-      "cta_question": "How are your originators protecting buyers from mid-underwrite rate spikes in today's volatile bond market?"
-    },
-    {
-      "slug": "holiday-rate-dip-underwriting-reality",
-      "title": "The Reality of a Holiday Mortgage Rate Drop Below 7%",
-      "source": "HousingWire",
-      "source_url": "https://www.housingwire.com/articles/mortgage-rates-below-7-holidays/",
-      "cover_text": "Sub-7 rates this holiday won't fix affordability",
-      "caption": "A holiday rate dip below 7% makes great headlines, but it won't magically solve buyer affordability. While a drop past 7% opens a psychological door for buyers, structural spreads mean overall financing costs remain historically tight. In underwriting, a quarter-point drop barely moves the needle on debt-to-income (ratio of monthly debt to gross income) qualifications for median earners. Lenders are still scrutinizing buyer employment stability and asset reserves aggressively. Originators who rely on rate drops to convert buyers are missing the real strategy: seller credits and custom loan structuring. Realtors who prepare buyers for realistic payment scenarios today will capture winter market share. Don't let your buyers benchmark success on arbitrary sub-7% headlines.\n\nSource : https://tinyurl.com/22286ryt\n#SafetrustMortgage #MortgageIntelligenceDaily #mortgagebroker #housingmarket #firsttimehomebuyer",
+      "source_url": "https://www.housingwire.com/articles/access-home-lending-wholesale-reverse/",
+      "cover_text": "Reverse mortgages are moving to wholesale brokers.",
+      "caption": "Brokers have mostly ignored reverse mortgages for a decade. Access Home Lending wants to change that by pushing Home Equity Conversion Mortgages (HECM) into the wholesale channel. If you think this is just a niche product for desperate retirees, look closer. This is a massive untapped asset pool for older homeowners who are house rich and cash poor. But underwriting these files takes a completely different playbook than a standard purchase. Here is why the broker channel is about to get a whole lot more complex.\n\nSource : https://tinyurl.com/2bnybbf3\n#SafetrustMortgage #MortgageIntelligenceDaily #mortgagebroker #housingmarket #realestateinvesting",
       "hashtags": [
         "#SafetrustMortgage",
         "#MortgageIntelligenceDaily",
         "#mortgagebroker",
         "#housingmarket",
-        "#firsttimehomebuyer"
+        "#realestateinvesting"
       ],
-      "hook_tag": "Holiday Outlook",
-      "hook": "A holiday drop under 7% won't solve buyer debt ratios.",
-      "what_happened_heading": "Evaluating the holiday mortgage rate forecast",
-      "what_happened": "Industry analysts point to a realistic scenario where mortgage rates touch sub-7% levels by the holidays. However, underlying market conditions mean rates will remain sensitive to broader economic data.",
+      "hook_tag": "Wholesale shift",
+      "hook": "Reverse mortgages are leaving the retail fringe and heading straight to brokers.",
+      "what_happened_heading": "Expanding reverse access",
+      "what_happened": "Access Home Lending is launching wholesale reverse mortgage plans to make the product mainstream through independent brokers. The strategy aims to integrate Home Equity Conversion Mortgages into standard broker originations.",
       "breakdown": [
         {
-          "heading": "Psychological barrier versus actual savings",
-          "body": "Crossing below 7% activates hesitant buyers emotionally, even though the actual monthly payment savings on a typical loan is relatively modest."
+          "heading": "The untapped asset pool",
+          "body": "Older homeowners hold trillions in home equity. Bringing this product to the broker channel unlocks massive liquidity."
         },
         {
-          "heading": "Lender margins remain constrained",
-          "body": "Originators are operating on thin margins, meaning rate drops might not translate fully into lower discount points or fee waivers."
+          "heading": "Underwriting the borrower",
+          "body": "When this file hits underwriting, forget traditional DTI (how much of your income goes to debt). We look closely at residual income and property charge payment history."
         },
         {
-          "heading": "Underwriting guidelines remain strict",
-          "body": "Underwriters still require rigorous documentation on verification of employment (proof of current job status) and reserve funds regardless of minor rate dips."
+          "heading": "Education hurdles",
+          "body": "Most borrowers and agents still view reverse mortgages with extreme suspicion. Brokers will need to double as educators to close deals."
         },
         {
-          "heading": "Thin holiday markets create false starts",
-          "body": "Low trading liquidity in late December can cause brief rate rallies that reverse sharply once institutional trading resumes in January."
+          "heading": "Pipeline diversification",
+          "body": "When purchase volume dips, originators need alternative revenue streams. Reverse mortgages provide a counter-cyclical option for aging demographics."
         }
       ],
-      "my_take_heading": "Sub-7 percent is a psychological trigger not an economic cure",
-      "my_take": "A 6.99% rate creates buyer urgency, but without seller concessions, it does little to fix underlying housing affordability constraints.",
-      "action_lo": "Show pre-approved buyers exact side-by-side payment comparisons at 7.125% versus 6.875% to demystify the actual dollar difference.",
-      "action_realtor": "Target motivated winter sellers willing to offer rate buydown concessions rather than waiting for market-driven rate drops.",
-      "cta_question": "Is your pipeline prepared to handle a sudden surge in buyer inquiry if rates briefly touch 6.99% this month?"
+      "my_take_heading": "The broker education gap",
+      "my_take": "If brokers treat reverse mortgages like a side hustle, compliance and underwriting will crush them. You need deep product mastery before taking these applications.",
+      "action_lo": "Partner with a certified reverse mortgage specialist to review your current client database for equity-rich seniors.",
+      "action_realtor": "Educate your senior clients on using home equity to fund retirement lifestyle choices without selling their homes.",
+      "cta_question": "Are your current broker systems ready to handle reverse mortgage compliance requirements effectively today?"
     },
     {
-      "slug": "winter-pipeline-strategy-mortgage-spreads",
-      "title": "Navigating Mortgage Spreads During Winter Pipeline Planning",
+      "slug": "hud-btr-fha-financing",
+      "title": "HUD extends FHA multifamily programs to build-to-rent",
       "source": "HousingWire",
-      "source_url": "https://www.housingwire.com/articles/mortgage-rates-below-7-holidays/",
-      "cover_text": "How to navigate winter mortgage rate spreads",
-      "caption": "Planning winter loan pipelines requires understanding why mortgage spreads stay elevated above typical historical averages. While a path under 7% exists before year-end, execution risk remains high for lenders and originators. Underwriting desks are watching conditional approvals closely as lock extensions become costly in volatile markets. When secondary spreads widen, re-negotiating loan terms mid-underwrite creates friction between buyers, LOs, and realtors. Originators must lead with clear lock strategies rather than encouraging clients to float blindly into holiday illiquidity. Real estate agents should lock in purchase contracts with realistic closing timelines that account for holiday desk schedules. Proactive file management is the only way to protect deals this season.\n\nSource : https://tinyurl.com/22286ryt\n#SafetrustMortgage #MortgageIntelligenceDaily #loanofficer #realestateinvesting #mortgagerates",
+      "source_url": "https://www.housingwire.com/articles/hud-financing-btr/",
+      "cover_text": "HUD just unlocked FHA financing for build-to-rent.",
+      "caption": "The build-to-rent sector just got a massive government backing boost. HUD extended its FHA multifamily programs, opening up 221(d)(4) new construction and 223(f) refinance and acquisition options for institutional and private developers. For years, BTR developers had to rely on expensive commercial debt. Now, they have access to government-backed liquidity. Here is what this shift means for housing supply and pipeline execution.\n\nSource : https://tinyurl.com/28qxdpjg\n#SafetrustMortgage #MortgageIntelligenceDaily #housingmarket #realestateinvesting #realestateagent",
       "hashtags": [
         "#SafetrustMortgage",
         "#MortgageIntelligenceDaily",
-        "#loanofficer",
-        "#realestateinvesting",
-        "#mortgagerates"
-      ],
-      "hook_tag": "Pipeline Execution",
-      "hook": "Floating loan rates into the holidays is a dangerous game.",
-      "what_happened_heading": "Managing loan pipelines amid shifting holiday rates",
-      "what_happened": "Mortgage market conditions show potential for rates to break below 7% before the year ends. Success depends heavily on managing wide rate spreads and holiday trading lulls.",
-      "breakdown": [
-        {
-          "heading": "Holiday trading volume drops sharply",
-          "body": "Reduced market liquidity during late November and December causes oversized rate movements on minimal economic news, increasing floating risk."
-        },
-        {
-          "heading": "Lock extension costs cut into margins",
-          "body": "If rates fluctuate and closings stall over holiday closures, extending rate locks eats directly into lender profitability or borrower credits."
-        },
-        {
-          "heading": "The underwriter view on lock expirations",
-          "body": "When a lock expires during underwriting, the file must be re-analyzed at current market rates, potentially triggering new debt ratio rejections."
-        },
-        {
-          "heading": "Strategic locks protect transaction certainty",
-          "body": "Securing a lock with a clear float-down feature protects the closing date while leaving room to capture holiday rate rallies."
-        }
-      ],
-      "my_take_heading": "Execution certainty beats floating for a marginal drop",
-      "my_take": "Gambling on a holiday rate rally creates unnecessary underwriting risk when structured seller buydowns can deliver sub-7% payments today.",
-      "action_lo": "Audit your open pipeline for locks expiring near holiday market closures and extend them before market volatility forces repricing.",
-      "action_realtor": "Write purchase contracts with realistic 45-day timelines to prevent lock expiration stress over seasonal holiday operations.",
-      "cta_question": "What is your team's policy on floating client rates into thin holiday market conditions?"
-    }
-  ],
-  "carousels_es": [
-    {
-      "slug": "mortgage-rates-7-percent-holiday-spreads",
-      "title": "Por qué los márgenes importan más que los rendimientos de referencia hoy",
-      "source": "HousingWire",
-      "source_url": "https://www.housingwire.com/articles/mortgage-rates-below-7-holidays/",
-      "cover_text": "Por qué bajar del 7% depende del margen",
-      "caption": "Que las tasas bajen del 7% antes de las fiestas depende del margen de ganancia del mercado, no solo de la Reserva Federal.\n\nAunque los rendimientos de referencia dominan las noticias, la diferencia entre los bonos del Tesoro a 10 años y las tasas hipotecarias a 30 años determina lo que realmente pagas. Cuando la volatilidad sube, los prestamistas amplían este margen para protegerse. Como asesor hipotecario, veo préstamos estancarse no por los bonos, sino por ajustes de precio a mitad del proceso. Esperar una caída dramática puede hacerte perder inventario valioso de invierno. Los oficiales de préstamo deben asegurar la estructura del crédito temprano en lugar de adivinar el mercado. Los agentes inmobiliarios deben preparar a los vendedores para compradores con márgenes ajustados. La verdadera ventaja esta temporada es asegurar el cierre, no perseguir la tasa perfecta.\n\nFuente : https://tinyurl.com/22286ryt\n#SafetrustMortgage #MortgageIntelligenceDaily #mortgagerates #housingmarket #loanofficer",
-      "hashtags": [
-        "#SafetrustMortgage",
-        "#MortgageIntelligenceDaily",
-        "#mortgagerates",
         "#housingmarket",
-        "#loanofficer"
-      ],
-      "hook_tag": "Dinámica de tasas",
-      "hook": "Las tasas no bajarán sin que se reduzca el margen del mercado.",
-      "what_happened_heading": "El camino de las tasas antes de fin de año",
-      "what_happened": "Las tasas hipotecarias tienen una oportunidad real de caer por debajo del 7% antes de las fiestas. Sin embargo, los márgenes del mercado y la volatilidad geopolítica siguen siendo los principales obstáculos.",
-      "breakdown": [
-        {
-          "heading": "Entendiendo el margen del mercado hipotecario",
-          "body": "La brecha entre los bonos del Tesoro y las tasas sigue siendo amplia. Los prestamistas aumentan su margen para protegerse contra la volatilidad y los pagos anticipados."
-        },
-        {
-          "heading": "El riesgo global sube los costos de los préstamos",
-          "body": "La incertidumbre mundial hace que los inversionistas exijan mejores rendimientos en los títulos hipotecarios. Ese costo extra mantiene las tasas para compradores más altas."
-        },
-        {
-          "heading": "La visión del asesor ante la volatilidad",
-          "body": "Para un asesor, los cambios de margen alteran la relación deuda-ingreso (DTI) entre la preaprobación y la aprobación final, cancelando préstamos al límite."
-        },
-        {
-          "heading": "Las fiestas cambian la liquidez del mercado",
-          "body": "El volumen de operaciones baja a fin de año y eso aumenta la volatilidad. Un repunte repentino en los bonos podría bajar las tasas del 7% temporalmente."
-        }
-      ],
-      "my_take_heading": "Mirar solo los bonos oculta el margen del prestamista",
-      "my_take": "Deja de mirar a la Reserva Federal para ver rebajas. Las tasas hipotecarias solo caerán con fuerza cuando la volatilidad se calme y los márgenes del mercado secundario finalmente se reduzcan.",
-      "action_lo": "Estructura préstamos con opción de ajuste a la baja desde temprano para aprovechar caídas repentinas sin arriesgar el cierre.",
-      "action_realtor": "Aconseja a tus compradores obtener una preaprobación completa para asegurar la tasa rápidamente si cae del 7% durante las fiestas.",
-      "cta_question": "¿Tus oficiales de crédito protegen sus préstamos con opciones de ajuste o tus clientes están esperando sentados el 6%?"
-    },
-    {
-      "slug": "geopolitics-and-underwriting-margin-impact",
-      "title": "Cómo la inestabilidad global mantiene altos los márgenes hipotecarios",
-      "source": "HousingWire",
-      "source_url": "https://www.housingwire.com/articles/mortgage-rates-below-7-holidays/",
-      "cover_text": "Conflictos globales mantienen las tasas altas",
-      "caption": "La tensión internacional está manteniendo las tasas de interés cerca del 7% en esta temporada.\n\nCuando el riesgo global aumenta, los títulos hipotecarios exigen mayores rendimientos para atraer inversionistas, ampliando el margen sobre los bonos del Tesoro. Desde la perspectiva de un asesor, esta volatilidad provoca que los sistemas automáticos cambien de aprobado a revisión con pequeños ajustes de tasa. Los prestamistas no pueden ofrecer precios agresivos cuando el mercado secundario es incierto. Los oficiales de préstamo deben enseñar a sus clientes que esperar a que las tasas caigan tiene un costo real. Los agentes inmobiliarios deben negociar créditos del vendedor para comprar puntos de tasa permanentemente en lugar de esperar caídas del mercado. La estabilidad importa mucho más que adivinar el punto más bajo.\n\nFuente : https://tinyurl.com/22286ryt\n#SafetrustMortgage #MortgageIntelligenceDaily #mortgagerates #homebuying #realestateagent",
-      "hashtags": [
-        "#SafetrustMortgage",
-        "#MortgageIntelligenceDaily",
-        "#mortgagerates",
-        "#homebuying",
+        "#realestateinvesting",
         "#realestateagent"
       ],
-      "hook_tag": "Riesgo de mercado",
-      "hook": "Los conflictos internacionales mantienen las tasas de tus clientes sobre el 7%.",
-      "what_happened_heading": "Eventos internacionales que afectan la vivienda local",
-      "what_happened": "Las noticias internacionales y la economía global siguen inyectando volatilidad al mercado de bonos. Esta tensión evita que las tasas hipotecarias bajen de forma estable del 7%.",
+      "hook_tag": "Multifamily policy",
+      "hook": "HUD just handed build-to-rent developers the keys to cheap government-backed financing.",
+      "what_happened_heading": "FHA programs expanded",
+      "what_happened": "HUD extended FHA multifamily programs to include build-to-rent housing. Developers now gain access to 221(d)(4) new construction and 223(f) refinance and acquisition options.",
       "breakdown": [
         {
-          "heading": "Los inversionistas exigen mayores ganancias",
-          "body": "La incertidumbre hace que los grandes inversionistas pidan más rendimiento por la deuda hipotecaria. Ese costo adicional pasa directamente al comprador de casa."
+          "heading": "Cheaper capital access",
+          "body": "Developers trading high-cost commercial debt for FHA backing will see dramatically lower long-term debt service costs."
         },
         {
-          "heading": "Los precios del mercado cambian a diario",
-          "body": "Los prestamistas actualizan sus listas de tasas varias veces al día durante alta volatilidad. Esto crea caos para quienes intentan asegurar una tasa flotante."
+          "heading": "Underwriting construction risk",
+          "body": "When these 221(d)(4) files hit underwriting, expect intense scrutiny on contractor experience, cost estimates, and local market rental absorption rates."
         },
         {
-          "heading": "Los asesores enfrentan límites cambiantes",
-          "body": "Para un asesor hipotecario, un alza repentina de tasa aumenta la relación deuda-ingreso (DTI) del cliente, superando los límites permitidos para la aprobación."
+          "heading": "Boosting inventory",
+          "body": "More capital flowing into build-to-rent projects directly addresses the chronic shortage of single-family rental housing nationwide."
         },
         {
-          "heading": "Bajar del 7% requiere estabilidad",
-          "body": "Las tasas no caerán de forma segura hasta que el panorama internacional se calme y los bonos operen basados únicamente en la economía local."
+          "heading": "Refinance wave incoming",
+          "body": "The 223(f) provision gives existing BTR operators a clear path to stabilize and refinance out of short-term construction loans."
         }
       ],
-      "my_take_heading": "Las tasas pagan un impuesto por el riesgo global",
-      "my_take": "Los compradores no solo pagan por la inflación; están pagando una cuota extra por el riesgo geopolítico que mantiene los márgenes de los prestamistas artificialmente altos.",
-      "action_lo": "Realiza pruebas de estrés a cada preaprobación con tasas más altas para confirmar que la relación deuda-ingreso resista la volatilidad del mercado.",
-      "action_realtor": "Negocia aportes del vendedor para comprar puntos de tasa temporales o permanentes en lugar de esperar caídas naturales del mercado.",
-      "cta_question": "¿Cómo están protegiendo tus oficiales de crédito a los compradores ante cambios repentinos de tasa durante el proceso de evaluación?"
+      "my_take_heading": "Institutionalizing rental housing",
+      "my_take": "Government backing for build-to-rent proves single-family rentals are here to stay as a permanent asset class, not a temporary trend.",
+      "action_lo": "Reach out to local multifamily and commercial developers to discuss how FHA execution changes their capital stack.",
+      "action_realtor": "Track upcoming build-to-rent communities in your market to secure exclusive leasing or resale listing agreements early.",
+      "cta_question": "Will FHA-backed build-to-rent projects crowd out individual real estate investors in your local market?"
     },
     {
-      "slug": "holiday-rate-dip-underwriting-reality",
-      "title": "La realidad de una caída de tasas por debajo del 7% en las fiestas",
+      "slug": "next-mortgage-cycle-operations",
+      "title": "The next mortgage cycle operations and AI integration",
       "source": "HousingWire",
-      "source_url": "https://www.housingwire.com/articles/mortgage-rates-below-7-holidays/",
-      "cover_text": "Tasas bajo 7% no resolverán la asequibilidad",
-      "caption": "Una caída de tasas bajo el 7% genera grandes titulares, pero no resolverá mágicamente la asequibilidad.\n\nAunque romper la barrera del 7% motiva psicológicamente a los compradores, los costos de financiamiento siguen siendo exigentes. Para un asesor hipotecario, una baja de un cuarto de punto apenas cambia la relación deuda-ingreso (DTI) del comprador promedio. Los prestamistas continúan revisando con lupa la estabilidad laboral y las reservas de dinero. Los oficiales de crédito que dependen de bajas de tasas para cerrar ventas están perdiendo la verdadera estrategia: créditos del vendedor y estructuración personalizada del préstamo. Los agentes inmobiliarios que muestren escenarios de pago reales ganarán mercado este invierno. No dejes que tus clientes dependan de titulares publicitarios.\n\nFuente : https://tinyurl.com/22286ryt\n#SafetrustMortgage #MortgageIntelligenceDaily #mortgagebroker #housingmarket #firsttimehomebuyer",
+      "source_url": "https://www.housingwire.com/articles/next-mortgage-cycle-operations/",
+      "cover_text": "AI is taking over mortgage operations, but humans win.",
+      "caption": "Everyone is panicking about artificial intelligence replacing mortgage professionals. Bank data shows AI finance use rose to 55% in 2026. But here is the stat nobody is talking about: 81% of consumers still want human support. Technology is not here to replace the loan officer; it is here to clean up broken operational pipelines. If your back-end isn't modernizing, you are paying too much per file.\n\nSource : https://tinyurl.com/2yclkrm4\n#SafetrustMortgage #MortgageIntelligenceDaily #mortgagerates #loanofficer #mortgagebroker",
       "hashtags": [
         "#SafetrustMortgage",
         "#MortgageIntelligenceDaily",
-        "#mortgagebroker",
+        "#mortgagerates",
+        "#loanofficer",
+        "#mortgagebroker"
+      ],
+      "hook_tag": "Operations shift",
+      "hook": "Artificial intelligence adoption hit 55%, but borrowers still demand real human support.",
+      "what_happened_heading": "AI adoption rises",
+      "what_happened": "Data shows artificial intelligence use in finance rose to 55% in 2026. Concurrently, 81% of consumers stated they still want human support during the process.",
+      "breakdown": [
+        {
+          "heading": "The illusion of replacement",
+          "body": "AI handles data entry and document classification brilliantly. It cannot talk a stressed borrower off a ledge before closing."
+        },
+        {
+          "heading": "Underwriting speed gains",
+          "body": "When files hit underwriting with pre-vetted AI data extraction, conditions clear in hours instead of days."
+        },
+        {
+          "heading": "Operational cost cutting",
+          "body": "Lenders relying on manual processing are watching their cost-per-loan skyrocket compared to automated competitors."
+        },
+        {
+          "heading": "The human differentiator",
+          "body": "As algorithms commoditize basic loan origination, high-touch advisory skills become the ultimate competitive advantage."
+        }
+      ],
+      "my_take_heading": "Technology plus empathy",
+      "my_take": "The lenders winning the next cycle are not replacing humans with algorithms. They are using algorithms to free humans up to sell and advise.",
+      "action_lo": "Audit your tech stack today to eliminate manual data entry steps that slow down your approval times.",
+      "action_realtor": "Partner with lenders who leverage fast, automated back-ends so your purchase contracts close on time.",
+      "cta_question": "Where is your operations team still relying on manual work that software could easily automate?"
+    },
+    {
+      "slug": "housing-ballot-measures",
+      "title": "Voters seize the say in key state battles for housing affordability",
+      "source": "HousingWire",
+      "source_url": "https://www.housingwire.com/articles/housing-ballot-measures-3-states/",
+      "cover_text": "Voters are taking housing affordability into their own hands.",
+      "caption": "When legislatures stall on housing reform, voters take the wheel. California voting on new housing reform ballot measures is underway, with other states starting early voting later this month. For realtors and lenders, local ballot measures dictate your future inventory and buyer pool far more than federal rate cuts ever will. Here is why you need to watch these state battles closely.\n\nSource : https://tinyurl.com/2av5rx2w\n#SafetrustMortgage #MortgageIntelligenceDaily #housingmarket #realestateagent #firsttimehomebuyer",
+      "hashtags": [
+        "#SafetrustMortgage",
+        "#MortgageIntelligenceDaily",
         "#housingmarket",
+        "#realestateagent",
         "#firsttimehomebuyer"
       ],
-      "hook_tag": "Panorama festivo",
-      "hook": "Bajar del 7% en fiestas no resolverá las deudas del comprador.",
-      "what_happened_heading": "Evaluando la proyección de tasas para fin de año",
-      "what_happened": "Analistas del sector ven posible que las tasas hipotecarias toquen niveles inferiores al 7% antes de fin de año. Sin embargo, las condiciones del mercado mantendrán las tasas muy sensibles a los datos económicos.",
+      "hook_tag": "Voter reform",
+      "hook": "State ballot measures are bypassing gridlocked politicians to rewrite local housing rules.",
+      "what_happened_heading": "Voters decide reform",
+      "what_happened": "Voting on new housing reform ballot measures is underway in California, with other states starting early voting later this month. These measures target local affordability and development restrictions.",
       "breakdown": [
         {
-          "heading": "Barrera psicológica contra ahorro real",
-          "body": "Bajar del 7% motiva a compradores dudosos, aunque el ahorro mensual real en un préstamo promedio sea bastante modesto."
+          "heading": "Bypassing political gridlock",
+          "body": "When local councils refuse to rezone, ballot initiatives let the public force density and development changes directly."
         },
         {
-          "heading": "Los márgenes de los prestamistas siguen apretados",
-          "body": "Los prestamistas operan con márgenes estrechos, por lo que las bajas de tasa no siempre se traducen en menores costos de cierre."
+          "heading": "Underwriting local impact",
+          "body": "When files hit underwriting in reform-heavy zones, property valuations and future supply projections shift based on new zoning laws."
         },
         {
-          "heading": "Las reglas de evaluación siguen siendo estrictas",
-          "body": "Los asesores exigen documentación rigurosa de empleo y reservas de dinero, independientemente de pequeñas bajas en las tasas de interés."
+          "heading": "Affordability pressure",
+          "body": "These measures aim to unlock restricted land, creating entry-level supply where inventory has remained locked for decades."
         },
         {
-          "heading": "Mercados lentos en fiestas crean falsas alarmas",
-          "body": "La baja actividad a fines de diciembre puede causar caídas de tasa breves que se revierten rápidamente cuando el mercado vuelve a la normalidad en enero."
+          "heading": "The regional divergence",
+          "body": "States passing aggressive housing measures will see completely different market dynamics than states maintaining status quo zoning."
         }
       ],
-      "my_take_heading": "Bajar del 7% es un impulso psicológico, no una cura",
-      "my_take": "Una tasa del 6.99% genera urgencia en el comprador, pero sin concesiones del vendedor, hace muy poco para solucionar los problemas reales de asequibilidad en la vivienda.",
-      "action_lo": "Muestra a tus compradores preaprobados comparaciones reales de pago al 7.125% versus 6.875% para aclarar la diferencia real en dólares.",
-      "action_realtor": "Busca vendedores motivados en invierno dispuestos a ofrecer aportes para comprar tasa, en lugar de esperar a que el mercado baje solo.",
-      "cta_question": "¿Tu equipo está listo para atender el aumento de consultas si las tasas tocan brevemente el 6.99% este mes?"
-    },
-    {
-      "slug": "winter-pipeline-strategy-mortgage-spreads",
-      "title": "Estrategia de préstamos en invierno ante los márgenes hipotecarios",
-      "source": "HousingWire",
-      "source_url": "https://www.housingwire.com/articles/mortgage-rates-below-7-holidays/",
-      "cover_text": "Cómo manejar los márgenes hipotecarios en invierno",
-      "caption": "Planificar préstamos en invierno exige entender por qué los márgenes hipotecarios siguen por encima de sus promedios históricos.\n\nAunque existe la posibilidad de bajar del 7% antes de fin de año, el riesgo de ejecución sigue siendo alto para los prestamistas. Los asesores hipotecarios revisan las aprobaciones de cerca porque extender bloqueos de tasa es costoso en mercados volátiles. Cuando los márgenes se amplían, renegociar términos genera fricción entre compradores, oficiales de crédito y agentes inmobiliarios. Debes liderar con estrategias claras de bloqueo de tasa en lugar de dejar que tus clientes floten sin rumbo hacia la falta de liquidez festiva. Los agentes deben cerrar contratos con plazos realistas que consideren los horarios festivos. La gestión preventiva es la única forma de proteger tus cierres.\n\nFuente : https://tinyurl.com/22286ryt\n#SafetrustMortgage #MortgageIntelligenceDaily #loanofficer #realestateinvesting #mortgagerates",
-      "hashtags": [
-        "#SafetrustMortgage",
-        "#MortgageIntelligenceDaily",
-        "#loanofficer",
-        "#realestateinvesting",
-        "#mortgagerates"
-      ],
-      "hook_tag": "Ejecución de préstamos",
-      "hook": "Dejar la tasa flotando durante las fiestas es un juego peligroso.",
-      "what_happened_heading": "Gestión de préstamos ante el cambio de tasas festivas",
-      "what_happened": "Las condiciones del mercado muestran potencial para que las tasas bajen del 7% antes de fin de año. El éxito dependerá de manejar los amplios márgenes de tasa y la baja actividad del mercado.",
-      "breakdown": [
-        {
-          "heading": "El volumen de operaciones cae drásticamente",
-          "body": "La menor liquidez entre noviembre y diciembre causa movimientos bruscos de tasa con pocas noticias económicas, aumentando el riesgo de no bloquear."
-        },
-        {
-          "heading": "Extender el bloqueo de tasa reduce las ganancias",
-          "body": "Si las tasas varían y los cierres se demoran por los feriados, pagar extensiones de tasa reduce la ganancia o los créditos del cliente."
-        },
-        {
-          "heading": "El punto de vista del asesor al vencer un bloqueo",
-          "body": "Si el bloqueo de tasa vence durante la evaluación, el caso se revalúa a la tasa actual, lo que puede causar rechazos por relación deuda-ingreso."
-        },
-        {
-          "heading": "Bloqueos estratégicos aseguran la tranquilidad del cierre",
-          "body": "Asegurar un bloqueo con opción de ajuste a la baja protege la fecha de cierre y permite aprovechar posibles caídas de tasa en las fiestas."
-        }
-      ],
-      "my_take_heading": "Asegurar el cierre supera al riesgo de esperar pequeñas bajas",
-      "my_take": "Apostar por una caída de tasas en las fiestas crea un riesgo innecesario en la evaluación, cuando los aportes del vendedor pueden lograr pagos inferiores al 7% hoy mismo.",
-      "action_lo": "Revisa tus préstamos activos buscando bloqueos que venzan cerca de los feriados y extiéndelos antes de que la volatilidad fuerce un cambio de precio.",
-      "action_realtor": "Redacta contratos de compra con plazos realistas de 45 días para evitar tensiones por vencimiento de tasa durante las vacaciones festivas.",
-      "cta_question": "¿Cuál es la política de tu equipo sobre dejar flotar las tasas de los clientes en mercados lentos de fin de año?"
+      "my_take_heading": "Local policy over federal rates",
+      "my_take": "Federal interest rates matter, but local zoning ballots dictate whether your market actually has homes for people to buy.",
+      "action_lo": "Monitor local ballot measures in your footprint to understand how impending zoning changes impact future purchase volume.",
+      "action_realtor": "Get educated on local ballot measures so you can guide buyers and sellers through shifting neighborhood policies.",
+      "cta_question": "Are local ballot measures in your state helping create entry-level housing supply or hurting it?"
     }
   ]
 }
