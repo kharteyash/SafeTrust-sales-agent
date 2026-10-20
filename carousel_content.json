@@ -1,342 +1,172 @@
 {
   "carousels": [
     {
-      "slug": "reverse-mortgages-broker-channel",
-      "title": "Access Home Lending wholesale reverse mortgage plans",
+      "slug": "non-traditional-income-underwriting",
+      "title": "The borrowers traditional underwriting wasn’t built for",
       "source": "HousingWire",
-      "source_url": "https://www.housingwire.com/articles/access-home-lending-wholesale-reverse/",
-      "cover_text": "Reverse mortgages are moving to wholesale brokers.",
-      "caption": "Brokers have mostly ignored reverse mortgages for a decade. Access Home Lending wants to change that by pushing Home Equity Conversion Mortgages (HECM) into the wholesale channel. If you think this is just a niche product for desperate retirees, look closer. This is a massive untapped asset pool for older homeowners who are house rich and cash poor. But underwriting these files takes a completely different playbook than a standard purchase. Here is why the broker channel is about to get a whole lot more complex.\n\nSource : https://tinyurl.com/2bnybbf3\n#SafetrustMortgage #MortgageIntelligenceDaily #mortgagebroker #housingmarket #realestateinvesting",
+      "source_url": "https://www.housingwire.com/articles/non-traditional-income-underwriting/",
+      "cover_text": "Traditional underwriting misses half of Gen Z.",
+      "caption": "Half of Gen Z workers earn independent income. Traditional W-2 underwriting models were never built for this workforce. Lenders who refuse to adapt to cash-flow analysis will lose the next generation of homebuyers entirely. As a former underwriter, I can tell you that automated systems choke on gig economy income, treating freelance earnings as a liability rather than an asset. But the file-level reality is shifting. Loan officers need to understand how to present alternative documentation before the loan ever hits underwriting. Read the full breakdown on why cash flow analysis is the new battleground for origination volume.\n\nSource : https://tinyurl.com/2dh4anfp\n#SafetrustMortgage #MortgageIntelligenceDaily #loanofficer #firsttimehomebuyer #mortgagebroker",
       "hashtags": [
         "#SafetrustMortgage",
         "#MortgageIntelligenceDaily",
-        "#mortgagebroker",
-        "#housingmarket",
-        "#realestateinvesting"
+        "#loanofficer",
+        "#firsttimehomebuyer",
+        "#mortgagebroker"
       ],
-      "hook_tag": "Wholesale shift",
-      "hook": "Reverse mortgages are leaving the retail fringe and heading straight to brokers.",
-      "what_happened_heading": "Expanding reverse access",
-      "what_happened": "Access Home Lending is launching wholesale reverse mortgage plans to make the product mainstream through independent brokers. The strategy aims to integrate Home Equity Conversion Mortgages into standard broker originations.",
+      "hook_tag": "Underwriting Shift",
+      "hook": "Traditional guidelines fail half of Gen Z because gig income looks like risk.",
+      "what_happened_heading": "The gig economy problem",
+      "what_happened": "Half of Gen Z workers earn independent income outside of traditional W-2 jobs. Lenders are leaning on cash flow analysis and underwriter expertise to evaluate these non-traditional borrowers.",
       "breakdown": [
         {
-          "heading": "The untapped asset pool",
-          "body": "Older homeowners hold trillions in home equity. Bringing this product to the broker channel unlocks massive liquidity."
+          "heading": "The W-2 bias in automated underwriting",
+          "body": "Automated underwriting systems love predictable paystubs. Freelance and gig income fluctuate month-to-month, triggering automated flags that slow down approvals."
         },
         {
-          "heading": "Underwriting the borrower",
-          "body": "When this file hits underwriting, forget traditional DTI (how much of your income goes to debt). We look closely at residual income and property charge payment history."
+          "heading": "Why cash flow tells the real story",
+          "body": "Bank statement analysis looks at actual deposits rather than taxable net income. It reveals true purchasing power that tax returns often obscure."
         },
         {
-          "heading": "Education hurdles",
-          "body": "Most borrowers and agents still view reverse mortgages with extreme suspicion. Brokers will need to double as educators to close deals."
+          "heading": "Underwriting perspective shift",
+          "body": "Here is what this actually changes when a file hits underwriting: human underwriters must manually map revenue streams and defend stability metrics to investors."
         },
         {
-          "heading": "Pipeline diversification",
-          "body": "When purchase volume dips, originators need alternative revenue streams. Reverse mortgages provide a counter-cyclical option for aging demographics."
+          "heading": "The risk management reality",
+          "body": "Non-traditional income does not mean high risk. It means loan officers must do the upfront advisory work to package the file correctly."
         }
       ],
-      "my_take_heading": "The broker education gap",
-      "my_take": "If brokers treat reverse mortgages like a side hustle, compliance and underwriting will crush them. You need deep product mastery before taking these applications.",
-      "action_lo": "Partner with a certified reverse mortgage specialist to review your current client database for equity-rich seniors.",
-      "action_realtor": "Educate your senior clients on using home equity to fund retirement lifestyle choices without selling their homes.",
-      "cta_question": "Are your current broker systems ready to handle reverse mortgage compliance requirements effectively today?"
+      "my_take_heading": "The modern qualification gap",
+      "my_take": "If your origination strategy still relies on two years of W-2s, you are locking out half of the next generation of buyers.",
+      "action_lo": "Build relationships with local CPAs who specialize in freelance and gig worker tax preparation.",
+      "action_realtor": "Educate self-employed clients on bank statement programs before they start looking at properties.",
+      "cta_question": "Are your current lending partners equipped to manually underwrite gig income efficiently?"
     },
     {
-      "slug": "hud-btr-fha-financing",
-      "title": "HUD extends FHA multifamily programs to build-to-rent",
-      "source": "HousingWire",
-      "source_url": "https://www.housingwire.com/articles/hud-financing-btr/",
-      "cover_text": "HUD just unlocked FHA financing for build-to-rent.",
-      "caption": "The build-to-rent sector just got a massive government backing boost. HUD extended its FHA multifamily programs, opening up 221(d)(4) new construction and 223(f) refinance and acquisition options for institutional and private developers. For years, BTR developers had to rely on expensive commercial debt. Now, they have access to government-backed liquidity. Here is what this shift means for housing supply and pipeline execution.\n\nSource : https://tinyurl.com/28qxdpjg\n#SafetrustMortgage #MortgageIntelligenceDaily #housingmarket #realestateinvesting #realestateagent",
+      "slug": "fannie-mae-7-5-percent-forecast",
+      "title": "Fannie Mae Ups 2027 Mortgage Rate Forecast to 7.5%",
+      "source": "The Truth About Mortgage",
+      "source_url": "https://www.thetruthaboutmortgage.com/fannie-mae-ups-2027-mortgage-rate-forecast-to-7-5/",
+      "cover_text": "Fannie Mae just raised rates to 7.5%.",
+      "caption": "Fannie Mae just shocked the industry by pushing its 2027 mortgage rate forecast up to 7.5 percent. An eighty basis point jump in a single month signals severe bond market pressure. For loan officers and realtors, this rate environment changes the fundamental math of affordability. Buyers do not just face higher monthly payments; they face shrinking purchasing power that demands immediate strategy shifts. As a veteran underwriter, I have seen how rate shocks break deals at the closing table if DTI (how much of your income goes to debt) is not managed early. Here is how to keep your pipeline alive in a high-rate reality.\n\nSource : https://tinyurl.com/2da8w39x\n#SafetrustMortgage #MortgageIntelligenceDaily #mortgagerates #housingmarket #realestateagent",
+      "hashtags": [
+        "#SafetrustMortgage",
+        "#MortgageIntelligenceDaily",
+        "#mortgagerates",
+        "#housingmarket",
+        "#realestateagent"
+      ],
+      "hook_tag": "Rate Forecast",
+      "hook": "Fannie Mae just hiked its 2027 rate forecast by eighty basis points.",
+      "what_happened_heading": "The 7.5 percent projection",
+      "what_happened": "Fannie Mae raised its estimate for the 30-year fixed mortgage rate to 7.5 percent. This staggering eighty basis point increase reflects recent severe volatility in the bond market.",
+      "breakdown": [
+        {
+          "heading": "The speed of the rate shock",
+          "body": "A move of eighty basis points in a single month disrupts baseline affordability models for every active buyer in the pipeline."
+        },
+        {
+          "heading": "Why the bond market reacted",
+          "body": "Inflation persistence and Treasury supply concerns continue to push yields upward despite Federal Reserve rate cuts."
+        },
+        {
+          "heading": "Underwriter perspective on approvals",
+          "body": "Here is what this actually changes when a file hits underwriting: debt-to-income ratios tighten instantly, pushing borderline borrowers out of qualification."
+        },
+        {
+          "heading": "The psychological barrier for buyers",
+          "body": "Rates hovering near 7.5 percent freeze sideline buyers who refuse to accept current market norms as a baseline."
+        }
+      ],
+      "my_take_heading": "The new affordability ceiling",
+      "my_take": "Rates at 7.5 percent do not kill the market; they kill unrealistic expectations about purchase price limits.",
+      "action_lo": "Audit your pre-approval pipeline immediately to re-run DTI numbers at higher rate thresholds.",
+      "action_realtor": "Target sellers with realistic pricing strategies and emphasize rate buydown options in negotiations.",
+      "cta_question": "How are you adjusting your buyer qualification conversations as rates push toward 7.5 percent?"
+    },
+    {
+      "slug": "rates-above-7-shrink-buyer-budgets",
+      "title": "Rates Above 7% Shrink Buyer Budgets In Loosening Housing Market",
+      "source": "National Mortgage Professional",
+      "source_url": "https://nationalmortgageprofessional.com/news/rates-above-7-shrink-buyer-budgets-loosening-housing-market/",
+      "cover_text": "Higher rates meet a loosening housing market.",
+      "caption": "Rates above 7 percent have slashed buyer purchasing power by over 7 percent in weeks. At the same time, inventory is loosening and giving buyers room to negotiate. This creates a fascinating tug-of-war between affordability and leverage. Sellers are finally dropping prices, but financing costs are eating away the savings. As a loan officer who has originated through multiple rate cycles, I know this market rewards creative financing over waiting for a rate drop. If you do not understand how to structure seller concessions to offset higher rates, your clients will keep getting priced out. Read on for the pipeline strategy.\n\nSource : https://tinyurl.com/2xj4ubfs\n#SafetrustMortgage #MortgageIntelligenceDaily #housingmarket #realestateinvesting #homebuying",
       "hashtags": [
         "#SafetrustMortgage",
         "#MortgageIntelligenceDaily",
         "#housingmarket",
         "#realestateinvesting",
-        "#realestateagent"
+        "#homebuying"
       ],
-      "hook_tag": "Multifamily policy",
-      "hook": "HUD just handed build-to-rent developers the keys to cheap government-backed financing.",
-      "what_happened_heading": "FHA programs expanded",
-      "what_happened": "HUD extended FHA multifamily programs to include build-to-rent housing. Developers now gain access to 221(d)(4) new construction and 223(f) refinance and acquisition options.",
+      "hook_tag": "Market Dynamics",
+      "hook": "Higher rates crushed borrowing power by 7 percent while inventory finally opens up.",
+      "what_happened_heading": "The affordability squeeze",
+      "what_happened": "The average 30-year fixed rate rose from 6.66 percent to 7.40 percent, reducing the loan amount supported by a fixed monthly budget by about 7.2 percent. This financing squeeze coincides with a housing market increasingly tilted toward buyers.",
       "breakdown": [
         {
-          "heading": "Cheaper capital access",
-          "body": "Developers trading high-cost commercial debt for FHA backing will see dramatically lower long-term debt service costs."
+          "heading": "The purchasing power contraction",
+          "body": "Even a modest rate climb drastically reduces the maximum purchase price a family can qualify for under strict debt limits."
         },
         {
-          "heading": "Underwriting construction risk",
-          "body": "When these 221(d)(4) files hit underwriting, expect intense scrutiny on contractor experience, cost estimates, and local market rental absorption rates."
+          "heading": "The buyer leverage advantage",
+          "body": "More inventory and softer demand mean buyers can finally ask for seller concessions without getting outbid instantly."
         },
         {
-          "heading": "Boosting inventory",
-          "body": "More capital flowing into build-to-rent projects directly addresses the chronic shortage of single-family rental housing nationwide."
+          "heading": "Underwriting perspective on concessions",
+          "body": "Here is what this actually changes when a file hits underwriting: processors must carefully verify seller credit limits to ensure they comply with max financing rules."
         },
         {
-          "heading": "Refinance wave incoming",
-          "body": "The 223(f) provision gives existing BTR operators a clear path to stabilize and refinance out of short-term construction loans."
+          "heading": "Bridging the affordability gap",
+          "body": "Permanent rate relief is expensive, but temporary buydowns funded by seller concessions solve the monthly payment hurdle."
         }
       ],
-      "my_take_heading": "Institutionalizing rental housing",
-      "my_take": "Government backing for build-to-rent proves single-family rentals are here to stay as a permanent asset class, not a temporary trend.",
-      "action_lo": "Reach out to local multifamily and commercial developers to discuss how FHA execution changes their capital stack.",
-      "action_realtor": "Track upcoming build-to-rent communities in your market to secure exclusive leasing or resale listing agreements early.",
-      "cta_question": "Will FHA-backed build-to-rent projects crowd out individual real estate investors in your local market?"
+      "my_take_heading": "The concession opportunity",
+      "my_take": "A softening market with higher rates is actually a goldmine for prepared buyers who know how to demand seller-paid concessions.",
+      "action_lo": "Train your real estate partners on how to write purchase contracts that maximize seller-paid financing concessions.",
+      "action_realtor": "Shift your buyer pitch from worrying about the interest rate to negotiating aggressively on the purchase price.",
+      "cta_question": "Are you seeing sellers in your local market open to covering temporary rate buydowns?"
     },
     {
-      "slug": "next-mortgage-cycle-operations",
-      "title": "The next mortgage cycle operations and AI integration",
+      "slug": "crm-lead-conversion-gap",
+      "title": "Your next deal may already be in your CRM. Here’s how to find it",
       "source": "HousingWire",
-      "source_url": "https://www.housingwire.com/articles/next-mortgage-cycle-operations/",
-      "cover_text": "AI is taking over mortgage operations, but humans win.",
-      "caption": "Everyone is panicking about artificial intelligence replacing mortgage professionals. Bank data shows AI finance use rose to 55% in 2026. But here is the stat nobody is talking about: 81% of consumers still want human support. Technology is not here to replace the loan officer; it is here to clean up broken operational pipelines. If your back-end isn't modernizing, you are paying too much per file.\n\nSource : https://tinyurl.com/2yclkrm4\n#SafetrustMortgage #MortgageIntelligenceDaily #mortgagerates #loanofficer #mortgagebroker",
-      "hashtags": [
-        "#SafetrustMortgage",
-        "#MortgageIntelligenceDaily",
-        "#mortgagerates",
-        "#loanofficer",
-        "#mortgagebroker"
-      ],
-      "hook_tag": "Operations shift",
-      "hook": "Artificial intelligence adoption hit 55%, but borrowers still demand real human support.",
-      "what_happened_heading": "AI adoption rises",
-      "what_happened": "Data shows artificial intelligence use in finance rose to 55% in 2026. Concurrently, 81% of consumers stated they still want human support during the process.",
-      "breakdown": [
-        {
-          "heading": "The illusion of replacement",
-          "body": "AI handles data entry and document classification brilliantly. It cannot talk a stressed borrower off a ledge before closing."
-        },
-        {
-          "heading": "Underwriting speed gains",
-          "body": "When files hit underwriting with pre-vetted AI data extraction, conditions clear in hours instead of days."
-        },
-        {
-          "heading": "Operational cost cutting",
-          "body": "Lenders relying on manual processing are watching their cost-per-loan skyrocket compared to automated competitors."
-        },
-        {
-          "heading": "The human differentiator",
-          "body": "As algorithms commoditize basic loan origination, high-touch advisory skills become the ultimate competitive advantage."
-        }
-      ],
-      "my_take_heading": "Technology plus empathy",
-      "my_take": "The lenders winning the next cycle are not replacing humans with algorithms. They are using algorithms to free humans up to sell and advise.",
-      "action_lo": "Audit your tech stack today to eliminate manual data entry steps that slow down your approval times.",
-      "action_realtor": "Partner with lenders who leverage fast, automated back-ends so your purchase contracts close on time.",
-      "cta_question": "Where is your operations team still relying on manual work that software could easily automate?"
-    },
-    {
-      "slug": "housing-ballot-measures",
-      "title": "Voters seize the say in key state battles for housing affordability",
-      "source": "HousingWire",
-      "source_url": "https://www.housingwire.com/articles/housing-ballot-measures-3-states/",
-      "cover_text": "Voters are taking housing affordability into their own hands.",
-      "caption": "When legislatures stall on housing reform, voters take the wheel. California voting on new housing reform ballot measures is underway, with other states starting early voting later this month. For realtors and lenders, local ballot measures dictate your future inventory and buyer pool far more than federal rate cuts ever will. Here is why you need to watch these state battles closely.\n\nSource : https://tinyurl.com/2av5rx2w\n#SafetrustMortgage #MortgageIntelligenceDaily #housingmarket #realestateagent #firsttimehomebuyer",
-      "hashtags": [
-        "#SafetrustMortgage",
-        "#MortgageIntelligenceDaily",
-        "#housingmarket",
-        "#realestateagent",
-        "#firsttimehomebuyer"
-      ],
-      "hook_tag": "Voter reform",
-      "hook": "State ballot measures are bypassing gridlocked politicians to rewrite local housing rules.",
-      "what_happened_heading": "Voters decide reform",
-      "what_happened": "Voting on new housing reform ballot measures is underway in California, with other states starting early voting later this month. These measures target local affordability and development restrictions.",
-      "breakdown": [
-        {
-          "heading": "Bypassing political gridlock",
-          "body": "When local councils refuse to rezone, ballot initiatives let the public force density and development changes directly."
-        },
-        {
-          "heading": "Underwriting local impact",
-          "body": "When files hit underwriting in reform-heavy zones, property valuations and future supply projections shift based on new zoning laws."
-        },
-        {
-          "heading": "Affordability pressure",
-          "body": "These measures aim to unlock restricted land, creating entry-level supply where inventory has remained locked for decades."
-        },
-        {
-          "heading": "The regional divergence",
-          "body": "States passing aggressive housing measures will see completely different market dynamics than states maintaining status quo zoning."
-        }
-      ],
-      "my_take_heading": "Local policy over federal rates",
-      "my_take": "Federal interest rates matter, but local zoning ballots dictate whether your market actually has homes for people to buy.",
-      "action_lo": "Monitor local ballot measures in your footprint to understand how impending zoning changes impact future purchase volume.",
-      "action_realtor": "Get educated on local ballot measures so you can guide buyers and sellers through shifting neighborhood policies.",
-      "cta_question": "Are local ballot measures in your state helping create entry-level housing supply or hurting it?"
-    }
-  ],
-  "carousels_es": [
-    {
-      "slug": "reverse-mortgages-broker-channel",
-      "title": "Accede a los planes de hipoteca inversa al por mayor de Access Home Lending",
-      "source": "HousingWire",
-      "source_url": "https://www.housingwire.com/articles/access-home-lending-wholesale-reverse/",
-      "cover_text": "Las hipotecas inversas se están moviendo al canal mayorista.",
-      "caption": "Los brokers han ignorado las hipotecas inversas durante una década. Access Home Lending quiere cambiar eso impulsando las hipotecas de conversión de capital (HECM) al canal mayorista. Si piensas que este es solo un producto de nicho para jubilados desesperados, mira con más atención. Esta es una fuente de activos masiva y sin explotar para propietarios mayores con mucho capital en su casa, pero poco efectivo. Pero la evaluación de estas solicitudes es un proceso totalmente diferente al de una compra estándar. Aquí te explico por qué el canal de brokers está a punto de volverse mucho más complejo.\n\nFuente : https://tinyurl.com/2bnybbf3\n#SafetrustMortgage #MortgageIntelligenceDaily #mortgagebroker #housingmarket #realestateinvesting",
+      "source_url": "https://www.housingwire.com/articles/your-next-deal-may-already-be-in-your-crm-heres-how-to-find-it/",
+      "cover_text": "91 percent of leads get zero human contact.",
+      "caption": "An analysis of 10 million real estate leads revealed a staggering truth: 91 percent received zero human contact in 90 days. Loan officers and realtors spend thousands buying fresh leads while ignoring the goldmine sitting inside their existing databases. Technology is great for automation, but deals close when humans actually talk to people. As an industry veteran, I see too many pipelines stall because teams rely on automated drip campaigns instead of picking up the phone. Here is how to audit your CRM today and uncover immediate purchase and refinance opportunities.\n\nSource : https://tinyurl.com/2dyny2pa\n#SafetrustMortgage #MortgageIntelligenceDaily #mortgagebroker #loanofficer #realestateagent",
       "hashtags": [
         "#SafetrustMortgage",
         "#MortgageIntelligenceDaily",
         "#mortgagebroker",
-        "#housingmarket",
-        "#realestateinvesting"
-      ],
-      "hook_tag": "Cambio mayorista",
-      "hook": "Las hipotecas inversas dejan el mercado minorista y van directo a los brokers.",
-      "what_happened_heading": "Ampliando el acceso inverso",
-      "what_happened": "Access Home Lending está lanzando planes mayoristas de hipotecas inversas para que el producto sea popular a través de brokers independientes. La estrategia busca integrar las hipotecas de conversión de capital (HECM) en los procesos de originación estándar de los brokers.",
-      "breakdown": [
-        {
-          "heading": "La fuente de activos sin explotar",
-          "body": "Los propietarios mayores tienen billones en capital de vivienda. Llevar este producto al canal de brokers libera una liquidez masiva."
-        },
-        {
-          "heading": "Evaluando al prestatario",
-          "body": "Cuando el asesor hipotecario revise esta solicitud, olvídate del DTI (cuánto de tus ingresos se destina a deudas). Miramos los ingresos residuales y el historial de pagos de cargos de la propiedad."
-        },
-        {
-          "heading": "Obstáculos educativos",
-          "body": "La mayoría de los prestatarios y agentes aún ven las hipotecas inversas con mucha sospecha. Los brokers deberán ser también educadores para cerrar estas operaciones."
-        },
-        {
-          "heading": "Diversificación de oportunidades",
-          "body": "Cuando el volumen de compras baja, los originadores necesitan otras fuentes de ingresos. Las hipotecas inversas ofrecen una opción que va en contra del ciclo para una población que envejece."
-        }
-      ],
-      "my_take_heading": "La brecha de conocimiento en los brokers",
-      "my_take": "Si los brokers tratan las hipotecas inversas como un negocio secundario, el cumplimiento y la evaluación los aplastarán. Necesitas un conocimiento profundo del producto antes de tomar estas solicitudes.",
-      "action_lo": "Asóciate con un especialista certificado en hipotecas inversas para revisar tu base de datos actual de clientes y encontrar a personas mayores con mucho capital en sus casas.",
-      "action_realtor": "Informa a tus clientes mayores sobre cómo usar el capital de su casa para financiar sus opciones de jubilación sin vender sus propiedades.",
-      "cta_question": "¿Tus sistemas de broker actuales están listos para manejar los requisitos de cumplimiento de las hipotecas inversas de forma efectiva hoy?"
-    },
-    {
-      "slug": "hud-btr-fha-financing",
-      "title": "HUD extiende los programas multifamiliares de la FHA a las viviendas de alquiler (build-to-rent)",
-      "source": "HousingWire",
-      "source_url": "https://www.housingwire.com/articles/hud-financing-btr/",
-      "cover_text": "HUD acaba de desbloquear el financiamiento FHA para 'build-to-rent'.",
-      "caption": "El sector de viviendas construidas para alquilar (build-to-rent) acaba de recibir un gran apoyo del gobierno. HUD extendió sus programas multifamiliares de la FHA, abriendo las opciones de nueva construcción 221(d)(4) y las de refinanciamiento y adquisición 223(f) para desarrolladores institucionales y privados. Durante años, los desarrolladores de BTR dependían de una deuda comercial costosa. Ahora, tienen acceso a liquidez respaldada por el gobierno. Esto es lo que significa este cambio para la oferta de viviendas y la ejecución de proyectos.\n\nFuente : https://tinyurl.com/28qxdpjg\n#SafetrustMortgage #MortgageIntelligenceDaily #housingmarket #realestateinvesting #realestateagent",
-      "hashtags": [
-        "#SafetrustMortgage",
-        "#MortgageIntelligenceDaily",
-        "#housingmarket",
-        "#realestateinvesting",
+        "#loanofficer",
         "#realestateagent"
       ],
-      "hook_tag": "Política multifamiliar",
-      "hook": "HUD dio a los desarrolladores de 'build-to-rent' las llaves de financiamiento barato respaldado por el gobierno.",
-      "what_happened_heading": "Programas FHA ampliados",
-      "what_happened": "HUD extendió los programas multifamiliares de la FHA para incluir viviendas construidas para alquilar (build-to-rent). Ahora, los desarrolladores tienen acceso a las opciones de nueva construcción 221(d)(4) y de refinanciamiento y adquisición 223(f).",
+      "hook_tag": "Database Strategy",
+      "hook": "A study of 10 million leads shows 91 percent received zero human contact.",
+      "what_happened_heading": "The database neglect",
+      "what_happened": "An analysis of 10 million real estate leads found that 91 percent had received no human contact in 90 days. Professionals continue wasting money on new lead generation while ignoring active pipelines.",
       "breakdown": [
         {
-          "heading": "Acceso a capital más barato",
-          "body": "Los desarrolladores que cambien la deuda comercial de alto costo por el respaldo de la FHA verán una reducción importante en los costos de servicio de deuda a largo plazo."
+          "heading": "The illusion of automation",
+          "body": "Automated email drip campaigns do not build trust. Borrowers ignore generic messages until a human reaches out with personalized advice."
         },
         {
-          "heading": "Evaluando el riesgo de construcción",
-          "body": "Cuando estas solicitudes 221(d)(4) lleguen al asesor, espera un examen minucioso de la experiencia del contratista, los costos estimados y las tasas de absorción de alquileres en el mercado local."
+          "heading": "The cost of chasing new leads",
+          "body": "Acquiring cold leads costs significantly more in marketing dollars than nurturing past clients and dormant database contacts."
         },
         {
-          "heading": "Aumentando el inventario",
-          "body": "Más capital hacia proyectos de 'build-to-rent' aborda directamente la escasez crónica de viviendas unifamiliares de alquiler en todo el país."
+          "heading": "Underwriting perspective on past data",
+          "body": "Here is what this actually changes when a file hits underwriting: older leads often have outdated credit profiles that require immediate pre-flight document refreshes."
         },
         {
-          "heading": "Ola de refinanciamientos en camino",
-          "body": "La provisión 223(f) da a los operadores existentes de BTR un camino claro para estabilizarse y refinanciar préstamos de construcción a corto plazo."
+          "heading": "Uncovering hidden loan volume",
+          "body": "Past clients sitting in your CRM may need equity lines, debt consolidation, or help buying investment properties right now."
         }
       ],
-      "my_take_heading": "Institucionalizando las viviendas de alquiler",
-      "my_take": "El respaldo gubernamental para 'build-to-rent' demuestra que las viviendas unifamiliares de alquiler llegaron para quedarse como una clase de activo permanente, no una tendencia temporal.",
-      "action_lo": "Contacta a desarrolladores multifamiliares y comerciales locales para hablar sobre cómo la ejecución de la FHA cambia su estructura de capital.",
-      "action_realtor": "Mantente al tanto de las próximas comunidades 'build-to-rent' en tu mercado para asegurar acuerdos exclusivos de alquiler o venta con anticipación.",
-      "cta_question": "¿Los proyectos 'build-to-rent' respaldados por la FHA desplazarán a los inversores inmobiliarios individuales en tu mercado local?"
-    },
-    {
-      "slug": "next-mortgage-cycle-operations",
-      "title": "Las operaciones del próximo ciclo hipotecario y la integración de la IA",
-      "source": "HousingWire",
-      "source_url": "https://www.housingwire.com/articles/next-mortgage-cycle-operations/",
-      "cover_text": "La IA domina las operaciones hipotecarias, pero los humanos ganan.",
-      "caption": "Todos están en pánico porque la inteligencia artificial reemplazará a los profesionales hipotecarios. Los datos bancarios muestran que el uso de IA en finanzas subió al 55% en 2026. Pero esta es la estadística de la que nadie habla: el 81% de los consumidores aún quieren soporte humano. La tecnología no está aquí para reemplazar al oficial de préstamos, está aquí para arreglar los problemas en las operaciones. Si tu área de operaciones no se moderniza, estás pagando demasiado por cada solicitud.\n\nFuente : https://tinyurl.com/2yclkrm4\n#SafetrustMortgage #MortgageIntelligenceDaily #mortgagerates #loanofficer #mortgagebroker",
-      "hashtags": [
-        "#SafetrustMortgage",
-        "#MortgageIntelligenceDaily",
-        "#mortgagerates",
-        "#loanofficer",
-        "#mortgagebroker"
-      ],
-      "hook_tag": "Cambio operativo",
-      "hook": "La adopción de inteligencia artificial llegó al 55%, pero los prestatarios aún exigen soporte humano.",
-      "what_happened_heading": "Aumenta la adopción de IA",
-      "what_happened": "Los datos muestran que el uso de inteligencia artificial en finanzas aumentó al 55% en 2026. Al mismo tiempo, el 81% de los consumidores afirmó que aún quiere soporte humano durante el proceso.",
-      "breakdown": [
-        {
-          "heading": "La ilusión de reemplazar",
-          "body": "La IA maneja muy bien la entrada de datos y la clasificación de documentos. No puede calmar a un prestatario estresado antes del cierre."
-        },
-        {
-          "heading": "Ganancias de velocidad en la evaluación",
-          "body": "Cuando las solicitudes llegan al asesor con datos extraídos por IA previamente verificados, las condiciones se cumplen en horas, no en días."
-        },
-        {
-          "heading": "Reducción de costos operativos",
-          "body": "Los prestamistas que dependen del procesamiento manual ven cómo sus costos por préstamo se disparan en comparación con la competencia automatizada."
-        },
-        {
-          "heading": "El diferenciador humano",
-          "body": "Mientras los algoritmos hacen que la originación básica de préstamos sea un producto básico, las habilidades de asesoramiento personalizado se convierten en la ventaja competitiva clave."
-        }
-      ],
-      "my_take_heading": "Tecnología más empatía",
-      "my_take": "Los prestamistas que ganarán el próximo ciclo no reemplazan a los humanos con algoritmos. Usan algoritmos para que los humanos puedan dedicarse a vender y asesorar.",
-      "action_lo": "Revisa tu tecnología hoy para eliminar los pasos manuales de entrada de datos que ralentizan tus tiempos de aprobación.",
-      "action_realtor": "Asóciate con prestamistas que usen sistemas rápidos y automatizados para que tus contratos de compra cierren a tiempo.",
-      "cta_question": "¿Dónde tu equipo de operaciones aún depende del trabajo manual que un software podría automatizar fácilmente?"
-    },
-    {
-      "slug": "housing-ballot-measures",
-      "title": "Los votantes tienen la última palabra en batallas estatales clave por la asequibilidad de la vivienda",
-      "source": "HousingWire",
-      "source_url": "https://www.housingwire.com/articles/housing-ballot-measures-3-states/",
-      "cover_text": "Los votantes están tomando en sus manos la asequibilidad de la vivienda.",
-      "caption": "Cuando las legislaturas se estancan en la reforma de vivienda, los votantes toman el control. La votación sobre nuevas medidas de reforma de vivienda está en marcha en California, y otros estados comenzarán la votación anticipada a finales de este mes. Para agentes de bienes raíces y prestamistas, las medidas locales en las boletas electorales dictan el futuro de tu inventario y grupo de compradores mucho más que cualquier recorte de tasas federales. Aquí te explico por qué debes seguir de cerca estas batallas estatales.\n\nFuente : https://tinyurl.com/2av5rx2w\n#SafetrustMortgage #MortgageIntelligenceDaily #housingmarket #realestateagent #firsttimehomebuyer",
-      "hashtags": [
-        "#SafetrustMortgage",
-        "#MortgageIntelligenceDaily",
-        "#housingmarket",
-        "#realestateagent",
-        "#firsttimehomebuyer"
-      ],
-      "hook_tag": "Reforma por voto",
-      "hook": "Las medidas electorales estatales evitan a políticos estancados para reescribir las reglas locales de vivienda.",
-      "what_happened_heading": "Votantes deciden la reforma",
-      "what_happened": "La votación sobre nuevas medidas de reforma de vivienda está en marcha en California, y otros estados comenzarán la votación anticipada a finales de este mes. Estas medidas buscan abordar la asequibilidad local y las restricciones de desarrollo.",
-      "breakdown": [
-        {
-          "heading": "Evitando el estancamiento político",
-          "body": "Cuando los concejos locales se niegan a cambiar la zonificación, las iniciativas de votación permiten al público forzar cambios directos en la densidad y el desarrollo."
-        },
-        {
-          "heading": "Evaluando el impacto local",
-          "body": "Cuando las solicitudes llegan al asesor en zonas con muchas reformas, las valoraciones de propiedades y las proyecciones de oferta futura cambian según las nuevas leyes de zonificación."
-        },
-        {
-          "heading": "Presión en la asequibilidad",
-          "body": "Estas medidas buscan liberar terrenos restringidos, creando oferta de viviendas iniciales donde el inventario ha estado estancado por décadas."
-        },
-        {
-          "heading": "La divergencia regional",
-          "body": "Los estados que aprueben medidas agresivas de vivienda verán dinámicas de mercado completamente diferentes a los estados que mantengan el status quo de zonificación."
-        }
-      ],
-      "my_take_heading": "Política local sobre tasas federales",
-      "my_take": "Las tasas de interés federales importan, pero las medidas locales de zonificación dictan si tu mercado realmente tiene casas disponibles para comprar.",
-      "action_lo": "Monitorea las medidas locales en tu área para entender cómo los cambios de zonificación impactarán el volumen de compras futuro.",
-      "action_realtor": "Infórmate sobre las medidas locales en las boletas para poder guiar a compradores y vendedores a través de las cambiantes políticas de vecindarios.",
-      "cta_question": "¿Las medidas locales en tu estado están ayudando a crear viviendas iniciales o las están perjudicando?"
+      "my_take_heading": "The database goldmine",
+      "my_take": "Buying more internet leads is just a tax on laziness when your database is full of ignored opportunities.",
+      "action_lo": "Export your CRM list today and task your team with calling every contact who has gone silent for over sixty days.",
+      "action_realtor": "Send a personalized market update video to past clients rather than another automated newsletter.",
+      "cta_question": "What percentage of your existing CRM contacts have actually spoken to you in the last quarter?"
     }
   ]
 }
