@@ -168,5 +168,175 @@
       "action_realtor": "Send a personalized market update video to past clients rather than another automated newsletter.",
       "cta_question": "What percentage of your existing CRM contacts have actually spoken to you in the last quarter?"
     }
+  ],
+  "carousels_es": [
+    {
+      "slug": "non-traditional-income-underwriting",
+      "title": "Préstamos hipotecarios que el sistema tradicional no puede aprobar",
+      "source": "HousingWire",
+      "source_url": "https://www.housingwire.com/articles/non-traditional-income-underwriting/",
+      "cover_text": "El sistema tradicional excluye a la mitad de la Gen Z.",
+      "caption": "La mitad de los trabajadores de la Generación Z tienen ingresos de fuentes independientes. Los modelos tradicionales, basados en el formulario W-2, no están diseñados para este tipo de ingresos. Los prestamistas que no se adapten al análisis de flujo de caja perderán por completo a la próxima generación de compradores de vivienda. Como exasesor, puedo decirte que los sistemas automatizados tienen problemas con los ingresos de la \"gig economy\" (economía de los pequeños encargos), ya que tratan las ganancias de los trabajadores independientes como un pasivo en lugar de un activo. Pero la realidad a nivel de archivo está cambiando. Los agentes de préstamos necesitan entender cómo presentar documentación alternativa antes de que el préstamo llegue a la etapa de análisis. Lee el desglose completo de por qué el análisis de flujo de caja es el nuevo campo de batalla para el volumen de originación.\n\nFuente : https://tinyurl.com/2dh4anfp\n#SafetrustMortgage #MortgageIntelligenceDaily #loanofficer #firsttimehomebuyer #mortgagebroker",
+      "hashtags": [
+        "#SafetrustMortgage",
+        "#MortgageIntelligenceDaily",
+        "#loanofficer",
+        "#firsttimehomebuyer",
+        "#mortgagebroker"
+      ],
+      "hook_tag": "Cambio en el análisis de crédito",
+      "hook": "Las reglas tradicionales no funcionan con la mitad de la Gen Z; sus ingresos parecen un riesgo.",
+      "what_happened_heading": "El problema de la \"gig economy\"",
+      "what_happened": "La mitad de los trabajadores de la Generación Z obtienen ingresos de forma independiente, fuera de los trabajos tradicionales con W-2. Los prestamistas están usando análisis de flujo de caja y la experiencia de los asesores para evaluar a estos prestatarios con ingresos no tradicionales.",
+      "breakdown": [
+        {
+          "heading": "El sesgo del W-2 en el análisis de crédito automatizado",
+          "body": "Los sistemas automatizados de análisis de crédito aman los recibos de pago predecibles. Los ingresos de freelancers y de la \"gig economy\" fluctúan, activando alertas automáticas que retrasan las aprobaciones."
+        },
+        {
+          "heading": "Por qué el flujo de caja revela la verdad",
+          "body": "El análisis de estados de cuenta bancarios revisa los depósitos reales en lugar del ingreso neto imponible. Muestra un poder adquisitivo real que las declaraciones de impuestos a menudo ocultan."
+        },
+        {
+          "heading": "Cambio de perspectiva para el asesor",
+          "body": "Esto es lo que realmente cambia cuando un archivo llega al asesor: los asesores humanos deben mapear manualmente las fuentes de ingresos y defender la estabilidad de los indicadores ante los inversores."
+        },
+        {
+          "heading": "La realidad de la gestión de riesgos",
+          "body": "Ingresos no tradicionales no significan alto riesgo. Significa que los agentes de préstamos deben asesorar de antemano para preparar el archivo correctamente."
+        }
+      ],
+      "my_take_heading": "La brecha de calificación moderna",
+      "my_take": "Si tu estrategia de originación todavía se basa en dos años de W-2, estás excluyendo a la mitad de la próxima generación de compradores.",
+      "action_lo": "Haz contactos con contadores públicos locales especializados en preparación de impuestos para freelancers y trabajadores de la \"gig economy\".",
+      "action_realtor": "Informa a tus clientes independientes sobre los programas basados en estados de cuenta bancarios antes de que empiecen a buscar propiedades.",
+      "cta_question": "¿Están tus socios prestamistas actuales preparados para analizar eficientemente los ingresos de la \"gig economy\" de forma manual?"
+    },
+    {
+      "slug": "fannie-mae-7-5-percent-forecast",
+      "title": "Fannie Mae sube el pronóstico de tasas hipotecarias al 7.5% para 2027",
+      "source": "The Truth About Mortgage",
+      "source_url": "https://www.thetruthaboutmortgage.com/fannie-mae-ups-2027-mortgage-rate-forecast-to-7-5/",
+      "cover_text": "Fannie Mae subió las tasas al 7.5%.",
+      "caption": "Fannie Mae acaba de sorprender a la industria al subir su pronóstico de tasas hipotecarias para 2027 al 7.5 por ciento. Un salto de ochenta puntos básicos en un solo mes señala una fuerte presión en el mercado de bonos. Para agentes de préstamos y bienes raíces, este entorno de tasas cambia la matemática fundamental de la asequibilidad. Los compradores no solo enfrentan pagos mensuales más altos; también ven cómo su poder adquisitivo disminuye, lo que exige cambios inmediatos en la estrategia. Como asesor hipotecario con experiencia, he visto cómo los shocks de tasas rompen acuerdos en el cierre si la relación deuda-ingreso (cuánto de tu ingreso se destina a la deuda) no se maneja a tiempo. Aquí te digo cómo mantener tu cartera de clientes activa en una realidad de tasas altas.\n\nFuente : https://tinyurl.com/2da8w39x\n#SafetrustMortgage #MortgageIntelligenceDaily #mortgagerates #housingmarket #realestateagent",
+      "hashtags": [
+        "#SafetrustMortgage",
+        "#MortgageIntelligenceDaily",
+        "#mortgagerates",
+        "#housingmarket",
+        "#realestateagent"
+      ],
+      "hook_tag": "Pronóstico de Tasas",
+      "hook": "Fannie Mae acaba de subir su pronóstico de tasas para 2027 en ochenta puntos.",
+      "what_happened_heading": "La proyección del 7.5 por ciento",
+      "what_happened": "Fannie Mae elevó su estimación para la tasa hipotecaria fija a 30 años al 7.5 por ciento. Este asombroso aumento de ochenta puntos básicos refleja la reciente y severa volatilidad en el mercado de bonos.",
+      "breakdown": [
+        {
+          "heading": "La velocidad del shock de tasas",
+          "body": "Un movimiento de ochenta puntos básicos en un solo mes altera los modelos básicos de asequibilidad para cada comprador activo en la cartera de clientes."
+        },
+        {
+          "heading": "Por qué reaccionó el mercado de bonos",
+          "body": "La persistencia de la inflación y las preocupaciones sobre la oferta del Tesoro continúan elevando los rendimientos a pesar de los recortes de tasas de la Reserva Federal."
+        },
+        {
+          "heading": "Perspectiva del asesor sobre las aprobaciones",
+          "body": "Esto es lo que realmente cambia cuando un archivo llega al asesor: las relaciones deuda-ingreso se ajustan instantáneamente, sacando de la calificación a los prestatarios que estaban al límite."
+        },
+        {
+          "heading": "La barrera psicológica para los compradores",
+          "body": "Las tasas que rondan el 7.5 por ciento congelan a los compradores indecisos que se niegan a aceptar las normas actuales del mercado como base."
+        }
+      ],
+      "my_take_heading": "El nuevo límite de asequibilidad",
+      "my_take": "Tasas del 7.5 por ciento no matan el mercado; matan las expectativas poco realistas sobre los precios máximos de compra.",
+      "action_lo": "Revisa tu cartera de preaprobaciones de inmediato para recalcular los números de la relación deuda-ingreso con umbrales de tasas más altos.",
+      "action_realtor": "Dirígete a vendedores con estrategias de precios realistas y enfatiza las opciones de \"rate buydown\" (reducción temporal de la tasa) en las negociaciones.",
+      "cta_question": "¿Cómo estás ajustando tus conversaciones de calificación de compradores a medida que las tasas se acercan al 7.5 por ciento?"
+    },
+    {
+      "slug": "rates-above-7-shrink-buyer-budgets",
+      "title": "Tasas por encima del 7% reducen presupuestos de compradores en un mercado inmobiliario más flexible",
+      "source": "National Mortgage Professional",
+      "source_url": "https://nationalmortgageprofessional.com/news/rates-above-7-shrink-buyer-budgets-loosening-housing-market/",
+      "cover_text": "Tasas más altas y un mercado inmobiliario más flexible.",
+      "caption": "Las tasas por encima del 7 por ciento han reducido el poder adquisitivo de los compradores en más del 7 por ciento en semanas. Al mismo tiempo, el inventario está aumentando, dando a los compradores espacio para negociar. Esto crea un tira y afloja fascinante entre la asequibilidad y la capacidad de negociación. Los vendedores finalmente están bajando los precios, pero los costos de financiación se están comiendo los ahorros. Como agente de préstamos que ha trabajado en varios ciclos de tasas, sé que este mercado premia la financiación creativa sobre la espera de una baja de tasas. Si no entiendes cómo estructurar las concesiones del vendedor para compensar las tasas más altas, tus clientes seguirán siendo excluidos por el precio. Sigue leyendo para la estrategia de la cartera de clientes.\n\nFuente : https://tinyurl.com/2xj4ubfs\n#SafetrustMortgage #MortgageIntelligenceDaily #housingmarket #realestateinvesting #homebuying",
+      "hashtags": [
+        "#SafetrustMortgage",
+        "#MortgageIntelligenceDaily",
+        "#housingmarket",
+        "#realestateinvesting",
+        "#homebuying"
+      ],
+      "hook_tag": "Dinámica del Mercado",
+      "hook": "Tasas más altas reducen el poder de compra un 7% mientras el inventario de casas aumenta.",
+      "what_happened_heading": "La presión sobre la asequibilidad",
+      "what_happened": "La tasa promedio fija a 30 años subió de 6.66 por ciento a 7.40 por ciento, reduciendo el monto del préstamo que puede cubrirse con un presupuesto mensual fijo en aproximadamente 7.2 por ciento. Esta presión financiera coincide con un mercado inmobiliario que cada vez se inclina más a favor de los compradores.",
+      "breakdown": [
+        {
+          "heading": "La contracción del poder adquisitivo",
+          "body": "Incluso un aumento modesto de las tasas reduce drásticamente el precio máximo de compra para el que una familia puede calificar bajo límites de deuda estrictos."
+        },
+        {
+          "heading": "La ventaja de negociación del comprador",
+          "body": "Más inventario y menor demanda significan que los compradores finalmente pueden pedir concesiones al vendedor sin ser superados por otras ofertas al instante."
+        },
+        {
+          "heading": "Perspectiva del asesor sobre las concesiones",
+          "body": "Esto es lo que realmente cambia cuando un archivo llega al asesor: los procesadores deben verificar cuidadosamente los límites de crédito del vendedor para asegurar que cumplan con las reglas de financiación máxima."
+        },
+        {
+          "heading": "Reduciendo la brecha de asequibilidad",
+          "body": "El alivio permanente de la tasa es costoso, pero los \"buydowns\" temporales financiados por concesiones del vendedor resuelven el obstáculo del pago mensual."
+        }
+      ],
+      "my_take_heading": "La oportunidad de concesión",
+      "my_take": "Un mercado que se está suavizando con tasas más altas es una mina de oro para compradores preparados que saben cómo pedir concesiones pagadas por el vendedor.",
+      "action_lo": "Capacita a tus socios inmobiliarios sobre cómo redactar contratos de compra que maximicen las concesiones de financiación pagadas por el vendedor.",
+      "action_realtor": "Cambia tu argumento de venta para el comprador, de preocuparse por la tasa de interés a negociar agresivamente el precio de compra.",
+      "cta_question": "¿Estás viendo a vendedores en tu mercado local abiertos a cubrir reducciones temporales de la tasa de interés (rate buydowns)?"
+    },
+    {
+      "slug": "crm-lead-conversion-gap",
+      "title": "Tu próximo negocio ya podría estar en tu CRM. Así lo encuentras.",
+      "source": "HousingWire",
+      "source_url": "https://www.housingwire.com/articles/your-next-deal-may-already-be-in-your-crm-heres-how-to-find-it/",
+      "cover_text": "El 91% de los clientes potenciales no recibe contacto humano.",
+      "caption": "Un análisis de 10 millones de clientes potenciales de bienes raíces reveló una verdad asombrosa: el 91 por ciento no recibió ningún contacto humano en 90 días. Agentes de préstamos y bienes raíces gastan miles comprando nuevos clientes potenciales mientras ignoran la mina de oro que tienen en sus bases de datos existentes. La tecnología es excelente para la automatización, pero los tratos se cierran cuando las personas realmente hablan entre sí. Como veterano de la industria, veo que muchas carteras de clientes se estancan porque los equipos dependen de campañas de goteo automatizadas en lugar de levantar el teléfono. Aquí te explico cómo auditar tu CRM hoy y descubrir oportunidades inmediatas de compra y refinanciamiento.\n\nFuente : https://tinyurl.com/2dyny2pa\n#SafetrustMortgage #MortgageIntelligenceDaily #mortgagebroker #loanofficer #realestateagent",
+      "hashtags": [
+        "#SafetrustMortgage",
+        "#MortgageIntelligenceDaily",
+        "#mortgagebroker",
+        "#loanofficer",
+        "#realestateagent"
+      ],
+      "hook_tag": "Estrategia de Base de Datos",
+      "hook": "Un estudio de 10 millones de clientes potenciales muestra que el 91% no recibió contacto humano.",
+      "what_happened_heading": "El descuido de la base de datos",
+      "what_happened": "Un análisis de 10 millones de clientes potenciales de bienes raíces encontró que el 91 por ciento no había recibido contacto humano en 90 días. Los profesionales siguen gastando dinero en la generación de nuevos leads mientras ignoran las carteras de clientes activas.",
+      "breakdown": [
+        {
+          "heading": "La ilusión de la automatización",
+          "body": "Las campañas automatizadas de correo electrónico no generan confianza. Los prestatarios ignoran los mensajes genéricos hasta que un humano se comunica con un consejo personalizado."
+        },
+        {
+          "heading": "El costo de buscar nuevos clientes potenciales",
+          "body": "Adquirir clientes potenciales \"fríos\" cuesta significativamente más en dólares de marketing que nutrir a clientes anteriores y contactos inactivos en la base de datos."
+        },
+        {
+          "heading": "Perspectiva del asesor sobre datos antiguos",
+          "body": "Esto es lo que realmente cambia cuando un archivo llega al asesor: los clientes potenciales antiguos a menudo tienen perfiles de crédito desactualizados que requieren actualizaciones inmediatas de documentos antes del inicio."
+        },
+        {
+          "heading": "Descubriendo volumen de préstamos oculto",
+          "body": "Clientes anteriores en tu CRM pueden necesitar líneas de capital, consolidación de deudas o ayuda para comprar propiedades de inversión ahora mismo."
+        }
+      ],
+      "my_take_heading": "La mina de oro de la base de datos",
+      "my_take": "Comprar más clientes potenciales en internet es un impuesto a la pereza cuando tu base de datos está llena de oportunidades ignoradas.",
+      "action_lo": "Exporta tu lista del CRM hoy mismo y encarga a tu equipo que llame a cada contacto que ha estado inactivo por más de sesenta días.",
+      "action_realtor": "Envía un video personalizado con actualizaciones del mercado a clientes anteriores, en lugar de otro boletín automático.",
+      "cta_question": "¿Qué porcentaje de tus contactos existentes en el CRM ha hablado contigo en el último trimestre?"
+    }
   ]
 }
