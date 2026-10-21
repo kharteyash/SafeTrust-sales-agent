@@ -168,5 +168,175 @@
       "action_realtor": "Partner exclusively with lenders who maintain spotless compliance records and respect borrower advocacy standards.",
       "cta_question": "Are mortgage servicers doing enough to automate compliance with federal military protection laws?"
     }
+  ],
+  "carousels_es": [
+    {
+      "slug": "appraisal-data-cma-gap",
+      "title": "Datos de tasación y la brecha del CMA",
+      "source": "HousingWire",
+      "source_url": "https://www.housingwire.com/articles/appraisal-data-cma-gap/",
+      "cover_text": "El CMA tiene los días contados.",
+      "caption": "La diferencia en cómo los tasadores y agentes inmobiliarios valoran las casas pronto causará problemas en tu negocio. Fannie y Freddie están migrando a campos de tasación digitales según MISMO, mientras que la fijación de precios de listado todavía se basa en análisis comparativos de mercado no estructurados. Cuando una valoración verificada por computadora choca con la estimación de un agente, los oficiales de crédito quedan atrapados cuando los archivos llegan a los asesores. Te explicamos lo que este cambio significa para tu próxima transacción de compra y por qué tu estrategia de valoración debe evolucionar.\n\nFuente : https://tinyurl.com/23xavo7w\n#SafetrustMortgage #MortgageIntelligenceDaily #housingmarket #realestateagent #loanofficer",
+      "hashtags": [
+        "#SafetrustMortgage",
+        "#MortgageIntelligenceDaily",
+        "#housingmarket",
+        "#realestateagent",
+        "#loanofficer"
+      ],
+      "hook_tag": "Cambio en la Valoración",
+      "hook": "Por qué tu próxima disputa de tasación será una lucha de datos, no de opiniones.",
+      "what_happened_heading": "Fannie y Freddie exigen campos de datos digitales",
+      "what_happened": "A partir de noviembre, las empresas patrocinadas por el gobierno cambian las tasaciones a campos de datos MISMO. Pero el precio de listado sigue empezando con análisis comparativos de mercado no estructurados. Esto crea una división entre los estrictos estándares de valoración digital y los métodos tradicionales de los agentes.",
+      "breakdown": [
+        {
+          "heading": "El fin del documento estático",
+          "body": "Las tasaciones ya no son solo informes en PDF para humanos. Ahora son conjuntos de datos estructurados que alimentan sistemas de aprobación automatizados que detectan diferencias al instante."
+        },
+        {
+          "heading": "La desconexión del precio del agente",
+          "body": "Los agentes inmobiliarios aún usan análisis comparativos de mercado no estructurados. Se basan en fotos del MLS local que no tienen los datos detallados que los algoritmos modernos necesitan."
+        },
+        {
+          "heading": "La colisión en la evaluación",
+          "body": "Esto es lo que cambia cuando un archivo llega a la evaluación: los sistemas automáticos de riesgo de garantía rechazarán valoraciones infladas antes de que un asesor humano lo revise."
+        },
+        {
+          "heading": "Estrategias para proteger tu cartera",
+          "body": "Los oficiales de crédito deben revisar los precios de los agentes. Comparalos con datos históricos estructurados para evitar que las diferencias de valoración arruinen tratos al final."
+        }
+      ],
+      "my_take_heading": "Los datos estructurados no dejan espacio para las conjeturas del agente",
+      "my_take": "Cuando las valoraciones son puros datos, los agentes que fijan precios por instinto dañarán más cuentas de depósito en garantía de lo que las tasas de interés crecientes jamás podrían.",
+      "action_lo": "Revisa las ventas comparables de cada archivo de preaprobación. Compara con modelos de valoración automatizados antes de enviar a la evaluación.",
+      "action_realtor": "Adopta modelos de precios basados en datos que reflejen los estándares de tasación. No te fíes de resúmenes básicos de CMA.",
+      "cta_question": "¿Están tus agentes inmobiliarios listos para defender sus precios de listado contra datos de tasación automatizados?"
+    },
+    {
+      "slug": "second-liens-home-equity-product",
+      "title": "Por qué ganaron los segundos gravámenes",
+      "source": "HousingWire",
+      "source_url": "https://www.housingwire.com/articles/second-liens-home-equity-product/",
+      "cover_text": "Los productos de capital hipotecario fallaron a una generación de prestatarios.",
+      "caption": "Los prestatarios tienen una riqueza récord, pero los productos tradicionales de capital hipotecario no funcionaron. Los datos de ICE muestran 47.5 millones de prestatarios con 11.7 billones de dólares en capital disponible, pero el 54 por ciento de los préstamos sobre el capital usaron segundos gravámenes en lugar de productos sencillos. ¿Por qué pasó esto? La infraestructura hipotecaria antigua no innovó, mientras que las necesidades del consumidor cambiaron. Te explicamos por qué los segundos gravámenes ganaron el mercado y qué significa para tu estrategia de originación.\n\nFuente : https://tinyurl.com/2xnt2wwl\n#SafetrustMortgage #MortgageIntelligenceDaily #mortgagerates #homebuying #realestateinvesting",
+      "hashtags": [
+        "#SafetrustMortgage",
+        "#MortgageIntelligenceDaily",
+        "#mortgagerates",
+        "#homebuying",
+        "#realestateinvesting"
+      ],
+      "hook_tag": "Realidad del Capital",
+      "hook": "Los prestatarios tienen billones en riqueza, pero los productos de capital tradicionales fallaron.",
+      "what_happened_heading": "Los datos de ICE revelan una enorme demanda de capital sin aprovechar",
+      "what_happened": "Los datos de ICE muestran que 47.5 millones de prestatarios tenían 11.7 billones de dólares en capital disponible en el segundo trimestre de 2026. A pesar de esta enorme riqueza, el 54 por ciento de los préstamos sobre el capital usaron segundos gravámenes en lugar de productos primarios simplificados.",
+      "breakdown": [
+        {
+          "heading": "El dilema de la tasa fija",
+          "body": "Los propietarios no quieren refinanciar sus hipotecas primarias de baja tasa. Así, los refinanciamientos de retiro de efectivo no son viables para millones de consumidores con tasas actuales más altas."
+        },
+        {
+          "heading": "Por qué los segundos gravámenes dominaron",
+          "body": "Los segundos gravámenes permiten sacar efectivo sin tocar la hipoteca primaria de menos del cuatro por ciento. Capturan una gran parte del mercado por defecto."
+        },
+        {
+          "heading": "El cambio de riesgo de evaluación",
+          "body": "Esto es lo que cambia cuando un archivo llega a la evaluación: los cálculos combinados de LTV necesitan un gran escrutinio. Esto ocurre cuando varios prestamistas comparten el control sobre la misma propiedad."
+        },
+        {
+          "heading": "Fallos en el desarrollo de productos",
+          "body": "Los prestamistas ignoraron por años la necesidad de herramientas de capital flexibles. Esto permitió que las fintechs y prestamistas alternativos capturaran la parte más rentable del mercado."
+        }
+      ],
+      "my_take_heading": "Los segundos gravámenes ganaron porque los prestamistas principales se negaron a adaptarse",
+      "my_take": "Obligamos a los prestatarios a usar segundos gravámenes complicados. Esto pasó porque nuestra industria fue muy lenta para crear una mejor opción primaria de capital.",
+      "action_lo": "Domina las pautas de segundos gravámenes y estructuras HELOC. Así capturarás negocios de capital sin afectar las bajas tasas del primer gravamen.",
+      "action_realtor": "Informa a los propietarios sobre cómo obtener capital con financiamiento secundario. Esto es para renovar casas en lugar de venderlas.",
+      "cta_question": "¿Por qué la fabricación hipotecaria tradicional ha sido tan lenta en reemplazar el segundo gravamen?"
+    },
+    {
+      "slug": "compass-mls-antitrust-pushback",
+      "title": "Rechazo antimonopolio al MLS de Compass",
+      "source": "HousingWire",
+      "source_url": "https://www.housingwire.com/articles/compass-mls-antitrust-pushback/",
+      "cover_text": "Acumular listados destruye la base de la valoración de propiedades.",
+      "caption": "Cuando las grandes agencias inmobiliarias empiezan a guardar listados en lugar de compartirlos, el ecosistema de la vivienda se debilita. Líderes de Brown Harris Stevens, NextHome y Lamacchia Realty advierten que las plataformas exclusivas pueden afectar gravemente las comparaciones y tasaciones precisas. Sin datos de mercado transparentes, valorar bienes raíces residenciales se convierte en una costosa adivinanza. Te explicamos por qué este problema con el MLS amenaza cada hipoteca en tu cartera.\n\nFuente : https://tinyurl.com/2yzageqm\n#SafetrustMortgage #MortgageIntelligenceDaily #housingmarket #realestateagent #mortgagerates",
+      "hashtags": [
+        "#SafetrustMortgage",
+        "#MortgageIntelligenceDaily",
+        "#housingmarket",
+        "#realestateagent",
+        "#mortgagerates"
+      ],
+      "hook_tag": "Integridad del Mercado",
+      "hook": "Por qué la acumulación de listados por grandes agencias amenaza la precisión de cada tasación.",
+      "what_happened_heading": "Líderes de agencias inmobiliarias alertan sobre las demandas del MLS",
+      "what_happened": "Líderes de Brown Harris Stevens, NextHome y Lamacchia Realty advierten que las estrategias de listado exclusivas podrían afectar las comparaciones y tasaciones. La reacción subraya los crecientes temores sobre la fragmentación de datos en los mercados de vivienda regionales.",
+      "breakdown": [
+        {
+          "heading": "El peligro de los datos aislados",
+          "body": "Cuando las agencias guardan los listados internamente, el servicio de listados múltiples pierde el historial completo de transacciones. Esto es esencial para valoraciones precisas de vecindarios."
+        },
+        {
+          "heading": "Precisión de tasación en riesgo",
+          "body": "Los tasadores usan datos completos de ventas comparables públicas para justificar el valor de las propiedades. La falta de ventas distorsiona las valoraciones en códigos postales enteros."
+        },
+        {
+          "heading": "El impacto en la evaluación",
+          "body": "Esto es lo que cambia cuando un archivo llega a la evaluación: los asesores, al enfrentar datos de ventas comparables poco claros, pedirán revisiones adicionales, lo que retrasará los cierres."
+        },
+        {
+          "heading": "Examen antimonopolio en camino",
+          "body": "Los reguladores están atentos. Las redes de listados privadas desafían la infraestructura de mercado abierto que apoya el préstamo hipotecario."
+        }
+      ],
+      "my_take_heading": "Los listados aislados destruyen la valoración transparente de propiedades",
+      "my_take": "Si las agencias guardan el inventario en plataformas privadas, dejan a los tasadores sin los datos exactos que necesitan para aprobar los préstamos.",
+      "action_lo": "Verifica que tus tasadores utilicen fuentes de datos amplias e inclusivas. Esto es importante cuando las ventas comparables escasean en mercados muy específicos.",
+      "action_realtor": "Comprométete a compartir en el MLS. Así asegurarás valoraciones justas y protegerás a tus compradores de tasaciones insuficientes.",
+      "cta_question": "¿Puede sobrevivir el MLS tradicional si las grandes agencias siguen construyendo muros de listados privados?"
+    },
+    {
+      "slug": "village-capital-scra-settlement-doj",
+      "title": "Acuerdo SCRA de Village Capital DOJ",
+      "source": "HousingWire",
+      "source_url": "https://www.housingwire.com/articles/village-capital-scra-settlement-doj/",
+      "cover_text": "Los administradores que ignoran los límites de tasas enfrentan grandes multas.",
+      "caption": "Los fallos de cumplimiento en la administración de préstamos tienen un costo enorme cuando intervienen los reguladores federales. El Departamento de Justicia (DOJ) llegó recientemente a un acuerdo con Village Capital. Esto ocurrió después de que los investigadores descubrieran que el administrador rechazó solicitudes de reducción de tasas bajo la Ley de Alivio Civil para Miembros del Servicio (SCRA) y tomó represalias contra prestatarios que buscaban ayuda. Tratar las protecciones militares como un inconveniente operativo es una vía rápida a acciones de cumplimiento severas. Esto es lo que todo ejecutivo de administración debe aprender de este caso.\n\nFuente : https://tinyurl.com/2bv932yz\n#SafetrustMortgage #MortgageIntelligenceDaily #mortgagebroker #homebuying #realestateinvesting",
+      "hashtags": [
+        "#SafetrustMortgage",
+        "#MortgageIntelligenceDaily",
+        "#mortgagebroker",
+        "#homebuying",
+        "#realestateinvesting"
+      ],
+      "hook_tag": "Cumplimiento de Servicio",
+      "hook": "Por qué ignorar los límites federales de tasas para los militares es la forma más rápida de invitar a investigadores federales.",
+      "what_happened_heading": "El DOJ multa a administrador por no aplicar límites de tasas de VA",
+      "what_happened": "El Departamento de Justicia llegó a un acuerdo con Village Capital. Esto sucedió al descubrir que el administrador rechazó solicitudes de reducción de tasas bajo la ley federal. Los investigadores también citaron prácticas de represalia contra prestatarios militares que buscaban ayuda legal.",
+      "breakdown": [
+        {
+          "heading": "El mandato de la Ley de Alivio Civil para Miembros del Servicio",
+          "body": "La ley federal limita estrictamente las tasas de interés para el personal militar en servicio activo. Exige un cumplimiento inmediato por parte de los administradores de préstamos, sin fricciones burocráticas."
+        },
+        {
+          "heading": "El costo de la resistencia operativa",
+          "body": "Los administradores que tratan las solicitudes de ayuda de los prestatarios como obstáculos de cobro, en lugar de obligaciones legales, enfrentan grandes multas y daño a su reputación."
+        },
+        {
+          "heading": "La brecha en la supervisión de la evaluación",
+          "body": "Esto es lo que cambia cuando un archivo llega a la evaluación: los registros históricos de cumplimiento de servicio ahora tienen un gran peso en las revisiones institucionales de compra de activos."
+        },
+        {
+          "heading": "Protección a prestatarios vulnerables",
+          "body": "Los prestamistas deben revisar sus servicios de atención al cliente. Esto es para asegurar que las solicitudes de ayuda de grupos protegidos se manejen con una precisión regulatoria absoluta."
+        }
+      ],
+      "my_take_heading": "La negligencia operativa en el alivio militar es indefendible",
+      "my_take": "Los administradores que castigan a los prestatarios militares por reclamar límites de tasas legales merecen todo el escrutinio federal que reciben.",
+      "action_lo": "Asegúrate de que tus clientes prestatarios militares conozcan sus derechos sobre reducciones de tasas y protecciones de servicio desde el principio.",
+      "action_realtor": "Asóciate solo con prestamistas que tengan un historial impecable de cumplimiento y respeten los estándares de defensa del prestatario.",
+      "cta_question": "¿Están los administradores hipotecarios haciendo lo suficiente para automatizar el cumplimiento de las leyes federales de protección militar?"
+    }
   ]
 }
