@@ -168,5 +168,175 @@
       "action_realtor": "Advocate for local zoning flexibility in your market to open inventory channels for first-time buyers.",
       "cta_question": "Should the housing industry advocate more for land-use reform rather than pushing for looser lending guidelines?"
     }
+  ],
+  "carousels_es": [
+    {
+      "slug": "uwm-waives-fha-va-llpas",
+      "title": "UWM elimina los recargos por puntaje de crédito en préstamos FHA y VA",
+      "source": "National Mortgage Professional",
+      "source_url": "https://nationalmortgageprofessional.com/news/uwm-waives-fha-and-va-credit-score-pricing-hits-through-year-end",
+      "cover_text": "Eximir recargos no garantiza aprobaciones",
+      "caption": "UWM eliminó los recargos por puntaje de crédito en préstamos FHA y VA con puntajes de 580 o más, hasta fin de año. También redujo los ajustes en los refinanciamientos VA cash-out con LTV (relación préstamo-valor) superior al 90%, de 1.250 a 0.750. Los costos iniciales más bajos son geniales para las cotizaciones, pero como exasesor, sé que menos tarifas no bajan los estándares de crédito. Renunciar a un recargo no activa una aprobación automática ni relaja los límites DTI (relación deuda-ingresos). Da una ventaja de precio, pero los expedientes se aprueban o rechazan por el historial de crédito y los cálculos de ingresos reales.\n\nFuente : https://tinyurl.com/22fjtsrj\n#SafetrustMortgage #MortgageIntelligenceDaily #mortgagebroker #loanofficer #mortgagerates",
+      "hashtags": [
+        "#SafetrustMortgage",
+        "#MortgageIntelligenceDaily",
+        "#mortgagebroker",
+        "#loanofficer",
+        "#mortgagerates"
+      ],
+      "hook_tag": "Estrategia de precios de préstamos",
+      "hook": "UWM bajó las tarifas de préstamos del gobierno, pero los asesores tienen la última palabra.",
+      "what_happened_heading": "Lanzan exenciones de tarifas para préstamos del gobierno",
+      "what_happened": "United Wholesale Mortgage eximió los recargos por puntaje de crédito en préstamos FHA y VA para puntajes de 580 o más hasta fin de año. También redujo los ajustes de precios en refinanciamientos VA cash-out por encima del 90% de la relación préstamo-valor, de 1.250 a 0.750.",
+      "breakdown": [
+        {
+          "heading": "Las tarifas más bajas buscan márgenes ajustados",
+          "body": "Eximir los ajustes de precios ayuda a los brokers a presentar cotizaciones más bajas a prestatarios del gobierno con desafíos de crédito de inmediato."
+        },
+        {
+          "heading": "Los costos de refinanciamiento bajan",
+          "body": "El recorte de tarifas para VA cash-out hace que los préstamos de consolidación de deuda con LTV (relación préstamo-valor) alto parezcan más baratos en el papel."
+        },
+        {
+          "heading": "Esto es lo que ven realmente los asesores",
+          "body": "Como asesor, las tarifas exentas no cambian los disparadores de rebaja manual, los límites estrictos de DTI (relación deuda-ingresos) o los requisitos de ingresos residuales."
+        },
+        {
+          "heading": "Los recortes de precios no arreglan el crédito",
+          "body": "El ahorro del costo inicial no corrige un perfil crediticio débil si las relaciones de deuda exceden las pautas o la aprobación automatizada indica riesgo."
+        }
+      ],
+      "my_take_heading": "Precios más bajos mueven el margen sin aliviar el riesgo",
+      "my_take": "Reducir los ajustes de tarifas genera ruido de marketing rápido, pero no facilita que un expediente difícil pase por el proceso de aprobación.",
+      "action_lo": "Vuelve a cotizar rechazos anteriores de FHA y VA para ver si tarifas más bajas ajustan los pagos mensuales a los límites.",
+      "action_realtor": "Pregúntale a tu prestamista si las tarifas ahorradas se pueden usar para los costos de cierre en lugar de asumir estándares más bajos.",
+      "cta_question": "¿Las exenciones de tarifas están impulsando aumentos de volumen reales en tu cartera, o solo están cambiando la cuota de mercado existente?"
+    },
+    {
+      "slug": "fannie-freddie-condo-reserve-rules",
+      "title": "Cambios en las reglas de reserva para condominios amenazan cierres de 2027",
+      "source": "National Mortgage Professional",
+      "source_url": "https://nationalmortgageprofessional.com/news/januarys-condo-reserve-increase-puts-project-budgets-focus",
+      "cover_text": "Nuevas reglas de condominios afectarán tratos",
+      "caption": "Fannie Mae y Freddie Mac implementarán reglas más estrictas para las reservas de condominios a partir del 4 de enero. Si el presupuesto de una HOA (asociación de propietarios) cumplía antes, eso no garantiza la aprobación de tu próximo trato. En mis años como asesor, nada arruinaba más rápido el cronograma de un comprador que los rechazos tardíos del presupuesto de un condominio. Los agentes de préstamos y los agentes inmobiliarios deben revisar los borradores de los presupuestos de las asociaciones de 2027 ahora mismo. Esperar hasta que se firme un contrato de compra causará rechazos repentinos de préstamos, pérdida de dinero de buena fe y compradores sin opciones.\n\nFuente : https://tinyurl.com/2cerq8lv\n#SafetrustMortgage #MortgageIntelligenceDaily #homebuying #realestateagent #loanofficer",
+      "hashtags": [
+        "#SafetrustMortgage",
+        "#MortgageIntelligenceDaily",
+        "#homebuying",
+        "#realestateagent",
+        "#loanofficer"
+      ],
+      "hook_tag": "Reglas de suscripción",
+      "hook": "El aumento de las reservas de condominios en enero matará los tratos que cierren a principios del próximo año.",
+      "what_happened_heading": "Fannie y Freddie aumentan las reglas de reserva para condominios",
+      "what_happened": "Reglas más altas para las reservas de reemplazo de condominios entran en vigencia el 4 de enero para el financiamiento de Fannie Mae y Freddie Mac. Los presupuestos de las asociaciones de propietarios que funcionaron para tratos anteriores pueden fallar bajo los requisitos de reserva más estrictos.",
+      "breakdown": [
+        {
+          "heading": "Las asignaciones de reservas están subiendo",
+          "body": "Fannie Mae y Freddie Mac anunciaron previamente asignaciones mínimas de reserva de reemplazo más altas en los presupuestos anuales de las HOA (asociaciones de propietarios)."
+        },
+        {
+          "heading": "Las aprobaciones anteriores expirarán silenciosamente",
+          "body": "Proyectos aprobados hace meses enfrentarán nuevos rechazos por los estándares cuando los nuevos compradores soliciten a principios de 2027."
+        },
+        {
+          "heading": "Lo que los asesores inspeccionan en los presupuestos",
+          "body": "Como asesor, examino primero las contribuciones de reserva por partida; si el presupuesto carece de fondos, se rechaza todo el proyecto."
+        },
+        {
+          "heading": "Las revisiones tardías paralizan los tratos",
+          "body": "Esperar a firmar contratos de compra para revisar presupuestos actualizados de la HOA lleva a cancelaciones y fechas de cierre perdidas."
+        }
+      ],
+      "my_take_heading": "Las aprobaciones actuales de condominios son un reloj de arena",
+      "my_take": "Una aprobación de condominio hoy no tiene sentido si el presupuesto de la asociación no cumple con el nuevo estándar de reserva antes de que el comprador cierre el próximo año.",
+      "action_lo": "Revisa los presupuestos de la HOA de todas las preaprobaciones de condominios activas ahora para verificar el cumplimiento de las reservas antes de enero.",
+      "action_realtor": "Pide hoy a las juntas de condominios los borradores de los presupuestos actualizados de 2027 antes de escribir ofertas que cierren después de fin de año.",
+      "cta_question": "¿Cómo está auditando tu equipo las carteras de condominios actuales para evitar denegaciones tardías bajo las nuevas pautas de la agencia?"
+    },
+    {
+      "slug": "permit-data-drives-renovation-helocs",
+      "title": "Datos de permisos revelan zonas con alta demanda de HELOC para renovaciones",
+      "source": "HousingWire",
+      "source_url": "https://www.housingwire.com/articles/kukun-heloc-permit-data/",
+      "cover_text": "Los datos de permisos revelan volumen oculto de HELOC",
+      "caption": "Kukun lanzó su índice Renovation-HELOC para mapear puntos de alta actividad de renovación usando datos de permisos de construcción por código postal. Los prestamistas aprovechan estos datos para capturar oportunidades de HELOC (línea de crédito con garantía hipotecaria), mientras las refinanciaciones por tasa se mantienen bajas. Habiendo originado y asesorado tanto en entornos de tasas bajas como altas, te aseguro que la extracción de capital es donde está la verdadera producción hoy. No esperes a que bajen las tasas para reactivar tu base de datos. Observa las tendencias de permisos para encontrar propietarios que invierten activamente en sus propiedades.\n\nFuente : https://tinyurl.com/29vhzu6s\n#SafetrustMortgage #MortgageIntelligenceDaily #realestateinvesting #mortgagebroker #housingmarket",
+      "hashtags": [
+        "#SafetrustMortgage",
+        "#MortgageIntelligenceDaily",
+        "#realestateinvesting",
+        "#mortgagebroker",
+        "#housingmarket"
+      ],
+      "hook_tag": "Crecimiento de la cartera",
+      "hook": "Esperar recortes de tasas te está haciendo perder negocios de capital hoy.",
+      "what_happened_heading": "Datos rastrean permisos de renovación por código postal",
+      "what_happened": "Kukun lanzó un índice Renovation-HELOC que mapea la actividad de permisos locales para detectar oportunidades de capital hipotecario por código postal. Los prestamistas y administradores utilizan estos datos de permisos para apuntar a propietarios que solicitan préstamos para renovación.",
+      "breakdown": [
+        {
+          "heading": "Los permisos predicen la demanda de capital",
+          "body": "Los permisos de construcción exponen a propietarios activos que gastan en mejoras mucho antes de solicitar financiamiento de capital hipotecario."
+        },
+        {
+          "heading": "El enfoque se aleja de las refinanciaciones por tasa",
+          "body": "Ofrecer una refinanciación por tasa es difícil con tasas existentes bajas; el aprovechamiento de capital satisface necesidades reales del prestatario."
+        },
+        {
+          "heading": "La realidad del asesor en HELOC de renovación",
+          "body": "Desde la perspectiva de un asesor, los HELOC (líneas de crédito con garantía hipotecaria) requieren verificaciones estrictas de la relación deuda combinada y tasaciones claras de la propiedad."
+        },
+        {
+          "heading": "La orientación local supera el alcance amplio",
+          "body": "Dirigirse a puntos clave de renovación por código postal reduce los costos de adquisición de clientes en comparación con las campañas masivas de marketing."
+        }
+      ],
+      "my_take_heading": "Los datos de permisos son mejores que esperar tasas bajas",
+      "my_take": "Los originadores inteligentes dejan de rezar por ciclos de tasas bajas y comienzan a rastrear los permisos de construcción locales para captar prestatarios de capital activos.",
+      "action_lo": "Asóciate con departamentos de construcción locales o herramientas de datos para identificar códigos postales con números crecientes de permisos residenciales.",
+      "action_realtor": "Conéctate con contratistas que solicitan permisos para ofrecer consultas de valor de vivienda a propietarios que planean renovaciones importantes.",
+      "cta_question": "¿Tu equipo de originación está aprovechando los datos de permisos locales, o sigues dependiendo de las listas tradicionales de refinanciamiento?"
+    },
+    {
+      "slug": "starter-homes-zoning-over-credit",
+      "title": "Lotes más pequeños solucionan la asequibilidad mejor que facilitar el crédito",
+      "source": "HousingWire",
+      "source_url": "https://www.housingwire.com/articles/starter-homes-affordability-fix/",
+      "cover_text": "Los arreglos de crédito no resuelven la oferta de vivienda",
+      "caption": "Una nueva investigación muestra que lotes más pequeños podrían haber creado 3.1 millones de viviendas de inicio en diez años, reduciendo los precios un 10% a 15%. Promover reglas de préstamo más flexibles o estándares de asesoría más bajos para resolver la asequibilidad es una trampa peligrosa. Mi experiencia como asesor me enseñó que inflar los límites de crédito en mercados con oferta limitada solo infla los precios de compra y aumenta el riesgo de incumplimiento. La asequibilidad real requiere soluciones físicas de inventario como reformas de zonificación, no trucos financieros que cargan a los compradores con deudas mensuales más pesadas.\n\nFuente : https://tinyurl.com/24z6dwt5\n#SafetrustMortgage #MortgageIntelligenceDaily #housingmarket #firsttimehomebuyer #realestateagent",
+      "hashtags": [
+        "#SafetrustMortgage",
+        "#MortgageIntelligenceDaily",
+        "#housingmarket",
+        "#firsttimehomebuyer",
+        "#realestateagent"
+      ],
+      "hook_tag": "Perspectiva del mercado",
+      "hook": "Flexibilizar las pautas hipotecarias no construye nuevas viviendas de inicio.",
+      "what_happened_heading": "La investigación apunta a las restricciones de zonificación de tamaño de lote",
+      "what_happened": "La investigación estima que lotes más pequeños podrían haber añadido 3.1 millones de viviendas de inicio en diez años a precios un 10% a 15% más bajos. El informe argumenta que la política de uso de la tierra resuelve la asequibilidad de la vivienda mejor que la ingeniería financiera o la expansión del crédito.",
+      "breakdown": [
+        {
+          "heading": "La expansión del crédito infla los precios",
+          "body": "Impulsar aprobaciones de préstamos más fáciles sin añadir inventario físico simplemente eleva las guerras de ofertas en las viviendas existentes limitadas."
+        },
+        {
+          "heading": "Las reglas de zonificación restringen la oferta",
+          "body": "Los requisitos de tamaño mínimo de lote prohíben a los constructores levantar viviendas de inicio más pequeñas y asequibles que necesitan los primeros compradores."
+        },
+        {
+          "heading": "Lo que ven los asesores en el estiramiento del crédito",
+          "body": "Como asesor, estirar los límites de DTI (relación deuda-ingresos) para igualar precios inflados crea expedientes de alto riesgo que sufren durante las recesiones económicas."
+        },
+        {
+          "heading": "La oferta real reduce la presión de compra",
+          "body": "Agregar millones de viviendas más pequeñas reduce los precios directamente sin cargar las finanzas del comprador con apalancamiento adicional."
+        }
+      ],
+      "my_take_heading": "Los cambios de zonificación arreglan lo que estropean los ajustes financieros",
+      "my_take": "No se puede salir de una escasez de vivienda a base de préstamos; expandir las pautas de deuda solo infla los precios en un inventario fijo.",
+      "action_lo": "Educa a los compradores sobre cómo la asistencia para el pago inicial y las políticas de densidad de lotes locales impactan la asequibilidad a largo plazo.",
+      "action_realtor": "Aboga por la flexibilidad de zonificación local en tu mercado para abrir canales de inventario para compradores primerizos.",
+      "cta_question": "¿Debería la industria de la vivienda abogar más por la reforma del uso de la tierra en lugar de impulsar pautas de préstamo más laxas?"
+    }
   ]
 }
