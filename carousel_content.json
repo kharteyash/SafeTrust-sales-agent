@@ -1,342 +1,172 @@
 {
   "carousels": [
     {
-      "slug": "appraisal-data-cma-gap",
-      "title": "Appraisal Data and CMA Gap",
-      "source": "HousingWire",
-      "source_url": "https://www.housingwire.com/articles/appraisal-data-cma-gap/",
-      "cover_text": "The CMA is living on borrowed time.",
-      "caption": "The gap between how appraisers and realtors price homes is about to cause major friction in your pipeline. Fannie and Freddie are moving to MISMO-aligned digital appraisal fields, while listing pricing still leans heavily on unstructured comparative market analyses. When a computer-verified valuation collides with a human agent's rough guess on value, loan officers are the ones caught in the middle when files hit underwriting. Here is what this shift means for your next purchase transaction and why your valuation strategy has to evolve.\n\nSource : https://tinyurl.com/23xavo7w\n#SafetrustMortgage #MortgageIntelligenceDaily #housingmarket #realestateagent #loanofficer",
-      "hashtags": [
-        "#SafetrustMortgage",
-        "#MortgageIntelligenceDaily",
-        "#housingmarket",
-        "#realestateagent",
-        "#loanofficer"
-      ],
-      "hook_tag": "Valuation Shift",
-      "hook": "Why your next appraisal dispute is going to be a data fight, not an opinion fight.",
-      "what_happened_heading": "Fannie and Freddie mandate digital data fields",
-      "what_happened": "Starting in November, government-sponsored enterprises shift appraisals to MISMO-aligned data fields while listing pricing still starts with unstructured comparative market analyses. This creates an immediate divide between rigid digital valuation standards and traditional agent pricing methods.",
-      "breakdown": [
-        {
-          "heading": "The death of the static document",
-          "body": "Appraisals are no longer just PDF reports for human eyes. They are structured datasets feeding automated underwriting systems that flag variances instantly."
-        },
-        {
-          "heading": "The agent pricing disconnect",
-          "body": "Realtors still rely on unstructured comparative market analyses based on local MLS snapshots, which often lack the granular data points modern algorithms demand."
-        },
-        {
-          "heading": "The underwriting collision",
-          "body": "Here is what this actually changes when a file hits underwriting: automated collateral risk assessments will reject inflated listing valuations before a human underwriter even reviews the file."
-        },
-        {
-          "heading": "Pipeline protection strategies",
-          "body": "Loan officers must start reviewing agent pricing against structured historical data early to prevent valuation gaps from killing deals at the eleventh hour."
-        }
-      ],
-      "my_take_heading": "Structured data leaves no room for agent guesswork",
-      "my_take": "When valuations become pure data, agents relying on gut-feeling pricing will torch more escrow accounts than rising interest rates ever could.",
-      "action_lo": "Review every pre-approval file's comparable sales against automated valuation models before submitting to underwriting.",
-      "action_realtor": "Adopt data-backed pricing models that mirror institutional appraisal standards rather than relying on basic CMA summaries.",
-      "cta_question": "Are your realtor partners prepared to defend their listing prices against automated appraisal datasets?"
-    },
-    {
-      "slug": "second-liens-home-equity-product",
-      "title": "Why Second Liens Won",
-      "source": "HousingWire",
-      "source_url": "https://www.housingwire.com/articles/second-liens-home-equity-product/",
-      "cover_text": "Home equity products failed a generation of borrowers.",
-      "caption": "Borrowers are sitting on record wealth, but traditional home equity products completely missed the mark. ICE data shows 47.5 million borrowers holding 11.7 trillion dollars in tappable equity, yet 54 percent of equity taps relied on second liens rather than clean standalone products. Why did this happen? Because legacy mortgage infrastructure failed to innovate while consumer needs evolved. Here is why second liens won the market and what it means for your origination strategy.\n\nSource : https://tinyurl.com/2xnt2wwl\n#SafetrustMortgage #MortgageIntelligenceDaily #mortgagerates #homebuying #realestateinvesting",
-      "hashtags": [
-        "#SafetrustMortgage",
-        "#MortgageIntelligenceDaily",
-        "#mortgagerates",
-        "#homebuying",
-        "#realestateinvesting"
-      ],
-      "hook_tag": "Equity Reality",
-      "hook": "Borrowers are sitting on trillions in wealth, but traditional equity products missed the boat.",
-      "what_happened_heading": "ICE data exposes massive untapped equity demand",
-      "what_happened": "ICE data shows 47.5 million borrowers held 11.7 trillion dollars in tappable equity in the second quarter of 2026. Despite this massive wealth, 54 percent of all equity taps utilized second liens rather than streamlined primary products.",
-      "breakdown": [
-        {
-          "heading": "The locked-in rate dilemma",
-          "body": "Homeowners refuse to refinance their low first-lien mortgages at higher current rates, rendering traditional cash-out refinances completely unviable for millions of consumers."
-        },
-        {
-          "heading": "Why second liens took over",
-          "body": "Second liens allow borrowers to extract cash while leaving their primary sub-four percent mortgage untouched, capturing massive market share by default."
-        },
-        {
-          "heading": "The underwriting risk shift",
-          "body": "Here is what this actually changes when a file hits underwriting: combined LTV calculations require intense scrutiny when multiple lienholders share control over the same collateral property."
-        },
-        {
-          "heading": "Product development failures",
-          "body": "Lenders spent years ignoring the need for flexible, standalone equity tools, leaving fintechs and alternative lenders to capture the most lucrative slice of the market."
-        }
-      ],
-      "my_take_heading": "Second liens won because primary lenders refused to adapt",
-      "my_take": "We forced borrowers into clumsy second liens because our industry was too lazy to build a better primary equity vehicle.",
-      "action_lo": "Master second lien guidelines and HELOC structures to capture equity business without touching low first-lien rates.",
-      "action_realtor": "Educate homeowners on tapping equity through secondary financing to fund home renovations instead of selling.",
-      "cta_question": "Why has traditional mortgage manufacturing been so slow to replace the second lien?"
-    },
-    {
-      "slug": "compass-mls-antitrust-pushback",
-      "title": "Compass MLS Antitrust Pushback",
-      "source": "HousingWire",
-      "source_url": "https://www.housingwire.com/articles/compass-mls-antitrust-pushback/",
-      "cover_text": "Listing hoarding destroys the foundation of property valuation.",
-      "caption": "When major brokerages start hoarding listings away from shared databases, the entire housing ecosystem starts to fracture. Industry leaders from Brown Harris Stevens, NextHome, and Lamacchia Realty are warning that exclusive platform demands could severely undermine accurate comps and property appraisals. Without transparent market data, valuing residential real estate becomes an expensive guessing game. Here is why this MLS pushback threatens every mortgage in your pipeline.\n\nSource : https://tinyurl.com/2yzageqm\n#SafetrustMortgage #MortgageIntelligenceDaily #housingmarket #realestateagent #mortgagerates",
-      "hashtags": [
-        "#SafetrustMortgage",
-        "#MortgageIntelligenceDaily",
-        "#housingmarket",
-        "#realestateagent",
-        "#mortgagerates"
-      ],
-      "hook_tag": "Market Integrity",
-      "hook": "Why listing hoarding by major brokerages threatens the accuracy of every appraisal.",
-      "what_happened_heading": "Brokerage leaders sound the alarm on MLS demands",
-      "what_happened": "Leaders from Brown Harris Stevens, NextHome, and Lamacchia Realty warn that exclusive listing strategies could undermine comps and appraisals. The pushback highlights growing fears over data fragmentation across regional housing markets.",
-      "breakdown": [
-        {
-          "heading": "The danger of siloed data",
-          "body": "When brokerages keep listings internal, the multiple listing service loses the comprehensive transaction history required for accurate neighborhood valuations."
-        },
-        {
-          "heading": "Appraisal accuracy in jeopardy",
-          "body": "Appraisers rely on complete, public comparable sales data to justify property values; missing sales distort valuations across entire local zip codes."
-        },
-        {
-          "heading": "The underwriting impact",
-          "body": "Here is what this actually changes when a file hits underwriting: underwriters facing opaque comparable sales data will demand additional reviews, delaying closing timelines."
-        },
-        {
-          "heading": "Antitrust scrutiny ahead",
-          "body": "Regulatory bodies are watching closely as proprietary listing networks challenge the traditional open market infrastructure that supports mortgage lending."
-        }
-      ],
-      "my_take_heading": "Siloed listings destroy transparent property valuation",
-      "my_take": "If brokerages lock up inventory on private platforms, they are starving appraisers of the exact data needed to support loan approvals.",
-      "action_lo": "Verify that your appraisers use broad, inclusive data sources when comparable sales look thin in hyper-local markets.",
-      "action_realtor": "Commit to open MLS sharing to ensure fair market valuations and protect your buyers from appraisal shortfalls.",
-      "cta_question": "Can the traditional MLS survive if major brokerages continue building private listing walls?"
-    },
-    {
-      "slug": "village-capital-scra-settlement-doj",
-      "title": "Village Capital SCRA Settlement DOJ",
-      "source": "HousingWire",
-      "source_url": "https://www.housingwire.com/articles/village-capital-scra-settlement-doj/",
-      "cover_text": "Servicers ignoring rate caps face severe federal penalties.",
-      "caption": "Compliance failures in loan servicing carry a massive price tag when federal regulators step in. The DOJ recently secured a settlement against Village Capital after investigators found the servicer refused rate cut requests under the Servicemembers Civil Relief Act and retaliated against borrowers seeking relief. Treating military protections as an operational inconvenience is a fast track to severe enforcement actions. Here is what every servicing executive needs to learn from this case.\n\nSource : https://tinyurl.com/2bv932yz\n#SafetrustMortgage #MortgageIntelligenceDaily #mortgagebroker #homebuying #realestateinvesting",
+      "slug": "uwm-waives-fha-va-llpas",
+      "title": "UWM Waives FHA and VA Credit Pricing Hits",
+      "source": "National Mortgage Professional",
+      "source_url": "https://nationalmortgageprofessional.com/news/uwm-waives-fha-and-va-credit-score-pricing-hits-through-year-end",
+      "cover_text": "Free credit score hits won't guarantee approvals",
+      "caption": "UWM just eliminated credit-score pricing hits on FHA and VA loans with credit scores at 580 or higher through year-end. They also slashed VA cash-out adjustments over 90% LTV (loan-to-value, or loan size compared to home value) from 1.250 to 0.750. Lower upfront costs are great for client quotes, but as a former underwriter, I know lower fees do not lower credit standards. Waiving a price hit does not trigger an automated underwriting approval or relax strict DTI (debt-to-income, or monthly debt relative to gross income) limits. It gives brokers a pricing edge today, but files still live or die on clean credit history and real income calculations.\n\nSource : https://tinyurl.com/22fjtsrj\n#SafetrustMortgage #MortgageIntelligenceDaily #mortgagebroker #loanofficer #mortgagerates",
       "hashtags": [
         "#SafetrustMortgage",
         "#MortgageIntelligenceDaily",
         "#mortgagebroker",
-        "#homebuying",
-        "#realestateinvesting"
+        "#loanofficer",
+        "#mortgagerates"
       ],
-      "hook_tag": "Servicing Compliance",
-      "hook": "Why ignoring federal rate caps for servicemembers is the fastest way to invite federal investigators.",
-      "what_happened_heading": "DOJ penalizes servicer over broken VA rate caps",
-      "what_happened": "The Department of Justice settled with Village Capital after finding the servicer refused rate cut requests under federal law. Investigators also cited retaliatory practices against military borrowers seeking statutory relief.",
+      "hook_tag": "Loan Pricing Strategy",
+      "hook": "UWM cut government loan fees, but underwriters still hold the keys.",
+      "what_happened_heading": "Fee waivers launch for government loans",
+      "what_happened": "United Wholesale Mortgage waived credit score pricing hits on FHA and VA loans for scores of 580 and up through year-end. They also reduced pricing adjustments on VA cash-out refinances above 90% loan-to-value from 1.250 to 0.750.",
       "breakdown": [
         {
-          "heading": "The Servicemembers Civil Relief Act mandate",
-          "body": "Federal law strictly caps interest rates for active-duty military personnel, requiring immediate compliance from loan servicers without bureaucratic friction."
+          "heading": "Lower fees target tight margins",
+          "body": "Waiving pricing adjustments helps brokers present lower fee quotes to credit-challenged government borrowers right away."
         },
         {
-          "heading": "The cost of operational resistance",
-          "body": "Servicers that treat borrower relief requests as collection hurdles rather than legal obligations face severe regulatory penalties and reputational damage."
+          "heading": "Refinance costs take a drop",
+          "body": "The VA cash-out fee cut makes high LTV (loan-to-value, or loan amount versus property value) debt consolidation loans look cheaper on paper."
         },
         {
-          "heading": "The underwriting oversight gap",
-          "body": "Here is what this actually changes when a file hits underwriting: historical servicing compliance records are now heavily weighted during institutional asset-purchasing reviews."
+          "heading": "Here's what underwriters actually see",
+          "body": "As an underwriter, waived fees do not change manual downgrade triggers, strict DTI (debt-to-income) limits, or residual income requirements."
         },
         {
-          "heading": "Protecting vulnerable borrowers",
-          "body": "Lenders must audit their customer service pipelines to ensure relief requests from protected classes are handled with absolute regulatory precision."
+          "heading": "Pricing cuts do not fix credit",
+          "body": "Saved upfront cost does not fix a weak credit profile if debt ratios exceed guidelines or automated underwriting flags risk."
         }
       ],
-      "my_take_heading": "Operational negligence on military relief is indefensible",
-      "my_take": "Servicers that punish military borrowers for claiming statutory rate caps deserve every ounce of federal scrutiny they receive.",
-      "action_lo": "Ensure your military borrower clients know their rights regarding rate reductions and servicing protections early in the process.",
-      "action_realtor": "Partner exclusively with lenders who maintain spotless compliance records and respect borrower advocacy standards.",
-      "cta_question": "Are mortgage servicers doing enough to automate compliance with federal military protection laws?"
-    }
-  ],
-  "carousels_es": [
+      "my_take_heading": "Lower pricing shifts margin without easing risk",
+      "my_take": "Dropping fee adjustments creates quick marketing noise, but it does not make a tough file any easier to clear through underwriting.",
+      "action_lo": "Re-price past FHA and VA turndowns to check if lower fees bring monthly payments back under cap limits.",
+      "action_realtor": "Ask your lender if saved fees can be repurposed toward closing costs rather than assuming lower standards.",
+      "cta_question": "Are fee waivers driving real volume increases in your pipeline, or just shifting existing market share?"
+    },
     {
-      "slug": "appraisal-data-cma-gap",
-      "title": "Datos de tasación y la brecha del CMA",
-      "source": "HousingWire",
-      "source_url": "https://www.housingwire.com/articles/appraisal-data-cma-gap/",
-      "cover_text": "El CMA tiene los días contados.",
-      "caption": "La diferencia en cómo los tasadores y agentes inmobiliarios valoran las casas pronto causará problemas en tu negocio. Fannie y Freddie están migrando a campos de tasación digitales según MISMO, mientras que la fijación de precios de listado todavía se basa en análisis comparativos de mercado no estructurados. Cuando una valoración verificada por computadora choca con la estimación de un agente, los oficiales de crédito quedan atrapados cuando los archivos llegan a los asesores. Te explicamos lo que este cambio significa para tu próxima transacción de compra y por qué tu estrategia de valoración debe evolucionar.\n\nFuente : https://tinyurl.com/23xavo7w\n#SafetrustMortgage #MortgageIntelligenceDaily #housingmarket #realestateagent #loanofficer",
+      "slug": "fannie-freddie-condo-reserve-rules",
+      "title": "Condo Reserve Rule Changes Threaten Early 2027 Closings",
+      "source": "National Mortgage Professional",
+      "source_url": "https://nationalmortgageprofessional.com/news/januarys-condo-reserve-increase-puts-project-budgets-focus",
+      "cover_text": "New condo rules will crash upcoming deals",
+      "caption": "Fannie Mae and Freddie Mac are implementing tighter condo replacement-reserve rules starting January 4. If an HOA (homeowners association) budget met requirements earlier, that does not guarantee approval on your next deal. In my underwriting years, nothing killed a buyer's timeline faster than late condo budget rejections. Loan originators and realtors need to review draft 2027 association budgets right now. Waiting until a purchase contract is signed will cause sudden loan declines, lost earnest money, and stranded buyers.\n\nSource : https://tinyurl.com/2cerq8lv\n#SafetrustMortgage #MortgageIntelligenceDaily #homebuying #realestateagent #loanofficer",
       "hashtags": [
         "#SafetrustMortgage",
         "#MortgageIntelligenceDaily",
-        "#housingmarket",
+        "#homebuying",
         "#realestateagent",
         "#loanofficer"
       ],
-      "hook_tag": "Cambio en la Valoración",
-      "hook": "Por qué tu próxima disputa de tasación será una lucha de datos, no de opiniones.",
-      "what_happened_heading": "Fannie y Freddie exigen campos de datos digitales",
-      "what_happened": "A partir de noviembre, las empresas patrocinadas por el gobierno cambian las tasaciones a campos de datos MISMO. Pero el precio de listado sigue empezando con análisis comparativos de mercado no estructurados. Esto crea una división entre los estrictos estándares de valoración digital y los métodos tradicionales de los agentes.",
+      "hook_tag": "Underwriting Rules",
+      "hook": "January condo reserve increases will kill deals closing early next year.",
+      "what_happened_heading": "Fannie and Freddie raise condo reserve rules",
+      "what_happened": "Higher condo replacement reserve rules take effect on January 4 for Fannie Mae and Freddie Mac financing. Homeowner association budgets that worked for earlier deals may fail under the stricter reserve requirements.",
       "breakdown": [
         {
-          "heading": "El fin del documento estático",
-          "body": "Las tasaciones ya no son solo informes en PDF para humanos. Ahora son conjuntos de datos estructurados que alimentan sistemas de aprobación automatizados que detectan diferencias al instante."
+          "heading": "Reserve allocations are moving higher",
+          "body": "Fannie Mae and Freddie Mac previously announced higher minimum replacement reserve allocations in HOA (homeowners association) annual budgets."
         },
         {
-          "heading": "La desconexión del precio del agente",
-          "body": "Los agentes inmobiliarios aún usan análisis comparativos de mercado no estructurados. Se basan en fotos del MLS local que no tienen los datos detallados que los algoritmos modernos necesitan."
+          "heading": "Legacy approvals will quietly expire",
+          "body": "Projects that passed underwriting months ago will face fresh review standard failures when new buyers apply in early 2027."
         },
         {
-          "heading": "La colisión en la evaluación",
-          "body": "Esto es lo que cambia cuando un archivo llega a la evaluación: los sistemas automáticos de riesgo de garantía rechazarán valoraciones infladas antes de que un asesor humano lo revise."
+          "heading": "What underwriters inspect on budgets",
+          "body": "As an underwriter, I scrutinize line-item reserve contributions first; if the budget lacks required funding, the entire project gets declined."
         },
         {
-          "heading": "Estrategias para proteger tu cartera",
-          "body": "Los oficiales de crédito deben revisar los precios de los agentes. Comparalos con datos históricos estructurados para evitar que las diferencias de valoración arruinen tratos al final."
+          "heading": "Delayed reviews stall whole deals",
+          "body": "Waiting until purchase contracts are signed to review updated HOA budgets leads to sudden contract cancellations and missed closing dates."
         }
       ],
-      "my_take_heading": "Los datos estructurados no dejan espacio para las conjeturas del agente",
-      "my_take": "Cuando las valoraciones son puros datos, los agentes que fijan precios por instinto dañarán más cuentas de depósito en garantía de lo que las tasas de interés crecientes jamás podrían.",
-      "action_lo": "Revisa las ventas comparables de cada archivo de preaprobación. Compara con modelos de valoración automatizados antes de enviar a la evaluación.",
-      "action_realtor": "Adopta modelos de precios basados en datos que reflejen los estándares de tasación. No te fíes de resúmenes básicos de CMA.",
-      "cta_question": "¿Están tus agentes inmobiliarios listos para defender sus precios de listado contra datos de tasación automatizados?"
+      "my_take_heading": "Current condo approvals are a ticking clock",
+      "my_take": "A condo approval today is meaningless if the association budget fails the new reserve standard before the buyer closes next year.",
+      "action_lo": "Pull HOA budgets on all active condo pre-approvals now to verify line-item reserve compliance before January.",
+      "action_realtor": "Ask condo boards for updated 2027 draft budgets today before writing offers that close after year-end.",
+      "cta_question": "How is your team auditing current condo pipelines to prevent delayed denials under the new agency guidelines?"
     },
     {
-      "slug": "second-liens-home-equity-product",
-      "title": "Por qué ganaron los segundos gravámenes",
+      "slug": "permit-data-drives-renovation-helocs",
+      "title": "Permit Data Reveals High-Yield Renovation Hotspots",
       "source": "HousingWire",
-      "source_url": "https://www.housingwire.com/articles/second-liens-home-equity-product/",
-      "cover_text": "Los productos de capital hipotecario fallaron a una generación de prestatarios.",
-      "caption": "Los prestatarios tienen una riqueza récord, pero los productos tradicionales de capital hipotecario no funcionaron. Los datos de ICE muestran 47.5 millones de prestatarios con 11.7 billones de dólares en capital disponible, pero el 54 por ciento de los préstamos sobre el capital usaron segundos gravámenes en lugar de productos sencillos. ¿Por qué pasó esto? La infraestructura hipotecaria antigua no innovó, mientras que las necesidades del consumidor cambiaron. Te explicamos por qué los segundos gravámenes ganaron el mercado y qué significa para tu estrategia de originación.\n\nFuente : https://tinyurl.com/2xnt2wwl\n#SafetrustMortgage #MortgageIntelligenceDaily #mortgagerates #homebuying #realestateinvesting",
+      "source_url": "https://www.housingwire.com/articles/kukun-heloc-permit-data/",
+      "cover_text": "Permit data reveals secret HELOC volume",
+      "caption": "Kukun launched its Renovation-HELOC Index to map local renovation hotspots using building permit data by ZIP code. Lenders and servicers are leveraging this data to capture HELOC (home equity line of credit, or loans backed by home value) opportunities while rate refis stay muted. Having originated and underwritten during both low and high rate environments, I can tell you equity extraction is where true production lives today. Stop waiting for rate drops to re-engage your database. Look at permit trends to find homeowners actively investing in their properties.\n\nSource : https://tinyurl.com/29vhzu6s\n#SafetrustMortgage #MortgageIntelligenceDaily #realestateinvesting #mortgagebroker #housingmarket",
       "hashtags": [
         "#SafetrustMortgage",
         "#MortgageIntelligenceDaily",
-        "#mortgagerates",
-        "#homebuying",
-        "#realestateinvesting"
+        "#realestateinvesting",
+        "#mortgagebroker",
+        "#housingmarket"
       ],
-      "hook_tag": "Realidad del Capital",
-      "hook": "Los prestatarios tienen billones en riqueza, pero los productos de capital tradicionales fallaron.",
-      "what_happened_heading": "Los datos de ICE revelan una enorme demanda de capital sin aprovechar",
-      "what_happened": "Los datos de ICE muestran que 47.5 millones de prestatarios tenían 11.7 billones de dólares en capital disponible en el segundo trimestre de 2026. A pesar de esta enorme riqueza, el 54 por ciento de los préstamos sobre el capital usaron segundos gravámenes en lugar de productos primarios simplificados.",
+      "hook_tag": "Pipeline Growth",
+      "hook": "Waiting for rate cuts is losing you home equity business today.",
+      "what_happened_heading": "Data tracks renovation permits by ZIP",
+      "what_happened": "Kukun launched a Renovation-HELOC Index that maps local permit activity to spot home equity opportunities by ZIP code. Lenders and servicers are using this permit data to target homeowners taking out renovation loans.",
       "breakdown": [
         {
-          "heading": "El dilema de la tasa fija",
-          "body": "Los propietarios no quieren refinanciar sus hipotecas primarias de baja tasa. Así, los refinanciamientos de retiro de efectivo no son viables para millones de consumidores con tasas actuales más altas."
+          "heading": "Permits predict home equity demand",
+          "body": "Building permit filings expose active homeowners spending money on upgrades long before they apply for home equity financing."
         },
         {
-          "heading": "Por qué los segundos gravámenes dominaron",
-          "body": "Los segundos gravámenes permiten sacar efectivo sin tocar la hipoteca primaria de menos del cuatro por ciento. Capturan una gran parte del mercado por defecto."
+          "heading": "Focus moves away from rate refinances",
+          "body": "Pitching a rate refinance is tough when existing rates are locked low; equity tapping meets actual borrower needs."
         },
         {
-          "heading": "El cambio de riesgo de evaluación",
-          "body": "Esto es lo que cambia cuando un archivo llega a la evaluación: los cálculos combinados de LTV necesitan un gran escrutinio. Esto ocurre cuando varios prestamistas comparten el control sobre la misma propiedad."
+          "heading": "The underwriting reality on renovation HELOCs",
+          "body": "From an underwriting perspective, HELOCs (home equity lines of credit) require strict combined debt ratio checks and clear property appraisal valuations."
         },
         {
-          "heading": "Fallos en el desarrollo de productos",
-          "body": "Los prestamistas ignoraron por años la necesidad de herramientas de capital flexibles. Esto permitió que las fintechs y prestamistas alternativos capturaran la parte más rentable del mercado."
+          "heading": "Local targeting beats broad outreach",
+          "body": "Targeting specific renovation hotspots by ZIP code lowers customer acquisition costs compared to blast marketing campaigns."
         }
       ],
-      "my_take_heading": "Los segundos gravámenes ganaron porque los prestamistas principales se negaron a adaptarse",
-      "my_take": "Obligamos a los prestatarios a usar segundos gravámenes complicados. Esto pasó porque nuestra industria fue muy lenta para crear una mejor opción primaria de capital.",
-      "action_lo": "Domina las pautas de segundos gravámenes y estructuras HELOC. Así capturarás negocios de capital sin afectar las bajas tasas del primer gravamen.",
-      "action_realtor": "Informa a los propietarios sobre cómo obtener capital con financiamiento secundario. Esto es para renovar casas en lugar de venderlas.",
-      "cta_question": "¿Por qué la fabricación hipotecaria tradicional ha sido tan lenta en reemplazar el segundo gravamen?"
+      "my_take_heading": "Permit data beats waiting for lower rates",
+      "my_take": "Smart originators stop praying for lower rate cycles and start tracking local construction permits to capture active equity borrowers.",
+      "action_lo": "Partner with local building departments or data tools to identify ZIP codes with rising residential permit numbers.",
+      "action_realtor": "Connect with contractors pulling permits to offer home value consults for homeowners planning major renovations.",
+      "cta_question": "Is your originations team leveraging local permit data, or are you still relying on traditional refi trigger lists?"
     },
     {
-      "slug": "compass-mls-antitrust-pushback",
-      "title": "Rechazo antimonopolio al MLS de Compass",
+      "slug": "starter-homes-zoning-over-credit",
+      "title": "Smaller Lots Fix Affordability Better Than Credit Easing",
       "source": "HousingWire",
-      "source_url": "https://www.housingwire.com/articles/compass-mls-antitrust-pushback/",
-      "cover_text": "Acumular listados destruye la base de la valoración de propiedades.",
-      "caption": "Cuando las grandes agencias inmobiliarias empiezan a guardar listados en lugar de compartirlos, el ecosistema de la vivienda se debilita. Líderes de Brown Harris Stevens, NextHome y Lamacchia Realty advierten que las plataformas exclusivas pueden afectar gravemente las comparaciones y tasaciones precisas. Sin datos de mercado transparentes, valorar bienes raíces residenciales se convierte en una costosa adivinanza. Te explicamos por qué este problema con el MLS amenaza cada hipoteca en tu cartera.\n\nFuente : https://tinyurl.com/2yzageqm\n#SafetrustMortgage #MortgageIntelligenceDaily #housingmarket #realestateagent #mortgagerates",
+      "source_url": "https://www.housingwire.com/articles/starter-homes-affordability-fix/",
+      "cover_text": "Credit fixes won't solve housing supply",
+      "caption": "New research shows smaller lot sizes could have created 3.1 million starter homes over ten years, cutting home prices by 10% to 15%. Pushing looser lending rules or lower underwriting standards to solve affordability is a dangerous trap. My underwriting background taught me that inflating credit caps on supply-constrained markets just inflates purchase prices and increases default risk. Real affordability requires physical inventory fixes like zoning reforms, not financial tricks that burden buyers with heavier monthly debt.\n\nSource : https://tinyurl.com/24z6dwt5\n#SafetrustMortgage #MortgageIntelligenceDaily #housingmarket #firsttimehomebuyer #realestateagent",
       "hashtags": [
         "#SafetrustMortgage",
         "#MortgageIntelligenceDaily",
         "#housingmarket",
-        "#realestateagent",
-        "#mortgagerates"
+        "#firsttimehomebuyer",
+        "#realestateagent"
       ],
-      "hook_tag": "Integridad del Mercado",
-      "hook": "Por qué la acumulación de listados por grandes agencias amenaza la precisión de cada tasación.",
-      "what_happened_heading": "Líderes de agencias inmobiliarias alertan sobre las demandas del MLS",
-      "what_happened": "Líderes de Brown Harris Stevens, NextHome y Lamacchia Realty advierten que las estrategias de listado exclusivas podrían afectar las comparaciones y tasaciones. La reacción subraya los crecientes temores sobre la fragmentación de datos en los mercados de vivienda regionales.",
+      "hook_tag": "Market Outlook",
+      "hook": "Loosening mortgage guidelines does not build new starter homes.",
+      "what_happened_heading": "Research targets lot size zoning restrictions",
+      "what_happened": "Research estimates smaller lot sizes could have added 3.1 million starter homes over ten years at 10% to 15% lower prices. The report argues land use policy solves housing affordability better than financial engineering or credit expansion.",
       "breakdown": [
         {
-          "heading": "El peligro de los datos aislados",
-          "body": "Cuando las agencias guardan los listados internamente, el servicio de listados múltiples pierde el historial completo de transacciones. Esto es esencial para valoraciones precisas de vecindarios."
+          "heading": "Credit expansion inflates home prices",
+          "body": "Pushing easier loan approvals without adding physical inventory simply drives bidding wars higher on limited existing homes."
         },
         {
-          "heading": "Precisión de tasación en riesgo",
-          "body": "Los tasadores usan datos completos de ventas comparables públicas para justificar el valor de las propiedades. La falta de ventas distorsiona las valoraciones en códigos postales enteros."
+          "heading": "Zoning rules restrict starter home supply",
+          "body": "Minimum lot size requirements prohibit builders from constructing smaller, more affordable starter homes that first-time buyers need."
         },
         {
-          "heading": "El impacto en la evaluación",
-          "body": "Esto es lo que cambia cuando un archivo llega a la evaluación: los asesores, al enfrentar datos de ventas comparables poco claros, pedirán revisiones adicionales, lo que retrasará los cierres."
+          "heading": "What underwriters see in credit stretch",
+          "body": "As an underwriter, stretching DTI (debt-to-income) limits to match inflated prices creates high-risk files that struggle during economic slowdowns."
         },
         {
-          "heading": "Examen antimonopolio en camino",
-          "body": "Los reguladores están atentos. Las redes de listados privadas desafían la infraestructura de mercado abierto que apoya el préstamo hipotecario."
+          "heading": "Real supply drops purchase pressure",
+          "body": "Adding millions of smaller homes lowers price points directly without burdening buyer balance sheets with extra leverage."
         }
       ],
-      "my_take_heading": "Los listados aislados destruyen la valoración transparente de propiedades",
-      "my_take": "Si las agencias guardan el inventario en plataformas privadas, dejan a los tasadores sin los datos exactos que necesitan para aprobar los préstamos.",
-      "action_lo": "Verifica que tus tasadores utilicen fuentes de datos amplias e inclusivas. Esto es importante cuando las ventas comparables escasean en mercados muy específicos.",
-      "action_realtor": "Comprométete a compartir en el MLS. Así asegurarás valoraciones justas y protegerás a tus compradores de tasaciones insuficientes.",
-      "cta_question": "¿Puede sobrevivir el MLS tradicional si las grandes agencias siguen construyendo muros de listados privados?"
-    },
-    {
-      "slug": "village-capital-scra-settlement-doj",
-      "title": "Acuerdo SCRA de Village Capital DOJ",
-      "source": "HousingWire",
-      "source_url": "https://www.housingwire.com/articles/village-capital-scra-settlement-doj/",
-      "cover_text": "Los administradores que ignoran los límites de tasas enfrentan grandes multas.",
-      "caption": "Los fallos de cumplimiento en la administración de préstamos tienen un costo enorme cuando intervienen los reguladores federales. El Departamento de Justicia (DOJ) llegó recientemente a un acuerdo con Village Capital. Esto ocurrió después de que los investigadores descubrieran que el administrador rechazó solicitudes de reducción de tasas bajo la Ley de Alivio Civil para Miembros del Servicio (SCRA) y tomó represalias contra prestatarios que buscaban ayuda. Tratar las protecciones militares como un inconveniente operativo es una vía rápida a acciones de cumplimiento severas. Esto es lo que todo ejecutivo de administración debe aprender de este caso.\n\nFuente : https://tinyurl.com/2bv932yz\n#SafetrustMortgage #MortgageIntelligenceDaily #mortgagebroker #homebuying #realestateinvesting",
-      "hashtags": [
-        "#SafetrustMortgage",
-        "#MortgageIntelligenceDaily",
-        "#mortgagebroker",
-        "#homebuying",
-        "#realestateinvesting"
-      ],
-      "hook_tag": "Cumplimiento de Servicio",
-      "hook": "Por qué ignorar los límites federales de tasas para los militares es la forma más rápida de invitar a investigadores federales.",
-      "what_happened_heading": "El DOJ multa a administrador por no aplicar límites de tasas de VA",
-      "what_happened": "El Departamento de Justicia llegó a un acuerdo con Village Capital. Esto sucedió al descubrir que el administrador rechazó solicitudes de reducción de tasas bajo la ley federal. Los investigadores también citaron prácticas de represalia contra prestatarios militares que buscaban ayuda legal.",
-      "breakdown": [
-        {
-          "heading": "El mandato de la Ley de Alivio Civil para Miembros del Servicio",
-          "body": "La ley federal limita estrictamente las tasas de interés para el personal militar en servicio activo. Exige un cumplimiento inmediato por parte de los administradores de préstamos, sin fricciones burocráticas."
-        },
-        {
-          "heading": "El costo de la resistencia operativa",
-          "body": "Los administradores que tratan las solicitudes de ayuda de los prestatarios como obstáculos de cobro, en lugar de obligaciones legales, enfrentan grandes multas y daño a su reputación."
-        },
-        {
-          "heading": "La brecha en la supervisión de la evaluación",
-          "body": "Esto es lo que cambia cuando un archivo llega a la evaluación: los registros históricos de cumplimiento de servicio ahora tienen un gran peso en las revisiones institucionales de compra de activos."
-        },
-        {
-          "heading": "Protección a prestatarios vulnerables",
-          "body": "Los prestamistas deben revisar sus servicios de atención al cliente. Esto es para asegurar que las solicitudes de ayuda de grupos protegidos se manejen con una precisión regulatoria absoluta."
-        }
-      ],
-      "my_take_heading": "La negligencia operativa en el alivio militar es indefendible",
-      "my_take": "Los administradores que castigan a los prestatarios militares por reclamar límites de tasas legales merecen todo el escrutinio federal que reciben.",
-      "action_lo": "Asegúrate de que tus clientes prestatarios militares conozcan sus derechos sobre reducciones de tasas y protecciones de servicio desde el principio.",
-      "action_realtor": "Asóciate solo con prestamistas que tengan un historial impecable de cumplimiento y respeten los estándares de defensa del prestatario.",
-      "cta_question": "¿Están los administradores hipotecarios haciendo lo suficiente para automatizar el cumplimiento de las leyes federales de protección militar?"
+      "my_take_heading": "Zoning changes fix what financial tweaks break",
+      "my_take": "You cannot loan your way out of a housing shortage; expanding debt guidelines only inflates prices on fixed inventory.",
+      "action_lo": "Educate buyers on how down payment assistance and local lot density policies impact overall long-term affordability.",
+      "action_realtor": "Advocate for local zoning flexibility in your market to open inventory channels for first-time buyers.",
+      "cta_question": "Should the housing industry advocate more for land-use reform rather than pushing for looser lending guidelines?"
     }
   ]
 }
