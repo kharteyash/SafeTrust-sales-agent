@@ -1,342 +1,172 @@
 {
   "carousels": [
     {
-      "slug": "uwm-waives-fha-va-llpas",
-      "title": "UWM Waives FHA and VA Credit Pricing Hits",
+      "slug": "buyers-stop-waiting-for-rate-cuts",
+      "title": "Buyers Are Done Waiting For Rate Cuts",
       "source": "National Mortgage Professional",
-      "source_url": "https://nationalmortgageprofessional.com/news/uwm-waives-fha-and-va-credit-score-pricing-hits-through-year-end",
-      "cover_text": "Free credit score hits won't guarantee approvals",
-      "caption": "UWM just eliminated credit-score pricing hits on FHA and VA loans with credit scores at 580 or higher through year-end. They also slashed VA cash-out adjustments over 90% LTV (loan-to-value, or loan size compared to home value) from 1.250 to 0.750. Lower upfront costs are great for client quotes, but as a former underwriter, I know lower fees do not lower credit standards. Waiving a price hit does not trigger an automated underwriting approval or relax strict DTI (debt-to-income, or monthly debt relative to gross income) limits. It gives brokers a pricing edge today, but files still live or die on clean credit history and real income calculations.\n\nSource : https://tinyurl.com/22fjtsrj\n#SafetrustMortgage #MortgageIntelligenceDaily #mortgagebroker #loanofficer #mortgagerates",
+      "source_url": "https://nationalmortgageprofessional.com/news/more-buyers-expect-higher-rates-fewer-would-wait",
+      "cover_text": "Buyers gave up on lower mortgage rates",
+      "caption": "Homebuyers are officially done waiting for interest rates to drop. According to fresh survey data from Veterans United, 57% of prospective buyers now expect interest rates to rise over the next year, up from 45% last year. More importantly, the share of buyers who say they will wait for lower rates fell from 39% to 32%. Purchase timelines have barely changed, proving that life events beat rate speculation every time. Buyers are choosing to lock in today rather than gamble on tomorrow. For loan officers and realtors, this means the conversation must pivot away from rate timing and toward affordability solutions like temporary buydowns and seller concessions. The rate cut waiting game is officially over, and active buyers are back in the market.\n\nSource : https://tinyurl.com/2xwdpzb8\n#SafetrustMortgage #MortgageIntelligenceDaily #mortgagerates #housingmarket #homebuying",
       "hashtags": [
         "#SafetrustMortgage",
         "#MortgageIntelligenceDaily",
-        "#mortgagebroker",
-        "#loanofficer",
-        "#mortgagerates"
+        "#mortgagerates",
+        "#housingmarket",
+        "#homebuying"
       ],
-      "hook_tag": "Loan Pricing Strategy",
-      "hook": "UWM cut government loan fees, but underwriters still hold the keys.",
-      "what_happened_heading": "Fee waivers launch for government loans",
-      "what_happened": "United Wholesale Mortgage waived credit score pricing hits on FHA and VA loans for scores of 580 and up through year-end. They also reduced pricing adjustments on VA cash-out refinances above 90% loan-to-value from 1.250 to 0.750.",
+      "hook_tag": "Buyer Psychology Shift",
+      "hook": "Buyers are no longer sitting on the sidelines for rate cuts.",
+      "what_happened_heading": "Expectations shifted as rate cut hopes faded",
+      "what_happened": "In a new survey by Veterans United, 57% of buyers expect interest rates to rise over the next year. Meanwhile, the share of buyers willing to wait for lower rates dropped from 39% to 32%.",
       "breakdown": [
         {
-          "heading": "Lower fees target tight margins",
-          "body": "Waiving pricing adjustments helps brokers present lower fee quotes to credit-challenged government borrowers right away."
+          "heading": "The rate cut myth is officially dead",
+          "body": "Homebuyers finally realized that waiting for sub-5% rates is costing them inventory and equity. They are moving forward with purchase plans regardless of current rate levels."
         },
         {
-          "heading": "Refinance costs take a drop",
-          "body": "The VA cash-out fee cut makes high LTV (loan-to-value, or loan amount versus property value) debt consolidation loans look cheaper on paper."
+          "heading": "Purchase timelines remain completely unchanged",
+          "body": "Even though 57% expect higher rates, buyers are keeping their buying schedules. Urgency is shifting from rate speculation back to real life needs like space and location."
         },
         {
-          "heading": "Here's what underwriters actually see",
-          "body": "As an underwriter, waived fees do not change manual downgrade triggers, strict DTI (debt-to-income) limits, or residual income requirements."
+          "heading": "File level underwriting reality checks",
+          "body": "Here's what this actually changes when a file hits underwriting: debt ratios (how much of your income goes to debt) are tighter because buyers max out qualification limits."
         },
         {
-          "heading": "Pricing cuts do not fix credit",
-          "body": "Saved upfront cost does not fix a weak credit profile if debt ratios exceed guidelines or automated underwriting flags risk."
+          "heading": "Payment shock replaces rate shock",
+          "body": "Borrowers are accepting current rates, but underwriters must scrutinize residual income and bank reserves to ensure buyers can sustain higher monthly obligations without defaulting."
         }
       ],
-      "my_take_heading": "Lower pricing shifts margin without easing risk",
-      "my_take": "Dropping fee adjustments creates quick marketing noise, but it does not make a tough file any easier to clear through underwriting.",
-      "action_lo": "Re-price past FHA and VA turndowns to check if lower fees bring monthly payments back under cap limits.",
-      "action_realtor": "Ask your lender if saved fees can be repurposed toward closing costs rather than assuming lower standards.",
-      "cta_question": "Are fee waivers driving real volume increases in your pipeline, or just shifting existing market share?"
+      "my_take_heading": "Rate fatigue is driving purchase volume again",
+      "my_take": "Buyers realized waiting for 5% rates was a fantasy, so they are adapting to 7% today rather than risk getting priced out by 8% tomorrow.",
+      "action_lo": "Shift client conversations from rate predictions to permanent buydowns and long-term equity strategies.",
+      "action_realtor": "Stop advising buyers to wait out the market and focus on negotiating seller concessions to buy down rates.",
+      "cta_question": "Are your loan officers seeing more buyers accept 7% rates, or are clients still holding out?"
     },
     {
-      "slug": "fannie-freddie-condo-reserve-rules",
-      "title": "Condo Reserve Rule Changes Threaten Early 2027 Closings",
+      "slug": "small-investors-take-over-housing-market",
+      "title": "Mom-and-Pop Investors Reach 15-Year High",
       "source": "National Mortgage Professional",
-      "source_url": "https://nationalmortgageprofessional.com/news/januarys-condo-reserve-increase-puts-project-budgets-focus",
-      "cover_text": "New condo rules will crash upcoming deals",
-      "caption": "Fannie Mae and Freddie Mac are implementing tighter condo replacement-reserve rules starting January 4. If an HOA (homeowners association) budget met requirements earlier, that does not guarantee approval on your next deal. In my underwriting years, nothing killed a buyer's timeline faster than late condo budget rejections. Loan originators and realtors need to review draft 2027 association budgets right now. Waiting until a purchase contract is signed will cause sudden loan declines, lost earnest money, and stranded buyers.\n\nSource : https://tinyurl.com/2cerq8lv\n#SafetrustMortgage #MortgageIntelligenceDaily #homebuying #realestateagent #loanofficer",
-      "hashtags": [
-        "#SafetrustMortgage",
-        "#MortgageIntelligenceDaily",
-        "#homebuying",
-        "#realestateagent",
-        "#loanofficer"
-      ],
-      "hook_tag": "Underwriting Rules",
-      "hook": "January condo reserve increases will kill deals closing early next year.",
-      "what_happened_heading": "Fannie and Freddie raise condo reserve rules",
-      "what_happened": "Higher condo replacement reserve rules take effect on January 4 for Fannie Mae and Freddie Mac financing. Homeowner association budgets that worked for earlier deals may fail under the stricter reserve requirements.",
-      "breakdown": [
-        {
-          "heading": "Reserve allocations are moving higher",
-          "body": "Fannie Mae and Freddie Mac previously announced higher minimum replacement reserve allocations in HOA (homeowners association) annual budgets."
-        },
-        {
-          "heading": "Legacy approvals will quietly expire",
-          "body": "Projects that passed underwriting months ago will face fresh review standard failures when new buyers apply in early 2027."
-        },
-        {
-          "heading": "What underwriters inspect on budgets",
-          "body": "As an underwriter, I scrutinize line-item reserve contributions first; if the budget lacks required funding, the entire project gets declined."
-        },
-        {
-          "heading": "Delayed reviews stall whole deals",
-          "body": "Waiting until purchase contracts are signed to review updated HOA budgets leads to sudden contract cancellations and missed closing dates."
-        }
-      ],
-      "my_take_heading": "Current condo approvals are a ticking clock",
-      "my_take": "A condo approval today is meaningless if the association budget fails the new reserve standard before the buyer closes next year.",
-      "action_lo": "Pull HOA budgets on all active condo pre-approvals now to verify line-item reserve compliance before January.",
-      "action_realtor": "Ask condo boards for updated 2027 draft budgets today before writing offers that close after year-end.",
-      "cta_question": "How is your team auditing current condo pipelines to prevent delayed denials under the new agency guidelines?"
-    },
-    {
-      "slug": "permit-data-drives-renovation-helocs",
-      "title": "Permit Data Reveals High-Yield Renovation Hotspots",
-      "source": "HousingWire",
-      "source_url": "https://www.housingwire.com/articles/kukun-heloc-permit-data/",
-      "cover_text": "Permit data reveals secret HELOC volume",
-      "caption": "Kukun launched its Renovation-HELOC Index to map local renovation hotspots using building permit data by ZIP code. Lenders and servicers are leveraging this data to capture HELOC (home equity line of credit, or loans backed by home value) opportunities while rate refis stay muted. Having originated and underwritten during both low and high rate environments, I can tell you equity extraction is where true production lives today. Stop waiting for rate drops to re-engage your database. Look at permit trends to find homeowners actively investing in their properties.\n\nSource : https://tinyurl.com/29vhzu6s\n#SafetrustMortgage #MortgageIntelligenceDaily #realestateinvesting #mortgagebroker #housingmarket",
+      "source_url": "https://nationalmortgageprofessional.com/news/investor-homebuying-slows-small-buyers-claim-biggest-share-15-years",
+      "cover_text": "Small investors just hit a 15-year high",
+      "caption": "Wall Street is stepping back, and main street investors are stepping up. Small investors represented 66.2% of all investor home purchases in the first half of 2026, purchasing roughly 148,000 homes. That is their highest market share in at least 15 years. Unlike mega-corporations that buy with cash, these small landlords rely heavily on mortgage financing. This creates a massive opportunity for loan officers and real estate agents. As institutional money cools off, mom-and-pop investors are leveraging DSCR loans and cash-flow underwriting to grow their rental portfolios. Originators who master investment property guidelines will dominate this shifting market.\n\nSource : https://tinyurl.com/26qfkn2f\n#SafetrustMortgage #MortgageIntelligenceDaily #realestateinvesting #mortgagebroker #loanofficer",
       "hashtags": [
         "#SafetrustMortgage",
         "#MortgageIntelligenceDaily",
         "#realestateinvesting",
         "#mortgagebroker",
-        "#housingmarket"
-      ],
-      "hook_tag": "Pipeline Growth",
-      "hook": "Waiting for rate cuts is losing you home equity business today.",
-      "what_happened_heading": "Data tracks renovation permits by ZIP",
-      "what_happened": "Kukun launched a Renovation-HELOC Index that maps local permit activity to spot home equity opportunities by ZIP code. Lenders and servicers are using this permit data to target homeowners taking out renovation loans.",
-      "breakdown": [
-        {
-          "heading": "Permits predict home equity demand",
-          "body": "Building permit filings expose active homeowners spending money on upgrades long before they apply for home equity financing."
-        },
-        {
-          "heading": "Focus moves away from rate refinances",
-          "body": "Pitching a rate refinance is tough when existing rates are locked low; equity tapping meets actual borrower needs."
-        },
-        {
-          "heading": "The underwriting reality on renovation HELOCs",
-          "body": "From an underwriting perspective, HELOCs (home equity lines of credit) require strict combined debt ratio checks and clear property appraisal valuations."
-        },
-        {
-          "heading": "Local targeting beats broad outreach",
-          "body": "Targeting specific renovation hotspots by ZIP code lowers customer acquisition costs compared to blast marketing campaigns."
-        }
-      ],
-      "my_take_heading": "Permit data beats waiting for lower rates",
-      "my_take": "Smart originators stop praying for lower rate cycles and start tracking local construction permits to capture active equity borrowers.",
-      "action_lo": "Partner with local building departments or data tools to identify ZIP codes with rising residential permit numbers.",
-      "action_realtor": "Connect with contractors pulling permits to offer home value consults for homeowners planning major renovations.",
-      "cta_question": "Is your originations team leveraging local permit data, or are you still relying on traditional refi trigger lists?"
-    },
-    {
-      "slug": "starter-homes-zoning-over-credit",
-      "title": "Smaller Lots Fix Affordability Better Than Credit Easing",
-      "source": "HousingWire",
-      "source_url": "https://www.housingwire.com/articles/starter-homes-affordability-fix/",
-      "cover_text": "Credit fixes won't solve housing supply",
-      "caption": "New research shows smaller lot sizes could have created 3.1 million starter homes over ten years, cutting home prices by 10% to 15%. Pushing looser lending rules or lower underwriting standards to solve affordability is a dangerous trap. My underwriting background taught me that inflating credit caps on supply-constrained markets just inflates purchase prices and increases default risk. Real affordability requires physical inventory fixes like zoning reforms, not financial tricks that burden buyers with heavier monthly debt.\n\nSource : https://tinyurl.com/24z6dwt5\n#SafetrustMortgage #MortgageIntelligenceDaily #housingmarket #firsttimehomebuyer #realestateagent",
-      "hashtags": [
-        "#SafetrustMortgage",
-        "#MortgageIntelligenceDaily",
-        "#housingmarket",
-        "#firsttimehomebuyer",
-        "#realestateagent"
-      ],
-      "hook_tag": "Market Outlook",
-      "hook": "Loosening mortgage guidelines does not build new starter homes.",
-      "what_happened_heading": "Research targets lot size zoning restrictions",
-      "what_happened": "Research estimates smaller lot sizes could have added 3.1 million starter homes over ten years at 10% to 15% lower prices. The report argues land use policy solves housing affordability better than financial engineering or credit expansion.",
-      "breakdown": [
-        {
-          "heading": "Credit expansion inflates home prices",
-          "body": "Pushing easier loan approvals without adding physical inventory simply drives bidding wars higher on limited existing homes."
-        },
-        {
-          "heading": "Zoning rules restrict starter home supply",
-          "body": "Minimum lot size requirements prohibit builders from constructing smaller, more affordable starter homes that first-time buyers need."
-        },
-        {
-          "heading": "What underwriters see in credit stretch",
-          "body": "As an underwriter, stretching DTI (debt-to-income) limits to match inflated prices creates high-risk files that struggle during economic slowdowns."
-        },
-        {
-          "heading": "Real supply drops purchase pressure",
-          "body": "Adding millions of smaller homes lowers price points directly without burdening buyer balance sheets with extra leverage."
-        }
-      ],
-      "my_take_heading": "Zoning changes fix what financial tweaks break",
-      "my_take": "You cannot loan your way out of a housing shortage; expanding debt guidelines only inflates prices on fixed inventory.",
-      "action_lo": "Educate buyers on how down payment assistance and local lot density policies impact overall long-term affordability.",
-      "action_realtor": "Advocate for local zoning flexibility in your market to open inventory channels for first-time buyers.",
-      "cta_question": "Should the housing industry advocate more for land-use reform rather than pushing for looser lending guidelines?"
-    }
-  ],
-  "carousels_es": [
-    {
-      "slug": "uwm-waives-fha-va-llpas",
-      "title": "UWM elimina los recargos por puntaje de crédito en préstamos FHA y VA",
-      "source": "National Mortgage Professional",
-      "source_url": "https://nationalmortgageprofessional.com/news/uwm-waives-fha-and-va-credit-score-pricing-hits-through-year-end",
-      "cover_text": "Eximir recargos no garantiza aprobaciones",
-      "caption": "UWM eliminó los recargos por puntaje de crédito en préstamos FHA y VA con puntajes de 580 o más, hasta fin de año. También redujo los ajustes en los refinanciamientos VA cash-out con LTV (relación préstamo-valor) superior al 90%, de 1.250 a 0.750. Los costos iniciales más bajos son geniales para las cotizaciones, pero como exasesor, sé que menos tarifas no bajan los estándares de crédito. Renunciar a un recargo no activa una aprobación automática ni relaja los límites DTI (relación deuda-ingresos). Da una ventaja de precio, pero los expedientes se aprueban o rechazan por el historial de crédito y los cálculos de ingresos reales.\n\nFuente : https://tinyurl.com/22fjtsrj\n#SafetrustMortgage #MortgageIntelligenceDaily #mortgagebroker #loanofficer #mortgagerates",
-      "hashtags": [
-        "#SafetrustMortgage",
-        "#MortgageIntelligenceDaily",
-        "#mortgagebroker",
-        "#loanofficer",
-        "#mortgagerates"
-      ],
-      "hook_tag": "Estrategia de precios de préstamos",
-      "hook": "UWM bajó las tarifas de préstamos del gobierno, pero los asesores tienen la última palabra.",
-      "what_happened_heading": "Lanzan exenciones de tarifas para préstamos del gobierno",
-      "what_happened": "United Wholesale Mortgage eximió los recargos por puntaje de crédito en préstamos FHA y VA para puntajes de 580 o más hasta fin de año. También redujo los ajustes de precios en refinanciamientos VA cash-out por encima del 90% de la relación préstamo-valor, de 1.250 a 0.750.",
-      "breakdown": [
-        {
-          "heading": "Las tarifas más bajas buscan márgenes ajustados",
-          "body": "Eximir los ajustes de precios ayuda a los brokers a presentar cotizaciones más bajas a prestatarios del gobierno con desafíos de crédito de inmediato."
-        },
-        {
-          "heading": "Los costos de refinanciamiento bajan",
-          "body": "El recorte de tarifas para VA cash-out hace que los préstamos de consolidación de deuda con LTV (relación préstamo-valor) alto parezcan más baratos en el papel."
-        },
-        {
-          "heading": "Esto es lo que ven realmente los asesores",
-          "body": "Como asesor, las tarifas exentas no cambian los disparadores de rebaja manual, los límites estrictos de DTI (relación deuda-ingresos) o los requisitos de ingresos residuales."
-        },
-        {
-          "heading": "Los recortes de precios no arreglan el crédito",
-          "body": "El ahorro del costo inicial no corrige un perfil crediticio débil si las relaciones de deuda exceden las pautas o la aprobación automatizada indica riesgo."
-        }
-      ],
-      "my_take_heading": "Precios más bajos mueven el margen sin aliviar el riesgo",
-      "my_take": "Reducir los ajustes de tarifas genera ruido de marketing rápido, pero no facilita que un expediente difícil pase por el proceso de aprobación.",
-      "action_lo": "Vuelve a cotizar rechazos anteriores de FHA y VA para ver si tarifas más bajas ajustan los pagos mensuales a los límites.",
-      "action_realtor": "Pregúntale a tu prestamista si las tarifas ahorradas se pueden usar para los costos de cierre en lugar de asumir estándares más bajos.",
-      "cta_question": "¿Las exenciones de tarifas están impulsando aumentos de volumen reales en tu cartera, o solo están cambiando la cuota de mercado existente?"
-    },
-    {
-      "slug": "fannie-freddie-condo-reserve-rules",
-      "title": "Cambios en las reglas de reserva para condominios amenazan cierres de 2027",
-      "source": "National Mortgage Professional",
-      "source_url": "https://nationalmortgageprofessional.com/news/januarys-condo-reserve-increase-puts-project-budgets-focus",
-      "cover_text": "Nuevas reglas de condominios afectarán tratos",
-      "caption": "Fannie Mae y Freddie Mac implementarán reglas más estrictas para las reservas de condominios a partir del 4 de enero. Si el presupuesto de una HOA (asociación de propietarios) cumplía antes, eso no garantiza la aprobación de tu próximo trato. En mis años como asesor, nada arruinaba más rápido el cronograma de un comprador que los rechazos tardíos del presupuesto de un condominio. Los agentes de préstamos y los agentes inmobiliarios deben revisar los borradores de los presupuestos de las asociaciones de 2027 ahora mismo. Esperar hasta que se firme un contrato de compra causará rechazos repentinos de préstamos, pérdida de dinero de buena fe y compradores sin opciones.\n\nFuente : https://tinyurl.com/2cerq8lv\n#SafetrustMortgage #MortgageIntelligenceDaily #homebuying #realestateagent #loanofficer",
-      "hashtags": [
-        "#SafetrustMortgage",
-        "#MortgageIntelligenceDaily",
-        "#homebuying",
-        "#realestateagent",
         "#loanofficer"
       ],
-      "hook_tag": "Reglas de suscripción",
-      "hook": "El aumento de las reservas de condominios en enero matará los tratos que cierren a principios del próximo año.",
-      "what_happened_heading": "Fannie y Freddie aumentan las reglas de reserva para condominios",
-      "what_happened": "Reglas más altas para las reservas de reemplazo de condominios entran en vigencia el 4 de enero para el financiamiento de Fannie Mae y Freddie Mac. Los presupuestos de las asociaciones de propietarios que funcionaron para tratos anteriores pueden fallar bajo los requisitos de reserva más estrictos.",
+      "hook_tag": "Investor Market Pivot",
+      "hook": "Wall Street pulled back, leaving room for local real estate investors.",
+      "what_happened_heading": "Small buyers take over real estate investor purchases",
+      "what_happened": "Small investors bought roughly 148,000 homes in the first half of 2026, accounting for 66.2% of all investor purchases. This represents their highest share of investor acquisitions in at least 15 years.",
       "breakdown": [
         {
-          "heading": "Las asignaciones de reservas están subiendo",
-          "body": "Fannie Mae y Freddie Mac anunciaron previamente asignaciones mínimas de reserva de reemplazo más altas en los presupuestos anuales de las HOA (asociaciones de propietarios)."
+          "heading": "Institutional buyers are retreating from residential deals",
+          "body": "Large institutional funds slowed down their buying spree, allowing mom-and-pop landlords to claim nearly two-thirds of all investor activity in early 2026."
         },
         {
-          "heading": "Las aprobaciones anteriores expirarán silenciosamente",
-          "body": "Proyectos aprobados hace meses enfrentarán nuevos rechazos por los estándares cuando los nuevos compradores soliciten a principios de 2027."
+          "heading": "Small investors rely heavily on mortgage financing",
+          "body": "Unlike mega funds that buy with pure cash, smaller investors depend on mortgage originators to fund their rental property acquisitions, creating fresh loan pipeline opportunities."
         },
         {
-          "heading": "Lo que los asesores inspeccionan en los presupuestos",
-          "body": "Como asesor, examino primero las contribuciones de reserva por partida; si el presupuesto carece de fondos, se rechaza todo el proyecto."
+          "heading": "File level impact on investment underwriting",
+          "body": "Here's what this actually changes when a file hits underwriting: rental income documentation and DSCR (debt service coverage ratio) are replacing standard W-2 income verification on these files."
         },
         {
-          "heading": "Las revisiones tardías paralizan los tratos",
-          "body": "Esperar a firmar contratos de compra para revisar presupuestos actualizados de la HOA lleva a cancelaciones y fechas de cierre perdidas."
+          "heading": "Appraisals face stricter rent schedule scrutiny",
+          "body": "Underwriters are closely auditing fair market rent schedules on appraisal Form 1007 to verify cash flow before approving leverage for smaller landlords."
         }
       ],
-      "my_take_heading": "Las aprobaciones actuales de condominios son un reloj de arena",
-      "my_take": "Una aprobación de condominio hoy no tiene sentido si el presupuesto de la asociación no cumple con el nuevo estándar de reserva antes de que el comprador cierre el próximo año.",
-      "action_lo": "Revisa los presupuestos de la HOA de todas las preaprobaciones de condominios activas ahora para verificar el cumplimiento de las reservas antes de enero.",
-      "action_realtor": "Pide hoy a las juntas de condominios los borradores de los presupuestos actualizados de 2027 antes de escribir ofertas que cierren después de fin de año.",
-      "cta_question": "¿Cómo está auditando tu equipo las carteras de condominios actuales para evitar denegaciones tardías bajo las nuevas pautas de la agencia?"
+      "my_take_heading": "Financed local buyers are replacing institutional cash",
+      "my_take": "Wall Street's retreat isn't a market crash; it is the healthiest reset in 15 years for local originators and community landlords.",
+      "action_lo": "Build specialized loan programs around DSCR and non-QM products tailored specifically for small-scale landlords.",
+      "action_realtor": "Target local property owners with turnkey 1-4 unit deals rather than chasing institutional buyer funds.",
+      "cta_question": "Is your loan pipeline seeing an uptick in small investor DSCR applications this quarter?"
     },
     {
-      "slug": "permit-data-drives-renovation-helocs",
-      "title": "Datos de permisos revelan zonas con alta demanda de HELOC para renovaciones",
+      "slug": "mortgage-executives-bet-on-home-equity",
+      "title": "Mortgage Leaders Bet Big On Home Equity",
       "source": "HousingWire",
-      "source_url": "https://www.housingwire.com/articles/kukun-heloc-permit-data/",
-      "cover_text": "Los datos de permisos revelan volumen oculto de HELOC",
-      "caption": "Kukun lanzó su índice Renovation-HELOC para mapear puntos de alta actividad de renovación usando datos de permisos de construcción por código postal. Los prestamistas aprovechan estos datos para capturar oportunidades de HELOC (línea de crédito con garantía hipotecaria), mientras las refinanciaciones por tasa se mantienen bajas. Habiendo originado y asesorado tanto en entornos de tasas bajas como altas, te aseguro que la extracción de capital es donde está la verdadera producción hoy. No esperes a que bajen las tasas para reactivar tu base de datos. Observa las tendencias de permisos para encontrar propietarios que invierten activamente en sus propiedades.\n\nFuente : https://tinyurl.com/29vhzu6s\n#SafetrustMortgage #MortgageIntelligenceDaily #realestateinvesting #mortgagebroker #housingmarket",
+      "source_url": "https://www.housingwire.com/articles/why-mortgage-leaders-are-betting-on-home-equity-through-2027/",
+      "cover_text": "Mortgage leaders pivot to home equity market",
+      "caption": "The mortgage industry is making a massive strategic pivot. Mortgage leaders are placing their bets on home equity products through 2027, backed by a staggering $35 trillion in accumulated homeowner equity. Industry executives project second lien originations to reach $150 billion in 2026. Because millions of homeowners are locked into sub-4% rates, traditional rate-and-term refinances are off the table. Second liens allow clients to access cash for debt consolidation or renovations without touching their low primary rate. Originators who build scalable second-lien processes now will capture market share while competitors wait for rate cuts.\n\nSource : https://tinyurl.com/24uof67l\n#SafetrustMortgage #MortgageIntelligenceDaily #mortgagerates #loanofficer #homebuying",
       "hashtags": [
         "#SafetrustMortgage",
         "#MortgageIntelligenceDaily",
-        "#realestateinvesting",
+        "#mortgagerates",
+        "#loanofficer",
+        "#homebuying"
+      ],
+      "hook_tag": "Home Equity Strategy",
+      "hook": "First mortgage refis are dead, but second liens are booming.",
+      "what_happened_heading": "Executives target home equity as primary revenue driver",
+      "what_happened": "Mortgage leaders are targeting accumulated homeowner equity of $35 trillion to sustain volume through 2027. Industry executives predict second lien originations could reach $150 billion in 2026 alone.",
+      "breakdown": [
+        {
+          "heading": "Rate lock-in protects low primary mortgage rates",
+          "body": "Homeowners refuse to give up 3% primary mortgages, making HELOCs (home equity lines of credit) and standalone second liens the primary way to tap equity."
+        },
+        {
+          "heading": "Origination volumes pivot toward second liens",
+          "body": "With $35 trillion in equity sitting untouched, lenders are projecting $150 billion in second lien volume as consumer debt consolidation demands surge."
+        },
+        {
+          "heading": "File level review on combined loan balance",
+          "body": "Here's what this actually changes when a file hits underwriting: total CLTV (combined loan-to-value) and total monthly debt service determine approval, not just the new loan amount."
+        },
+        {
+          "heading": "Subordination agreements create pipeline bottlenecks",
+          "body": "Underwriters must verify senior lien status and obtain lender subordination approval, which frequently delays closing timelines if not ordered immediately upon application."
+        }
+      ],
+      "my_take_heading": "The refi boom isn't coming back soon",
+      "my_take": "Lenders waiting for a rate drop to save their pipeline are losing ground to lenders building scalable second-lien equity tools today.",
+      "action_lo": "Market standalone second liens and HELOCs to existing database clients holding low-rate first mortgages.",
+      "action_realtor": "Encourage homeowners to use second liens for home renovations rather than selling and losing their low mortgage rate.",
+      "cta_question": "What percentage of your current pipeline consists of second liens or equity extraction products?"
+    },
+    {
+      "slug": "executive-order-targets-mortgage-insurance",
+      "title": "Executive Order Targets Mortgage Insurance And Housing",
+      "source": "HousingWire",
+      "source_url": "https://www.housingwire.com/articles/trump-order-mortgage-insurance/",
+      "cover_text": "New executive order targets mortgage insurance rates",
+      "caption": "Federal policy is taking direct aim at closing fees and loan costs. A new executive order targets mortgage insurance fees, manufactured housing financing, and title insurance waivers. The policy framework also promises lower interest rates for USDA and VA direct loans. By focusing on title waivers and mortgage insurance premiums, policymakers are attempting to reduce closing costs and lower monthly payments without relying on bond market moves. For originators, these changes could open new qualification avenues for government borrowers and manufactured home buyers. Staying ahead of these policy shifts is critical for keeping purchase pipelines moving.\n\nSource : https://tinyurl.com/25bf5dl5\n#SafetrustMortgage #MortgageIntelligenceDaily #mortgagebroker #firsttimehomebuyer #housingmarket",
+      "hashtags": [
+        "#SafetrustMortgage",
+        "#MortgageIntelligenceDaily",
         "#mortgagebroker",
+        "#firsttimehomebuyer",
         "#housingmarket"
       ],
-      "hook_tag": "Crecimiento de la cartera",
-      "hook": "Esperar recortes de tasas te está haciendo perder negocios de capital hoy.",
-      "what_happened_heading": "Datos rastrean permisos de renovación por código postal",
-      "what_happened": "Kukun lanzó un índice Renovation-HELOC que mapea la actividad de permisos locales para detectar oportunidades de capital hipotecario por código postal. Los prestamistas y administradores utilizan estos datos de permisos para apuntar a propietarios que solicitan préstamos para renovación.",
+      "hook_tag": "Policy Order Impact",
+      "hook": "White House policy order takes aim at mortgage fees.",
+      "what_happened_heading": "Presidential order targets mortgage insurance and direct loans",
+      "what_happened": "A new presidential executive order targets mortgage insurance policies and manufactured housing expansion. The White House fact sheet also outlines title insurance waivers alongside lower USDA and VA direct loan rates.",
       "breakdown": [
         {
-          "heading": "Los permisos predicen la demanda de capital",
-          "body": "Los permisos de construcción exponen a propietarios activos que gastan en mejoras mucho antes de solicitar financiamiento de capital hipotecario."
+          "heading": "Mortgage insurance pricing faces regulatory scrutiny",
+          "body": "Federal policy is zeroing in on reducing private mortgage insurance premiums to lower monthly housing payments for moderate-income home buyers."
         },
         {
-          "heading": "El enfoque se aleja de las refinanciaciones por tasa",
-          "body": "Ofrecer una refinanciación por tasa es difícil con tasas existentes bajas; el aprovechamiento de capital satisface necesidades reales del prestatario."
+          "heading": "Title insurance waivers receive fresh policy backing",
+          "body": "Expanding title insurance waiver programs aims to slash closing costs, bypassing traditional title policy fees on qualifying residential mortgage transactions."
         },
         {
-          "heading": "La realidad del asesor en HELOC de renovación",
-          "body": "Desde la perspectiva de un asesor, los HELOC (líneas de crédito con garantía hipotecaria) requieren verificaciones estrictas de la relación deuda combinada y tasaciones claras de la propiedad."
+          "heading": "File level changes inside government underwriting",
+          "body": "Here's what this actually changes when a file hits underwriting: modified USDA and VA direct loan guidelines will require updated fee schedules and altered AUS (automated underwriting system) checks."
         },
         {
-          "heading": "La orientación local supera el alcance amplio",
-          "body": "Dirigirse a puntos clave de renovación por código postal reduce los costos de adquisición de clientes en comparación con las campañas masivas de marketing."
+          "heading": "Manufactured housing financing rules expand eligibility",
+          "body": "Underwriters will see expanded structural engineering and foundation requirement waivers for manufactured home files, opening financing access to non-traditional inventory."
         }
       ],
-      "my_take_heading": "Los datos de permisos son mejores que esperar tasas bajas",
-      "my_take": "Los originadores inteligentes dejan de rezar por ciclos de tasas bajas y comienzan a rastrear los permisos de construcción locales para captar prestatarios de capital activos.",
-      "action_lo": "Asóciate con departamentos de construcción locales o herramientas de datos para identificar códigos postales con números crecientes de permisos residenciales.",
-      "action_realtor": "Conéctate con contratistas que solicitan permisos para ofrecer consultas de valor de vivienda a propietarios que planean renovaciones importantes.",
-      "cta_question": "¿Tu equipo de originación está aprovechando los datos de permisos locales, o sigues dependiendo de las listas tradicionales de refinanciamiento?"
-    },
-    {
-      "slug": "starter-homes-zoning-over-credit",
-      "title": "Lotes más pequeños solucionan la asequibilidad mejor que facilitar el crédito",
-      "source": "HousingWire",
-      "source_url": "https://www.housingwire.com/articles/starter-homes-affordability-fix/",
-      "cover_text": "Los arreglos de crédito no resuelven la oferta de vivienda",
-      "caption": "Una nueva investigación muestra que lotes más pequeños podrían haber creado 3.1 millones de viviendas de inicio en diez años, reduciendo los precios un 10% a 15%. Promover reglas de préstamo más flexibles o estándares de asesoría más bajos para resolver la asequibilidad es una trampa peligrosa. Mi experiencia como asesor me enseñó que inflar los límites de crédito en mercados con oferta limitada solo infla los precios de compra y aumenta el riesgo de incumplimiento. La asequibilidad real requiere soluciones físicas de inventario como reformas de zonificación, no trucos financieros que cargan a los compradores con deudas mensuales más pesadas.\n\nFuente : https://tinyurl.com/24z6dwt5\n#SafetrustMortgage #MortgageIntelligenceDaily #housingmarket #firsttimehomebuyer #realestateagent",
-      "hashtags": [
-        "#SafetrustMortgage",
-        "#MortgageIntelligenceDaily",
-        "#housingmarket",
-        "#firsttimehomebuyer",
-        "#realestateagent"
-      ],
-      "hook_tag": "Perspectiva del mercado",
-      "hook": "Flexibilizar las pautas hipotecarias no construye nuevas viviendas de inicio.",
-      "what_happened_heading": "La investigación apunta a las restricciones de zonificación de tamaño de lote",
-      "what_happened": "La investigación estima que lotes más pequeños podrían haber añadido 3.1 millones de viviendas de inicio en diez años a precios un 10% a 15% más bajos. El informe argumenta que la política de uso de la tierra resuelve la asequibilidad de la vivienda mejor que la ingeniería financiera o la expansión del crédito.",
-      "breakdown": [
-        {
-          "heading": "La expansión del crédito infla los precios",
-          "body": "Impulsar aprobaciones de préstamos más fáciles sin añadir inventario físico simplemente eleva las guerras de ofertas en las viviendas existentes limitadas."
-        },
-        {
-          "heading": "Las reglas de zonificación restringen la oferta",
-          "body": "Los requisitos de tamaño mínimo de lote prohíben a los constructores levantar viviendas de inicio más pequeñas y asequibles que necesitan los primeros compradores."
-        },
-        {
-          "heading": "Lo que ven los asesores en el estiramiento del crédito",
-          "body": "Como asesor, estirar los límites de DTI (relación deuda-ingresos) para igualar precios inflados crea expedientes de alto riesgo que sufren durante las recesiones económicas."
-        },
-        {
-          "heading": "La oferta real reduce la presión de compra",
-          "body": "Agregar millones de viviendas más pequeñas reduce los precios directamente sin cargar las finanzas del comprador con apalancamiento adicional."
-        }
-      ],
-      "my_take_heading": "Los cambios de zonificación arreglan lo que estropean los ajustes financieros",
-      "my_take": "No se puede salir de una escasez de vivienda a base de préstamos; expandir las pautas de deuda solo infla los precios en un inventario fijo.",
-      "action_lo": "Educa a los compradores sobre cómo la asistencia para el pago inicial y las políticas de densidad de lotes locales impactan la asequibilidad a largo plazo.",
-      "action_realtor": "Aboga por la flexibilidad de zonificación local en tu mercado para abrir canales de inventario para compradores primerizos.",
-      "cta_question": "¿Debería la industria de la vivienda abogar más por la reforma del uso de la tierra en lugar de impulsar pautas de préstamo más laxas?"
+      "my_take_heading": "Fee reductions target monthly payment qualification barriers",
+      "my_take": "Cutting fee friction on title and insurance expands buyer qualification faster than waiting for federal bond markets to lower mortgage rates.",
+      "action_lo": "Review government loan pricing tables and educate buyers on manufactured housing financing options.",
+      "action_realtor": "Identify manufactured housing listings in your local market as viable inventory for price-sensitive buyers.",
+      "cta_question": "Will title waivers and mortgage insurance changes meaningfully increase your closing volume this year?"
     }
   ]
 }
