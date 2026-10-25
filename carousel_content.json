@@ -168,5 +168,175 @@
       "action_realtor": "Focus listing presentations on pricing accurately to attract the remaining pool of qualified buyers.",
       "cta_question": "Is your team pitching temporary rate solutions or waiting for permanent market shifts?"
     }
+  ],
+  "carousels_es": [
+    {
+      "slug": "rate-dip-demand-reality",
+      "title": "Por qué la bajada de intereses aún no ayuda a los compradores",
+      "source": "HousingWire",
+      "source_url": "https://www.housingwire.com/articles/mortgage-rates-demand-stabilizes/",
+      "cover_text": "Intereses más bajos no reactivan la compra",
+      "caption": "Una pequeña baja en las tasas hipotecarias no es la solución mágica que todos esperaban. Ver los intereses caer hacia el 7.30% cuando el rendimiento del Bono del Tesoro a 10 años bajó del 5% solo frenó la caída de la demanda, pero no provocó una ola de compradores. Desde el escritorio de un asesor, una pequeña baja apenas cambia la relación deuda-ingreso para calificar a quienes habían quedado fuera del mercado. Una recuperación real requiere reducciones continuas de tasas o correcciones de precios, no cambios pasajeros en el mercado de bonos. Deja de esperar pequeñas bajas para mover tu trabajo. Enfócate en estructurar negocios con créditos del constructor o reducciones temporales de tasa que generen un alivio real en el pago mensual hoy. ¿Cómo está ajustando tu equipo las expectativas mientras las tasas siguen cerca del 7.30%?\n\nFuente : https://tinyurl.com/27jwa8on\n#SafetrustMortgage #MortgageIntelligenceDaily #mortgagerates #housingmarket #loanofficer",
+      "hashtags": [
+        "#SafetrustMortgage",
+        "#MortgageIntelligenceDaily",
+        "#mortgagerates",
+        "#housingmarket",
+        "#loanofficer"
+      ],
+      "hook_tag": "Realidad del mercado",
+      "hook": "Una pequeña baja de intereses no trae de vuelta a los compradores.",
+      "what_happened_heading": "Las tasas hipotecarias bajan tras la caída de los bonos",
+      "what_happened": "Las tasas hipotecarias bajaron hacia el 7.30% cuando el rendimiento del Bono del Tesoro a 10 años cayó por debajo del 5% en una semana bastante inestable. Esta pequeña baja detuvo temporalmente la caída en la demanda de compras de casa.",
+      "breakdown": [
+        {
+          "heading": "La caída de los bonos da un alivio temporal",
+          "body": "La inestabilidad del mercado bajó los rendimientos a 10 años por debajo del 5%, dando un respiro temporal a los precios de los prestamistas."
+        },
+        {
+          "heading": "La demanda sigue siendo muy frágil",
+          "body": "Que se detenga la caída de solicitudes no significa que de pronto haya una ola de nuevas preaprobaciones en tu lista de clientes."
+        },
+        {
+          "heading": "La realidad al evaluar la calificación del cliente",
+          "body": "Esto es lo que cambia cuando revisamos un caso: bajar al 7.30% casi no mueve la relación deuda-ingreso (DTI) para calificar a clientes apretados."
+        },
+        {
+          "heading": "Cómo manejar las expectativas de pago",
+          "body": "Los compradores necesitan cambios reales en la asequibilidad, no pequeñas bajas diarias que solo cambian el pago mensual por unos cuantos dólares."
+        }
+      ],
+      "my_take_heading": "La estabilidad importa más que una baja temporal",
+      "my_take": "Que la demanda deje de caer no significa que el mercado se haya recuperado. Hasta que los intereses no bajen de forma drástica, los problemas para calificar a los compradores seguirán siendo exactamente los mismos.",
+      "action_lo": "Estructura negocios con aportes del vendedor para reducir la tasa en vez de esperar que el mercado baje.",
+      "action_realtor": "Explica a los vendedores que pequeñas mejoras en las tasas no van a traer de vuelta las guerras de ofertas.",
+      "cta_question": "¿Estás viendo a tus compradores regresar con la tasa al 7.30% o prefieren seguir esperando?"
+    },
+    {
+      "slug": "treasury-yields-mortgage-impact",
+      "title": "Lo que la baja del bono a 10 años significa para tus préstamos",
+      "source": "HousingWire",
+      "source_url": "https://www.housingwire.com/articles/mortgage-rates-demand-stabilizes/",
+      "cover_text": "La verdad sobre los bonos del Tesoro",
+      "caption": "Cuando el rendimiento del Bono del Tesoro a 10 años cae por debajo del 5%, todos celebran, pero los asesores sabemos la historia real. Que las tasas bajen hacia el 7.30% puede detener la caída en la demanda, pero no aumenta el número de compradores de forma significativa. Al evaluar las solicitudes, pequeños ajustes en la tasa no logran que el sistema apruebe a clientes con presupuestos apretados. Los oficiales de crédito que dependen de estas bajadas para cerrar negocios están perdiendo de vista el panorama general. El crecimiento real en este mercado proviene de educar al cliente sobre reducciones de tasa pagadas por el vendedor y buscar casas realistas. ¿Tu estrategia está hecha para sobrevivir con tasas altas o solo estás rezando para que sigan bajando?\n\nFuente : https://tinyurl.com/27jwa8on\n#SafetrustMortgage #MortgageIntelligenceDaily #mortgagebroker #realestateagent #homebuying",
+      "hashtags": [
+        "#SafetrustMortgage",
+        "#MortgageIntelligenceDaily",
+        "#mortgagebroker",
+        "#realestateagent",
+        "#homebuying"
+      ],
+      "hook_tag": "Rendimientos vs tasas",
+      "hook": "La caída en los bonos no salvará automáticamente tu lista de préstamos.",
+      "what_happened_heading": "La volatilidad de los bonos cambia el rumbo de las tasas",
+      "what_happened": "El rendimiento del Bono del Tesoro a 10 años cayó por debajo del 5% en jornadas recientes de mucha volatilidad. Las tasas hipotecarias respondieron bajando hacia el 7.30%, frenando la caída constante en la demanda de compras.",
+      "breakdown": [
+        {
+          "heading": "La volatilidad del mercado crea breves oportunidades",
+          "body": "Los cambios en el mercado de bonos dieron un freno temporal a los costos de las hipotecas, evitando que las tasas siguieran subiendo."
+        },
+        {
+          "heading": "Un pequeño alivio no resuelve la falta de dinero",
+          "body": "Las tasas cercanas al 7.30% siguen siendo un gran obstáculo en el pago mensual para las familias de ingresos medios."
+        },
+        {
+          "heading": "La realidad de evaluación para casos ajustados",
+          "body": "Esto es lo que cambia cuando un caso entra a revisión: el sistema automatizado sigue rechazando archivos con poco dinero disponible tras pagar deudas."
+        },
+        {
+          "heading": "Enfócate en estrategias de financiamiento reales",
+          "body": "Depender de la baja de rendimientos para generar negocio es una estrategia basada en la ilusión y no en estructurar bien cada caso."
+        }
+      ],
+      "my_take_heading": "Las bajas de rendimientos son respiros, no cambios de tendencia",
+      "my_take": "No confundas una pausa en el deterioro del mercado con un aumento en la capacidad de compra de los clientes.",
+      "action_lo": "Revisa las preaprobaciones guardadas para ver cuáles califican ahora con tasas cercanas al 7.30%.",
+      "action_realtor": "Busca propiedades con varios días en el mercado para negociar compras de tasa a favor de tus clientes.",
+      "cta_question": "¿Cómo estás ajustando las proyecciones de tus cierres durante este momento de volatilidad en los bonos?"
+    },
+    {
+      "slug": "underwriting-reality-7-percent-rates",
+      "title": "Así se evalúan las hipotecas con tasas al 7.30%",
+      "source": "HousingWire",
+      "source_url": "https://www.housingwire.com/articles/mortgage-rates-demand-stabilizes/",
+      "cover_text": "Evaluando préstamos al 7.30 por ciento",
+      "caption": "Las noticias dicen que la baja de tasas frenó la caída de la demanda, pero los asesores vemos los números reales. Con las tasas cerca del 7.30% tras la caída del bono a 10 años por debajo del 5%, muchos esperan más aprobaciones. La realidad es que bajadas tan pequeñas no resuelven los límites de deuda e ingreso para compradores golpeados por los altos precios de las casas. Varios casos siguen siendo rechazados en la evaluación debido a costos de seguro y otras deudas. Ganar en este mercado exige una precalificación precisa y una buena estructura inicial, no falsas esperanzas en pequeñas bajas de tasa. ¿Qué estrategias usa tu equipo para ayudar a aprobar los casos más complicados?\n\nFuente : https://tinyurl.com/27jwa8on\n#SafetrustMortgage #MortgageIntelligenceDaily #loanofficer #mortgagerates #housingmarket",
+      "hashtags": [
+        "#SafetrustMortgage",
+        "#MortgageIntelligenceDaily",
+        "#loanofficer",
+        "#mortgagerates",
+        "#housingmarket"
+      ],
+      "hook_tag": "Secretos de evaluación",
+      "hook": "Por qué las tasas al 7.30% todavía generan rechazos en las aprobaciones.",
+      "what_happened_heading": "La demanda se frena cuando las tasas tocan el 7.30%",
+      "what_happened": "Las tasas cayeron hacia el 7.30% tras una semana intensa en los bonos donde los rendimientos bajaron del 5%. Esta ligera baja fue suficiente para detener la caída continua en la demanda de viviendas.",
+      "breakdown": [
+        {
+          "heading": "La demanda se estabiliza sin dispararse",
+          "body": "Las solicitudes dejaron de caer, pero el volumen general del mercado sigue limitado por los altos costos de los intereses."
+        },
+        {
+          "heading": "La realidad matemática de las pequeñas bajas",
+          "body": "Una rebaja pequeña en la tasa cambia la cuota mensual de capital e intereses en una cantidad mínima para la mayoría."
+        },
+        {
+          "heading": "La visión del asesor sobre las deudas del cliente",
+          "body": "Esto es lo que cambia cuando un caso se evalúa: los límites de la relación deuda-ingreso (DTI) se mantienen al máximo permitido."
+        },
+        {
+          "heading": "Revisar todo desde el inicio evita rechazos al final",
+          "body": "Tener documentos claros y fondos verificados importa mucho más que pequeñas bajas de tasa para lograr la aprobación final del préstamo."
+        }
+      ],
+      "my_take_heading": "Pequeños cambios mueven noticias, no aprobaciones",
+      "my_take": "A menos que las tasas bajen varios puntos completos, los resultados de la evaluación seguirán dependiendo de los estrictos límites de ingresos de los compradores.",
+      "action_lo": "Haz el cálculo manual de deudas antes de emitir cartas de preaprobación con los niveles de tasa actuales.",
+      "action_realtor": "Trabaja con prestamistas que evalúen completamente las preaprobaciones antes de hacer ofertas sin contingencias.",
+      "cta_question": "¿Qué límites de deuda están causando más rechazos en tus préstamos en este momento?"
+    },
+    {
+      "slug": "housing-demand-pause-strategy",
+      "title": "Cómo navegar el piso de la demanda de vivienda",
+      "source": "HousingWire",
+      "source_url": "https://www.housingwire.com/articles/mortgage-rates-demand-stabilizes/",
+      "cover_text": "La demanda de casas dejó de caer",
+      "caption": "Ver que las tasas al 7.30% frenaron la caída de la demanda suena como algo positivo. Sin embargo, los profesionales con experiencia saben que esta estabilidad en niveles altos solo significa que el mercado encontró su piso. Que el rendimiento del bono baje del 5% ayuda, pero no resuelve la falta de casas ni los problemas de pago que enfrentan agentes y compradores. Al evaluar un caso, las hipotecas aún requieren cuidado con las deudas y los ahorros requeridos. Confiar en los titulares para animar a los compradores no funcionará si los números mensuales no cuadran. ¿Cómo estás presentando las noticias del mercado para dar expectativas reales a tus clientes?\n\nFuente : https://tinyurl.com/27jwa8on\n#SafetrustMortgage #MortgageIntelligenceDaily #realestateinvesting #mortgagebroker #homebuying",
+      "hashtags": [
+        "#SafetrustMortgage",
+        "#MortgageIntelligenceDaily",
+        "#realestateinvesting",
+        "#mortgagebroker",
+        "#homebuying"
+      ],
+      "hook_tag": "Estrategia de negocios",
+      "hook": "La demanda de casas dejó de caer, pero no hay impulso.",
+      "what_happened_heading": "Las tasas se estabilizan cerca del 7.30% tras una semana intensa",
+      "what_happened": "Las tasas hipotecarias se estabilizaron cerca del 7.30% cuando la volatilidad de los bonos bajó los rendimientos a 10 años del 5%. Esta estabilidad puso fin a varias semanas seguidas de caídas en la demanda.",
+      "breakdown": [
+        {
+          "heading": "Encontrando el piso de la demanda",
+          "body": "Los compradores activos en este momento se mueven por necesidad y no por estar buscando oportunidades de tasas bajas."
+        },
+        {
+          "heading": "El mercado de bonos sigue siendo impredecible",
+          "body": "Que los rendimientos caigan del 5% demuestra volatilidad a corto plazo, no una tendencia garantizada a la baja a largo plazo."
+        },
+        {
+          "heading": "El enfoque en la estabilidad del comprador",
+          "body": "Esto es lo que cambia cuando se evalúa un caso: la verificación de empleo y las reservas de dinero se revisan con mucha más rigurosidad."
+        },
+        {
+          "heading": "Adaptando la estrategia de venta a la realidad",
+          "body": "Quienes tienen éxito hoy están vendiendo estrategias para el pago mensual en lugar de especular sobre futuras bajas de intereses."
+        }
+      ],
+      "my_take_heading": "Un piso en la demanda no es una señal de compra",
+      "my_take": "Estabilizarse no es crecer. Los equipos exitosos se enfocan en ajustar el pago mensual total en lugar de perseguir cotizaciones diarias de tasas.",
+      "action_lo": "Organiza charlas educativas para mostrar a tus clientes cómo la compra permanente de tasa reduce el costo total de intereses.",
+      "action_realtor": "Enfoca tus presentaciones de venta en fijar precios correctos para atraer al grupo actual de compradores calificados.",
+      "cta_question": "¿Tu equipo ofrece soluciones temporales para el pago mensual o sigue esperando cambios permanentes en el mercado?"
+    }
   ]
 }
