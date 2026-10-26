@@ -168,5 +168,175 @@
       "action_realtor": "Check title commitments early for equity sharing liens to avoid closing delays when listing properties.",
       "cta_question": "How should regulators classify equity sharing agreements to protect consumers without stifling secondary market liquidity?"
     }
+  ],
+  "carousels_es": [
+    {
+      "slug": "hei-market-share-growth",
+      "title": "Inversiones de capital hipotecario ganan terreno en mercado de tasas altas",
+      "source": "HousingWire",
+      "source_url": "https://www.housingwire.com/articles/splitero-ceo-hei-rates/",
+      "cover_text": "Acuerdos de capital reemplazan refinanciamientos en efectivo",
+      "caption": "Las inversiones de capital hipotecario están redefiniendo cómo los propietarios acceden a su riqueza sin asumir deudas mensuales. Con las tasas hipotecarias cerca de máximos recientes, los refinanciamientos tradicionales con retiro de efectivo no son atractivos para quienes tienen hipotecas por debajo del 4%. Michael Gifford, CEO de Splitero, sugiere que la demanda institucional a través de la titulización podría reducir los costos para los consumidores. Sin embargo, el marco regulatorio aún está en desarrollo, lo que genera desafíos de cumplimiento para los prestamistas tradicionales. Desde la perspectiva del asesor, estos acuerdos crean gravámenes únicos que pueden complicar futuros refinanciamientos o ventas. Los prestamistas que entiendan estas estructuras tendrán una ventaja al asesorar a clientes con mucho capital. La industria debe prepararse para que la participación en el capital sea algo permanente.\n\nFuente : https://tinyurl.com/23o92uxn\n#SafetrustMortgage #MortgageIntelligenceDaily #mortgagebroker #loanofficer #realestateinvesting",
+      "hashtags": [
+        "#SafetrustMortgage",
+        "#MortgageIntelligenceDaily",
+        "#mortgagebroker",
+        "#loanofficer",
+        "#realestateinvesting"
+      ],
+      "hook_tag": "Productos de capital alternativos",
+      "hook": "Acuerdos de capital están ganando terreno a HELOC mientras tasas siguen altas.",
+      "what_happened_heading": "Tasas altas llevan a propietarios a compartir el capital",
+      "what_happened": "Michael Gifford, CEO de Splitero, espera que las inversiones de capital hipotecario ganen terreno significativo mientras las tasas se mantengan altas. La demanda por titulización podría bajar los precios con el tiempo, aunque el marco regulatorio aún no está claro.",
+      "breakdown": [
+        {
+          "heading": "Cómo funciona compartir el capital",
+          "body": "Las inversiones de capital hipotecario dan efectivo por adelantado a cambio de una parte de las futuras ganancias del valor de la casa, evitando pagos mensuales. No añades otra deuda mensual."
+        },
+        {
+          "heading": "Por qué las tasas altas impulsan la demanda",
+          "body": "Con tasas hipotecarias bajas, los propietarios evitan refinanciamientos con retiro de efectivo o líneas de crédito hipotecario (HELOC) con tasas altas."
+        },
+        {
+          "heading": "Lo que ve el asesor en el título",
+          "body": "Esto es lo que cambia cuando un expediente llega a asesoría: las inversiones de capital hipotecario crean un gravamen en el título que las pautas del mercado secundario suelen rechazar subordinar."
+        },
+        {
+          "heading": "La titulización crea liquidez secundaria",
+          "body": "Inversores institucionales compran grupos de productos de capital, lo que reduce los precios para el consumidor, pero aumenta el escrutinio regulatorio sobre los estándares de divulgación."
+        }
+      ],
+      "my_take_heading": "Compartir el capital es un cambio estructural",
+      "my_take": "Las inversiones de capital hipotecario no son un parche temporal por las tasas altas. Son un cambio estructural permanente en cómo los propietarios con problemas de liquidez acceden al capital sin añadir más deuda mensual.",
+      "action_lo": "Revisa tu base de datos de prestatarios con mucho capital que necesitan efectivo, pero no pueden pagar una deuda mensual más alta.",
+      "action_realtor": "Orienta a los vendedores sobre cómo los gravámenes existentes de participación en el capital deben ser liquidados al cierre antes de distribuir las ganancias netas finales.",
+      "cta_question": "¿Se convertirán los productos de capital sin deuda en una oferta estándar en las carteras hipotecarias independientes?"
+    },
+    {
+      "slug": "rate-hike-surcharge-impact",
+      "title": "El costo real del aumento de tasas al 7.28 por ciento",
+      "source": "HousingWire",
+      "source_url": "https://www.housingwire.com/articles/mortgage-rates-american-dream/",
+      "cover_text": "Un recargo mensual de $215 limita el poder de compra",
+      "caption": "Un aumento de tasa al 7.28 por ciento se traduce directamente en un recargo mensual de $215 en el pago de una casa de precio medio. Para una casa de $429,100 con 20% de enganche, el capital e interés sube de $2,130 a $2,350 al mes. Mientras las noticias se enfocan en la asequibilidad, los agentes de préstamos saben que esto es principalmente una crisis de relación de deuda. Cuando un prestatario califica con la relación deuda-ingreso (DTI) máxima, un salto de $215 en el pago rompe instantáneamente las aprobaciones automáticas de asesoría. Compradores preaprobados de repente no califican sin cambiar el precio de su casa. Agentes de préstamos estratégicos deben revisar las carteras activas antes de que los compradores hagan ofertas que serán rechazadas.\n\nFuente : https://tinyurl.com/2c6puk3r\n#SafetrustMortgage #MortgageIntelligenceDaily #mortgagerates #homebuying #realestateagent",
+      "hashtags": [
+        "#SafetrustMortgage",
+        "#MortgageIntelligenceDaily",
+        "#mortgagerates",
+        "#homebuying",
+        "#realestateagent"
+      ],
+      "hook_tag": "Impacto en la calificación del prestatario",
+      "hook": "Las tasas más altas impactan los ratios de deuda mucho más que los precios de venta.",
+      "what_happened_heading": "Tasas de referencia elevan pagos mensuales",
+      "what_happened": "En una casa de precio medio de $429,100 con 20% de enganche, las tasas hipotecarias que alcanzaron el 7.28% aumentaron el capital e interés de $2,130 a $2,350. Esto añade un recargo mensual de $215 para los compradores que entran al mercado actual.",
+      "breakdown": [
+        {
+          "heading": "La matemática detrás del aumento",
+          "body": "Un aumento mensual de $215 equivale a $2,580 anuales en pagos adicionales de capital e interés por la misma propiedad."
+        },
+        {
+          "heading": "El poder de compra se reduce al instante",
+          "body": "Para mantener los pagos en $2,130, un comprador debe reducir el precio de compra en decenas de miles de dólares."
+        },
+        {
+          "heading": "Cómo el asesor ve el aumento",
+          "body": "Esto es lo que cambia cuando un expediente llega a asesoría: esos $215 adicionales elevan los ratios de DTI (la relación deuda-ingreso) ajustados por encima de los límites de asesoría automática."
+        },
+        {
+          "heading": "Los vendedores enfrentan fatiga del comprador",
+          "body": "Los compradores que alcanzan su presupuesto mensual máximo se retiran o exigen concesiones al vendedor para reducir las tasas de interés."
+        }
+      ],
+      "my_take_heading": "Las alzas de tasas destruyen la calificación antes que bajen los precios",
+      "my_take": "El recargo mensual de $215 no es solo un problema de asequibilidad. Es un filtro de calificación que silenciosamente deja de lado a los compradores preaprobados de la noche a la mañana.",
+      "action_lo": "Revisa inmediatamente todas las cartas de preaprobación activas para identificar a los prestatarios cuyos ratios de deuda excedieron las pautas máximas.",
+      "action_realtor": "Estructura ofertas de compra con reducciones temporales de tasas pagadas por el vendedor para compensar el impacto en el pago mensual.",
+      "cta_question": "¿Cómo está ajustando tu equipo los topes de preaprobación para evitar transacciones fallidas al momento de emitir la aprobación final?"
+    },
+    {
+      "slug": "lender-triage-strategy-playbook",
+      "title": "Triage primero, estrategia después para ejecutivos hipotecarios",
+      "source": "HousingWire",
+      "source_url": "https://www.housingwire.com/articles/mortgage-lender-triage-strategy/",
+      "cover_text": "Deja de planificar a largo plazo hasta que tu cartera esté ordenada",
+      "caption": "Operar en un mercado de tasas volátil requiere que los ejecutivos hipotecarios adopten un enfoque de “triage” primero. Los planes estratégicos y los planes tecnológicos a varios años no sirven de nada si los márgenes operativos se evaporan durante movimientos bruscos de las tasas. La dirección ejecutiva debe enfocarse inmediatamente en la cobertura de cartera, la capacidad de cumplimiento y las métricas de cierre. En los departamentos de asesoría, los cambios repentinos de volumen pueden detener los tiempos de revisión de condiciones si no hay pautas claras de priorización de expedientes. Clasificar tu embudo operativo protege las ganancias y previene pérdidas costosas. Solo después de asegurar la estabilidad operativa, los líderes pueden volver con seguridad a las estrategias de crecimiento a largo plazo.\n\nFuente : https://tinyurl.com/254zvq52\n#SafetrustMortgage #MortgageIntelligenceDaily #loanofficer #mortgagebroker #housingmarket",
+      "hashtags": [
+        "#SafetrustMortgage",
+        "#MortgageIntelligenceDaily",
+        "#loanofficer",
+        "#mortgagebroker",
+        "#housingmarket"
+      ],
+      "hook_tag": "Estrategia ejecutiva de cartera",
+      "hook": "Entornos de tasas volátiles exigen ordenar operaciones antes de ejecutar planes a largo plazo.",
+      "what_happened_heading": "La volatilidad fuerza acción ejecutiva inmediata",
+      "what_happened": "Las rápidas fluctuaciones en las tasas hipotecarias requieren que los ejecutivos prioricen la clasificación operativa sobre las iniciativas estratégicas a largo plazo. Los líderes deben proteger el margen y la capacidad de la cartera antes de ejecutar estrategias de crecimiento.",
+      "breakdown": [
+        {
+          "heading": "Se requiere clasificación inmediata de la cartera",
+          "body": "Los líderes deben auditar los riesgos de cartera sin cobertura y las tasas de cierre de cartera bloqueadas antes de hacer inversiones comerciales estructurales."
+        },
+        {
+          "heading": "Alineación de la capacidad operativa",
+          "body": "Los canales de cumplimiento con exceso de personal destruyen el margen durante picos repentinos de tasas, lo que requiere un ajuste operativo rápido."
+        },
+        {
+          "heading": "Eficiencia de asesoría bajo ataque",
+          "body": "Esto es lo que cambia cuando un expediente llega a asesoría: los picos de volumen crean condiciones donde los tiempos de revisión colapsan sin reglas claras."
+        },
+        {
+          "heading": "La estrategia sigue a la estabilidad",
+          "body": "La expansión estratégica o las actualizaciones tecnológicas ejecutadas durante el caos operativo desperdician capital y confunden al personal de originación."
+        }
+      ],
+      "my_take_heading": "La clasificación operativa protege balances",
+      "my_take": "Los ejecutivos que se enfocan en la expansión estratégica durante los picos de tasas están arreglando el techo durante un huracán. Prioriza la liquidez y la capacidad primero.",
+      "action_lo": "Enfócate exclusivamente en cerrar expedientes bloqueados mientras manejas las expectativas del prestatario sobre la volatilidad de las tasas.",
+      "action_realtor": "Asóciate estrechamente con prestamistas que mantengan tiempos de respuesta rápidos y comunicación clara de la cartera durante los cambios del mercado.",
+      "cta_question": "¿Qué métricas operativas específicas activan a tu equipo de liderazgo para pasar de la estrategia de crecimiento a la clasificación de la cartera?"
+    },
+    {
+      "slug": "hei-regulatory-underwriting-reality",
+      "title": "La fricción oculta del asesoramiento en acuerdos de capital hipotecario",
+      "source": "HousingWire",
+      "source_url": "https://www.housingwire.com/articles/splitero-ceo-hei-rates/",
+      "cover_text": "Por qué los productos de capital sin deuda generan fricción regulatoria",
+      "caption": "Aunque las inversiones de capital hipotecario ofrecen una forma creativa para que los propietarios accedan a capital sin deuda mensual, la ambigüedad regulatoria sigue siendo un obstáculo importante. La titulización está empezando a traer capital institucional a este sector, lo que podría reducir los costos con el tiempo. Sin embargo, la falta de regulaciones de divulgación uniformes crea incertidumbre de cumplimiento entre estados. Cuando estos expedientes llegan a asesoría en transacciones posteriores, los examinadores de títulos y los asesores tienen dificultades para saber cómo tratar los acuerdos de opción y la subordinación de gravámenes. Originadores y agentes inmobiliarios deben entender cómo los productos de capital existentes afectan futuras transacciones de compra o refinanciamiento. Hasta que los estándares regulatorios se cristalicen, estos productos requieren un manejo cuidadoso en cada etapa.\n\nFuente : https://tinyurl.com/23o92uxn\n#SafetrustMortgage #MortgageIntelligenceDaily #realestateinvesting #mortgagebroker #homebuying",
+      "hashtags": [
+        "#SafetrustMortgage",
+        "#MortgageIntelligenceDaily",
+        "#realestateinvesting",
+        "#mortgagebroker",
+        "#homebuying"
+      ],
+      "hook_tag": "Riesgo regulatorio de asesoría",
+      "hook": "Acuerdos de participación de capital crean problemas complejos que la asesoría tradicional no puede ignorar.",
+      "what_happened_heading": "Regulaciones poco claras desafían la expansión del capital compartido",
+      "what_happened": "Si bien los productos de capital ofrecen capital sin deuda a los propietarios, el entorno regulatorio que rodea estos acuerdos sigue siendo incierto. Los líderes de la industria señalan que las pautas regulatorias claras son cruciales para la adopción institucional sostenida.",
+      "breakdown": [
+        {
+          "heading": "El capital sin deuda evita pagos mensuales",
+          "body": "Los propietarios reciben liquidez en un pago único sin añadir servicio de deuda, haciendo el producto atractivo cuando las tasas son altas."
+        },
+        {
+          "heading": "El marco regulatorio sigue incompleto",
+          "body": "Reguladores estatales y federales aún están determinando si los productos de participación de capital caen bajo las leyes de divulgación hipotecaria estándar."
+        },
+        {
+          "heading": "Surgen problemas de asesoría de títulos",
+          "body": "Esto es lo que cambia cuando un expediente llega a asesoría: los asesores deben tratar los gravámenes de participación de capital como cargas que complican el refinanciamiento posterior."
+        },
+        {
+          "heading": "La titulización requiere estandarización",
+          "body": "Los mercados secundarios institucionales exigen documentación uniforme y claridad legal antes de que los precios puedan mejorar significativamente."
+        }
+      ],
+      "my_take_heading": "La escala institucional requiere claridad regulatoria",
+      "my_take": "Los acuerdos de capital no pueden reemplazar a los productos de capital hipotecario tradicionales hasta que los reguladores establezcan divulgaciones estandarizadas para el consumidor y pautas de asesoría en todos los estados.",
+      "action_lo": "Edúcate sobre los términos de los acuerdos de participación de capital para que puedas asesorar a los clientes que ya los tienen en el título.",
+      "action_realtor": "Verifica los compromisos de título temprano para gravámenes de participación de capital y así evitar retrasos en el cierre al listar propiedades.",
+      "cta_question": "¿Cómo deberían clasificar los reguladores los acuerdos de participación de capital para proteger a los consumidores sin sofocar la liquidez del mercado secundario?"
+    }
   ]
 }
