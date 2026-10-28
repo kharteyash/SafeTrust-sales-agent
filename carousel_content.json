@@ -168,5 +168,175 @@
       "action_realtor": "Price resale listings strategically by competing directly with local builder incentives rather than comparing raw price per square foot.",
       "cta_question": "Are builder buydowns masking true price discovery in your local housing market?"
     }
+  ],
+  "carousels_es": [
+    {
+      "slug": "uad-36-appraisal-deadline-broker-impact",
+      "title": "La trampa oculta en las tasaciones que afectará a los brokers la próxima semana",
+      "source": "National Mortgage Professional",
+      "source_url": "https://nationalmortgageprofessional.com/news/uad-36-deadline-monday-are-brokers-ready",
+      "cover_text": "Un cambio en tasaciones cancelará préstamos",
+      "caption": "Cambiar de programa de préstamo a mitad del proceso está a punto de salir muy caro. La fecha límite del UAD 3.6 es el lunes 2 de noviembre y los prestamistas mayoristas están aplicando reglas muy distintas en sus listas de préstamos. Si cambias a un comprador de convencional a FHA o intentas transferir una tasación, podrías tener que pedir una nueva por completo bajo el nuevo formato. Esto es lo que cambia cuando el expediente llega a revisión: las herramientas de validación automática rechazarán cualquier informe sin los campos del UAD 3.6. Los brokers que piensen que los informes antiguos pasarán sin problemas tendrán retrasos en sus cierres y desacuerdos por cargos inesperados.\n\nFuente : https://tinyurl.com/2y6vulr7\n#SafetrustMortgage #MortgageIntelligenceDaily #loanofficer #mortgagebroker #homebuying",
+      "hashtags": [
+        "#SafetrustMortgage",
+        "#MortgageIntelligenceDaily",
+        "#loanofficer",
+        "#mortgagebroker",
+        "#homebuying"
+      ],
+      "hook_tag": "Cambios en tasaciones",
+      "hook": "Un cambio de préstamo la próxima semana exigirá repetir la tasación.",
+      "what_happened_heading": "Los prestamistas mayoristas anuncian reglas divididas para tasaciones en noviembre",
+      "what_happened": "La fecha límite para la norma UAD 3.6 se cumple el lunes 2 de noviembre. Los prestamistas mayoristas están publicando reglas contradictorias sobre órdenes previas, transferencias de tasaciones y cambios de productos.",
+      "breakdown": [
+        {
+          "heading": "Las solicitudes previas a la fecha límite enfrentan reglas contradictorias",
+          "body": "Según el inversionista, las tasaciones pedidas antes del 2 de noviembre tendrán criterios muy distintos. Un expediente aceptado por un canal mayorista podría ser rechazado por otro."
+        },
+        {
+          "heading": "Los cambios de producto obligarán a solicitar tasaciones totalmente nuevas",
+          "body": "Cambiar de un préstamo convencional a FHA requerirá rehacer la tasación. Esto es lo que cambia en revisión: los sistemas automáticos rechazarán al instante los formatos antiguos."
+        },
+        {
+          "heading": "Las transferencias de tasación tendrán que superar nuevos controles estrictos",
+          "body": "Los brokers que transfieran tasaciones entre prestamistas hallarán exigencias estrictas de documentación. Olvidar un solo campo del nuevo estándar UAD 3.6 causará un rechazo total."
+        },
+        {
+          "heading": "Las excepciones temporales traerán duras sanciones operativas en el futuro",
+          "body": "Los prestamistas con excepciones temporales tendrán revisiones operativas strictly en 2027. Tomar un atajo hoy crea un enorme riesgo de recompra para tu cartera mañana."
+        }
+      ],
+      "my_take_heading": "El riesgo real no es el software sino los retrasos operativos",
+      "my_take": "Muchos creen que el UAD 3.6 es una simple actualización técnica para tasadores. En realidad, genera trabas en el expediente que congelarán las fechas de cierre de los brokers desprevenidos.",
+      "action_lo": "Revisa cada tasación pedida esta semana para confirmar que cumpla los requisitos del inversionista antes de cambiar de programa.",
+      "action_realtor": "Pregunta a tu prestamista si la tasación se ordenó bajo el UAD 3.6 antes de cambiar la estructura del financiamiento.",
+      "cta_question": "¿Qué tan listo está tu equipo de operaciones para gestionar transferencias de tasaciones con la nueva norma 3.6 la próxima semana?"
+    },
+    {
+      "slug": "young-buyers-older-coborrowers-hmda-trend",
+      "title": "Cómo los codeudores mayores están salvando la compra de primera casa",
+      "source": "National Mortgage Professional",
+      "source_url": "https://nationalmortgageprofessional.com/news/young-homebuying-falls-15-purchases-older-co-borrowers-hold-steady",
+      "cover_text": "Mamá y papá entran a la hipoteca",
+      "caption": "Los compradores jóvenes ya no pueden comprar solos, pero el respaldo familiar está salvando las operaciones. Datos de HMDA muestran que las compras de menores de 35 años cayeron un 15 por ciento desde 2018, mientras que los trámites con codeudores de 55 años o más subieron un 3 por ciento. Esto es lo que cambia en revisión: sumar a un padre como codeudor añade todas sus deudas mensuales, lo que puede arruinar la relación deuda-ingreso si tiene compromisos grandes. Los oficiales de crédito deben evaluar las finanzas de padres e hijos al mismo tiempo y no depender solo de cartas de regalo.\n\nFuente : https://tinyurl.com/23n95x9a\n#SafetrustMortgage #MortgageIntelligenceDaily #firsttimehomebuyer #loanofficer #mortgagebroker",
+      "hashtags": [
+        "#SafetrustMortgage",
+        "#MortgageIntelligenceDaily",
+        "#firsttimehomebuyer",
+        "#loanofficer",
+        "#mortgagebroker"
+      ],
+      "hook_tag": "Perfil del comprador",
+      "hook": "Las compras de jóvenes cayeron 15 por ciento pero suben con codeudores.",
+      "what_happened_heading": "Cae la compra de jóvenes mientras los fiadores familiares sostienen la demanda",
+      "what_happened": "Las compras de vivienda por menores de 35 años cayeron un 15 por ciento desde 2018, según datos de HMDA. Sin embargo, las transacciones con codeudores de 55 años o más aumentaron cerca de un 3 por ciento.",
+      "breakdown": [
+        {
+          "heading": "Los compradores primerizos ya no califican únicamente con su ingreso",
+          "body": "Los altos precios de las casas y las tasas elevadas dejaron fuera al sueldo inicial promedio. Contar con un aval no ocupante se volvió indispensable para lograr la aprobación."
+        },
+        {
+          "heading": "Los asesores examinan detalladamente las deudas del codeudor no ocupante",
+          "body": "Esto cambia al revisar el crédito: juntar las deudas de padres e hijos suele sumar préstamos de autos o tarjetas inesperadas, afectando la relación deuda-ingreso (DTI)."
+        },
+        {
+          "heading": "Los regalos de dinero se convierten en compromisos crediticios permanentes",
+          "body": "Los padres pasaron de dar dinero para el enganche a firmar directamente la hipoteca. La ayuda familiar cambió de un regalo en efectivo a compartir la responsabilidad del crédito."
+        },
+        {
+          "heading": "La propiedad compartida complica la estrategia para salir del crédito después",
+          "body": "Co-firmar compromete la capacidad crediticia de los padres por años y complica la herencia futura. El comprador debe planear cómo liberar esa responsabilidad antes de firmar juntos."
+        }
+      ],
+      "my_take_heading": "Los codeudores no ocupantes ocultan un problema grave de accesibilidad",
+      "my_take": "No vemos a jóvenes prosperar, sino a padres rescatando la compra de la primera casa. Cuando el crédito familiar se agote, el volumen de compras caerá de golpe.",
+      "action_lo": "Reestructura los expedientes difíciles de compradores jóvenes con codeudores no ocupantes y revisa el crédito completo de los padres antes de preaprobar.",
+      "action_realtor": "Promueve viviendas de mayor valor presentando estrategias de compra familiar a clientes que pensaban que no les alcanzaba el dinero.",
+      "cta_question": "¿Estás viendo que los codeudores no ocupantes se vuelvan algo estándar en tus solicitudes de préstamos de entrada?"
+    },
+    {
+      "slug": "wall-street-heas-home-equity-investments",
+      "title": "Wall Street apuesta 433 millones en contratos de capital acumulado",
+      "source": "National Mortgage Professional",
+      "source_url": "https://nationalmortgageprofessional.com/news/unlock-closes-433m-deal-wall-street-backs-home-equity-agreements",
+      "cover_text": "Wall Street compra plusvalía sin cuotas mensuales",
+      "caption": "Wall Street invierte cientos de millones en contratos de plusvalía porque los dueños rechazan perder sus tasas bajas. Unlock Technologies cerró un acuerdo de 433 millones de dólares respaldado por más de 4,400 contratos de capital compartido (HEA). Esto es lo que cambia en revisión: si hay un HEA sobre la propiedad al refinanciar, el asesor evaluará estos acuerdos junto con los cálculos habituales de préstamo a valor combinado. Es una extracción de capital sin deuda que compite directamente con refinanciamientos con desembolso de efectivo y líneas de crédito (HELOC). Ignorar esta opción deja fuera liquidez clave.\n\nFuente : https://tinyurl.com/22bmshet\n#SafetrustMortgage #MortgageIntelligenceDaily #mortgagebroker #realestateinvesting #homebuying",
+      "hashtags": [
+        "#SafetrustMortgage",
+        "#MortgageIntelligenceDaily",
+        "#mortgagebroker",
+        "#realestateinvesting",
+        "#homebuying"
+      ],
+      "hook_tag": "Productos de capital",
+      "hook": "Wall Street prefiere participar de la plusvalía antes que emitir deuda.",
+      "what_happened_heading": "Unlock Technologies cierra gran titularización respaldada por inversiones en capital residencial",
+      "what_happened": "Unlock Technologies cerró una titularización de 433 millones de dólares respaldada por 4,474 contratos de plusvalía residencial (HEA). La operación contó con el respaldo financiero de D2 Asset Management.",
+      "breakdown": [
+        {
+          "heading": "Los contratos de plusvalía entregan dinero hoy a cambio de valor futuro",
+          "body": "El propietario recibe dinero de inmediato a cambio de un porcentaje de la plusvalía futura de su casa. Este esquema no genera pagos mensuales ni cobra intereses."
+        },
+        {
+          "heading": "El interés institucional por estructuras de capital alternativas crece rápidamente",
+          "body": "Los inversionistas institucionales buscan activos inmobiliarios que no dependan del pago mensual tradicional. Esta titularización valida los HEA como una opción permanente de liquidez."
+        },
+        {
+          "heading": "El refinanciamiento con desembolso enfrenta fuerte competencia de opciones sin deuda",
+          "body": "Muchos dueños con tasas fijas bajas se niegan a refinanciar a las tasas actuales. El contrato HEA permite aprovechar el capital sin modificar la hipoteca principal."
+        },
+        {
+          "heading": "Los asesores evalúan el capital cedido en lugar de las deudas del cliente",
+          "body": "Esto cambia al revisar el expediente: para aprobar financiamientos secundarios posteriores, se deben calcular los límites de plusvalía cedida junto con el límite de préstamo a valor combinado."
+        }
+      ],
+      "my_take_heading": "Extraer capital sin deuda está reemplazando a las segundas hipotecas tradicionales",
+      "my_take": "Los dueños no quieren pagos mensuales más altos para obtener efectivo. Wall Street lo entendió rápido y posiciona los HEA como el principal rival del refinanciamiento con desembolso de efectivo.",
+      "action_lo": "Presenta acuerdos de plusvalía junto a las líneas de crédito con garantía hipotecaria (HELOC) a clientes con tasas bajas que necesiten efectivo.",
+      "action_realtor": "Identifica a propietarios con bastante plusvalía pero poco efectivo que quieran remodelar para vender sin sumar pagos de deuda mensuales.",
+      "cta_question": "¿Crees que los productos de capital sin deuda superarán a las segundas hipotecas para clientes sin liquidez en 2027?"
+    },
+    {
+      "slug": "real-home-prices-lag-inflation-builder-buydowns",
+      "title": "Por qué el aumento nominal de precios ocultó la caída real del valor",
+      "source": "HousingWire",
+      "source_url": "https://www.housingwire.com/articles/case-shiller-lagged-prices/",
+      "cover_text": "El precio de las casas cae por inflación",
+      "caption": "No te dejes engañar por los titulares sobre el mercado inmobiliario. Case-Shiller reportó un aumento del 2.1 por ciento en los precios, pero con una inflación del 3.4 por ciento, el valor real de las casas bajó. Al mismo tiempo, se vendieron 676,000 viviendas nuevas solo porque los constructores pagan sumas enormes para reducir la tasa de interés. Esto es lo que cambia en revisión: las tasaciones con comparables de obra nueva suelen omitir esos descuentos, creando valores inflados en papel. Quienes miran más allá del precio ven un mercado que se ajusta silenciosamente mediante incentivos.\n\nFuente : https://tinyurl.com/29dtrbdl\n#SafetrustMortgage #MortgageIntelligenceDaily #housingmarket #mortgagerates #realestateagent",
+      "hashtags": [
+        "#SafetrustMortgage",
+        "#MortgageIntelligenceDaily",
+        "#housingmarket",
+        "#mortgagerates",
+        "#realestateagent"
+      ],
+      "hook_tag": "Análisis de mercado",
+      "hook": "El precio real bajó por inflación y los subsidios ocultaron la demanda.",
+      "what_happened_heading": "El alza de precios queda tras la inflación mientras la venta nueva depende de incentivos",
+      "what_happened": "El índice Case-Shiller reportó que los precios subieron un 2.1 por ciento interanual en agosto, por debajo de la inflación del 3.4 por ciento. Entre tanto, las ventas de casas nuevas alcanzaron 676,000 en septiembre gracias a los subsidios de tasa de los constructores.",
+      "breakdown": [
+        {
+          "heading": "El precio real de las viviendas cae al ajustarse con la inflación general",
+          "body": "Un aumento del 2.1 por ciento frente a una inflación del 3.4 por ciento refleja una caída en el valor real. Aunque los titulares muestran crecimiento, el poder adquisitivo disminuye."
+        },
+        {
+          "heading": "El volumen de venta nueva depende de fuertes subsidios a las tasas",
+          "body": "Los constructores mantienen las ventas invirtiendo miles de dólares en reducir la tasa del comprador. Sin estos incentivos, la demanda real del mercado sería considerablemente más baja."
+        },
+        {
+          "heading": "El mercado usado carece de los incentivos que ofrecen los constructores",
+          "body": "Los vendedores particulares no pueden competir fácilmente con los subsidios permanentes de tasa de los constructores. Las casas usadas se estancan mientras los compradores buscan ofertas en obra nueva."
+        },
+        {
+          "heading": "Las tasaciones ignoran las concesiones e inflan artificialmente los valores",
+          "body": "Esto cambia en revisión: las comparables que usan el precio total de contrato del constructor inflan el valor real al ignorar los incentivos financieros pagados por la empresa."
+        }
+      ],
+      "my_take_heading": "Los titulares ignoran el gran impacto que tienen los subsidios de tasa",
+      "my_take": "Los precios publicados están inflados por las ayudas de los constructores. Al quitar los subsidios de tasa y la inflación real, vemos que el mercado inmobiliario vive un ajuste de precios silencioso.",
+      "action_lo": "Muestra a tus clientes vendedores cómo usar créditos para reducir la tasa del comprador y competir con las casas nuevas.",
+      "action_realtor": "Fija precios estratégicos en casas usadas compitiendo con los incentivos de los constructores en lugar de comparar solo el precio por pie cuadrado.",
+      "cta_question": "¿Crees que las reducciones de tasa pagadas por constructores están ocultando los precios reales en tu zona?"
+    }
   ]
 }
