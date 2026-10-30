@@ -168,5 +168,175 @@
       "action_realtor": "Ask your preferred lender how they handle credit optimization to ensure your clients aren't overpaying on loan fees.",
       "cta_question": "Are lenders fully embracing alternative credit models, or are operations slow to adapt?"
     }
+  ],
+  "carousels_es": [
+    {
+      "slug": "zillow-zero-down-fha",
+      "title": "El nuevo préstamo FHA sin enganche de Zillow llega en un momento interesante",
+      "source": "The Truth About Mortgage",
+      "source_url": "https://www.thetruthaboutmortgage.com/zillows-new-zero-down-fha-loan-coming-at-an-interesting-time/",
+      "cover_text": "Zillow lanzó FHA sin enganche. La trampa:",
+      "caption": "Todo el mundo habla del nuevo programa FHA sin enganche de Zillow como la solución mágica para la accesibilidad. Pero cuando miras cómo los expedientes se mueven desde el inicio hasta el mercado secundario, las cosas se complican rápido. Tenemos que ver más allá del bombo publicitario y examinar lo que FHA sin enganche realmente significa para el riesgo del prestatario y los balances de los prestamistas. Dejemos de tratar los anuncios de productos como soluciones mágicas para problemas estructurales de inventario. Esta es la realidad operativa del último movimiento de Zillow.\n\nFuente : https://tinyurl.com/2cboep5x\n#SafetrustMortgage #MortgageIntelligenceDaily #mortgagerates #homebuying #firsttimehomebuyer",
+      "hashtags": [
+        "#SafetrustMortgage",
+        "#MortgageIntelligenceDaily",
+        "#mortgagerates",
+        "#homebuying",
+        "#firsttimehomebuyer"
+      ],
+      "hook_tag": "Lanzamiento de Producto",
+      "hook": "Zillow lanzó un préstamo FHA sin enganche, pero ¿realmente ayuda a los compradores?",
+      "what_happened_heading": "La nueva opción FHA sin enganche",
+      "what_happened": "Zillow Home Loans lanzó una forma para que los compradores elegibles obtengan un préstamo FHA sin enganche. Normalmente, necesitas un mínimo de 3.5% de enganche para calificar para un préstamo FHA.",
+      "breakdown": [
+        {
+          "heading": "Desafiando las reglas estándar de FHA",
+          "body": "Los préstamos FHA tradicionalmente han exigido al menos un 3.5% de enganche para asegurar que los prestatarios tengan interés en la propiedad. Zillow está sorteando este obstáculo con una estructura propia."
+        },
+        {
+          "heading": "Esto es lo que ve el asesor",
+          "body": "Cuando un expediente llega a la asesoría sin enganche, los factores de compensación deben ser a prueba de balas. Los prestamistas revisarán el historial de crédito y los ingresos residuales con mucha más atención para compensar la falta de capital del prestatario."
+        },
+        {
+          "heading": "El factor de \"shock\" en el pago",
+          "body": "Financiar el 100% del precio de compra significa un pago mensual más alto, especialmente con las primas de seguro hipotecario iniciales y mensuales incluidas en la relación deuda-ingresos."
+        },
+        {
+          "heading": "Ejecución en el mercado secundario",
+          "body": "La asistencia para el enganche no tradicional o las capas de financiación secundaria pueden complicar la venta y la titulización de préstamos para el prestamista original."
+        }
+      ],
+      "my_take_heading": "El marketing versus la realidad de la asesoría",
+      "my_take": "Eliminar el enganche quita una barrera de entrada, pero amplifica cada otra vulnerabilidad financiera al momento del cierre.",
+      "action_lo": "Educa a tus agentes inmobiliarios sobre cómo tus propios productos o programas de asistencia con el enganche se comparan para asegurar que retengas a los compradores potenciales.",
+      "action_realtor": "Pregunta a los prestamistas por las pautas específicas sobre financiación no tradicional antes de hacer ofertas para asegurarte de que los productos sin enganche no se detengan en el procesamiento.",
+      "cta_question": "¿Los productos FHA sin enganche son una verdadera solución de asequibilidad o solo atraen clientes para los prestamistas?"
+    },
+    {
+      "slug": "redfin-home-prices-fall",
+      "title": "Los precios de venta de viviendas en EE. UU. caen por primera vez en 3 años",
+      "source": "Redfin",
+      "source_url": "https://www.redfin.com/news/housing-market-update-home-sale-prices-fall-october-2026/",
+      "cover_text": "Los precios de las casas cayeron por 1ra vez en 3 años.",
+      "caption": "Por primera vez en tres años, el precio medio de venta de viviendas en EE. UU. bajó, llegando a $389,601 según Redfin. Pero antes de que tu cartera de clientes celebre una ola de asequibilidad, mira el pago mensual medio que se mantiene cerca de máximos históricos. La asequibilidad no se trata solo del precio de compra en el contrato. Se trata de cómo el costo de la deuda interactúa con los cuellos de botella del inventario local. Esto es lo que significa esta caída de precios para los originadores y agentes que intentan cerrar tratos ahora mismo.\n\nFuente : https://tinyurl.com/27prn9lb\n#SafetrustMortgage #MortgageIntelligenceDaily #housingmarket #realestateagent #homebuying",
+      "hashtags": [
+        "#SafetrustMortgage",
+        "#MortgageIntelligenceDaily",
+        "#housingmarket",
+        "#realestateagent",
+        "#homebuying"
+      ],
+      "hook_tag": "Cambio en el Mercado",
+      "hook": "Los precios de las casas finalmente cayeron, ¿por qué los compradores no regresan?",
+      "what_happened_heading": "La primera caída nacional de precios",
+      "what_happened": "El precio medio de venta de viviendas en EE. UU. cayó por primera vez en más de tres años a $389,601 durante las cuatro semanas que terminaron el 25 de octubre. Sin embargo, el pago hipotecario mensual medio se mantiene cerca de su segundo nivel más alto registrado.",
+      "breakdown": [
+        {
+          "heading": "El titular es engañoso",
+          "body": "Una caída en el precio medio de venta no significa automáticamente que las casas sean más asequibles. Las altas tasas de interés mantienen el servicio de la deuda mensual elevado para el comprador promedio."
+        },
+        {
+          "heading": "Asesorando el impacto del precio",
+          "body": "Cuando los expedientes llegan a asesoría, los límites de DTI (cuánto de tus ingresos se destina a la deuda) están siendo probados por pagos altos a pesar de precios de compra de viviendas más bajos."
+        },
+        {
+          "heading": "Los vendedores están ajustando la realidad",
+          "body": "Durante tres años, los vendedores tuvieron todas las ventajas. Ahora, la resistencia de los compradores que se niegan a estirar sus presupuestos está forzando recortes de precios en mercados clave."
+        },
+        {
+          "heading": "La dinámica del inventario está cambiando",
+          "body": "A medida que los precios se suavizan, los compradores indecisos que esperan están evaluando si concretar una compra antes de que las tasas hagan otro movimiento inesperado."
+        }
+      ],
+      "my_take_heading": "La caída de precios no arregla los pagos mensuales",
+      "my_take": "Un precio de compra más bajo no significa nada si el entorno de tasas se come cada dólar de ahorro del comprador.",
+      "action_lo": "Muestra a los clientes comparaciones de pagos usando reducciones temporales de tasas (rate buydowns) en lugar de depender de pequeñas reducciones del precio de compra.",
+      "action_realtor": "Usa las recientes caídas de precios para motivar a los vendedores que aún viven con fantasías de precios de 2023 a aceptar ofertas realistas.",
+      "cta_question": "¿Estás viendo que los compradores realmente aprovechan estas caídas de precios, o todavía están esperando que las tasas bajen?"
+    },
+    {
+      "slug": "enterprise-bank-exits-mortgage",
+      "title": "Otro banco abandona la originación hipotecaria citando falta de escala",
+      "source": "National Mortgage Professional",
+      "source_url": "https://nationalmortgageprofessional.com/news/another-bank-exits-mortgage-origination-citing-lack-scale",
+      "cover_text": "Otro banco se salió de las hipotecas.",
+      "caption": "Enterprise Bank and Trust acaba de confirmar que se retira de la originación de hipotecas residenciales debido a la falta de escala. Esto está sucediendo en todo el sector bancario, ya que los gastos generales de cumplimiento y la compresión de márgenes expulsan a los jugadores regionales del juego. Si tu plataforma no tiene el volumen para absorber los costos fijos regulatorios y tecnológicos, no puedes sobrevivir. Esto es lo que significa la consolidación bancaria para el panorama competitivo y hacia dónde fluye finalmente el volumen de originación.\n\nFuente : https://tinyurl.com/28k93ofc\n#SafetrustMortgage #MortgageIntelligenceDaily #mortgagebroker #loanofficer #housingmarket",
+      "hashtags": [
+        "#SafetrustMortgage",
+        "#MortgageIntelligenceDaily",
+        "#mortgagebroker",
+        "#loanofficer",
+        "#housingmarket"
+      ],
+      "hook_tag": "Tendencia de la Industria",
+      "hook": "¿Por qué los bancos regionales están abandonando las originaciones hipotecarias?",
+      "what_happened_heading": "Enterprise Bank recorta préstamos residenciales",
+      "what_happened": "Enterprise Bank and Trust se retira de la originación hipotecaria, uniéndose a varios bancos que se han retirado de los préstamos residenciales en los últimos años. El CEO Jim Lally citó preocupaciones sobre la rentabilidad, la competencia y el costo de mantener las plataformas de originación.",
+      "breakdown": [
+        {
+          "heading": "Los números ya no funcionan",
+          "body": "Mantener plataformas de originación que cumplan las normas requiere una inversión masiva. Cuando el volumen baja, los gastos generales fijos destruyen rápidamente la rentabilidad bancaria."
+        },
+        {
+          "heading": "Costo de asesoría por expediente",
+          "body": "Para los bancos más pequeños, el costo de asesorar y procesar un solo expediente de préstamo se ha disparado debido a la complejidad regulatoria y el mantenimiento de la pila tecnológica."
+        },
+        {
+          "heading": "La búsqueda de escala",
+          "body": "Los banqueros hipotecarios independientes y los grandes agregadores están absorbiendo sistemáticamente la cuota de mercado dejada por las instituciones depositarias que se retiran."
+        },
+        {
+          "heading": "Desplazamiento del oficial de préstamos",
+          "body": "Cuando un banco abandona la originación, los oficiales de préstamos de alto rendimiento se ven obligados a reevaluar sus plataformas, acelerando la migración hacia corredurías independientes y entidades no bancarias."
+        }
+      ],
+      "my_take_heading": "El nivel intermedio se está vaciando",
+      "my_take": "Si no tienes una escala masiva o un modelo minorista hiper-nicho, el costo de cumplimiento eventualmente se comerá tus márgenes.",
+      "action_lo": "Audita la tecnología de tu empresa actual y las capacidades de ejecución en el mercado secundario para asegurar que tu plataforma tenga poder de permanencia a largo plazo.",
+      "action_realtor": "Asóciate con prestamistas respaldados por una escala independiente en lugar de bancos regionales propensos a salidas estratégicas repentinas de hipotecas.",
+      "cta_question": "¿Qué tipo de plataforma de préstamos dominará la cuota de mercado en los próximos cinco años?"
+    },
+    {
+      "slug": "crosscountry-vantagescore-savings",
+      "title": "CrossCountry amplía la elegibilidad de VantageScore y reporta $2,500 en ahorros",
+      "source": "HousingWire",
+      "source_url": "https://www.housingwire.com/articles/crosscountry-vantagescore-savings/",
+      "cover_text": "CrossCountry reporta $2,500 de ahorro con VantageScore 4.0.",
+      "caption": "CrossCountry Mortgage reporta un ahorro promedio de $2,500 para los prestatarios al ampliar la elegibilidad para VantageScore 4.0, lo que se traduce en una reducción de 62 puntos básicos (LLPA o Loan-Level Price Adjustment) en los primeros 60 días. La competencia de modelos de crédito finalmente está generando ahorros tangibles al momento del cierre. Si no estás optimizando los modelos de puntuación crediticia para tus expedientes límite, estás dejando dinero sobre la mesa. Así es como el análisis crediticio moderno está cambiando las aprobaciones de expedientes.\n\nFuente : https://tinyurl.com/297s5j2l\n#SafetrustMortgage #MortgageIntelligenceDaily #mortgagerates #loanofficer #firsttimehomebuyer",
+      "hashtags": [
+        "#SafetrustMortgage",
+        "#MortgageIntelligenceDaily",
+        "#mortgagerates",
+        "#loanofficer",
+        "#firsttimehomebuyer"
+      ],
+      "hook_tag": "Puntuación de Crédito",
+      "hook": "Cómo los modelos de puntuación de crédito alternativos ahorran miles a los prestatarios.",
+      "what_happened_heading": "CrossCountry reporta grandes ahorros",
+      "what_happened": "CrossCountry Mortgage reportó un ahorro promedio estimado de $2,500 para los prestatarios gracias a su adopción de VantageScore 4.0. El prestamista citó una reducción promedio de 62 puntos básicos en el LLPA en los primeros 60 días después de que las puntuaciones mejoraron.",
+      "breakdown": [
+        {
+          "heading": "Desafiando el modelo heredado",
+          "body": "Los informes de crédito tri-merge tradicionales a menudo penalizan innecesariamente a los prestatarios con crédito invisible o escaso, aumentando los precios a través de ajustes estándar a nivel de préstamo."
+        },
+        {
+          "heading": "Asesorando el cambio de puntuación",
+          "body": "Cuando un expediente de asesoría se beneficia de VantageScore 4.0, la fijación de precios basada en el riesgo mejora al instante, llevando a los prestatarios límite a través de los niveles de precios."
+        },
+        {
+          "heading": "Ejecución en el mundo real",
+          "body": "Una reducción de 62 puntos básicos en el LLPA disminuye directamente el pago mensual o reduce los costos de cierre iniciales sin alterar el perfil de riesgo subyacente."
+        },
+        {
+          "heading": "La ventaja competitiva",
+          "body": "Los prestamistas que adoptan temprano el análisis de crédito moderno están ganando negocios al desbloquear ventajas de precios que los sistemas de puntuación heredados pasan por alto por completo."
+        }
+      ],
+      "my_take_heading": "La puntuación de crédito finalmente entra en la era moderna",
+      "my_take": "Apegarse ciegamente a los modelos de puntuación heredados es un perjuicio para tus prestatarios y un freno para tus tasas de conversión.",
+      "action_lo": "Verifica si tu software de originación actual es totalmente compatible con modelos de crédito alternativos para ayudar a los prestatarios sensibles al precio a obtener ahorros.",
+      "action_realtor": "Pregunta a tu prestamista preferido cómo manejan la optimización del crédito para asegurar que tus clientes no paguen de más en las tarifas del préstamo.",
+      "cta_question": "¿Los prestamistas están adoptando plenamente los modelos de crédito alternativos, o las operaciones son lentas para adaptarse?"
+    }
   ]
 }
