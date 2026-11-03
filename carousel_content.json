@@ -168,5 +168,175 @@
       "action_realtor": "Verify compliance and agency restrictions before serving as both sales agent and loan officer on client transactions.",
       "cta_question": "Is dual licensing the future of real estate consolidation, or does it introduce unacceptable compliance risks for mortgage brokerages?"
     }
+  ],
+  "carousels_es": [
+    {
+      "slug": "uad-36-certification-25-appraisal-privacy",
+      "title": "Preocupaciones sobre privacidad de datos de avalúos bajo Certificación 25 de UAD 3.6",
+      "source": "HousingWire",
+      "source_url": "https://www.housingwire.com/articles/uad-36-certification-25/",
+      "cover_text": "La privacidad en avalúos desaparece con UAD 3.6",
+      "caption": "El sector habla de modernizar avalúos, pero pocos ven dónde terminan los datos. La Certificación 25 del nuevo sistema UAD 3.6 amplía quién puede guardar, analizar y repartir la información de las tasaciones, incluyendo fotos del interior del hogar. Mientras se pide más privacidad para el consumidor, este cambio va en dirección opuesta. Para los agentes y el asesor (underwriter), esto genera dudas sobre privacidad y propiedad de datos. Cuando el avalúo sale del sistema de originación, deja de ser un expediente privado. Esto es lo que debes saber sobre la letra pequeña de los derechos de datos.\n\nFuente : https://tinyurl.com/2yxgjxad\n#SafetrustMortgage #MortgageIntelligenceDaily #mortgagebroker #loanofficer #housingmarket",
+      "hashtags": [
+        "#SafetrustMortgage",
+        "#MortgageIntelligenceDaily",
+        "#mortgagebroker",
+        "#loanofficer",
+        "#housingmarket"
+      ],
+      "hook_tag": "Derechos sobre datos de avalúos",
+      "hook": "La Certificación 25 convierte tus avalúos privados en datos de acceso público.",
+      "what_happened_heading": "Fannie Mae y Freddie Mac amplían uso de datos",
+      "what_happened": "El nuevo sistema del Conjunto Uniforme de Datos de Avalúos incluye la Certificación 25, que permite guardar, analizar y compartir datos del informe. Esta norma abarca fotos del interior de la casa y detalles enviados a las entidades gubernamentales.",
+      "breakdown": [
+        {
+          "heading": "Tasadores asumen mayor responsabilidad por datos",
+          "body": "A los tasadores les preocupa que redistribuir datos exponga la privacidad del dueño y traslade la responsabilidad legal y de derechos de autor a quien toma las fotos."
+        },
+        {
+          "heading": "Lo que cambia en los expedientes",
+          "body": "Al llegar el préstamo al asesor (underwriter), se debe verificar el permiso del cliente, mientras las fotos e información del inmueble quedan registradas para siempre en bases centrales."
+        },
+        {
+          "heading": "Creación de una base de datos nacional",
+          "body": "Fannie Mae y Freddie Mac ya no solo verifican valores. Ahora construyen una base de datos visual y de estructura a nivel nacional usando los expedientes de tus clientes."
+        },
+        {
+          "heading": "Los clientes desconocen esta exposición",
+          "body": "Los dueños creen que las fotos se quedan en el expediente. Bajo la Certificación 25, esas imágenes interiores pueden analizarse y compartirse fuera del trámite de la hipoteca."
+        }
+      ],
+      "my_take_heading": "El costo oculto de estandarizar avalúos",
+      "my_take": "UAD 3.6 no es solo una mejora tecnológica. Es una transferencia permanente de los derechos de datos del dueño hacia las entidades del mercado secundario.",
+      "action_lo": "Informa a los clientes que las fotos del interior formarán parte de bases de datos públicas.",
+      "action_realtor": "Aconseja a los vendedores organizar la casa y retirar objetos personales antes de tomar las fotos.",
+      "cta_question": "¿Deberían los prestamistas pedir permiso explícito al cliente antes de compartir las fotos del avalúo?"
+    },
+    {
+      "slug": "elend-lowers-fha-credit-score-floor-500",
+      "title": "ELEND baja el puntaje mínimo de crédito FHA a 500",
+      "source": "National Mortgage Professional",
+      "source_url": "https://nationalmortgageprofessional.com/news/elend-lowers-credit-score-floors-500-fha-cash-out-loans",
+      "cover_text": "Bajar el crédito mínimo cambia la evaluación manual",
+      "caption": "Anunciar puntajes de crédito más bajos atrae clientes, pero el reto está en el proceso. La empresa eLEND bajó el límite de puntaje a 500 para refinanciamientos FHA con dinero en efectivo (cash-out) y ciertos préstamos convencionales hasta fin de año. Aunque esto abre oportunidades de venta, procesar un FHA cash-out con 500 puntos exige cumplir con evaluación manual (manual underwriting), límites estrictos de relación deuda-ingreso (DTI) y factores compensatorios claros. Un requisito menor no garantiza aprobación automática; de hecho, exige mayor disciplina en el análisis. Aquí te explicamos lo que debes saber antes de ingresar estos préstamos.\n\nFuente : https://tinyurl.com/27bna62x\n#SafetrustMortgage #MortgageIntelligenceDaily #mortgagebroker #loanofficer #homebuying",
+      "hashtags": [
+        "#SafetrustMortgage",
+        "#MortgageIntelligenceDaily",
+        "#mortgagebroker",
+        "#loanofficer",
+        "#homebuying"
+      ],
+      "hook_tag": "Puntajes de crédito mínimos",
+      "hook": "Bajar el crédito FHA a 500 exige una estricta evaluación manual.",
+      "what_happened_heading": "Flexibilidad en crédito para refinanciamientos FHA",
+      "what_happened": "El prestamista eLEND lanzó su programa CreditEdge, reduciendo el puntaje mínimo de crédito a 500 para ciertos refinanciamientos FHA cash-out y préstamos convencionales. La medida busca ayudar a compradores que quedaban fuera de las pautas tradicionales hasta fin de año.",
+      "breakdown": [
+        {
+          "heading": "Puntaje más bajo no significa aprobación fácil",
+          "body": "Promover 500 puntos suena accesible, pero los puntajes por debajo de 600 envían el préstamo directo a reglas estrictas de evaluación manual."
+        },
+        {
+          "heading": "Cambios clave en la revisión del expediente",
+          "body": "Las aprobaciones automáticas desaparecen por debajo de 620. El asesor (underwriter) debe revisar manualmente los límites de relación deuda-ingreso (DTI) y las reservas necesarias."
+        },
+        {
+          "heading": "Los factores compensatorios son obligatorios",
+          "body": "Un puntaje de 500 exige pagos al día, ingresos residuales comprobados y factores compensatorios sólidos para evitar que el préstamo sea rechazado."
+        },
+        {
+          "heading": "El riesgo de recompra recae en el prestamista",
+          "body": "Los préstamos FHA con puntajes muy bajos tienen alto riesgo de pago anticipado o recompra, por lo que los inversionistas filtrarán los archivos débiles."
+        }
+      ],
+      "my_take_heading": "Pautas flexibles exigen un proceso impecable",
+      "my_take": "Bajar el puntaje mínimo no crea volumen fácil. Exige un nivel de evaluación manual que muchos equipos actuales no están preparados para manejar.",
+      "action_lo": "Evalúa si el cliente cumple las reglas de evaluación manual antes de enviar la solicitud FHA.",
+      "action_realtor": "Explica a los compradores con bajo crédito que necesitarán más documentos de activos y pagos de renta puntuales.",
+      "cta_question": "¿Bajar los puntajes mínimos generará más préstamos reales o solo saturará la operación con casos no elegibles?"
+    },
+    {
+      "slug": "uwm-expands-vantagescore-non-agency",
+      "title": "UWM añade VantageScore a productos hipotecarios no calificados",
+      "source": "National Mortgage Professional",
+      "source_url": "https://nationalmortgageprofessional.com/news/uwm-expands-vantagescore-non-agency-lending",
+      "cover_text": "Préstamos no calificados abren la puerta a VantageScore",
+      "caption": "La medición de crédito en préstamos no calificados está cambiando por completo. United Wholesale Mortgage amplió el uso de VantageScore a su línea de préstamos no calificados (Non-QM), incluyendo jumbo, estados de cuenta bancarios, inversionistas y líneas de crédito con garantía hipotecaria (HELOC). Durante años, estos préstamos dependían solo del FICO tradicional, dejando fuera a independientes con buen perfil. Al permitir dos puntajes en la evaluación, los agentes pueden rescatar préstamos estancados. Sin embargo, la aceptación en el mercado secundario definirá el alcance de esta medida. Te mostramos cómo impacta el uso de VantageScore en tus operaciones.\n\nFuente : https://tinyurl.com/29sxhhh3\n#SafetrustMortgage #MortgageIntelligenceDaily #mortgagebroker #realestateinvesting #loanofficer",
+      "hashtags": [
+        "#SafetrustMortgage",
+        "#MortgageIntelligenceDaily",
+        "#mortgagebroker",
+        "#realestateinvesting",
+        "#loanofficer"
+      ],
+      "hook_tag": "Cambios en puntaje de crédito",
+      "hook": "Usar VantageScore en préstamos no calificados cambia la elegibilidad del cliente.",
+      "what_happened_heading": "Mayor puntuación alternativa para préstamos especiales",
+      "what_happened": "United Wholesale Mortgage permitió el uso de VantageScore en productos no calificados, incluyendo préstamos jumbo, por estados de cuenta e inversión. La medida ofrece opciones de doble puntaje en créditos especiales donde se exige un mínimo de crédito.",
+      "breakdown": [
+        {
+          "heading": "Productos no calificados aceptan doble puntaje",
+          "body": "Los préstamos no tradicionales usaban solo el FICO clásico. Permitir VantageScore marca un cambio clave para calificar a más clientes."
+        },
+        {
+          "heading": "Impacto directo al revisar el expediente",
+          "body": "El asesor (underwriter) puede usar el VantageScore más alto para alcanzar el mínimo exigido, salvando casos de clientes con historial de crédito escaso."
+        },
+        {
+          "heading": "Flexibilidad para independientes e inversionistas",
+          "body": "Los trabajadores independientes que sufren con el modelo FICO tradicional suelen mostrar una mejor puntuación bajo las fórmulas modernas de VantageScore."
+        },
+        {
+          "heading": "La liquidez del mercado secundario será la prueba",
+          "body": "Los inversionistas secundarios deben comprar estos préstamos. Su respuesta definirá si otros prestamistas mayoristas siguen los pasos de UWM."
+        }
+      ],
+      "my_take_heading": "La competencia entre modelos cambia el negocio",
+      "my_take": "Aceptar VantageScore demuestra que el FICO ya no es el único modelo. Da a los originadores una herramienta real para cerrar préstamos complejos.",
+      "action_lo": "Revisa préstamos jumbo o por estados de cuenta denegados usando informes de crédito con doble puntaje.",
+      "action_realtor": "Trabaja con asesores hipotecarios que usen crédito alternativo para calificar a clientes independientes.",
+      "cta_question": "¿Aceptará el mercado secundario estos préstamos con VantageScore sin aumentar los costos del crédito?"
+    },
+    {
+      "slug": "dual-licensing-growth-agents-loan-officers",
+      "title": "Aumenta la doble licencia entre agentes inmobiliarios y originadores",
+      "source": "HousingWire",
+      "source_url": "https://www.housingwire.com/articles/retr-dual-license-analysis/",
+      "cover_text": "Tener doble licencia exige cumplir reglas de cumplimiento",
+      "caption": "Menores márgenes obligan a profesionales inmobiliarios e hipotecarios a buscar nuevos ingresos. Datos recientes muestran miles de registros duplicados entre agentes de bienes raíces y oficiales de crédito, liderados por California. Aunque tener ambas licencias genera más ganancias, trae retos severos de cumplimiento normativo. Cuando el asesor (underwriter) detecta a un profesional con doble función, aplica revisiones inmediatas sobre las reglas de la ley RESPA y transacciones con conflicto de interés. Aquí explicamos por qué esta práctica exige límites operativos claros para evitar que las ventas se cancelen por regulación.\n\nFuente : https://tinyurl.com/274rvzs8\n#SafetrustMortgage #MortgageIntelligenceDaily #mortgagebroker #realestateagent #loanofficer",
+      "hashtags": [
+        "#SafetrustMortgage",
+        "#MortgageIntelligenceDaily",
+        "#mortgagebroker",
+        "#realestateagent",
+        "#loanofficer"
+      ],
+      "hook_tag": "Tendencias de doble licencia",
+      "hook": "Ser agente y oficial de crédito genera ingresos pero exige alta revisión.",
+      "what_happened_heading": "Miles de profesionales operan con doble licencia",
+      "what_happened": "Un análisis de RETR identificó 3,729 coincidencias de nombres entre agentes inmobiliarios y originadores de préstamos, con un 40% en California. Cada vez más profesionales buscan ambas licencias para obtener múltiples ingresos en un mercado ajustado.",
+      "breakdown": [
+        {
+          "heading": "Presión del mercado impulsa la doble función",
+          "body": "Los menores ingresos llevan a agentes y originadores a unir servicios, buscando cobrar comisiones de venta y honorarios de hipoteca en la misma transacción."
+        },
+        {
+          "heading": "Mayor exigencia en la revisión del crédito",
+          "body": "Al evaluar la solicitud, el asesor (underwriter) exige revisiones de conflicto de interés y la entrega de divulgaciones bajo la ley RESPA."
+        },
+        {
+          "heading": "Mayor control sobre conflictos de interés",
+          "body": "Cobrar como agente y originador requiere acuerdos de negocios afiliados (AfBA) detallados para evitar sanciones legales y rechazos del mercado secundario."
+        },
+        {
+          "heading": "Reglas FHA y agencias limitan el cobro doble",
+          "body": "Los principales programas estatales prohíben ganar doble comisión en un mismo préstamo respaldado por el gobierno sin exenciones explícitas."
+        }
+      ],
+      "my_take_heading": "Una estrategia que requiere control",
+      "my_take": "Tener doble licencia aumenta tus conocimientos, pero intentar cobrar dos comisiones en la misma transacción genera riesgos legales y de aprobación innecesarios.",
+      "action_lo": "Usa la doble licencia para ampliar tu conocimiento del mercado, no para tramitar tus propias ventas.",
+      "action_realtor": "Verifica las restricciones legales antes de actuar como agente y oficial de crédito en la misma venta.",
+      "cta_question": "¿Es la doble licencia el futuro del sector inmobiliario o un riesgo regulatorio excesivo?"
+    }
   ]
 }
