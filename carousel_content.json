@@ -1,342 +1,172 @@
 {
   "carousels": [
     {
-      "slug": "pennymac-origination-loss",
-      "title": "Pennymac Made $29M, But Its Origination Business Lost Money",
+      "slug": "home-equity-lending-overtake-non-qm",
+      "title": "Home Equity Lending Could Overtake Non-QM By 2027",
       "source": "National Mortgage Professional",
-      "source_url": "https://nationalmortgageprofessional.com/nationalmortgageprofessional.com/news/pennymac-made-29m-its-origination-business-lost-money",
-      "cover_text": "Production is bleeding money right now",
-      "caption": "When industry giants like Pennymac post a 7 million dollar pretax production loss while staying profitable through servicing, it tells a very clear story about where mortgage P&Ls stand today. Volume alone is not enough to keep the lights on when origination margins are this compressed. Lenders are leaning hard on servicing portfolios to survive the rate cycle, forcing a massive push toward operational efficiency and cost cutting across the board. If you are running a branch or an independent mortgage bank, your cost per loan needs a serious audit right now. Read on for the pipeline breakdown.\n\nSource : https://tinyurl.com/24ntqjvn\n#SafetrustMortgage #MortgageIntelligenceDaily #loanofficer #mortgagebroker #housingmarket",
-      "hashtags": [
-        "#SafetrustMortgage",
-        "#MortgageIntelligenceDaily",
-        "#loanofficer",
-        "#mortgagebroker",
-        "#housingmarket"
-      ],
-      "hook_tag": "P&L Reality",
-      "hook": "Even the biggest lenders are losing money on every loan they originate right now.",
-      "what_happened_heading": "Pennymac reports production losses",
-      "what_happened": "Pennymac posted 29 million dollars in net income for the third quarter, but its mortgage production segment suffered a 7 million dollar pretax loss. This reversed a 38 million dollar profit from the previous quarter as high interest rates squeezed origination margins.",
-      "breakdown": [
-        {
-          "heading": "The servicing cushion",
-          "body": "Servicing income kept the company deeply in the black despite the red ink on the origination side of the ledger."
-        },
-        {
-          "heading": "Underwriting margin squeeze",
-          "body": "When a file hits underwriting today, the cost to process it against the current revenue per loan is upside down for many lenders."
-        },
-        {
-          "heading": "Job cuts follow",
-          "body": "The company is actively cutting jobs and accelerating automation to survive the prolonged margin compression in production."
-        },
-        {
-          "heading": "The volume illusion",
-          "body": "Originating more units does not fix a broken P&L if every single file costs more to close than it brings in."
-        }
-      ],
-      "my_take_heading": "Volume without margin is just a slow liquidation",
-      "my_take": "If your production shop relies on volume to outrun high costs, you are just losing money faster. Servicing is the only thing keeping the lights on for the giants.",
-      "action_lo": "Audit your personal pipeline economics and focus on referral partners who bring high margin purchase business.",
-      "action_realtor": "Partner with lenders who have diverse revenue streams and stable backing so your escrows never stall out.",
-      "cta_question": "Are your current origination margins covering your operational overhead today?"
-    },
-    {
-      "slug": "rocket-quick-counter",
-      "title": "Rocket's New Tool Lets Brokers Counter Rival Refi Offers On The Spot",
-      "source": "National Mortgage Professional",
-      "source_url": "https://nationalmortgageprofessional.com/news/rockets-new-tool-lets-brokers-counter-rival-refi-offers-spot",
-      "cover_text": "Instant combat for rate shopper leads",
-      "caption": "Rate shoppers are weaponizing competitor Loan Estimates faster than ever, and wholesale brokers are finally getting the tech to fight back instantly. Rocket Pro's new Quick Counter tool lets brokers upload a rival LE and adjust pricing while the borrower is still on the phone. This changes the entire dynamic of retention and conversion on refinance leads. But speed without underwriting discipline is just a fast track to a repurchase demand. Here is what this means for your pipeline execution.\n\nSource : https://tinyurl.com/25lpcsck\n#SafetrustMortgage #MortgageIntelligenceDaily #mortgagebroker #loanofficer #housingmarket",
+      "source_url": "https://nationalmortgageprofessional.com/news/home-equity-lending-could-overtake-non-qm-2027",
+      "cover_text": "Equity lending is taking over Non-QM",
+      "caption": "Home equity lending is set to outpace Non-QM originations by 2027 as homeowners refuse to give up their low primary rates. Executives are already seeing second liens take over pipeline share across the country. As an underwriter, I evaluate second liens with a sharp focus on combined loan-to-value and total debt ratios. Borrowers are not refinancing their first mortgage, so second liens are becoming their main source of cash. Lenders who fail to adapt their product mix will lose market share to operations that prioritize equity tapping tools. Are you actively marketing home equity options to your past client database?\n\nSource : https://tinyurl.com/2dmxmwld\n#SafetrustMortgage #MortgageIntelligenceDaily #mortgagebroker #homeequity #loanofficer",
       "hashtags": [
         "#SafetrustMortgage",
         "#MortgageIntelligenceDaily",
         "#mortgagebroker",
-        "#loanofficer",
-        "#housingmarket"
+        "#homeequity",
+        "#loanofficer"
       ],
-      "hook_tag": "Tech Disruption",
-      "hook": "Brokers can now counter a rival refinance offer while the borrower is still on the phone.",
-      "what_happened_heading": "Rocket launches Quick Counter tool",
-      "what_happened": "Rocket Pro introduced Quick Counter for November, allowing brokers to upload a competing Loan Estimate and generate a real time counteroffer. The tool operates through Rocket Pro Navigate and supports dynamic adjustments to rates, points, and terms.",
+      "hook_tag": "Product Shift",
+      "hook": "Home equity loans could outpace Non-QM volume by 2027.",
+      "what_happened_heading": "Equity loans surge as homeowners protect low rates",
+      "what_happened": "Executive Tom Davis at Deephaven Mortgage cited Nomura research showing home equity originations could surpass Non-QM (loans that do not meet agency standards) by 2027. Homeowners holding low primary mortgage rates are choosing second liens instead of giving up their current rates.",
       "breakdown": [
         {
-          "heading": "Real time rate adjustments",
-          "body": "Brokers can evaluate loan terms and tweak pricing instantly without waiting for a pricing desk or locking manually."
+          "heading": "Homeowners refuse to touch primary rates",
+          "body": "Borrowers sitting on sub-4 percent rates will not refinance their first mortgage. They are tapping accumulated equity through second liens to cash out without disturbing low fixed rates."
         },
         {
-          "heading": "Targeting the rate shopper",
-          "body": "The feature is specifically engineered to intercept borrowers who are shopping multiple lenders for the lowest possible cost."
+          "heading": "Underwriting shifts to second-lien risks",
+          "body": "Underwriters evaluate second liens differently than primary mortgages. We look closely at combined DTI (how much income goes to total debt) and maximum CLTV (combined loan-to-value ratio)."
         },
         {
-          "heading": "Underwriting reality check",
-          "body": "When a file hits underwriting from a hurried counteroffer, income and asset documentation must still satisfy strict agency guidelines."
+          "heading": "Second liens replace traditional refis",
+          "body": "High primary rates have effectively killed standard cash-out refinancing. Equity products are stepping in to fill the revenue gap for lenders and loan officers nationwide."
         },
         {
-          "heading": "Speed as a weapon",
-          "body": "The lender who responds first with a viable LE often wins the trust, even if pricing is identical."
+          "heading": "Pipeline strategy needs pivot now",
+          "body": "Originators relying purely on standard purchase and refinance products will miss the market shift. Adding structured second-lien options keeps your pipeline active when purchase volume slows."
         }
       ],
-      "my_take_heading": "Instant pricing wars will separate pros from order takers",
-      "my_take": "Automation means you can match a rate in seconds, but if you do not manage borrower expectations on fees, you will still lose the file at disclosure.",
-      "action_lo": "Learn to use live counter tools so you can protect your commission without destroying your lender relationships.",
-      "action_realtor": "Understand that quick lender responses matter just as much as quick seller responses in a competitive market.",
-      "cta_question": "Does instant price matching help brokers or just start a race to the bottom?"
+      "my_take_heading": "The real growth isn't refis but second liens",
+      "my_take": "Home equity is not just a secondary product line anymore; it is becoming the primary liquidity engine for existing homeowners who refuse to refinance.",
+      "action_lo": "Audit your database for homeowners with high equity and sub-4 percent primary rates to discuss second liens.",
+      "action_realtor": "Partner with lenders offering second-lien tools to help clients finance home improvements before selling.",
+      "cta_question": "Is your compensation structure ready for second liens to dominate your pipeline?"
     },
     {
-      "slug": "goldman-sachs-2027-rates",
-      "title": "Goldman Sachs Sees Mortgage Rates Falling to 6.4% in 2027",
-      "source": "The Truth About Mortgage",
-      "source_url": "https://www.thetruthaboutmortgage.com/goldman-sachs-sees-mortgage-rates-falling-to-6-4-in-2027/",
-      "cover_text": "Goldman calls a 6.4 percent rate future",
-      "caption": "Goldman Sachs just dropped its 2027 housing outlook, predicting the 30 year fixed will slide down to 6.4 percent. That is nearly a full percentage point drop from current levels hovering near 7.25 percent. Everyone in the industry is celebrating the eventual relief for affordability, but let us look at the pipeline implications. A sudden drop to mid sixes will unleash a massive wave of pent up demand and refi applications overnight. Is your operational capacity ready for the tidal wave? Read on for the strategic breakdown.\n\nSource : https://tinyurl.com/2b23hpna\n#SafetrustMortgage #MortgageIntelligenceDaily #mortgagerates #housingmarket #realestate",
+      "slug": "rate-compass-merge-mortgage-ventures",
+      "title": "Rate and Compass Merge Mortgage Ventures",
+      "source": "National Mortgage Professional",
+      "source_url": "https://nationalmortgageprofessional.com/news/rate-compass-merge-mortgage-ventures-plan-recruit-hundreds-los",
+      "cover_text": "Rate and Compass combine joint mortgage ventures",
+      "caption": "Rate and Compass are consolidating Guaranteed Rate Affinity and OriginPoint under the OriginPoint name to create a massive retail purchase platform. This move aims to recruit hundreds of loan officers and lock in purchase transactions across major agent networks. In underwriting, merging systems simplifies file flow and lowers operational costs per loan. However, for independent loan officers, it means direct competition from embedded lenders sitting right inside brokerage offices. To win, independent originators must deliver faster turn times and specialized loan products. How is your team positioning itself against corporate joint venture consolidation?\n\nSource : https://tinyurl.com/24rgofen\n#SafetrustMortgage #MortgageIntelligenceDaily #mortgagebroker #loanofficer #realestateagent",
       "hashtags": [
         "#SafetrustMortgage",
         "#MortgageIntelligenceDaily",
-        "#mortgagerates",
-        "#housingmarket",
-        "#realestate"
+        "#mortgagebroker",
+        "#loanofficer",
+        "#realestateagent"
       ],
-      "hook_tag": "Rate Forecast",
-      "hook": "Goldman Sachs predicts mortgage rates will fall to 6.4 percent by 2027.",
-      "what_happened_heading": "New Goldman Sachs forecast released",
-      "what_happened": "Goldman Sachs published its 2027 housing market outlook, projecting that the popular 30 year fixed mortgage rate will decline to 6.4 percent. This represents a significant drop from current levels that have remained stuck around the 7.25 percent mark.",
+      "hook_tag": "Industry Consolidation",
+      "hook": "Two joint ventures are merging to capture real estate agent flow.",
+      "what_happened_heading": "Guaranteed Rate Affinity and OriginPoint combine operations",
+      "what_happened": "Rate and Compass International Holdings are merging their joint ventures, Guaranteed Rate Affinity and OriginPoint, under the single OriginPoint name. The combined entity plans to recruit hundreds of loan officers to capture purchase business from brokerage networks.",
       "breakdown": [
         {
-          "heading": "The affordability gap",
-          "body": "Current rates near 7.25 percent have kept many potential buyers and sellers locked in place due to the rate lock effect."
+          "heading": "Consolidating scale for purchase capture",
+          "body": "Merging two distinct joint ventures pools operational resources into one national retail unit. The goal is capturing direct purchase leads from one of the largest real estate networks."
         },
         {
-          "heading": "Underwriting capacity prep",
-          "body": "A drop to 6.4 percent will trigger a surge in volume that will instantly stress test processing and underwriting departments."
+          "heading": "Underwriting integration streamlines processing flow",
+          "body": "From an underwriter standpoint, merging operations forces standardized file flow. Centralizing underwriting ops across agent networks improves turnaround times and reduces cost per loan."
         },
         {
-          "heading": "Inventory implications",
-          "body": "Lower rates will finally coax sidelined homeowners to sell, freeing up much needed inventory across major metro areas."
+          "heading": "Massive recruiting push for purchase LOs",
+          "body": "The merged company is aggressive about hiring hundreds of loan officers. They want originators who can embed directly into brokerage offices and capture incoming homebuyer leads."
         },
         {
-          "heading": "Refinance pipeline creation",
-          "body": "Borrowers locked in near 7.5 percent will immediately look to restructure their debt, creating a secondary refi boom."
+          "heading": "Independent originators face tighter competition",
+          "body": "Captive joint ventures restrict lead leakage to outside loan officers. Independent LOs must offer superior execution or niche products to compete against in-house brokerage lenders."
         }
       ],
-      "my_take_heading": "Do not wait for 6.4 percent to build your referral engine",
-      "my_take": "If you wait until rates actually hit the mid sixes to scale up your marketing and staffing, you will miss the entire wave.",
-      "action_lo": "Nurture your current database of high rate buyers now so you are top of mind when rates finally dip.",
-      "action_realtor": "Educate buyers on today's math so they do not sit on the sidelines waiting for a distant headline.",
-      "cta_question": "Are you operationally prepared for a sudden surge in volume if rates drop rapidly?"
+      "my_take_heading": "Retail survival requires direct real estate integration",
+      "my_take": "Joint ventures are consolidating to lock up purchase volume at the agent source, making in-house origination partnerships harder for independent lenders to beat.",
+      "action_lo": "Strengthen your unique value proposition to agents so you can compete against embedded corporate joint ventures.",
+      "action_realtor": "Evaluate whether your in-house mortgage partner delivers the speed and product depth your buyers actually need.",
+      "cta_question": "Will standalone retail lenders survive without direct real estate brokerage partnerships?"
     },
     {
-      "slug": "msr-multiples-near-7x",
-      "title": "MSRs Trade at Richest Levels in Decades as Lenders Pile In",
+      "slug": "uwm-q3-earnings-profit-swing",
+      "title": "UWM Swings to $213M Profit As Volume Slips",
+      "source": "National Mortgage Professional",
+      "source_url": "https://nationalmortgageprofessional.com/news/uwm-swings-213m-profit-expenses-fall-loan-volume-slips",
+      "cover_text": "UWM hits profit despite falling volume",
+      "caption": "United Wholesale Mortgage reported $212.6 million in third-quarter net income after losing $451.9 million in Q2, despite lower production and compressed gain-on-sale margins. The earnings swing was driven by aggressive expense management and operational discipline. From an underwriter's view, operational efficiency cuts cost per file and keeps processing lean when volume drops. Relying on high volume or wide margins is no longer a viable strategy in today's rate environment. Originators and lenders must audit overhead to protect net income. Are you trimming operational costs or relying on future rate cuts?\n\nSource : https://tinyurl.com/2co53o7g\n#SafetrustMortgage #MortgageIntelligenceDaily #mortgagebroker #loanofficer #housingmarket",
+      "hashtags": [
+        "#SafetrustMortgage",
+        "#MortgageIntelligenceDaily",
+        "#mortgagebroker",
+        "#loanofficer",
+        "#housingmarket"
+      ],
+      "hook_tag": "Operational Strategy",
+      "hook": "UWM turned a profit by cutting expenses while loan volume dropped.",
+      "what_happened_heading": "Expense cuts drive third quarter profit reversal",
+      "what_happened": "United Wholesale Mortgage reported $212.6 million in net income for the third quarter, swinging from a $451.9 million loss in the previous quarter. The profit occurred even as total loan production and gain-on-sale margins (the profit margin on sold loans) declined.",
+      "breakdown": [
+        {
+          "heading": "Cost reduction beats volume growth",
+          "body": "Production volume slipped, but strict expense management pulled the overall balance sheet into the black. Profitability in slow markets comes from trimming costs, not chasing unprofitable volume."
+        },
+        {
+          "heading": "Underwriting efficiency directly protects margins",
+          "body": "Underwriters know that operational speed saves money per file. Automated verification and clean initial submissions reduce processing touches and overhead during volume downturns."
+        },
+        {
+          "heading": "Gain-on-sale compression limits overall revenue",
+          "body": "Margins on loan sales continue to squeeze across the mortgage industry. Lenders cannot rely on wide margins to cover bloated back-office expenses during high-rate cycles."
+        },
+        {
+          "heading": "Wholesale channel demands lean operations",
+          "body": "Wholesale platforms must stay operationally efficient to survive market swings. Broker lenders who control overhead will outperform competitors waiting for a rate drop."
+        }
+      ],
+      "my_take_heading": "Cutting overhead matters more than chasing volume",
+      "my_take": "Generating net income during a volume slump proves that operational efficiency and expense control matter far more than sheer origination numbers.",
+      "action_lo": "Cut unnecessary software subscriptions and focus your marketing spend only on high-converting referral partners.",
+      "action_realtor": "Work with wholesale lenders whose operational speed prevents delayed closings during tight market conditions.",
+      "cta_question": "Is your mortgage operation focused on cutting costs or blindly waiting for volume to return?"
+    },
+    {
+      "slug": "florida-amendment-3-property-tax-break",
+      "title": "Florida Voters Pass Property Tax Relief Measure",
       "source": "HousingWire",
-      "source_url": "https://www.housingwire.com/articles/msr-multiples-near-7x/",
-      "cover_text": "MSR multiples are hitting historic highs",
-      "caption": "Mortgage servicing rights are trading at some of the richest levels in decades, pushing near 7x multiples as lenders and funds aggressively pile in. Meanwhile, major players are taking completely opposite strategies, with some leaning into full retention while others execute massive bulk sales. If you want to understand where industry cash is flowing, look at the MSR market. High multiples mean companies with large servicing books are sitting on immense balance sheet value while pure originators scramble. Here is the insider breakdown.\n\nSource : https://tinyurl.com/27hgzc7e\n#SafetrustMortgage #MortgageIntelligenceDaily #mortgagebroker #housingmarket #realestateinvesting",
+      "source_url": "https://www.housingwire.com/articles/florida-amendment-3-passes/",
+      "cover_text": "Florida tax breaks change buyer qualifications",
+      "caption": "Florida voters approved Amendment 3 with 62 percent support, creating property tax relief that could reduce local revenue by nearly $5 billion by 2027-2028. For underwriting, lower property taxes mean lower monthly escrow payments, which directly reduces DTI (how much income goes to debt) ratios for buyers. This helps borderline buyers qualify for higher loan amounts right now. However, missing municipal revenue could eventually lead to higher local fees or infrastructure challenges down the road. Loan officers should recalculate buyer qualifying power immediately while monitoring long-term community costs. How are tax changes affecting your buyer calculations?\n\nSource : https://tinyurl.com/23jbkq75\n#SafetrustMortgage #MortgageIntelligenceDaily #realestateagent #homebuying #housingmarket",
       "hashtags": [
         "#SafetrustMortgage",
         "#MortgageIntelligenceDaily",
-        "#mortgagebroker",
-        "#housingmarket",
-        "#realestateinvesting"
-      ],
-      "hook_tag": "Market Asset",
-      "hook": "Mortgage servicing rights are trading at near 7x multiples, the richest levels in decades.",
-      "what_happened_heading": "MSR valuations reach historic peaks",
-      "what_happened": "MSRs are commanding historic highs as institutional funds and lenders compete fiercely for servicing assets. Industry strategies are diverging sharply, highlighted by Rate maintaining a full retention stance while UWM executes a large bulk sale.",
-      "breakdown": [
-        {
-          "heading": "The value of servicing",
-          "body": "With origination margins squeezed, owning the servicing asset provides the recurring cash flow required to keep operations profitable."
-        },
-        {
-          "heading": "Diverging corporate strategies",
-          "body": "Some lenders refuse to sell a single servicing asset, betting on long term retention, while others cash out via bulk sales."
-        },
-        {
-          "heading": "Underwriter risk perspective",
-          "body": "High MSR values reflect expectations that current high interest rate loans will stay on the books longer without prepaying."
-        },
-        {
-          "heading": "Balance sheet strength",
-          "body": "A robust MSR portfolio acts as the ultimate financial shock absorber when production volume drops off a cliff."
-        }
-      ],
-      "my_take_heading": "The originators who own their servicing will survive any rate cycle",
-      "my_take": "If you are only originating and selling your paper without retaining servicing, you are building a house on rented land.",
-      "action_lo": "Understand your company's retention strategy so you know how your closed loans contribute to the broader enterprise value.",
-      "action_realtor": "Work with lenders who have robust balance sheets backed by valuable servicing assets for ultimate stability.",
-      "cta_question": "Is full portfolio retention the smartest play in today's high rate environment?"
-    }
-  ],
-  "carousels_es": [
-    {
-      "slug": "pennymac-origination-loss",
-      "title": "Pennymac hizo $29M, pero su negocio de originación perdió dinero",
-      "source": "National Mortgage Professional",
-      "source_url": "https://nationalmortgageprofessional.com/nationalmortgageprofessional.com/news/pennymac-made-29m-its-origination-business-lost-money",
-      "cover_text": "La producción está perdiendo dinero ahora",
-      "caption": "Cuando gigantes como Pennymac pierden 7 millones en producción pero ganan dinero administrando préstamos, la realidad del mercado queda bastante clara. Hoy en día, el volumen por sí solo no alcanza para mantener el negocio a flote cuando los márgenes están tan apretados. Los prestamistas dependen cada vez más de sus portafolios de administración de préstamos para sobrevivir a este ciclo de tasas de interés. Esto obliga a toda la industria a reducir costos y buscar una mayor eficiencia en sus operaciones. Si manejas una sucursal o una compañía hipotecaria independiente, necesitas auditar tu costo por préstamo inmediatamente. La clave está en cuidar la rentabilidad de cada transacción y optimizar tus procesos operativos. Lee los detalles a continuación.\n\nFuente : https://tinyurl.com/24ntqjvn\n#SafetrustMortgage #MortgageIntelligenceDaily #loanofficer #mortgagebroker #housingmarket",
-      "hashtags": [
-        "#SafetrustMortgage",
-        "#MortgageIntelligenceDaily",
-        "#loanofficer",
-        "#mortgagebroker",
+        "#realestateagent",
+        "#homebuying",
         "#housingmarket"
       ],
-      "hook_tag": "Realidad Financiera",
-      "hook": "Hasta los prestamistas más grandes pierden dinero en cada préstamo ahora.",
-      "what_happened_heading": "Pennymac reporta pérdidas en producción",
-      "what_happened": "Pennymac reportó 29 millones de dólares en ganancias netas para el tercer trimestre, pero su segmento de producción hipotecaria sufrió una pérdida de 7 millones de dólares antes de impuestos. Esto revirtió la ganancia de 38 millones del trimestre anterior, ya que las altas tasas redujeron los márgenes de originación.",
+      "hook_tag": "Tax Policy",
+      "hook": "Florida voters passed property tax breaks that impact local budgets.",
+      "what_happened_heading": "Voters approve property tax exemption expansion",
+      "what_happened": "Florida voters passed Amendment 3 with 62 percent approval, expanding property tax relief for homeowners. Estimates project the measure will reduce local government revenue by nearly $5 billion during the 2027-2028 fiscal year.",
       "breakdown": [
         {
-          "heading": "El respaldo de la administración",
-          "body": "Los ingresos por administración de préstamos mantuvieron a la empresa en ganancias, a pesar de los números rojos en la originación."
+          "heading": "Property tax relief lowers monthly debt",
+          "body": "Lower property taxes reduce the escrow portion of a buyer's monthly mortgage payment. This tax cut directly lowers monthly housing expenses for qualifying state homeowners."
         },
         {
-          "heading": "Presión en la evaluación del asesor",
-          "body": "Cuando un expediente llega al asesor (underwriter), el costo de procesarlo supera el ingreso generado en muchos casos."
+          "heading": "Underwriting DTI improves instantly for buyers",
+          "body": "Lower tax amounts decrease total monthly debt obligations. Underwriters see lower DTI (how much income goes to debt) ratios, helping borderline buyers qualify for higher purchase prices."
         },
         {
-          "heading": "Recortes de personal",
-          "body": "La empresa está recortando empleos y acelerando la automatización para sobrevivir a la caída sostenida de márgenes en producción."
+          "heading": "Municipal revenue loss affects local infrastructure",
+          "body": "A projected $5 billion local revenue loss by 2027-2028 could impact municipal services. Reductions in local infrastructure funding can influence long-term community value and utility costs."
         },
         {
-          "heading": "La ilusión del volumen",
-          "body": "Originar más unidades no arregla tus finanzas si cada préstamo cuesta más cerrarlo de lo que realmente genera."
+          "heading": "Tax savings alter cost of ownership math",
+          "body": "Agents and lenders must recalculate holding costs for buyers. Tax changes shift ongoing housing expense ratios, impacting overall home affordability calculations in Florida."
         }
       ],
-      "my_take_heading": "El volumen sin margen es solo una liquidación lenta",
-      "my_take": "Si tu negocio depende del volumen para cubrir costos altos, solo estás perdiendo dinero más rápido. La administración de préstamos es lo único que mantiene a flote a los gigantes en este momento.",
-      "action_lo": "Audita la economía de tu cartera y enfócate en aliados que traigan compras de alto margen.",
-      "action_realtor": "Alíate con prestamistas que tengan fuentes de ingresos variadas y respaldo financiero sólido.",
-      "cta_question": "¿Tus márgenes actuales de originación cubren todos tus gastos operativos hoy?"
-    },
-    {
-      "slug": "rocket-quick-counter",
-      "title": "Nueva herramienta de Rocket permite contraofertar a la competencia",
-      "source": "National Mortgage Professional",
-      "source_url": "https://nationalmortgageprofessional.com/news/rockets-new-tool-lets-brokers-counter-rival-refi-offers-spot",
-      "cover_text": "Respuesta inmediata para clientes que buscan tasas",
-      "caption": "Los clientes comparan Estimaciones de Préstamo más rápido que nunca, y los brokers por fin tienen tecnología para defenderse. La nueva herramienta Quick Counter de Rocket Pro permite subir una estimación de la competencia y ajustar precios mientras el cliente está al teléfono. Esto cambia la forma de retener y convertir prospectos de refinanciación. Sin embargo, actuar rápido sin disciplina en la evaluación del asesor (underwriter) puede provocar problemas de recompra más adelante. En el mercado actual, la velocidad debe ir de la mano con una revisión detallada de cada expediente. Si no explicas bien los costos operativos, corres el riesgo de perder la confianza del comprador. Revisa la información completa a continuación para proteger tus operaciones.\n\nFuente : https://tinyurl.com/25lpcsck\n#SafetrustMortgage #MortgageIntelligenceDaily #mortgagebroker #loanofficer #housingmarket",
-      "hashtags": [
-        "#SafetrustMortgage",
-        "#MortgageIntelligenceDaily",
-        "#mortgagebroker",
-        "#loanofficer",
-        "#housingmarket"
-      ],
-      "hook_tag": "Innovación Tecnológica",
-      "hook": "Los brokers ya pueden responder a ofertas competidoras durante la llamada.",
-      "what_happened_heading": "Rocket lanza la herramienta Quick Counter",
-      "what_happened": "Rocket Pro presentó Quick Counter este mes, permitiendo a los brokers subir la Estimación de Préstamo (Loan Estimate) de un competidor y generar una contraoferta al instante. La herramienta funciona mediante Rocket Pro Navigate y permite hacer ajustes inmediatos a tasas, puntos y términos.",
-      "breakdown": [
-        {
-          "heading": "Ajustes de tasa en tiempo real",
-          "body": "Los brokers pueden evaluar condiciones y cambiar precios al instante sin esperar a la mesa de cotizaciones."
-        },
-        {
-          "heading": "Enfoque en el cliente comparador",
-          "body": "La función está diseñada para retener a prestatarios que buscan entre varias opciones el costo más bajo posible."
-        },
-        {
-          "heading": "Verificación real del asesor",
-          "body": "Cuando la solicitud llega al asesor (underwriter), la documentación de ingresos y activos aún debe cumplir con las reglas."
-        },
-        {
-          "heading": "La rapidez como ventaja",
-          "body": "El prestamista que responde primero con una estimación viable suele ganar la confianza del cliente."
-        }
-      ],
-      "my_take_heading": "La guerra de precios al instante separará a los profesionales",
-      "my_take": "La automatización te permite igualar una tasa en segundos. Sin embargo, si no gestionas las expectativas del cliente sobre los costos, perderás el préstamo al momento de los cierres.",
-      "action_lo": "Aprende a usar herramientas de contraoferta en vivo para proteger tus comisiones sin dañar tus alianzas.",
-      "action_realtor": "Comprende que las respuestas rápidas del prestamista son tan importantes como las del vendedor en mercados competitivos.",
-      "cta_question": "¿Tener precios iguales ayuda a los brokers o crea una competencia dañina?"
-    },
-    {
-      "slug": "goldman-sachs-2027-rates",
-      "title": "Goldman Sachs prevé tasas hipotecarias cayendo a 6.4% en 2027",
-      "source": "The Truth About Mortgage",
-      "source_url": "https://www.thetruthaboutmortgage.com/goldman-sachs-sees-mortgage-rates-falling-to-6-4-in-2027/",
-      "cover_text": "Goldman prevé tasas de 6.4% para 2027",
-      "caption": "Goldman Sachs acaba de publicar sus proyecciones para 2027, estimando que la tasa fija a 30 años caerá al 6.4%. Ese descenso de casi un punto completo respecto al 7.25% actual trae esperanza para la accesibilidad de la vivienda. Sin embargo, debemos analizar lo que esto significa para tu capacidad de procesamiento. Una caída rápida hacia el 6.4% desatará una ola masiva de demanda acumulada y solicitudes de refinanciación de un día para otro. ¿Está tu capacidad operativa lista para este volumen? Si no preparas a tu equipo y tus alianzas comerciales desde ahora, no podrás manejar la demanda cuando el mercado cambie. Continúa leyendo para conocer las implicaciones estratégicas de este pronóstico.\n\nFuente : https://tinyurl.com/2b23hpna\n#SafetrustMortgage #MortgageIntelligenceDaily #mortgagerates #housingmarket #realestate",
-      "hashtags": [
-        "#SafetrustMortgage",
-        "#MortgageIntelligenceDaily",
-        "#mortgagerates",
-        "#housingmarket",
-        "#realestate"
-      ],
-      "hook_tag": "Pronóstico de Tasas",
-      "hook": "Goldman Sachs prevé que las tasas bajarán al 6.4% para 2027.",
-      "what_happened_heading": "Nuevo pronóstico publicado por Goldman Sachs",
-      "what_happened": "Goldman Sachs publicó su proyección inmobiliaria hacia 2027, estimando que la tasa fija a 30 años bajará hasta un 6.4%. Esto representa una caída significativa frente a los niveles actuales que siguen atascados cerca del 7.25%.",
-      "breakdown": [
-        {
-          "heading": "La brecha de asequibilidad",
-          "body": "Las tasas actuales cerca del 7.25% mantienen frenados a muchos compradores y vendedores por el efecto de congelamiento."
-        },
-        {
-          "heading": "Capacidad del asesor",
-          "body": "Una caída al 6.4% generará un aumento de solicitudes que pondrá a prueba a los asesores (underwriters) y procesadores."
-        },
-        {
-          "heading": "Impacto en el inventario",
-          "body": "Las tasas más bajas animarán a más propietarios a vender, liberando inventario necesario en las grandes ciudades."
-        },
-        {
-          "heading": "Oportunidad de refinanciación",
-          "body": "Quienes tienen préstamos cercanos al 7.5% buscarán reestructurar su deuda, creando una nueva ola de refinanciamientos."
-        }
-      ],
-      "my_take_heading": "No esperes a que bajen las tasas para preparar tu negocio",
-      "my_take": "Si esperas a que las tasas bajen a mediados del 6% para escalar tu mercadeo y personal, te perderás toda la ola. Prepárate desde hoy.",
-      "action_lo": "Atiende a tu base de datos de compradores con tasas altas para estar listo cuando finalmente bajen.",
-      "action_realtor": "Educa a tus compradores sobre los números actuales para que no se queden esperando pronósticos lejanos.",
-      "cta_question": "¿Está tu equipo preparado operativamente si el volumen de solicitudes aumenta de golpe?"
-    },
-    {
-      "slug": "msr-multiples-near-7x",
-      "title": "MSR cotizan en niveles máximos mientras entran más prestamistas",
-      "source": "HousingWire",
-      "source_url": "https://www.housingwire.com/articles/msr-multiples-near-7x/",
-      "cover_text": "Los múltiplos de MSR alcanzan máximos históricos",
-      "caption": "Los derechos de administración de préstamos (MSR) se negocian en sus niveles más altos en décadas, alcanzando múltiplos cercanos a 7x. Al mismo tiempo, las grandes empresas están tomando caminos opuestos: algunas deciden conservar todo su portafolio, mientras otras realizan ventas masivas en bloque. Si quieres entender hacia dónde fluye el dinero en la industria hipotecaria, observa detenidamente el mercado de MSR. Estos múltiplos altos significan que las empresas con grandes carteras de administración tienen un valor sólido en sus balances generales, mientras que los originadores puros sufren. La clave está en contar con ingresos estables que respalden la operación cuando baja la producción. Lee a continuación el análisis completo sobre estas dinámicas de mercado.\n\nFuente : https://tinyurl.com/27hgzc7e\n#SafetrustMortgage #MortgageIntelligenceDaily #mortgagebroker #housingmarket #realestateinvesting",
-      "hashtags": [
-        "#SafetrustMortgage",
-        "#MortgageIntelligenceDaily",
-        "#mortgagebroker",
-        "#housingmarket",
-        "#realestateinvesting"
-      ],
-      "hook_tag": "Activos de Mercado",
-      "hook": "Los derechos de administración hipotecaria cotizan en múltiplos cercanos a 7x.",
-      "what_happened_heading": "Las valoraciones de MSR alcanzan máximos históricos",
-      "what_happened": "Los derechos de administración de préstamos (MSR) registran máximos históricos mientras fondos e instituciones compiten fuertemente por estos activos. Las estrategias corporativas se dividen, destacando a Rate manteniendo la administración total mientras UWM realiza una venta masiva.",
-      "breakdown": [
-        {
-          "heading": "El valor de la administración",
-          "body": "Con los márgenes de originación apretados, conservar los derechos de administración brinda los ingresos recurrentes para mantener la rentabilidad."
-        },
-        {
-          "heading": "Estrategias corporativas opuestas",
-          "body": "Algunos prestamistas prefieren conservar cada contrato apostando al largo plazo, mientras otros prefieren vender en bloque para obtener efectivo."
-        },
-        {
-          "heading": "Perspectiva del asesor sobre el riesgo",
-          "body": "El alto valor de los MSR refleja expectativas de que los préstamos actuales con tasas altas durarán más sin prepago."
-        },
-        {
-          "heading": "Solidez del balance general",
-          "body": "Un portafolio fuerte de administración actúa como el amortiguador financiero ideal cuando el volumen de producción cae drásticamente."
-        }
-      ],
-      "my_take_heading": "Los originadores con administración propia sobrevivirán a cualquier ciclo",
-      "my_take": "Si solo originas y vendes tus préstamos sin conservar los derechos de administración, estás construyendo tu negocio en terreno alquilado. La estabilidad real requiere ingresos recurrentes.",
-      "action_lo": "Entiende la estrategia de conservación de tu empresa para saber cómo tus cierres aportan al valor corporativo.",
-      "action_realtor": "Trabaja con prestamistas que tengan balances sólidos respaldados por activos de administración para mayor estabilidad.",
-      "cta_question": "¿Es la retención total de la administración la mejor estrategia en este entorno de altas tasas?"
+      "my_take_heading": "Short-term qualification boost has long-term tradeoffs",
+      "my_take": "Property tax cuts instantly help buyers pass DTI underwriting checks, but severe local revenue losses will eventually shift costs back onto homeowners.",
+      "action_lo": "Recalculate buyer qualifying budgets using updated property tax figures to maximize purchase power.",
+      "action_realtor": "Highlight lower annual property holding costs when pitching homes to price-sensitive buyers.",
+      "cta_question": "Will tax cuts offset rising insurance and local infrastructure costs for your buyers long term?"
     }
   ]
 }
