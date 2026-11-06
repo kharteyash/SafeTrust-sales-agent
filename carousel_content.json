@@ -168,5 +168,175 @@
       "action_realtor": "Target out-of-state buyers with marketing that highlights the December 2026 residency deadline.",
       "cta_question": "Are your out-of-state clients aware of the 2026 Florida residency deadline?"
     }
+  ],
+  "carousels_es": [
+    {
+      "slug": "cfpb-supervisory-action-drop",
+      "title": "La CFPB cierra el 86% de sus acciones de supervisión",
+      "source": "National Mortgage Professional",
+      "source_url": "https://nationalmortgageprofessional.com/news/cfpb-closes-40-investigations-keeps-mortgage-enforcement-focus",
+      "cover_text": "La CFPB reduce sus inspecciones federales",
+      "caption": "La CFPB cerró el 86% de sus acciones de supervisión abiertas y redujo las auditorías a la mitad, pero los prestamistas no deberían celebrar todavía. Cuando los reguladores federales se retiran, los inversionistas del mercado secundario intervienen para proteger sus balances. Eso significa que el control de calidad de los inversionistas se volverá más estricto. Como alguien que pasó una década como asesor evaluando préstamos, puedo decirte que los reclamos de recompra traen sanciones mucho más duras que las advertencias administrativas. Los prestamistas que relajen sus controles de cumplimiento ahora mismo se exponen a severas exigencias de recompra en seis meses. Los originadores inteligentes ajustarán sus auditorías internas antes de que los inversionistas lo hagan por ellos.\n\nFuente : https://tinyurl.com/2c68yppe\n#SafetrustMortgage #MortgageIntelligenceDaily #mortgagebroker #loanofficer #housingmarket",
+      "hashtags": [
+        "#SafetrustMortgage",
+        "#MortgageIntelligenceDaily",
+        "#mortgagebroker",
+        "#loanofficer",
+        "#housingmarket"
+      ],
+      "hook_tag": "Cambio regulatorio",
+      "hook": "Menos inspecciones federales no bajan tu riesgo al evaluar préstamos.",
+      "what_happened_heading": "Los reguladores federales cierran la mayoría de auditorías",
+      "what_happened": "La Oficina de Protección Financiera del Consumidor cerró 66 de sus 80 inspecciones abiertas y el 86% de sus acciones de supervisión. Además, las auditorías programadas cayeron un 50% según su informe oficial.",
+      "breakdown": [
+        {
+          "heading": "Una marcada caída en la supervisión",
+          "body": "Cerrar el 86% de las acciones de supervisión representa una reducción histórica en las auditorías federales para los prestamistas hipotecarios."
+        },
+        {
+          "heading": "Los inversionistas llenarán ese vacío",
+          "body": "Cuando los reguladores federales se retiran, los inversionistas del mercado secundario aumentan sus propias revisiones de control de calidad para proteger sus balances."
+        },
+        {
+          "heading": "Los criterios de evaluación no cambian",
+          "body": "Como asesor de préstamos, sé que los reclamos de recompra de los inversionistas duelen más que las multas regulatorias cuando suben los defectos."
+        },
+        {
+          "heading": "El control interno se vuelve vital",
+          "body": "Los prestamistas deben mantener un control estricto de cumplimiento porque las auditorías de inversionistas privados reemplazarán la falta de supervisión de la CFPB."
+        }
+      ],
+      "my_take_heading": "Menos regulación traslada el riesgo a los inversionistas",
+      "my_take": "Una CFPB más tranquila no significa préstamos más fáciles. Significa que los inversionistas del mercado secundario serán tus principales supervisores y exigirán recompensas sin ninguna tolerancia.",
+      "action_lo": "Revisa tus registros de auditoría ahora mismo para evitar reclamos de recompra de inversionistas.",
+      "action_realtor": "Trabaja con prestamistas que mantengan controles de calidad estrictos para que los negocios no se caigan al final.",
+      "cta_question": "¿Tu equipo está ajustando su control de calidad interno ahora que bajan las inspecciones federales?"
+    },
+    {
+      "slug": "buyer-leverage-pending-sales-drop",
+      "title": "Caen ventas pendientes a pesar de rebajas de precios",
+      "source": "National Mortgage Professional",
+      "source_url": "https://nationalmortgageprofessional.com/news/redfin-homebuyers-gain-leverage-pending-sales-keep-sliding",
+      "cover_text": "Los precios bajaron pero los compradores desaparecieron",
+      "caption": "Los precios de las viviendas están bajando y los vendedores ofrecen más concesiones, pero las ventas pendientes cayeron un 16.4% interanual a niveles mínimos. La suposición tradicional es que los descuentos activan la demanda, pero los compradores de hoy siguen paralizados. Desde la perspectiva de un asesor, las cancelaciones en el proceso rara vez ocurren por falta de crédito o exceso de deudas. Los compradores calificados simplemente dudan debido al clima económico general. Para cerrar negocios hoy, originadores y agentes deben estructurar acuerdos con créditos estratégicos del vendedor, en lugar de esperar que una pequeña rebaja saque a los compradores de la reserva.\n\nFuente : https://tinyurl.com/2av2v3ht\n#SafetrustMortgage #MortgageIntelligenceDaily #housingmarket #realestateagent #homebuying",
+      "hashtags": [
+        "#SafetrustMortgage",
+        "#MortgageIntelligenceDaily",
+        "#housingmarket",
+        "#realestateagent",
+        "#homebuying"
+      ],
+      "hook_tag": "Dinámica del mercado",
+      "hook": "Bajar los precios ya no es suficiente para atraer compradores.",
+      "what_happened_heading": "Las ventas pendientes caen a mínimos históricos",
+      "what_happened": "Las ventas de viviendas pendientes cayeron un 16.4% interanual en las cuatro semanas que terminaron el 1 de noviembre, alcanzando mínimos históricos. Al mismo tiempo, los precios de las casas y los pagos mensuales bajaron mientras aumentaron las concesiones de los vendedores.",
+      "breakdown": [
+        {
+          "heading": "Los compradores tienen todo el poder",
+          "body": "Los vendedores están cada vez más dispuestos a negociar condiciones, pero los compradores prefieren mantenerse al margen sin tomar decisiones."
+        },
+        {
+          "heading": "El alivio en los pagos no basta",
+          "body": "Pequeñas bajadas en los pagos mensuales de la vivienda no están generando nuevos contratos en los principales mercados del país."
+        },
+        {
+          "heading": "Los expedientes muestran dudas en compradores",
+          "body": "Como asesor veo compradores aprobados frenados porque la incertidumbre económica pesa más que los pequeños descuentos en los precios."
+        },
+        {
+          "heading": "El inventario se acumula en silencio",
+          "body": "Las nuevas propiedades en venta cayeron a mínimos anuales, pero el inventario total disponible sigue alto debido al lento ritmo de ventas."
+        }
+      ],
+      "my_take_heading": "Bajar precios no solucionará la duda del comprador",
+      "my_take": "Las rebajas de precios no están activando la demanda porque los compradores están paralizados por la incertidumbre, no por las matemáticas. Esperar precios más bajos no devolverá la confianza perdida.",
+      "action_lo": "Reenfoca las comparaciones de pagos en reducciones temporales de tasa pagadas por el vendedor en lugar de simples rebajas de precio.",
+      "action_realtor": "Enseña a los vendedores a ofrecer créditos para costos de cierre en vez de reducir únicamente el precio de lista.",
+      "cta_question": "¿Cómo estás logrando que los compradores den el paso en este mercado?"
+    },
+    {
+      "slug": "ai-database-loan-officers",
+      "title": "Startup indexa 224,000 oficiales de crédito para IA",
+      "source": "National Mortgage Professional",
+      "source_url": "https://nationalmortgageprofessional.com/news/new-ai-run-mortgage-startup-builds-database-224000-los",
+      "cover_text": "La inteligencia artificial decide a quién recomendar",
+      "caption": "El estudio Draper Goren Blockchain lanzó LenDb.ai, una base de datos gratuita con 224,000 registros de oficiales de crédito diseñada para asistentes de inteligencia artificial como ChatGPT y Claude. A medida que las personas cambian los buscadores tradicionales por la IA conversacional, la forma en que estas herramientas encuentran tu información definirá tus clientes potenciales. Al evaluar un expediente como asesor, los datos limpios son obligatorios, y los motores de IA aplican esa misma lógica. Si tus licencias o datos en línea tienen errores, la IA te ignorará por completo. Optimizar tu presencia digital para la inteligencia artificial ya no es opcional.\n\nFuente : https://tinyurl.com/242oatpt\n#SafetrustMortgage #MortgageIntelligenceDaily #mortgagebroker #loanofficer #mortgagerates",
+      "hashtags": [
+        "#SafetrustMortgage",
+        "#MortgageIntelligenceDaily",
+        "#mortgagebroker",
+        "#loanofficer",
+        "#mortgagerates"
+      ],
+      "hook_tag": "Innovación tecnológica",
+      "hook": "La inteligencia artificial es el nuevo buscador de prestamistas hipotecarios.",
+      "what_happened_heading": "LenDb crea gran base de datos de oficiales",
+      "what_happened": "El estudio de capital Draper Goren Blockchain lanzó LenDb.ai para enviar datos de oficiales de crédito directamente a plataformas de inteligencia artificial. Esta base de datos gratuita organiza registros de más de 224,000 profesionales hipotecarios en Estados Unidos para consultas avanzadas.",
+      "breakdown": [
+        {
+          "heading": "Integración directa con grandes modelos",
+          "body": "La base de datos está diseñada para que asistentes de inteligencia artificial como ChatGPT y Claude consulten la información durante las búsquedas de usuarios."
+        },
+        {
+          "heading": "Cambian los hábitos de búsqueda",
+          "body": "Los compradores de vivienda están dejando los buscadores tradicionales para usar herramientas de inteligencia artificial conversacional al buscar recomendaciones financieras."
+        },
+        {
+          "heading": "Riesgos en la huella digital",
+          "body": "Como asesor sé que datos públicos inconsistentes retrasan préstamos; la inteligencia artificial filtrará de inmediato los perfiles con datos incorrectos."
+        },
+        {
+          "heading": "El registro NMLS cobra importancia",
+          "body": "La plataforma recopila datos verificables de licencias y producción para clasificar a los profesionales de la industria en las consultas de inteligencia artificial."
+        }
+      ],
+      "my_take_heading": "La calidad de tus datos define tus prospectos",
+      "my_take": "Muchos oficiales de crédito gastan miles en publicidad local mientras ignoran cómo la inteligencia artificial ve sus datos públicos. Si la IA no puede verificar tu registro, simplemente no existes para los nuevos compradores.",
+      "action_lo": "Audita de inmediato la precisión de tu perfil en el registro público NMLS y tus redes profesionales.",
+      "action_realtor": "Asegúrate de que tus prestamistas aliados tengan perfiles digitales limpios para aparecer juntos en búsquedas con inteligencia artificial.",
+      "cta_question": "¿Ya revisaste cómo te describen los asistentes de inteligencia artificial en tu negocio hipotecario?"
+    },
+    {
+      "slug": "florida-amendment-3-residency-deadline",
+      "title": "Exención fiscal en Florida fija fecha límite",
+      "source": "HousingWire",
+      "source_url": "https://www.housingwire.com/articles/florida-amendment-3-cutoff/",
+      "cover_text": "El beneficio fiscal exige residencia en 2026",
+      "caption": "La Enmienda 3 de Florida aumentará la exención de vivienda habitual a $250,000 en 2028, pero el verdadero detalle es la fecha límite. Para aprovechar este beneficio fiscal, los compradores deben establecer su residencia en Florida antes del 31 de diciembre de 2026. Como asesor evaluando préstamos, sé que demostrar la residencia principal exige documentación impecable, desde licencias estatales hasta planillas de impuestos. Quienes esperen hasta finales de 2026 para cerrar podrían perder el beneficio por demoras en el proceso. Los agentes y oficiales de crédito inteligentes deben orientar a sus clientes fuera del estado hoy mismo para capturar esta demanda a tiempo.\n\nFuente : https://tinyurl.com/2b4v9nol\n#SafetrustMortgage #MortgageIntelligenceDaily #housingmarket #realestateinvesting #homebuying",
+      "hashtags": [
+        "#SafetrustMortgage",
+        "#MortgageIntelligenceDaily",
+        "#housingmarket",
+        "#realestateinvesting",
+        "#homebuying"
+      ],
+      "hook_tag": "Estrategia fiscal",
+      "hook": "Una exención fiscal futura acelera decisiones inmobiliarias desde hoy.",
+      "what_happened_heading": "Florida establece fecha límite de residencia",
+      "what_happened": "La Enmienda 3 de Florida aumentará la exención de vivienda habitual (homestead) a $250,000 en 2028 para propietarios calificados. Sin embargo, los compradores deben establecer su residencia oficial en Florida antes del 31 de diciembre de 2026 para calificar al beneficio.",
+      "breakdown": [
+        {
+          "heading": "Gran ahorro en impuestos de propiedad",
+          "body": "Aumentar la exención de vivienda habitual a $250,000 ofrece un alivio fiscal significativo para los propietarios de viviendas en Florida a largo plazo."
+        },
+        {
+          "heading": "La fecha límite genera urgencia",
+          "body": "Los compradores deben mudarse y establecer su residencia antes de terminar 2026 para asegurar su derecho al beneficio fiscal de 2028."
+        },
+        {
+          "heading": "Evaluación estricta de documentos",
+          "body": "Como asesor se requiere evidencia clara de ocupación principal, incluyendo licencias de conducir y declaraciones de impuestos, para validar la exención."
+        },
+        {
+          "heading": "Se espera un aumento de compradores",
+          "body": "Se anticipa que esta fecha límite acelere la demanda de compradores en todo el mercado de Florida de aquí al final de 2026."
+        }
+      ],
+      "my_take_heading": "Los plazos legales aceleran la demanda con anticipación",
+      "my_take": "La Enmienda 3 no es un tema para 2028, es un motor para 2026. Los compradores que esperen hasta el último minuto enfrentarán trabas al verificar los requisitos de residencia principal.",
+      "action_lo": "Prepara una lista de verificación de residencia para clientes que se mudan a Florida desde otros estados.",
+      "action_realtor": "Dirige tus campañas a compradores fuera del estado destacando la fecha límite de residencia de diciembre de 2026.",
+      "cta_question": "¿Tus clientes fuera del estado conocen la fecha límite de residencia de 2026 en Florida?"
+    }
   ]
 }
