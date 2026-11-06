@@ -1,96 +1,12 @@
 {
   "carousels": [
     {
-      "slug": "home-equity-lending-overtake-non-qm",
-      "title": "Home Equity Lending Could Overtake Non-QM By 2027",
+      "slug": "cfpb-supervisory-action-drop",
+      "title": "CFPB Closes 86% of Supervisory Actions",
       "source": "National Mortgage Professional",
-      "source_url": "https://nationalmortgageprofessional.com/news/home-equity-lending-could-overtake-non-qm-2027",
-      "cover_text": "Equity lending is taking over Non-QM",
-      "caption": "Home equity lending is set to outpace Non-QM originations by 2027 as homeowners refuse to give up their low primary rates. Executives are already seeing second liens take over pipeline share across the country. As an underwriter, I evaluate second liens with a sharp focus on combined loan-to-value and total debt ratios. Borrowers are not refinancing their first mortgage, so second liens are becoming their main source of cash. Lenders who fail to adapt their product mix will lose market share to operations that prioritize equity tapping tools. Are you actively marketing home equity options to your past client database?\n\nSource : https://tinyurl.com/2dmxmwld\n#SafetrustMortgage #MortgageIntelligenceDaily #mortgagebroker #homeequity #loanofficer",
-      "hashtags": [
-        "#SafetrustMortgage",
-        "#MortgageIntelligenceDaily",
-        "#mortgagebroker",
-        "#homeequity",
-        "#loanofficer"
-      ],
-      "hook_tag": "Product Shift",
-      "hook": "Home equity loans could outpace Non-QM volume by 2027.",
-      "what_happened_heading": "Equity loans surge as homeowners protect low rates",
-      "what_happened": "Executive Tom Davis at Deephaven Mortgage cited Nomura research showing home equity originations could surpass Non-QM (loans that do not meet agency standards) by 2027. Homeowners holding low primary mortgage rates are choosing second liens instead of giving up their current rates.",
-      "breakdown": [
-        {
-          "heading": "Homeowners refuse to touch primary rates",
-          "body": "Borrowers sitting on sub-4 percent rates will not refinance their first mortgage. They are tapping accumulated equity through second liens to cash out without disturbing low fixed rates."
-        },
-        {
-          "heading": "Underwriting shifts to second-lien risks",
-          "body": "Underwriters evaluate second liens differently than primary mortgages. We look closely at combined DTI (how much income goes to total debt) and maximum CLTV (combined loan-to-value ratio)."
-        },
-        {
-          "heading": "Second liens replace traditional refis",
-          "body": "High primary rates have effectively killed standard cash-out refinancing. Equity products are stepping in to fill the revenue gap for lenders and loan officers nationwide."
-        },
-        {
-          "heading": "Pipeline strategy needs pivot now",
-          "body": "Originators relying purely on standard purchase and refinance products will miss the market shift. Adding structured second-lien options keeps your pipeline active when purchase volume slows."
-        }
-      ],
-      "my_take_heading": "The real growth isn't refis but second liens",
-      "my_take": "Home equity is not just a secondary product line anymore; it is becoming the primary liquidity engine for existing homeowners who refuse to refinance.",
-      "action_lo": "Audit your database for homeowners with high equity and sub-4 percent primary rates to discuss second liens.",
-      "action_realtor": "Partner with lenders offering second-lien tools to help clients finance home improvements before selling.",
-      "cta_question": "Is your compensation structure ready for second liens to dominate your pipeline?"
-    },
-    {
-      "slug": "rate-compass-merge-mortgage-ventures",
-      "title": "Rate and Compass Merge Mortgage Ventures",
-      "source": "National Mortgage Professional",
-      "source_url": "https://nationalmortgageprofessional.com/news/rate-compass-merge-mortgage-ventures-plan-recruit-hundreds-los",
-      "cover_text": "Rate and Compass combine joint mortgage ventures",
-      "caption": "Rate and Compass are consolidating Guaranteed Rate Affinity and OriginPoint under the OriginPoint name to create a massive retail purchase platform. This move aims to recruit hundreds of loan officers and lock in purchase transactions across major agent networks. In underwriting, merging systems simplifies file flow and lowers operational costs per loan. However, for independent loan officers, it means direct competition from embedded lenders sitting right inside brokerage offices. To win, independent originators must deliver faster turn times and specialized loan products. How is your team positioning itself against corporate joint venture consolidation?\n\nSource : https://tinyurl.com/24rgofen\n#SafetrustMortgage #MortgageIntelligenceDaily #mortgagebroker #loanofficer #realestateagent",
-      "hashtags": [
-        "#SafetrustMortgage",
-        "#MortgageIntelligenceDaily",
-        "#mortgagebroker",
-        "#loanofficer",
-        "#realestateagent"
-      ],
-      "hook_tag": "Industry Consolidation",
-      "hook": "Two joint ventures are merging to capture real estate agent flow.",
-      "what_happened_heading": "Guaranteed Rate Affinity and OriginPoint combine operations",
-      "what_happened": "Rate and Compass International Holdings are merging their joint ventures, Guaranteed Rate Affinity and OriginPoint, under the single OriginPoint name. The combined entity plans to recruit hundreds of loan officers to capture purchase business from brokerage networks.",
-      "breakdown": [
-        {
-          "heading": "Consolidating scale for purchase capture",
-          "body": "Merging two distinct joint ventures pools operational resources into one national retail unit. The goal is capturing direct purchase leads from one of the largest real estate networks."
-        },
-        {
-          "heading": "Underwriting integration streamlines processing flow",
-          "body": "From an underwriter standpoint, merging operations forces standardized file flow. Centralizing underwriting ops across agent networks improves turnaround times and reduces cost per loan."
-        },
-        {
-          "heading": "Massive recruiting push for purchase LOs",
-          "body": "The merged company is aggressive about hiring hundreds of loan officers. They want originators who can embed directly into brokerage offices and capture incoming homebuyer leads."
-        },
-        {
-          "heading": "Independent originators face tighter competition",
-          "body": "Captive joint ventures restrict lead leakage to outside loan officers. Independent LOs must offer superior execution or niche products to compete against in-house brokerage lenders."
-        }
-      ],
-      "my_take_heading": "Retail survival requires direct real estate integration",
-      "my_take": "Joint ventures are consolidating to lock up purchase volume at the agent source, making in-house origination partnerships harder for independent lenders to beat.",
-      "action_lo": "Strengthen your unique value proposition to agents so you can compete against embedded corporate joint ventures.",
-      "action_realtor": "Evaluate whether your in-house mortgage partner delivers the speed and product depth your buyers actually need.",
-      "cta_question": "Will standalone retail lenders survive without direct real estate brokerage partnerships?"
-    },
-    {
-      "slug": "uwm-q3-earnings-profit-swing",
-      "title": "UWM Swings to $213M Profit As Volume Slips",
-      "source": "National Mortgage Professional",
-      "source_url": "https://nationalmortgageprofessional.com/news/uwm-swings-213m-profit-expenses-fall-loan-volume-slips",
-      "cover_text": "UWM hits profit despite falling volume",
-      "caption": "United Wholesale Mortgage reported $212.6 million in third-quarter net income after losing $451.9 million in Q2, despite lower production and compressed gain-on-sale margins. The earnings swing was driven by aggressive expense management and operational discipline. From an underwriter's view, operational efficiency cuts cost per file and keeps processing lean when volume drops. Relying on high volume or wide margins is no longer a viable strategy in today's rate environment. Originators and lenders must audit overhead to protect net income. Are you trimming operational costs or relying on future rate cuts?\n\nSource : https://tinyurl.com/2co53o7g\n#SafetrustMortgage #MortgageIntelligenceDaily #mortgagebroker #loanofficer #housingmarket",
+      "source_url": "https://nationalmortgageprofessional.com/news/cfpb-closes-40-investigations-keeps-mortgage-enforcement-focus",
+      "cover_text": "The CFPB is stepping back from exams",
+      "caption": "The CFPB closed 86 percent of its open supervisory actions and cut scheduled exams in half, but lenders shouldn't celebrate just yet. When federal regulators pull back on oversight, secondary market investors step in to protect their balance sheets. That means investor quality control will get tighter, not looser. As someone who spent a decade underwriting, I can tell you that investor rep-and-warrant claims carry far harsher penalties than administrative warnings. Lenders who loosen compliance standard checks right now are setting themselves up for severe buyback requests in six months. Smart originators will tighten their internal audit processes before investors do it for them.\n\nSource : https://tinyurl.com/2c68yppe\n#SafetrustMortgage #MortgageIntelligenceDaily #mortgagebroker #loanofficer #housingmarket",
       "hashtags": [
         "#SafetrustMortgage",
         "#MortgageIntelligenceDaily",
@@ -98,245 +14,159 @@
         "#loanofficer",
         "#housingmarket"
       ],
-      "hook_tag": "Operational Strategy",
-      "hook": "UWM turned a profit by cutting expenses while loan volume dropped.",
-      "what_happened_heading": "Expense cuts drive third quarter profit reversal",
-      "what_happened": "United Wholesale Mortgage reported $212.6 million in net income for the third quarter, swinging from a $451.9 million loss in the previous quarter. The profit occurred even as total loan production and gain-on-sale margins (the profit margin on sold loans) declined.",
+      "hook_tag": "Regulatory shift",
+      "hook": "Fewer federal exams will not lower your underwriting risk.",
+      "what_happened_heading": "Federal regulators close most open exams",
+      "what_happened": "The Consumer Financial Protection Bureau closed 66 of its 80 open examinations and 86 percent of outstanding supervisory actions. Additionally, scheduled examinations fell by about 50 percent according to the agency report to Congress.",
       "breakdown": [
         {
-          "heading": "Cost reduction beats volume growth",
-          "body": "Production volume slipped, but strict expense management pulled the overall balance sheet into the black. Profitability in slow markets comes from trimming costs, not chasing unprofitable volume."
+          "heading": "A massive pullback in oversight",
+          "body": "Closing 86 percent of open supervisory actions represents a historic reduction in federal examination activity for mortgage lenders."
         },
         {
-          "heading": "Underwriting efficiency directly protects margins",
-          "body": "Underwriters know that operational speed saves money per file. Automated verification and clean initial submissions reduce processing touches and overhead during volume downturns."
+          "heading": "Investors will fill the gap",
+          "body": "When federal regulators step back, secondary market aggregators increase their own quality control reviews to protect balance sheets."
         },
         {
-          "heading": "Gain-on-sale compression limits overall revenue",
-          "body": "Margins on loan sales continue to squeeze across the mortgage industry. Lenders cannot rely on wide margins to cover bloated back-office expenses during high-rate cycles."
+          "heading": "Underwriting standards remain unchanged",
+          "body": "As an underwriter, I know investor buyback demands hit harder than regulatory fines when loan defect rates rise."
         },
         {
-          "heading": "Wholesale channel demands lean operations",
-          "body": "Wholesale platforms must stay operationally efficient to survive market swings. Broker lenders who control overhead will outperform competitors waiting for a rate drop."
+          "heading": "Internal audit becomes vital",
+          "body": "Lenders must maintain strict internal compliance because private investor audits will replace missing CFPB oversight."
         }
       ],
-      "my_take_heading": "Cutting overhead matters more than chasing volume",
-      "my_take": "Generating net income during a volume slump proves that operational efficiency and expense control matter far more than sheer origination numbers.",
-      "action_lo": "Cut unnecessary software subscriptions and focus your marketing spend only on high-converting referral partners.",
-      "action_realtor": "Work with wholesale lenders whose operational speed prevents delayed closings during tight market conditions.",
-      "cta_question": "Is your mortgage operation focused on cutting costs or blindly waiting for volume to return?"
+      "my_take_heading": "Less regulation shifts risk to investor audits",
+      "my_take": "A quieter CFPB does not equal easier loans. It means secondary market investors will become your primary enforcer, pulling back reps and warranties with zero leniency.",
+      "action_lo": "Review your audit trails now to prevent investor rep-and-warrant clawbacks.",
+      "action_realtor": "Partner with lenders who maintain strict internal QC so deals do not fall through late.",
+      "cta_question": "Is your team adjusting internal QC now that federal exam frequency is dropping?"
     },
     {
-      "slug": "florida-amendment-3-property-tax-break",
-      "title": "Florida Voters Pass Property Tax Relief Measure",
-      "source": "HousingWire",
-      "source_url": "https://www.housingwire.com/articles/florida-amendment-3-passes/",
-      "cover_text": "Florida tax breaks change buyer qualifications",
-      "caption": "Florida voters approved Amendment 3 with 62 percent support, creating property tax relief that could reduce local revenue by nearly $5 billion by 2027-2028. For underwriting, lower property taxes mean lower monthly escrow payments, which directly reduces DTI (how much income goes to debt) ratios for buyers. This helps borderline buyers qualify for higher loan amounts right now. However, missing municipal revenue could eventually lead to higher local fees or infrastructure challenges down the road. Loan officers should recalculate buyer qualifying power immediately while monitoring long-term community costs. How are tax changes affecting your buyer calculations?\n\nSource : https://tinyurl.com/23jbkq75\n#SafetrustMortgage #MortgageIntelligenceDaily #realestateagent #homebuying #housingmarket",
+      "slug": "buyer-leverage-pending-sales-drop",
+      "title": "Pending Sales Drop Despite Price Cuts",
+      "source": "National Mortgage Professional",
+      "source_url": "https://nationalmortgageprofessional.com/news/redfin-homebuyers-gain-leverage-pending-sales-keep-sliding",
+      "cover_text": "Home prices fell but buyers still vanished",
+      "caption": "Home prices are falling and sellers are offering more concessions, yet pending sales dropped 16.4 percent year over year to record lows. The traditional assumption is that price drops unlock demand, but today's buyers are sitting on their hands. From an underwriting perspective, pipeline drop-outs right now are rarely due to credit or debt ratio disqualifications. Qualified buyers are simply hesitating due to broader economic sentiment. To move files forward today, originators and agents need to structure deals with strategic seller credits rather than expecting a small price cut to pull buyers off the sidelines.\n\nSource : https://tinyurl.com/2av2v3ht\n#SafetrustMortgage #MortgageIntelligenceDaily #housingmarket #realestateagent #homebuying",
       "hashtags": [
         "#SafetrustMortgage",
         "#MortgageIntelligenceDaily",
+        "#housingmarket",
         "#realestateagent",
-        "#homebuying",
-        "#housingmarket"
+        "#homebuying"
       ],
-      "hook_tag": "Tax Policy",
-      "hook": "Florida voters passed property tax breaks that impact local budgets.",
-      "what_happened_heading": "Voters approve property tax exemption expansion",
-      "what_happened": "Florida voters passed Amendment 3 with 62 percent approval, expanding property tax relief for homeowners. Estimates project the measure will reduce local government revenue by nearly $5 billion during the 2027-2028 fiscal year.",
+      "hook_tag": "Market dynamics",
+      "hook": "Price cuts alone are failing to bring buyers back.",
+      "what_happened_heading": "Pending sales hit historic record lows",
+      "what_happened": "Pending home sales fell 16.4 percent year over year during the four weeks ending November 1st, reaching record lows. Meanwhile, home prices and monthly payments declined while seller concessions increased.",
       "breakdown": [
         {
-          "heading": "Property tax relief lowers monthly debt",
-          "body": "Lower property taxes reduce the escrow portion of a buyer's monthly mortgage payment. This tax cut directly lowers monthly housing expenses for qualifying state homeowners."
+          "heading": "Buyers hold maximum market leverage",
+          "body": "Sellers are increasingly willing to negotiate terms, yet buyers continue to stay on the sidelines."
         },
         {
-          "heading": "Underwriting DTI improves instantly for buyers",
-          "body": "Lower tax amounts decrease total monthly debt obligations. Underwriters see lower DTI (how much income goes to debt) ratios, helping borderline buyers qualify for higher purchase prices."
+          "heading": "Payment relief is not enough",
+          "body": "Minor dips in monthly housing payments are not triggering new contract activity across key metro areas."
         },
         {
-          "heading": "Municipal revenue loss affects local infrastructure",
-          "body": "A projected $5 billion local revenue loss by 2027-2028 could impact municipal services. Reductions in local infrastructure funding can influence long-term community value and utility costs."
+          "heading": "Underwriting files show buyer hesitance",
+          "body": "In underwriting, we see approved buyers sitting on commitments because economic sentiment overrides slight price reductions."
         },
         {
-          "heading": "Tax savings alter cost of ownership math",
-          "body": "Agents and lenders must recalculate holding costs for buyers. Tax changes shift ongoing housing expense ratios, impacting overall home affordability calculations in Florida."
+          "heading": "Inventory is accumulating quietly",
+          "body": "New listings dropped to yearly lows, but total active inventory remains high due to slow contract velocity."
         }
       ],
-      "my_take_heading": "Short-term qualification boost has long-term tradeoffs",
-      "my_take": "Property tax cuts instantly help buyers pass DTI underwriting checks, but severe local revenue losses will eventually shift costs back onto homeowners.",
-      "action_lo": "Recalculate buyer qualifying budgets using updated property tax figures to maximize purchase power.",
-      "action_realtor": "Highlight lower annual property holding costs when pitching homes to price-sensitive buyers.",
-      "cta_question": "Will tax cuts offset rising insurance and local infrastructure costs for your buyers long term?"
-    }
-  ],
-  "carousels_es": [
-    {
-      "slug": "home-equity-lending-overtake-non-qm",
-      "title": "Los Préstamos con Garantía Hipotecaria Podrían Superar a los Non-QM para 2027",
-      "source": "National Mortgage Professional",
-      "source_url": "https://nationalmortgageprofessional.com/news/home-equity-lending-could-overtake-non-qm-2027",
-      "cover_text": "Los préstamos de capital superan a los Non-QM",
-      "caption": "Los préstamos con garantía hipotecaria superarán a las originaciones Non-QM para 2027, ya que los propietarios no quieren perder sus bajas tasas hipotecarias. Los ejecutivos ya ven cómo los segundos gravámenes (second liens) ganan terreno en todo el país. Como asesor, evalúo los segundos gravámenes enfocándome en el loan-to-value combinado y la relación deuda-ingreso total. Los prestatarios no están refinanciando su primera hipoteca, así que los segundos gravámenes se están volviendo su principal fuente de efectivo. Los prestamistas que no adapten su mezcla de productos perderán participación de mercado. ¿Estás ofreciendo opciones de capital a tus clientes anteriores?\n\nFuente : https://tinyurl.com/2dmxmwld\n#SafetrustMortgage #MortgageIntelligenceDaily #mortgagebroker #homeequity #loanofficer",
-      "hashtags": [
-        "#SafetrustMortgage",
-        "#MortgageIntelligenceDaily",
-        "#mortgagebroker",
-        "#homeequity",
-        "#loanofficer"
-      ],
-      "hook_tag": "Cambio de Producto",
-      "hook": "Los préstamos con garantía hipotecaria podrían superar a los Non-QM para 2027.",
-      "what_happened_heading": "Los préstamos de capital aumentan al proteger bajas tasas",
-      "what_happened": "El ejecutivo Tom Davis de Deephaven Mortgage citó una investigación de Nomura que muestra que las originaciones con garantía hipotecaria podrían superar a los Non-QM (préstamos que no cumplen estándares de agencia) para 2027. Los propietarios con bajas tasas de hipoteca primaria están eligiendo segundos gravámenes en lugar de ceder sus tasas actuales.",
-      "breakdown": [
-        {
-          "heading": "Los propietarios no quieren tocar sus tasas primarias",
-          "body": "Los prestatarios con tasas hipotecarias por debajo del 4 por ciento no refinanciarán su primera hipoteca. Están utilizando el capital acumulado a través de segundos gravámenes para obtener efectivo sin alterar las bajas tasas fijas."
-        },
-        {
-          "heading": "La evaluación se centra en riesgos de segundos gravámenes",
-          "body": "Los asesores evalúan los segundos gravámenes de forma diferente a las hipotecas primarias. Analizamos de cerca el DTI combinado (cuánto ingreso va a la deuda total) y el CLTV máximo (relación loan-to-value combinada)."
-        },
-        {
-          "heading": "Los segundos gravámenes reemplazan los refinanciamientos",
-          "body": "Las altas tasas primarias han frenado los refinanciamientos de efectivo estándar. Los productos de capital están llenando el vacío de ingresos para prestamistas y agentes de préstamos en todo el país."
-        },
-        {
-          "heading": "La estrategia de cartera necesita un giro ahora",
-          "body": "Los originadores que solo confían en productos estándar de compra y refinanciamiento se perderán el cambio del mercado. Agregar opciones de segundos gravámenes mantiene tu cartera activa cuando baja el volumen de compras."
-        }
-      ],
-      "my_take_heading": "El verdadero crecimiento no está en los refinanciamientos, sino en los segundos gravámenes",
-      "my_take": "El capital hipotecario ya no es solo una línea de producto secundaria; se está convirtiendo en el motor de liquidez principal para los propietarios actuales que se niegan a refinanciar.",
-      "action_lo": "Revisa tu base de datos para identificar propietarios con alto capital y tasas primarias menores al 4 por ciento para hablarles sobre segundos gravámenes.",
-      "action_realtor": "Asóciate con prestamistas que ofrezcan herramientas de segundos gravámenes para ayudar a los clientes a financiar mejoras en el hogar antes de vender.",
-      "cta_question": "¿Está tu estructura de compensación lista para que los segundos gravámenes dominen tu cartera?"
+      "my_take_heading": "Price cuts won't fix buyer hesitation",
+      "my_take": "Price drops are not unlocking demand because prospective buyers are frozen by uncertainty, not just spreadsheet math. Waiting for lower prices will not fix broken buyer confidence.",
+      "action_lo": "Reframe payment comparisons to focus on seller-funded temporary buydowns rather than price cuts.",
+      "action_realtor": "Educate sellers to offer terms like closing cost credits instead of simple price reductions.",
+      "cta_question": "How are you convincing buyers to step off the sidelines in this market?"
     },
     {
-      "slug": "rate-compass-merge-mortgage-ventures",
-      "title": "Rate y Compass Unen Sus Empresas Hipotecarias",
+      "slug": "ai-database-loan-officers",
+      "title": "Startup Indexes 224,000 LOs for AI Search",
       "source": "National Mortgage Professional",
-      "source_url": "https://nationalmortgageprofessional.com/news/rate-compass-merge-mortgage-ventures-plan-recruit-hundreds-los",
-      "cover_text": "Rate y Compass combinan empresas hipotecarias",
-      "caption": "Rate y Compass están consolidando Guaranteed Rate Affinity y OriginPoint bajo el nombre OriginPoint para crear una enorme plataforma minorista de compra. Esta medida busca reclutar cientos de agentes de préstamos y asegurar transacciones de compra en redes de agentes importantes. En la evaluación, la fusión de sistemas simplifica el flujo de archivos y reduce los costos operativos por préstamo. Sin embargo, para los agentes de préstamos independientes, significa competencia directa de prestamistas incrustados en las oficinas de corredores. Para ganar, los originadores independientes deben ofrecer tiempos de respuesta más rápidos y productos de préstamo especializados. ¿Cómo se está posicionando tu equipo frente a la consolidación de empresas conjuntas?\n\nFuente : https://tinyurl.com/24rgofen\n#SafetrustMortgage #MortgageIntelligenceDaily #mortgagebroker #loanofficer #realestateagent",
+      "source_url": "https://nationalmortgageprofessional.com/news/new-ai-run-mortgage-startup-builds-database-224000-los",
+      "cover_text": "AI is deciding which LOs get recommended",
+      "caption": "Venture studio Draper Goren Blockchain launched LenDb.ai, building a free database of 224,000 loan officer records tailored specifically for AI assistants like ChatGPT and Claude. As consumer habits shift from search engines to conversational AI, how these tools find and verify your information will dictate lead flow. In underwriting, clean data is mandatory, and AI engines apply that exact same logic when indexing professionals. If your licensing records, business listings, or online credentials have discrepancies, AI recommendation engines will skip you entirely. Optimizing your digital footprint for AI isn't optional anymore.\n\nSource : https://tinyurl.com/242oatpt\n#SafetrustMortgage #MortgageIntelligenceDaily #mortgagebroker #loanofficer #mortgagerates",
       "hashtags": [
         "#SafetrustMortgage",
         "#MortgageIntelligenceDaily",
         "#mortgagebroker",
         "#loanofficer",
-        "#realestateagent"
+        "#mortgagerates"
       ],
-      "hook_tag": "Consolidación de la Industria",
-      "hook": "Dos empresas conjuntas se fusionan para captar el flujo de agentes inmobiliarios.",
-      "what_happened_heading": "Guaranteed Rate Affinity y OriginPoint combinan operaciones",
-      "what_happened": "Rate y Compass International Holdings están fusionando sus empresas conjuntas, Guaranteed Rate Affinity y OriginPoint, bajo el único nombre de OriginPoint. La entidad combinada planea reclutar cientos de agentes de préstamos para captar negocios de compra de las redes de corredores.",
+      "hook_tag": "Tech disruption",
+      "hook": "AI engines are becoming the new mortgage matchmakers.",
+      "what_happened_heading": "LenDb builds massive LO search database",
+      "what_happened": "Venture studio Draper Goren Blockchain launched LenDb.ai to feed loan officer data directly into artificial intelligence platforms. The free database indexes records for over 224,000 U.S. mortgage loan originators for AI retrieval.",
       "breakdown": [
         {
-          "heading": "Consolidando escala para capturar compras",
-          "body": "Fusionar dos empresas conjuntas distintas une los recursos operativos en una sola unidad minorista nacional. El objetivo es captar clientes potenciales de compra directos de una de las redes inmobiliarias más grandes."
+          "heading": "Direct integration with major models",
+          "body": "The database is engineered specifically for AI assistants like ChatGPT and Claude to query during user searches."
         },
         {
-          "heading": "La integración simplifica el flujo de procesamiento",
-          "body": "Desde el punto de vista de un asesor, la fusión de operaciones obliga a estandarizar el flujo de archivos. Centralizar las operaciones en todas las redes de agentes mejora los tiempos de respuesta y reduce el costo por préstamo."
+          "heading": "Consumer search habits are shifting",
+          "body": "Borrowers are turning away from traditional search engines toward conversational AI tools for financial recommendations."
         },
         {
-          "heading": "Impulso masivo de reclutamiento para agentes de préstamos de compra",
-          "body": "La compañía fusionada es agresiva en la contratación de cientos de agentes de préstamos. Quieren originadores que puedan integrarse directamente en las oficinas de corredores y captar clientes potenciales de compradores de viviendas."
+          "heading": "Underwriters see digital footprint risks",
+          "body": "In underwriting, inconsistent public record data causes loan delays; AI systems will filter out inaccurate LO profiles instantly."
         },
         {
-          "heading": "Originadores independientes enfrentan mayor competencia",
-          "body": "Las empresas conjuntas cautivas restringen la fuga de clientes potenciales a agentes de préstamos externos. Los agentes de préstamos independientes deben ofrecer una ejecución superior o productos especializados para competir contra los prestamistas internos de las corredurías."
+          "heading": "Public NMLS records are central",
+          "body": "The platform aggregates verifiable licensing and production data to rank industry professionals for AI queries."
         }
       ],
-      "my_take_heading": "La supervivencia minorista requiere integración inmobiliaria directa",
-      "my_take": "Las empresas conjuntas se están consolidando para asegurar el volumen de compras directamente desde la fuente del agente, haciendo que las asociaciones de originación internas sean más difíciles de superar para los prestamistas independientes.",
-      "action_lo": "Fortalece tu propuesta de valor única para los agentes, así podrás competir contra las empresas conjuntas corporativas.",
-      "action_realtor": "Evalúa si tu socio hipotecario interno ofrece la velocidad y profundidad de productos que tus compradores realmente necesitan.",
-      "cta_question": "¿Sobrevivirán los prestamistas minoristas independientes sin asociaciones directas con corredurías de bienes raíces?"
+      "my_take_heading": "Digital data quality dictates future leads",
+      "my_take": "Loan officers spend thousands on local branding while completely ignoring how Large Language Models view their public data. If AI cannot verify your record, you do not exist to the next generation of borrowers.",
+      "action_lo": "Audit your public NMLS and online professional profiles for data accuracy immediately.",
+      "action_realtor": "Ensure your lender partners have clean digital profiles so joint marketing surfaces in AI searches.",
+      "cta_question": "Have you checked how artificial intelligence assistants describe your mortgage practice yet?"
     },
     {
-      "slug": "uwm-q3-earnings-profit-swing",
-      "title": "UWM Vuelve a Tener Ganancias de $213M a Pesar de la Baja de Volumen",
-      "source": "National Mortgage Professional",
-      "source_url": "https://nationalmortgageprofessional.com/news/uwm-swings-213m-profit-expenses-fall-loan-volume-slips",
-      "cover_text": "UWM logra ganancias pese a caída de volumen",
-      "caption": "United Wholesale Mortgage reportó $212.6 millones en ingresos netos en el tercer trimestre después de perder $451.9 millones en el segundo, a pesar de la menor producción y los márgenes de ganancia por venta comprimidos. El cambio en las ganancias se debió a una gestión agresiva de gastos y disciplina operativa. Desde el punto de vista de un asesor, la eficiencia operativa reduce el costo por archivo y mantiene el procesamiento ágil cuando baja el volumen. Confiar en un alto volumen o amplios márgenes ya no es una estrategia viable. Los originadores y prestamistas deben auditar los gastos generales. ¿Estás reduciendo los costos operativos o esperando futuras bajas de tasas?\n\nFuente : https://tinyurl.com/2co53o7g\n#SafetrustMortgage #MortgageIntelligenceDaily #mortgagebroker #loanofficer #housingmarket",
-      "hashtags": [
-        "#SafetrustMortgage",
-        "#MortgageIntelligenceDaily",
-        "#mortgagebroker",
-        "#loanofficer",
-        "#housingmarket"
-      ],
-      "hook_tag": "Estrategia Operacional",
-      "hook": "UWM obtuvo ganancias al reducir gastos a pesar de la caída en el volumen de préstamos.",
-      "what_happened_heading": "Recortes de gastos impulsan cambio a ganancias en el tercer trimestre",
-      "what_happened": "United Wholesale Mortgage reportó $212.6 millones en ingresos netos para el tercer trimestre, revirtiendo una pérdida de $451.9 millones del trimestre anterior. Las ganancias se produjeron incluso cuando la producción total de préstamos y los márgenes de ganancia por venta (el margen de ganancia sobre los préstamos vendidos) disminuyeron.",
-      "breakdown": [
-        {
-          "heading": "Reducción de costos supera el crecimiento de volumen",
-          "body": "El volumen de producción bajó, pero la estricta gestión de gastos llevó el balance general a números positivos. La rentabilidad en mercados lentos proviene de reducir costos, no de buscar volumen no rentable."
-        },
-        {
-          "heading": "La eficiencia de evaluación protege directamente los márgenes",
-          "body": "Los asesores saben que la velocidad operativa ahorra dinero por archivo. La verificación automatizada y las presentaciones iniciales limpias reducen los toques de procesamiento y los gastos generales durante las caídas de volumen."
-        },
-        {
-          "heading": "La compresión de ganancias por venta limita los ingresos",
-          "body": "Los márgenes de venta de préstamos continúan ajustándose en toda la industria hipotecaria. Los prestamistas no pueden depender de amplios márgenes para cubrir gastos administrativos inflados durante ciclos de tasas altas."
-        },
-        {
-          "heading": "El canal mayorista exige operaciones ágiles",
-          "body": "Las plataformas mayoristas deben mantenerse operativamente eficientes para sobrevivir a los cambios del mercado. Los prestamistas que controlen los gastos generales superarán a los competidores que esperan una baja de tasas."
-        }
-      ],
-      "my_take_heading": "Reducir los gastos generales importa más que buscar volumen",
-      "my_take": "Generar ingresos netos durante una caída de volumen demuestra que la eficiencia operativa y el control de gastos importan mucho más que los números de originación puros.",
-      "action_lo": "Elimina suscripciones de software innecesarias y enfoca tu inversión en marketing solo en socios de referencia de alta conversión.",
-      "action_realtor": "Trabaja con prestamistas mayoristas cuya velocidad operativa evita cierres retrasados durante condiciones de mercado difíciles.",
-      "cta_question": "¿Tu operación hipotecaria se enfoca en reducir costos o espera ciegamente a que regrese el volumen?"
-    },
-    {
-      "slug": "florida-amendment-3-property-tax-break",
-      "title": "Votantes de Florida Aprueban Medida de Alivio de Impuestos a la Propiedad",
+      "slug": "florida-amendment-3-residency-deadline",
+      "title": "Florida Tax Exemption Creates Buyer Deadline",
       "source": "HousingWire",
-      "source_url": "https://www.housingwire.com/articles/florida-amendment-3-passes/",
-      "cover_text": "Exenciones fiscales de Florida cambian calificación",
-      "caption": "Los votantes de Florida aprobaron la Enmienda 3 con un 62 por ciento de apoyo, creando un alivio fiscal a la propiedad que podría reducir los ingresos locales en casi $5 mil millones para 2027-2028. Para la evaluación, menores impuestos a la propiedad significan menores pagos mensuales de escrow, lo que reduce directamente los ratios DTI (cuánto ingreso va a la deuda) para los compradores. Esto ayuda a los compradores con calificaciones ajustadas a calificar para montos de préstamo más altos ahora. Sin embargo, la falta de ingresos municipales podría generar mayores tarifas locales o desafíos de infraestructura. Los agentes de préstamos deben recalcular el poder de calificación del comprador de inmediato, mientras monitorean los costos comunitarios a largo plazo. ¿Cómo afectan los cambios fiscales tus cálculos de comprador?\n\nFuente : https://tinyurl.com/23jbkq75\n#SafetrustMortgage #MortgageIntelligenceDaily #realestateagent #homebuying #housingmarket",
+      "source_url": "https://www.housingwire.com/articles/florida-amendment-3-cutoff/",
+      "cover_text": "Florida tax cut requires 2026 residency",
+      "caption": "Florida's Amendment 3 increases the homestead exemption to $250,000 in 2028, but the real story is the deadline. To take advantage of this tax break, homeowners must establish Florida residency by December 31st, 2026. As an underwriter, I know that proving primary residency requires meticulous documentation, from state IDs to tax filings. Buyers who wait until late 2026 to close could miss the cutoff due to processing delays. Smart agents and loan officers should educate out-of-state buyers now to capture this demand before the deadline hits.\n\nSource : https://tinyurl.com/2b4v9nol\n#SafetrustMortgage #MortgageIntelligenceDaily #housingmarket #realestateinvesting #homebuying",
       "hashtags": [
         "#SafetrustMortgage",
         "#MortgageIntelligenceDaily",
-        "#realestateagent",
-        "#homebuying",
-        "#housingmarket"
+        "#housingmarket",
+        "#realestateinvesting",
+        "#homebuying"
       ],
-      "hook_tag": "Política Fiscal",
-      "hook": "Los votantes de Florida aprobaron exenciones de impuestos a la propiedad que afectan los presupuestos locales.",
-      "what_happened_heading": "Votantes aprueban expansión de la exención de impuestos a la propiedad",
-      "what_happened": "Los votantes de Florida aprobaron la Enmienda 3 con el 62 por ciento de aprobación, expandiendo el alivio de impuestos a la propiedad para los propietarios. Las estimaciones proyectan que la medida reducirá los ingresos del gobierno local en casi $5 mil millones durante el año fiscal 2027-2028.",
+      "hook_tag": "Tax strategy",
+      "hook": "A future tax exemption is driving real estate decisions today.",
+      "what_happened_heading": "Florida sets residency cutoff for tax relief",
+      "what_happened": "Florida's Amendment 3 will raise the homestead exemption to $250,000 in 2028 for qualified property owners. However, buyers must establish official Florida residency by December 31st, 2026, to qualify for the relief.",
       "breakdown": [
         {
-          "heading": "El alivio de impuestos a la propiedad reduce la deuda mensual",
-          "body": "Impuestos a la propiedad más bajos reducen la parte de escrow del pago mensual de la hipoteca de un comprador. Este recorte fiscal reduce directamente los gastos mensuales de vivienda para los propietarios del estado que califiquen."
+          "heading": "Significant property tax savings ahead",
+          "body": "Increasing the homestead exemption to $250,000 offers substantial tax relief for long-term Florida property owners."
         },
         {
-          "heading": "El DTI de evaluación mejora al instante para los compradores",
-          "body": "Montos de impuestos más bajos disminuyen las obligaciones totales de deuda mensual. Los asesores ven ratios DTI (cuánto ingreso va a la deuda) más bajos, ayudando a los compradores con calificaciones ajustadas a calificar para precios de compra más altos."
+          "heading": "Tight residency deadline creates urgency",
+          "body": "Buyers must occupy and establish residency before the end of 2026 to secure eligibility for the 2028 benefit."
         },
         {
-          "heading": "La pérdida de ingresos municipales afecta la infraestructura local",
-          "body": "Una pérdida proyectada de $5 mil millones en ingresos locales para 2027-2028 podría afectar los servicios municipales. Las reducciones en la financiación de infraestructura local pueden influir en el valor comunitario a largo plazo y los costos de servicios públicos."
+          "heading": "Underwriters examine residency documentation strictly",
+          "body": "Underwriters require clear proof of primary occupancy, including tax returns and driver licenses, to validate homestead eligibility."
         },
         {
-          "heading": "El ahorro fiscal altera el cálculo del costo de propiedad",
-          "body": "Los agentes y prestamistas deben recalcular los costos de mantenimiento para los compradores. Los cambios fiscales alteran los ratios de gastos de vivienda continuos, impactando los cálculos generales de asequibilidad de la vivienda en Florida."
+          "heading": "Market surge expected before cutoff",
+          "body": "The hard cutoff date is anticipated to cause a pull-forward in buyer demand across Florida markets through 2026."
         }
       ],
-      "my_take_heading": "El impulso de calificación a corto plazo tiene desventajas a largo plazo",
-      "my_take": "Los recortes de impuestos a la propiedad ayudan instantáneamente a los compradores a pasar las verificaciones DTI de evaluación, pero las graves pérdidas de ingresos locales eventualmente transferirán los costos de nuevo a los propietarios.",
-      "action_lo": "Recalcula los presupuestos de calificación de los compradores usando las cifras actualizadas de impuestos a la propiedad para maximizar el poder de compra.",
-      "action_realtor": "Destaca los menores costos anuales de mantenimiento de la propiedad al ofrecer viviendas a compradores sensibles al precio.",
-      "cta_question": "¿Compensarán los recortes de impuestos los crecientes costos de seguros e infraestructura local para tus compradores a largo plazo?"
+      "my_take_heading": "Policy deadlines accelerate buyer demand early",
+      "my_take": "Amendment 3 isn't a 2028 story; it's a 2026 catalyst. Buyers waiting until the last minute will face compliance friction when verifying primary residence requirements.",
+      "action_lo": "Prepare residency verification checklists for out-of-state buyers relocating to Florida.",
+      "action_realtor": "Target out-of-state buyers with marketing that highlights the December 2026 residency deadline.",
+      "cta_question": "Are your out-of-state clients aware of the 2026 Florida residency deadline?"
     }
   ]
 }
