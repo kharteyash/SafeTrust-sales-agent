@@ -1,342 +1,172 @@
 {
   "carousels": [
     {
-      "slug": "cfpb-supervisory-action-drop",
-      "title": "CFPB Closes 86% of Supervisory Actions",
+      "slug": "first-time-homebuyer-share-drops-to-22-percent",
+      "title": "First-time buyers hit historic low as cash buyers dominate",
       "source": "National Mortgage Professional",
-      "source_url": "https://nationalmortgageprofessional.com/news/cfpb-closes-40-investigations-keeps-mortgage-enforcement-focus",
-      "cover_text": "The CFPB is stepping back from exams",
-      "caption": "The CFPB closed 86 percent of its open supervisory actions and cut scheduled exams in half, but lenders shouldn't celebrate just yet. When federal regulators pull back on oversight, secondary market investors step in to protect their balance sheets. That means investor quality control will get tighter, not looser. As someone who spent a decade underwriting, I can tell you that investor rep-and-warrant claims carry far harsher penalties than administrative warnings. Lenders who loosen compliance standard checks right now are setting themselves up for severe buyback requests in six months. Smart originators will tighten their internal audit processes before investors do it for them.\n\nSource : https://tinyurl.com/2c68yppe\n#SafetrustMortgage #MortgageIntelligenceDaily #mortgagebroker #loanofficer #housingmarket",
+      "source_url": "https://nationalmortgageprofessional.com/news/just-22-homebuyers-are-first-timers-cash-purchases-rise",
+      "cover_text": "First time buyers lose the equity war",
+      "caption": "First-time homebuyers now make up just 22 percent of the market, according to new data from the National Association of Realtors. That is far below the historical 40 percent average. Everyone blames high interest rates, but the underwriter view tells a different story. The real driver is the massive equity gap between repeat buyers and first-timers. Cash buyers and high-equity sellers bypass strict DTI (debt-to-income ratio) checks, appraisal contingencies, and income verification delays entirely. When a seller compares a full cash offer against a pre-approval with 5 percent down, the cash offer wins almost every time. To capture market share in this cycle, loan officers and realtors must stop waiting for lower rates and start positioning first-time buyers with aggressive down payment strategies and strong pre-underwritten approvals.\n\nSource : https://tinyurl.com/24aqbv36\n#SafetrustMortgage #MortgageIntelligenceDaily #housingmarket #firsttimehomebuyer #loanofficer",
+      "hashtags": [
+        "#SafetrustMortgage",
+        "#MortgageIntelligenceDaily",
+        "#housingmarket",
+        "#firsttimehomebuyer",
+        "#loanofficer"
+      ],
+      "hook_tag": "Market Shift",
+      "hook": "First time homebuyer market share fell to 22 percent as cash buyers dominate.",
+      "what_happened_heading": "First time buyers drop to near record lows",
+      "what_happened": "First time buyers accounted for only 22 percent of home purchases recently. Equity rich repeat buyers and cash offers continue to control the housing market.",
+      "breakdown": [
+        {
+          "heading": "Historical norms have completely collapsed",
+          "body": "Historically, first-timers made up 40 percent of sales. Today, entry-level buyers lack existing home equity to battle cash buyers who skip financing hurdles."
+        },
+        {
+          "heading": "Underwriting rules create a financing lag",
+          "body": "Cash buyers bypass strict DTI (debt-to-income ratio) checks and appraisal contingency delays entirely. Funded offers win before an underwriter even sees a paystub."
+        },
+        {
+          "heading": "Equity transfer replaces organic income growth",
+          "body": "Repeat buyers carry hundreds of thousands in rolled-over equity. First-time buyers relying strictly on saved wage growth cannot match those down payment ratios."
+        },
+        {
+          "heading": "Originators must pivot buyer strategy",
+          "body": "Waiting for lower rates will not fix the inventory battle. First-time buyers need non-traditional down payment structures or co-signers to compete against cash."
+        }
+      ],
+      "my_take_heading": "The wealth gap is an underwriting gap",
+      "my_take": "Rate cuts will not save first-time buyers. As long as cash buyers skip the underwriting gauntlet, traditional borrowers need larger down payment strategies to compete.",
+      "action_lo": "Structure pre-approvals around maximum down payment options and gift funds immediately.",
+      "action_realtor": "Target listings with seller concessions instead of entering multi-bid cash wars.",
+      "cta_question": "How are your originators helping first-time buyers beat cash offers today?"
+    },
+    {
+      "slug": "resicentral-expands-non-qm-to-90-ltv-55-dti",
+      "title": "ResiCentral launches 90 percent LTV Non-QM program",
+      "source": "National Mortgage Professional",
+      "source_url": "https://nationalmortgageprofessional.com/news/resicentral-expands-non-qm-lending-90-ltv-55-dti-options",
+      "cover_text": "Non QM expands to 90 percent leverage",
+      "caption": "ResiCentral just launched NQM Advantage, offering up to 90 percent LTV (loan-to-value ratio) and 55 percent DTI (debt-to-income ratio) limits. To industry veterans, 90 percent financing with a 55 percent debt ratio sounds like a setup for high default rates. But from an underwriter standpoint, this is not 2006. Modern Non-QM (loans not backed by Fannie or Freddie) relies on rigorous bank statement analysis and strict reserve requirements rather than stated income. However, high leverage combined with high debt ratios leaves zero margin for error on income calculations. Originators who want to leverage these products must clean up their papering process before files hit the underwriter desk.\n\nSource : https://tinyurl.com/2dfjrt3h\n#SafetrustMortgage #MortgageIntelligenceDaily #mortgagebroker #loanofficer #realestateinvesting",
       "hashtags": [
         "#SafetrustMortgage",
         "#MortgageIntelligenceDaily",
         "#mortgagebroker",
         "#loanofficer",
-        "#housingmarket"
+        "#realestateinvesting"
       ],
-      "hook_tag": "Regulatory shift",
-      "hook": "Fewer federal exams will not lower your underwriting risk.",
-      "what_happened_heading": "Federal regulators close most open exams",
-      "what_happened": "The Consumer Financial Protection Bureau closed 66 of its 80 open examinations and 86 percent of outstanding supervisory actions. Additionally, scheduled examinations fell by about 50 percent according to the agency report to Congress.",
+      "hook_tag": "Product Expansion",
+      "hook": "High DTI Non-QM products are expanding despite tighter economic conditions.",
+      "what_happened_heading": "ResiCentral launches high leverage Non-QM program",
+      "what_happened": "ResiCentral expanded its Non-QM lending lineup with products offering up to 90 percent loan to value. The program also allows debt to income ratios up to 55 percent.",
       "breakdown": [
         {
-          "heading": "A massive pullback in oversight",
-          "body": "Closing 86 percent of open supervisory actions represents a historic reduction in federal examination activity for mortgage lenders."
+          "heading": "Aggressive guidelines return to wholesale channels",
+          "body": "Non-QM (loans not backed by Fannie Mae or Freddie Mac) is pushing leverage boundaries. High leverage options offer solutions for self-employed borrowers with complex income."
         },
         {
-          "heading": "Investors will fill the gap",
-          "body": "When federal regulators step back, secondary market aggregators increase their own quality control reviews to protect balance sheets."
+          "heading": "High ratios require disciplined underwriting",
+          "body": "A 55 percent DTI (debt-to-income ratio) leaves very little room for borrower cash flow error. Underwriters must thoroughly verify bank statement deposits and reserves."
         },
         {
-          "heading": "Underwriting standards remain unchanged",
-          "body": "As an underwriter, I know investor buyback demands hit harder than regulatory fines when loan defect rates rise."
+          "heading": "Past credit events get new pathways",
+          "body": "The expanded guidelines accommodate borrowers who suffered previous credit disruptions. Flexible underwriting enables credit-challenged buyers to re-enter the market faster."
         },
         {
-          "heading": "Internal audit becomes vital",
-          "body": "Lenders must maintain strict internal compliance because private investor audits will replace missing CFPB oversight."
+          "heading": "Liquidity risks shift to private investors",
+          "body": "Unlike agency loans, non-agency debt depends heavily on private secondary market appetite. Originators must lock non-conforming loans quickly to mitigate pricing shifts."
         }
       ],
-      "my_take_heading": "Less regulation shifts risk to investor audits",
-      "my_take": "A quieter CFPB does not equal easier loans. It means secondary market investors will become your primary enforcer, pulling back reps and warranties with zero leniency.",
-      "action_lo": "Review your audit trails now to prevent investor rep-and-warrant clawbacks.",
-      "action_realtor": "Partner with lenders who maintain strict internal QC so deals do not fall through late.",
-      "cta_question": "Is your team adjusting internal QC now that federal exam frequency is dropping?"
+      "my_take_heading": "Flexible guidelines require flawless income verification",
+      "my_take": "High leverage Non-QM is not 2006 subprime because bank statements are verified. But pushing DTI to 55 percent leaves zero room for loan file papering errors.",
+      "action_lo": "Review self-employed tax returns and bank statements early before submitting high DTI files.",
+      "action_realtor": "Partner with non-conforming lender specialists to save self-employed buyer deals.",
+      "cta_question": "Are your underwriters comfortable approving 55 percent DTI Non-QM loans right now?"
     },
     {
-      "slug": "buyer-leverage-pending-sales-drop",
-      "title": "Pending Sales Drop Despite Price Cuts",
-      "source": "National Mortgage Professional",
-      "source_url": "https://nationalmortgageprofessional.com/news/redfin-homebuyers-gain-leverage-pending-sales-keep-sliding",
-      "cover_text": "Home prices fell but buyers still vanished",
-      "caption": "Home prices are falling and sellers are offering more concessions, yet pending sales dropped 16.4 percent year over year to record lows. The traditional assumption is that price drops unlock demand, but today's buyers are sitting on their hands. From an underwriting perspective, pipeline drop-outs right now are rarely due to credit or debt ratio disqualifications. Qualified buyers are simply hesitating due to broader economic sentiment. To move files forward today, originators and agents need to structure deals with strategic seller credits rather than expecting a small price cut to pull buyers off the sidelines.\n\nSource : https://tinyurl.com/2av2v3ht\n#SafetrustMortgage #MortgageIntelligenceDaily #housingmarket #realestateagent #homebuying",
+      "slug": "mortgage-rates-hold-steady-after-strong-jobs-report",
+      "title": "Mortgage rates hold flat despite massive job report beat",
+      "source": "Mortgage News Daily",
+      "source_url": "https://www.mortgagenewsdaily.com/markets/mortgage-rates-11062026",
+      "cover_text": "Why mortgage rates ignored strong job numbers",
+      "caption": "The October jobs report came in way above forecasts at 165,000 jobs added, which normally triggers an immediate rate spike. Instead, mortgage rates held completely flat near recent lows. Why did the bond market ignore this data? Fixed-income investors have already priced in economic resilience, turning their attention toward longer-term inflation trends rather than single-month headlines. For loan officers and underwriters, rate stability is far more valuable than short-lived rate dips. Stable rates mean qualifying DTIs (debt-to-income ratios) stay predictable throughout processing. Don't let your clients gamble on floating rates when bond markets are giving you a stable window to lock.\n\nSource : https://tinyurl.com/2ykkpweb\n#SafetrustMortgage #MortgageIntelligenceDaily #mortgagerates #homebuying #loanofficer",
       "hashtags": [
         "#SafetrustMortgage",
         "#MortgageIntelligenceDaily",
-        "#housingmarket",
-        "#realestateagent",
-        "#homebuying"
+        "#mortgagerates",
+        "#homebuying",
+        "#loanofficer"
       ],
-      "hook_tag": "Market dynamics",
-      "hook": "Price cuts alone are failing to bring buyers back.",
-      "what_happened_heading": "Pending sales hit historic record lows",
-      "what_happened": "Pending home sales fell 16.4 percent year over year during the four weeks ending November 1st, reaching record lows. Meanwhile, home prices and monthly payments declined while seller concessions increased.",
+      "hook_tag": "Rate Analysis",
+      "hook": "Mortgage rates held completely flat despite a massive jobs report beat.",
+      "what_happened_heading": "Mortgage rates unbothered by hiring surge",
+      "what_happened": "US employers added 165,000 jobs in October, beating expectations significantly. Mortgage rates surprisingly held steady near recent lows instead of spiking higher.",
       "breakdown": [
         {
-          "heading": "Buyers hold maximum market leverage",
-          "body": "Sellers are increasingly willing to negotiate terms, yet buyers continue to stay on the sidelines."
+          "heading": "The classic economic reaction broke down",
+          "body": "Strong economic data usually pushes Treasury yields up, driving mortgage rates higher. Bond markets absorbed the surprise job growth without triggering a massive sell-off."
         },
         {
-          "heading": "Payment relief is not enough",
-          "body": "Minor dips in monthly housing payments are not triggering new contract activity across key metro areas."
+          "heading": "Underwriting pipelines digest rate stability",
+          "body": "Predictable interest rates give underwriting desks consistent qualifying baseline ratios. Volatility creates pipeline stress when qualified borrowers suddenly exceed DTI (debt-to-income) limits."
         },
         {
-          "heading": "Underwriting files show buyer hesitance",
-          "body": "In underwriting, we see approved buyers sitting on commitments because economic sentiment overrides slight price reductions."
+          "heading": "Bond markets look past single monthly data points",
+          "body": "Traders shifted focus to broader inflation trends and employment revisions. Short-term hiring spikes matter less than long-term economic trajectory to fixed-income investors."
         },
         {
-          "heading": "Inventory is accumulating quietly",
-          "body": "New listings dropped to yearly lows, but total active inventory remains high due to slow contract velocity."
+          "heading": "Pipeline management requires steady lock strategies",
+          "body": "Rate stability provides a window for originators to close floating pipeline inventory. Waiting for lower rates remains risky as economic conditions pivot quickly."
         }
       ],
-      "my_take_heading": "Price cuts won't fix buyer hesitation",
-      "my_take": "Price drops are not unlocking demand because prospective buyers are frozen by uncertainty, not just spreadsheet math. Waiting for lower prices will not fix broken buyer confidence.",
-      "action_lo": "Reframe payment comparisons to focus on seller-funded temporary buydowns rather than price cuts.",
-      "action_realtor": "Educate sellers to offer terms like closing cost credits instead of simple price reductions.",
-      "cta_question": "How are you convincing buyers to step off the sidelines in this market?"
+      "my_take_heading": "Market stability matters more than short rate rallies",
+      "my_take": "Bonds ignoring a strong jobs report proves markets have already priced in economic strength. Rate volatility is slowing down, giving underwriters consistent qualifying metrics.",
+      "action_lo": "Lock floating pipeline loans today to protect clients against unexpected bond market reversals.",
+      "action_realtor": "Educate buyers that steady rates offer a far better purchasing environment than market volatility.",
+      "cta_question": "Is your loan pipeline currently floating or locked in light of bond market stability?"
     },
     {
-      "slug": "ai-database-loan-officers",
-      "title": "Startup Indexes 224,000 LOs for AI Search",
+      "slug": "west-capital-lo-challenges-1099-contractor-status",
+      "title": "Loan officer lawsuit challenges brokerage contractor status",
       "source": "National Mortgage Professional",
-      "source_url": "https://nationalmortgageprofessional.com/news/new-ai-run-mortgage-startup-builds-database-224000-los",
-      "cover_text": "AI is deciding which LOs get recommended",
-      "caption": "Venture studio Draper Goren Blockchain launched LenDb.ai, building a free database of 224,000 loan officer records tailored specifically for AI assistants like ChatGPT and Claude. As consumer habits shift from search engines to conversational AI, how these tools find and verify your information will dictate lead flow. In underwriting, clean data is mandatory, and AI engines apply that exact same logic when indexing professionals. If your licensing records, business listings, or online credentials have discrepancies, AI recommendation engines will skip you entirely. Optimizing your digital footprint for AI isn't optional anymore.\n\nSource : https://tinyurl.com/242oatpt\n#SafetrustMortgage #MortgageIntelligenceDaily #mortgagebroker #loanofficer #mortgagerates",
+      "source_url": "https://nationalmortgageprofessional.com/news/west-capital-lo-challenges-contractor-status-required-fees",
+      "cover_text": "Brokerage 1099 model faces legal challenge",
+      "caption": "A former West Capital Lending originator has challenged the brokerage 1099 (independent contractor) employment model in court. The lawsuit claims the company asserted heavy operational control over loan officers while forcing them to pay monthly fees and business expenses out of pocket. In mortgage lending, compliance demands tight corporate oversight over file quality, disclosures, and underwriting standards. However, under employment law, heavy control combined with mandatory fee deduction often constitutes employee misclassification. Mortgage executives need to look closely at their compensation agreements today. You cannot run a W-2 supervision model under a 1099 tax classification without incurring serious legal risk.\n\nSource : https://tinyurl.com/29h95874\n#SafetrustMortgage #MortgageIntelligenceDaily #mortgagebroker #loanofficer #realestateagent",
       "hashtags": [
         "#SafetrustMortgage",
         "#MortgageIntelligenceDaily",
         "#mortgagebroker",
         "#loanofficer",
-        "#mortgagerates"
+        "#realestateagent"
       ],
-      "hook_tag": "Tech disruption",
-      "hook": "AI engines are becoming the new mortgage matchmakers.",
-      "what_happened_heading": "LenDb builds massive LO search database",
-      "what_happened": "Venture studio Draper Goren Blockchain launched LenDb.ai to feed loan officer data directly into artificial intelligence platforms. The free database indexes records for over 224,000 U.S. mortgage loan originators for AI retrieval.",
+      "hook_tag": "Legal Challenge",
+      "hook": "A new lawsuit targets brokerage monthly fees and independent contractor classification.",
+      "what_happened_heading": "Former loan officer sues mortgage brokerage",
+      "what_happened": "A former West Capital Lending loan officer filed a lawsuit challenging the brokerage independent contractor structure. The suit alleges extensive corporate control alongside required monthly business fees.",
       "breakdown": [
         {
-          "heading": "Direct integration with major models",
-          "body": "The database is engineered specifically for AI assistants like ChatGPT and Claude to query during user searches."
+          "heading": "1099 status faces strict operational tests",
+          "body": "Regulators and courts scrutinize brokerages that claim 1099 (independent contractor) tax status while enforcing heavy operational controls and mandatory company expenses."
         },
         {
-          "heading": "Consumer search habits are shifting",
-          "body": "Borrowers are turning away from traditional search engines toward conversational AI tools for financial recommendations."
+          "heading": "Underwriting compliance requires direct supervision",
+          "body": "Lenders must maintain strict oversight over loan origination quality for compliance. Balancing regulatory compliance supervision with contractor independence creates major legal exposure."
         },
         {
-          "heading": "Underwriters see digital footprint risks",
-          "body": "In underwriting, inconsistent public record data causes loan delays; AI systems will filter out inaccurate LO profiles instantly."
+          "heading": "Brokerage cost structures under the microscope",
+          "body": "Charging loan officers monthly technology or desk fees while controlling marketing activities blurs the line between employee status and true business ownership."
         },
         {
-          "heading": "Public NMLS records are central",
-          "body": "The platform aggregates verifiable licensing and production data to rank industry professionals for AI queries."
+          "heading": "Executive leadership must review compensation contracts",
+          "body": "Mortgage company owners must re-examine independent originator contracts immediately. Regulatory scrutiny on misclassification could force widespread structural shifts across brokerages."
         }
       ],
-      "my_take_heading": "Digital data quality dictates future leads",
-      "my_take": "Loan officers spend thousands on local branding while completely ignoring how Large Language Models view their public data. If AI cannot verify your record, you do not exist to the next generation of borrowers.",
-      "action_lo": "Audit your public NMLS and online professional profiles for data accuracy immediately.",
-      "action_realtor": "Ensure your lender partners have clean digital profiles so joint marketing surfaces in AI searches.",
-      "cta_question": "Have you checked how artificial intelligence assistants describe your mortgage practice yet?"
-    },
-    {
-      "slug": "florida-amendment-3-residency-deadline",
-      "title": "Florida Tax Exemption Creates Buyer Deadline",
-      "source": "HousingWire",
-      "source_url": "https://www.housingwire.com/articles/florida-amendment-3-cutoff/",
-      "cover_text": "Florida tax cut requires 2026 residency",
-      "caption": "Florida's Amendment 3 increases the homestead exemption to $250,000 in 2028, but the real story is the deadline. To take advantage of this tax break, homeowners must establish Florida residency by December 31st, 2026. As an underwriter, I know that proving primary residency requires meticulous documentation, from state IDs to tax filings. Buyers who wait until late 2026 to close could miss the cutoff due to processing delays. Smart agents and loan officers should educate out-of-state buyers now to capture this demand before the deadline hits.\n\nSource : https://tinyurl.com/2b4v9nol\n#SafetrustMortgage #MortgageIntelligenceDaily #housingmarket #realestateinvesting #homebuying",
-      "hashtags": [
-        "#SafetrustMortgage",
-        "#MortgageIntelligenceDaily",
-        "#housingmarket",
-        "#realestateinvesting",
-        "#homebuying"
-      ],
-      "hook_tag": "Tax strategy",
-      "hook": "A future tax exemption is driving real estate decisions today.",
-      "what_happened_heading": "Florida sets residency cutoff for tax relief",
-      "what_happened": "Florida's Amendment 3 will raise the homestead exemption to $250,000 in 2028 for qualified property owners. However, buyers must establish official Florida residency by December 31st, 2026, to qualify for the relief.",
-      "breakdown": [
-        {
-          "heading": "Significant property tax savings ahead",
-          "body": "Increasing the homestead exemption to $250,000 offers substantial tax relief for long-term Florida property owners."
-        },
-        {
-          "heading": "Tight residency deadline creates urgency",
-          "body": "Buyers must occupy and establish residency before the end of 2026 to secure eligibility for the 2028 benefit."
-        },
-        {
-          "heading": "Underwriters examine residency documentation strictly",
-          "body": "Underwriters require clear proof of primary occupancy, including tax returns and driver licenses, to validate homestead eligibility."
-        },
-        {
-          "heading": "Market surge expected before cutoff",
-          "body": "The hard cutoff date is anticipated to cause a pull-forward in buyer demand across Florida markets through 2026."
-        }
-      ],
-      "my_take_heading": "Policy deadlines accelerate buyer demand early",
-      "my_take": "Amendment 3 isn't a 2028 story; it's a 2026 catalyst. Buyers waiting until the last minute will face compliance friction when verifying primary residence requirements.",
-      "action_lo": "Prepare residency verification checklists for out-of-state buyers relocating to Florida.",
-      "action_realtor": "Target out-of-state buyers with marketing that highlights the December 2026 residency deadline.",
-      "cta_question": "Are your out-of-state clients aware of the 2026 Florida residency deadline?"
-    }
-  ],
-  "carousels_es": [
-    {
-      "slug": "cfpb-supervisory-action-drop",
-      "title": "La CFPB cierra el 86% de sus acciones de supervisión",
-      "source": "National Mortgage Professional",
-      "source_url": "https://nationalmortgageprofessional.com/news/cfpb-closes-40-investigations-keeps-mortgage-enforcement-focus",
-      "cover_text": "La CFPB reduce sus inspecciones federales",
-      "caption": "La CFPB cerró el 86% de sus acciones de supervisión abiertas y redujo las auditorías a la mitad, pero los prestamistas no deberían celebrar todavía. Cuando los reguladores federales se retiran, los inversionistas del mercado secundario intervienen para proteger sus balances. Eso significa que el control de calidad de los inversionistas se volverá más estricto. Como alguien que pasó una década como asesor evaluando préstamos, puedo decirte que los reclamos de recompra traen sanciones mucho más duras que las advertencias administrativas. Los prestamistas que relajen sus controles de cumplimiento ahora mismo se exponen a severas exigencias de recompra en seis meses. Los originadores inteligentes ajustarán sus auditorías internas antes de que los inversionistas lo hagan por ellos.\n\nFuente : https://tinyurl.com/2c68yppe\n#SafetrustMortgage #MortgageIntelligenceDaily #mortgagebroker #loanofficer #housingmarket",
-      "hashtags": [
-        "#SafetrustMortgage",
-        "#MortgageIntelligenceDaily",
-        "#mortgagebroker",
-        "#loanofficer",
-        "#housingmarket"
-      ],
-      "hook_tag": "Cambio regulatorio",
-      "hook": "Menos inspecciones federales no bajan tu riesgo al evaluar préstamos.",
-      "what_happened_heading": "Los reguladores federales cierran la mayoría de auditorías",
-      "what_happened": "La Oficina de Protección Financiera del Consumidor cerró 66 de sus 80 inspecciones abiertas y el 86% de sus acciones de supervisión. Además, las auditorías programadas cayeron un 50% según su informe oficial.",
-      "breakdown": [
-        {
-          "heading": "Una marcada caída en la supervisión",
-          "body": "Cerrar el 86% de las acciones de supervisión representa una reducción histórica en las auditorías federales para los prestamistas hipotecarios."
-        },
-        {
-          "heading": "Los inversionistas llenarán ese vacío",
-          "body": "Cuando los reguladores federales se retiran, los inversionistas del mercado secundario aumentan sus propias revisiones de control de calidad para proteger sus balances."
-        },
-        {
-          "heading": "Los criterios de evaluación no cambian",
-          "body": "Como asesor de préstamos, sé que los reclamos de recompra de los inversionistas duelen más que las multas regulatorias cuando suben los defectos."
-        },
-        {
-          "heading": "El control interno se vuelve vital",
-          "body": "Los prestamistas deben mantener un control estricto de cumplimiento porque las auditorías de inversionistas privados reemplazarán la falta de supervisión de la CFPB."
-        }
-      ],
-      "my_take_heading": "Menos regulación traslada el riesgo a los inversionistas",
-      "my_take": "Una CFPB más tranquila no significa préstamos más fáciles. Significa que los inversionistas del mercado secundario serán tus principales supervisores y exigirán recompensas sin ninguna tolerancia.",
-      "action_lo": "Revisa tus registros de auditoría ahora mismo para evitar reclamos de recompra de inversionistas.",
-      "action_realtor": "Trabaja con prestamistas que mantengan controles de calidad estrictos para que los negocios no se caigan al final.",
-      "cta_question": "¿Tu equipo está ajustando su control de calidad interno ahora que bajan las inspecciones federales?"
-    },
-    {
-      "slug": "buyer-leverage-pending-sales-drop",
-      "title": "Caen ventas pendientes a pesar de rebajas de precios",
-      "source": "National Mortgage Professional",
-      "source_url": "https://nationalmortgageprofessional.com/news/redfin-homebuyers-gain-leverage-pending-sales-keep-sliding",
-      "cover_text": "Los precios bajaron pero los compradores desaparecieron",
-      "caption": "Los precios de las viviendas están bajando y los vendedores ofrecen más concesiones, pero las ventas pendientes cayeron un 16.4% interanual a niveles mínimos. La suposición tradicional es que los descuentos activan la demanda, pero los compradores de hoy siguen paralizados. Desde la perspectiva de un asesor, las cancelaciones en el proceso rara vez ocurren por falta de crédito o exceso de deudas. Los compradores calificados simplemente dudan debido al clima económico general. Para cerrar negocios hoy, originadores y agentes deben estructurar acuerdos con créditos estratégicos del vendedor, en lugar de esperar que una pequeña rebaja saque a los compradores de la reserva.\n\nFuente : https://tinyurl.com/2av2v3ht\n#SafetrustMortgage #MortgageIntelligenceDaily #housingmarket #realestateagent #homebuying",
-      "hashtags": [
-        "#SafetrustMortgage",
-        "#MortgageIntelligenceDaily",
-        "#housingmarket",
-        "#realestateagent",
-        "#homebuying"
-      ],
-      "hook_tag": "Dinámica del mercado",
-      "hook": "Bajar los precios ya no es suficiente para atraer compradores.",
-      "what_happened_heading": "Las ventas pendientes caen a mínimos históricos",
-      "what_happened": "Las ventas de viviendas pendientes cayeron un 16.4% interanual en las cuatro semanas que terminaron el 1 de noviembre, alcanzando mínimos históricos. Al mismo tiempo, los precios de las casas y los pagos mensuales bajaron mientras aumentaron las concesiones de los vendedores.",
-      "breakdown": [
-        {
-          "heading": "Los compradores tienen todo el poder",
-          "body": "Los vendedores están cada vez más dispuestos a negociar condiciones, pero los compradores prefieren mantenerse al margen sin tomar decisiones."
-        },
-        {
-          "heading": "El alivio en los pagos no basta",
-          "body": "Pequeñas bajadas en los pagos mensuales de la vivienda no están generando nuevos contratos en los principales mercados del país."
-        },
-        {
-          "heading": "Los expedientes muestran dudas en compradores",
-          "body": "Como asesor veo compradores aprobados frenados porque la incertidumbre económica pesa más que los pequeños descuentos en los precios."
-        },
-        {
-          "heading": "El inventario se acumula en silencio",
-          "body": "Las nuevas propiedades en venta cayeron a mínimos anuales, pero el inventario total disponible sigue alto debido al lento ritmo de ventas."
-        }
-      ],
-      "my_take_heading": "Bajar precios no solucionará la duda del comprador",
-      "my_take": "Las rebajas de precios no están activando la demanda porque los compradores están paralizados por la incertidumbre, no por las matemáticas. Esperar precios más bajos no devolverá la confianza perdida.",
-      "action_lo": "Reenfoca las comparaciones de pagos en reducciones temporales de tasa pagadas por el vendedor en lugar de simples rebajas de precio.",
-      "action_realtor": "Enseña a los vendedores a ofrecer créditos para costos de cierre en vez de reducir únicamente el precio de lista.",
-      "cta_question": "¿Cómo estás logrando que los compradores den el paso en este mercado?"
-    },
-    {
-      "slug": "ai-database-loan-officers",
-      "title": "Startup indexa 224,000 oficiales de crédito para IA",
-      "source": "National Mortgage Professional",
-      "source_url": "https://nationalmortgageprofessional.com/news/new-ai-run-mortgage-startup-builds-database-224000-los",
-      "cover_text": "La inteligencia artificial decide a quién recomendar",
-      "caption": "El estudio Draper Goren Blockchain lanzó LenDb.ai, una base de datos gratuita con 224,000 registros de oficiales de crédito diseñada para asistentes de inteligencia artificial como ChatGPT y Claude. A medida que las personas cambian los buscadores tradicionales por la IA conversacional, la forma en que estas herramientas encuentran tu información definirá tus clientes potenciales. Al evaluar un expediente como asesor, los datos limpios son obligatorios, y los motores de IA aplican esa misma lógica. Si tus licencias o datos en línea tienen errores, la IA te ignorará por completo. Optimizar tu presencia digital para la inteligencia artificial ya no es opcional.\n\nFuente : https://tinyurl.com/242oatpt\n#SafetrustMortgage #MortgageIntelligenceDaily #mortgagebroker #loanofficer #mortgagerates",
-      "hashtags": [
-        "#SafetrustMortgage",
-        "#MortgageIntelligenceDaily",
-        "#mortgagebroker",
-        "#loanofficer",
-        "#mortgagerates"
-      ],
-      "hook_tag": "Innovación tecnológica",
-      "hook": "La inteligencia artificial es el nuevo buscador de prestamistas hipotecarios.",
-      "what_happened_heading": "LenDb crea gran base de datos de oficiales",
-      "what_happened": "El estudio de capital Draper Goren Blockchain lanzó LenDb.ai para enviar datos de oficiales de crédito directamente a plataformas de inteligencia artificial. Esta base de datos gratuita organiza registros de más de 224,000 profesionales hipotecarios en Estados Unidos para consultas avanzadas.",
-      "breakdown": [
-        {
-          "heading": "Integración directa con grandes modelos",
-          "body": "La base de datos está diseñada para que asistentes de inteligencia artificial como ChatGPT y Claude consulten la información durante las búsquedas de usuarios."
-        },
-        {
-          "heading": "Cambian los hábitos de búsqueda",
-          "body": "Los compradores de vivienda están dejando los buscadores tradicionales para usar herramientas de inteligencia artificial conversacional al buscar recomendaciones financieras."
-        },
-        {
-          "heading": "Riesgos en la huella digital",
-          "body": "Como asesor sé que datos públicos inconsistentes retrasan préstamos; la inteligencia artificial filtrará de inmediato los perfiles con datos incorrectos."
-        },
-        {
-          "heading": "El registro NMLS cobra importancia",
-          "body": "La plataforma recopila datos verificables de licencias y producción para clasificar a los profesionales de la industria en las consultas de inteligencia artificial."
-        }
-      ],
-      "my_take_heading": "La calidad de tus datos define tus prospectos",
-      "my_take": "Muchos oficiales de crédito gastan miles en publicidad local mientras ignoran cómo la inteligencia artificial ve sus datos públicos. Si la IA no puede verificar tu registro, simplemente no existes para los nuevos compradores.",
-      "action_lo": "Audita de inmediato la precisión de tu perfil en el registro público NMLS y tus redes profesionales.",
-      "action_realtor": "Asegúrate de que tus prestamistas aliados tengan perfiles digitales limpios para aparecer juntos en búsquedas con inteligencia artificial.",
-      "cta_question": "¿Ya revisaste cómo te describen los asistentes de inteligencia artificial en tu negocio hipotecario?"
-    },
-    {
-      "slug": "florida-amendment-3-residency-deadline",
-      "title": "Exención fiscal en Florida fija fecha límite",
-      "source": "HousingWire",
-      "source_url": "https://www.housingwire.com/articles/florida-amendment-3-cutoff/",
-      "cover_text": "El beneficio fiscal exige residencia en 2026",
-      "caption": "La Enmienda 3 de Florida aumentará la exención de vivienda habitual a $250,000 en 2028, pero el verdadero detalle es la fecha límite. Para aprovechar este beneficio fiscal, los compradores deben establecer su residencia en Florida antes del 31 de diciembre de 2026. Como asesor evaluando préstamos, sé que demostrar la residencia principal exige documentación impecable, desde licencias estatales hasta planillas de impuestos. Quienes esperen hasta finales de 2026 para cerrar podrían perder el beneficio por demoras en el proceso. Los agentes y oficiales de crédito inteligentes deben orientar a sus clientes fuera del estado hoy mismo para capturar esta demanda a tiempo.\n\nFuente : https://tinyurl.com/2b4v9nol\n#SafetrustMortgage #MortgageIntelligenceDaily #housingmarket #realestateinvesting #homebuying",
-      "hashtags": [
-        "#SafetrustMortgage",
-        "#MortgageIntelligenceDaily",
-        "#housingmarket",
-        "#realestateinvesting",
-        "#homebuying"
-      ],
-      "hook_tag": "Estrategia fiscal",
-      "hook": "Una exención fiscal futura acelera decisiones inmobiliarias desde hoy.",
-      "what_happened_heading": "Florida establece fecha límite de residencia",
-      "what_happened": "La Enmienda 3 de Florida aumentará la exención de vivienda habitual (homestead) a $250,000 en 2028 para propietarios calificados. Sin embargo, los compradores deben establecer su residencia oficial en Florida antes del 31 de diciembre de 2026 para calificar al beneficio.",
-      "breakdown": [
-        {
-          "heading": "Gran ahorro en impuestos de propiedad",
-          "body": "Aumentar la exención de vivienda habitual a $250,000 ofrece un alivio fiscal significativo para los propietarios de viviendas en Florida a largo plazo."
-        },
-        {
-          "heading": "La fecha límite genera urgencia",
-          "body": "Los compradores deben mudarse y establecer su residencia antes de terminar 2026 para asegurar su derecho al beneficio fiscal de 2028."
-        },
-        {
-          "heading": "Evaluación estricta de documentos",
-          "body": "Como asesor se requiere evidencia clara de ocupación principal, incluyendo licencias de conducir y declaraciones de impuestos, para validar la exención."
-        },
-        {
-          "heading": "Se espera un aumento de compradores",
-          "body": "Se anticipa que esta fecha límite acelere la demanda de compradores en todo el mercado de Florida de aquí al final de 2026."
-        }
-      ],
-      "my_take_heading": "Los plazos legales aceleran la demanda con anticipación",
-      "my_take": "La Enmienda 3 no es un tema para 2028, es un motor para 2026. Los compradores que esperen hasta el último minuto enfrentarán trabas al verificar los requisitos de residencia principal.",
-      "action_lo": "Prepara una lista de verificación de residencia para clientes que se mudan a Florida desde otros estados.",
-      "action_realtor": "Dirige tus campañas a compradores fuera del estado destacando la fecha límite de residencia de diciembre de 2026.",
-      "cta_question": "¿Tus clientes fuera del estado conocen la fecha límite de residencia de 2026 en Florida?"
+      "my_take_heading": "Corporate control and 1099 status cannot coexist",
+      "my_take": "You cannot demand employee-level compliance control while passing overhead costs to originators as 1099 contractors. Mortgage brokerages must choose a business model.",
+      "action_lo": "Review your brokerage agreement to verify expense obligations and employment status protections.",
+      "action_realtor": "Partner with originators whose brokerages maintain compliant and stable operational structures.",
+      "cta_question": "Should mortgage brokerages move away from 1099 models to avoid employee misclassification risk?"
     }
   ]
 }
