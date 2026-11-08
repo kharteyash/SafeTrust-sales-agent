@@ -160,5 +160,167 @@
       "action_realtor": "Present sell-and-rent-back options to hesitant sellers to remove replacement home anxiety.",
       "cta_question": "How are you helping your prospective sellers navigate the replacement home shortage?"
     }
+  ],
+  "carousels_es": [
+    {
+      "slug": "rate-drop-inventory-crunch",
+      "title": "Por que las tasas mas bajas no resolveran la falta de casas",
+      "source": "HousingWire",
+      "source_url": "https://www.housingwire.com/articles/rates-fall-demand-stabilizes/",
+      "cover_text": "Las bajas tasas no traeran mas casas",
+      "caption": "Las tasas hipotecarias mas bajas estan haciendo regresar a los compradores, pero el poco inventario crea el mismo problema de siempre. Cuando las tasas bajan sin que salgan nuevas propiedades a la venta, la competencia se concentra en muy pocas casas. Esto es lo que sucede a nivel de prestamo: las diferencias de tasacion vuelven a aparecer cuando los compradores desesperados ofrecen mas del precio pedido. Cuando el archivo llega al asesor, resulta dificil justificar estos aumentos repentinos sin ventas comparables recientes. Los oficiales de prestamo y agentes inmobiliarios deben preparar a sus clientes para estas diferencias en la tasacion en lugar de solo celebrar las tasas bajas. Enfocate en dejar a tus compradores totalmente aprobados desde el inicio para que sus ofertas destaquen.\n\nFuente : https://tinyurl.com/2ahwf3xe\n#SafetrustMortgage #MortgageIntelligenceDaily #mortgagerates",
+      "hashtags": [
+        "#SafetrustMortgage",
+        "#MortgageIntelligenceDaily",
+        "#mortgagerates"
+      ],
+      "hook_tag": "Dinamica del mercado",
+      "hook": "Tasas mas bajas no pueden resolver la falta de casas en el mercado.",
+      "what_happened_heading": "Las tasas bajan mientras el inventario se reduce",
+      "what_happened": "Las tasas hipotecarias promedio cayeron levemente mientras la demanda de compradores se estabilizo en los mercados principales. Mientras tanto, el inventario total de viviendas bajo porque muchos vendedores pausaron sus publicaciones antes de los cambios de temporada.",
+      "breakdown": [
+        {
+          "heading": "La demanda responde a las bajas de tasa",
+          "body": "Las tasas bajas traen de vuelta a los compradores preaprobados. Pero sin casas nuevas a la venta, la competencia por el inventario actual aumenta al instante."
+        },
+        {
+          "heading": "Realidad en el proceso de evaluacion",
+          "body": "Esto es lo que cambia cuando el archivo llega al asesor: vuelven las diferencias de tasacion porque los compradores pagan de mas, exigiendo revisar reservas extras."
+        },
+        {
+          "heading": "El efecto congelacion del vendedor continua",
+          "body": "Quienes tienen tasas menores al 4 por ciento prefieren no vender. Pequenas bajas de tasa no compensan el pago mensual al cambiar de casa."
+        },
+        {
+          "heading": "La temporada disfraza las tendencias reales",
+          "body": "Las publicaciones disminuyen cada otono de forma natural. Confundir la baja estacional normal con una crisis permanente lleva a errores al fijar precios."
+        }
+      ],
+      "my_take_heading": "El cuello de botella esta en la oferta",
+      "my_take": "Enviar demanda a un mercado sin inventario solo sube los precios. El verdadero volumen regresara cuando las casas salgan a la venta, no cuando las tasas se muevan un poco.",
+      "action_lo": "Enfocate en aprobaciones evaluadas por el asesor para que tus compradores envien ofertas firmes sin contingencias inmediatamente.",
+      "action_realtor": "Ensena a los vendedores los numeros reales de mudarse en lugar de esperar tasas mas bajas que tal vez no lleguen.",
+      "cta_question": "¿Tus compradores estan perdiendo ofertas por diferencias de tasacion o falta de inventario?"
+    },
+    {
+      "slug": "seasonality-or-market-shift",
+      "title": "¿Es estacionalidad o un cambio del mercado?",
+      "source": "HousingWire",
+      "source_url": "https://www.housingwire.com/articles/rates-fall-demand-stabilizes/",
+      "cover_text": "¿Freno de temporada o cambio de mercado?",
+      "caption": "Cada otono el mercado inmobiliario se frena, pero muchos profesionales confunden este ciclo normal con un cambio real. El inventario se reduce de forma natural a finales de ano porque los vendedores prefieren esperar hasta la primavera. Mientras tanto, la demanda hipotecaria se estabiliza porque los compradores serios siguen activos sin importar la epoca. Esto es lo que cambia cuando el archivo llega al asesor durante la calma estacional: el asesor tiene mas tiempo para examinar recibos de pago, estados bancarios y planillas de impuestos a fondo. Documentos incompletos que pasaban en primavera ahora seran marcados. Los oficiales de prestamo deben enfocarse en enviar expedientes impecables para aprovechar los tiempos de respuesta mas rapidos.\n\nFuente : https://tinyurl.com/2ahwf3xe\n#SafetrustMortgage #MortgageIntelligenceDaily #mortgagerates",
+      "hashtags": [
+        "#SafetrustMortgage",
+        "#MortgageIntelligenceDaily",
+        "#mortgagerates"
+      ],
+      "hook_tag": "Tendencias del mercado",
+      "hook": "No confundas la calma estacional del otono con un cambio de mercado.",
+      "what_happened_heading": "La demanda se estabiliza al iniciar el otono",
+      "what_happened": "El volumen de solicitudes de hipotecas se mantuvo estable aun cuando el inventario registro su baja tipica de otono. Quienes analizan el mercado debaten si esta actividad refleja una nueva tendencia o la norma de la temporada.",
+      "breakdown": [
+        {
+          "heading": "Patrones normales de la oferta estacional",
+          "body": "El inventario siempre se reduce a finales del tercer y cuarto trimestre. Muchos vendedores retiran casas no vendidas y entran menos propiedades nuevas."
+        },
+        {
+          "heading": "Realidad en el proceso de evaluacion",
+          "body": "Esto cambia cuando el archivo llega al asesor: los tiempos de respuesta se acortan por el menor volumen, permitiendo revisar ingresos con mucho mas detalle."
+        },
+        {
+          "heading": "El perfil del comprador cambia a fin de ano",
+          "body": "Los compradores de otono suelen ser mas serios que los de primavera. Se mudan por trabajo o familia, lo que genera cierres mas seguros."
+        },
+        {
+          "heading": "La variacion de tasas genera distraccion",
+          "body": "Los cambios de tasa a corto plazo crean aumentos temporales en consultas. No confundas un alza de dos semanas con una recuperacion real del mercado."
+        }
+      ],
+      "my_take_heading": "El otono premia la precision sobre el volumen",
+      "my_take": "El mercado activo de primavera oculta expedientes mal preparados. En otono, los asesores tienen tiempo para verificar cada detalle, castigando la falta de documentacion limpia.",
+      "action_lo": "Limpia la documentacion de tus clientes ahora para aprovechar los tiempos de respuesta mas rapidos del asesor a fin de ano.",
+      "action_realtor": "Enfocate en compradores serios de fin de ano que estan motivados a cerrar antes de terminar el calendario.",
+      "cta_question": "¿Tu lista de clientes se frena por la temporada o estas cerrando negocios con compradores de otono?"
+    },
+    {
+      "slug": "buyer-purchasing-power-shift",
+      "title": "Como afectan las bajas de tasa al poder de compra",
+      "source": "HousingWire",
+      "source_url": "https://www.housingwire.com/articles/rates-fall-demand-stabilizes/",
+      "cover_text": "Lo que la baja de tasas significa hoy",
+      "caption": "Cuando las tasas hipotecarias bajan, se asume de inmediato que la capacidad de compra de las personas se recupera. Aunque las tasas bajas mejoran la relacion entre deuda e ingreso (DTI), el poco inventario frena el aumento de ventas reales. Un comprador que gana cien dolares extras de capacidad mensual aun enfrenta una dura competencia por pocas casas. Esto es lo que cambia cuando el archivo llega al asesor: solicitudes al limite que fallaron en sistemas automaticos hace un mes ahora aprueban facilmente. Sin embargo, los oficiales de prestamo deben asegurar que los clientes mantengan la disciplina en los precios para evitar que diferencias de tasacion cancelen el trato despues. Es momento de revisar prospectos pasados.\n\nFuente : https://tinyurl.com/2ahwf3xe\n#SafetrustMortgage #MortgageIntelligenceDaily #mortgagerates",
+      "hashtags": [
+        "#SafetrustMortgage",
+        "#MortgageIntelligenceDaily",
+        "#mortgagerates"
+      ],
+      "hook_tag": "Estrategia de prestamos",
+      "hook": "Pequenas bajas de tasa cambian los numeros menos de lo esperado.",
+      "what_happened_heading": "Las tasas mas bajas alivian el presupuesto comprador",
+      "what_happened": "Las recientes reducciones de tasa mejoraron levemente el pago mensual para los futuros compradores. Sin embargo, la caida del inventario en precios clave neutralizo esas ganancias de compra.",
+      "breakdown": [
+        {
+          "heading": "El ahorro en el pago se pierde rapido",
+          "body": "Una baja leve de tasa ahorra dinero en el papel. Pero cuando hay menos casas, los precios suben y borran ese ahorro mensual rapidamente."
+        },
+        {
+          "heading": "Realidad en el proceso de evaluacion",
+          "body": "Esto cambia cuando el archivo llega al asesor: tasas mas bajas mejoran la relacion deuda e ingreso (DTI), haciendo que solicitudes limite aprueben en sistemas automaticos."
+        },
+        {
+          "heading": "Alivio temporal en la relacion de deudas",
+          "body": "Compradores antes descalificados por sus deudas pueden calificar otra vez. Aun asi, la falta de inventario les impide encontrar casas adecuadas para comprar."
+        },
+        {
+          "heading": "Falta de casas de primer precio",
+          "body": "La escasez de propiedades afecta mas a las casas de inicio. Hay inventario de alto valor, pero las opciones accesibles enfrentan dura competencia."
+        }
+      ],
+      "my_take_heading": "Calificar mejor no sirve si no hay propiedades",
+      "my_take": "Cumplir con la relacion deuda e ingreso (DTI) no sirve de nada si tu comprador pierde la oferta frente a otros interesados en las unicas casas disponibles.",
+      "action_lo": "Recalcula la relacion deuda e ingreso (DTI) de clientes rechazados antes y aprobalos antes de que las tasas se muevan.",
+      "action_realtor": "Conecta a compradores preaprobados con propiedades fuera del mercado antes de que aumente la competencia publica.",
+      "cta_question": "¿Tus nuevos compradores calificados estan encontrando casas o siguen atrapados buscando?"
+    },
+    {
+      "slug": "seller-strategy-tight-inventory",
+      "title": "Por que los vendedores no estan publicando",
+      "source": "HousingWire",
+      "source_url": "https://www.housingwire.com/articles/rates-fall-demand-stabilizes/",
+      "cover_text": "Por que los vendedores prefieren no vender",
+      "caption": "La caida del inventario demuestra un desafio constante: los propietarios actuales tienen muy pocos incentivos para poner su casa a la venta. Incluso con tasas hipotecarias mas bajas, el efecto congelacion mantiene las propiedades fuera del mercado. Los vendedores entienden que cambiar una tasa baja por las del mercado actual aumenta su pago mensual considerablemente. Esto es lo que cambia cuando el archivo llega al asesor: las compras condicionadas a la venta previa fallan con mas frecuencia porque los vendedores no encuentran su proxima vivienda antes del cierre. Oficiales de prestamo y agentes deben reestructurar transacciones usando financiamiento puente o acuerdos de renta posterior. Mira mas alla de las ventas tradicionales y ofrece soluciones sobre la plusvalia.\n\nFuente : https://tinyurl.com/2ahwf3xe\n#SafetrustMortgage #MortgageIntelligenceDaily #housingmarket",
+      "hashtags": [
+        "#SafetrustMortgage",
+        "#MortgageIntelligenceDaily",
+        "#housingmarket"
+      ],
+      "hook_tag": "Estrategia de venta",
+      "hook": "Las bajas de tasa no obligaran a los propietarios a vender.",
+      "what_happened_heading": "El inventario cae a pesar de las tasas bajas",
+      "what_happened": "La oferta de casas disminuyo aun mas porque los propietarios prefirieron conservar sus casas actuales a pesar de menores costos de financiamiento. La demanda se mantuvo estable, dejando a los compradores compitiendo por menos propiedades.",
+      "breakdown": [
+        {
+          "heading": "El efecto de congelacion sigue activo",
+          "body": "Los propietarios con hipotecas a tasa fija muy baja ven poco sentido economico en cambiar por una hipoteca con la tasa mas alta del mercado actual."
+        },
+        {
+          "heading": "Realidad en el proceso de evaluacion",
+          "body": "Esto cambia cuando el archivo llega al asesor: compras sujetas a venta previa fallan mas porque los vendedores no hallan reemplazo, arriesgando plazos del prestamo."
+        },
+        {
+          "heading": "El poder de precio sigue en los vendedores",
+          "body": "El inventario limitado evita que los precios caigan. Los vendedores que deciden publicar conservan una gran ventaja para negociar frente a compradores agresivos."
+        },
+        {
+          "heading": "Refinanciamientos estrategicos reemplazan mudanzas",
+          "body": "Muchos vendedores eligen refinanciamientos con retiro de dinero o lineas de credito con garantia hipotecaria (HELOC) para remodelar en lugar de comprar casa nueva."
+        }
+      ],
+      "my_take_heading": "La congelacion de vendedores es matematica",
+      "my_take": "Los propietarios no estan paralizados por emociones; estan haciendo cuentas. Hasta que el costo de reemplazar la vivienda baje, la oferta continuara limitada.",
+      "action_lo": "Ofrece lineas de credito con garantia hipotecaria (HELOC) y prestamos de remodelacion a clientes que quieren ampliar pero cuidan su tasa actual.",
+      "action_realtor": "Presenta opciones de venta con alquiler posterior (rent-back) a vendedores dudosos para eliminar la ansiedad de buscar casa de reemplazo.",
+      "cta_question": "¿Como estas ayudando a tus vendedores prospecto a resolver la falta de casas de reemplazo?"
+    }
   ]
 }
