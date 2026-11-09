@@ -168,5 +168,175 @@
       "action_realtor": "Review your local MLS opt-out settings and copyright terms to protect your property photos and listing descriptions.",
       "cta_question": "Will your local MLS adopt these optional copyright rules to protect broker data?"
     }
+  ],
+  "carousels_es": [
+    {
+      "slug": "nar-pent-up-housing-demand",
+      "title": "La verdad sobre la demanda reprimida",
+      "source": "HousingWire",
+      "source_url": "https://www.housingwire.com/articles/nar-pent-up-housing-demand/",
+      "cover_text": "La demanda acumulada no salvará el mercado",
+      "caption": "Bajar las tasas de interés no resolverá mágicamente la falta de casas en el mercado.\n\nMuchos hablan de 350 millones de habitantes y 159 millones de empleos, pero las ventas siguen estancadas cerca de cuatro millones de transacciones. Hay interés de compra, sí, pero ese deseo no aprueba un préstamo cuando la capacidad de pago está rota. Como asesor, veo solicitudes rechazadas no por falta de ganas, sino porque el DTI (el porcentaje de ingresos para pagar deudas) supera los límites permitidos. Cuando las tasas bajen, las ventas no se duplicarán de la noche a la mañana. En cambio, veremos una competencia feroz por las pocas casas disponibles. Es momento de dejar de esperar bajas de tasas y construir negocio hoy con la plusvalía existente y presupuestos reales.\n\nFuente : https://tinyurl.com/222gd32l\n#SafetrustMortgage #MortgageIntelligenceDaily #housingmarket #mortgagerates #loanofficer",
+      "hashtags": [
+        "#SafetrustMortgage",
+        "#MortgageIntelligenceDaily",
+        "#housingmarket",
+        "#mortgagerates",
+        "#loanofficer"
+      ],
+      "hook_tag": "Realidad del mercado",
+      "hook": "La demanda acumulada no creará un boom inmobiliario por sí sola.",
+      "what_happened_heading": "Las ventas de casas usadas quedan rezagadas frente al crecimiento económico",
+      "what_happened": "Lawrence Yun destacó que la población de EE. UU. alcanzó los 350 millones y los empleos llegaron a 159 millones. Sin embargo, las ventas de casas siguen estancadas cerca de los 4 millones anuales, muy por debajo de los niveles del año 2000.",
+      "breakdown": [
+        {
+          "heading": "El crecimiento de población crea potencial, no ventas",
+          "body": "Tener récords de empleo impresiona en el papel, pero sin precios accesibles ni mejores tasas, la gente no puede comprar. Las cifras demográficas no cierran transacciones por sí solas."
+        },
+        {
+          "heading": "El freno de las tasas congela el inventario",
+          "body": "Los propietarios actuales se niegan a cambiar sus tasas bajas por costos de financiamiento mayores. Ese cuello de botella frena el volumen de ventas sin importar cuánto interés exista."
+        },
+        {
+          "heading": "Los asesores ven límites reales de capacidad de pago",
+          "body": "Esto es lo que cambia al evaluar el préstamo: los ingresos quedan demasiado ajustados y el DTI (porcentaje de ingresos destinado a deudas) impide la aprobación automática."
+        },
+        {
+          "heading": "El mercado necesita reducciones reales de costos",
+          "body": "Los compradores esperan mejores costos de financiamiento para volver a intentarlo. Como profesional de préstamos, la esperanza no es una estrategia real para mantener tu negocio activo."
+        }
+      ],
+      "my_take_heading": "Bajar las tasas no resolverá el problema de inventario",
+      "my_take": "Muchos confían en la demanda acumulada, pero con precios altos e inventario congelado, bajar las tasas solo desatará guerras de ofertas en lugar de duplicar las ventas totales.",
+      "action_lo": "Preaprueba hoy a compradores sensibles al precio para que actúen rápido cuando cambie el mercado.",
+      "action_realtor": "Muestra a los vendedores actuales cuánta plusvalía pueden transferir como pago inicial para su siguiente compra.",
+      "cta_question": "¿Tus proyecciones dependen de bajas de tasas o del crecimiento real del inventario?"
+    },
+    {
+      "slug": "dsa-tenant-laws-nar",
+      "title": "Leyes de inquilinos y sus riesgos ocultos",
+      "source": "HousingWire",
+      "source_url": "https://www.housingwire.com/articles/dsa-tenant-laws-nar/",
+      "cover_text": "Las leyes de inquilinos están frenando ventas",
+      "caption": "Las ordenanzas locales sobre inquilinos se están convirtiendo en el mayor riesgo oculto al vender una propiedad.\n\nEn la conferencia NAR NXT, los expertos advierten que el derecho de primera opción (ROFR), las reglas de desalojo por causa justa y las normas sobre fuentes de ingresos están frenando transacciones. Cuando me llega un expediente con inquilinos, la falta de contratos verificados o avisos pendientes frena el préstamo de inmediato. Los compradores que planeaban mudarse al cerrar terminan atrapados en meses de retrasos legales. Hoy los profesionales inmobiliarios deben revisar los derechos de los inquilinos desde el primer momento. Si vendes o financias propiedades alquiladas, dominar estas reglas locales es obligatorio para proteger tu comisión y a tu cliente.\n\nFuente : https://tinyurl.com/2xzpbdbd\n#SafetrustMortgage #MortgageIntelligenceDaily #realestateagent #housingmarket #realestateinvesting",
+      "hashtags": [
+        "#SafetrustMortgage",
+        "#MortgageIntelligenceDaily",
+        "#realestateagent",
+        "#housingmarket",
+        "#realestateinvesting"
+      ],
+      "hook_tag": "Alerta de riesgo legal",
+      "hook": "Ignorar las leyes locales de inquilinos está cancelando ventas cerradas.",
+      "what_happened_heading": "Expertos advierten sobre trabas legales en bienes raíces",
+      "what_happened": "Durante el evento NAR NXT, varios especialistas señalaron que el derecho de primera opción y los desalojos por causa justa son grandes riesgos para la venta. Además, las normas sobre fuentes de ingresos están generando obstáculos inesperados para los agentes no preparados.",
+      "breakdown": [
+        {
+          "heading": "Los derechos del inquilino alteran los plazos de cierre",
+          "body": "El derecho de primera opción da prioridad legal al inquilino para comprar. Si no envías las notificaciones a tiempo, no se puede entregar un título limpio en la fecha prevista."
+        },
+        {
+          "heading": "El desalojo por causa justa frena al nuevo dueño",
+          "body": "Quienes compran casas alquiladas para vivir en ellas enfrentan severas restricciones de desalojo. La venta fracasa si el comprador no puede tomar posesión tras el cierre."
+        },
+        {
+          "heading": "Los asesores rechazan contratos de alquiler no verificados",
+          "body": "Esto cambia la evaluación del crédito: si los derechos del inquilino no están resueltos, el evaluador y la compañía de títulos suspenderán la aprobación final del préstamo."
+        },
+        {
+          "heading": "Las normas de ingresos cambian la selección de inquilinos",
+          "body": "Las leyes que prohíben rechazar cupones de vivienda cambian el análisis de inquilinos. Incumplir estas normas genera serios problemas legales al transferir la propiedad."
+        }
+      ],
+      "my_take_heading": "Dominar el cumplimiento legal es la nueva ventaja",
+      "my_take": "Los agentes enfocados solo en promocionar perderán cierres por trampas legales locales, mientras que los profesionales proactivos aseguran ventas auditando contratos antes de publicar la lista.",
+      "action_lo": "Revisa los contratos de arrendamiento y cláusulas de ocupación antes de enviar el archivo a evaluación.",
+      "action_realtor": "Audita de inmediato los acuerdos de venta en casas alquiladas para verificar el cumplimiento de avisos y desalojos.",
+      "cta_question": "¿Tu equipo verifica las normas locales de inquilinos antes de presentar una oferta?"
+    },
+    {
+      "slug": "nar-warns-ai-risks",
+      "title": "Los riesgos ocultos de la inteligencia artificial",
+      "source": "HousingWire",
+      "source_url": "https://www.housingwire.com/articles/nar-warns-ai-risks/",
+      "cover_text": "Usar IA gratuita expone tu negocio inmobiliario",
+      "caption": "Usar herramientas gratuitas de inteligencia artificial en bienes raíces es una bomba de tiempo para tu negocio.\n\nEn la conferencia NAR NXT, el experto Mike Woodward dio una advertencia clara: cuando usas plataformas gratuitas, el producto eres tú. Poner información financiera confidencial o datos del contrato en sistemas abiertos viola la privacidad y expone datos personales (PII). Peor aún, las demostraciones en vivo mostraron que estas herramientas inventan datos por completo. Desde el punto de vista de un asesor, confiar en resúmenes sin verificar causará el rechazo directo del préstamo. La tecnología debe apoyar la experiencia humana, no reemplazar la verificación formal. Es hora de usar software seguro empresarial y verificar cada resultado.\n\nFuente : https://tinyurl.com/2yd6os5e\n#SafetrustMortgage #MortgageIntelligenceDaily #realestateagent #loanofficer #mortgagebroker",
+      "hashtags": [
+        "#SafetrustMortgage",
+        "#MortgageIntelligenceDaily",
+        "#realestateagent",
+        "#loanofficer",
+        "#mortgagebroker"
+      ],
+      "hook_tag": "Alerta sobre tecnología",
+      "hook": "La IA gratuita está filtrando datos de clientes e inventando información.",
+      "what_happened_heading": "Experto advierte sobre el uso inseguro de la IA",
+      "what_happened": "El especialista Mike Woodward advirtió a los profesionales inmobiliarios que no deben usar herramientas gratuitas de IA con información confidencial de clientes. Demostraciones en vivo durante el evento revelaron múltiples errores verdaderos generados por sistemas sin verificar.",
+      "breakdown": [
+        {
+          "heading": "Los modelos públicos filtran información confidencial",
+          "body": "Subir planillas de impuestos o contratos de compra a plataformas gratuitas envía información sensible a servidores públicos sin el consentimiento del cliente."
+        },
+        {
+          "heading": "Las alucinaciones de la IA generan riesgos legales",
+          "body": "Las herramientas de IA suelen inventar reglas de zonificación y cláusulas de contrato. Confiar en información no verificada crea responsabilidad profesional directa."
+        },
+        {
+          "heading": "Los asesores rechazan resúmenes de documentos no verificados",
+          "body": "Esto cambia la revisión del préstamo: los resúmenes creados por IA sobre estados bancarios o impuestos no tienen validez sin la verificación de los documentos originales."
+        },
+        {
+          "heading": "La seguridad empresarial debe reemplazar las herramientas gratuitas",
+          "body": "Los profesionales deben adoptar software privado pagado que garantice la privacidad de los datos, en lugar de arriesgarse a filtraciones con aplicaciones de uso masivo."
+        }
+      ],
+      "my_take_heading": "La comodidad sin verificación es una falta profesional",
+      "my_take": "La IA debe aumentar tu productividad, no reemplazar tu criterio. En el momento en que tu sistema da información falsa, tu reputación sufre el golpe.",
+      "action_lo": "Establece reglas strictly prohibiendo copiar datos personales (PII) en chats públicos de inteligencia artificial.",
+      "action_realtor": "Audita todos los textos de propiedades e informes de mercado generados con IA antes de publicarlos.",
+      "cta_question": "¿Tiene tu empresa una política formal para el uso de IA y privacidad de datos?"
+    },
+    {
+      "slug": "nar-mls-policy-updates",
+      "title": "Nuevas opciones en las políticas del MLS",
+      "source": "HousingWire",
+      "source_url": "https://www.housingwire.com/articles/nar-mls-policy-updates/",
+      "cover_text": "Nuevos cambios en los datos del MLS",
+      "caption": "La propiedad de los datos es el nuevo terreno de juego en el sector inmobiliario.\n\nLas últimas actualizaciones de la NAR permiten a los servicios de listado múltiple (MLS) reclamar hasta un 50 por ciento de derechos de autor sobre el contenido publicado. Con registros trimestrales y opciones para que los agentes excluyan sus datos, estas reglas buscan evitar la copia no autorizada por parte de plataformas de terceros. Cuando los datos de una propiedad se disputan, la revisión del título y el avalúo se frenan en el proceso del préstamo. Este cambio otorga a los agentes el control de su propiedad intelectual. A medida que la tecnología consolida la información inmobiliaria, conocer estas opciones es clave para proteger tus publicaciones y tus clientes.\n\nFuente : https://tinyurl.com/22lbshcw\n#SafetrustMortgage #MortgageIntelligenceDaily #realestateagent #mortgagebroker #housingmarket",
+      "hashtags": [
+        "#SafetrustMortgage",
+        "#MortgageIntelligenceDaily",
+        "#realestateagent",
+        "#mortgagebroker",
+        "#housingmarket"
+      ],
+      "hook_tag": "Cambio en la industria",
+      "hook": "Las nuevas políticas del MLS cambian el control sobre las publicaciones.",
+      "what_happened_heading": "NAR aprueba guías flexibles para licencias de datos",
+      "what_happened": "La junta de NAR aprobó nuevas políticas opcionales que permiten al MLS reclamar hasta un 50 por ciento de derechos de autor sobre las publicaciones. Las reglas también fijan registros de derechos de autor cada trimestre y permiten a las agencias retirar sus datos del sistema.",
+      "breakdown": [
+        {
+          "heading": "Los derechos de autor protegen el contenido",
+          "body": "Los MLS ahora pueden proteger fotos y descripciones de las casas. Esto evita que plataformas externas copien el contenido de los agentes sin permiso."
+        },
+        {
+          "heading": "El registro trimestral refuerza el reclamo legal",
+          "body": "Registrar los datos cada trimestre da a los MLS (servicios de listado múltiple) mayor respaldo legal para demandar a plataformas que usen la información sin autorización."
+        },
+        {
+          "heading": "Las opciones de exclusión protegen la información",
+          "body": "Las agencias reciben el derecho explícito de no compartir sus datos. Esto les permite controlar mejor en qué sitios web se muestran sus propiedades."
+        },
+        {
+          "heading": "Los asesores dependen de datos precisos",
+          "body": "Esto cambia la aprobación del préstamo: tener derechos claros sobre los datos evita disputas legales que pueden frenar el historial del inmueble durante el avalúo."
+        }
+      ],
+      "my_take_heading": "Proteger los datos asegura el valor de tu negocio",
+      "my_take": "El mercado inmobiliario de hoy funciona con datos. Las empresas que protejan su propiedad intelectual hoy mantendrán una gran ventaja competitiva mañana.",
+      "action_lo": "Coordina con tus agentes aliados para asegurar que los datos del MLS se integren bien con tus herramientas digitales.",
+      "action_realtor": "Revisa la configuración de tu MLS local y los términos de derechos de autor para proteger tus fotos y descripciones.",
+      "cta_question": "¿Adoptará tu MLS local estas reglas opcionales para proteger la información?"
+    }
   ]
 }
