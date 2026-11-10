@@ -166,5 +166,173 @@
       "action_realtor": "Warn sellers that existing shared-appreciation contracts may cut into their net proceeds and delay closing timelines.",
       "cta_question": "How is your processing team handling shared-appreciation liens during title review?"
     }
+  ],
+  "carousels_es": [
+    {
+      "slug": "cash-out-retention-crisis",
+      "title": "Por qué los administradores pierden a sus clientes de refinanciamiento en efectivo",
+      "source": "National Mortgage Professional",
+      "source_url": "https://nationalmortgageprofessional.com/news/cash-out-borrowers-leave-servicers-behind-home-equity-hits-q3-record",
+      "cover_text": "Están perdiendo a sus mejores clientes de refinanciamiento",
+      "caption": "Los administradores de préstamos están perdiendo clientes con alto valor acumulado a un ritmo alarmante. Según el último informe de ICE Mortgage Monitor, los propietarios alcanzaron un récord de 17.5 billones de dólares en plusvalía durante el tercer trimestre. A pesar de esta enorme riqueza, los administradores actuales retuvieron solo el 27% de los clientes que refinanciaron, cuatro puntos porcentuales menos que en el trimestre anterior. Lo peor para los equipos de retención es que los refinanciamientos con extracción de efectivo (cash-out) causaron el 75% de las pérdidas de clientes. Cuando los dueños de casa deciden usar su capital, buscan activamente mejores opciones con prestamistas competidores. Desde la perspectiva del asesor (underwriter), las entidades actuales tienen la gran ventaja de conocer el historial de pagos. No aprovechar esa información es un fallo operativo que los competidores no dudarán en capitalizar hoy mismo.\n\nFuente : https://tinyurl.com/2andzly5\n#SafetrustMortgage #MortgageIntelligenceDaily #mortgagebroker me",
+      "hashtags": [
+        "#SafetrustMortgage",
+        "#MortgageIntelligenceDaily",
+        "#mortgagebroker me"
+      ],
+      "hook_tag": "Estrategia de servicio",
+      "hook": "Los administradores pierden a tres de cada cuatro clientes de refinanciamiento.",
+      "what_happened_heading": "La plusvalía récord choca con la caída en retención",
+      "what_happened": "Los propietarios en EE. UU. alcanzaron un récord de 17.5 billones de dólares en valor acumulado durante el tercer trimestre, según ICE Mortgage Monitor. Al mismo tiempo, la retención de clientes cayó al 27% debido a que los refinanciamientos con extracción de efectivo representaron el 75% de las pérdidas.",
+      "breakdown": [
+        {
+          "heading": "El valor acumulado alcanza niveles históricos",
+          "body": "Los propietarios acumulan 17.5 billones de dólares en valor patrimonial. Sin embargo, los administradores actuales no logran convertir ese capital en nuevos préstamos."
+        },
+        {
+          "heading": "La tasa de retención se desploma",
+          "body": "Los administradores solo retuyeron al 27% de los clientes que refinanciaron en el tercer trimestre. Esto representa una caída de cuatro puntos respecto al trimestre previo."
+        },
+        {
+          "heading": "La extracción de efectivo impulsa las pérdidas",
+          "body": "Los refinanciamientos con extracción de efectivo (cash-out) causaron el 75% de las salidas de clientes. Los propietarios buscan activamente otros prestamistas para liberar su dinero."
+        },
+        {
+          "heading": "El enfoque del asesor en la retención",
+          "body": "El asesor (underwriter) analiza la consolidación de deudas. Aunque el administrador tiene el historial de pagos para agilizar la aprobación, permite que otros ganen el cliente."
+        }
+      ],
+      "my_take_heading": "Confiar solo en publicidad arruina la retención",
+      "my_take": "Los prestamistas pierden clientes porque envían cartas en vez de monitorear cambios en sus deudas. Si tu equipo no identifica automáticamente quién califica para una refinanciación, otro prestamista se ganará la cuenta.",
+      "action_lo": "Revisa tu cartera cada mes para identificar clientes con alta plusvalía y deudas secundarias antes de que la competencia los contacte.",
+      "action_realtor": "Alíate con oficiales de préstamos para ofrecer revisiones de plusvalía a antiguos clientes que busquen financiar remodelaciones.",
+      "cta_question": "¿Tu plataforma de servicio identifica activamente a candidatos para refinanciar o solo envía correo postal?"
+    },
+    {
+      "slug": "condo-market-buyer-power",
+      "title": "El gran cambio en el poder del comprador de condominios",
+      "source": "Redfin",
+      "source_url": "https://www.redfin.com/news/condo-fall-2026/",
+      "cover_text": "Los compradores de condominios tienen ventaja histórica",
+      "caption": "Los compradores de condominios tienen hoy más poder de negociación que nunca. Según datos de Redfin, en septiembre hubo un 123% más vendedores de condominios que compradores en todo el país. Esta es la brecha entre oferta y demanda más amplia registrada desde 2013. Aunque las noticias destacan el poder del comprador, el asesor (underwriter) ve una realidad diferente. El alto inventario se debe a mayores cuotas de HOA y evaluaciones especiales que elevan la relación deuda-ingreso (DTI) más allá de los límites permitidos. Además, un presupuesto no aprobado o una cobertura de seguro insuficiente en el edificio pueden arruinar la transacción, sin importar las rebajas de precio. Los prestamistas deben verificar la elegibilidad del proyecto a tiempo.\n\nFuente : https://tinyurl.com/26z7hcvx\n#SafetrustMortgage #MortgageIntelligenceDaily #housingmarket #realestateagent #mortgagebroker",
+      "hashtags": [
+        "#SafetrustMortgage",
+        "#MortgageIntelligenceDaily",
+        "#housingmarket",
+        "#realestateagent",
+        "#mortgagebroker"
+      ],
+      "hook_tag": "Dinámica del mercado",
+      "hook": "Ahora hay el doble de vendedores de condominios que compradores.",
+      "what_happened_heading": "La oferta de condominios supera por mucho la demanda",
+      "what_happened": "Los datos de Redfin muestran que en septiembre hubo un 123% más vendedores que compradores de condominios a nivel nacional. Esta diferencia representa la brecha más amplia entre vendedores y compradores registrada desde el año 2013.",
+      "breakdown": [
+        {
+          "heading": "La brecha entre vendedores aumenta",
+          "body": "La distancia entre compradores y vendedores creció al 123% en septiembre. Esto representa un aumento significativo en comparación con el 95.5% registrado un año antes."
+        },
+        {
+          "heading": "Ventaja histórica para compradores",
+          "body": "Quienes compran condominios tienen más poder de negociación que en los últimos trece años. Los vendedores compiten agresivamente para atraer a los pocos compradores activos en el mercado."
+        },
+        {
+          "heading": "La mirada del asesor sobre los proyectos",
+          "body": "El asesor (underwriter) evalúa el exceso de inventario junto con los riesgos del presupuesto de la HOA. El mantenimiento diferido y los altos seguros vuelven las revisiones muy estrictas."
+        },
+        {
+          "heading": "Presión sobre la relación deuda-ingreso",
+          "body": "Cuotas de HOA más altas elevan directamente la relación deuda-ingreso (DTI). Un descuento en el precio de venta suele anularse por el aumento mensual de las tarifas de la asociación."
+        }
+      ],
+      "my_take_heading": "Las rebajas de precio no arreglan proyectos no financiables",
+      "my_take": "Los vendedores pueden bajar precios, pero si las reservas de la HOA no cumplen los requisitos, la aprobación se cae en revisión. La capacidad de negociación no sirve si el condominio no califica para el préstamo.",
+      "action_lo": "Revisa los estados financieros de la HOA y la elegibilidad del condominio antes de que tus clientes hagan ofertas bajas.",
+      "action_realtor": "Aconseja a los vendedores resolver las alertas del cuestionario de la HOA a tiempo, en lugar de solo reducir precios.",
+      "cta_question": "¿Cómo están afectando las cuotas altas de la HOA las aprobaciones de condominios este trimestre?"
+    },
+    {
+      "slug": "dual-credit-score-underwriting",
+      "title": "Manejo de FICO y VantageScore en operaciones hipotecarias",
+      "source": "National Mortgage Professional",
+      "source_url": "https://nationalmortgageprofessional.com/news/fico-vs-vantagescore-lenders-gain-more-options-qualify-borrowers",
+      "cover_text": "Prestamistas evalúan solicitudes con doble puntaje crediticio",
+      "caption": "La evaluación del crédito hipotecario está experimentando su mayor cambio en años. Informative Research anunció que sus clientes ya usan Classic FICO y VantageScore 4.0 para evaluar solicitudes tras una actualización tecnológica. Esto ofrece a los oficiales de préstamos más herramientas para calificar a compradores con historial escaso o no tradicional. Sin embargo, para un asesor (underwriter), la doble calificación genera nuevos retos. Las discrepancias en el manejo de colecciones médicas o datos crediticios requieren un análisis manual más profundo. Además, los inversionistas del mercado secundario deben ajustar sus tablas de precios para evitar rechazos de bloqueo al final del proceso. Los equipos operativos capacitados para interpretar ambos reportes obtendrán una ventaja competitiva real frente a la competencia.\n\nFuente : https://tinyurl.com/25a2dnnf\n#SafetrustMortgage #MortgageIntelligenceDaily #mortgagerates #loanofficer #firsttimehomebuyer",
+      "hashtags": [
+        "#SafetrustMortgage",
+        "#MortgageIntelligenceDaily",
+        "#mortgagerates",
+        "#loanofficer",
+        "#firsttimehomebuyer"
+      ],
+      "hook_tag": "Tecnología de aprobación",
+      "hook": "Evaluar dos modelos de crédito cambia la calificación del comprador.",
+      "what_happened_heading": "Prestamistas implementan opciones de doble puntaje crediticio",
+      "what_happened": "Informative Research actualizó su tecnología para permitir que los prestamistas hipotecarios obtengan tanto Classic FICO como VantageScore 4.0. Las entidades financieras utilizan activamente ambos modelos para analizar el historial de crédito en las solicitudes de hipoteca.",
+      "breakdown": [
+        {
+          "heading": "La actualización tecnológica ya está disponible",
+          "body": "Informative Research habilitó el soporte para múltiples modelos de crédito. Ahora los prestamistas pueden acceder a Classic FICO y VantageScore 4.0 de forma fluida."
+        },
+        {
+          "heading": "Nuevas rutas para calificar compradores",
+          "body": "Contar con varios modelos permite analizar el historial crediticio con algoritmos alternativos. Esto abre nuevas vías para calificar a potenciales compradores de vivienda."
+        },
+        {
+          "heading": "La postura del asesor ante la doble puntuación",
+          "body": "El asesor (underwriter) debe analizar las diferencias entre ambos modelos. Discrepancias en deudas médicas o expedientes crediticios reducidos generan nuevas condiciones para la aprobación."
+        },
+        {
+          "heading": "Desafíos en la ejecución operativa",
+          "body": "Los precios del mercado secundario aún dependen de parámetros tradicionales. Los equipos de operaciones deben alinear los requisitos de los inversionistas con estas herramientas modernas."
+        }
+      ],
+      "my_take_heading": "El doble puntaje añade complejidad antes que flexibilidad",
+      "my_take": "Tener más opciones de puntaje no garantiza aprobaciones más sencillas. Hasta que el mercado secundario no adapte sus precios por igual, usar dos modelos implicará el doble de análisis operativo en los expedientes límite.",
+      "action_lo": "Compara las diferencias entre reportes crediticios para identificar a los clientes cuyo VantageScore consiga mejores tasas.",
+      "action_realtor": "Explica a los compradores con historial crediticio limitado que las nuevas opciones de evaluación pueden ayudarlos a calificar antes.",
+      "cta_question": "¿Está tu sistema listo para procesar análisis crediticios con múltiples modelos sin complicaciones?"
+    },
+    {
+      "slug": "state-rules-home-equity-investments",
+      "title": "Reguladores estatales vigilan las inversiones de capital acumulado",
+      "source": "National Mortgage Professional",
+      "source_url": "https://nationalmortgageprofessional.com/news/states-tighten-mortgage-rules-home-equity-investments",
+      "cover_text": "Estados aumentan el control sobre inversiones de plusvalía",
+      "caption": "Los reguladores estatales están examinando de cerca los contratos de inversión en plusvalía residencial. Desde el 6 de noviembre, Massachusetts exige normas estrictas de divulgación y administración para hipotecas de apreciación compartida, uniéndose a otros estados con mayor supervisión. Estos productos permiten intercambiar valor futuro por dinero en efectivo sin pagos mensuales. Sin embargo, para el asesor (underwriter), funcionan como gravámenes secundarios complejos. Al refinanciar o vender, surgen problemas de título para calcular la relación préstamo a valor combinado (CLTV) y liberar acuerdos de subordinación. Con reglas más strictly exigentes, prestamistas y agentes de cierre deben prepararse para mayores controles de cumplimiento. Es vital identificar estos gravámenes al inicio del proceso para evitar retrasos en el título.\n\nFuente : https://tinyurl.com/26eqbjb4\n#SafetrustMortgage #MortgageIntelligenceDaily #mortgagebroker #homebuying #realestateinvesting",
+      "hashtags": [
+        "#SafetrustMortgage",
+        "#MortgageIntelligenceDaily",
+        "#mortgagebroker",
+        "#homebuying",
+        "#realestateinvesting"
+      ],
+      "hook_tag": "Alerta regulatoria",
+      "hook": "Los estados endurecen reglas para acuerdos de capital compartido.",
+      "what_happened_heading": "Massachusetts impone reglas estrictas a la plusvalía compartida",
+      "what_happened": "Varios estados aumentan la supervisión sobre contratos que ofrecen dinero en efectivo a cambio de una parte de la apreciación futura de la vivienda. Una norma en Massachusetts, vigente desde el 6 de noviembre, exige reglas claras de divulgación y administración para estos financiamientos.",
+      "breakdown": [
+        {
+          "heading": "Entra en vigor una mayor supervisión estatal",
+          "body": "Massachusetts implementó reglas de transparencia y reporte el 6 de noviembre. Otros estados avanzan en la misma dirección ajustando los requisitos para contratos de apreciación compartida."
+        },
+        {
+          "heading": "Enfocados en los acuerdos de apreciación compartida",
+          "body": "Estos acuerdos otorgan a inversionistas privados una parte del valor futuro del inmueble. Las autoridades intervienen ante el aumento en el uso de estos productos alternativos."
+        },
+        {
+          "heading": "El punto de vista del asesor sobre los gravámenes",
+          "body": "El asesor (underwriter) considera estos contratos registrados como gravámenes secundarios. Esto complica los cálculos de la relación préstamo a valor combinado (CLTV) y la limpieza del título."
+        },
+        {
+          "heading": "Impacto en las liquidaciones futuras de hipotecas",
+          "body": "Los términos de pago poco claros en contratos compartidos retrasan las aprobaciones. Cuando un propietario intenta refinanciar, los gravámenes sin verificar pueden hacer caer la transacción."
+        }
+      ],
+      "my_take_heading": "El capital compartido se vendió sin deuda pero frena refinanciaciones",
+      "my_take": "Aunque se promocionaron como efectivo sin deudas, los reguladores ven estos contratos como gravámenes complejos. Los problemas de título y las exigencias de subordinación demorarán la aprobación de futuras refinanciaciones.",
+      "action_lo": "Audita los preliminares de título en refinanciaciones para detectar contratos de apreciación compartida que afecten la posición de gravamen.",
+      "action_realtor": "Advierte a los vendedores que los contratos de plusvalía compartida pueden reducir sus ganancias netas y demorar el cierre.",
+      "cta_question": "¿Cómo está manejando tu equipo de procesamiento los gravámenes de apreciación compartida durante la revisión del título?"
+    }
   ]
 }
