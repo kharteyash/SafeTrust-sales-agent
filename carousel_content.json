@@ -1,342 +1,170 @@
 {
   "carousels": [
     {
-      "slug": "nar-pent-up-housing-demand",
-      "title": "The truth about pent-up demand",
-      "source": "HousingWire",
-      "source_url": "https://www.housingwire.com/articles/nar-pent-up-housing-demand/",
-      "cover_text": "Why pent-up demand will not save housing",
-      "caption": "Lower mortgage rates alone will not magically solve our housing inventory crunch. Industry leaders keep highlighting 350 million citizens and 159 million jobs, yet home sales are stuck near four million transactions. That gap represents buyer interest, but interest does not clear an automated underwriting system when affordability is broken. As an underwriter, I see files fail not from lack of desire, but because DTI (how much of your income goes to debt) is pushed past allowable limits. When rates eventually fall, we will not see transaction volume double overnight. Instead, we will see intense competition for the exact same thin supply of listings. High-producing loan officers and realtors need to stop waiting for rate cuts to fix their pipelines. Build business around existing equity and realistic buyer budgets today.\n\nSource : https://tinyurl.com/222gd32l\n#SafetrustMortgage #MortgageIntelligenceDaily #housingmarket #mortgagerates #loanofficer",
+      "slug": "cash-out-retention-crisis",
+      "title": "Why Servicers Are Losing Cash-Out Borrowers",
+      "source": "National Mortgage Professional",
+      "source_url": "https://nationalmortgageprofessional.com/news/cash-out-borrowers-leave-servicers-behind-home-equity-hits-q3-record",
+      "cover_text": "Servicers are losing your best cash-out borrowers",
+      "caption": "Servicers are bleeding high-equity borrowers at an alarming rate. According to the latest ICE Mortgage Monitor report, homeowners held a record seventeen point five trillion dollars in mortgage equity during the third quarter. Despite this massive asset base, servicers retained only twenty seven percent of refinancing borrowers, down four percentage points from the second quarter. Even worse for retention teams, cash-out refinances caused seventy five percent of refinance-related portfolio losses. When homeowners decide to tap their home equity, they are actively taking their business to competing lenders. From an underwriting perspective, existing servicers hold the ultimate advantage: complete payment history and file data. Failing to convert that edge into an approved loan before a competitor does is an operational failure. Lenders must move away from generic mailers and start using proactive file analysis.\n\nSource : https://tinyurl.com/2andzly5\n#SafetrustMortgage #MortgageIntelligenceDaily #mortgagebroker me",
+      "hashtags": [
+        "#SafetrustMortgage",
+        "#MortgageIntelligenceDaily",
+        "#mortgagebroker me"
+      ],
+      "hook_tag": "Servicing Strategy",
+      "hook": "Servicers are losing three out of four cash-out refi borrowers.",
+      "what_happened_heading": "Record equity meets falling servicer retention",
+      "what_happened": "American homeowners reached a record seventeen point five trillion dollars in mortgage equity in the third quarter according to ICE Mortgage Monitor. Meanwhile servicer retention dropped to twenty seven percent as cash-out refinances drove seventy five percent of refinance customer churn.",
+      "breakdown": [
+        {
+          "heading": "Equity hits historic levels",
+          "body": "Homeowners are sitting on seventeen point five trillion dollars in equity. Yet existing servicers fail to convert this equity into new loan volume."
+        },
+        {
+          "heading": "The retention rate collapses",
+          "body": "Servicers retained just twenty seven percent of refinancing borrowers in the third quarter. That represents a four percentage point decline from the prior quarter."
+        },
+        {
+          "heading": "Cash-outs drive loan losses",
+          "body": "Cash-out refinances accounted for seventy five percent of all refinance-related loan losses for portfolio servicers. Borrowers actively shop elsewhere to unlock their cash."
+        },
+        {
+          "heading": "Underwriter lens on retention",
+          "body": "Underwriters view cash-out files through debt consolidation risk. Existing servicers possess the payment history data to streamline underwriting, yet they let outside lenders win the file."
+        }
+      ],
+      "my_take_heading": "Servicers treat equity like marketing instead of underwriting",
+      "my_take": "Lenders lose cash-out borrowers because they pitch mailers instead of monitoring debt profile shifts. If your underwriting desk does not auto-flag cash-out eligibility, another lender will.",
+      "action_lo": "Run monthly portfolio reviews to spot borrowers with high equity and secondary consumer debt before outside lenders target them.",
+      "action_realtor": "Partner with loan officers to offer home equity checkups for past clients looking to finance renovations.",
+      "cta_question": "Is your servicing platform actively flagging cash-out candidates or just sending direct mail?"
+    },
+    {
+      "slug": "condo-market-buyer-power",
+      "title": "The Massive Shift in Condo Buyer Power",
+      "source": "Redfin",
+      "source_url": "https://www.redfin.com/news/condo-fall-2026/",
+      "cover_text": "Condo buyers now hold historic leverage over sellers",
+      "caption": "The condo market is facing an unprecedented shift in leverage. According to new Redfin data, there were one hundred twenty three percent more condo sellers than buyers nationwide in September. That is the largest supply-demand gap recorded since twenty thirteen, widening from ninety five point five percent a year ago. While news outlets focus on buyer negotiating power, underwriters see a different reality. High inventory is driven by surging HOA dues and special assessments that push DTI (how much of your income goes to debt) past qualifying limits. Furthermore, unapproved project budgets or inadequate insurance coverage can kill a transaction regardless of price concessions. Smart originators must look past listing prices and verify project warrantability early. Negotiating leverage is worthless if the building fails secondary market underwriting guidelines.\n\nSource : https://tinyurl.com/26z7hcvx\n#SafetrustMortgage #MortgageIntelligenceDaily #housingmarket #realestateagent #mortgagebroker",
       "hashtags": [
         "#SafetrustMortgage",
         "#MortgageIntelligenceDaily",
         "#housingmarket",
-        "#mortgagerates",
-        "#loanofficer"
-      ],
-      "hook_tag": "Market Reality Check",
-      "hook": "Pent-up demand will not spark a housing boom on its own.",
-      "what_happened_heading": "Existing home sales lag macro economic growth",
-      "what_happened": "Lawrence Yun noted the U.S. population reached 350 million while payroll jobs hit 159 million. Yet home sales remain stuck near 4 million transactions annually, well below levels seen in 2000.",
-      "breakdown": [
-        {
-          "heading": "Population growth creates potential not volume",
-          "body": "Massive job numbers look impressive on paper, but buyers cannot act without housing affordability and rate relief. Demographics alone do not clear a transaction pipeline."
-        },
-        {
-          "heading": "Rate lock-in chokes available inventory",
-          "body": "Existing homeowners refuse to trade their low rates for higher borrowing costs. That structural bottleneck caps annual sales volume regardless of consumer interest."
-        },
-        {
-          "heading": "Underwriters see real affordability limits",
-          "body": "Here is what this actually changes when a file hits underwriting: income ratios are stretched to limits, making DTI (how much of your income goes to debt) fail automation."
-        },
-        {
-          "heading": "Sentiment requires real cost reductions",
-          "body": "Buyers are waiting for better market sentiment and lower borrowing costs before jumping back in. Hope is not an actionable pipeline strategy for loan officers."
-        }
-      ],
-      "my_take_heading": "Rate drops alone will not fix structural inventory",
-      "my_take": "Everyone is banking on pent-up demand to rescue volume, but high prices and locked-in inventory mean lower rates will only ignite bidding wars, not double total transactions.",
-      "action_lo": "Focus on pre-approving price-sensitive buyers now so they can act fast when sentiment shifts.",
-      "action_realtor": "Target move-up sellers with equity calculations showing how much down payment they can transfer today.",
-      "cta_question": "Are your pipeline forecasts relying on lower rates or actual inventory growth?"
-    },
-    {
-      "slug": "dsa-tenant-laws-nar",
-      "title": "Local tenant laws hidden transaction risks",
-      "source": "HousingWire",
-      "source_url": "https://www.housingwire.com/articles/dsa-tenant-laws-nar/",
-      "cover_text": "Local tenant laws are killing property sales",
-      "caption": "Local tenant ordinances are quickly becoming the biggest hidden risk in residential real estate transactions. At NAR NXT, experts warned that ROFR (right of first refusal) laws, just cause eviction policies, and source of income rules are stopping sales in their tracks. When a tenant-occupied property hits my underwriting desk, unverified lease agreements and missing tenant notices cause immediate loan suspensions. Buyers expecting to move in at closing get trapped in months of legal delays. Real estate professionals can no longer treat tenant rights as an afterthought during contract negotiations. If you sell or finance tenant-occupied properties, mastering municipal disclosure rules is mandatory to protect your commission and your client.\n\nSource : https://tinyurl.com/2xzpbdbd\n#SafetrustMortgage #MortgageIntelligenceDaily #realestateagent #housingmarket #realestateinvesting",
-      "hashtags": [
-        "#SafetrustMortgage",
-        "#MortgageIntelligenceDaily",
         "#realestateagent",
-        "#housingmarket",
-        "#realestateinvesting"
-      ],
-      "hook_tag": "Legal Risk Watch",
-      "hook": "Ignored local tenant laws are quietly killing closed property sales.",
-      "what_happened_heading": "Speakers warn of legal friction in real estate",
-      "what_happened": "Speakers at NAR NXT highlighted right of first refusal and just cause eviction rules as major sale risks. Source of income protections are also creating unexpected transaction hurdles for unprepared agents.",
-      "breakdown": [
-        {
-          "heading": "Tenant rights disrupt closing timelines",
-          "body": "Right of first refusal gives tenants legal priority to buy properties. If notices are missed, clear title cannot be delivered on schedule."
-        },
-        {
-          "heading": "Just cause eviction stalls owner occupants",
-          "body": "Buyers who plan to occupy tenant-occupied homes face strict eviction restrictions. Sales founder when buyers cannot take possession after closing."
-        },
-        {
-          "heading": "Underwriters reject unverified tenant lease terms",
-          "body": "Here is what this actually changes when a file hits underwriting: appraisers and title underwriters will halt final loan approval if tenant lease rights remain unresolved."
-        },
-        {
-          "heading": "Source of income rules block standard vetting",
-          "body": "Local laws preventing voucher discrimination alter landlord vetting strategies. Violating these rules creates massive legal liability during property transfers."
-        }
-      ],
-      "my_take_heading": "Compliance knowledge is the new transaction currency",
-      "my_take": "Agents who only focus on marketing will lose deals to local legal traps, while proactive professionals secure transactions by auditing tenant leases before listing.",
-      "action_lo": "Review tenant-occupied property files for lease terms and occupancy clauses prior to submitting to underwriting.",
-      "action_realtor": "Audit listing agreements on tenant-occupied homes for local right of first refusal and eviction compliance immediately.",
-      "cta_question": "Is your team vetting local tenant ordinances before writing offers on tenant-occupied homes?"
-    },
-    {
-      "slug": "nar-warns-ai-risks",
-      "title": "The hidden risks of real estate AI",
-      "source": "HousingWire",
-      "source_url": "https://www.housingwire.com/articles/nar-warns-ai-risks/",
-      "cover_text": "Free AI tools are exposing your business",
-      "caption": "Using free AI tools for real estate transactions is a compliance nightmare waiting to happen. At NAR NXT, tech expert Mike Woodward gave a blunt warning: you are the product when using free platforms. Inputting sensitive financial information or contract details into open systems violates privacy and risks exposing PII (personally identifiable information). Even worse, live demos showed these tools generating complete factual errors about property terms. From an underwriter's view, reliance on unverified summaries will lead to outright loan denials. Technology is built to assist human expertise, not replace due diligence. Industry professionals must switch to enterprise-grade, secure software and double-check every output before communicating with clients or lenders.\n\nSource : https://tinyurl.com/2yd6os5e\n#SafetrustMortgage #MortgageIntelligenceDaily #realestateagent #loanofficer #mortgagebroker",
-      "hashtags": [
-        "#SafetrustMortgage",
-        "#MortgageIntelligenceDaily",
-        "#realestateagent",
-        "#loanofficer",
         "#mortgagebroker"
       ],
-      "hook_tag": "Tech Risk Warning",
-      "hook": "Free AI tools are leaking client data and hallucinating facts.",
-      "what_happened_heading": "Expert cautions against unsafe artificial intelligence usage",
-      "what_happened": "Speaker Mike Woodward warned real estate professionals against using free AI tools for confidential client data. Live demonstrations at the event revealed multiple factual errors produced by unverified systems.",
+      "hook_tag": "Market Dynamics",
+      "hook": "There are now twice as many condo sellers as buyers.",
+      "what_happened_heading": "Condo supply surges far past buyer demand",
+      "what_happened": "Redfin data shows there were one hundred twenty three percent more condo sellers than buyers nationwide in September. This represents the widest gap between condo sellers and buyers since records began in twenty thirteen.",
       "breakdown": [
         {
-          "heading": "Confidential data leaks through public AI models",
-          "body": "Inputting client tax returns or purchase contracts into free platforms uploads sensitive information to public training servers without consumer consent."
+          "heading": "The seller gap widens",
+          "body": "The buyer-seller gap grew to one hundred twenty three percent in September. That is up significantly from ninety five point five percent one year earlier."
         },
         {
-          "heading": "Hallucinations introduce serious legal risk",
-          "body": "AI tools frequently invent zoning rules, property details, and contract clauses. Relying on unverified outputs creates direct professional liability."
+          "heading": "Historic buyer leverage",
+          "body": "Condo buyers currently command more negotiating power than at any point in the last thirteen years. Sellers are competing fiercely for limited buyer activity."
         },
         {
-          "heading": "Underwriters reject unverified document summaries",
-          "body": "Here is what this actually changes when a file hits underwriting: automated AI summaries of bank statements or tax returns carry zero weight without original source verification."
+          "heading": "Underwriter lens on condo projects",
+          "body": "Underwriters view bloated inventory alongside HOA budget risks. Mounting deferred maintenance and rising master policy insurance premiums make project reviews far stricter."
         },
         {
-          "heading": "Enterprise security must replace consumer tools",
-          "body": "Professionals must adopt paid, closed-loop software that guarantees data privacy rather than risking data breaches with consumer applications."
+          "heading": "DTI pressure on condo buyers",
+          "body": "Higher HOA dues directly inflate DTI (how much of your income goes to debt). A price discount on a condo often gets wiped out by skyrocketing monthly association fees."
         }
       ],
-      "my_take_heading": "Convenience without verification is professional negligence",
-      "my_take": "AI should expand your productivity, not replace your professional judgment, because the moment your software lies, your brand takes the hit.",
-      "action_lo": "Establish strict guidelines forbidding the paste of PII (personally identifiable information) into open-source consumer chatbots.",
-      "action_realtor": "Audit all AI-generated listing copy and market reports for accuracy before publishing them to public portals.",
-      "cta_question": "Does your brokerage have a formal policy governing AI usage and client data privacy?"
+      "my_take_heading": "Price discounts cannot fix broken condo project underwriting",
+      "my_take": "Sellers can cut prices all day, but if HOA reserves fail warrantability guidelines, the file dies in underwriting. Leverage only matters if the condo project itself is lendable.",
+      "action_lo": "Pre-screen condo building warrantability and HOA financial docs before sending buyers out to make lowball offers.",
+      "action_realtor": "Advise condo sellers to address HOA questionnaire red flags early rather than relying solely on price drops.",
+      "cta_question": "How are high HOA fees impacting your team's condo approvals this quarter?"
     },
     {
-      "slug": "nar-mls-policy-updates",
-      "title": "New MLS policy options explained",
-      "source": "HousingWire",
-      "source_url": "https://www.housingwire.com/articles/nar-mls-policy-updates/",
-      "cover_text": "New MLS policy changes listing data rules",
-      "caption": "Data ownership is the new battleground in residential real estate. NAR's latest policy updates give MLS (multiple listing service) organizations option to claim up to a 50 percent copyright interest in listing content. With quarterly legal registrations and broker opt-out mechanisms, these updates aim to stop third-party platforms from unauthorized data scraping. When listing records are disputed or improperly licensed, title work and property appraisal verification can grind to a halt in underwriting. This policy shift gives brokers control over their hard-earned intellectual property. As tech platforms consolidate real estate information, brokerages must understand these options to maintain control over their listings and client relationships.\n\nSource : https://tinyurl.com/22lbshcw\n#SafetrustMortgage #MortgageIntelligenceDaily #realestateagent #mortgagebroker #housingmarket",
+      "slug": "dual-credit-score-underwriting",
+      "title": "Navigating FICO and VantageScore in Mortgage Operations",
+      "source": "National Mortgage Professional",
+      "source_url": "https://nationalmortgageprofessional.com/news/fico-vs-vantagescore-lenders-gain-more-options-qualify-borrowers",
+      "cover_text": "Lenders are adopting dual credit score evaluation",
+      "caption": "Credit score evaluation in mortgage lending is undergoing its biggest change in years. Informative Research announced that its clients are now actively utilizing both Classic FICO and VantageScore four point zero to evaluate mortgage applications following a core technology upgrade. This shift offers loan officers more tools to qualify non-traditional or thin-file borrowers. However, from an underwriting perspective, dual scoring introduces new friction. Discrepancies between how FICO and VantageScore evaluate items like medical collections or trended credit data require deeper manual analysis. Moreover, secondary market aggregators must align their pricing grids to avoid locks getting rejected late in the process. Lenders that train their ops teams to read both credit profiles effectively will gain a distinct competitive edge while others struggle with compliance overlay confusion.\n\nSource : https://tinyurl.com/25a2dnnf\n#SafetrustMortgage #MortgageIntelligenceDaily #mortgagerates #loanofficer #firsttimehomebuyer",
       "hashtags": [
         "#SafetrustMortgage",
         "#MortgageIntelligenceDaily",
-        "#realestateagent",
-        "#mortgagebroker",
-        "#housingmarket"
-      ],
-      "hook_tag": "Industry Policy Shift",
-      "hook": "New MLS policies change how listing data and copyrights operate.",
-      "what_happened_heading": "NAR board approves flexible data licensing guidelines",
-      "what_happened": "NAR introduced new optional policies allowing MLSs to claim up to a 50 percent copyright interest in listing content. The rules also establish quarterly copyright registration and broker opt-out options.",
-      "breakdown": [
-        {
-          "heading": "Copyright ownership protects property content",
-          "body": "MLSs can now secure shared ownership of listing photos and remarks. This helps prevent third-party tech platforms from scraping broker content without permission."
-        },
-        {
-          "heading": "Quarterly registration strengthens legal enforcement",
-          "body": "Regular copyright registration gives MLS (multiple listing service) entities stronger standing to sue unauthorized aggregators for copyright infringement."
-        },
-        {
-          "heading": "Broker opt outs protect proprietary data",
-          "body": "Brokers receive explicit rights to opt out of data-sharing features. This gives brokerages more control over where their listings are syndicated."
-        },
-        {
-          "heading": "Underwriters rely on accurate property data",
-          "body": "Here is what this actually changes when a file hits underwriting: clearer listing data rights reduce legal disputes that can cloud property records during appraisals."
-        }
-      ],
-      "my_take_heading": "Controlling listing data rights secures future broker value",
-      "my_take": "Modern real estate is powered by data, and brokerages that safeguard their listing IP (intellectual property) today retain competitive leverage tomorrow.",
-      "action_lo": "Coordinate with real estate partners to ensure MLS listing data feeds align smoothly with your digital pre-approval platforms.",
-      "action_realtor": "Review your local MLS opt-out settings and copyright terms to protect your property photos and listing descriptions.",
-      "cta_question": "Will your local MLS adopt these optional copyright rules to protect broker data?"
-    }
-  ],
-  "carousels_es": [
-    {
-      "slug": "nar-pent-up-housing-demand",
-      "title": "La verdad sobre la demanda reprimida",
-      "source": "HousingWire",
-      "source_url": "https://www.housingwire.com/articles/nar-pent-up-housing-demand/",
-      "cover_text": "La demanda acumulada no salvará el mercado",
-      "caption": "Bajar las tasas de interés no resolverá mágicamente la falta de casas en el mercado.\n\nMuchos hablan de 350 millones de habitantes y 159 millones de empleos, pero las ventas siguen estancadas cerca de cuatro millones de transacciones. Hay interés de compra, sí, pero ese deseo no aprueba un préstamo cuando la capacidad de pago está rota. Como asesor, veo solicitudes rechazadas no por falta de ganas, sino porque el DTI (el porcentaje de ingresos para pagar deudas) supera los límites permitidos. Cuando las tasas bajen, las ventas no se duplicarán de la noche a la mañana. En cambio, veremos una competencia feroz por las pocas casas disponibles. Es momento de dejar de esperar bajas de tasas y construir negocio hoy con la plusvalía existente y presupuestos reales.\n\nFuente : https://tinyurl.com/222gd32l\n#SafetrustMortgage #MortgageIntelligenceDaily #housingmarket #mortgagerates #loanofficer",
-      "hashtags": [
-        "#SafetrustMortgage",
-        "#MortgageIntelligenceDaily",
-        "#housingmarket",
         "#mortgagerates",
-        "#loanofficer"
+        "#loanofficer",
+        "#firsttimehomebuyer"
       ],
-      "hook_tag": "Realidad del mercado",
-      "hook": "La demanda acumulada no creará un boom inmobiliario por sí sola.",
-      "what_happened_heading": "Las ventas de casas usadas quedan rezagadas frente al crecimiento económico",
-      "what_happened": "Lawrence Yun destacó que la población de EE. UU. alcanzó los 350 millones y los empleos llegaron a 159 millones. Sin embargo, las ventas de casas siguen estancadas cerca de los 4 millones anuales, muy por debajo de los niveles del año 2000.",
+      "hook_tag": "Underwriting Tech",
+      "hook": "Evaluating two credit scoring models alters borrower qualification.",
+      "what_happened_heading": "Lenders deploy dual credit score options",
+      "what_happened": "Informative Research upgraded its technology infrastructure to allow mortgage lenders to pull both Classic FICO and VantageScore four point zero. Lenders are actively using both models to evaluate borrower credit profiles on mortgage applications.",
       "breakdown": [
         {
-          "heading": "El crecimiento de población crea potencial, no ventas",
-          "body": "Tener récords de empleo impresiona en el papel, pero sin precios accesibles ni mejores tasas, la gente no puede comprar. Las cifras demográficas no cierran transacciones por sí solas."
+          "heading": "Infrastructure upgrade goes live",
+          "body": "Credit provider Informative Research enabled system support for multiple credit scoring models. Mortgage lenders can now seamlessly access Classic FICO alongside VantageScore four point zero."
         },
         {
-          "heading": "El freno de las tasas congela el inventario",
-          "body": "Los propietarios actuales se niegan a cambiar sus tasas bajas por costos de financiamiento mayores. Ese cuello de botella frena el volumen de ventas sin importar cuánto interés exista."
+          "heading": "Expanded qualification paths",
+          "body": "Having multiple scoring models allows originators to evaluate credit profiles through alternative scoring algorithms. This provides additional paths to qualify prospective borrowers."
         },
         {
-          "heading": "Los asesores ven límites reales de capacidad de pago",
-          "body": "Esto es lo que cambia al evaluar el préstamo: los ingresos quedan demasiado ajustados y el DTI (porcentaje de ingresos destinado a deudas) impide la aprobación automática."
+          "heading": "Underwriter lens on dual scoring",
+          "body": "Underwriters must analyze score variances between models. Discrepancies in medical debt treatment or thin credit files between FICO and VantageScore create new conditioning requirements."
         },
         {
-          "heading": "El mercado necesita reducciones reales de costos",
-          "body": "Los compradores esperan mejores costos de financiamiento para volver a intentarlo. Como profesional de préstamos, la esperanza no es una estrategia real para mantener tu negocio activo."
+          "heading": "Operational execution hurdles",
+          "body": "Secondary market investor pricing still relies heavily on legacy credit thresholds. Ops teams must bridge investor delivery guidelines with modern credit evaluation tools."
         }
       ],
-      "my_take_heading": "Bajar las tasas no resolverá el problema de inventario",
-      "my_take": "Muchos confían en la demanda acumulada, pero con precios altos e inventario congelado, bajar las tasas solo desatará guerras de ofertas en lugar de duplicar las ventas totales.",
-      "action_lo": "Preaprueba hoy a compradores sensibles al precio para que actúen rápido cuando cambie el mercado.",
-      "action_realtor": "Muestra a los vendedores actuales cuánta plusvalía pueden transferir como pago inicial para su siguiente compra.",
-      "cta_question": "¿Tus proyecciones dependen de bajas de tasas o del crecimiento real del inventario?"
+      "my_take_heading": "Dual credit scoring creates operational complexity before loan flexibility",
+      "my_take": "More scoring options do not guarantee easier approvals. Until secondary market pricing aligns perfectly across both models, dual scores mean double the underwriting analysis on edge-case files.",
+      "action_lo": "Review credit report variances between models to identify borrowers whose VantageScore unlocks better pricing options.",
+      "action_realtor": "Educate buyers with thin credit histories that modern scoring options may help them qualify sooner.",
+      "cta_question": "Is your origination platform ready to handle multi-model credit analysis seamlessly?"
     },
     {
-      "slug": "dsa-tenant-laws-nar",
-      "title": "Leyes de inquilinos y sus riesgos ocultos",
-      "source": "HousingWire",
-      "source_url": "https://www.housingwire.com/articles/dsa-tenant-laws-nar/",
-      "cover_text": "Las leyes de inquilinos están frenando ventas",
-      "caption": "Las ordenanzas locales sobre inquilinos se están convirtiendo en el mayor riesgo oculto al vender una propiedad.\n\nEn la conferencia NAR NXT, los expertos advierten que el derecho de primera opción (ROFR), las reglas de desalojo por causa justa y las normas sobre fuentes de ingresos están frenando transacciones. Cuando me llega un expediente con inquilinos, la falta de contratos verificados o avisos pendientes frena el préstamo de inmediato. Los compradores que planeaban mudarse al cerrar terminan atrapados en meses de retrasos legales. Hoy los profesionales inmobiliarios deben revisar los derechos de los inquilinos desde el primer momento. Si vendes o financias propiedades alquiladas, dominar estas reglas locales es obligatorio para proteger tu comisión y a tu cliente.\n\nFuente : https://tinyurl.com/2xzpbdbd\n#SafetrustMortgage #MortgageIntelligenceDaily #realestateagent #housingmarket #realestateinvesting",
+      "slug": "state-rules-home-equity-investments",
+      "title": "State Regulators Target Home Equity Investments",
+      "source": "National Mortgage Professional",
+      "source_url": "https://nationalmortgageprofessional.com/news/states-tighten-mortgage-rules-home-equity-investments",
+      "cover_text": "States tighten oversight on home equity investment deals",
+      "caption": "State regulators are putting home equity investment products under the microscope. Effective November sixth, Massachusetts established strict disclosure, servicing, and reporting requirements for specific shared-appreciation mortgages, joining a growing list of states tightening oversight. These products allow homeowners to trade future equity for upfront cash without monthly debt payments. But from an underwriting standpoint, they function like complex secondary liens. When borrowers apply to refinance or sell, underwriters face title issues trying to calculate exact CLTV (combined loan-to-value ratio) and clear investor subordination agreements. As state rules tighten, lenders and settlement agents must prepare for increased compliance oversight and potential payoff friction. Loan officers need to identify these encumbrances early in processing to prevent deals from stalling at title approval.\n\nSource : https://tinyurl.com/26eqbjb4\n#SafetrustMortgage #MortgageIntelligenceDaily #mortgagebroker #homebuying #realestateinvesting",
       "hashtags": [
         "#SafetrustMortgage",
         "#MortgageIntelligenceDaily",
-        "#realestateagent",
-        "#housingmarket",
+        "#mortgagebroker",
+        "#homebuying",
         "#realestateinvesting"
       ],
-      "hook_tag": "Alerta de riesgo legal",
-      "hook": "Ignorar las leyes locales de inquilinos está cancelando ventas cerradas.",
-      "what_happened_heading": "Expertos advierten sobre trabas legales en bienes raíces",
-      "what_happened": "Durante el evento NAR NXT, varios especialistas señalaron que el derecho de primera opción y los desalojos por causa justa son grandes riesgos para la venta. Además, las normas sobre fuentes de ingresos están generando obstáculos inesperados para los agentes no preparados.",
+      "hook_tag": "Regulatory Alert",
+      "hook": "States are clamping down on shared equity agreements.",
+      "what_happened_heading": "Massachusetts enacts strict home equity investment rules",
+      "what_happened": "States are increasing regulatory oversight of home equity financing agreements that trade cash for a share of future appreciation. A new Massachusetts regulation effective November sixth mandates disclosure servicing and reporting rules for shared-appreciation loans.",
       "breakdown": [
         {
-          "heading": "Los derechos del inquilino alteran los plazos de cierre",
-          "body": "El derecho de primera opción da prioridad legal al inquilino para comprar. Si no envías las notificaciones a tiempo, no se puede entregar un título limpio en la fecha prevista."
+          "heading": "New state oversight takes effect",
+          "body": "Massachusetts implemented mandatory disclosure, servicing, and reporting standards on November sixth. Other states are following suit by tightening rules on shared-appreciation contracts."
         },
         {
-          "heading": "El desalojo por causa justa frena al nuevo dueño",
-          "body": "Quienes compran casas alquiladas para vivir en ellas enfrentan severas restricciones de desalojo. La venta fracasa si el comprador no puede tomar posesión tras el cierre."
+          "heading": "Targeting shared-appreciation deals",
+          "body": "These financial arrangements give private investors a portion of a property's future value. Regulators are stepping in as consumer adoption of alternative home equity products expands."
         },
         {
-          "heading": "Los asesores rechazan contratos de alquiler no verificados",
-          "body": "Esto cambia la evaluación del crédito: si los derechos del inquilino no están resueltos, el evaluador y la compañía de títulos suspenderán la aprobación final del préstamo."
+          "heading": "Underwriter lens on title encumbrances",
+          "body": "Underwriters treat recorded shared-appreciation contracts as secondary liens. These encumbrances complicate CLTV (combined loan-to-value ratio) calculations and title clearance on future refis or sales."
         },
         {
-          "heading": "Las normas de ingresos cambian la selección de inquilinos",
-          "body": "Las leyes que prohíben rechazar cupones de vivienda cambian el análisis de inquilinos. Incumplir estas normas genera serios problemas legales al transferir la propiedad."
+          "heading": "Impact on future mortgage payoffs",
+          "body": "Unclear payoff terms on equity-sharing contracts create severe delays in underwriting. When homeowners try to refinance, unverified investor liens can sink loan approval."
         }
       ],
-      "my_take_heading": "Dominar el cumplimiento legal es la nueva ventaja",
-      "my_take": "Los agentes enfocados solo en promocionar perderán cierres por trampas legales locales, mientras que los profesionales proactivos aseguran ventas auditando contratos antes de publicar la lista.",
-      "action_lo": "Revisa los contratos de arrendamiento y cláusulas de ocupación antes de enviar el archivo a evaluación.",
-      "action_realtor": "Audita de inmediato los acuerdos de venta en casas alquiladas para verificar el cumplimiento de avisos y desalojos.",
-      "cta_question": "¿Tu equipo verifica las normas locales de inquilinos antes de presentar una oferta?"
-    },
-    {
-      "slug": "nar-warns-ai-risks",
-      "title": "Los riesgos ocultos de la inteligencia artificial",
-      "source": "HousingWire",
-      "source_url": "https://www.housingwire.com/articles/nar-warns-ai-risks/",
-      "cover_text": "Usar IA gratuita expone tu negocio inmobiliario",
-      "caption": "Usar herramientas gratuitas de inteligencia artificial en bienes raíces es una bomba de tiempo para tu negocio.\n\nEn la conferencia NAR NXT, el experto Mike Woodward dio una advertencia clara: cuando usas plataformas gratuitas, el producto eres tú. Poner información financiera confidencial o datos del contrato en sistemas abiertos viola la privacidad y expone datos personales (PII). Peor aún, las demostraciones en vivo mostraron que estas herramientas inventan datos por completo. Desde el punto de vista de un asesor, confiar en resúmenes sin verificar causará el rechazo directo del préstamo. La tecnología debe apoyar la experiencia humana, no reemplazar la verificación formal. Es hora de usar software seguro empresarial y verificar cada resultado.\n\nFuente : https://tinyurl.com/2yd6os5e\n#SafetrustMortgage #MortgageIntelligenceDaily #realestateagent #loanofficer #mortgagebroker",
-      "hashtags": [
-        "#SafetrustMortgage",
-        "#MortgageIntelligenceDaily",
-        "#realestateagent",
-        "#loanofficer",
-        "#mortgagebroker"
-      ],
-      "hook_tag": "Alerta sobre tecnología",
-      "hook": "La IA gratuita está filtrando datos de clientes e inventando información.",
-      "what_happened_heading": "Experto advierte sobre el uso inseguro de la IA",
-      "what_happened": "El especialista Mike Woodward advirtió a los profesionales inmobiliarios que no deben usar herramientas gratuitas de IA con información confidencial de clientes. Demostraciones en vivo durante el evento revelaron múltiples errores verdaderos generados por sistemas sin verificar.",
-      "breakdown": [
-        {
-          "heading": "Los modelos públicos filtran información confidencial",
-          "body": "Subir planillas de impuestos o contratos de compra a plataformas gratuitas envía información sensible a servidores públicos sin el consentimiento del cliente."
-        },
-        {
-          "heading": "Las alucinaciones de la IA generan riesgos legales",
-          "body": "Las herramientas de IA suelen inventar reglas de zonificación y cláusulas de contrato. Confiar en información no verificada crea responsabilidad profesional directa."
-        },
-        {
-          "heading": "Los asesores rechazan resúmenes de documentos no verificados",
-          "body": "Esto cambia la revisión del préstamo: los resúmenes creados por IA sobre estados bancarios o impuestos no tienen validez sin la verificación de los documentos originales."
-        },
-        {
-          "heading": "La seguridad empresarial debe reemplazar las herramientas gratuitas",
-          "body": "Los profesionales deben adoptar software privado pagado que garantice la privacidad de los datos, en lugar de arriesgarse a filtraciones con aplicaciones de uso masivo."
-        }
-      ],
-      "my_take_heading": "La comodidad sin verificación es una falta profesional",
-      "my_take": "La IA debe aumentar tu productividad, no reemplazar tu criterio. En el momento en que tu sistema da información falsa, tu reputación sufre el golpe.",
-      "action_lo": "Establece reglas strictly prohibiendo copiar datos personales (PII) en chats públicos de inteligencia artificial.",
-      "action_realtor": "Audita todos los textos de propiedades e informes de mercado generados con IA antes de publicarlos.",
-      "cta_question": "¿Tiene tu empresa una política formal para el uso de IA y privacidad de datos?"
-    },
-    {
-      "slug": "nar-mls-policy-updates",
-      "title": "Nuevas opciones en las políticas del MLS",
-      "source": "HousingWire",
-      "source_url": "https://www.housingwire.com/articles/nar-mls-policy-updates/",
-      "cover_text": "Nuevos cambios en los datos del MLS",
-      "caption": "La propiedad de los datos es el nuevo terreno de juego en el sector inmobiliario.\n\nLas últimas actualizaciones de la NAR permiten a los servicios de listado múltiple (MLS) reclamar hasta un 50 por ciento de derechos de autor sobre el contenido publicado. Con registros trimestrales y opciones para que los agentes excluyan sus datos, estas reglas buscan evitar la copia no autorizada por parte de plataformas de terceros. Cuando los datos de una propiedad se disputan, la revisión del título y el avalúo se frenan en el proceso del préstamo. Este cambio otorga a los agentes el control de su propiedad intelectual. A medida que la tecnología consolida la información inmobiliaria, conocer estas opciones es clave para proteger tus publicaciones y tus clientes.\n\nFuente : https://tinyurl.com/22lbshcw\n#SafetrustMortgage #MortgageIntelligenceDaily #realestateagent #mortgagebroker #housingmarket",
-      "hashtags": [
-        "#SafetrustMortgage",
-        "#MortgageIntelligenceDaily",
-        "#realestateagent",
-        "#mortgagebroker",
-        "#housingmarket"
-      ],
-      "hook_tag": "Cambio en la industria",
-      "hook": "Las nuevas políticas del MLS cambian el control sobre las publicaciones.",
-      "what_happened_heading": "NAR aprueba guías flexibles para licencias de datos",
-      "what_happened": "La junta de NAR aprobó nuevas políticas opcionales que permiten al MLS reclamar hasta un 50 por ciento de derechos de autor sobre las publicaciones. Las reglas también fijan registros de derechos de autor cada trimestre y permiten a las agencias retirar sus datos del sistema.",
-      "breakdown": [
-        {
-          "heading": "Los derechos de autor protegen el contenido",
-          "body": "Los MLS ahora pueden proteger fotos y descripciones de las casas. Esto evita que plataformas externas copien el contenido de los agentes sin permiso."
-        },
-        {
-          "heading": "El registro trimestral refuerza el reclamo legal",
-          "body": "Registrar los datos cada trimestre da a los MLS (servicios de listado múltiple) mayor respaldo legal para demandar a plataformas que usen la información sin autorización."
-        },
-        {
-          "heading": "Las opciones de exclusión protegen la información",
-          "body": "Las agencias reciben el derecho explícito de no compartir sus datos. Esto les permite controlar mejor en qué sitios web se muestran sus propiedades."
-        },
-        {
-          "heading": "Los asesores dependen de datos precisos",
-          "body": "Esto cambia la aprobación del préstamo: tener derechos claros sobre los datos evita disputas legales que pueden frenar el historial del inmueble durante el avalúo."
-        }
-      ],
-      "my_take_heading": "Proteger los datos asegura el valor de tu negocio",
-      "my_take": "El mercado inmobiliario de hoy funciona con datos. Las empresas que protejan su propiedad intelectual hoy mantendrán una gran ventaja competitiva mañana.",
-      "action_lo": "Coordina con tus agentes aliados para asegurar que los datos del MLS se integren bien con tus herramientas digitales.",
-      "action_realtor": "Revisa la configuración de tu MLS local y los términos de derechos de autor para proteger tus fotos y descripciones.",
-      "cta_question": "¿Adoptará tu MLS local estas reglas opcionales para proteger la información?"
+      "my_take_heading": "Shared equity was sold as cash without debt but acts like senior encumbrance",
+      "my_take": "Investors marketed home equity split contracts as debt-free cash, but regulators see them for what they are: complex liens. Expect title delays and strict subordination rules to slow future refis.",
+      "action_lo": "Audit title commitments on refinance applications early to spot recorded shared-appreciation agreements that impact lien position.",
+      "action_realtor": "Warn sellers that existing shared-appreciation contracts may cut into their net proceeds and delay closing timelines.",
+      "cta_question": "How is your processing team handling shared-appreciation liens during title review?"
     }
   ]
 }
