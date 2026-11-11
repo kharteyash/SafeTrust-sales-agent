@@ -168,5 +168,175 @@
       "action_realtor": "Request seller concessions for interest rate buydowns instead of demanding price reductions.",
       "cta_question": "How are you using ARM products to help buyers qualify in this market?"
     }
+  ],
+  "carousels_es": [
+    {
+      "slug": "heloc-balances-surge-underwriting-risks",
+      "title": "Los propietarios usan su plusvalía mientras suben los saldos de los HELOC",
+      "source": "CNBC",
+      "source_url": "https://www.cnbc.com/2026/11/10/heloc-balances-new-york-fed.html",
+      "cover_text": "La verdad sobre el auge del HELOC",
+      "caption": "Muchos dueños eligen una línea de crédito con garantía hipotecaria (HELOC) para proteger su tasa fija baja. Sin embargo, el Banco de la Reserva Federal de Nueva York reporta 18 trimestres consecutivos de alza en los saldos de HELOC, por lo que debemos analizar bien la situación. Un HELOC resuelve necesidades inmediatas de efectivo, pero introduce el riesgo de tasas variables y enredos de subordinación con el tiempo. Cuando un asesor evalúa un futuro expediente de refinanciación, esa segunda hipoteca puede reducir rápidamente tu capacidad de préstamo. Aquí te mostramos cómo guiar a tus clientes antes de que usar su plusvalía se transforme en una trampa de deudas.\n\nFuente : https://tinyurl.com/27n8b3w7\n#SafetrustMortgage #MortgageIntelligenceDaily #heloc #mortgagebroker #housingmarket",
+      "hashtags": [
+        "#SafetrustMortgage",
+        "#MortgageIntelligenceDaily",
+        "#heloc",
+        "#mortgagebroker",
+        "#housingmarket"
+      ],
+      "hook_tag": "Estrategia HELOC",
+      "hook": "Muchos usan su plusvalía como en 2005, pero calculan mal el riesgo.",
+      "what_happened_heading": "Los saldos de HELOC alcanzan cifras históricas",
+      "what_happened": "El Banco de la Reserva Federal de Nueva York reportó el decimoctavo incremento trimestral consecutivo en los saldos de HELOC. Esto representa el mayor aumento en préstamos sobre plusvalía con segunda hipoteca desde 2005.",
+      "breakdown": [
+        {
+          "heading": "Las tasas altas frenan refinanciar",
+          "body": "Muchos dueños no quieren tocar su hipoteca de tasa fija baja. Por eso eligen una línea de crédito con garantía hipotecaria (HELOC) para usar su plusvalía sin cambiar la tasa principal."
+        },
+        {
+          "heading": "Las tasas variables traen sorpresas",
+          "body": "Las tasas de un HELOC son variables. Cuando las tasas de referencia suben, el pago mensual se dispara y aprieta el presupuesto mucho más que un préstamo fijo."
+        },
+        {
+          "heading": "El asesor evalúa el límite total",
+          "body": "Al revisar el expediente, el asesor analiza el límite total de crédito y los pagos máximos. Esto puede elevar de golpe tu relación deuda-ingreso (DTI)."
+        },
+        {
+          "heading": "Refinanciar a futuro se complica",
+          "body": "Las segundas hipotecas exigen acuerdos de subordinación para refinanciar. Si el valor de la propiedad baja o el saldo sube mucho, refinanciar se vuelve casi imposible."
+        }
+      ],
+      "my_take_heading": "Usar tu plusvalía hoy puede frenar tu próxima refinanciación",
+      "my_take": "Usar un HELOC protege tu tasa baja actual, pero suma un riesgo variable a tus finanzas que podría bloquear tus opciones de refinanciar en el futuro.",
+      "action_lo": "Revisa los saldos de HELOC de tus clientes para evaluar consolidar deudas antes de que suban las tasas variables.",
+      "action_realtor": "Explica a los vendedores cómo el pago de un HELOC afecta sus ganancias netas al momento del cierre.",
+      "cta_question": "¿Tus clientes usan el HELOC como algo temporal o están cayendo en una trampa de deuda?"
+    },
+    {
+      "slug": "condo-sellers-outnumber-buyers-underwriting-hurdles",
+      "title": "Los vendedores de condominios duplican a los compradores",
+      "source": "National Mortgage Professional",
+      "source_url": "https://nationalmortgageprofessional.com/news/condo-sellers-outnumber-buyers-2-1-financing-pressures-mount",
+      "cover_text": "Por qué no cierran los condominios baratos",
+      "caption": "La lista de condominios en venta se acumula y hoy hay dos vendedores por cada comprador. Pero no dejes que la baja de precios te confunda pensando que serán cierres sencillos. Las cuotas de HOA al alza, el aumento de seguros y las reglas estrictas hacen que estos préstamos pasen por revisiones muy rigurosas. Muchas veces, un asesor frena el préstamo por falta de reservas en la HOA o fallas en el seguro del edificio antes de ver los ingresos del cliente. Esto es lo que debes verificar a tiempo para cerrar estas compras con éxito.\n\nFuente : https://tinyurl.com/2644owky\n#SafetrustMortgage #MortgageIntelligenceDaily #realestateagent #mortgagerates #homebuying",
+      "hashtags": [
+        "#SafetrustMortgage",
+        "#MortgageIntelligenceDaily",
+        "#realestateagent",
+        "#mortgagerates",
+        "#homebuying"
+      ],
+      "hook_tag": "Financiamiento de condominios",
+      "hook": "Hay muchos condominios en venta, pero las pautas frenan los préstamos.",
+      "what_happened_heading": "Vendedores de condominios duplican a los compradores",
+      "what_happened": "El aumento de condominios en venta ha creado un mercado favorable para los compradores en varias regiones. Sin embargo, las altas cuotas de HOA, los seguros y las pautas más estrictas están frenando los cierres.",
+      "breakdown": [
+        {
+          "heading": "Precios bajos no garantizan aprobación",
+          "body": "Aunque los vendedores bajen precios, el ahorro se pierde con las altas cuotas de administración (HOA) y seguros que elevan el pago mensual."
+        },
+        {
+          "heading": "Falta de mantenimiento cancela préstamos",
+          "body": "Los prestamistas revisan la estructura del edificio. Si la HOA retrasa reparaciones clave, las agencias consideran el proyecto no elegible para financiamiento tradicional."
+        },
+        {
+          "heading": "El asesor revisa primero el edificio",
+          "body": "Cuando el expediente llega a evaluación, el asesor puede rechazar la compra por las pólizas de seguro del edificio antes de revisar el crédito del comprador."
+        },
+        {
+          "heading": "Cuotas extraordinarias arruinan tu presupuesto",
+          "body": "Las cuotas extraordinarias pendientes o futuras se suman a tus gastos mensuales. Esto aumenta de inmediato tu relación deuda-ingreso (DTI) más allá del límite."
+        }
+      ],
+      "my_take_heading": "Una oferta de condominio no sirve si el edificio no califica",
+      "my_take": "Los precios bajos parecen una gran oportunidad, pero el mantenimiento diferido y las cuotas altas de HOA hacen que evaluar condominios sea el mayor riesgo hoy.",
+      "action_lo": "Revisa los cuestionarios de HOA y seguros del edificio antes de enviar la solicitud del condominio a evaluación.",
+      "action_realtor": "Pide el cuestionario de la HOA y la reserva del edificio antes de presentar una oferta por un condominio.",
+      "cta_question": "¿Cómo estás manejando los retos de elegibilidad en condominios en tu mercado?"
+    },
+    {
+      "slug": "younger-borrowers-demand-personal-guidance",
+      "title": "Los compradores jóvenes buscan más asesoría personal",
+      "source": "National Mortgage Professional",
+      "source_url": "https://nationalmortgageprofessional.com/news/younger-borrowers-want-more-personal-guidance-despite-digital-gains",
+      "cover_text": "La tecnología les falla a compradores jóvenes",
+      "caption": "Se pensaba que la tecnología haría facilísimo tramitar una hipoteca, pero los compradores jóvenes opinan lo contrario. El estudio reciente de JD Power muestra que casi la mitad siente que no recibe suficiente atención personalizada de sus prestamistas. Aunque las plataformas en línea ayudan a subir documentos rápido, fallan en educar y generar confianza en el proceso. Cuando existen ingresos independientes o variables, los algoritmos cometen errores que solo un profesional humano puede corregir. Por eso, el acompañamiento cercano siempre le ganará al trámite 100 % digital. Aquí te explicamos cómo marcar la diferencia en tu servicio hoy mismo.\n\nFuente : https://tinyurl.com/2beyo3as\n#SafetrustMortgage #MortgageIntelligenceDaily #loanofficer #firsttimehomebuyer #mortgagebroker",
+      "hashtags": [
+        "#SafetrustMortgage",
+        "#MortgageIntelligenceDaily",
+        "#loanofficer",
+        "#firsttimehomebuyer",
+        "#mortgagebroker"
+      ],
+      "hook_tag": "Experiencia del comprador",
+      "hook": "Los compradores jóvenes prefieren asesoría humana antes que solo aplicaciones digitales.",
+      "what_happened_heading": "Cae la confianza de los compradores según JD Power",
+      "what_happened": "El estudio de JD Power de 2026 reveló que casi la mitad de los compradores jóvenes se sienten ignorados por sus prestamistas. Las mejoras en plataformas digitales no han evitado esta baja en la confianza.",
+      "breakdown": [
+        {
+          "heading": "Las aplicaciones digitales generan falsa confianza",
+          "body": "Llevar a los clientes a portales en línea ahorra tiempo a los prestamistas, pero deja a los compradores primerizos confundidos sobre costos y estructuras del préstamo."
+        },
+        {
+          "heading": "Ingresos complejos requieren atención humana",
+          "body": "Los compradores jóvenes suelen tener ingresos independientes o variables. Los sistemas automáticos sufren para procesar estos datos sin ayuda de un profesional."
+        },
+        {
+          "heading": "El asesor corrige errores del sistema",
+          "body": "Cuando el expediente entra a revisión, los sistemas automatizados (AUS) generan aprobaciones que el asesor humano termina rechazando por errores al calcular los ingresos."
+        },
+        {
+          "heading": "La confianza nace de la comunicación",
+          "body": "Los clientes que reciben orientación directa y avances constantes de su trámite reportan mucha más satisfacción que quienes usan solo herramientas digitales."
+        }
+      ],
+      "my_take_heading": "La tecnología agiliza procesos, pero el asesor cierra la venta",
+      "my_take": "Depender solo de lo digital destruye la confianza de los clientes. Los compradores jóvenes necesitan un asesor humano que los guíe en cada paso del proceso.",
+      "action_lo": "Llama a cada comprador joven tras recibir su solicitud para explicarle cómo verificar ingresos y los pasos de evaluación.",
+      "action_realtor": "Trabaja con oficiales de crédito que ofrezcan llamadas de asesoría en lugar de enviar solo enlaces de solicitud.",
+      "cta_question": "¿Tu tecnología te acerca a tus clientes o está creando distancia entre ustedes?"
+    },
+    {
+      "slug": "rate-locks-plunge-arm-share-rises",
+      "title": "Bloqueos de tasa caen 19 por ciento mientras suben las hipotecas ARM",
+      "source": "National Mortgage Professional",
+      "source_url": "https://nationalmortgageprofessional.com/news/mortgage-locks-plunge-19-despite-rate-relief-arm-share-hits-new-high",
+      "cover_text": "Por qué tasas bajas no impulsaron bloqueos",
+      "caption": "Una pequeña baja de tasas a fin de mes no bastó para evitar que el volumen de bloqueos cayera 19.2% en octubre. Según Optimal Blue, los bloqueos para compras bajaron 18% porque los compradores prefirieron ser cautelosos. Sin embargo, el uso de hipotecas de tasa ajustable (ARM) subió al buscar pagos mensuales iniciales más bajos. Pero la realidad al evaluar el préstamo es otra: las ARM no facilitan calificar de inmediato porque el asesor analiza el expediente con tasas máximas. Te mostramos cómo estructurar compras usando concesiones del vendedor y productos ARM.\n\nFuente : https://tinyurl.com/2aqfm8nj\n#SafetrustMortgage #MortgageIntelligenceDaily #mortgagerates #housingmarket #realestateinvesting",
+      "hashtags": [
+        "#SafetrustMortgage",
+        "#MortgageIntelligenceDaily",
+        "#mortgagerates",
+        "#housingmarket",
+        "#realestateinvesting"
+      ],
+      "hook_tag": "Dinámica del mercado",
+      "hook": "Los bloqueos de tasa cayeron 19 por ciento y subieron préstamos ARM.",
+      "what_happened_heading": "Caen los bloqueos de tasa pese a rebajas temporales",
+      "what_happened": "Optimal Blue reportó que el volumen de bloqueos de tasa bajó un 19.2% en octubre, con una caída del 18% en compras. Al mismo tiempo, las hipotecas de tasa ajustable (ARM) alcanzaron máximos.",
+      "breakdown": [
+        {
+          "heading": "Bajar tasas no motiva por sí solo",
+          "body": "El alivio temporal de tasas no impulsó la demanda porque los precios de las casas siguen manteniendo a muchos compradores al margen."
+        },
+        {
+          "heading": "Compradores buscan opciones ajustables",
+          "body": "Ante la falta de accesibilidad, los compradores eligen préstamos de tasa ajustable (ARM) para asegurar un pago inicial más bajo al comienzo."
+        },
+        {
+          "heading": "El asesor evalúa con la tasa máxima",
+          "body": "Al evaluar la solicitud, el asesor calcula la capacidad con la tasa máxima posible. Por eso las ARM no resuelven automáticamente problemas de relación deuda-ingreso (DTI)."
+        },
+        {
+          "heading": "Concesiones del vendedor marcan diferencia",
+          "body": "Los profesionales combinan hipotecas ARM con concesiones del vendedor (gastos de cierre pagados por el vendedor) para reducir la tasa inicial en lugar de esperar al mercado."
+        }
+      ],
+      "my_take_heading": "Esperar a que bajen las tasas no salvará tu volumen de producción",
+      "my_take": "Esperar a que bajen las tasas es una estrategia perdedora. Mantener tu volumen hoy depende de estructurar préstamos usando hipotecas ARM y concesiones del vendedor.",
+      "action_lo": "Explica a los compradores los requisitos de calificación para hipotecas ARM antes de armar sus propuestas de compra.",
+      "action_realtor": "Solicita concesiones al vendedor para reducir la tasa de interés en vez de pedir rebajas en el precio de venta.",
+      "cta_question": "¿Cómo estás usando las hipotecas ARM para ayudar a calificar a tus clientes en este mercado?"
+    }
   ]
 }
