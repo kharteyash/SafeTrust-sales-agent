@@ -168,5 +168,175 @@
       "action_realtor": "Remind FHA buyers that legal documentation must match official tax records exactly to avoid mid-transaction approval delays.",
       "cta_question": "Is your origination team validating borrower identity data before issuing FHA pre-approvals?"
     }
+  ],
+  "carousels_es": [
+    {
+      "slug": "income-calculation-errors-drive-mortgage-quality-concerns",
+      "title": "Errores en el cálculo de ingresos impulsan preocupaciones sobre la calidad hipotecaria",
+      "source": "National Mortgage Professional",
+      "source_url": "https://nationalmortgageprofessional.com/news/income-calculation-errors-drive-mortgage-quality-concerns",
+      "cover_text": "Por qué los errores dañan tus préstamos",
+      "caption": "Las tasas de defectos bajan, pero no te confíes. Los datos de control de calidad muestran que los errores al calcular ingresos y la elegibilidad del comprador están arruinando los expedientes. Cuando se calcula mal el ingreso de un trabajador independiente o las horas extras, todo colapsa en cuanto el asesor (underwriter) recalcula la relación deuda-ingreso (DTI). Esto genera un enorme riesgo de recompra tras vender el préstamo a Fannie Mae o Freddie Mac. Para aprobar los expedientes sin contratiempos, se debe dominar el análisis de ingresos desde el primer día en lugar de esperar que procesamiento corrija los errores matemáticos más adelante. Revisa este carrusel para entender cómo esto impacta tu producción hoy mismo.\n\nFuente : https://tinyurl.com/2deenlw6\n#SafetrustMortgage #MortgageIntelligenceDaily #mortgagebroker #loanofficer #housingmarket",
+      "hashtags": [
+        "#SafetrustMortgage",
+        "#MortgageIntelligenceDaily",
+        "#mortgagebroker",
+        "#loanofficer",
+        "#housingmarket"
+      ],
+      "hook_tag": "Control de calidad",
+      "hook": "Una menor tasa de defectos oculta el peligro real en tus préstamos.",
+      "what_happened_heading": "Los defectos graves bajan mientras crecen los errores de ingresos",
+      "what_happened": "La tasa general de defectos graves bajó al 1.64 por ciento en el segundo trimestre. Sin embargo, los auditores reportaron que los errores en cálculo de ingresos, elegibilidad del comprador y avalúos ocuparon una proporción cada vez mayor.",
+      "breakdown": [
+        {
+          "heading": "Las tasas de defectos ocultan riesgos clave",
+          "body": "Una menor tasa de defectos crea una falsa seguridad. Los errores restantes se concentran en cálculos complejos de ingresos y en la elegibilidad del comprador."
+        },
+        {
+          "heading": "El ingreso variable confunde al procesamiento",
+          "body": "Los asesores encuentran errores en ingresos variables, bonos y trabajo por cuenta propia. Los sistemas automatizados solo procesan basura si los datos manuales están mal."
+        },
+        {
+          "heading": "La realidad del asesor con los ingresos",
+          "body": "Recalcular ingresos a mitad del proceso exige recalificar al cliente, reduce el monto del préstamo y dispara la relación deuda-ingreso (DTI)."
+        },
+        {
+          "heading": "El riesgo de recompra surge tras el cierre",
+          "body": "Fannie Mae y Freddie Mac auditan con fuerza los ingresos. Un cálculo equivocado en la declaración de impuestos puede convertir un préstamo cerrado en una costosa recompra."
+        }
+      ],
+      "my_take_heading": "Los expedientes fallan por matemáticas básicas",
+      "my_take": "Muchos prestamistas celebran tener menos defectos en general, pero pasan por alto que los equipos de evaluación siguen trabándose con cálculos básicos de ingresos y clientes independientes.",
+      "action_lo": "Recalcula los ingresos variables e independientes usando hojas de revisión secundaria antes de enviar el expediente a procesamiento.",
+      "action_realtor": "Asegúrate de que los compradores con ingresos variables tengan una preaprobación completa, no solo precalificación, antes de hacer ofertas.",
+      "cta_question": "¿Tu equipo de procesamiento detecta los errores de ingresos antes o después de la aprobación condicional?"
+    },
+    {
+      "slug": "newrez-expands-into-personal-loans-deepening-ties-with-upgrade",
+      "title": "Newrez se expande a préstamos personales reforzando alianza con Upgrade",
+      "source": "National Mortgage Professional",
+      "source_url": "https://nationalmortgageprofessional.com/news/newrez-expands-personal-loans-deepening-ties-upgrade",
+      "cover_text": "Cómo monetizar plusvalía sin refinanciar hipotecas",
+      "caption": "Los administradores de hipotecas buscan alternativas a la refinanciación. Saben que los propietarios con tasas del 3 por ciento no harán una refinanciación con extracción de efectivo pronto. Por eso Newrez se unió a Upgrade para ofrecer préstamos personales directamente a su base de clientes. Esto les permite generar ingresos a partir de la demanda de crédito sin modificar la hipoteca actual. Sin embargo, acumular deudas con intereses altos aumenta la relación deuda-ingreso (DTI) y debilita el perfil crediticio. Antes de que tus clientes acepten un préstamo personal para remodelar, asegúrate de que entiendan cómo afectará su capacidad de endeudamiento y su elegibilidad para una línea de crédito con garantía hipotecaria (HELOC).\n\nFuente : https://tinyurl.com/29tro8ga\n#SafetrustMortgage #MortgageIntelligenceDaily #mortgagerates #loanofficer #homebuying",
+      "hashtags": [
+        "#SafetrustMortgage",
+        "#MortgageIntelligenceDaily",
+        "#mortgagerates",
+        "#loanofficer",
+        "#homebuying"
+      ],
+      "hook_tag": "Estrategia de servicio",
+      "hook": "Los administradores monetizan a clientes con bajas tasas sin tocar su hipoteca.",
+      "what_happened_heading": "Newrez se alía con Upgrade para ofrecer préstamos personales",
+      "what_happened": "Newrez amplió su alianza con la plataforma Upgrade para ofrecer préstamos personales no garantizados a sus clientes hipotecarios. Estos préstamos buscan consolidar deudas y financiar mejoras del hogar mientras Upgrade gestiona la originación y administración.",
+      "breakdown": [
+        {
+          "heading": "Las primeras hipotecas siguen bloqueadas",
+          "body": "Más del 80 por ciento de los dueños tienen tasas menores al 5 por ciento. Sin refinanciaciones atractivas, las empresas buscan otras formas de captar crédito."
+        },
+        {
+          "heading": "Los préstamos personales evitan la evaluación hipotecaria",
+          "body": "Al no requerir avalúos ni títulos, los préstamos personales ofrecen dinero rápido. Las empresas generan ingresos sin alterar la hipoteca con tasa baja del cliente."
+        },
+        {
+          "heading": "La realidad del asesor ante el crédito",
+          "body": "Las deudas no garantizadas aumentan los pagos mensuales del cliente. Esto dispara la relación deuda-ingreso (DTI) y complica cualquier refinanciación hipotecaria futura."
+        },
+        {
+          "heading": "La plusvalía se mantiene intacta por ahora",
+          "body": "Aunque consiguen liquidez rápida, las altas tasas de un préstamo personal pueden agotar el flujo de caja del hogar mucho más rápido que una línea de crédito HELOC."
+        }
+      ],
+      "my_take_heading": "Los préstamos personales son la nueva estrategia de retención",
+      "my_take": "Las administradoras de préstamos saben que hoy no pueden refinanciar hipotecas al 3 por ciento. Por eso prefieren vender crédito al consumo con intereses altos para mantener al cliente dentro de su negocio.",
+      "action_lo": "Ofrece a tus clientes una línea de crédito con garantía hipotecaria (HELOC) antes de que tomen préstamos personales con intereses más altos.",
+      "action_realtor": "Explica a los propietarios que planean remodelar cómo sus decisiones de financiamiento a corto plazo afectan las ganancias finales de su venta.",
+      "cta_question": "¿Ofrecer préstamos personales protegerá la cartera de clientes o solo aumentará el riesgo de impago?"
+    },
+    {
+      "slug": "just-3-major-us-metros-are-sellers-markets",
+      "title": "Solo 3 grandes mercados en EE. UU. son de vendedores",
+      "source": "Redfin",
+      "source_url": "https://www.redfin.com/news/buyers-vs-sellers-october-2026/",
+      "cover_text": "Los compradores dominan la negociación en el mercado",
+      "caption": "El poder de negociación en el mercado inmobiliario cambió por completo. Hoy solo 3 grandes zonas metropolitanas siguen siendo mercados de vendedores, dándole a los compradores el mayor poder de negociación desde 2013. A nivel nacional, la cantidad de vendedores supera a la de compradores activos en un 71 por ciento. Desde la perspectiva de evaluación del préstamo, este cambio impacta tanto las comparables de avalúos como los límites de aportes del vendedor (IPC). Los vendedores ya no pueden exigir precios máximos sin dar incentivos. La estrategia ganadora actual consiste en estructurar aportes del vendedor para reducir la tasa de interés del comprador sin afectar las comparables del avalúo. Revisa el carrusel completo para ver las tácticas.\n\nFuente : https://tinyurl.com/2cqslrbu\n#SafetrustMortgage #MortgageIntelligenceDaily #housingmarket #realestateagent #homebuying",
+      "hashtags": [
+        "#SafetrustMortgage",
+        "#MortgageIntelligenceDaily",
+        "#housingmarket",
+        "#realestateagent",
+        "#homebuying"
+      ],
+      "hook_tag": "Dinámica del mercado",
+      "hook": "Solo tres grandes mercados siguen favoreciendo a los vendedores hoy.",
+      "what_happened_heading": "El poder de negociación del comprador alcanza su nivel más alto",
+      "what_happened": "Redfin reportó que solo 3 de las 50 zonas metropolitanas más pobladas siguen siendo mercados de vendedores, todas en el noreste del país. A nivel nacional, los compradores contaron con un 71 por ciento más de vendedores que de compradores durante el mes de octubre.",
+      "breakdown": [
+        {
+          "heading": "El cambio nacional es total",
+          "body": "Excepto en tres condados del noreste, los grandes mercados se han movido hacia los compradores o a un terreno neutral. El comprador no tenía tanto poder desde 2013."
+        },
+        {
+          "heading": "Las concesiones del vendedor son obligatorias",
+          "body": "Con más inventario disponible, los vendedores enfrentan fuerte competencia. Las reducciones de precio, aportes para bajar la tasa y créditos para reparaciones reemplazaron las guerras de ofertas."
+        },
+        {
+          "heading": "La realidad del asesor con los créditos del vendedor",
+          "body": "Los avalúos reflejan la caída en los precios de los vendedores. Además, las concesiones elevadas exigen una revisión estricta para no superar los límites permitidos de aportes (IPC)."
+        },
+        {
+          "heading": "Los contratos requieren una estructura cuidadosa",
+          "body": "Si los créditos del vendedor superan los límites de aportes (IPC) de las agencias, el asesor los recortará, obligando a renegociar al momento de firmar el cierre."
+        }
+      ],
+      "my_take_heading": "El poder sobre los precios cambió de manos",
+      "my_take": "Los agentes que esperan el regreso de las guerras de ofertas ignoran que hoy los compradores controlan los términos del contrato, las contingencias de avalúo y las concesiones para gastos de cierre.",
+      "action_lo": "Estructura las concesiones del vendedor desde el inicio para reducir la tasa de interés sin exceder los límites permitidos.",
+      "action_realtor": "Aconseja a los vendedores fijar precios competitivos y ofrecer reducciones de tasa en lugar de hacer grandes recortes tras semanas en el mercado.",
+      "cta_question": "¿Estás viendo que las concesiones del vendedor ayudan a cerrar la brecha de compra en tu mercado local?"
+    },
+    {
+      "slug": "hud-renews-social-security-data-sharing-framework-for-fha-loans",
+      "title": "HUD renueva el marco de intercambio de datos con el Seguro Social para préstamos FHA",
+      "source": "National Mortgage Professional",
+      "source_url": "https://nationalmortgageprofessional.com/news/hud-renews-social-security-data-sharing-framework-fha-loans",
+      "cover_text": "FHA refuerza verificación de identidad desde diciembre",
+      "caption": "La FHA aumenta la seguridad en la evaluación de sus préstamos. A partir del 3 de diciembre, HUD inicia un acuerdo de 18 meses para compartir datos con la Administración del Seguro Social. El nombre, fecha de nacimiento y Seguro Social de cada solicitante de préstamos FHA se cruzará automáticamente con bases de datos federales. Para el asesor (underwriter), esto significa cero tolerancia con errores de escritura o diferencias en el nombre legal. Un simple error de ortografía en el contrato de compra o en la solicitud 1003 generará un bloqueo inmediato en el sistema, retrasando el respaldo del préstamo. La precisión en la primera página de la solicitud ahora es indispensable en todos los expedientes FHA.\n\nFuente : https://tinyurl.com/2akrvtnf\n#SafetrustMortgage #MortgageIntelligenceDaily #firsttimehomebuyer #loanofficer #mortgagebroker",
+      "hashtags": [
+        "#SafetrustMortgage",
+        "#MortgageIntelligenceDaily",
+        "#firsttimehomebuyer",
+        "#loanofficer",
+        "#mortgagebroker"
+      ],
+      "hook_tag": "Alerta de cumplimiento",
+      "hook": "La FHA elimina vacíos en verificación de identidad antes de respaldar préstamos.",
+      "what_happened_heading": "HUD renueva acuerdo para compartir datos con el Seguro Social",
+      "what_happened": "La Administración Federal de la Vivienda anunció un acuerdo de 18 meses con el Seguro Social a partir del 3 de diciembre. El programa verifica automáticamente los nombres y números de Seguro Social en las solicitudes de préstamos FHA.",
+      "breakdown": [
+        {
+          "heading": "La verificación directa elimina fallas manuales",
+          "body": "HUD enviará nombres, números de Seguro Social y fechas de nacimiento directamente a las bases del Seguro Social. Esto reemplaza los formularios en papel por validaciones automáticas."
+        },
+        {
+          "heading": "La prevención del fraude se adelanta",
+          "body": "El acuerdo busca combatir el robo de identidad y números no válidos antes de que los préstamos reciban el respaldo y la garantía del gobierno federal a través de FHA."
+        },
+        {
+          "heading": "La realidad del asesor sobre los datos del cliente",
+          "body": "Las diferencias en nombres, errores tipográficos o números no verificados generarán un bloqueo automático en el sistema, deteniendo la revisión del expediente de inmediato."
+        },
+        {
+          "heading": "Documentar con precisión es urgente",
+          "body": "Los errores tipográficos en la solicitud, reporte de crédito o documentos fiscales causarán rechazos inmediatos si no coinciden con la validación del Seguro Social."
+        }
+      ],
+      "my_take_heading": "Los errores de identidad detendrán cierres de FHA",
+      "my_take": "Los originadores que llenen solicitudes con descuidos sufrirán constantes retrasos al cerrar, ya que el sistema del Seguro Social rechazará cualquier diferencia en nombres o números.",
+      "action_lo": "Verifica los nombres legales y las tarjetas de Seguro Social del cliente con su reporte de crédito antes de enviar expedientes FHA a procesamiento.",
+      "action_realtor": "Recuerda a los compradores con préstamos FHA que sus documentos legales deben coincidir con los registros fiscales para evitar retrasos.",
+      "cta_question": "¿Tu equipo está validando los datos de identidad del comprador antes de emitir preaprobaciones FHA?"
+    }
   ]
 }
