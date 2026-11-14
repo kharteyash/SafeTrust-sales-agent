@@ -1,342 +1,172 @@
 {
   "carousels": [
     {
-      "slug": "income-calculation-errors-drive-mortgage-quality-concerns",
-      "title": "Income Calculation Errors Drive Mortgage Quality Concerns",
-      "source": "National Mortgage Professional",
-      "source_url": "https://nationalmortgageprofessional.com/news/income-calculation-errors-drive-mortgage-quality-concerns",
-      "cover_text": "Why income errors still ruin clean loan files",
-      "caption": "Overall mortgage defect rates are dropping, but do not let that headline fool you. Quality control data shows that income calculation errors and borrower eligibility issues are taking over loan files. When an originator miscalculates self-employed schedules or variable overtime, the file collapses the moment an underwriter recalculates the DTI (how much of your income goes to debt). That creates massive repurchase risk after loan delivery to Fannie Mae or Freddie Mac. Getting files cleared requires mastering complex income analysis upfront, rather than relying on processing to catch math mistakes downstream. Read through the carousel to see how this impacts your pipeline and origination team today.\n\nSource : https://tinyurl.com/2deenlw6\n#SafetrustMortgage #MortgageIntelligenceDaily #mortgagebroker #loanofficer #housingmarket",
+      "slug": "movement-mortgage-bonus-clawback",
+      "title": "Movement Mortgage Clawback Lawsuits",
+      "source": "HousingWire",
+      "source_url": "https://www.housingwire.com/articles/movement-mortgage-1-2m-bonus-clawback/",
+      "cover_text": "The hidden trap in signing bonuses",
+      "caption": "Thinking about jumping lenders for a six-figure signing bonus? Read the fine print twice before signing. An arbitrator just backed Movement Mortgage in recouping 1.2 million dollars from former originators who left before completing their three-year contractual commitment. Many producing originators fail to realize these upfront bonuses are legally structured as forgivable loans rather than unencumbered cash. From an underwriting and operations standpoint, sudden LO exits create immense pipeline friction, triggering re-underwriting delays and lost operational capacity. In today's thin-margin market, mortgage lenders can no longer afford to forgive unearned transition capital. If you take upfront cash today, understand that your former lender will actively pursue legal recovery if you exit early.\n\nSource : https://tinyurl.com/25q4et85\n#SafetrustMortgage #MortgageIntelligenceDaily #loanofficer #mortgagebroker #housingmarket",
       "hashtags": [
         "#SafetrustMortgage",
         "#MortgageIntelligenceDaily",
-        "#mortgagebroker",
         "#loanofficer",
+        "#mortgagebroker",
         "#housingmarket"
       ],
-      "hook_tag": "Quality Control",
-      "hook": "Lower defect rates hide the real danger inside your loan files.",
-      "what_happened_heading": "Critical defect rates fall while income calculation errors rise",
-      "what_happened": "The overall critical defect rate fell to 1.64 percent in the second quarter. However, quality control auditors reported that income calculations, borrower eligibility, and appraisals made up a growing share of errors.",
+      "hook_tag": "Loan officer talent",
+      "hook": "That big upfront signing bonus is actually a un-collateralized loan.",
+      "what_happened_heading": "Arbitrator backs lender clawbacks",
+      "what_happened": "An arbitrator ruled in favor of Movement Mortgage seeking to recover 1.2 million dollars from former loan officers. The decision enforces three-year employment agreements requiring bonus repayments when producers leave early.",
       "breakdown": [
         {
-          "heading": "Defect rates mask key risks",
-          "body": "A dropping overall defect rate creates false security for lenders. The errors remaining are concentrated in complex income calculations and borrower eligibility."
+          "heading": "Upfront cash carries strict strings",
+          "body": "Lenders routinely offer six-figure guarantees to entice high producers. However, these contracts treat bonuses as forgivable loans tied directly to volume and tenure targets."
         },
         {
-          "heading": "Variable income trips up processors",
-          "body": "Underwriters see self-employed schedules, bonus income, and overtime miscalculated before submission. Automated underwriting systems only garbage-in, garbage-out these manual calculation mistakes."
+          "heading": "Early exits trigger immediate repayment",
+          "body": "When production drops or an originator jumps ship early, the unamortized balance becomes immediately due. Independent arbitrators are increasingly siding with originating lenders to enforce these clawbacks."
         },
         {
-          "heading": "The underwriter reality on income",
-          "body": "Here is what this actually changes when a file hits underwriting: income recalculations mid-underwrite trigger re-qualifications, lower maximum loan amounts, and sudden DTI debt-to-income ratio spikes."
+          "heading": "The underwriter view on transition risk",
+          "body": "Underwriters see the operational wake of rapid team movement. Abrupt exits disrupt active pipelines, forcing last-minute file re-underwriting and risking missed closing dates for ongoing loans."
         },
         {
-          "heading": "Repurchase risks hit post-closing",
-          "body": "Fannie Mae and Freddie Mac audit teams aggressively target income miscalculations. An incorrectly calculated schedule C can turn a clean sale into a costly repurchase obligation."
+          "heading": "Net margin pressure drives enforcement",
+          "body": "Tighter profit margins mean retail lenders can no longer afford to write off unearned signing bonuses. Expect aggressive legal enforcement to become the standard across independent mortgage bankers."
         }
       ],
-      "my_take_heading": "Clean files are failing on basic math",
-      "my_take": "Lenders are celebrating lower defect totals while missing the fact that underwriting teams are still choking on basic income math and self-employed schedules.",
-      "action_lo": "Re-calculate variable and self-employed income using secondary review sheets before submitting files to processing.",
-      "action_realtor": "Ensure buyers with variable income get fully pre-approved, not pre-qualified, before writing non-contingent purchase offers.",
-      "cta_question": "Are your processing teams catching income discrepancies before conditional approval or after?"
+      "my_take_heading": "Bonus checks are liability debt",
+      "my_take": "A signing bonus is not a reward for past success; it is a forgivable loan against future pipeline performance. If you jump ship before year three, keep that cash liquid.",
+      "action_lo": "Audit your employment agreement for pro-rata clawback clauses before entertaining switch offers.",
+      "action_realtor": "Partner with loan officers who have stable, long-term tenure so your active transactions are never stranded during sudden corporate disputes.",
+      "cta_question": "Are upfront bonus guarantees still worth the legal risk in today's margin environment?"
     },
     {
-      "slug": "newrez-expands-into-personal-loans-deepening-ties-with-upgrade",
-      "title": "Newrez Expands Into Personal Loans, Deepening Ties With Upgrade",
+      "slug": "va-streamline-refinance-fee-increase",
+      "title": "House Passes VA IRRRL Fee Increase",
       "source": "National Mortgage Professional",
-      "source_url": "https://nationalmortgageprofessional.com/news/newrez-expands-personal-loans-deepening-ties-upgrade",
-      "cover_text": "Servicers target equity without cash-out refinances",
-      "caption": "Servicers know that homeowners locked into 3 percent mortgage rates will not do a cash-out refinance anytime soon. That is why Newrez is partnering with Upgrade to offer unsecured personal loans directly to its servicing database. It allows servicers to extract revenue from borrower credit demand without touching the underlying mortgage. But from an underwriting perspective, stacking high-rate unsecured debt increases DTI (how much of your income goes to debt) and weakens overall credit profiles. Before your clients take an unsecured personal loan for home improvements, make sure they understand the long-term impact on their borrowing power and future HELOC (home equity line of credit) eligibility.\n\nSource : https://tinyurl.com/29tro8ga\n#SafetrustMortgage #MortgageIntelligenceDaily #mortgagerates #loanofficer #homebuying",
-      "hashtags": [
-        "#SafetrustMortgage",
-        "#MortgageIntelligenceDaily",
-        "#mortgagerates",
-        "#loanofficer",
-        "#homebuying"
-      ],
-      "hook_tag": "Servicing Strategy",
-      "hook": "Servicers are monetizing low-rate borrowers without touching their mortgage.",
-      "what_happened_heading": "Newrez partners with Upgrade for personal loans",
-      "what_happened": "Newrez expanded its partnership with fintech lender Upgrade to offer unsecured personal loans to its servicing clients. The loans target debt consolidation and home improvements while Upgrade handles origination and servicing.",
-      "breakdown": [
-        {
-          "heading": "First liens remain locked up",
-          "body": "Over 80 percent of existing homeowners hold mortgage rates under 5 percent. Cash-out refis remain unappealing, forcing servicers to find alternative ways to capture borrower credit demand."
-        },
-        {
-          "heading": "Personal loans bypass mortgage underwriting",
-          "body": "Unsecured personal loans offer fast funding without appraisals, title work, or full property underwriting. Servicers monetize borrower relationships without touching the underlying low-rate first mortgage."
-        },
-        {
-          "heading": "The underwriter reality on borrower credit",
-          "body": "Here is what this actually changes when a file hits underwriting: unsecured debt raises monthly debt obligations, spiking DTI (how much of your income goes to debt) for future mortgage refinances."
-        },
-        {
-          "heading": "Equity stays untouched for now",
-          "body": "Homeowners gain access to liquidity, but high interest personal loans can quickly erode household cash flow faster than a structured HELOC home equity line of credit."
-        }
-      ],
-      "my_take_heading": "Personal loans are the new retention play",
-      "my_take": "Servicers realize they cannot refinance 3 percent mortgages today, so they are selling high-yield consumer debt to keep borrowers inside their ecosystem.",
-      "action_lo": "Offer clients HELOC (home equity line of credit) options before they take out higher-rate unsecured personal loans for home renovations.",
-      "action_realtor": "Educate homeowners planning pre-listing renovations about how short-term financing choices impact their ultimate net proceeds.",
-      "cta_question": "Will cross-selling personal loans protect servicer portfolio retention or just increase borrower default risks?"
-    },
-    {
-      "slug": "just-3-major-us-metros-are-sellers-markets",
-      "title": "Just 3 Major U.S. Metros Are Seller’s Markets–the Fewest Since the Pandemic Freeze",
-      "source": "Redfin",
-      "source_url": "https://www.redfin.com/news/buyers-vs-sellers-october-2026/",
-      "cover_text": "Buyers hold maximum leverage in almost every market",
-      "caption": "The balance of power in real estate has completely flipped. Only 3 major metros in the country remain seller markets, leaving buyers with more negotiating leverage than at any point since 2013. Nationwide, seller listing volume outpaces active buyers by 71 percent. From an underwriting perspective, this shift changes everything from appraisal comparisons to IPC (interested party contribution, or seller concessions) limits. Sellers can no longer demand top dollar without concessions. The winning strategy right now is structuring seller-paid rate buydowns that lower the buyer's monthly payment without tanking appraiser comps. Read the full slide breakdown for tactical moves.\n\nSource : https://tinyurl.com/2cqslrbu\n#SafetrustMortgage #MortgageIntelligenceDaily #housingmarket #realestateagent #homebuying",
-      "hashtags": [
-        "#SafetrustMortgage",
-        "#MortgageIntelligenceDaily",
-        "#housingmarket",
-        "#realestateagent",
-        "#homebuying"
-      ],
-      "hook_tag": "Market Dynamics",
-      "hook": "Only three major metros remain seller markets as inventory surges.",
-      "what_happened_heading": "Buyer negotiating power reaches a thirteen year peak",
-      "what_happened": "Redfin reported that only 3 of the 50 most populous metros qualify as seller markets, all located in the Northeast. Nationwide, house hunters experienced 71 percent more sellers than buyers in October.",
-      "breakdown": [
-        {
-          "heading": "The national shift is complete",
-          "body": "Aside from Nassau County, Newark, and Montgomery County, every major metro has shifted toward buyers or neutral ground. Buyer leverage is at its highest level since 2013."
-        },
-        {
-          "heading": "Seller concessions become mandatory",
-          "body": "Sellers face heavy competition as inventory accumulates. Price drops, rate buydowns, and repair credits are replacing competitive bidding wars in almost every market."
-        },
-        {
-          "heading": "The underwriter reality on buyer credits",
-          "body": "Here is what this actually changes when a file hits underwriting: appraiser adjustments reflect falling seller pricing, while heavy seller concessions require strict inspection against maximum interested party contribution limits."
-        },
-        {
-          "heading": "Purchase contracts require careful structuring",
-          "body": "Excessive seller credits that exceed agency IPC (interested party contribution, or seller credits) caps get chopped by underwriters, forcing buyers to re-negotiate at the closing table."
-        }
-      ],
-      "my_take_heading": "Pricing power has completely left the building",
-      "my_take": "Agents waiting for bidding wars to return are missing the reality that buyers now control contract terms, appraisal contingencies, and closing cost concessions.",
-      "action_lo": "Structure seller credits early to cover permanent rate buydowns without exceeding maximum agency contribution thresholds.",
-      "action_realtor": "Advise sellers to price aggressively upfront and offer rate buydowns rather than taking major price cuts after weeks on market.",
-      "cta_question": "Are you seeing seller concessions closing the affordability gap in your local market today?"
-    },
-    {
-      "slug": "hud-renews-social-security-data-sharing-framework-for-fha-loans",
-      "title": "HUD Renews Social Security Data-Sharing Framework for FHA Loans",
-      "source": "National Mortgage Professional",
-      "source_url": "https://nationalmortgageprofessional.com/news/hud-renews-social-security-data-sharing-framework-fha-loans",
-      "cover_text": "FHA tightens identity checks starting December third",
-      "caption": "FHA is tightening up its underwriting security. Starting December 3, HUD is launching a renewed 18-month data-sharing match with the Social Security Administration. Every FHA applicant's name, birth date, and SSN (Social Security number) will be cross-checked automatically against federal databases. From an underwriter's perspective, this means zero tolerance for application typos or legal name mismatches. A simple spelling mistake on a purchase agreement or 1003 (the standard residential loan application) will trigger an immediate system hold, delaying insurance endorsement. Accuracy on page one of the application is now non-negotiable for FHA files.\n\nSource : https://tinyurl.com/2akrvtnf\n#SafetrustMortgage #MortgageIntelligenceDaily #firsttimehomebuyer #loanofficer #mortgagebroker",
+      "source_url": "https://nationalmortgageprofessional.com/news/house-passes-bill-nearly-triple-va-streamline-refinance-fee",
+      "cover_text": "VA refinance fees could triple soon",
+      "caption": "Congress is targeting VA refinances to fund federal legislation. The House just passed a bill raising the VA streamline funding fee from 0.5 percent to 1.42 percent, while doubling fees on second-use VA purchases. From an underwriting view, this change dramatically alters the tangible net benefit calculation. When you roll a higher fee into the loan balance, the monthly savings take much longer to break even under statutory guidelines. Originators who rely on easy VA refinance volume need to reevaluate their strategy. Veterans deserve clear advice on whether refinancing makes sense when government fees strip away upfront savings.\n\nSource : https://tinyurl.com/24hwb7xk\n#SafetrustMortgage #MortgageIntelligenceDaily #firsttimehomebuyer #mortgagerates #homebuying",
       "hashtags": [
         "#SafetrustMortgage",
         "#MortgageIntelligenceDaily",
         "#firsttimehomebuyer",
-        "#loanofficer",
-        "#mortgagebroker"
-      ],
-      "hook_tag": "Compliance Alert",
-      "hook": "FHA is closing identity verification loopholes before loans reach endorsement.",
-      "what_happened_heading": "HUD renews data sharing framework with Social Security",
-      "what_happened": "The Federal Housing Administration announced an 18-month data-sharing agreement with the Social Security Administration effective December 3. The program automatically cross-checks borrower names and Social Security numbers for FHA loan applications.",
-      "breakdown": [
-        {
-          "heading": "Direct data matching eliminates manual gaps",
-          "body": "HUD will transmit borrower names, Social Security numbers, and birth dates directly to SSA databases. This replaces paper verification forms with automated system matches."
-        },
-        {
-          "heading": "Fraud prevention moves upstream",
-          "body": "The agreement targets identity theft, synthetic identities, and invalid Social Security numbers before loans receive FHA endorsement and government insurance guarantees."
-        },
-        {
-          "heading": "The underwriter reality on borrower data",
-          "body": "Here is what this actually changes when a file hits underwriting: name discrepancies, typo errors, or unverified Social Security numbers will trigger hard system holds, stopping binder processing immediately."
-        },
-        {
-          "heading": "Clean documentation becomes urgent",
-          "body": "Minor typos on loan applications, credit reports, or tax documents will cause immediate rejections if they fail automated Social Security Administration data validation."
-        }
-      ],
-      "my_take_heading": "Identity verification errors will halt FHA closings",
-      "my_take": "Originators who take sloppy loan applications will suffer constant closing delays as automated SSA matching rejects simple spelling and numerical mismatches.",
-      "action_lo": "Verify borrower legal names and Social Security cards against credit reports prior to submitting FHA files to processing.",
-      "action_realtor": "Remind FHA buyers that legal documentation must match official tax records exactly to avoid mid-transaction approval delays.",
-      "cta_question": "Is your origination team validating borrower identity data before issuing FHA pre-approvals?"
-    }
-  ],
-  "carousels_es": [
-    {
-      "slug": "income-calculation-errors-drive-mortgage-quality-concerns",
-      "title": "Errores en el cálculo de ingresos impulsan preocupaciones sobre la calidad hipotecaria",
-      "source": "National Mortgage Professional",
-      "source_url": "https://nationalmortgageprofessional.com/news/income-calculation-errors-drive-mortgage-quality-concerns",
-      "cover_text": "Por qué los errores dañan tus préstamos",
-      "caption": "Las tasas de defectos bajan, pero no te confíes. Los datos de control de calidad muestran que los errores al calcular ingresos y la elegibilidad del comprador están arruinando los expedientes. Cuando se calcula mal el ingreso de un trabajador independiente o las horas extras, todo colapsa en cuanto el asesor (underwriter) recalcula la relación deuda-ingreso (DTI). Esto genera un enorme riesgo de recompra tras vender el préstamo a Fannie Mae o Freddie Mac. Para aprobar los expedientes sin contratiempos, se debe dominar el análisis de ingresos desde el primer día en lugar de esperar que procesamiento corrija los errores matemáticos más adelante. Revisa este carrusel para entender cómo esto impacta tu producción hoy mismo.\n\nFuente : https://tinyurl.com/2deenlw6\n#SafetrustMortgage #MortgageIntelligenceDaily #mortgagebroker #loanofficer #housingmarket",
-      "hashtags": [
-        "#SafetrustMortgage",
-        "#MortgageIntelligenceDaily",
-        "#mortgagebroker",
-        "#loanofficer",
-        "#housingmarket"
-      ],
-      "hook_tag": "Control de calidad",
-      "hook": "Una menor tasa de defectos oculta el peligro real en tus préstamos.",
-      "what_happened_heading": "Los defectos graves bajan mientras crecen los errores de ingresos",
-      "what_happened": "La tasa general de defectos graves bajó al 1.64 por ciento en el segundo trimestre. Sin embargo, los auditores reportaron que los errores en cálculo de ingresos, elegibilidad del comprador y avalúos ocuparon una proporción cada vez mayor.",
-      "breakdown": [
-        {
-          "heading": "Las tasas de defectos ocultan riesgos clave",
-          "body": "Una menor tasa de defectos crea una falsa seguridad. Los errores restantes se concentran en cálculos complejos de ingresos y en la elegibilidad del comprador."
-        },
-        {
-          "heading": "El ingreso variable confunde al procesamiento",
-          "body": "Los asesores encuentran errores en ingresos variables, bonos y trabajo por cuenta propia. Los sistemas automatizados solo procesan basura si los datos manuales están mal."
-        },
-        {
-          "heading": "La realidad del asesor con los ingresos",
-          "body": "Recalcular ingresos a mitad del proceso exige recalificar al cliente, reduce el monto del préstamo y dispara la relación deuda-ingreso (DTI)."
-        },
-        {
-          "heading": "El riesgo de recompra surge tras el cierre",
-          "body": "Fannie Mae y Freddie Mac auditan con fuerza los ingresos. Un cálculo equivocado en la declaración de impuestos puede convertir un préstamo cerrado en una costosa recompra."
-        }
-      ],
-      "my_take_heading": "Los expedientes fallan por matemáticas básicas",
-      "my_take": "Muchos prestamistas celebran tener menos defectos en general, pero pasan por alto que los equipos de evaluación siguen trabándose con cálculos básicos de ingresos y clientes independientes.",
-      "action_lo": "Recalcula los ingresos variables e independientes usando hojas de revisión secundaria antes de enviar el expediente a procesamiento.",
-      "action_realtor": "Asegúrate de que los compradores con ingresos variables tengan una preaprobación completa, no solo precalificación, antes de hacer ofertas.",
-      "cta_question": "¿Tu equipo de procesamiento detecta los errores de ingresos antes o después de la aprobación condicional?"
-    },
-    {
-      "slug": "newrez-expands-into-personal-loans-deepening-ties-with-upgrade",
-      "title": "Newrez se expande a préstamos personales reforzando alianza con Upgrade",
-      "source": "National Mortgage Professional",
-      "source_url": "https://nationalmortgageprofessional.com/news/newrez-expands-personal-loans-deepening-ties-upgrade",
-      "cover_text": "Cómo monetizar plusvalía sin refinanciar hipotecas",
-      "caption": "Los administradores de hipotecas buscan alternativas a la refinanciación. Saben que los propietarios con tasas del 3 por ciento no harán una refinanciación con extracción de efectivo pronto. Por eso Newrez se unió a Upgrade para ofrecer préstamos personales directamente a su base de clientes. Esto les permite generar ingresos a partir de la demanda de crédito sin modificar la hipoteca actual. Sin embargo, acumular deudas con intereses altos aumenta la relación deuda-ingreso (DTI) y debilita el perfil crediticio. Antes de que tus clientes acepten un préstamo personal para remodelar, asegúrate de que entiendan cómo afectará su capacidad de endeudamiento y su elegibilidad para una línea de crédito con garantía hipotecaria (HELOC).\n\nFuente : https://tinyurl.com/29tro8ga\n#SafetrustMortgage #MortgageIntelligenceDaily #mortgagerates #loanofficer #homebuying",
-      "hashtags": [
-        "#SafetrustMortgage",
-        "#MortgageIntelligenceDaily",
         "#mortgagerates",
-        "#loanofficer",
         "#homebuying"
       ],
-      "hook_tag": "Estrategia de servicio",
-      "hook": "Los administradores monetizan a clientes con bajas tasas sin tocar su hipoteca.",
-      "what_happened_heading": "Newrez se alía con Upgrade para ofrecer préstamos personales",
-      "what_happened": "Newrez amplió su alianza con la plataforma Upgrade para ofrecer préstamos personales no garantizados a sus clientes hipotecarios. Estos préstamos buscan consolidar deudas y financiar mejoras del hogar mientras Upgrade gestiona la originación y administración.",
+      "hook_tag": "VA loan policy",
+      "hook": "Tripling VA streamline fees fundamentally alters the break-even math for veterans.",
+      "what_happened_heading": "House passes veteran funding bill",
+      "what_happened": "The House of Representatives passed legislation that nearly triples the funding fee on VA streamline refinances from 0.5 percent to 1.42 percent. The bill also doubles fees on secondary VA home purchases.",
       "breakdown": [
         {
-          "heading": "Las primeras hipotecas siguen bloqueadas",
-          "body": "Más del 80 por ciento de los dueños tienen tasas menores al 5 por ciento. Sin refinanciaciones atractivas, las empresas buscan otras formas de captar crédito."
+          "heading": "Streamline funding fee jumps sharply",
+          "body": "The Take Care of America's Veterans Act increases the VA IRRRL (Interest Rate Reduction Refinance Loan) fee significantly. This adds thousands of dollars directly to loan balances."
         },
         {
-          "heading": "Los préstamos personales evitan la evaluación hipotecaria",
-          "body": "Al no requerir avalúos ni títulos, los préstamos personales ofrecen dinero rápido. Las empresas generan ingresos sin alterar la hipoteca con tasa baja del cliente."
+          "heading": "Break-even math gets stretched out",
+          "body": "A higher funding fee extends the recoupment period required to justify refinancing. Veterans will need much larger rate reductions to make a streamline refinance financially worthwhile."
         },
         {
-          "heading": "La realidad del asesor ante el crédito",
-          "body": "Las deudas no garantizadas aumentan los pagos mensuales del cliente. Esto dispara la relación deuda-ingreso (DTI) y complica cualquier refinanciación hipotecaria futura."
+          "heading": "Underwriting rules limit fee financing",
+          "body": "Underwriters strictly enforce tangible net benefit guidelines on VA streamlines. Higher fee structures make passing statutory recoupment tests harder unless interest rates drop dramatically."
         },
         {
-          "heading": "La plusvalía se mantiene intacta por ahora",
-          "body": "Aunque consiguen liquidez rápida, las altas tasas de un préstamo personal pueden agotar el flujo de caja del hogar mucho más rápido que una línea de crédito HELOC."
+          "heading": "Impact on future refinance volume",
+          "body": "Lenders relying on future rate-and-term refinance surges will see compressed margins on VA products. Veterans will be far more selective before resetting their mortgage terms."
         }
       ],
-      "my_take_heading": "Los préstamos personales son la nueva estrategia de retención",
-      "my_take": "Las administradoras de préstamos saben que hoy no pueden refinanciar hipotecas al 3 por ciento. Por eso prefieren vender crédito al consumo con intereses altos para mantener al cliente dentro de su negocio.",
-      "action_lo": "Ofrece a tus clientes una línea de crédito con garantía hipotecaria (HELOC) antes de que tomen préstamos personales con intereses más altos.",
-      "action_realtor": "Explica a los propietarios que planean remodelar cómo sus decisiones de financiamiento a corto plazo afectan las ganancias finales de su venta.",
-      "cta_question": "¿Ofrecer préstamos personales protegerá la cartera de clientes o solo aumentará el riesgo de impago?"
+      "my_take_heading": "Legislative fee hikes erode equity",
+      "my_take": "Lawmakers are using veteran mortgage fees as a piggy bank for legislative funding. Tripling streamline fees punishes borrowing veterans and destroys short-term refinance incentives.",
+      "action_lo": "Review your database now to execute VA IRRRLs for eligible veterans before Senate action.",
+      "action_realtor": "Educate military buyers on how VA funding fee structures impact future refinancing and long-term home equity building.",
+      "cta_question": "Will higher funding fees permanently stifle VA streamline refinance activity in upcoming rate cycles?"
     },
     {
-      "slug": "just-3-major-us-metros-are-sellers-markets",
-      "title": "Solo 3 grandes mercados en EE. UU. son de vendedores",
-      "source": "Redfin",
-      "source_url": "https://www.redfin.com/news/buyers-vs-sellers-october-2026/",
-      "cover_text": "Los compradores dominan la negociación en el mercado",
-      "caption": "El poder de negociación en el mercado inmobiliario cambió por completo. Hoy solo 3 grandes zonas metropolitanas siguen siendo mercados de vendedores, dándole a los compradores el mayor poder de negociación desde 2013. A nivel nacional, la cantidad de vendedores supera a la de compradores activos en un 71 por ciento. Desde la perspectiva de evaluación del préstamo, este cambio impacta tanto las comparables de avalúos como los límites de aportes del vendedor (IPC). Los vendedores ya no pueden exigir precios máximos sin dar incentivos. La estrategia ganadora actual consiste en estructurar aportes del vendedor para reducir la tasa de interés del comprador sin afectar las comparables del avalúo. Revisa el carrusel completo para ver las tácticas.\n\nFuente : https://tinyurl.com/2cqslrbu\n#SafetrustMortgage #MortgageIntelligenceDaily #housingmarket #realestateagent #homebuying",
+      "slug": "boxabl-mortgage-lending-jv",
+      "title": "BOXABL Launching Mortgage Lending Channel",
+      "source": "National Mortgage Professional",
+      "source_url": "https://nationalmortgageprofessional.com/news/boxabl-looks-add-mortgage-lending-its-homebuilding-business",
+      "cover_text": "Modular builder enters mortgage lending space",
+      "caption": "Factory-built housing is fixing its biggest bottleneck: financing. Modular manufacturer BOXABL is launching a joint venture mortgage company to embed financing directly into its sales model. Traditional underwriters often struggle with modular loans because of land attachment rules, progress payments, and strict real property classification requirements. By creating an in-house lending channel, modular builders can standardize construction-to-permanent loan workflows and eliminate appraisal friction. As standard inventory stays tight across major metro markets, loan officers and realtors who understand alternative construction financing will gain a serious edge over competitors strictly chasing standard MLS listings.\n\nSource : https://tinyurl.com/2csbdn6u\n#SafetrustMortgage #MortgageIntelligenceDaily #realestateinvesting #homebuying #mortgagebroker",
+      "hashtags": [
+        "#SafetrustMortgage",
+        "#MortgageIntelligenceDaily",
+        "#realestateinvesting",
+        "#homebuying",
+        "#mortgagebroker"
+      ],
+      "hook_tag": "Proptech origination",
+      "hook": "Captive financing for modular homes solves appraisal and title friction points.",
+      "what_happened_heading": "BOXABL plans mortgage joint venture",
+      "what_happened": "Modular home builder BOXABL signed an agreement to create a joint venture mortgage lending platform with Warp Speed Holdings. The initiative integrates specialized financing directly into factory-built housing sales.",
+      "breakdown": [
+        {
+          "heading": "Point of sale financing expansion",
+          "body": "Integrating mortgage origination at the factory level creates a seamless purchase process. It allows non-traditional homebuilders to capture loan volume directly from their consumer waitlists."
+        },
+        {
+          "heading": "Solving unique collateral challenges",
+          "body": "Factory-built housing often struggles with traditional mortgage financing due to foundation requirements and delivery timing. Captive lenders tailor specialized financing options to fit factory construction schedules."
+        },
+        {
+          "heading": "The underwriter perspective on modular homes",
+          "body": "Underwriting modular property requires strict compliance with chattel vs real property laws, local zoning, and site-assembly inspections. Built-in originators standardize documentation to avoid delayed closings."
+        },
+        {
+          "heading": "New origination channel emerges",
+          "body": "As traditional existing inventory remains tight, factory-built alternative housing offers originators a reliable purchase funnel outside standard suburban real estate listings."
+        }
+      ],
+      "my_take_heading": "Factory production requires captive capital",
+      "my_take": "Traditional mortgage lending was built for stick-built housing. Modular manufacturers must own the lending stack to prevent rigid underwriting guidelines from killing site delivery.",
+      "action_lo": "Build relationships with local modular and accessory dwelling unit builders to capture non-traditional purchase originations.",
+      "action_realtor": "Learn how modular financing works so you can market factory-built housing as an affordable inventory alternative.",
+      "cta_question": "Can captive factory financing finally push modular housing into mainstream residential real estate?"
+    },
+    {
+      "slug": "existing-home-sales-16-year-low",
+      "title": "Existing Home Sales Plunge to 3.75 Million",
+      "source": "National Mortgage Professional",
+      "source_url": "https://nationalmortgageprofessional.com/news/existing-home-sales-hit-16-year-low-more-declines-may-be-ahead",
+      "cover_text": "Existing home sales hit 16-year low",
+      "caption": "Existing home sales just sank to 3.75 million annualized units, the lowest level since August 2010. Everyone blames elevated mortgage rates, but the deeper issue is structural inventory lock-in. From an underwriting desk perspective, debt-to-income (DTI - how much income goes to debt) limits are maxing out automated underwriting systems. Buyers simply cannot qualify at current prices and rate levels without massive down payments. Successful loan officers and realtors must stop waiting for a market recovery and adapt immediately. Focus on life-event sellers, non-QM products, and niche financing solutions to thrive in a low-volume era.\n\nSource : https://tinyurl.com/2xn2rco3\n#SafetrustMortgage #MortgageIntelligenceDaily #housingmarket #mortgagerates #realestateagent",
       "hashtags": [
         "#SafetrustMortgage",
         "#MortgageIntelligenceDaily",
         "#housingmarket",
-        "#realestateagent",
-        "#homebuying"
+        "#mortgagerates",
+        "#realestateagent"
       ],
-      "hook_tag": "Dinámica del mercado",
-      "hook": "Solo tres grandes mercados siguen favoreciendo a los vendedores hoy.",
-      "what_happened_heading": "El poder de negociación del comprador alcanza su nivel más alto",
-      "what_happened": "Redfin reportó que solo 3 de las 50 zonas metropolitanas más pobladas siguen siendo mercados de vendedores, todas en el noreste del país. A nivel nacional, los compradores contaron con un 71 por ciento más de vendedores que de compradores durante el mes de octubre.",
+      "hook_tag": "Housing volume",
+      "hook": "Plunging existing home sales prove rate lock-in is frozen in place.",
+      "what_happened_heading": "Existing sales drop sharply again",
+      "what_happened": "Existing-home sales fell 5.5 percent in October to an annual rate of 3.75 million, marking the lowest level since August 2010. Sales were down 8.8 percent compared to the same month last year.",
       "breakdown": [
         {
-          "heading": "El cambio nacional es total",
-          "body": "Excepto en tres condados del noreste, los grandes mercados se han movido hacia los compradores o a un terreno neutral. El comprador no tenía tanto poder desde 2013."
+          "heading": "Transaction volume reaches historic floor",
+          "body": "The annual pace of 3.75 million units reflects severe market contraction. Higher mortgage rates continue to suppress seller inventory and restrict buyer purchasing capacity."
         },
         {
-          "heading": "Las concesiones del vendedor son obligatorias",
-          "body": "Con más inventario disponible, los vendedores enfrentan fuerte competencia. Las reducciones de precio, aportes para bajar la tasa y créditos para reparaciones reemplazaron las guerras de ofertas."
+          "heading": "Rate lock-in keeps sellers anchored",
+          "body": "Homeowners with existing sub-4 percent mortgage rates refuse to trade up. This structural supply shortage starves real estate professionals of standard transaction opportunities."
         },
         {
-          "heading": "La realidad del asesor con los créditos del vendedor",
-          "body": "Los avalúos reflejan la caída en los precios de los vendedores. Además, las concesiones elevadas exigen una revisión estricta para no superar los límites permitidos de aportes (IPC)."
+          "heading": "Underwriting files reveal affordability limits",
+          "body": "Underwriters see debt-to-income (DTI) ratios stretching to strict automated underwriting caps. High prices combined with volatile rates leave buyers zero margin for unexpected debt."
         },
         {
-          "heading": "Los contratos requieren una estructura cuidadosa",
-          "body": "Si los créditos del vendedor superan los límites de aportes (IPC) de las agencias, el asesor los recortará, obligando a renegociar al momento de firmar el cierre."
+          "heading": "Pivot required for market survival",
+          "body": "Relying strictly on traditional existing home buyers is a losing strategy. Industry professionals must diversify into prospective buyer niches like renovation loans, non-QM, or home equity products."
         }
       ],
-      "my_take_heading": "El poder sobre los precios cambió de manos",
-      "my_take": "Los agentes que esperan el regreso de las guerras de ofertas ignoran que hoy los compradores controlan los términos del contrato, las contingencias de avalúo y las concesiones para gastos de cierre.",
-      "action_lo": "Estructura las concesiones del vendedor desde el inicio para reducir la tasa de interés sin exceder los límites permitidos.",
-      "action_realtor": "Aconseja a los vendedores fijar precios competitivos y ofrecer reducciones de tasa en lugar de hacer grandes recortes tras semanas en el mercado.",
-      "cta_question": "¿Estás viendo que las concesiones del vendedor ayudan a cerrar la brecha de compra en tu mercado local?"
-    },
-    {
-      "slug": "hud-renews-social-security-data-sharing-framework-for-fha-loans",
-      "title": "HUD renueva el marco de intercambio de datos con el Seguro Social para préstamos FHA",
-      "source": "National Mortgage Professional",
-      "source_url": "https://nationalmortgageprofessional.com/news/hud-renews-social-security-data-sharing-framework-fha-loans",
-      "cover_text": "FHA refuerza verificación de identidad desde diciembre",
-      "caption": "La FHA aumenta la seguridad en la evaluación de sus préstamos. A partir del 3 de diciembre, HUD inicia un acuerdo de 18 meses para compartir datos con la Administración del Seguro Social. El nombre, fecha de nacimiento y Seguro Social de cada solicitante de préstamos FHA se cruzará automáticamente con bases de datos federales. Para el asesor (underwriter), esto significa cero tolerancia con errores de escritura o diferencias en el nombre legal. Un simple error de ortografía en el contrato de compra o en la solicitud 1003 generará un bloqueo inmediato en el sistema, retrasando el respaldo del préstamo. La precisión en la primera página de la solicitud ahora es indispensable en todos los expedientes FHA.\n\nFuente : https://tinyurl.com/2akrvtnf\n#SafetrustMortgage #MortgageIntelligenceDaily #firsttimehomebuyer #loanofficer #mortgagebroker",
-      "hashtags": [
-        "#SafetrustMortgage",
-        "#MortgageIntelligenceDaily",
-        "#firsttimehomebuyer",
-        "#loanofficer",
-        "#mortgagebroker"
-      ],
-      "hook_tag": "Alerta de cumplimiento",
-      "hook": "La FHA elimina vacíos en verificación de identidad antes de respaldar préstamos.",
-      "what_happened_heading": "HUD renueva acuerdo para compartir datos con el Seguro Social",
-      "what_happened": "La Administración Federal de la Vivienda anunció un acuerdo de 18 meses con el Seguro Social a partir del 3 de diciembre. El programa verifica automáticamente los nombres y números de Seguro Social en las solicitudes de préstamos FHA.",
-      "breakdown": [
-        {
-          "heading": "La verificación directa elimina fallas manuales",
-          "body": "HUD enviará nombres, números de Seguro Social y fechas de nacimiento directamente a las bases del Seguro Social. Esto reemplaza los formularios en papel por validaciones automáticas."
-        },
-        {
-          "heading": "La prevención del fraude se adelanta",
-          "body": "El acuerdo busca combatir el robo de identidad y números no válidos antes de que los préstamos reciban el respaldo y la garantía del gobierno federal a través de FHA."
-        },
-        {
-          "heading": "La realidad del asesor sobre los datos del cliente",
-          "body": "Las diferencias en nombres, errores tipográficos o números no verificados generarán un bloqueo automático en el sistema, deteniendo la revisión del expediente de inmediato."
-        },
-        {
-          "heading": "Documentar con precisión es urgente",
-          "body": "Los errores tipográficos en la solicitud, reporte de crédito o documentos fiscales causarán rechazos inmediatos si no coinciden con la validación del Seguro Social."
-        }
-      ],
-      "my_take_heading": "Los errores de identidad detendrán cierres de FHA",
-      "my_take": "Los originadores que llenen solicitudes con descuidos sufrirán constantes retrasos al cerrar, ya que el sistema del Seguro Social rechazará cualquier diferencia en nombres o números.",
-      "action_lo": "Verifica los nombres legales y las tarjetas de Seguro Social del cliente con su reporte de crédito antes de enviar expedientes FHA a procesamiento.",
-      "action_realtor": "Recuerda a los compradores con préstamos FHA que sus documentos legales deben coincidir con los registros fiscales para evitar retrasos.",
-      "cta_question": "¿Tu equipo está validando los datos de identidad del comprador antes de emitir preaprobaciones FHA?"
+      "my_take_heading": "Volume drops are structural, not temporary",
+      "my_take": "This isn't a temporary seasonal slump; it is a structural reset. Real estate professionals waiting for a dramatic volume rebound will be out of business before it arrives.",
+      "action_lo": "Expand your product suite to include reverse mortgages, debt-consolidation refinances, and renovation loans.",
+      "action_realtor": "Focus marketing on forced movers like probate sales, divorces, and job relocations rather than casual trade-up buyers.",
+      "cta_question": "How is your team adjusting pipeline strategy to handle a prolonged 3.75 million annual sales environment?"
     }
   ]
 }
