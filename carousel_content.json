@@ -168,5 +168,175 @@
       "action_realtor": "Partner with financial planners who advise remote professionals to capture relocations before they leave your domestic market.",
       "cta_question": "Is your underwriting team prepared to handle complex remote work income documentation for location-flexible buyers?"
     }
+  ],
+  "carousels_es": [
+    {
+      "slug": "seasonal-inventory-decline",
+      "title": "El inventario de casas en invierno cae por debajo de 900 mil",
+      "source": "HousingWire",
+      "source_url": "https://www.housingwire.com/articles/inventory-seasonal-decline-rates/",
+      "cover_text": "El inventario de casas cae a menos de 900k",
+      "caption": "El inventario de casas en venta acaba de caer por debajo de las 900 mil propiedades.\n\nEl total de casas activas bajó a 895,988, perdiendo 6,752 propiedades en solo una semana. Aunque muchos ven esto como una pausa normal de invierno, la falta de inventario cambia el juego. Al haber menos casas en venta, a los evaluadores les cuesta encontrar comparables recientes para los avalúos, lo que puede demorar los cierres. Al mismo tiempo, esta baja oferta evita que los precios de las propiedades caigan, protegiendo el valor de las casas actuales. Para los oficiales de crédito, la clave es mantener activos a los compradores preaprobados en lugar de esperar a la primavera. ¿Cómo está manejando tu equipo la falta de casas comparables para los avalúos?\n\nFuente : https://tinyurl.com/28kce8tw\n#SafetrustMortgage #MortgageIntelligenceDaily #housingmarket #mortgagebroker #homebuying",
+      "hashtags": [
+        "#SafetrustMortgage",
+        "#MortgageIntelligenceDaily",
+        "#housingmarket",
+        "#mortgagebroker",
+        "#homebuying"
+      ],
+      "hook_tag": "Tendencias del mercado",
+      "hook": "Las casas en venta bajan rápidamente al llegar el invierno.",
+      "what_happened_heading": "El inventario semanal sufre una baja de temporada",
+      "what_happened": "El inventario total de casas en venta cayó a 895,988 propiedades la semana pasada. Esto representa una baja de 6,752 casas en solo siete días debido al freno de temporada.",
+      "breakdown": [
+        {
+          "heading": "La baja de invierno empezó antes",
+          "body": "Cada año baja el inventario, pero caer de 900,000 casas aprieta la oferta más rápido de lo esperado. Habrá competencia entre compradores aun en pleno invierno."
+        },
+        {
+          "heading": "Impacto en las evaluaciones del asesor",
+          "body": "Para el asesor, tener menos inventario significa que las casas comparables para el avalúo son escasas. Los evaluadores tendrán problemas para encontrar ventas recientes en ciertas zonas."
+        },
+        {
+          "heading": "Menos casas frenan el volumen de préstamos",
+          "body": "Con el inventario cayendo cada semana, menos compradores preaprobados encontrarán casa. La conversión de préstamos baja de forma natural cuando no hay viviendas disponibles para comprar."
+        },
+        {
+          "heading": "El valor de las casas se mantiene firme",
+          "body": "Tener menos casas a la venta evita que los precios caigan fuerte. Los dueños actuales mantienen una buena relación préstamo-valor (LTV) pese a la incertidumbre del mercado."
+        }
+      ],
+      "my_take_heading": "La baja oferta protege el valor de las casas",
+      "my_take": "No confundas la baja de temporada con falta de compradores. El poco inventario crea un piso firme para los precios, lo que mantiene bajo el riesgo de pago para los préstamos hipotecarios.",
+      "action_lo": "Revisa hoy mismo a tus compradores preaprobados y recalculen su capacidad de compra antes de que la falta de casas suba los precios.",
+      "action_realtor": "Aconseja a tus vendedores publicar ahora: al haber menos casas en competencia, su propiedad destacará mucho más en el mercado.",
+      "cta_question": "¿Tu equipo está ajustando la revisión de avalúos ahora que baja el inventario en invierno?"
+    },
+    {
+      "slug": "new-listings-slump",
+      "title": "Las nuevas casas en venta caen frente al año pasado",
+      "source": "HousingWire",
+      "source_url": "https://www.housingwire.com/articles/inventory-seasonal-decline-rates/",
+      "cover_text": "Las nuevas casas en venta siguen cayendo",
+      "caption": "Las nuevas casas que salen a la venta siguen por debajo del ritmo del año pasado.\n\nEn el último periodo solo entraron al mercado 53,162 propiedades, comparadas con las 56,569 del año anterior. Esta diferencia demuestra que muchos dueños prefieren no vender para conservar sus tasas hipotecarias bajas. En lugar de mudarse, cada vez más personas eligen pedir préstamos sobre el valor acumulado de su propiedad para consolidar deudas. Para los agentes de bienes raíces y oficiales de crédito, la oportunidad está en buscar concesiones del vendedor en casas que llevan tiempo publicadas o en ofrecer segundas hipotecas. ¿Tu equipo ya está ofreciendo opciones sobre el valor acumulado de la vivienda?\n\nFuente : https://tinyurl.com/28kce8tw\n#SafetrustMortgage #MortgageIntelligenceDaily #mortgagerates #loanofficer #realestateagent",
+      "hashtags": [
+        "#SafetrustMortgage",
+        "#MortgageIntelligenceDaily",
+        "#mortgagerates",
+        "#loanofficer",
+        "#realestateagent"
+      ],
+      "hook_tag": "Escasez de casas",
+      "hook": "Las nuevas casas en venta caen por debajo del nivel de 2025.",
+      "what_happened_heading": "Las nuevas propiedades en venta continúan a la baja",
+      "what_happened": "Las nuevas casas que salieron al mercado llegaron a solo 53,162 en este último periodo. Esto representa una caída clara frente a las 56,569 propiedades registradas en la misma fecha el año pasado.",
+      "breakdown": [
+        {
+          "heading": "Los vendedores prefieren quedarse donde están",
+          "body": "La caída de 56,569 a 53,162 propiedades confirma que los dueños no quieren vender. Sus tasas hipotecarias actuales son tan bajas que prefieren quedarse en su casa."
+        },
+        {
+          "heading": "El asesor nota más préstamos sobre el valor acumulado",
+          "body": "Para el asesor, la falta de casas nuevas significa que la gente prefiere refinanciamientos con desembolso de efectivo o segundas hipotecas antes que vender su casa para consolidar deudas."
+        },
+        {
+          "heading": "La rotación de casas se frena en el mercado",
+          "body": "Sin casas nuevas entrando al mercado, el inventario se renueva muy despacio. Los agentes de bienes raíces tienen menos propiedades frescas para mostrar a sus compradores interesados."
+        },
+        {
+          "heading": "Las compras dependen de casas con más tiempo",
+          "body": "Los prestamistas deben cambiar de estrategia al haber menos vendedores. Las solicitudes dependerán de casas que llevan más tiempo publicadas y que podrían necesitar concesiones del vendedor."
+        }
+      ],
+      "my_take_heading": "El efecto de las tasas congeladas domina el mercado",
+      "my_take": "La falta de casas nuevas demuestra que la retención de los vendedores es estructural y no solo de temporada. Hay que enfocar la estrategia en aprovechar el inventario que ya lleva tiempo en el mercado.",
+      "action_lo": "Prepara escenarios con concesiones del vendedor para ayudar a los compradores a asimilar las tasas elevadas en casas con tiempo en venta.",
+      "action_realtor": "Envía a los dueños de casa reportes del valor acumulado de su propiedad mostrando las ventajas de una línea de crédito con garantía hipotecaria (HELOC).",
+      "cta_question": "¿Tus oficiales de crédito están ofreciendo segundas hipotecas ante la falta de nuevas casas en venta?"
+    },
+    {
+      "slug": "wall-street-industrial-outdoor-storage",
+      "title": "Wall Street invierte capital en almacenamiento al aire libre",
+      "source": "CNBC",
+      "source_url": "https://www.cnbc.com/2026/11/14/real-estate-rental-income-industrial-storage-market.html",
+      "cover_text": "Wall Street invierte en terrenos de almacenamiento industrial",
+      "caption": "Wall Street está invirtiendo grandes sumas en terrenos de almacenamiento industrial al aire libre.\n\nGigantes de capital privado como Blackstone y Brookfield están comprando lotes industriales en todo el país para aprovechar el aumento en las rentas. Este tipo de propiedad requiere muy poco gasto en mantenimiento y deja altos rendimientos. Para el asesor que evalúa estos préstamos comerciales, la clave está en revisar la solidez financiera de los inquilinos y las leyes locales de uso de suelo. A medida que estos inversionistas institucionales suben los precios de los terrenos, los comerciantes locales enfrentan rentas más elevadas en las zonas industriales. ¿Cómo está afectando la presencia de estos grandes fondos las oportunidades en tu mercado local?\n\nFuente : https://tinyurl.com/2y3gbcfy\n#SafetrustMortgage #MortgageIntelligenceDaily #realestateinvesting #housingmarket #mortgagebroker",
+      "hashtags": [
+        "#SafetrustMortgage",
+        "#MortgageIntelligenceDaily",
+        "#realestateinvesting",
+        "#housingmarket",
+        "#mortgagebroker"
+      ],
+      "hook_tag": "Capital institucional",
+      "hook": "Los grandes fondos están comprando terrenos de almacenamiento industrial sin hacer ruido.",
+      "what_happened_heading": "El dinero institucional apunta al almacenamiento al aire libre",
+      "what_happened": "Grandes firmas de inversión como Blackstone y Brookfield están comprando terrenos para almacenamiento industrial al aire libre en todo el país. El aumento en las rentas comerciales atrajo el interés de Wall Street hacia este sector especializado.",
+      "breakdown": [
+        {
+          "heading": "Activos comerciales pequeños generan grandes rendimientos",
+          "body": "El almacenamiento industrial al aire libre requiere poco mantenimiento y genera altos ingresos por renta. Los grandes inversionistas obtienen mejores márgenes que con oficinas o viviendas tradicionales."
+        },
+        {
+          "heading": "El asesor analiza a fondo el flujo de caja",
+          "body": "Al evaluar préstamos comerciales para terrenos, el asesor analiza con lupa la solvencia del inquilino. Se revisa la estabilidad del contrato de arrendamiento y las normas locales de zonificación."
+        },
+        {
+          "heading": "El valor de los terrenos sigue subiendo",
+          "body": "La llegada de fondos institucionales sube el precio de los terrenos industriales en todo el país. Los pequeños empresarios pagan rentas más altas mientras Wall Street acumula propiedades locales."
+        },
+        {
+          "heading": "El capital se aleja de la construcción de viviendas",
+          "body": "El dinero que fluye hacia terrenos industriales reduce los fondos disponibles para desarrollar viviendas. La inversión privada busca activos de alto rendimiento y con flujos de dinero garantizados."
+        }
+      ],
+      "my_take_heading": "La búsqueda de rentabilidad transforma el suelo comercial",
+      "my_take": "El almacenamiento al aire libre es la mejor jugada de Wall Street para obtener ganancias. El dominio de las grandes firmas en sectores especializados complica que los empresarios locales puedan comprar sus propios terrenos.",
+      "action_lo": "Amplía tu red de préstamos comerciales para financiar a pequeñas empresas locales antes de que los grandes fondos compren todos los terrenos.",
+      "action_realtor": "Contacta a los dueños de terrenos industriales en tu zona para evaluar el flujo de caja de sus propiedades antes de que lleguen los inversionistas institucionales.",
+      "cta_question": "¿Crees que la llegada de grandes fondos a terrenos industriales cambie el futuro de las inversiones en bienes raíces?"
+    },
+    {
+      "slug": "budapest-digital-nomad-hotspot",
+      "title": "Budapest se posiciona como destino ideal para nómadas digitales",
+      "source": "CNBC",
+      "source_url": "https://www.cnbc.com/2026/11/15/budapest-europes-next-digital-nomad-hotspot.html",
+      "cover_text": "Budapest es la nueva capital de nómadas digitales",
+      "caption": "Budapest se está convirtiendo rápidamente en la nueva capital para los nómadas digitales en Europa.\n\nCada vez más profesionales remotos se mudan a la capital de Hungría para disfrutar de flexibilidad laboral, cultura y un costo de vida accesible. Pero para la industria hipotecaria, este estilo de vida trae retos únicos al verificar ingresos. Para el asesor, calificar la solicitud de un trabajador remoto exige confirmar las políticas del empleador y revisar cómo afectan los impuestos a su relación deuda-ingreso (DTI). Los oficiales de crédito que sepan documentar bien los ingresos remotos podrán captar a estos clientes móviles de altos ingresos. ¿Tu equipo ya sabe cómo manejar los préstamos para compradores con trabajo remoto?\n\nFuente : https://tinyurl.com/25fdsxbj\n#SafetrustMortgage #MortgageIntelligenceDaily #firsttimehomebuyer #loanofficer #homebuying",
+      "hashtags": [
+        "#SafetrustMortgage",
+        "#MortgageIntelligenceDaily",
+        "#firsttimehomebuyer",
+        "#loanofficer",
+        "#homebuying"
+      ],
+      "hook_tag": "Tendencias globales",
+      "hook": "El trabajo remoto impulsa a los profesionales a vivir en el extranjero.",
+      "what_happened_heading": "Budapest atrae cada vez más a trabajadores remotos",
+      "what_happened": "Budapest, la capital de Hungría, se ha convertido en el destino favorito de quienes trabajan desde cualquier lugar. La ciudad atrae a profesionales de todo el mundo por su riqueza cultural, su vida social y un costo de vida accesible.",
+      "breakdown": [
+        {
+          "heading": "La flexibilidad laboral cambia dónde compran los clientes",
+          "body": "El trabajo remoto permite que profesionales con altos ingresos desliguen sus sueldos del mercado inmobiliario local. Poder trabajar desde cualquier lugar está cambiando el perfil del comprador tradicional."
+        },
+        {
+          "heading": "El asesor requiere verificar bien los ingresos remotos",
+          "body": "Aprobar préstamos a trabajadores remotos requiere confirmar que el empleador permite trabajar en otra ciudad o país. Los cambios de impuestos afectan el cálculo de la relación deuda-ingreso (DTI)."
+        },
+        {
+          "heading": "La demanda internacional cambia los precios locales",
+          "body": "La llegada de profesionales remotos sube los precios de renta y venta en las ciudades de destino. Estas ciudades viven una presión de precios similar a los mercados del Sunbelt."
+        },
+        {
+          "heading": "Los prestamistas deben dominar las reglas de ingresos remotos",
+          "body": "Los oficiales de crédito que atienden a clientes remotos deben conocer bien los requisitos de ingresos. Ganar en moneda extranjera o pagar impuestos en otro país requiere una revisión muy minuciosa."
+        }
+      ],
+      "my_take_heading": "Calificar ingresos remotos exige nuevos conocimientos",
+      "my_take": "El trabajo remoto no es solo un estilo de vida; es un reto para la aprobación de préstamos. Los prestamistas que dominen las reglas para evaluar ingresos remotos ganarán a los clientes con mayores ingresos.",
+      "action_lo": "Crea una lista de verificación de documentos para trabajadores remotos, pidiendo desde el principio la carta del empleador sobre su ubicación laboral y estado fiscal.",
+      "action_realtor": "Haz alianzas con asesores financieros que orienten a profesionales remotos para ayudarlos en sus mudanzas antes de que se vayan de tu mercado.",
+      "cta_question": "¿Tu equipo de evaluación está listo para revisar la documentación de ingresos de compradores con empleo remoto?"
+    }
   ]
 }
