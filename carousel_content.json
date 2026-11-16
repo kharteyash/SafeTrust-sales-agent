@@ -160,5 +160,167 @@
       "action_realtor": "Ask remote clients about their tax location to avoid financing delays.",
       "cta_question": "How are you qualifying clients who work overseas remotely?"
     }
+  ],
+  "carousels_es": [
+    {
+      "slug": "mortgage-origination-cost-q2-2026",
+      "title": "El costo real de originar un préstamo: $10,936",
+      "source": "HousingWire",
+      "source_url": "https://www.housingwire.com/articles/mortgage-tech-wish-list-why/",
+      "cover_text": "Por qué originar un préstamo cuesta tan caro",
+      "caption": "Originar un préstamo costó $10,936 en el segundo trimestre de 2026. Muchos prestamistas siguen comprando licencias de software esperando solucionar la falta de eficiencia, pero acumular programas desconectados solo encarece la operación. Cuando un asesor (underwriter) pasa la mitad del día copiando datos manualmente entre sistemas que no se hablan, los costos se disparan. La verdadera eficiencia llega cuando la gerencia corrige los procesos fallidos antes de invertir en nuevas herramientas digitales. Sumar tecnología sin ajustar los flujos de trabajo incrementa las facturas de proveedores sin mejorar los tiempos de respuesta. Para proteger tus márgenes este año, revisa cada contrato con proveedores, elimina verificaciones duplicadas y mide los pasos requeridos por expediente.\n\nFuente : https://tinyurl.com/26mp8xeg\n#SafetrustMortgage #MortgageIntelligenceDaily #mortgagebroker",
+      "hashtags": [
+        "#SafetrustMortgage",
+        "#MortgageIntelligenceDaily",
+        "#mortgagebroker"
+      ],
+      "hook_tag": "Costos de originación",
+      "hook": "Tus altos costos al originar préstamos son fallas en tus procesos.",
+      "what_happened_heading": "Los costos de producción alcanzan récords",
+      "what_happened": "Datos de la Asociación de Bancos Hipotecarios muestran que originar cada préstamo costó $10,936 en el segundo trimestre de 2026. Las entidades siguen gastando mucho en programas sin reducir los problemas de operación.",
+      "breakdown": [
+        {
+          "heading": "Gastos de operación en aumento",
+          "body": "Datos de la Asociación de Bancos Hipotecarios indican que el costo de producción llegó a $10,936 por préstamo en el segundo trimestre de 2026. Agregar tecnología no ha bajado los costos."
+        },
+        {
+          "heading": "El cuello de botella en evaluación",
+          "body": "Esto es lo que cambia cuando el expediente llega al asesor: el trabajo manual aumenta porque los programas informáticos no se comunican de forma fluida entre sí."
+        },
+        {
+          "heading": "Atacar las causas principales",
+          "body": "Los prestamistas compran programas para tapar problemas en lugar de arreglar procesos fallidos. La tecnología debe reducir los pasos manuales de forma directa."
+        },
+        {
+          "heading": "Proteger los márgenes del negocio",
+          "body": "Cuando el costo por préstamo sube, las ganancias de la empresa caen. Lograr eficiencia exige eliminar verificaciones repetidas que no aportan valor a la operación."
+        }
+      ],
+      "my_take_heading": "Comprar tecnología sin cambiar procesos no funciona",
+      "my_take": "Gastar más en programas informáticos no bajará tus costos si no corriges los procesos de evaluación de crédito desde la raíz.",
+      "action_lo": "Revisa tus herramientas digitales para eliminar el ingreso duplicado de datos.",
+      "action_realtor": "Trabaja con prestamistas rápidos para evitar retrasos al cerrar la compra.",
+      "cta_question": "¿Tu empresa está recortando los costos de originación este trimestre?"
+    },
+    {
+      "slug": "mortgage-tech-root-causes",
+      "title": "Soluciones a los fallos en tecnología hipotecaria",
+      "source": "HousingWire",
+      "source_url": "https://www.housingwire.com/articles/mortgage-tech-wish-list-why/",
+      "cover_text": "Deja de pagar programas que no solucionan nada",
+      "caption": "Los prestamistas pagan $10,936 por préstamo mientras manejan decenas de programas informáticos. El problema es que la mayoría de proveedores miden su éxito según los tickets de soporte cerrados, no si reducen el trabajo manual. Cuando un asesor (underwriter) pierde tiempo en rodeos del sistema, resolver las condiciones toma el doble de tiempo. Los prestamistas deben exigir soluciones tecnológicas que eliminen la fricción operativa de raíz en lugar de disimular los problemas. Si tu software no disminuye los pasos en cada expediente, es solo un gasto innecesario. Revisa hoy mismo tus programas instalados.\n\nFuente : https://tinyurl.com/26mp8xeg\n#SafetrustMortgage #MortgageIntelligenceDaily #loanofficer",
+      "hashtags": [
+        "#SafetrustMortgage",
+        "#MortgageIntelligenceDaily",
+        "#loanofficer"
+      ],
+      "hook_tag": "Tecnología hipotecaria",
+      "hook": "Tus proveedores solucionan tickets de soporte, no problemas de fondo.",
+      "what_happened_heading": "Evaluación de relaciones con proveedores tecnológicos",
+      "what_happened": "Los datos muestran que originar un préstamo costó $10,936 en el segundo trimestre de 2026. Expertos aconsejan exigir socios tecnológicos que solucionen causas de fondo y no solo tickets de soporte.",
+      "breakdown": [
+        {
+          "heading": "Volumen de tickets frente a rendimiento",
+          "body": "Los proveedores miden su éxito por tickets resueltos y no por la velocidad del oficial de préstamos. Muchos tickets indican fallas constantes en el proceso."
+        },
+        {
+          "heading": "Eficiencia del asesor en cada caso",
+          "body": "Esto cambia al llegar al asesor: las fallas de software no resueltas crean condiciones repetidas, lo que frena las aprobaciones finales para el cierre."
+        },
+        {
+          "heading": "Exigir cuentas a los proveedores",
+          "body": "Los prestamistas gastan miles por préstamo sin exigir a sus proveedores reducir el trabajo manual. El software debe automatizar las verificaciones normativas básicas."
+        },
+        {
+          "heading": "Optimización de la operación crediticia",
+          "body": "Los verdaderos socios tecnológicos trabajan junto al equipo de operaciones para agilizar el flujo de datos entre los sistemas de originación de préstamos."
+        }
+      ],
+      "my_take_heading": "Exige resultados operativos a tus proveedores",
+      "my_take": "Si tu proveedor de tecnología mide su éxito cerrando tickets en vez de bajar tus costos de originación, tienes al socio equivocado.",
+      "action_lo": "Reporta las fallas del sistema directamente al director de operaciones.",
+      "action_realtor": "Pregunta a tus prestamistas cómo la tecnología asegura las fechas de cierre.",
+      "cta_question": "¿Tus programas tecnológicos están bajando tus costos por préstamo?"
+    },
+    {
+      "slug": "nationwide-equities-reversereach",
+      "title": "Tecnología de hipotecas inversas al por mayor",
+      "source": "HousingWire",
+      "source_url": "https://www.housingwire.com/articles/nationwide-equities-reversereach-parziale/",
+      "cover_text": "Hipotecas inversas para hacer crecer tu negocio",
+      "caption": "Nationwide Equities lleva su plataforma ReverseReach a los oficiales de préstamos mayoristas. Philip Parziale explicó que los contenidos educativos ayudarán a los originadores a ofrecer soluciones respaldadas por el capital acumulado de los adultos mayores. Las hipotecas inversas (HECM) solían considerarse complejas, pero la tecnología facilita el análisis de escenarios. Cuando un asesor (underwriter) evalúa estos casos, la revisión financiera y el cálculo del valor de la vivienda siguen siendo estrictos. Ofrecer a los originadores asistencia virtual rápida junto a ejecutivos con experiencia hace posible vender este producto. Quienes aprovechen estas herramientas abrirán grandes oportunidades en su negocio.\n\nFuente : https://tinyurl.com/25ek4b6v\n#SafetrustMortgage #MortgageIntelligenceDaily #homebuying",
+      "hashtags": [
+        "#SafetrustMortgage",
+        "#MortgageIntelligenceDaily",
+        "#homebuying"
+      ],
+      "hook_tag": "Hipotecas inversas",
+      "hook": "La tecnología de hipotecas inversas llega al canal mayorista.",
+      "what_happened_heading": "Nationwide Equities impulsa su plataforma ReverseReach",
+      "what_happened": "Philip Parziale de Nationwide Equities anunció la expansión de ReverseReach para oficiales de préstamos mayoristas. La propuesta incluye capacitación, asistencia con inteligencia artificial y ejecutivos de cuenta dedicados.",
+      "breakdown": [
+        {
+          "heading": "Acceso mayorista a hipotecas inversas",
+          "body": "Nationwide Equities expande su plataforma ReverseReach para dar mejores herramientas a los originadores y aprovechar el capital acumulado por adultos mayores."
+        },
+        {
+          "heading": "Apoyo de inteligencia artificial",
+          "body": "El asistente virtual ayuda al oficial de préstamos a responder dudas sobre hipotecas inversas (HECM) rápidamente y sin esperar a la mesa de ayuda."
+        },
+        {
+          "heading": "Evaluación de préstamos de hipoteca inversa",
+          "body": "Esto cambia al llegar al asesor: las reglas de hipotecas inversas (HECM) exigen analizar con exactitud el valor de la vivienda y la capacidad financiera."
+        },
+        {
+          "heading": "Soporte con ejecutivos de cuenta",
+          "body": "Combinar tecnología con ejecutivos de cuenta asegura que los originadores reciban orientación personalizada para estructurar casos de hipotecas inversas complejos."
+        }
+      ],
+      "my_take_heading": "La tecnología impulsa las hipotecas inversas",
+      "my_take": "La inteligencia artificial facilita el acceso a las hipotecas inversas, pero tener éxito requiere dominar el análisis financiero de este producto.",
+      "action_lo": "Aprende las reglas de hipotecas inversas para atender a adultos mayores.",
+      "action_realtor": "Identifica clientes mayores que puedan usar su capital para mudarse o comprar.",
+      "cta_question": "¿Estás ofreciendo opciones de hipoteca inversa a tus clientes?"
+    },
+    {
+      "slug": "budapest-digital-nomad-housing",
+      "title": "Nómadas digitales y la aprobación de ingresos",
+      "source": "CNBC",
+      "source_url": "https://www.cnbc.com/2026/11/15/budapest-europes-next-digital-nomad-hotspot.html",
+      "cover_text": "El reto de financiar compras a nómadas digitales",
+      "caption": "Budapest es el nuevo centro para nómadas digitales en Europa, reflejando el constante aumento de trabajadores remotos. Aunque trabajar desde un café en el extranjero suena genial, los ingresos internacionales crean retos para calificar a una hipoteca. Cuando un asesor (underwriter) revisa el expediente de un trabajador remoto, debe confirmar el permiso de la empresa, la residencia fiscal y la estabilidad del sueldo. Sin una carta formal del empleador que apruebe el trabajo remoto desde el exterior, los ingresos pueden ser descalificados. Los oficiales de crédito y agentes inmobiliarios deben revisar estos acuerdos temprano para evitar rechazos de último momento.\n\nFuente : https://tinyurl.com/25fdsxbj\n#SafetrustMortgage #MortgageIntelligenceDaily #housingmarket",
+      "hashtags": [
+        "#SafetrustMortgage",
+        "#MortgageIntelligenceDaily",
+        "#housingmarket"
+      ],
+      "hook_tag": "Trabajo remoto",
+      "hook": "El trabajo remoto complica la aprobación de préstamos hipotecarios.",
+      "what_happened_heading": "Budapest atrae a más nómadas digitales",
+      "what_happened": "Budapest se ha convertido en el nuevo destino favorito de nómadas digitales en Europa gracias a sus cafés y cultura. Miles de profesionales optan por trabajar a distancia desde distintos países.",
+      "breakdown": [
+        {
+          "heading": "Crecimiento del trabajo remoto global",
+          "body": "Budapest atrae a profesionales independientes que aprovechan sueldos altos de EE. UU. mientras viven en destinos internacionales de menor costo de vida."
+        },
+        {
+          "heading": "Evaluación de ingresos remotos del exterior",
+          "body": "Esto cambia al llegar al asesor: trabajar desde el extranjero genera dudas complejas sobre la residencia fiscal y los permisos del empleador."
+        },
+        {
+          "heading": "Comprobación de impuestos y divisas",
+          "body": "El asesor debe verificar si el empleador autoriza la residencia en el extranjero y comprobar que los ingresos sigan siendo estables y aplicables."
+        },
+        {
+          "heading": "Compra de propiedades en EE. UU.",
+          "body": "Los trabajadores remotos suelen comprar casas en EE. UU. desde el extranjero, planteando retos al prestamista al clasificar la ocupación de la propiedad."
+        }
+      ],
+      "my_take_heading": "Evaluar ingresos remotos exige total precisión",
+      "my_take": "Los nómadas digitales tienen buen flujo de dinero, pero no confirmar su situación fiscal de trabajo remoto puede arruinar la aprobación de la hipoteca.",
+      "action_lo": "Verifica las cartas de trabajo remoto antes de procesar la solicitud.",
+      "action_realtor": "Pregunta a tus clientes remotos dónde pagan impuestos para evitar demoras.",
+      "cta_question": "¿Cómo estás calificando a los clientes que trabajan desde el extranjero?"
+    }
   ]
 }
