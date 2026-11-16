@@ -1,342 +1,164 @@
 {
   "carousels": [
     {
-      "slug": "seasonal-inventory-decline",
-      "title": "Winter Housing Inventory Drops Below 900k",
+      "slug": "mortgage-origination-cost-q2-2026",
+      "title": "The $10,936 Loan Cost Reality",
       "source": "HousingWire",
-      "source_url": "https://www.housingwire.com/articles/inventory-seasonal-decline-rates/",
-      "cover_text": "Active housing inventory drops below 900k",
-      "caption": "Shrinking inventory is reshaping the winter housing market. Total active listings just dropped to 895,988 homes, down 6,752 properties in a single week. While media outlets frame this as a normal seasonal pause, originators and underwriters know tight inventory alters deal flow. Fewer active homes mean appraisers will struggle to find fresh comparable sales, leading to delayed closing timelines. At the same time, restricted supply prevents home values from softening, maintaining strong borrower equity. Loan officers must focus on keeping pre-approved buyers active rather than waiting for spring supply. How is your operations team handling appraisal comp shortages in tight inventory markets?\n\nSource : https://tinyurl.com/28kce8tw\n#SafetrustMortgage #MortgageIntelligenceDaily #housingmarket #mortgagebroker #homebuying",
+      "source_url": "https://www.housingwire.com/articles/mortgage-tech-wish-list-why/",
+      "cover_text": "Why loan origination costs reached unprecedented highs",
+      "caption": "Loan origination costs reached $10,936 per file in Q2 2026 according to Mortgage Bankers Association data. Most lenders keep adding software subscriptions hoping to solve the efficiency problem, but tech stack bloat actually pushes costs higher. When an underwriter spends half their day manually re-entering data across unconnected systems, your cost per loan explodes. True operational efficiency happens when leadership fixes broken processes before buying new digital tools. Adding software without altering workflows just inflates vendor expense while keeping turn times stagnant. To protect your pipeline margins this year, audit every vendor contract, eliminate redundant verification steps, and measure the exact touchpoints per file. Read the full breakdown in our slides above.\n\nSource : https://tinyurl.com/26mp8xeg\n#SafetrustMortgage #MortgageIntelligenceDaily #mortgagebroker",
       "hashtags": [
         "#SafetrustMortgage",
         "#MortgageIntelligenceDaily",
-        "#housingmarket",
-        "#mortgagebroker",
-        "#homebuying"
-      ],
-      "hook_tag": "Inventory Trends",
-      "hook": "Active listings are shrinking fast as winter sets in.",
-      "what_happened_heading": "Weekly inventory numbers take a seasonal dip",
-      "what_happened": "Total active housing inventory fell to 895,988 units this past week. That represents a drop of 6,752 properties week over week as seasonal slowing takes hold.",
-      "breakdown": [
-        {
-          "heading": "Winter contraction is starting early",
-          "body": "Seasonal pullbacks happen every year, but dropping below 900,000 units tightens supply faster than expected. Fewer active homes means buyer competition stays persistent even during winter months."
-        },
-        {
-          "heading": "Underwriting impact on appraisal comparisons",
-          "body": "As an underwriter, fewer active listings means appraisal comps (comparable home sales used for valuation) get older and scarce. Expect appraisers to struggle finding recent comparable sales in tight submarkets."
-        },
-        {
-          "heading": "Purchase pipeline volume faces pressure",
-          "body": "With active inventory shrinking weekly, loan officers will see fewer purchase applications clear pre-approval status. Pipeline conversion rates naturally decline when buyers cannot find acceptable homes."
-        },
-        {
-          "heading": "Equity positions remain surprisingly insulated",
-          "body": "Lower total inventory prevents home prices from experiencing significant downside corrections. Current homeowners maintain high LTV (loan-to-value ratio) security despite broader macroeconomic uncertainty [VERIFY: home price stability]."
-        }
-      ],
-      "my_take_heading": "Tight supply protects home valuations from falling",
-      "my_take": "Do not mistake seasonal drops for demand destruction. Tight inventory creates a floor under property values that keeps loan default risks low.",
-      "action_lo": "Audit your pre-approved buyer pipeline today and re-qualify purchasing power before tight inventory drives pricing higher.",
-      "action_realtor": "Advise sellers that listing during low-inventory periods removes competing inventory and highlights their property.",
-      "cta_question": "Is your team adjusting appraisal review guidelines as winter listing volume contracts?"
-    },
-    {
-      "slug": "new-listings-slump",
-      "title": "New Seller Listings Fall Year Over Year",
-      "source": "HousingWire",
-      "source_url": "https://www.housingwire.com/articles/inventory-seasonal-decline-rates/",
-      "cover_text": "New seller listings lag behind last year",
-      "caption": "New listings are running behind last year's pace. Fresh inventory came in at 53,162 homes compared to 56,569 listings during the same period last year. This ongoing shortfall proves that seller rate lock-in remains a massive structural barrier for the housing market. Homeowners are opting to stay put rather than trade in their current mortgage terms. When evaluating loan files, underwriters see this trend driving higher demand for home equity products instead of property sales. Loan officers and real estate agents must adapt by finding opportunities in existing inventory and equity retention. How are you positioning home equity solutions while new listing volume stays depressed?\n\nSource : https://tinyurl.com/28kce8tw\n#SafetrustMortgage #MortgageIntelligenceDaily #mortgagerates #loanofficer #realestateagent",
-      "hashtags": [
-        "#SafetrustMortgage",
-        "#MortgageIntelligenceDaily",
-        "#mortgagerates",
-        "#loanofficer",
-        "#realestateagent"
-      ],
-      "hook_tag": "Supply Crunch",
-      "hook": "Seller fatigue is cutting new property listings below 2025 levels.",
-      "what_happened_heading": "New home seller volume continues to lag",
-      "what_happened": "Fresh property listings reached just 53,162 properties over the latest tracking period. That represents a clear decline compared to 56,569 new listings reported during the same frame last year.",
-      "breakdown": [
-        {
-          "heading": "Sellers are staying firmly on sidelines",
-          "body": "New listing volume dropping from 56,569 to 53,162 demonstrates that potential sellers remain unwilling to list. High existing mortgage rates keep rate-locked homeowners frozen in place."
-        },
-        {
-          "heading": "Underwriters see fewer debt consolidation sales",
-          "body": "From an underwriting perspective, fewer new listings means homeowners are choosing cash-out refinances or second liens over selling. Debt consolidation stays inside the existing property rather than creating inventory."
-        },
-        {
-          "heading": "Inventory turnover rate hits resistance",
-          "body": "Without fresh listings replenishing active stock, inventory turnover slows dramatically. Real estate agents face fewer new properties to show eager buyers across local markets."
-        },
-        {
-          "heading": "Purchase volume relies on older listings",
-          "body": "Originators must adjust strategy as new seller flow shrinks. Loan applications will increasingly depend on older inventory that may require price concessions or seller concessions."
-        }
-      ],
-      "my_take_heading": "Lock-in effect is stronger than seasonal trends",
-      "my_take": "The shortfall in new listings proves seller rate lock-in is structural, not seasonal. Strategy must shift to existing inventory pull-through.",
-      "action_lo": "Structure seller concession scenarios to help buyers absorb higher rates on long-standing active listings.",
-      "action_realtor": "Target rate-locked homeowners with equity analysis reports showing options for home equity lines of credit.",
-      "cta_question": "Are your loan officers pivoting to second liens as seller listings remain depressed?"
-    },
-    {
-      "slug": "wall-street-industrial-outdoor-storage",
-      "title": "Wall Street Pours Capital into Outdoor Storage",
-      "source": "CNBC",
-      "source_url": "https://www.cnbc.com/2026/11/14/real-estate-rental-income-industrial-storage-market.html",
-      "cover_text": "Wall Street buys industrial outdoor storage lots",
-      "caption": "Wall Street is pouring major capital into industrial outdoor storage lots. Private equity giants like Blackstone and Brookfield are actively acquiring outdoor storage land across the United States to capture rising rent income. This asset class features minimal building maintenance expenses and high rental returns. From an underwriting standpoint, these deals require careful evaluation of tenant credit and municipal land zoning regulations. As institutional buyers bid up parcel values, local operators face rising lease rates across industrial corridors. Commercial originators need to monitor how institutional capital shifts property values across secondary markets. How is institutional activity in commercial land impacting your local market opportunities?\n\nSource : https://tinyurl.com/2y3gbcfy\n#SafetrustMortgage #MortgageIntelligenceDaily #realestateinvesting #housingmarket #mortgagebroker",
-      "hashtags": [
-        "#SafetrustMortgage",
-        "#MortgageIntelligenceDaily",
-        "#realestateinvesting",
-        "#housingmarket",
         "#mortgagebroker"
       ],
-      "hook_tag": "Institutional Capital",
-      "hook": "Private equity is quietly taking over industrial outdoor storage lots.",
-      "what_happened_heading": "Institutional money targets industrial outdoor space",
-      "what_happened": "Major institutional investment firms including Blackstone and Brookfield are buying up industrial outdoor storage lots across the country. Rising commercial rental rates are driving Wall Street interest into this niche real estate sector.",
+      "hook_tag": "Origination Costs",
+      "hook": "Your high loan costs are an operational process failure.",
+      "what_happened_heading": "Production costs hit new highs",
+      "what_happened": "Mortgage Bankers Association data revealed loan production costs reached $10,936 per loan in Q2 2026. Lenders continue spending heavily on software without reducing operational friction.",
       "breakdown": [
         {
-          "heading": "Niche commercial assets generate strong yields",
-          "body": "Industrial outdoor storage offers low capital expenditure requirements and soaring rental income. Institutional players see higher net operating margins compared to traditional commercial office or residential space."
+          "heading": "Rising operational expenses",
+          "body": "Mortgage Bankers Association data shows production costs reached $10,936 per loan in Q2 2026. Adding technology has failed to lower the baseline cost per file."
         },
         {
-          "heading": "Underwriting commercial cash flow requires scrutiny",
-          "body": "When underwriting commercial real estate loans, land-heavy assets rely heavily on tenant creditworthiness. Underwriters focus on lease term stability and regional zoning rules governing open storage uses."
+          "heading": "The underwriting bottleneck",
+          "body": "Here is what this actually changes when a file hits underwriting: manual workarounds increase because software platforms do not communicate smoothly with each other."
         },
         {
-          "heading": "Land values face upward price pressure",
-          "body": "Institutional entry into storage lots drives up industrial land acquisition costs nationwide. Small business owners face higher leasing expenses as Wall Street consolidates local parcel ownership."
+          "heading": "Focusing on root causes",
+          "body": "Lenders often purchase software tools to fix symptoms instead of fixing broken underlying workflows. Tech investments must actively reduce manual touchpoints."
         },
         {
-          "heading": "Capital allocation shifts away from housing",
-          "body": "Private equity capital moving into industrial assets reduces available funding for residential land development. Institutional focus remains fixed on high-yield asset classes with predictable cash flows."
+          "heading": "Protecting overall margin",
+          "body": "When cost per loan rises, margin compression gets worse across the entire pipeline. Efficiency requires eliminating redundant verification steps."
         }
       ],
-      "my_take_heading": "Yield chasing is reshaping commercial property land",
-      "my_take": "Industrial outdoor storage is Wall Street's ultimate yield play. Institutional dominance in niche sectors squeezes local operators out of land ownership.",
-      "action_lo": "Expand your commercial lending network to finance small business acquisitions before institutional buyers dominate local storage parcels.",
-      "action_realtor": "Connect with local industrial property owners to evaluate cash flow options before institutional buyers enter your market.",
-      "cta_question": "Does institutional capital expansion into niche commercial assets signal a broader shift in real estate yield strategies?"
+      "my_take_heading": "Software without workflow restructuring fails",
+      "my_take": "Throwing tech at high origination costs only increases software expense unless you fix the underlying underwriting processes.",
+      "action_lo": "Audit your tech stack to eliminate redundant data entry.",
+      "action_realtor": "Partner with lenders who process loans fast to avoid closing delays.",
+      "cta_question": "Is your company actively cutting origination costs this quarter?"
     },
     {
-      "slug": "budapest-digital-nomad-hotspot",
-      "title": "Budapest Emerges as Top Digital Nomad Destination",
+      "slug": "mortgage-tech-root-causes",
+      "title": "Solving Mortgage Tech Disconnects",
+      "source": "HousingWire",
+      "source_url": "https://www.housingwire.com/articles/mortgage-tech-wish-list-why/",
+      "cover_text": "Stop paying software vendors for superficial fixes",
+      "caption": "Mortgage lenders are paying $10,936 per loan in origination costs while managing dozens of software vendors. The problem is that most tech partners measure success by how fast they close support tickets, not whether they reduce manual work. When an underwriter gets stuck in endless system workarounds, clearing conditions takes twice as long. Lenders must demand technology solutions that eliminate root operational friction instead of treating surface symptoms. If your software does not directly reduce touchpoints per file, it is just an unnecessary tax on your bottom line. Take a close look at your tech stack today. Read our full carousel breakdown for details.\n\nSource : https://tinyurl.com/26mp8xeg\n#SafetrustMortgage #MortgageIntelligenceDaily #loanofficer",
+      "hashtags": [
+        "#SafetrustMortgage",
+        "#MortgageIntelligenceDaily",
+        "#loanofficer"
+      ],
+      "hook_tag": "Mortgage Technology",
+      "hook": "Your tech vendors are fixing tickets, not process problems.",
+      "what_happened_heading": "Lenders evaluate vendor relationships",
+      "what_happened": "Data highlights that mortgage origination costs reached $10,936 per loan in Q2 2026. Industry experts urge lenders to demand technology partners that address root causes rather than closing support tickets.",
+      "breakdown": [
+        {
+          "heading": "Ticket volume vs performance",
+          "body": "Tech vendors measure success by closed support tickets rather than loan officer speed. High ticket volume signals underlying process friction."
+        },
+        {
+          "heading": "Underwriting file efficiency",
+          "body": "Here is what this actually changes when a file hits underwriting: unresolved software glitches create repeat conditions, slowing clear-to-close timelines."
+        },
+        {
+          "heading": "The vendor accountability gap",
+          "body": "Lenders spend thousands per file without holding vendors accountable for reducing manual touches. Software must automate root compliance checks."
+        },
+        {
+          "heading": "Streamlining loan operations",
+          "body": "True technology partners collaborate directly with operations managers to streamline data flow across loan origination systems."
+        }
+      ],
+      "my_take_heading": "Demand operational outcomes from vendors",
+      "my_take": "If your technology vendor measures success by ticket resolution rather than lower origination costs, you have the wrong partner.",
+      "action_lo": "Report recurring software glitches directly to your operations executive.",
+      "action_realtor": "Ask your lender partners how tech automation protects closing dates.",
+      "cta_question": "Are your mortgage tech vendors lowering your cost per loan?"
+    },
+    {
+      "slug": "nationwide-equities-reversereach",
+      "title": "Reverse Mortgage Tech Goes Wholesale",
+      "source": "HousingWire",
+      "source_url": "https://www.housingwire.com/articles/nationwide-equities-reversereach-parziale/",
+      "cover_text": "How reverse mortgage tech expands wholesale pipelines",
+      "caption": "Nationwide Equities is expanding its ReverseReach platform to wholesale loan officers, using AI chatbots and dedicated account executives to drive adoption. Philip Parziale noted that educational content will help originators navigate senior home equity solutions. Reverse mortgages have long been considered complex, but tech tools are simplifying scenario analysis for originators. When an underwriter evaluates a HECM (Home Equity Conversion Mortgage) file, financial assessment and equity calculations remain strict. Providing LOs with instant tech support combined with expert account executives makes cross-selling reverse products realistic. Originators who embrace senior equity solutions now can unlock major pipeline growth. Read the full analysis in our carousel.\n\nSource : https://tinyurl.com/25ek4b6v\n#SafetrustMortgage #MortgageIntelligenceDaily #homebuying",
+      "hashtags": [
+        "#SafetrustMortgage",
+        "#MortgageIntelligenceDaily",
+        "#homebuying"
+      ],
+      "hook_tag": "Reverse Mortgages",
+      "hook": "Reverse mortgage tech is moving into wholesale distribution.",
+      "what_happened_heading": "Nationwide Equities expands ReverseReach",
+      "what_happened": "Nationwide Equities executive Philip Parziale announced plans to expand the ReverseReach platform to wholesale loan officers. The push includes educational content, an artificial intelligence chatbot, and additional account executives.",
+      "breakdown": [
+        {
+          "heading": "Scaling reverse wholesale access",
+          "body": "Nationwide Equities is expanding its ReverseReach platform to give originators better tools to capture senior home equity demand."
+        },
+        {
+          "heading": "AI support for originators",
+          "body": "Adding an AI chatbot helps loan officers quickly answer complex reverse mortgage questions without waiting on support desks."
+        },
+        {
+          "heading": "Underwriting reverse loan files",
+          "body": "Here is what this actually changes when a file hits underwriting: HECM (Home Equity Conversion Mortgage) guidelines require precise equity analysis and financial assessment verification."
+        },
+        {
+          "heading": "Account executive support",
+          "body": "Adding account executives alongside technology ensures originators receive structured support when structuring complex reverse files."
+        }
+      ],
+      "my_take_heading": "Tech enables reverse mortgage growth",
+      "my_take": "AI chatbots lower the entry barrier for reverse mortgages, but origination success still requires mastering complex equity underwriting.",
+      "action_lo": "Learn reverse mortgage guidelines to capture senior home equity opportunities.",
+      "action_realtor": "Identify senior clients who can leverage equity for downsizing or purchasing.",
+      "cta_question": "Are you offering reverse mortgage solutions to your clients?"
+    },
+    {
+      "slug": "budapest-digital-nomad-housing",
+      "title": "Digital Nomad Trends and Income Underwriting",
       "source": "CNBC",
       "source_url": "https://www.cnbc.com/2026/11/15/budapest-europes-next-digital-nomad-hotspot.html",
-      "cover_text": "Budapest becomes Europe's newest digital nomad hub",
-      "caption": "Budapest is rapidly becoming Europe's next big digital nomad destination. Remote professionals are moving to Hungary's capital to leverage location independence, rich culture, and accessible lifestyle costs. But for mortgage professionals, the global remote work trend brings unique income verification challenges. As an underwriter, approving loans for remote workers requires strict verification of employer work-location policies and tax residency impact on DTI (how much of your income goes to debt). Loan officers who understand how to document remote income effectively can tap into a lucrative segment of mobile, high-earning clients. Is your organization adapting underwriting rules for location-independent borrowers?\n\nSource : https://tinyurl.com/25fdsxbj\n#SafetrustMortgage #MortgageIntelligenceDaily #firsttimehomebuyer #loanofficer #homebuying",
+      "cover_text": "How digital nomad buyers challenge mortgage underwriting",
+      "caption": "Budapest is becoming Europe's newest digital nomad hotspot, reflecting the ongoing surge in location-independent workers. While working from overseas cafés sounds ideal, remote income creates unique hurdles for home financing. When an underwriter reviews a remote worker's loan file, they must verify employer permission, tax residency, and income stability across borders. Without written employer approval for foreign remote work, qualifying income can be completely disqualified. Loan officers and realtors must review employment agreements early to avoid last-minute underwriting denials. The remote workforce is growing fast, so mastering foreign income documentation is a critical advantage. Check out our full slide deck for details.\n\nSource : https://tinyurl.com/25fdsxbj\n#SafetrustMortgage #MortgageIntelligenceDaily #housingmarket",
       "hashtags": [
         "#SafetrustMortgage",
         "#MortgageIntelligenceDaily",
-        "#firsttimehomebuyer",
-        "#loanofficer",
-        "#homebuying"
+        "#housingmarket"
       ],
-      "hook_tag": "Global Trends",
-      "hook": "Remote work trends are pushing professionals toward international living.",
-      "what_happened_heading": "Budapest gains traction with remote professionals",
-      "what_happened": "Hungary's capital city Budapest has emerged as a premier hotspot for workers adopting the work-from-anywhere lifestyle. The city attracts international professionals with its rich cultural sights, vibrant café scene, and accessible urban environment.",
+      "hook_tag": "Remote Work",
+      "hook": "Work from anywhere models complicate mortgage income qualification.",
+      "what_happened_heading": "Budapest gains digital nomad popularity",
+      "what_happened": "Budapest has emerged as Europe's next digital nomad hotspot due to its cafes, culture, and remote work infrastructure. Thousands of professionals are embracing location-independent lifestyle options across international borders.",
       "breakdown": [
         {
-          "heading": "Remote work flexibility changes buyer location",
-          "body": "The ongoing rise of digital nomadism allows high-earning remote workers to decouple their income from traditional real estate markets. Location flexibility is altering domestic buyer demographics."
+          "heading": "Global remote work growth",
+          "body": "Budapest is attracting location-independent professionals leveraging high US salaries while living in lower-cost international destinations."
         },
         {
-          "heading": "Underwriting remote income requires strict verification",
-          "body": "Underwriting remote worker loan applications requires verifying employer authorization for cross-border or out-of-state work. Tax jurisdiction shifts can complicate debt-to-income (DTI) ratio calculations and income stability evaluations."
+          "heading": "Underwriting foreign remote income",
+          "body": "Here is what this actually changes when a file hits underwriting: remote work foreign residency creates complex employer jurisdiction and tax status verification."
         },
         {
-          "heading": "Foreign real estate demand affects home markets",
-          "body": "Capital flows from remote professionals drive up residential rents and property values in destination cities. International hubs face pricing pressure similar to popular domestic Sunbelt migration destinations [VERIFY: migration patterns]."
+          "heading": "Currency and tax complexity",
+          "body": "Underwriters must verify whether employer approval permits overseas residency and ensure foreign currency earnings translate into stable qualifying income."
         },
         {
-          "heading": "Originators must navigate international income rules",
-          "body": "Loan officers working with remote clients must understand complex qualifying income guidelines. Foreign currency earnings or international residency tax rules require specialized underwriting expertise during file submission."
+          "heading": "Domestic property purchasing",
+          "body": "Remote workers frequently buy US real estate while residing abroad, creating unique occupancy classification challenges for lenders."
         }
       ],
-      "my_take_heading": "Remote work income qualification is evolving rapidly",
-      "my_take": "Remote work isn't just a lifestyle shift; it is a complex underwriting hurdle. Lenders who master international and remote income guidelines will capture high-earner market share.",
-      "action_lo": "Develop a checklist for remote worker income documentation, ensuring employer location letters and tax status are clear upfront.",
-      "action_realtor": "Partner with financial planners who advise remote professionals to capture relocations before they leave your domestic market.",
-      "cta_question": "Is your underwriting team prepared to handle complex remote work income documentation for location-flexible buyers?"
-    }
-  ],
-  "carousels_es": [
-    {
-      "slug": "seasonal-inventory-decline",
-      "title": "El inventario de casas en invierno cae por debajo de 900 mil",
-      "source": "HousingWire",
-      "source_url": "https://www.housingwire.com/articles/inventory-seasonal-decline-rates/",
-      "cover_text": "El inventario de casas cae a menos de 900k",
-      "caption": "El inventario de casas en venta acaba de caer por debajo de las 900 mil propiedades.\n\nEl total de casas activas bajó a 895,988, perdiendo 6,752 propiedades en solo una semana. Aunque muchos ven esto como una pausa normal de invierno, la falta de inventario cambia el juego. Al haber menos casas en venta, a los evaluadores les cuesta encontrar comparables recientes para los avalúos, lo que puede demorar los cierres. Al mismo tiempo, esta baja oferta evita que los precios de las propiedades caigan, protegiendo el valor de las casas actuales. Para los oficiales de crédito, la clave es mantener activos a los compradores preaprobados en lugar de esperar a la primavera. ¿Cómo está manejando tu equipo la falta de casas comparables para los avalúos?\n\nFuente : https://tinyurl.com/28kce8tw\n#SafetrustMortgage #MortgageIntelligenceDaily #housingmarket #mortgagebroker #homebuying",
-      "hashtags": [
-        "#SafetrustMortgage",
-        "#MortgageIntelligenceDaily",
-        "#housingmarket",
-        "#mortgagebroker",
-        "#homebuying"
-      ],
-      "hook_tag": "Tendencias del mercado",
-      "hook": "Las casas en venta bajan rápidamente al llegar el invierno.",
-      "what_happened_heading": "El inventario semanal sufre una baja de temporada",
-      "what_happened": "El inventario total de casas en venta cayó a 895,988 propiedades la semana pasada. Esto representa una baja de 6,752 casas en solo siete días debido al freno de temporada.",
-      "breakdown": [
-        {
-          "heading": "La baja de invierno empezó antes",
-          "body": "Cada año baja el inventario, pero caer de 900,000 casas aprieta la oferta más rápido de lo esperado. Habrá competencia entre compradores aun en pleno invierno."
-        },
-        {
-          "heading": "Impacto en las evaluaciones del asesor",
-          "body": "Para el asesor, tener menos inventario significa que las casas comparables para el avalúo son escasas. Los evaluadores tendrán problemas para encontrar ventas recientes en ciertas zonas."
-        },
-        {
-          "heading": "Menos casas frenan el volumen de préstamos",
-          "body": "Con el inventario cayendo cada semana, menos compradores preaprobados encontrarán casa. La conversión de préstamos baja de forma natural cuando no hay viviendas disponibles para comprar."
-        },
-        {
-          "heading": "El valor de las casas se mantiene firme",
-          "body": "Tener menos casas a la venta evita que los precios caigan fuerte. Los dueños actuales mantienen una buena relación préstamo-valor (LTV) pese a la incertidumbre del mercado."
-        }
-      ],
-      "my_take_heading": "La baja oferta protege el valor de las casas",
-      "my_take": "No confundas la baja de temporada con falta de compradores. El poco inventario crea un piso firme para los precios, lo que mantiene bajo el riesgo de pago para los préstamos hipotecarios.",
-      "action_lo": "Revisa hoy mismo a tus compradores preaprobados y recalculen su capacidad de compra antes de que la falta de casas suba los precios.",
-      "action_realtor": "Aconseja a tus vendedores publicar ahora: al haber menos casas en competencia, su propiedad destacará mucho más en el mercado.",
-      "cta_question": "¿Tu equipo está ajustando la revisión de avalúos ahora que baja el inventario en invierno?"
-    },
-    {
-      "slug": "new-listings-slump",
-      "title": "Las nuevas casas en venta caen frente al año pasado",
-      "source": "HousingWire",
-      "source_url": "https://www.housingwire.com/articles/inventory-seasonal-decline-rates/",
-      "cover_text": "Las nuevas casas en venta siguen cayendo",
-      "caption": "Las nuevas casas que salen a la venta siguen por debajo del ritmo del año pasado.\n\nEn el último periodo solo entraron al mercado 53,162 propiedades, comparadas con las 56,569 del año anterior. Esta diferencia demuestra que muchos dueños prefieren no vender para conservar sus tasas hipotecarias bajas. En lugar de mudarse, cada vez más personas eligen pedir préstamos sobre el valor acumulado de su propiedad para consolidar deudas. Para los agentes de bienes raíces y oficiales de crédito, la oportunidad está en buscar concesiones del vendedor en casas que llevan tiempo publicadas o en ofrecer segundas hipotecas. ¿Tu equipo ya está ofreciendo opciones sobre el valor acumulado de la vivienda?\n\nFuente : https://tinyurl.com/28kce8tw\n#SafetrustMortgage #MortgageIntelligenceDaily #mortgagerates #loanofficer #realestateagent",
-      "hashtags": [
-        "#SafetrustMortgage",
-        "#MortgageIntelligenceDaily",
-        "#mortgagerates",
-        "#loanofficer",
-        "#realestateagent"
-      ],
-      "hook_tag": "Escasez de casas",
-      "hook": "Las nuevas casas en venta caen por debajo del nivel de 2025.",
-      "what_happened_heading": "Las nuevas propiedades en venta continúan a la baja",
-      "what_happened": "Las nuevas casas que salieron al mercado llegaron a solo 53,162 en este último periodo. Esto representa una caída clara frente a las 56,569 propiedades registradas en la misma fecha el año pasado.",
-      "breakdown": [
-        {
-          "heading": "Los vendedores prefieren quedarse donde están",
-          "body": "La caída de 56,569 a 53,162 propiedades confirma que los dueños no quieren vender. Sus tasas hipotecarias actuales son tan bajas que prefieren quedarse en su casa."
-        },
-        {
-          "heading": "El asesor nota más préstamos sobre el valor acumulado",
-          "body": "Para el asesor, la falta de casas nuevas significa que la gente prefiere refinanciamientos con desembolso de efectivo o segundas hipotecas antes que vender su casa para consolidar deudas."
-        },
-        {
-          "heading": "La rotación de casas se frena en el mercado",
-          "body": "Sin casas nuevas entrando al mercado, el inventario se renueva muy despacio. Los agentes de bienes raíces tienen menos propiedades frescas para mostrar a sus compradores interesados."
-        },
-        {
-          "heading": "Las compras dependen de casas con más tiempo",
-          "body": "Los prestamistas deben cambiar de estrategia al haber menos vendedores. Las solicitudes dependerán de casas que llevan más tiempo publicadas y que podrían necesitar concesiones del vendedor."
-        }
-      ],
-      "my_take_heading": "El efecto de las tasas congeladas domina el mercado",
-      "my_take": "La falta de casas nuevas demuestra que la retención de los vendedores es estructural y no solo de temporada. Hay que enfocar la estrategia en aprovechar el inventario que ya lleva tiempo en el mercado.",
-      "action_lo": "Prepara escenarios con concesiones del vendedor para ayudar a los compradores a asimilar las tasas elevadas en casas con tiempo en venta.",
-      "action_realtor": "Envía a los dueños de casa reportes del valor acumulado de su propiedad mostrando las ventajas de una línea de crédito con garantía hipotecaria (HELOC).",
-      "cta_question": "¿Tus oficiales de crédito están ofreciendo segundas hipotecas ante la falta de nuevas casas en venta?"
-    },
-    {
-      "slug": "wall-street-industrial-outdoor-storage",
-      "title": "Wall Street invierte capital en almacenamiento al aire libre",
-      "source": "CNBC",
-      "source_url": "https://www.cnbc.com/2026/11/14/real-estate-rental-income-industrial-storage-market.html",
-      "cover_text": "Wall Street invierte en terrenos de almacenamiento industrial",
-      "caption": "Wall Street está invirtiendo grandes sumas en terrenos de almacenamiento industrial al aire libre.\n\nGigantes de capital privado como Blackstone y Brookfield están comprando lotes industriales en todo el país para aprovechar el aumento en las rentas. Este tipo de propiedad requiere muy poco gasto en mantenimiento y deja altos rendimientos. Para el asesor que evalúa estos préstamos comerciales, la clave está en revisar la solidez financiera de los inquilinos y las leyes locales de uso de suelo. A medida que estos inversionistas institucionales suben los precios de los terrenos, los comerciantes locales enfrentan rentas más elevadas en las zonas industriales. ¿Cómo está afectando la presencia de estos grandes fondos las oportunidades en tu mercado local?\n\nFuente : https://tinyurl.com/2y3gbcfy\n#SafetrustMortgage #MortgageIntelligenceDaily #realestateinvesting #housingmarket #mortgagebroker",
-      "hashtags": [
-        "#SafetrustMortgage",
-        "#MortgageIntelligenceDaily",
-        "#realestateinvesting",
-        "#housingmarket",
-        "#mortgagebroker"
-      ],
-      "hook_tag": "Capital institucional",
-      "hook": "Los grandes fondos están comprando terrenos de almacenamiento industrial sin hacer ruido.",
-      "what_happened_heading": "El dinero institucional apunta al almacenamiento al aire libre",
-      "what_happened": "Grandes firmas de inversión como Blackstone y Brookfield están comprando terrenos para almacenamiento industrial al aire libre en todo el país. El aumento en las rentas comerciales atrajo el interés de Wall Street hacia este sector especializado.",
-      "breakdown": [
-        {
-          "heading": "Activos comerciales pequeños generan grandes rendimientos",
-          "body": "El almacenamiento industrial al aire libre requiere poco mantenimiento y genera altos ingresos por renta. Los grandes inversionistas obtienen mejores márgenes que con oficinas o viviendas tradicionales."
-        },
-        {
-          "heading": "El asesor analiza a fondo el flujo de caja",
-          "body": "Al evaluar préstamos comerciales para terrenos, el asesor analiza con lupa la solvencia del inquilino. Se revisa la estabilidad del contrato de arrendamiento y las normas locales de zonificación."
-        },
-        {
-          "heading": "El valor de los terrenos sigue subiendo",
-          "body": "La llegada de fondos institucionales sube el precio de los terrenos industriales en todo el país. Los pequeños empresarios pagan rentas más altas mientras Wall Street acumula propiedades locales."
-        },
-        {
-          "heading": "El capital se aleja de la construcción de viviendas",
-          "body": "El dinero que fluye hacia terrenos industriales reduce los fondos disponibles para desarrollar viviendas. La inversión privada busca activos de alto rendimiento y con flujos de dinero garantizados."
-        }
-      ],
-      "my_take_heading": "La búsqueda de rentabilidad transforma el suelo comercial",
-      "my_take": "El almacenamiento al aire libre es la mejor jugada de Wall Street para obtener ganancias. El dominio de las grandes firmas en sectores especializados complica que los empresarios locales puedan comprar sus propios terrenos.",
-      "action_lo": "Amplía tu red de préstamos comerciales para financiar a pequeñas empresas locales antes de que los grandes fondos compren todos los terrenos.",
-      "action_realtor": "Contacta a los dueños de terrenos industriales en tu zona para evaluar el flujo de caja de sus propiedades antes de que lleguen los inversionistas institucionales.",
-      "cta_question": "¿Crees que la llegada de grandes fondos a terrenos industriales cambie el futuro de las inversiones en bienes raíces?"
-    },
-    {
-      "slug": "budapest-digital-nomad-hotspot",
-      "title": "Budapest se posiciona como destino ideal para nómadas digitales",
-      "source": "CNBC",
-      "source_url": "https://www.cnbc.com/2026/11/15/budapest-europes-next-digital-nomad-hotspot.html",
-      "cover_text": "Budapest es la nueva capital de nómadas digitales",
-      "caption": "Budapest se está convirtiendo rápidamente en la nueva capital para los nómadas digitales en Europa.\n\nCada vez más profesionales remotos se mudan a la capital de Hungría para disfrutar de flexibilidad laboral, cultura y un costo de vida accesible. Pero para la industria hipotecaria, este estilo de vida trae retos únicos al verificar ingresos. Para el asesor, calificar la solicitud de un trabajador remoto exige confirmar las políticas del empleador y revisar cómo afectan los impuestos a su relación deuda-ingreso (DTI). Los oficiales de crédito que sepan documentar bien los ingresos remotos podrán captar a estos clientes móviles de altos ingresos. ¿Tu equipo ya sabe cómo manejar los préstamos para compradores con trabajo remoto?\n\nFuente : https://tinyurl.com/25fdsxbj\n#SafetrustMortgage #MortgageIntelligenceDaily #firsttimehomebuyer #loanofficer #homebuying",
-      "hashtags": [
-        "#SafetrustMortgage",
-        "#MortgageIntelligenceDaily",
-        "#firsttimehomebuyer",
-        "#loanofficer",
-        "#homebuying"
-      ],
-      "hook_tag": "Tendencias globales",
-      "hook": "El trabajo remoto impulsa a los profesionales a vivir en el extranjero.",
-      "what_happened_heading": "Budapest atrae cada vez más a trabajadores remotos",
-      "what_happened": "Budapest, la capital de Hungría, se ha convertido en el destino favorito de quienes trabajan desde cualquier lugar. La ciudad atrae a profesionales de todo el mundo por su riqueza cultural, su vida social y un costo de vida accesible.",
-      "breakdown": [
-        {
-          "heading": "La flexibilidad laboral cambia dónde compran los clientes",
-          "body": "El trabajo remoto permite que profesionales con altos ingresos desliguen sus sueldos del mercado inmobiliario local. Poder trabajar desde cualquier lugar está cambiando el perfil del comprador tradicional."
-        },
-        {
-          "heading": "El asesor requiere verificar bien los ingresos remotos",
-          "body": "Aprobar préstamos a trabajadores remotos requiere confirmar que el empleador permite trabajar en otra ciudad o país. Los cambios de impuestos afectan el cálculo de la relación deuda-ingreso (DTI)."
-        },
-        {
-          "heading": "La demanda internacional cambia los precios locales",
-          "body": "La llegada de profesionales remotos sube los precios de renta y venta en las ciudades de destino. Estas ciudades viven una presión de precios similar a los mercados del Sunbelt."
-        },
-        {
-          "heading": "Los prestamistas deben dominar las reglas de ingresos remotos",
-          "body": "Los oficiales de crédito que atienden a clientes remotos deben conocer bien los requisitos de ingresos. Ganar en moneda extranjera o pagar impuestos en otro país requiere una revisión muy minuciosa."
-        }
-      ],
-      "my_take_heading": "Calificar ingresos remotos exige nuevos conocimientos",
-      "my_take": "El trabajo remoto no es solo un estilo de vida; es un reto para la aprobación de préstamos. Los prestamistas que dominen las reglas para evaluar ingresos remotos ganarán a los clientes con mayores ingresos.",
-      "action_lo": "Crea una lista de verificación de documentos para trabajadores remotos, pidiendo desde el principio la carta del empleador sobre su ubicación laboral y estado fiscal.",
-      "action_realtor": "Haz alianzas con asesores financieros que orienten a profesionales remotos para ayudarlos en sus mudanzas antes de que se vayan de tu mercado.",
-      "cta_question": "¿Tu equipo de evaluación está listo para revisar la documentación de ingresos de compradores con empleo remoto?"
+      "my_take_heading": "Remote income underwriting requires precision",
+      "my_take": "Digital nomad buyers have strong cash flow, but unverified remote work tax status can destroy mortgage approvals.",
+      "action_lo": "Verify remote work employer agreement letters before taking loan applications.",
+      "action_realtor": "Ask remote clients about their tax location to avoid financing delays.",
+      "cta_question": "How are you qualifying clients who work overseas remotely?"
     }
   ]
 }
