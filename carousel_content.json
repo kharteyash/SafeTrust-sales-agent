@@ -1,326 +1,172 @@
 {
   "carousels": [
     {
-      "slug": "mortgage-origination-cost-q2-2026",
-      "title": "The $10,936 Loan Cost Reality",
+      "slug": "credit-score-model-adoption",
+      "title": "Lenders pull new credit model but do not price with it",
       "source": "HousingWire",
-      "source_url": "https://www.housingwire.com/articles/mortgage-tech-wish-list-why/",
-      "cover_text": "Why loan origination costs reached unprecedented highs",
-      "caption": "Loan origination costs reached $10,936 per file in Q2 2026 according to Mortgage Bankers Association data. Most lenders keep adding software subscriptions hoping to solve the efficiency problem, but tech stack bloat actually pushes costs higher. When an underwriter spends half their day manually re-entering data across unconnected systems, your cost per loan explodes. True operational efficiency happens when leadership fixes broken processes before buying new digital tools. Adding software without altering workflows just inflates vendor expense while keeping turn times stagnant. To protect your pipeline margins this year, audit every vendor contract, eliminate redundant verification steps, and measure the exact touchpoints per file. Read the full breakdown in our slides above.\n\nSource : https://tinyurl.com/26mp8xeg\n#SafetrustMortgage #MortgageIntelligenceDaily #mortgagebroker",
+      "source_url": "https://www.housingwire.com/articles/lenders-pull-but-dont-price-with-new-credit-score-model/",
+      "cover_text": "Pulling a new credit score without pricing risk",
+      "caption": "More than 170 lenders are pulling the new VantageScore 4.0 model, yet very few are using it for actual loan pricing. This half-in approach creates a massive operational disconnect for lenders and investors alike. As someone who spent a decade clearing conditions in underwriting, I can tell you that looking at a data point you refuse to price is just expensive window dressing. Until secondary markets fully adopt these scores for execution, lenders are essentially paying twice for data they cannot monetize. Read on to see why the industry is stuck in neutral on credit model updates.\n\nSource : https://tinyurl.com/2bhsqp4c\n#SafetrustMortgage #MortgageIntelligenceDaily #mortgagelending #creditscore #housingmarket",
       "hashtags": [
         "#SafetrustMortgage",
         "#MortgageIntelligenceDaily",
-        "#mortgagebroker"
-      ],
-      "hook_tag": "Origination Costs",
-      "hook": "Your high loan costs are an operational process failure.",
-      "what_happened_heading": "Production costs hit new highs",
-      "what_happened": "Mortgage Bankers Association data revealed loan production costs reached $10,936 per loan in Q2 2026. Lenders continue spending heavily on software without reducing operational friction.",
-      "breakdown": [
-        {
-          "heading": "Rising operational expenses",
-          "body": "Mortgage Bankers Association data shows production costs reached $10,936 per loan in Q2 2026. Adding technology has failed to lower the baseline cost per file."
-        },
-        {
-          "heading": "The underwriting bottleneck",
-          "body": "Here is what this actually changes when a file hits underwriting: manual workarounds increase because software platforms do not communicate smoothly with each other."
-        },
-        {
-          "heading": "Focusing on root causes",
-          "body": "Lenders often purchase software tools to fix symptoms instead of fixing broken underlying workflows. Tech investments must actively reduce manual touchpoints."
-        },
-        {
-          "heading": "Protecting overall margin",
-          "body": "When cost per loan rises, margin compression gets worse across the entire pipeline. Efficiency requires eliminating redundant verification steps."
-        }
-      ],
-      "my_take_heading": "Software without workflow restructuring fails",
-      "my_take": "Throwing tech at high origination costs only increases software expense unless you fix the underlying underwriting processes.",
-      "action_lo": "Audit your tech stack to eliminate redundant data entry.",
-      "action_realtor": "Partner with lenders who process loans fast to avoid closing delays.",
-      "cta_question": "Is your company actively cutting origination costs this quarter?"
-    },
-    {
-      "slug": "mortgage-tech-root-causes",
-      "title": "Solving Mortgage Tech Disconnects",
-      "source": "HousingWire",
-      "source_url": "https://www.housingwire.com/articles/mortgage-tech-wish-list-why/",
-      "cover_text": "Stop paying software vendors for superficial fixes",
-      "caption": "Mortgage lenders are paying $10,936 per loan in origination costs while managing dozens of software vendors. The problem is that most tech partners measure success by how fast they close support tickets, not whether they reduce manual work. When an underwriter gets stuck in endless system workarounds, clearing conditions takes twice as long. Lenders must demand technology solutions that eliminate root operational friction instead of treating surface symptoms. If your software does not directly reduce touchpoints per file, it is just an unnecessary tax on your bottom line. Take a close look at your tech stack today. Read our full carousel breakdown for details.\n\nSource : https://tinyurl.com/26mp8xeg\n#SafetrustMortgage #MortgageIntelligenceDaily #loanofficer",
-      "hashtags": [
-        "#SafetrustMortgage",
-        "#MortgageIntelligenceDaily",
-        "#loanofficer"
-      ],
-      "hook_tag": "Mortgage Technology",
-      "hook": "Your tech vendors are fixing tickets, not process problems.",
-      "what_happened_heading": "Lenders evaluate vendor relationships",
-      "what_happened": "Data highlights that mortgage origination costs reached $10,936 per loan in Q2 2026. Industry experts urge lenders to demand technology partners that address root causes rather than closing support tickets.",
-      "breakdown": [
-        {
-          "heading": "Ticket volume vs performance",
-          "body": "Tech vendors measure success by closed support tickets rather than loan officer speed. High ticket volume signals underlying process friction."
-        },
-        {
-          "heading": "Underwriting file efficiency",
-          "body": "Here is what this actually changes when a file hits underwriting: unresolved software glitches create repeat conditions, slowing clear-to-close timelines."
-        },
-        {
-          "heading": "The vendor accountability gap",
-          "body": "Lenders spend thousands per file without holding vendors accountable for reducing manual touches. Software must automate root compliance checks."
-        },
-        {
-          "heading": "Streamlining loan operations",
-          "body": "True technology partners collaborate directly with operations managers to streamline data flow across loan origination systems."
-        }
-      ],
-      "my_take_heading": "Demand operational outcomes from vendors",
-      "my_take": "If your technology vendor measures success by ticket resolution rather than lower origination costs, you have the wrong partner.",
-      "action_lo": "Report recurring software glitches directly to your operations executive.",
-      "action_realtor": "Ask your lender partners how tech automation protects closing dates.",
-      "cta_question": "Are your mortgage tech vendors lowering your cost per loan?"
-    },
-    {
-      "slug": "nationwide-equities-reversereach",
-      "title": "Reverse Mortgage Tech Goes Wholesale",
-      "source": "HousingWire",
-      "source_url": "https://www.housingwire.com/articles/nationwide-equities-reversereach-parziale/",
-      "cover_text": "How reverse mortgage tech expands wholesale pipelines",
-      "caption": "Nationwide Equities is expanding its ReverseReach platform to wholesale loan officers, using AI chatbots and dedicated account executives to drive adoption. Philip Parziale noted that educational content will help originators navigate senior home equity solutions. Reverse mortgages have long been considered complex, but tech tools are simplifying scenario analysis for originators. When an underwriter evaluates a HECM (Home Equity Conversion Mortgage) file, financial assessment and equity calculations remain strict. Providing LOs with instant tech support combined with expert account executives makes cross-selling reverse products realistic. Originators who embrace senior equity solutions now can unlock major pipeline growth. Read the full analysis in our carousel.\n\nSource : https://tinyurl.com/25ek4b6v\n#SafetrustMortgage #MortgageIntelligenceDaily #homebuying",
-      "hashtags": [
-        "#SafetrustMortgage",
-        "#MortgageIntelligenceDaily",
-        "#homebuying"
-      ],
-      "hook_tag": "Reverse Mortgages",
-      "hook": "Reverse mortgage tech is moving into wholesale distribution.",
-      "what_happened_heading": "Nationwide Equities expands ReverseReach",
-      "what_happened": "Nationwide Equities executive Philip Parziale announced plans to expand the ReverseReach platform to wholesale loan officers. The push includes educational content, an artificial intelligence chatbot, and additional account executives.",
-      "breakdown": [
-        {
-          "heading": "Scaling reverse wholesale access",
-          "body": "Nationwide Equities is expanding its ReverseReach platform to give originators better tools to capture senior home equity demand."
-        },
-        {
-          "heading": "AI support for originators",
-          "body": "Adding an AI chatbot helps loan officers quickly answer complex reverse mortgage questions without waiting on support desks."
-        },
-        {
-          "heading": "Underwriting reverse loan files",
-          "body": "Here is what this actually changes when a file hits underwriting: HECM (Home Equity Conversion Mortgage) guidelines require precise equity analysis and financial assessment verification."
-        },
-        {
-          "heading": "Account executive support",
-          "body": "Adding account executives alongside technology ensures originators receive structured support when structuring complex reverse files."
-        }
-      ],
-      "my_take_heading": "Tech enables reverse mortgage growth",
-      "my_take": "AI chatbots lower the entry barrier for reverse mortgages, but origination success still requires mastering complex equity underwriting.",
-      "action_lo": "Learn reverse mortgage guidelines to capture senior home equity opportunities.",
-      "action_realtor": "Identify senior clients who can leverage equity for downsizing or purchasing.",
-      "cta_question": "Are you offering reverse mortgage solutions to your clients?"
-    },
-    {
-      "slug": "budapest-digital-nomad-housing",
-      "title": "Digital Nomad Trends and Income Underwriting",
-      "source": "CNBC",
-      "source_url": "https://www.cnbc.com/2026/11/15/budapest-europes-next-digital-nomad-hotspot.html",
-      "cover_text": "How digital nomad buyers challenge mortgage underwriting",
-      "caption": "Budapest is becoming Europe's newest digital nomad hotspot, reflecting the ongoing surge in location-independent workers. While working from overseas cafés sounds ideal, remote income creates unique hurdles for home financing. When an underwriter reviews a remote worker's loan file, they must verify employer permission, tax residency, and income stability across borders. Without written employer approval for foreign remote work, qualifying income can be completely disqualified. Loan officers and realtors must review employment agreements early to avoid last-minute underwriting denials. The remote workforce is growing fast, so mastering foreign income documentation is a critical advantage. Check out our full slide deck for details.\n\nSource : https://tinyurl.com/25fdsxbj\n#SafetrustMortgage #MortgageIntelligenceDaily #housingmarket",
-      "hashtags": [
-        "#SafetrustMortgage",
-        "#MortgageIntelligenceDaily",
+        "#mortgagelending",
+        "#creditscore",
         "#housingmarket"
       ],
-      "hook_tag": "Remote Work",
-      "hook": "Work from anywhere models complicate mortgage income qualification.",
-      "what_happened_heading": "Budapest gains digital nomad popularity",
-      "what_happened": "Budapest has emerged as Europe's next digital nomad hotspot due to its cafes, culture, and remote work infrastructure. Thousands of professionals are embracing location-independent lifestyle options across international borders.",
+      "hook_tag": "Credit Model Trap",
+      "hook": "Over 170 lenders are pulling the new credit model, but nobody is pricing with it.",
+      "what_happened_heading": "The new credit score paradox",
+      "what_happened": "More than 170 lenders are now pulling VS4, but relatively few are using it as their pricing score. This creates a strange gap between data collection and actual loan execution.",
       "breakdown": [
         {
-          "heading": "Global remote work growth",
-          "body": "Budapest is attracting location-independent professionals leveraging high US salaries while living in lower-cost international destinations."
+          "heading": "Collecting data without an execution strategy",
+          "body": "Lenders are integrating new technology pipelines to pull alternative credit data, but their secondary market desks have no framework to trade loans priced on these metrics."
         },
         {
-          "heading": "Underwriting foreign remote income",
-          "body": "Here is what this actually changes when a file hits underwriting: remote work foreign residency creates complex employer jurisdiction and tax status verification."
+          "heading": "The investor hesitation holding back adoption",
+          "body": "Wall Street investors and the GSEs (Fannie Mae and Freddie Mac) still rely heavily on legacy scoring models for mortgage-backed securities, stalling real-world utility."
         },
         {
-          "heading": "Currency and tax complexity",
-          "body": "Underwriters must verify whether employer approval permits overseas residency and ensure foreign currency earnings translate into stable qualifying income."
+          "heading": "Underwriting friction on dual models",
+          "body": "Here is what this actually changes when a file hits underwriting: processors now have to look at conflicting scores without clear guidelines on which number rules approval."
         },
         {
-          "heading": "Domestic property purchasing",
-          "body": "Remote workers frequently buy US real estate while residing abroad, creating unique occupancy classification challenges for lenders."
+          "heading": "Technology costs versus tangible revenue",
+          "body": "Software vendors sell the upgrade as future-proofing, but executive balance sheets take an immediate hit for credit reports that do not change the final rate stack."
         }
       ],
-      "my_take_heading": "Remote income underwriting requires precision",
-      "my_take": "Digital nomad buyers have strong cash flow, but unverified remote work tax status can destroy mortgage approvals.",
-      "action_lo": "Verify remote work employer agreement letters before taking loan applications.",
-      "action_realtor": "Ask remote clients about their tax location to avoid financing delays.",
-      "cta_question": "How are you qualifying clients who work overseas remotely?"
-    }
-  ],
-  "carousels_es": [
-    {
-      "slug": "mortgage-origination-cost-q2-2026",
-      "title": "El costo real de originar un préstamo: $10,936",
-      "source": "HousingWire",
-      "source_url": "https://www.housingwire.com/articles/mortgage-tech-wish-list-why/",
-      "cover_text": "Por qué originar un préstamo cuesta tan caro",
-      "caption": "Originar un préstamo costó $10,936 en el segundo trimestre de 2026. Muchos prestamistas siguen comprando licencias de software esperando solucionar la falta de eficiencia, pero acumular programas desconectados solo encarece la operación. Cuando un asesor (underwriter) pasa la mitad del día copiando datos manualmente entre sistemas que no se hablan, los costos se disparan. La verdadera eficiencia llega cuando la gerencia corrige los procesos fallidos antes de invertir en nuevas herramientas digitales. Sumar tecnología sin ajustar los flujos de trabajo incrementa las facturas de proveedores sin mejorar los tiempos de respuesta. Para proteger tus márgenes este año, revisa cada contrato con proveedores, elimina verificaciones duplicadas y mide los pasos requeridos por expediente.\n\nFuente : https://tinyurl.com/26mp8xeg\n#SafetrustMortgage #MortgageIntelligenceDaily #mortgagebroker",
-      "hashtags": [
-        "#SafetrustMortgage",
-        "#MortgageIntelligenceDaily",
-        "#mortgagebroker"
-      ],
-      "hook_tag": "Costos de originación",
-      "hook": "Tus altos costos al originar préstamos son fallas en tus procesos.",
-      "what_happened_heading": "Los costos de producción alcanzan récords",
-      "what_happened": "Datos de la Asociación de Bancos Hipotecarios muestran que originar cada préstamo costó $10,936 en el segundo trimestre de 2026. Las entidades siguen gastando mucho en programas sin reducir los problemas de operación.",
-      "breakdown": [
-        {
-          "heading": "Gastos de operación en aumento",
-          "body": "Datos de la Asociación de Bancos Hipotecarios indican que el costo de producción llegó a $10,936 por préstamo en el segundo trimestre de 2026. Agregar tecnología no ha bajado los costos."
-        },
-        {
-          "heading": "El cuello de botella en evaluación",
-          "body": "Esto es lo que cambia cuando el expediente llega al asesor: el trabajo manual aumenta porque los programas informáticos no se comunican de forma fluida entre sí."
-        },
-        {
-          "heading": "Atacar las causas principales",
-          "body": "Los prestamistas compran programas para tapar problemas en lugar de arreglar procesos fallidos. La tecnología debe reducir los pasos manuales de forma directa."
-        },
-        {
-          "heading": "Proteger los márgenes del negocio",
-          "body": "Cuando el costo por préstamo sube, las ganancias de la empresa caen. Lograr eficiencia exige eliminar verificaciones repetidas que no aportan valor a la operación."
-        }
-      ],
-      "my_take_heading": "Comprar tecnología sin cambiar procesos no funciona",
-      "my_take": "Gastar más en programas informáticos no bajará tus costos si no corriges los procesos de evaluación de crédito desde la raíz.",
-      "action_lo": "Revisa tus herramientas digitales para eliminar el ingreso duplicado de datos.",
-      "action_realtor": "Trabaja con prestamistas rápidos para evitar retrasos al cerrar la compra.",
-      "cta_question": "¿Tu empresa está recortando los costos de originación este trimestre?"
+      "my_take_heading": "An expensive habit of data hoarding",
+      "my_take": "Collecting data you refuse to price is not innovation. It is just an expensive way to look busy.",
+      "action_lo": "Ask your credit reporting vendor which of your secondary investors actually accept loans priced on VS4 before changing your pitch.",
+      "action_realtor": "Do not stress over new credit model headlines with clients; traditional scores still dictate what closes today.",
+      "cta_question": "Are your secondary investors showing any real appetite for new credit scoring models yet, or is everyone waiting out the GSEs on the sidelines?"
     },
     {
-      "slug": "mortgage-tech-root-causes",
-      "title": "Soluciones a los fallos en tecnología hipotecaria",
+      "slug": "ai-underwriting-dispute-protocol",
+      "title": "Adjudication method aims to preserve evidence for AI overrides",
       "source": "HousingWire",
-      "source_url": "https://www.housingwire.com/articles/mortgage-tech-wish-list-why/",
-      "cover_text": "Deja de pagar programas que no solucionan nada",
-      "caption": "Los prestamistas pagan $10,936 por préstamo mientras manejan decenas de programas informáticos. El problema es que la mayoría de proveedores miden su éxito según los tickets de soporte cerrados, no si reducen el trabajo manual. Cuando un asesor (underwriter) pierde tiempo en rodeos del sistema, resolver las condiciones toma el doble de tiempo. Los prestamistas deben exigir soluciones tecnológicas que eliminen la fricción operativa de raíz en lugar de disimular los problemas. Si tu software no disminuye los pasos en cada expediente, es solo un gasto innecesario. Revisa hoy mismo tus programas instalados.\n\nFuente : https://tinyurl.com/26mp8xeg\n#SafetrustMortgage #MortgageIntelligenceDaily #loanofficer",
+      "source_url": "https://www.housingwire.com/articles/ai-reviewer-dispute-protocol/",
+      "cover_text": "When human underwriters override artificial intelligence tools",
+      "caption": "As algorithms take over more initial mortgage decisions, the friction between human reviewers and automated engines is reaching a boiling point. A new adjudication protocol aims to track overrides, preserve evidence, and assign accountability when humans disagree with machine logic. From an underwriter pipeline perspective, this is the most critical workflow shift of the decade. We are moving from gut-check approvals to audited machine collaborations. Read on to discover how tracking human overrides changes file liability forever.\n\nSource : https://tinyurl.com/24flrv5k\n#SafetrustMortgage #MortgageIntelligenceDaily #loanofficer #mortgageunderwriter #realestate",
       "hashtags": [
         "#SafetrustMortgage",
         "#MortgageIntelligenceDaily",
-        "#loanofficer"
+        "#loanofficer",
+        "#mortgageunderwriter",
+        "#realestate"
       ],
-      "hook_tag": "Tecnología hipotecaria",
-      "hook": "Tus proveedores solucionan tickets de soporte, no problemas de fondo.",
-      "what_happened_heading": "Evaluación de relaciones con proveedores tecnológicos",
-      "what_happened": "Los datos muestran que originar un préstamo costó $10,936 en el segundo trimestre de 2026. Expertos aconsejan exigir socios tecnológicos que solucionen causas de fondo y no solo tickets de soporte.",
+      "hook_tag": "AI vs Human",
+      "hook": "What happens when a human underwriter flat-out disagrees with artificial intelligence?",
+      "what_happened_heading": "A new framework for algorithmic disputes",
+      "what_happened": "A practical adjudication method has been introduced to preserve evidence, assign authority, and track the exact time spent on human overrides of AI decisions. This protocol establishes clear chains of custody for automated loan determinations.",
       "breakdown": [
         {
-          "heading": "Volumen de tickets frente a rendimiento",
-          "body": "Los proveedores miden su éxito por tickets resueltos y no por la velocidad del oficial de préstamos. Muchos tickets indican fallas constantes en el proceso."
+          "heading": "The growing friction in modern operations",
+          "body": "Automated underwriting systems spit out clear-cut approvals or denials, but complex borrower profiles often force experienced human staff to override the machine logic."
         },
         {
-          "heading": "Eficiencia del asesor en cada caso",
-          "body": "Esto cambia al llegar al asesor: las fallas de software no resueltas crean condiciones repetidas, lo que frena las aprobaciones finales para el cierre."
+          "heading": "Tracking the cost of human intervention",
+          "body": "Operations managers need to track how many hours underwriters spend untangling automated findings, directly impacting turn times and cost-per-loan metrics."
         },
         {
-          "heading": "Exigir cuentas a los proveedores",
-          "body": "Los prestamistas gastan miles por préstamo sin exigir a sus proveedores reducir el trabajo manual. El software debe automatizar las verificaciones normativas básicas."
+          "heading": "Preserving liability when exceptions occur",
+          "body": "Here is what this actually changes when a file hits underwriting: every time a human rejects an AI finding, they must log airtight documentation to protect against future buybacks."
         },
         {
-          "heading": "Optimización de la operación crediticia",
-          "body": "Los verdaderos socios tecnológicos trabajan junto al equipo de operaciones para agilizar el flujo de datos entre los sistemas de originación de préstamos."
+          "heading": "Eliminating the wild west of overrides",
+          "body": "Without a formal protocol, loan officers often pressure underwriters to bypass machine warnings informally, creating massive compliance blind spots for executive teams."
         }
       ],
-      "my_take_heading": "Exige resultados operativos a tus proveedores",
-      "my_take": "Si tu proveedor de tecnología mide su éxito cerrando tickets en vez de bajar tus costos de originación, tienes al socio equivocado.",
-      "action_lo": "Reporta las fallas del sistema directamente al director de operaciones.",
-      "action_realtor": "Pregunta a tus prestamistas cómo la tecnología asegura las fechas de cierre.",
-      "cta_question": "¿Tus programas tecnológicos están bajando tus costos por préstamo?"
+      "my_take_heading": "The audit trail is the new loan file",
+      "my_take": "If you override the algorithm without a paper trail, you are just volunteering to take the blame when the loan defaults.",
+      "action_lo": "Learn your shop's exact override policy so you can set proper timeline expectations with realtors when automation flags a file.",
+      "action_realtor": "Understand that AI delays are increasingly about liability tracking, not laziness from the operations desk.",
+      "cta_question": "Are your operations teams logging AI overrides yet, or are underwriters still relying on sticky notes and informal chats?"
     },
     {
-      "slug": "nationwide-equities-reversereach",
-      "title": "Tecnología de hipotecas inversas al por mayor",
+      "slug": "va-loan-fee-increases-namb",
+      "title": "NAMB opposes VA loan fee increases in Senate bill",
       "source": "HousingWire",
-      "source_url": "https://www.housingwire.com/articles/nationwide-equities-reversereach-parziale/",
-      "cover_text": "Hipotecas inversas para hacer crecer tu negocio",
-      "caption": "Nationwide Equities lleva su plataforma ReverseReach a los oficiales de préstamos mayoristas. Philip Parziale explicó que los contenidos educativos ayudarán a los originadores a ofrecer soluciones respaldadas por el capital acumulado de los adultos mayores. Las hipotecas inversas (HECM) solían considerarse complejas, pero la tecnología facilita el análisis de escenarios. Cuando un asesor (underwriter) evalúa estos casos, la revisión financiera y el cálculo del valor de la vivienda siguen siendo estrictos. Ofrecer a los originadores asistencia virtual rápida junto a ejecutivos con experiencia hace posible vender este producto. Quienes aprovechen estas herramientas abrirán grandes oportunidades en su negocio.\n\nFuente : https://tinyurl.com/25ek4b6v\n#SafetrustMortgage #MortgageIntelligenceDaily #homebuying",
+      "source_url": "https://www.housingwire.com/articles/namb-va-loan-fees-s4744/",
+      "cover_text": "Pushback on permanent VA loan fee hikes",
+      "caption": "Legislation passed by the House would lift VA IRRRL funding fees to 1.42% and make higher charges permanent, drawing sharp opposition from industry groups like NAMB. While lawmakers view these fees as a funding mechanism, originators know it directly impacts military families looking to lower their monthly payments. When the government tacks extra basis points onto government-backed loans, it eats right into the borrower's purchasing power. Read on to see why this legislative fight matters to your pipeline.\n\nSource : https://tinyurl.com/2dkfat5v\n#SafetrustMortgage #MortgageIntelligenceDaily #mortgagebroker #veterans #housingmarket",
       "hashtags": [
         "#SafetrustMortgage",
         "#MortgageIntelligenceDaily",
-        "#homebuying"
-      ],
-      "hook_tag": "Hipotecas inversas",
-      "hook": "La tecnología de hipotecas inversas llega al canal mayorista.",
-      "what_happened_heading": "Nationwide Equities impulsa su plataforma ReverseReach",
-      "what_happened": "Philip Parziale de Nationwide Equities anunció la expansión de ReverseReach para oficiales de préstamos mayoristas. La propuesta incluye capacitación, asistencia con inteligencia artificial y ejecutivos de cuenta dedicados.",
-      "breakdown": [
-        {
-          "heading": "Acceso mayorista a hipotecas inversas",
-          "body": "Nationwide Equities expande su plataforma ReverseReach para dar mejores herramientas a los originadores y aprovechar el capital acumulado por adultos mayores."
-        },
-        {
-          "heading": "Apoyo de inteligencia artificial",
-          "body": "El asistente virtual ayuda al oficial de préstamos a responder dudas sobre hipotecas inversas (HECM) rápidamente y sin esperar a la mesa de ayuda."
-        },
-        {
-          "heading": "Evaluación de préstamos de hipoteca inversa",
-          "body": "Esto cambia al llegar al asesor: las reglas de hipotecas inversas (HECM) exigen analizar con exactitud el valor de la vivienda y la capacidad financiera."
-        },
-        {
-          "heading": "Soporte con ejecutivos de cuenta",
-          "body": "Combinar tecnología con ejecutivos de cuenta asegura que los originadores reciban orientación personalizada para estructurar casos de hipotecas inversas complejos."
-        }
-      ],
-      "my_take_heading": "La tecnología impulsa las hipotecas inversas",
-      "my_take": "La inteligencia artificial facilita el acceso a las hipotecas inversas, pero tener éxito requiere dominar el análisis financiero de este producto.",
-      "action_lo": "Aprende las reglas de hipotecas inversas para atender a adultos mayores.",
-      "action_realtor": "Identifica clientes mayores que puedan usar su capital para mudarse o comprar.",
-      "cta_question": "¿Estás ofreciendo opciones de hipoteca inversa a tus clientes?"
-    },
-    {
-      "slug": "budapest-digital-nomad-housing",
-      "title": "Nómadas digitales y la aprobación de ingresos",
-      "source": "CNBC",
-      "source_url": "https://www.cnbc.com/2026/11/15/budapest-europes-next-digital-nomad-hotspot.html",
-      "cover_text": "El reto de financiar compras a nómadas digitales",
-      "caption": "Budapest es el nuevo centro para nómadas digitales en Europa, reflejando el constante aumento de trabajadores remotos. Aunque trabajar desde un café en el extranjero suena genial, los ingresos internacionales crean retos para calificar a una hipoteca. Cuando un asesor (underwriter) revisa el expediente de un trabajador remoto, debe confirmar el permiso de la empresa, la residencia fiscal y la estabilidad del sueldo. Sin una carta formal del empleador que apruebe el trabajo remoto desde el exterior, los ingresos pueden ser descalificados. Los oficiales de crédito y agentes inmobiliarios deben revisar estos acuerdos temprano para evitar rechazos de último momento.\n\nFuente : https://tinyurl.com/25fdsxbj\n#SafetrustMortgage #MortgageIntelligenceDaily #housingmarket",
-      "hashtags": [
-        "#SafetrustMortgage",
-        "#MortgageIntelligenceDaily",
+        "#mortgagebroker",
+        "#veterans",
         "#housingmarket"
       ],
-      "hook_tag": "Trabajo remoto",
-      "hook": "El trabajo remoto complica la aprobación de préstamos hipotecarios.",
-      "what_happened_heading": "Budapest atrae a más nómadas digitales",
-      "what_happened": "Budapest se ha convertido en el nuevo destino favorito de nómadas digitales en Europa gracias a sus cafés y cultura. Miles de profesionales optan por trabajar a distancia desde distintos países.",
+      "hook_tag": "VA Loan Policy",
+      "hook": "Congress wants to make higher VA loan fees permanent, and brokers are pushing back.",
+      "what_happened_heading": "The fight over permanent fee hikes",
+      "what_happened": "Legislation passed by the House would lift IRRRL (Interest Rate Reduction Refinance Loan) fees to 1.42% and make higher charges permanent. The National Association of Mortgage Brokers is actively opposing this move in the Senate.",
       "breakdown": [
         {
-          "heading": "Crecimiento del trabajo remoto global",
-          "body": "Budapest atrae a profesionales independientes que aprovechan sueldos altos de EE. UU. mientras viven en destinos internacionales de menor costo de vida."
+          "heading": "Targeting the streamline refinance market",
+          "body": "The proposed fee hike specifically impacts veterans trying to utilize streamline refinancing options to lower their monthly housing debt during high-rate environments."
         },
         {
-          "heading": "Evaluación de ingresos remotos del exterior",
-          "body": "Esto cambia al llegar al asesor: trabajar desde el extranjero genera dudas complejas sobre la residencia fiscal y los permisos del empleador."
+          "heading": "Shifting costs to those who served",
+          "body": "Industry advocates argue that balancing federal budgets on the backs of military borrowers through inflated funding fees defeats the core purpose of the VA benefit."
         },
         {
-          "heading": "Comprobación de impuestos y divisas",
-          "body": "El asesor debe verificar si el empleador autoriza la residencia en el extranjero y comprobar que los ingresos sigan siendo estables y aplicables."
+          "heading": "Impact on total loan amounts",
+          "body": "Here is what this actually changes when a file hits underwriting: higher upfront fees get rolled directly into the loan amount, raising the baseline LTV (loan-to-value ratio) calculations."
         },
         {
-          "heading": "Compra de propiedades en EE. UU.",
-          "body": "Los trabajadores remotos suelen comprar casas en EE. UU. desde el extranjero, planteando retos al prestamista al clasificar la ocupación de la propiedad."
+          "heading": "The legislative battle in the Senate",
+          "body": "NAMB's direct opposition forces lawmakers to justify whether these revenue-generating fees unfairly penalize military homeowners compared to conventional borrowers."
         }
       ],
-      "my_take_heading": "Evaluar ingresos remotos exige total precisión",
-      "my_take": "Los nómadas digitales tienen buen flujo de dinero, pero no confirmar su situación fiscal de trabajo remoto puede arruinar la aprobación de la hipoteca.",
-      "action_lo": "Verifica las cartas de trabajo remoto antes de procesar la solicitud.",
-      "action_realtor": "Pregunta a tus clientes remotos dónde pagan impuestos para evitar demoras.",
-      "cta_question": "¿Cómo estás calificando a los clientes que trabajan desde el extranjero?"
+      "my_take_heading": "Taxing the military to balance ledgers",
+      "my_take": "Calling a government fee an investment while it raises the barrier to homeownership for veterans is pure Washington doublespeak.",
+      "action_lo": "Reach out to your past VA borrowers and explain how pending Senate legislation could impact future streamline refinancing options.",
+      "action_realtor": "Educate your military buyer clients on total loan costs so upfront funding fee changes do not shock them at closing.",
+      "cta_question": "Do you expect the Senate to roll back these VA fee increases, or will military borrowers end up footing the bill?"
+    },
+    {
+      "slug": "figure-ai-dscr-loans",
+      "title": "Figure CEO says AI could cut DSCR loan process to days",
+      "source": "National Mortgage Professional",
+      "source_url": "https://nationalmortgageprofessional.com/news/figure-ceo-says-ai-could-cut-dscr-loan-process-days/",
+      "cover_text": "Cutting investor loan timelines down to days",
+      "caption": "Figure Technology Solutions is aiming to shrink DSCR loan processing times from several weeks down to just days by leveraging artificial intelligence. Following its acquisition of Kiavi, the company is automating document reviews, property valuations, and portfolio analysis for real estate investors. Speed is everything in investor lending, but automation has historically stumbled on messy rental income schedules. Read on to find out if AI can actually solve the underwriting bottleneck for investment properties.\n\nSource : https://tinyurl.com/2342zfb6\n#SafetrustMortgage #MortgageIntelligenceDaily #realestateinvesting #mortgagetech #investors",
+      "hashtags": [
+        "#SafetrustMortgage",
+        "#MortgageIntelligenceDaily",
+        "#realestateinvesting",
+        "#mortgagetech",
+        "#investors"
+      ],
+      "hook_tag": "Investor Lending",
+      "hook": "Can artificial intelligence really cut investment property loan approvals down to a few days?",
+      "what_happened_heading": "A new speed standard for investor loans",
+      "what_happened": "Figure Technology Solutions is aiming to cut the time it takes to process DSCR (Debt Service Coverage Ratio) loans from several weeks to days. They are using artificial intelligence to automate underwriting as they expand into investor lending following their acquisition of Kiavi.",
+      "breakdown": [
+        {
+          "heading": "Targeting the slowest part of investor files",
+          "body": "DSCR loans traditionally require tedious manual reviews of rental income, lease agreements, and market rents, dragging out closing timelines for active portfolio builders."
+        },
+        {
+          "heading": "Automating property valuations at scale",
+          "body": "By integrating automated valuation models and portfolio analytics, the platform aims to price and approve investor risk without human bottlenecks."
+        },
+        {
+          "heading": "The hidden danger in automated cash flow",
+          "body": "Here is what this actually changes when a file hits underwriting: algorithms must correctly interpret complex lease terms and vacancy deductions without missing red flags."
+        },
+        {
+          "heading": "Scaling up after strategic acquisitions",
+          "body": "Following the Kiavi purchase, this technology rollout signals a major push to dominate non-owner-occupied lending through pure software efficiency."
+        }
+      ],
+      "my_take_heading": "Speed without sanity checks is a trap",
+      "my_take": "Fast approvals are great until an algorithm misreads a lease agreement and funds a cash-flowing property that is actually vacant.",
+      "action_lo": "Test fast-processing investor platforms on your next straightforward deal before trusting them with complex multi-unit portfolios.",
+      "action_realtor": "Tell your investor clients that tech-driven lenders can win bidding wars by closing deals faster than traditional portfolio shops.",
+      "cta_question": "Would you trust an AI-driven platform to underwrite a complex multi-property investor portfolio in just a few days?"
     }
   ]
 }
