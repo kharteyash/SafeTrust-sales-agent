@@ -1,342 +1,172 @@
 {
   "carousels": [
     {
-      "slug": "credit-score-model-adoption",
-      "title": "Lenders pull new credit model but do not price with it",
-      "source": "HousingWire",
-      "source_url": "https://www.housingwire.com/articles/lenders-pull-but-dont-price-with-new-credit-score-model/",
-      "cover_text": "Pulling a new credit score without pricing risk",
-      "caption": "More than 170 lenders are pulling the new VantageScore 4.0 model, yet very few are using it for actual loan pricing. This half-in approach creates a massive operational disconnect for lenders and investors alike. As someone who spent a decade clearing conditions in underwriting, I can tell you that looking at a data point you refuse to price is just expensive window dressing. Until secondary markets fully adopt these scores for execution, lenders are essentially paying twice for data they cannot monetize. Read on to see why the industry is stuck in neutral on credit model updates.\n\nSource : https://tinyurl.com/2bhsqp4c\n#SafetrustMortgage #MortgageIntelligenceDaily #mortgagelending #creditscore #housingmarket",
-      "hashtags": [
-        "#SafetrustMortgage",
-        "#MortgageIntelligenceDaily",
-        "#mortgagelending",
-        "#creditscore",
-        "#housingmarket"
-      ],
-      "hook_tag": "Credit Model Trap",
-      "hook": "Over 170 lenders are pulling the new credit model, but nobody is pricing with it.",
-      "what_happened_heading": "The new credit score paradox",
-      "what_happened": "More than 170 lenders are now pulling VS4, but relatively few are using it as their pricing score. This creates a strange gap between data collection and actual loan execution.",
-      "breakdown": [
-        {
-          "heading": "Collecting data without an execution strategy",
-          "body": "Lenders are integrating new technology pipelines to pull alternative credit data, but their secondary market desks have no framework to trade loans priced on these metrics."
-        },
-        {
-          "heading": "The investor hesitation holding back adoption",
-          "body": "Wall Street investors and the GSEs (Fannie Mae and Freddie Mac) still rely heavily on legacy scoring models for mortgage-backed securities, stalling real-world utility."
-        },
-        {
-          "heading": "Underwriting friction on dual models",
-          "body": "Here is what this actually changes when a file hits underwriting: processors now have to look at conflicting scores without clear guidelines on which number rules approval."
-        },
-        {
-          "heading": "Technology costs versus tangible revenue",
-          "body": "Software vendors sell the upgrade as future-proofing, but executive balance sheets take an immediate hit for credit reports that do not change the final rate stack."
-        }
-      ],
-      "my_take_heading": "An expensive habit of data hoarding",
-      "my_take": "Collecting data you refuse to price is not innovation. It is just an expensive way to look busy.",
-      "action_lo": "Ask your credit reporting vendor which of your secondary investors actually accept loans priced on VS4 before changing your pitch.",
-      "action_realtor": "Do not stress over new credit model headlines with clients; traditional scores still dictate what closes today.",
-      "cta_question": "Are your secondary investors showing any real appetite for new credit scoring models yet, or is everyone waiting out the GSEs on the sidelines?"
-    },
-    {
-      "slug": "ai-underwriting-dispute-protocol",
-      "title": "Adjudication method aims to preserve evidence for AI overrides",
-      "source": "HousingWire",
-      "source_url": "https://www.housingwire.com/articles/ai-reviewer-dispute-protocol/",
-      "cover_text": "When human underwriters override artificial intelligence tools",
-      "caption": "As algorithms take over more initial mortgage decisions, the friction between human reviewers and automated engines is reaching a boiling point. A new adjudication protocol aims to track overrides, preserve evidence, and assign accountability when humans disagree with machine logic. From an underwriter pipeline perspective, this is the most critical workflow shift of the decade. We are moving from gut-check approvals to audited machine collaborations. Read on to discover how tracking human overrides changes file liability forever.\n\nSource : https://tinyurl.com/24flrv5k\n#SafetrustMortgage #MortgageIntelligenceDaily #loanofficer #mortgageunderwriter #realestate",
-      "hashtags": [
-        "#SafetrustMortgage",
-        "#MortgageIntelligenceDaily",
-        "#loanofficer",
-        "#mortgageunderwriter",
-        "#realestate"
-      ],
-      "hook_tag": "AI vs Human",
-      "hook": "What happens when a human underwriter flat-out disagrees with artificial intelligence?",
-      "what_happened_heading": "A new framework for algorithmic disputes",
-      "what_happened": "A practical adjudication method has been introduced to preserve evidence, assign authority, and track the exact time spent on human overrides of AI decisions. This protocol establishes clear chains of custody for automated loan determinations.",
-      "breakdown": [
-        {
-          "heading": "The growing friction in modern operations",
-          "body": "Automated underwriting systems spit out clear-cut approvals or denials, but complex borrower profiles often force experienced human staff to override the machine logic."
-        },
-        {
-          "heading": "Tracking the cost of human intervention",
-          "body": "Operations managers need to track how many hours underwriters spend untangling automated findings, directly impacting turn times and cost-per-loan metrics."
-        },
-        {
-          "heading": "Preserving liability when exceptions occur",
-          "body": "Here is what this actually changes when a file hits underwriting: every time a human rejects an AI finding, they must log airtight documentation to protect against future buybacks."
-        },
-        {
-          "heading": "Eliminating the wild west of overrides",
-          "body": "Without a formal protocol, loan officers often pressure underwriters to bypass machine warnings informally, creating massive compliance blind spots for executive teams."
-        }
-      ],
-      "my_take_heading": "The audit trail is the new loan file",
-      "my_take": "If you override the algorithm without a paper trail, you are just volunteering to take the blame when the loan defaults.",
-      "action_lo": "Learn your shop's exact override policy so you can set proper timeline expectations with realtors when automation flags a file.",
-      "action_realtor": "Understand that AI delays are increasingly about liability tracking, not laziness from the operations desk.",
-      "cta_question": "Are your operations teams logging AI overrides yet, or are underwriters still relying on sticky notes and informal chats?"
-    },
-    {
-      "slug": "va-loan-fee-increases-namb",
-      "title": "NAMB opposes VA loan fee increases in Senate bill",
-      "source": "HousingWire",
-      "source_url": "https://www.housingwire.com/articles/namb-va-loan-fees-s4744/",
-      "cover_text": "Pushback on permanent VA loan fee hikes",
-      "caption": "Legislation passed by the House would lift VA IRRRL funding fees to 1.42% and make higher charges permanent, drawing sharp opposition from industry groups like NAMB. While lawmakers view these fees as a funding mechanism, originators know it directly impacts military families looking to lower their monthly payments. When the government tacks extra basis points onto government-backed loans, it eats right into the borrower's purchasing power. Read on to see why this legislative fight matters to your pipeline.\n\nSource : https://tinyurl.com/2dkfat5v\n#SafetrustMortgage #MortgageIntelligenceDaily #mortgagebroker #veterans #housingmarket",
+      "slug": "non-qm-broker-volume-surge",
+      "title": "Newrez Nears $1B in Non-QM Securitizations as Brokers Drive Volume",
+      "source": "National Mortgage Professional",
+      "source_url": "https://nationalmortgageprofessional.com/news/newrez-nears-1b-non-qm-securitizations-brokers-drive-volume",
+      "cover_text": "Non-QM is saving the wholesale market",
+      "caption": "Non-QM is no longer a fringe product in mortgage origination. Rithm Capital just brought nearly $1 billion in non-prime securitizations to market in under a week. The most revealing stat? Brokers originated 70% of the loans, and 80% relied on alternative income documentation like bank statements. When standard agency paper slows down, self-employed borrowers become the main driver of new volume. As a former underwriter, I look at these files through cash reserves and liquid assets rather than traditional tax returns. Wall Street wants this yield, and wholesale originators are capturing the demand while traditional bank desks sit idle. If you are still trying to fit every self-employed homebuyer into a standard Fannie Mae box, you are leaving deals on the table.\n\nSource : https://tinyurl.com/2a6vvo8d\n#SafetrustMortgage #MortgageIntelligenceDaily #mortgagebroker #loanofficer #realestateinvesting",
       "hashtags": [
         "#SafetrustMortgage",
         "#MortgageIntelligenceDaily",
         "#mortgagebroker",
-        "#veterans",
-        "#housingmarket"
-      ],
-      "hook_tag": "VA Loan Policy",
-      "hook": "Congress wants to make higher VA loan fees permanent, and brokers are pushing back.",
-      "what_happened_heading": "The fight over permanent fee hikes",
-      "what_happened": "Legislation passed by the House would lift IRRRL (Interest Rate Reduction Refinance Loan) fees to 1.42% and make higher charges permanent. The National Association of Mortgage Brokers is actively opposing this move in the Senate.",
-      "breakdown": [
-        {
-          "heading": "Targeting the streamline refinance market",
-          "body": "The proposed fee hike specifically impacts veterans trying to utilize streamline refinancing options to lower their monthly housing debt during high-rate environments."
-        },
-        {
-          "heading": "Shifting costs to those who served",
-          "body": "Industry advocates argue that balancing federal budgets on the backs of military borrowers through inflated funding fees defeats the core purpose of the VA benefit."
-        },
-        {
-          "heading": "Impact on total loan amounts",
-          "body": "Here is what this actually changes when a file hits underwriting: higher upfront fees get rolled directly into the loan amount, raising the baseline LTV (loan-to-value ratio) calculations."
-        },
-        {
-          "heading": "The legislative battle in the Senate",
-          "body": "NAMB's direct opposition forces lawmakers to justify whether these revenue-generating fees unfairly penalize military homeowners compared to conventional borrowers."
-        }
-      ],
-      "my_take_heading": "Taxing the military to balance ledgers",
-      "my_take": "Calling a government fee an investment while it raises the barrier to homeownership for veterans is pure Washington doublespeak.",
-      "action_lo": "Reach out to your past VA borrowers and explain how pending Senate legislation could impact future streamline refinancing options.",
-      "action_realtor": "Educate your military buyer clients on total loan costs so upfront funding fee changes do not shock them at closing.",
-      "cta_question": "Do you expect the Senate to roll back these VA fee increases, or will military borrowers end up footing the bill?"
-    },
-    {
-      "slug": "figure-ai-dscr-loans",
-      "title": "Figure CEO says AI could cut DSCR loan process to days",
-      "source": "National Mortgage Professional",
-      "source_url": "https://nationalmortgageprofessional.com/news/figure-ceo-says-ai-could-cut-dscr-loan-process-days/",
-      "cover_text": "Cutting investor loan timelines down to days",
-      "caption": "Figure Technology Solutions is aiming to shrink DSCR loan processing times from several weeks down to just days by leveraging artificial intelligence. Following its acquisition of Kiavi, the company is automating document reviews, property valuations, and portfolio analysis for real estate investors. Speed is everything in investor lending, but automation has historically stumbled on messy rental income schedules. Read on to find out if AI can actually solve the underwriting bottleneck for investment properties.\n\nSource : https://tinyurl.com/2342zfb6\n#SafetrustMortgage #MortgageIntelligenceDaily #realestateinvesting #mortgagetech #investors",
-      "hashtags": [
-        "#SafetrustMortgage",
-        "#MortgageIntelligenceDaily",
-        "#realestateinvesting",
-        "#mortgagetech",
-        "#investors"
-      ],
-      "hook_tag": "Investor Lending",
-      "hook": "Can artificial intelligence really cut investment property loan approvals down to a few days?",
-      "what_happened_heading": "A new speed standard for investor loans",
-      "what_happened": "Figure Technology Solutions is aiming to cut the time it takes to process DSCR (Debt Service Coverage Ratio) loans from several weeks to days. They are using artificial intelligence to automate underwriting as they expand into investor lending following their acquisition of Kiavi.",
-      "breakdown": [
-        {
-          "heading": "Targeting the slowest part of investor files",
-          "body": "DSCR loans traditionally require tedious manual reviews of rental income, lease agreements, and market rents, dragging out closing timelines for active portfolio builders."
-        },
-        {
-          "heading": "Automating property valuations at scale",
-          "body": "By integrating automated valuation models and portfolio analytics, the platform aims to price and approve investor risk without human bottlenecks."
-        },
-        {
-          "heading": "The hidden danger in automated cash flow",
-          "body": "Here is what this actually changes when a file hits underwriting: algorithms must correctly interpret complex lease terms and vacancy deductions without missing red flags."
-        },
-        {
-          "heading": "Scaling up after strategic acquisitions",
-          "body": "Following the Kiavi purchase, this technology rollout signals a major push to dominate non-owner-occupied lending through pure software efficiency."
-        }
-      ],
-      "my_take_heading": "Speed without sanity checks is a trap",
-      "my_take": "Fast approvals are great until an algorithm misreads a lease agreement and funds a cash-flowing property that is actually vacant.",
-      "action_lo": "Test fast-processing investor platforms on your next straightforward deal before trusting them with complex multi-unit portfolios.",
-      "action_realtor": "Tell your investor clients that tech-driven lenders can win bidding wars by closing deals faster than traditional portfolio shops.",
-      "cta_question": "Would you trust an AI-driven platform to underwrite a complex multi-property investor portfolio in just a few days?"
-    }
-  ],
-  "carousels_es": [
-    {
-      "slug": "credit-score-model-adoption",
-      "title": "Los prestamistas adoptan un nuevo modelo de crédito pero no lo usan para fijar precios",
-      "source": "HousingWire",
-      "source_url": "https://www.housingwire.com/articles/lenders-pull-but-dont-price-with-new-credit-score-model/",
-      "cover_text": "Pidiendo un nuevo puntaje sin usarlo",
-      "caption": "Más de 170 prestamistas están solicitando el nuevo VantageScore 4.0, pero muy pocos lo usan para fijar el precio de los préstamos. Este enfoque a medias crea una desconexión operativa enorme para prestamistas e inversionistas. Como alguien que pasó una década revisando condiciones de suscripción, te digo que mirar un dato que no vas a usar para fijar precio es solo un adorno caro. Hasta que los mercados secundarios adopten estos puntajes para la ejecución, los prestamistas están pagando dos veces por datos que no pueden monetizar. Sigue leyendo para saber por qué la industria está estancada en neutralidad con las actualizaciones de modelos de crédito.\n\nFuente : https://tinyurl.com/2bhsqp4c\n#SafetrustMortgage #MortgageIntelligenceDaily #mortgagelending #creditscore #housingmarket",
-      "hashtags": [
-        "#SafetrustMortgage",
-        "#MortgageIntelligenceDaily",
-        "#mortgagelending",
-        "#creditscore",
-        "#housingmarket"
-      ],
-      "hook_tag": "Trampa del modelo de crédito",
-      "hook": "Más de 170 prestamistas piden el nuevo modelo de crédito, pero nadie lo usa para fijar precios.",
-      "what_happened_heading": "El nuevo dilema del puntaje de crédito",
-      "what_happened": "Más de 170 prestamistas ahora piden VS4, pero pocos lo usan como su puntaje de fijación de precios. Esto crea una brecha entre la recolección de datos y la ejecución real del préstamo.",
-      "breakdown": [
-        {
-          "heading": "Recolección de datos sin estrategia de ejecución",
-          "body": "Los prestamistas integran nuevas tuberías tecnológicas para obtener datos de crédito alternativos, pero sus mesas de mercado secundario no tienen marco para operar con préstamos valorados con estos métricos."
-        },
-        {
-          "heading": "La reticencia de los inversionistas frena la adopción",
-          "body": "Los inversionistas de Wall Street y los GSEs (Fannie Mae y Freddie Mac) siguen confiando en modelos de puntuación antiguos para valores respaldados por hipotecas, lo que detiene la utilidad real."
-        },
-        {
-          "heading": "Fricción de suscripción con modelos duales",
-          "body": "Esto cambia lo que sucede cuando un expediente llega a suscripción: los procesadores deben revisar puntajes conflictivos sin guía clara sobre cuál regla aprueba."
-        },
-        {
-          "heading": "Costos de tecnología frente a ingresos tangibles",
-          "body": "Los proveedores de software venden la actualización como futuro seguro, pero los balances ejecutivos sufren una caída inmediata por reportes de crédito que no cambian la tasa final."
-        }
-      ],
-      "my_take_heading": "Un hábito caro de acumular datos",
-      "my_take": "Reunir datos que no vas a usar para fijar precio no es innovación, es solo una forma cara de aparentar estar ocupado.",
-      "action_lo": "Pregunta a tu proveedor de reportes de crédito cuál de tus inversionistas secundarios acepta préstamos valorados con VS4 antes de cambiar tu discurso.",
-      "action_realtor": "No te estreses por las noticias del nuevo modelo de crédito con tus clientes; los puntajes tradicionales siguen dictando lo que cierra hoy.",
-      "cta_question": "¿Tus inversionistas secundarios muestran algún apetito real por nuevos modelos de puntuación de crédito, o todos están esperando a los GSEs a la margen?"
-    },
-    {
-      "slug": "ai-underwriting-dispute-protocol",
-      "title": "El método de adjudicación busca preservar evidencia para anular IA",
-      "source": "HousingWire",
-      "source_url": "https://www.housingwire.com/articles/ai-reviewer-dispute-protocol/",
-      "cover_text": "Cuando los suscriptores humanos anulan herramientas de IA",
-      "caption": "A medida que los algoritmos toman más decisiones iniciales de hipotecas, la fricción entre revisores humanos y motores automatizados llega a punto de ebullición. Un nuevo protocolo de adjudicación busca rastrear anulaciones, preservar evidencia y asignar responsabilidad cuando los humanos no están de acuerdo con la lógica de la máquina. Desde la perspectiva de la línea de suscripción, este es el cambio de flujo de trabajo más crítico de la década. Estamos pasando de aprobaciones por corazonadas a colaboraciones auditadas con máquinas. Sigue leyendo para descubrir cómo el rastreo de anulaciones humanas cambia la responsabilidad de los expedientes para siempre.\n\nFuente : https://tinyurl.com/24flrv5k\n#SafetrustMortgage #MortgageIntelligenceDaily #loanofficer #mortgageunderwriter #realestate",
-      "hashtags": [
-        "#SafetrustMortgage",
-        "#MortgageIntelligenceDaily",
         "#loanofficer",
-        "#mortgageunderwriter",
-        "#realestate"
+        "#realestateinvesting"
       ],
-      "hook_tag": "IA vs Humano",
-      "hook": "¿Qué pasa cuando un suscriptor humano se niega rotundamente a una IA?",
-      "what_happened_heading": "Un nuevo marco para disputas algorítmicas",
-      "what_happened": "Se ha introducido un método práctico de adjudicación para preservar evidencia, asignar autoridad y rastrear el tiempo exacto dedicado a anulaciones humanas de decisiones de IA. Este protocolo establece cadenas de custodia claras para determinaciones automáticas de préstamos.",
+      "hook_tag": "Non-QM market shift",
+      "hook": "Non-conforming mortgage loans are no longer just for niche borrowers.",
+      "what_happened_heading": "Wholesale brokers fuel massive non-QM securitization surge",
+      "what_happened": "Rithm Capital issued nearly $1 billion in non-prime securitizations in less than one week. Independent brokers originated 70% of the pool, with 80% using alternative income documentation.",
       "breakdown": [
         {
-          "heading": "La creciente fricción en operaciones modernas",
-          "body": "Los sistemas de suscripción automatizados dan aprobaciones o denegaciones claras, pero los perfiles complejos de prestatarios obligan a personal experimentado a anular la lógica de la máquina."
+          "heading": "Agency volume is stalling out",
+          "body": "High mortgage rates have slowed standard agency refinances and purchases. Independent brokers are turning to non-QM (non-qualifying mortgage) options to maintain steady origination pipeline volume."
         },
         {
-          "heading": "Rastrear el costo de la intervención humana",
-          "body": "Los gerentes de operaciones deben medir cuántas horas dedican los suscriptores a desenredar hallazgos automáticos, impactando directamente tiempos de cierre y costo por préstamo."
+          "heading": "Bank statements replace tax returns",
+          "body": "Alternative documentation accounted for 80% of this loan pool. Self-employed borrowers with high cash flow but heavy tax write-offs are driving current mortgage production."
         },
         {
-          "heading": "Preservar la responsabilidad ante excepciones",
-          "body": "Esto cambia lo que sucede cuando un expediente llega a suscripción: cada vez que un humano rechaza un hallazgo de IA, debe registrar documentación sólida para protegerse de futuros recompras."
+          "heading": "Underwriting evaluates risk differently",
+          "body": "In underwriting, non-QM files require analyzing bank statement deposits and liquid reserves rather than standard W-2 forms. The credit focus shifts heavily from income history to asset verification."
         },
         {
-          "heading": "Eliminar el salvaje oeste de anulaciones",
-          "body": "Sin un protocolo formal, los oficiales de préstamos presionan a los suscriptores a pasar por alto advertencias de la máquina informalmente, creando grandes brechas de cumplimiento para equipos ejecutivos."
+          "heading": "Institutional buyers want yield",
+          "body": "Wall Street investors are eagerly purchasing non-prime securitizations for higher yields. Liquidity is flowing into alternative channels while standard retail operations struggle."
         }
       ],
-      "my_take_heading": "La pista de auditoría es el nuevo expediente de préstamo",
-      "my_take": "Si anulas el algoritmo sin una pista escrita, solo te estás ofreciendo a asumir la culpa cuando el préstamo incumple.",
-      "action_lo": "Conoce la política exacta de anulaciones de tu oficina para establecer expectativas de tiempo con los agentes cuando la automatización marque un expediente.",
-      "action_realtor": "Entiende que los retrasos de IA son cada vez más sobre rastreo de responsabilidad, no sobre pereza del equipo operativo.",
-      "cta_question": "¿Tus equipos de operaciones registran anulaciones de IA, o los suscriptores siguen usando notas adhesivas y charlas informales?"
+      "my_take_heading": "Alt-doc paper is now primary mortgage production",
+      "my_take": "Non-QM is no longer a subprime backup plan. It is the primary growth engine for independent brokers while big banks remain trapped by rigid traditional guidelines.",
+      "action_lo": "Master bank-statement income calculations so you can approve self-employed borrowers your competitors turn down.",
+      "action_realtor": "Target local business owners and 1099 contractors who assumed tax write-offs disqualified them from buying.",
+      "cta_question": "Is your team actively marketing non-QM products, or are you still relying on agency paper?"
     },
     {
-      "slug": "va-loan-fee-increases-namb",
-      "title": "NAMB se opone a los aumentos de tarifa de préstamos VA en el proyecto de ley del Senado",
-      "source": "HousingWire",
-      "source_url": "https://www.housingwire.com/articles/namb-va-loan-fees-s4744/",
-      "cover_text": "Resistencia a los aumentos permanentes de tarifas de préstamos VA",
-      "caption": "La legislación aprobada por la Cámara elevaría las tarifas de financiamiento de IRRRL (Interest Rate Reduction Refinance Loan) a 1.42% y las haría permanentes, provocando fuerte oposición de grupos industriales como NAMB. Mientras los legisladores ven estas tarifas como un mecanismo de financiación, los originadores saben que afecta directamente a familias militares que buscan reducir sus pagos mensuales. Cuando el gobierno añade puntos adicionales a préstamos respaldados por el gobierno, se reduce el poder adquisitivo del prestatario. Sigue leyendo para ver por qué esta pelea legislativa importa a tu pipeline.\n\nFuente : https://tinyurl.com/2dkfat5v\n#SafetrustMortgage #MortgageIntelligenceDaily #mortgagebroker #veterans #housingmarket",
-      "hashtags": [
-        "#SafetrustMortgage",
-        "#MortgageIntelligenceDaily",
-        "#mortgagebroker",
-        "#veterans",
-        "#housingmarket"
-      ],
-      "hook_tag": "Política de Préstamos VA",
-      "hook": "El Congreso quiere hacer permanentes los altos cargos de préstamos VA, y los corredores están resistiendo.",
-      "what_happened_heading": "La batalla por los aumentos permanentes de tarifas",
-      "what_happened": "La legislación aprobada por la Cámara elevaría las tarifas de IRRRL a 1.42% y las haría permanentes. La Asociación Nacional de Corredores de Hipotecas está activamente oponiéndose a este movimiento en el Senado.",
-      "breakdown": [
-        {
-          "heading": "Apuntando al mercado de refinanciamiento simplificado",
-          "body": "El aumento propuesto impacta específicamente a veteranos que buscan usar opciones de refinanciamiento simplificado para bajar su deuda mensual en entornos de alta tasa."
-        },
-        {
-          "heading": "Transferir costos a quienes sirvieron",
-          "body": "Los defensores de la industria argumentan que equilibrar presupuestos federales sobre los prestatarios militares con tarifas infladas socava el propósito central del beneficio VA."
-        },
-        {
-          "heading": "Impacto en montos totales de préstamo",
-          "body": "Esto cambia lo que sucede cuando un expediente llega a suscripción: tarifas iniciales más altas se incorporan directamente al monto del préstamo, elevando los cálculos de LTV (loan-to-value)."
-        },
-        {
-          "heading": "La batalla legislativa en el Senado",
-          "body": "La oposición directa de NAMB obliga a los legisladores a justificar si estas tarifas generadoras de ingresos penalizan injustamente a propietarios militares frente a prestatarios convencionales."
-        }
-      ],
-      "my_take_heading": "Impuestos a los militares para equilibrar libros",
-      "my_take": "Nombrar una tarifa gubernamental como inversión mientras aumenta la barrera de entrada para veteranos es puro doble discurso de Washington.",
-      "action_lo": "Contacta a tus antiguos prestatarios VA y explícales cómo la legislación pendiente del Senado podría afectar opciones de refinanciamiento simplificado futuras.",
-      "action_realtor": "Educa a tus clientes compradores militares sobre costos totales de préstamo para que los cambios en la tarifa de financiamiento no los sorprendan al cerrar.",
-      "cta_question": "¿Crees que el Senado revertirá estos aumentos de tarifas VA, o los prestatarios militares terminarán pagando la factura?"
-    },
-    {
-      "slug": "figure-ai-dscr-loans",
-      "title": "El CEO de Figure dice que la IA podría reducir el proceso de préstamos DSCR a días",
+      "slug": "builder-rate-incentive-advantage",
+      "title": "Builder Rate Incentives Give New-Home Buyers a 114-Basis-Point Edge",
       "source": "National Mortgage Professional",
-      "source_url": "https://nationalmortgageprofessional.com/news/figure-ceo-says-ai-could-cut-dscr-loan-process-days/",
-      "cover_text": "Reduciendo los plazos de préstamos a días",
-      "caption": "Figure Technology Solutions busca reducir los tiempos de procesamiento de préstamos DSCR (Debt Service Coverage Ratio) de varias semanas a solo días mediante inteligencia artificial. Tras adquirir Kiavi, la compañía automatiza revisiones de documentos, valoraciones de propiedades y análisis de carteras para inversores inmobiliarios. La velocidad es todo en préstamos a inversionistas, pero la automatización ha tropezado históricamente con horarios de ingresos de alquiler desordenados. Sigue leyendo para descubrir si la IA puede resolver realmente el cuello de botella de suscripción para propiedades de inversión.\n\nFuente : https://tinyurl.com/2342zfb6\n#SafetrustMortgage #MortgageIntelligenceDaily #realestateinvesting #mortgagetech #investors",
+      "source_url": "https://nationalmortgageprofessional.com/news/builder-rate-incentives-give-new-home-buyers-114-basis-point-edge",
+      "cover_text": "How builders are stealing resale buyers",
+      "caption": "Homebuilders are outsmarting traditional real estate sellers, and the numbers prove it. In Q3, new-home buyers got an average starting rate of 5.01%, while existing-home buyers paid 6.15%. That 114-basis-point gap is massive. Builders achieve this by buying forward rate commitments, effectively using profit margins to drop the borrower's rate instead of reducing the headline sales price. In underwriting, that lower rate slashes the borrower's DTI (debt-to-income ratio) and boosts purchasing power. Resale sellers who simply cut listing prices by $10,000 are losing to builders who market lower monthly payments. If you want to sell existing homes in this market, you must structure financing solutions rather than relying on price cuts.\n\nSource : https://tinyurl.com/2das7uap\n#SafetrustMortgage #MortgageIntelligenceDaily #housingmarket #realestateagent #homebuying",
       "hashtags": [
         "#SafetrustMortgage",
         "#MortgageIntelligenceDaily",
-        "#realestateinvesting",
-        "#mortgagetech",
-        "#investors"
+        "#housingmarket",
+        "#realestateagent",
+        "#homebuying"
       ],
-      "hook_tag": "Préstamos a Inversionistas",
-      "hook": "¿Puede la inteligencia artificial realmente reducir la aprobación de préstamos de propiedades de inversión a pocos días?",
-      "what_happened_heading": "Un nuevo estándar de velocidad para préstamos a inversionistas",
-      "what_happened": "Figure Technology Solutions busca reducir el tiempo de procesamiento de préstamos DSCR de varias semanas a días. Utilizan IA para automatizar la suscripción mientras se expanden en préstamos a inversionistas tras adquirir Kiavi.",
+      "hook_tag": "Builder rate advantage",
+      "hook": "Homebuilders are beating resale sellers with artificial rate cuts.",
+      "what_happened_heading": "Builder rate incentives create massive buyer financing gap",
+      "what_happened": "New-home buyers secured an average starting rate of 5.01% in the third quarter compared to 6.15% for existing-home buyers. This 114-basis-point difference gives builders a huge competitive edge.",
       "breakdown": [
         {
-          "heading": "Apuntando a la parte más lenta de los expedientes de inversionistas",
-          "body": "Los préstamos DSCR tradicionalmente requieren revisiones manuales tediosas de ingresos de alquiler, contratos de arrendamiento y rentas de mercado, retrasando los cierres de constructores de portafolios activos."
+          "heading": "Builders operate like mortgage desks",
+          "body": "Large homebuilders purchase forward commitments (bulk rate buydowns) directly from investors. They use profit margins to subsidize buyer rates instead of slashing headline sales prices."
         },
         {
-          "heading": "Automatizando valoraciones de propiedades a escala",
-          "body": "Al integrar modelos de valoración automática y análisis de carteras, la plataforma busca calificar y aprobar riesgo de inversionistas sin cuellos de botella humanos."
+          "heading": "Resale sellers cannot compete alone",
+          "body": "Individual homeowners selling their property rarely spend tens of thousands on rate buydowns upfront. This leaves traditional resale listings exposed to prevailing market interest rates."
         },
         {
-          "heading": "El peligro oculto en flujos de efectivo automatizados",
-          "body": "Esto cambia lo que sucede cuando un expediente llega a suscripción: los algoritmos deben interpretar correctamente términos de arrendamiento complejos y deducciones de vacancia sin perder señales de alerta."
+          "heading": "Underwriting ratios clear much faster",
+          "body": "A lower note rate reduces the borrower's DTI (how much income goes to debt). Underwriters can easily clear buyers for higher purchase prices on new builds."
         },
         {
-          "heading": "Escalando tras adquisiciones estratégicas",
-          "body": "Tras la compra de Kiavi, el despliegue de tecnología indica un gran impulso para dominar el préstamo a no propietario mediante eficiencia pura de software."
+          "heading": "Protecting neighborhood property values",
+          "body": "Buyers feel they are getting a discount on interest rates while paying full sticker price. Builders protect neighborhood appraisal comps while continuing to move inventory."
         }
       ],
-      "my_take_heading": "Velocidad sin verificaciones es una trampa",
-      "my_take": "Las aprobaciones rápidas son geniales hasta que un algoritmo malinterpreta un contrato de arrendamiento y financia una propiedad vacía.",
-      "action_lo": "Prueba plataformas de procesamiento rápido para inversionistas en tu próximo trato sencillo antes de confiarles carteras complejas multi-unidad.",
-      "action_realtor": "Dile a tus clientes inversionistas que los prestamistas impulsados por tecnología pueden ganar guerras de pujas cerrando tratos más rápido que los bancos tradicionales.",
-      "cta_question": "¿Confiarías en una plataforma impulsada por IA para suscribir una cartera de inversionistas multi-propiedad compleja en solo unos días?"
+      "my_take_heading": "Financing strategy beats simple price drops",
+      "my_take": "Builders aren't winning on home design or floor plans. They are winning because they market low monthly payments while traditional agents still market purchase prices.",
+      "action_lo": "Create seller concession packages on resale listings that mimic builder rate buydowns for listing agents.",
+      "action_realtor": "Stop taking price reductions on stale listings without first offering a temporary seller-funded rate buydown.",
+      "cta_question": "How often are your listing clients offering seller-paid rate buydowns to compete with local builders?"
+    },
+    {
+      "slug": "mid-sized-imb-consolidation-fairway",
+      "title": "Fairway Gains $1.1 Billion in Production as MSF Gives Up Independent Lending",
+      "source": "National Mortgage Professional",
+      "source_url": "https://nationalmortgageprofessional.com/news/fairway-gains-11-billion-production-msf-gives-independent-lending",
+      "cover_text": "Why mid-sized lenders are disappearing fast",
+      "caption": "Mid-sized independent mortgage lenders are hitting a wall. Fairway just added $1.1 billion in annual production after Mortgage Solutions Financial folded its independent origination operations and moved its 104-person sales team over. Running back-office operations, compliance, and fulfillment for a mid-sized platform is too expensive when overall volume is low. From an underwriter's view, operational scale allows mega-lenders to automate systems, maintain liquidity, and absorb pipeline risk much better than mid-tier shops. The industry is dividing into two distinct models: massive platform lenders with endless scale, and lean wholesale brokers with minimal overhead. If your shop is stuck in the middle, remaining profitable will only get harder.\n\nSource : https://tinyurl.com/2xjo65hk\n#SafetrustMortgage #MortgageIntelligenceDaily #mortgagerates #loanofficer #mortgagebroker",
+      "hashtags": [
+        "#SafetrustMortgage",
+        "#MortgageIntelligenceDaily",
+        "#mortgagerates",
+        "#loanofficer",
+        "#mortgagebroker"
+      ],
+      "hook_tag": "Mortgage industry consolidation",
+      "hook": "Operating a mid-sized independent mortgage lender is becoming unsustainable.",
+      "what_happened_heading": "Mortgage Solutions Financial exits independent origination business",
+      "what_happened": "Fairway Independent Mortgage acquired over $1.1 billion in annual production by onboarding the sales team of Mortgage Solutions Financial. MSF shut down its independent lending operations to reduce corporate overhead.",
+      "breakdown": [
+        {
+          "heading": "Margin compression forces hard choices",
+          "body": "High fixed costs and lower loan volumes are squeezing profit margins for mid-sized lenders. Maintaining corporate infrastructure without massive scale is no longer financially viable."
+        },
+        {
+          "heading": "Sales teams need operational scale",
+          "body": "Top-producing loan officers need competitive pricing and fast fulfillment to survive. Joining a mega-lender allows teams to keep selling while outsourcing compliance and back-office operations."
+        },
+        {
+          "heading": "Underwriting scale drives execution speed",
+          "body": "Larger platforms absorb underwriting risks across higher volume. They invest heavily in automation tech that smaller, independent operations cannot afford during market downturns."
+        },
+        {
+          "heading": "The lender landscape is splitting",
+          "body": "The mortgage market is dividing into mega-lender platforms and lean broker shops. The middle-tier lender operating model is slowly being eliminated across the country."
+        }
+      ],
+      "my_take_heading": "Platform scale is the only remaining shelter",
+      "my_take": "Independent mortgage banking is no longer about owning back-office technology. It is about gaining access to the absolute lowest cost of capital and operational scale.",
+      "action_lo": "Evaluate whether your current lender's back-office cost is hurting your turn times and borrower loan pricing.",
+      "action_realtor": "Partner with originators who sit on well-capitalized platforms capable of funding loans without operational friction.",
+      "cta_question": "Will mid-sized lenders survive next year, or will the market split into mega-lenders and brokers?"
+    },
+    {
+      "slug": "fha-lifetime-mortgage-insurance-battle",
+      "title": "FHA's Low-Rate Borrowers Boost Insurance Revenue as Lenders Push for Relief",
+      "source": "National Mortgage Professional",
+      "source_url": "https://nationalmortgageprofessional.com/news/fhas-low-rate-borrowers-boost-insurance-revenue-lenders-push-relief",
+      "cover_text": "The FHA mortgage insurance cash trap",
+      "caption": "FHA’s financial reserves are booming, but it comes at the expense of locked-in homeowners. Millions of borrowers who got sub-3% FHA rates during the pandemic are now stuck paying MIP (mortgage insurance premium) for the life of their loan. Because market rates are elevated, refinancing into a conventional loan to remove insurance doesn't make financial sense. As a former underwriter, I've seen homeowners sitting at 50% LTV (loan-to-value ratio) who still pay monthly insurance fees because of HUD rules. Industry groups are pushing HUD for premium relief, but FHA relies on this steady cash flow. It is time to re-evaluate whether lifetime insurance rules still make sense for low-risk homeowners.\n\nSource : https://tinyurl.com/2d299tr2\n#SafetrustMortgage #MortgageIntelligenceDaily #firsttimehomebuyer #mortgagerates #homebuying",
+      "hashtags": [
+        "#SafetrustMortgage",
+        "#MortgageIntelligenceDaily",
+        "#firsttimehomebuyer",
+        "#mortgagerates",
+        "#homebuying"
+      ],
+      "hook_tag": "FHA policy battle",
+      "hook": "Low-rate FHA borrowers are trapped paying lifetime mortgage insurance fees.",
+      "what_happened_heading": "FHA collects record insurance premiums despite lender pushback",
+      "what_happened": "FHA's strong financial reserves are sparking debate over how long borrowers must pay mortgage insurance. Industry groups are pushing to eliminate lifetime premiums, but FHA relies on low-rate borrowers for steady revenue.",
+      "breakdown": [
+        {
+          "heading": "Locked into low interest rates",
+          "body": "Millions of FHA borrowers secured low mortgage rates during the pandemic. Because market rates are higher today, these homeowners cannot refinance into conventional loans to drop insurance."
+        },
+        {
+          "heading": "Lifetime MIP generates steady cash",
+          "body": "FHA requires MIP (mortgage insurance premium) for the life of the loan on most options. Trapped borrowers continue generating predictable monthly premium revenue for the government."
+        },
+        {
+          "heading": "Underwriting guidelines enforce strict fees",
+          "body": "Underwriting rules mandate lifetime MIP regardless of accumulated home equity. Even at 50% LTV (loan-to-value ratio), FHA borrowers remain stuck paying monthly insurance fees."
+        },
+        {
+          "heading": "Industry groups demand policy changes",
+          "body": "Mortgage trade groups argue that low-risk borrowers deserve MIP relief. Removing lifetime premiums would lower monthly housing costs for millions of existing homeowners."
+        }
+      ],
+      "my_take_heading": "Lifetime FHA insurance penalizes successful homeowners",
+      "my_take": "FHA mortgage insurance was created to protect lenders from borrower default, not act as a permanent tax on homeowners who have built substantial equity.",
+      "action_lo": "Audit your past FHA client database to find homeowners who qualify for conventional refinances despite rate differences.",
+      "action_realtor": "Educate first-time buyers on conventional 3% down options to avoid permanent lifetime mortgage insurance fees.",
+      "cta_question": "Should HUD eliminate lifetime FHA mortgage insurance once a homeowner reaches 20% equity?"
     }
   ]
 }
