@@ -1,54 +1,12 @@
 {
   "carousels": [
     {
-      "slug": "seller-impersonation-fraud-title",
-      "title": "Seller Impersonation Fraud Spikes Across Title Industry",
-      "source": "HousingWire",
-      "source_url": "https://www.housingwire.com/articles/seller-impersonation-fraud-title/",
-      "cover_text": "Seller impersonation fraud is spiking across title",
-      "caption": "Seller impersonation fraud attempts jumped from 28% to 59% in just two years, turning what used to be a rare title issue into a major pipeline bottleneck. When scammers impersonate property owners, the fallout hits everyone involved in the transaction. As underwriters add stringent identity checks and notarization audits, clean files are getting caught in curative delays. Loan officers must proactively verify title protocols early in the process rather than at the closing table. Real estate agents taking vacant land listings need rigorous seller verification from day one to protect their clients and commissions.\n\nSource : https://tinyurl.com/248gm6u5\n#SafetrustMortgage #MortgageIntelligenceDaily #realestateagent #homebuying #mortgagebroker",
-      "hashtags": [
-        "#SafetrustMortgage",
-        "#MortgageIntelligenceDaily",
-        "#realestateagent",
-        "#homebuying",
-        "#mortgagebroker"
-      ],
-      "hook_tag": "Title Fraud Risk",
-      "hook": "Title fraud isn't a paperwork glitch; it is an operational emergency.",
-      "what_happened_heading": "Seller fraud attempts double in two years",
-      "what_happened": "New survey data shows seller impersonation fraud attempts doubled from 28% to 59% over two years. Title companies are increasing layered detection and curative work to stop fraudulent land and property transfers.",
-      "breakdown": [
-        {
-          "heading": "Vacant land is the primary target",
-          "body": "Fraudsters target unencumbered properties, especially vacant land, posing as owners to sell for quick cash before real owners notice."
-        },
-        {
-          "heading": "Underwriters enforce strict identity verification checks",
-          "body": "Here's what this actually changes when a file hits underwriting: underwriters now demand identity verification and notarization audits before issuing clear-to-close on any non-owner occupied transaction."
-        },
-        {
-          "heading": "Curative title work delays closing schedules",
-          "body": "Extra title validation creates transaction friction, pushing out lock expirations and forcing loan officers to manage frustrated borrowers."
-        },
-        {
-          "heading": "Wire instructions face heightened lender scrutiny",
-          "body": "Lenders are tightening closing protocols, refusing seller proceeds payouts without multi-step verbal verification through independent public records."
-        }
-      ],
-      "my_take_heading": "Fraud friction creates pipeline paralysis",
-      "my_take": "Title fraud isn't just a loss event; it is an operational friction tax that slows down valid closings across your entire pipeline.",
-      "action_lo": "Verify seller identity protocols with your preferred title partners before submitting earnest money.",
-      "action_realtor": "Cross-check property tax records and require in-person identity verification on all vacant land listings.",
-      "cta_question": "How is your operations team auditing title partners to prevent seller impersonation delays?"
-    },
-    {
-      "slug": "lenders-swing-to-losses-q3",
-      "title": "Mortgage Lenders Swing Back to Q3 Production Losses",
-      "source": "National Mortgage Professional",
-      "source_url": "https://nationalmortgageprofessional.com/news/lenders-swing-losses-mba-warns-more-job-cuts",
-      "cover_text": "Lenders swing back to per loan losses",
-      "caption": "Independent mortgage lenders flipped from a $973 profit per loan in Q2 to a $30 loss per loan in Q3. The Mortgage Bankers Association is now warning that staff reductions will accelerate through early 2027 as lenders fight negative margins. For loan officers, this means file quality is your ultimate superpower. When underwriting desks are stretched thin, sloppy documentation gets kicked back or delayed. Real estate agents need to prepare buyers for longer contract contingency periods as lenders run lean operations. Efficiency, not volume hype, will determine who survives this cycle.\n\nSource : https://tinyurl.com/2xntmqe9\n#SafetrustMortgage #MortgageIntelligenceDaily #loanofficer #mortgagebroker #housingmarket",
+      "slug": "va-streamline-refinance-fee-increase",
+      "title": "Congress Moves to Triple VA Streamline Refinance Fees",
+      "source": "The Mortgage Reports",
+      "source_url": "https://themortgagereports.com/137698/va-irrrl-funding-fee-increase-bill",
+      "cover_text": "Congress targets VA streamline refinance fees",
+      "caption": "Congress just voted to triple the VA streamline refinance fee from 0.50% to 1.42%. The House bill also doubles the fee required to assume an existing VA loan. This drastically changes the math for veterans looking to lower their monthly payments through an IRRRL (Interest Rate Reduction Refinance Loan). When fees triple, the net tangible benefit—the requirement that a refinance actually helps the borrower financially—gets much harder to prove. Loan officers need to review their pipelines immediately, while realtors should prepare for higher costs on VA loan assumptions. This legislative move effectively taxes veteran equity to fund broader policy initiatives.\n\nSource : https://tinyurl.com/23qr6etz\n#SafetrustMortgage #MortgageIntelligenceDaily #loanofficer #mortgagebroker #housingmarket",
       "hashtags": [
         "#SafetrustMortgage",
         "#MortgageIntelligenceDaily",
@@ -56,287 +14,159 @@
         "#mortgagebroker",
         "#housingmarket"
       ],
-      "hook_tag": "Lender P&L Alert",
-      "hook": "Mortgage originators are losing money on every single closed loan again.",
-      "what_happened_heading": "Independent lenders lose money in third quarter",
-      "what_happened": "Independent mortgage lenders reported an average pre-tax production loss of $30 per loan in the third quarter, dropping from a $973 profit in the second quarter. The Mortgage Bankers Association warned that operational headcount cuts will likely accelerate through early 2027.",
+      "hook_tag": "VA Refinance Rule",
+      "hook": "Higher VA streamline fees will kill rate-and-term refi margins overnight.",
+      "what_happened_heading": "House moves to triple VA funding fees",
+      "what_happened": "The House passed a bill raising the VA IRRRL (Interest Rate Reduction Refinance Loan) funding fee from 0.50% to 1.42%. The same legislation also doubles the VA loan assumption fee for buyers taking over existing mortgages.",
       "breakdown": [
         {
-          "heading": "Margin compression wipes out summer profitability",
-          "body": "Volume pullbacks and sticky overhead flipped secondary margins negative, proving that second quarter profitability was temporary."
+          "heading": "Fee hikes erode refinance savings",
+          "body": "Tripling the funding fee adds thousands to loan balances. For veterans refinancing for a modest rate drop, the break-even timeline gets pushed out considerably further."
         },
         {
-          "heading": "Underwriting desks face severe capacity cuts",
-          "body": "Here's what this actually changes when a file hits underwriting: leaner operations teams mean heavier file loads per underwriter, resulting in strict buyback scrutiny and longer conditional approvals."
+          "heading": "Assumptions get more expensive",
+          "body": "Doubling the assumption fee hits buyers attempting to take over low-rate VA loans. This reduces a key competitive advantage for veteran sellers in high-rate environments."
         },
         {
-          "heading": "Fixed origination costs remain dangerously high",
-          "body": "Fixed overhead and compliance technology continue to keep origination costs high despite reduced overall loan volume."
+          "heading": "The underwriting reality shift",
+          "body": "Here is what this actually changes when a file hits underwriting: higher fees get rolled into the loan amount, pushing LTV (loan-to-value ratio) higher and reducing net tangible benefit margins."
         },
         {
-          "heading": "Capacity reductions will drag out turn times",
-          "body": "Lenders slicing operational capacity to survive winter will struggle to handle even small rate rally spikes."
+          "heading": "Speed becomes critical for pipelines",
+          "body": "Pending legislation means any unclosed IRRRL files in your pipeline risk getting hit with higher upfront costs if the bill passes the full Senate."
         }
       ],
-      "my_take_heading": "Cutting ops staff increases buyback vulnerability",
-      "my_take": "Slashing underwriting staff lowers monthly overhead, but it dramatically increases loan defect rates when remaining processors and underwriters rush files.",
-      "action_lo": "Submit ultra-clean loan files with complete documentation up front to avoid getting stuck in backlogged underwriting queues.",
-      "action_realtor": "Set realistic 30-to-45-day contract timelines as lender operational teams shrink.",
-      "cta_question": "Are you cutting operational staff or restructuring your workflow to handle higher per-loan costs?"
+      "my_take_heading": "Congress is taxing veteran equity to fund policy",
+      "my_take": "Raising refinance fees on veterans is a hidden tax on balance sheet relief. It punishes borrowers who simply want to lower their monthly housing costs.",
+      "action_lo": "Audit your pipeline for active VA clients and close open IRRRLs before fee changes take effect.",
+      "action_realtor": "Structure purchase contracts with seller concessions to help buyers cover rising VA loan assumption costs.",
+      "cta_question": "Should Congress use VA mortgage fees to offset federal spending bills?"
     },
     {
-      "slug": "dscr-rates-climb-investor-appetite-falls",
-      "title": "Private Lenders Report Dropping DSCR Investor Appetite",
+      "slug": "bac-qm-broker-compensation-reform",
+      "title": "Broker Coalition Fights CFPB Over QM Compensation Rules",
       "source": "National Mortgage Professional",
-      "source_url": "https://nationalmortgageprofessional.com/news/dscr-rates-climb-lenders-report-weakening-investor-appetite",
-      "cover_text": "DSCR loan investor demand drops sharply",
-      "caption": "Private lenders are seeing a sharp drop in secondary investor demand for DSCR (debt-service coverage ratio: cash flow divided by mortgage payment) loans. The percentage of lenders reporting declining investor appetite surged from 8.3% in July to 35.7% in October. Even though real estate investors are eager for financing, secondary market buyers are demanding higher yields to take on non-QM (non-qualifying mortgage) debt. As a result, underwriters are applying stricter rent coverage ratios and requiring larger liquid reserves. Loan officers need to pre-qualify investor files conservatively to prevent unexpected re-pricing mid-transaction.\n\nSource : https://tinyurl.com/29ewfhy3\n#SafetrustMortgage #MortgageIntelligenceDaily #realestateinvesting #mortgagebroker #loanofficer",
-      "hashtags": [
-        "#SafetrustMortgage",
-        "#MortgageIntelligenceDaily",
-        "#realestateinvesting",
-        "#mortgagebroker",
-        "#loanofficer"
-      ],
-      "hook_tag": "Non-QM Market Shift",
-      "hook": "Investor demand for DSCR debt is falling even as borrowers want more.",
-      "what_happened_heading": "Private lenders report declining secondary demand",
-      "what_happened": "The share of private lenders reporting declining investor demand for DSCR loans jumped to 35.7% in October, up from 8.3% in July. While real estate investors still want debt-service coverage ratio products, secondary market buyers are pulling back.",
-      "breakdown": [
-        {
-          "heading": "Secondary market liquidity is drying up fast",
-          "body": "Wall Street buyers and asset aggregators are demanding higher yields, widening spreads on non-QM debt securities."
-        },
-        {
-          "heading": "Borrower demand disconnects from Wall Street appetite",
-          "body": "Property investors want leverage, but secondary buyers are refusing to purchase lower-yielding investor paper."
-        },
-        {
-          "heading": "Underwriters tighten debt-service calculation rules",
-          "body": "Here's what this actually changes when a file hits underwriting: underwriters are using lower market rents and requiring higher cash reserves to approve investor loans."
-        },
-        {
-          "heading": "Pricing adjustments push coupon rates higher",
-          "body": "Lenders are forced to raise rates on investor products to make loans saleable in the secondary market."
-        }
-      ],
-      "my_take_heading": "DSCR paper is undergoing secondary repricing",
-      "my_take": "Borrower demand means nothing if secondary investors won't buy the paper; expect DSCR loan pricing and guideline adjustments to escalate.",
-      "action_lo": "Stress test investor DSCR ratios using conservative rental projections and higher reserve requirements before locking.",
-      "action_realtor": "Advise real estate investors that financing terms for rental properties require higher cash flow margins.",
-      "cta_question": "How are you adjusting your investor loan pipelines as secondary market buyers demand higher DSCR yields?"
-    },
-    {
-      "slug": "chase-wants-nonbank-mortgage-business",
-      "title": "Chase Expands Sales Force While Funding Nonbank Competitors",
-      "source": "National Mortgage Professional",
-      "source_url": "https://nationalmortgageprofessional.com/news/chase-wants-nonbanks-mortgage-business-it-also-helps-finance-them",
-      "cover_text": "Chase targets nonbanks while funding their lines",
-      "caption": "JPMorgan Chase is making an aggressive push to reclaim retail mortgage market share from nonbanks. But here is the catch: Chase also finances many of those nonbanks through warehouse credit lines and correspondent loan purchases. While Chase expands its retail sales footprint, independent mortgage originators still hold a massive advantage in speed, flexibility, and product depth. Bank underwriting desks still come with heavy overlays and rigid processes. For loan officers, competing against big banks comes down to highlighting your ability to execute fast and solve complex file scenarios.\n\nSource : https://tinyurl.com/229batff\n#SafetrustMortgage #MortgageIntelligenceDaily #mortgagebroker #loanofficer #mortgagerates",
+      "source_url": "https://nationalmortgageprofessional.com/news/bac-pushes-cfpb-change-qm-broker-compensation-rules",
+      "cover_text": "Wholesale brokers fight for equal QM comp limits",
+      "caption": "The Broker Action Coalition is pushing the CFPB (Consumer Financial Protection Bureau) to fix a long-standing double standard in mortgage regulation. Currently, lender-paid broker compensation counts against the 3% points and fees cap under QM (Qualified Mortgage) rules, while retail loan officer compensation does not. This structural imbalance makes smaller loans difficult for mortgage brokers to originate without exceeding compliance thresholds. Underwriters are forced to flag wholesale files for fee cap violations that would pass seamlessly in a retail environment. Equalizing these rules would open up more options for home buyers looking for competitive wholesale rates on entry-level homes.\n\nSource : https://tinyurl.com/28ro2ny6\n#SafetrustMortgage #MortgageIntelligenceDaily #mortgagebroker #loanofficer #housingmarket",
       "hashtags": [
         "#SafetrustMortgage",
         "#MortgageIntelligenceDaily",
         "#mortgagebroker",
         "#loanofficer",
-        "#mortgagerates"
-      ],
-      "hook_tag": "Bank Strategy Breakdown",
-      "hook": "Big banks are playing both sides of the nonbank mortgage market.",
-      "what_happened_heading": "JPMorgan Chase aggressively pursues retail share",
-      "what_happened": "JPMorgan Chase is expanding its retail sales force to recapture mortgage market share lost to nonbank lenders since the financial crisis. However, Chase also funds those same nonbanks through warehouse lines and correspondent purchasing.",
-      "breakdown": [
-        {
-          "heading": "The dual role of major money center banks",
-          "body": "Chase earns interest providing warehouse lines to nonbanks while simultaneously competing directly against them for retail purchase borrowers."
-        },
-        {
-          "heading": "Retail sales force expansion targets underserved markets",
-          "body": "Chase Home Lending is adding originators in key growth regions to win direct consumer relationship business."
-        },
-        {
-          "heading": "Underwriters strictly enforce rigid bank overlays",
-          "body": "Here's what this actually changes when a file hits underwriting: bank originations require rigid overlays (lender-specific guidelines) and manual asset verification compared to flexible nonbank automated underwriting."
-        },
-        {
-          "heading": "Warehouse line pricing can squeeze nonbank margins",
-          "body": "If mega-banks tighten warehouse terms, nonbanks face higher funding costs while competing against bank retail originators."
-        }
-      ],
-      "my_take_heading": "Warehouse financing gives mega banks operational leverage",
-      "my_take": "Chase doesn't need to defeat nonbanks in retail originations when it can profit from financing their pipelines and purchasing their loan flow.",
-      "action_lo": "Highlight your nonbank speed and niche guideline flexibility when competing head-to-head with money center banks.",
-      "action_realtor": "Partner with lenders who offer diverse loan options and reliable underwriting turn times.",
-      "cta_question": "Will bank retail expansion threaten independent mortgage bank dominance, or will nonbank agility prevail?"
-    }
-  ],
-  "carousels_es": [
-    {
-      "slug": "seller-impersonation-fraud-title",
-      "title": "Fraude por suplantación de vendedores se dispara en el sector de títulos",
-      "source": "HousingWire",
-      "source_url": "https://www.housingwire.com/articles/seller-impersonation-fraud-title/",
-      "cover_text": "Fraude por suplantación de vendedores se dispara en el sector de títulos",
-      "caption": "Los intentos de fraude por suplantación de vendedores saltaron del 28% al 59% en solo dos años, convirtiendo lo que antes era un problema raro en un cuello de botella importante. Cuando los estafadores se hacen pasar por propietarios, el impacto recae en todos los involucrados. Al exigir verificaciones de identidad y auditorías notariales, los archivos limpios se quedan atrapados en retrasos curativos. Los oficiales de préstamos deben verificar los protocolos de título desde el inicio, no al cierre. Los agentes inmobiliarios que manejan terrenos vacíos necesitan una verificación rigurosa del vendedor desde el primer día para proteger a sus clientes y comisiones.\n\nFuente : https://tinyurl.com/248gm6u5\n#SafetrustMortgage #MortgageIntelligenceDaily #realestateagent #homebuying #mortgagebroker",
-      "hashtags": [
-        "#SafetrustMortgage",
-        "#MortgageIntelligenceDaily",
-        "#realestateagent",
-        "#homebuying",
-        "#mortgagebroker"
-      ],
-      "hook_tag": "Riesgo de fraude de título",
-      "hook": "El fraude de título no es un error de papeleo; es una emergencia operativa.",
-      "what_happened_heading": "Los intentos de fraude por vendedores se duplicaron en dos años",
-      "what_happened": "Los datos de una nueva encuesta muestran que los intentos de fraude por suplantación de vendedores se duplicaron del 28% al 59% en dos años. Las compañías de títulos están aumentando la detección en capas y el trabajo curativo para detener transferencias fraudulentas de terrenos y propiedades.",
-      "breakdown": [
-        {
-          "heading": "Los terrenos vacíos son el objetivo principal",
-          "body": "Los estafadores apuntan a propiedades sin gravámenes, especialmente terrenos vacíos, haciéndose pasar por propietarios para vender rápido antes de que los verdaderos dueños lo noten."
-        },
-        {
-          "heading": "Los asesores exigen verificaciones estrictas de identidad",
-          "body": "Esto cambia lo que sucede cuando un archivo llega a la evaluación: los asesores ahora exigen verificaciones de identidad y auditorías notariales antes de aprobar cualquier transacción sin ocupación del propietario."
-        },
-        {
-          "heading": "El trabajo curativo retrasa los plazos de cierre",
-          "body": "La validación extra de título crea fricción, empuja las expiraciones de bloqueo y obliga a los oficiales de préstamos a gestionar a prestatarios frustrados."
-        },
-        {
-          "heading": "Las instrucciones de transferencia enfrentan mayor escrutinio",
-          "body": "Los prestamistas están endureciendo los protocolos de cierre, rechazando pagos de vendedores sin una verificación verbal de múltiples pasos a través de registros públicos independientes."
-        }
-      ],
-      "my_take_heading": "La fricción del fraude paraliza el flujo",
-      "my_take": "El fraude de título no es solo una pérdida; es un impuesto de fricción operativa que ralentiza los cierres válidos en todo tu pipeline.",
-      "action_lo": "Verifica los protocolos de identidad del vendedor con tus socios de título preferidos antes de enviar el depósito de garantía.",
-      "action_realtor": "Cruz‑verifica los registros de impuestos y exige verificación presencial de identidad en todas las listadas de terrenos vacíos.",
-      "cta_question": "¿Cómo audita tu equipo operativo a los socios de título para prevenir retrasos por suplantación de vendedores?"
-    },
-    {
-      "slug": "lenders-swing-to-losses-q3",
-      "title": "Los prestamistas hipotecarios vuelven a pérdidas en el tercer trimestre",
-      "source": "National Mortgage Professional",
-      "source_url": "https://nationalmortgageprofessional.com/news/lenders-swing-losses-mba-warns-more-job-cuts",
-      "cover_text": "Los prestamistas vuelven a pérdidas por préstamo",
-      "caption": "Los prestamistas hipotecarios independientes pasaron de una ganancia de $973 por préstamo en el segundo trimestre a una pérdida de $30 por préstamo en el tercer trimestre. La Asociación de Banca Hipotecaria advierte que los recortes de personal acelerarán hasta principios de 2027 mientras luchan contra márgenes negativos. Para los oficiales de préstamos, la calidad del archivo es tu superpoder definitivo. Cuando las mesas de evaluación están sobrecargadas, la documentación descuidada se devuelve o se retrasa. Los agentes inmobiliarios deben preparar a los compradores para períodos de contingencia más largos mientras los prestamistas operan con menos personal. La eficiencia, no el volumen, determinará quién sobrevive este ciclo.\n\nFuente : https://tinyurl.com/2xntmqe9\n#SafetrustMortgage #MortgageIntelligenceDaily #loanofficer #mortgagebroker #housingmarket",
-      "hashtags": [
-        "#SafetrustMortgage",
-        "#MortgageIntelligenceDaily",
-        "#loanofficer",
-        "#mortgagebroker",
         "#housingmarket"
       ],
-      "hook_tag": "Alerta de P&L de prestamistas",
-      "hook": "Los originadores hipotecarios están perdiendo dinero en cada préstamo cerrado nuevamente.",
-      "what_happened_heading": "Los prestamistas independientes pierden dinero en el tercer trimestre",
-      "what_happened": "Los prestamistas hipotecarios independientes reportaron una pérdida promedio de $30 por préstamo antes de impuestos en el tercer trimestre, bajando de una ganancia de $973 en el segundo trimestre. La Asociación de Banca Hipotecaria advirtió que los recortes de personal operativo probablemente se acelerarán hasta principios de 2027.",
+      "hook_tag": "QM Comp Reform",
+      "hook": "Current QM compensation rules force independent brokers into an unfair disadvantage.",
+      "what_happened_heading": "Brokers demand equal treatment under CFPB rules",
+      "what_happened": "The Broker Action Coalition submitted a proposal asking the CFPB (Consumer Financial Protection Bureau) to change QM rules. They want lender-paid broker compensation treated the same as retail loan officer pay under the 3% cap.",
       "breakdown": [
         {
-          "heading": "La compresión de margen elimina la rentabilidad de verano",
-          "body": "Las caídas de volumen y los costos fijos se volvieron negativos, demostrando que la rentabilidad del segundo trimestre fue temporal."
+          "heading": "The 3% cap creates disparity",
+          "body": "Under current QM (Qualified Mortgage) rules, lender-paid broker compensation counts toward the 3% points and fees limit. Retail loan officer compensation is completely excluded from that calculation."
         },
         {
-          "heading": "Las mesas de evaluación enfrentan recortes severos de capacidad",
-          "body": "Esto cambia lo que sucede cuando un archivo llega a la evaluación: equipos más pequeños significan cargas mayores por asesor, con mayor escrutinio de recompra y aprobaciones condicionales más largas."
+          "heading": "Lower loan amounts get squeezed",
+          "body": "Because the fee cap is percentage-based, smaller loan sizes trigger QM violations faster for brokers. This restricts consumer access to independent mortgage brokers on modest homes."
         },
         {
-          "heading": "Los costos fijos de originación siguen altos",
-          "body": "Los costos fijos y la tecnología de cumplimiento mantienen los costos de originación altos a pesar de la menor cantidad de préstamos."
+          "heading": "What underwriters calculate on caps",
+          "body": "Here is what this actually changes when a file hits underwriting: wholesale loans face instant QM failures on fee audits, whereas identical retail loans pass without issue."
         },
         {
-          "heading": "Las reducciones de capacidad alargan los tiempos de respuesta",
-          "body": "Los prestamistas que recortan la capacidad operativa para sobrevivir el invierno tendrán dificultades para manejar incluso picos de tasas pequeñas."
+          "heading": "Channel neutrality protects choice",
+          "body": "Aligning broker and retail comp rules removes arbitrary fee walls. It allows consumers to compare wholesale and retail offers on a level playing field."
         }
       ],
-      "my_take_heading": "Reducir personal operativo aumenta la vulnerabilidad de recompra",
-      "my_take": "Recortar el personal de evaluación reduce los costos mensuales, pero eleva dramáticamente las tasas de defectos cuando los procesadores y asesores restantes se apresuran.",
-      "action_lo": "Envía archivos de préstamo ultra limpios con documentación completa al principio para evitar quedarte atascado en colas de evaluación.",
-      "action_realtor": "Establece plazos de contrato realistas de 30 a 45 días mientras los equipos operativos de los prestamistas se reducen.",
-      "cta_question": "¿Estás recortando personal operativo o reestructurando tu flujo de trabajo para manejar costos por préstamo más altos?"
+      "my_take_heading": "Technical fee definitions are choking independent mortgage brokers",
+      "my_take": "Counting broker pay against QM caps is not consumer protection. It is a regulatory carve-out that protects retail lenders from fee competition.",
+      "action_lo": "Educate retail-leaning realtors on how current QM fee rules restrict pricing flexibility on smaller loan amounts.",
+      "action_realtor": "Partner with brokers who understand fee structures to ensure smaller purchase loans do not hit compliance blocks.",
+      "cta_question": "Will the CFPB equalize QM points and fees caps between retail and wholesale channels?"
     },
     {
-      "slug": "dscr-rates-climb-investor-appetite-falls",
-      "title": "Los prestamistas privados reportan caída en el apetito de inversores por DSCR",
+      "slug": "rocket-mr-cooper-cybersecurity-settlement",
+      "title": "Rocket and Mr. Cooper Fined $6.75M Over Data Breaches",
       "source": "National Mortgage Professional",
-      "source_url": "https://nationalmortgageprofessional.com/news/dscr-rates-climb-lenders-report-weakening-investor-appetite",
-      "cover_text": "La demanda de inversores DSCR cae bruscamente",
-      "caption": "Los prestamistas privados están viendo una caída brusca en la demanda de inversores secundarios para préstamos DSCR (ratio de cobertura de servicio de deuda: flujo de caja dividido por pago hipotecario). El porcentaje de prestamistas que reportan apetito decreciente saltó del 8,3% en julio al 35,7% en octubre. Aunque los inversionistas inmobiliarios quieren financiamiento, los compradores del mercado secundario exigen rendimientos más altos para asumir deuda no calificada (non‑QM). Como resultado, los asesores aplican ratios de cobertura de alquiler más estrictos y requieren reservas líquidas mayores. Los oficiales de préstamos deben pre‑calificar archivos de inversores de manera conservadora para evitar re‑precio inesperado en medio de la transacción.\n\nFuente : https://tinyurl.com/29ewfhy3\n#SafetrustMortgage #MortgageIntelligenceDaily #realestateinvesting #mortgagebroker #loanofficer",
-      "hashtags": [
-        "#SafetrustMortgage",
-        "#MortgageIntelligenceDaily",
-        "#realestateinvesting",
-        "#mortgagebroker",
-        "#loanofficer"
-      ],
-      "hook_tag": "Cambio en el mercado non‑QM",
-      "hook": "La demanda de deuda DSCR cae mientras los prestatarios quieren más.",
-      "what_happened_heading": "Los prestamistas privados reportan demanda secundaria decreciente",
-      "what_happened": "La participación de prestamistas privados que reportan demanda decreciente de inversores para préstamos DSCR saltó al 35,7% en octubre, frente al 8,3% en julio. Aunque los inversionistas inmobiliarios siguen interesados, los compradores del mercado secundario se están retirando.",
-      "breakdown": [
-        {
-          "heading": "La liquidez del mercado secundario se seca rápido",
-          "body": "Los compradores de Wall Street y los agregadores de activos exigen rendimientos más altos, ampliando los diferenciales en valores de deuda non‑QM."
-        },
-        {
-          "heading": "La demanda de prestatarios se desconecta del apetito de Wall Street",
-          "body": "Los inversionistas inmobiliarios quieren apalancamiento, pero los compradores secundarios se niegan a comprar papel de menor rendimiento."
-        },
-        {
-          "heading": "Los asesores aprietan las reglas de cálculo de servicio de deuda",
-          "body": "Esto cambia lo que sucede cuando un archivo llega a la evaluación: los asesores usan rentas de mercado más bajas y exigen reservas de efectivo mayores para aprobar préstamos de inversores."
-        },
-        {
-          "heading": "Los ajustes de precios empujan las tasas de cupón más alto",
-          "body": "Los prestamistas se ven obligados a subir las tasas de los productos de inversores para que los préstamos sean vendibles en el mercado secundario."
-        }
-      ],
-      "my_take_heading": "El papel DSCR se re‑precia en el secundario",
-      "my_take": "La demanda de prestatarios no significa nada si los inversores secundarios no compran el papel; espera que los precios y las directrices de préstamos DSCR aumenten.",
-      "action_lo": "Realiza pruebas de estrés de ratios DSCR de inversores con proyecciones de alquiler conservadoras y requisitos de reserva más altos antes de cerrar.",
-      "action_realtor": "Avisa a los inversionistas inmobiliarios que los términos de financiamiento para propiedades de alquiler requieren márgenes de flujo de caja mayores.",
-      "cta_question": "¿Cómo ajustas tus pipelines de préstamos para inversores cuando los compradores del mercado secundario exigen rendimientos DSCR más altos?"
-    },
-    {
-      "slug": "chase-wants-nonbank-mortgage-business",
-      "title": "Chase expande su fuerza de ventas mientras financia a competidores nonbank",
-      "source": "National Mortgage Professional",
-      "source_url": "https://nationalmortgageprofessional.com/news/chase-wants-nonbanks-mortgage-business-it-also-helps-finance-them",
-      "cover_text": "Chase apunta a nonbanks mientras financia sus líneas",
-      "caption": "JPMorgan Chase está haciendo una apuesta agresiva para recuperar cuota de mercado de hipotecas minoristas de los nonbanks. Pero aquí está el truco: Chase también financia a muchos de esos nonbanks a través de líneas de crédito de almacén y compras de préstamos corresponsales. Mientras expande su presencia minorista, los originadores hipotecarios independientes siguen teniendo una ventaja enorme en velocidad, flexibilidad y profundidad de producto. Las mesas de evaluación bancaria siguen con sobrecargas y procesos rígidos. Para los oficiales de préstamos, competir contra grandes bancos se reduce a resaltar tu capacidad de ejecutar rápido y resolver escenarios complejos.\n\nFuente : https://tinyurl.com/229batff\n#SafetrustMortgage #MortgageIntelligenceDaily #mortgagebroker #loanofficer #mortgagerates",
+      "source_url": "https://nationalmortgageprofessional.com/news/rocket-mr-cooper-fined-675m-over-cybersecurity-failures",
+      "cover_text": "Regulators fine top lenders 6.75M over security",
+      "caption": "New York regulators just fined Rocket Mortgage and Mr. Cooper a combined 6.75 million dollars over cybersecurity failures. The investigations revealed critical gaps in authentication controls, risk assessments, and incident reporting, including vulnerabilities tied to Mr. Cooper's major 2023 data breach. For an industry that handles complete financial profiles, data protection can no longer be treated as a secondary IT issue. When files move through underwriting and servicing, weak security infrastructure creates massive operational and regulatory risk. Lenders must invest heavily in data defense to maintain consumer trust and protect balance sheets.\n\nSource : https://tinyurl.com/28x9m875\n#SafetrustMortgage #MortgageIntelligenceDaily #mortgagebroker #loanofficer #housingmarket",
       "hashtags": [
         "#SafetrustMortgage",
         "#MortgageIntelligenceDaily",
         "#mortgagebroker",
         "#loanofficer",
-        "#mortgagerates"
+        "#housingmarket"
       ],
-      "hook_tag": "Desglose de estrategia bancaria",
-      "hook": "Los grandes bancos juegan ambos lados del mercado hipotecario nonbank.",
-      "what_happened_heading": "JPMorgan Chase persigue agresivamente la cuota minorista",
-      "what_happened": "JPMorgan Chase está ampliando su fuerza de ventas minorista para recuperar cuota de mercado hipotecario perdida frente a los prestamistas nonbank desde la crisis financiera. Sin embargo, Chase también financia a esos mismos nonbanks a través de líneas de almacén y compras de préstamos corresponsales.",
+      "hook_tag": "Cybersecurity Regulation",
+      "hook": "Fines for data breaches prove mortgage tech infrastructure remains vulnerable.",
+      "what_happened_heading": "New York fines top mortgage lenders millions",
+      "what_happened": "Rocket Mortgage and Mr. Cooper agreed to pay a combined 6.75 million dollars to settle New York regulatory investigations. Regulators uncovered major failures in cybersecurity reporting, authentication controls, and risk assessments.",
       "breakdown": [
         {
-          "heading": "El doble papel de los bancos de centro financiero",
-          "body": "Chase gana intereses al proveer líneas de almacén a los nonbanks mientras compite directamente contra ellos por prestatarios de compra minoristas."
+          "heading": "Massive breaches expose system gaps",
+          "body": "The investigation focused on cybersecurity weaknesses, including flaws exploited during Mr. Cooper's 2023 data breach. Regulatory bodies are now aggressively auditing mortgage technology stacks."
         },
         {
-          "heading": "La expansión de la fuerza de ventas minorista apunta a mercados subatendidos",
-          "body": "Chase Home Lending está añadiendo originadores en regiones clave de crecimiento para ganar negocios de relación directa con consumidores."
+          "heading": "Authentication controls failed standard checks",
+          "body": "Regulators cited inadequate multi-factor authentication and delayed incident reporting. Large non-bank servicers are facing intense scrutiny over how they handle sensitive consumer data."
         },
         {
-          "heading": "Los asesores aplican estrictas sobrecargas bancarias",
-          "body": "Esto cambia lo que sucede cuando un archivo llega a la evaluación: las originaciones bancarias requieren sobrecargas rígidas (directrices específicas del prestamista) y verificación manual de activos frente a la automatización flexible de los nonbanks."
+          "heading": "What underwriters see during vendor checks",
+          "body": "Here is what this actually changes when a file hits underwriting: third-party vendor risk assessment is moving from a compliance formality to a strict operational audit."
         },
         {
-          "heading": "El precio de las líneas de almacén puede apretar márgenes nonbank",
-          "body": "Si los mega‑bancos endurecen los términos de almacén, los nonbanks enfrentarán costos de financiamiento más altos mientras compiten con los originadores minoristas bancarios."
+          "heading": "Operational risk hits pipeline reputation",
+          "body": "Security failures trigger massive compliance penalties and severe customer churn. Servicing retention relies entirely on consumer trust in data protection systems."
         }
       ],
-      "my_take_heading": "El financiamiento de almacén da ventaja operativa a los mega bancos",
-      "my_take": "Chase no necesita vencer a los nonbanks en originaciones minoristas cuando puede lucrar con el financiamiento de sus pipelines y la compra de sus préstamos.",
-      "action_lo": "Destaca tu velocidad nonbank y la flexibilidad de directrices cuando compites cara a cara con bancos de centro financiero.",
-      "action_realtor": "Asóciate con prestamistas que ofrezcan opciones de préstamo diversas y tiempos de respuesta de evaluación confiables.",
-      "cta_question": "¿La expansión minorista bancaria amenazará la dominancia de los bancos hipotecarios independientes, o prevalecerá la agilidad de los nonbanks?"
+      "my_take_heading": "Mortgage tech scale is useless without ironclad data defense",
+      "my_take": "Spending millions on digital closing speed means nothing if basic data security controls fail. Data privacy is now a core balance sheet liability.",
+      "action_lo": "Reassure clients about your company's data encryption standards during the loan application process.",
+      "action_realtor": "Advise buyers to use secure channels when transmitting sensitive financial documents to lenders and title companies.",
+      "cta_question": "Are current regulatory fines large enough to force non-bank lenders to overhaul cybersecurity?"
+    },
+    {
+      "slug": "fhfa-condo-reserve-rule-delay",
+      "title": "Housing Coalitions Push FHFA to Delay Condo Reserve Rule",
+      "source": "HousingWire",
+      "source_url": "https://www.housingwire.com/articles/fhfa-condo-reserve-rule-delay/",
+      "cover_text": "Housing groups fight new condo reserve rule",
+      "caption": "Housing industry groups are pressing the FHFA (Federal Housing Finance Agency) to delay new condo reserve requirements until 2028. The proposed policy forces condo associations to raise their budget reserve contributions from 10% to 15% to qualify for Fannie Mae and Freddie Mac backing. In underwriting, condo project questionnaires are already a major point of friction. Increasing reserve requirements overnight will render thousands of condo projects non-warrantable (ineligible for conventional backing), cutting off access for buyers using standard loans. Unless the FHFA grants a delay, first-time home buyers seeking entry-level inventory will face fewer options and higher association fees.\n\nSource : https://tinyurl.com/27jzwxql\n#SafetrustMortgage #MortgageIntelligenceDaily #firsttimehomebuyer #housingmarket #realestateagent",
+      "hashtags": [
+        "#SafetrustMortgage",
+        "#MortgageIntelligenceDaily",
+        "#firsttimehomebuyer",
+        "#housingmarket",
+        "#realestateagent"
+      ],
+      "hook_tag": "Condo Underwriting",
+      "hook": "Strict condo reserve rules are about to freeze affordable housing sales.",
+      "what_happened_heading": "Housing coalition demands delay on condo rule",
+      "what_happened": "Industry groups are urging the FHFA (Federal Housing Finance Agency) to delay new condo reserve rules until 2028. The proposed guidelines require condo associations to increase budget reserves from 10% to 15%.",
+      "breakdown": [
+        {
+          "heading": "Reserve thresholds jump fifty percent",
+          "body": "Mandating a 15% budget reserve allocation puts immense financial pressure on condo boards. Many older developments cannot meet this target without issuing steep special assessments."
+        },
+        {
+          "heading": "Mortgage eligibility hangs in balance",
+          "body": "Fannie Mae and Freddie Mac guidelines determine whether buyers can secure conventional financing. Non-compliant condo projects risk losing agency warrantability, making units unfinanceable for standard buyers."
+        },
+        {
+          "heading": "The underwriting nightmare on review",
+          "body": "Here is what this actually changes when a file hits underwriting: condo project questionnaires face immediate rejections if budget allocations fall short of the new 15% threshold."
+        },
+        {
+          "heading": "Affordable starter home inventory drops",
+          "body": "Condos represent entry-level housing for first-time buyers. Strict reserve mandates threaten to lock thousands of listings out of conventional mortgage markets completely."
+        }
+      ],
+      "my_take_heading": "Regulatory protection is pricing buyers out of entry-level housing",
+      "my_take": "Raising condo reserve requirements without a transition period does not protect buyers. It simply turns affordable condos into unapproachable, cash-only transactions.",
+      "action_lo": "Review HOA (Homeowners Association) financial statements early in pre-approval to flag reserve shortfalls before buyers write offers.",
+      "action_realtor": "Verify condo project warrantability and reserve fund percentage before listing entry-level condo properties.",
+      "cta_question": "Should the FHFA delay condo reserve increases to prevent entry-level inventory freezes?"
     }
   ]
 }
