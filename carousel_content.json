@@ -168,5 +168,175 @@
       "action_realtor": "Verify condo project warrantability and reserve fund percentage before listing entry-level condo properties.",
       "cta_question": "Should the FHFA delay condo reserve increases to prevent entry-level inventory freezes?"
     }
+  ],
+  "carousels_es": [
+    {
+      "slug": "va-streamline-refinance-fee-increase",
+      "title": "El Congreso busca triplicar la tarifa de refinanciamiento VA Streamline",
+      "source": "The Mortgage Reports",
+      "source_url": "https://themortgagereports.com/137698/va-irrrl-funding-fee-increase-bill",
+      "cover_text": "El Congreso busca subir tarifas de refinanciamiento VA",
+      "caption": "El Congreso acaba de votar para triplicar la tarifa del refinanciamiento VA de 0.50% a 1.42%. Esta medida tambien duplica el costo para asumir una hipoteca VA existente. Esto cambia por completo las cuentas para los veteranos que buscan bajar sus pagos mensuales con un prestamo IRRRL (Interest Rate Reduction Refinance Loan). Cuando las tarifas se triplican, demostrar el beneficio neto tangible resulta mucho mas dificil para calificar. Los oficiales de prestamos deben revisar sus solicitudes activas de inmediato, mientras que los agentes inmobiliarios tienen que prepararse para mayores costos al traspasar una hipoteca. En la practica, este proyecto de ley termina cobrando mas a la equidad de los veteranos para financiar otros programas del gobierno.\n\nFuente : https://tinyurl.com/23qr6etz\n#SafetrustMortgage #MortgageIntelligenceDaily #loanofficer #mortgagebroker #housingmarket",
+      "hashtags": [
+        "#SafetrustMortgage",
+        "#MortgageIntelligenceDaily",
+        "#loanofficer",
+        "#mortgagebroker",
+        "#housingmarket"
+      ],
+      "hook_tag": "Regla de refinanciamiento VA",
+      "hook": "Tarifas VA mas altas arruinaran los beneficios al refinanciar de inmediato.",
+      "what_happened_heading": "La Camara de Representantes busca triplicar las tarifas VA",
+      "what_happened": "La Camara de Representantes aprobo un proyecto de ley para subir la tarifa de financiamiento del prestamo VA IRRRL (Interest Rate Reduction Refinance Loan) de 0.50% a 1.42%. Esta misma propuesta tambien duplica el costo para los compradores que asumen una hipoteca VA existente.",
+      "breakdown": [
+        {
+          "heading": "Tarifas mas altas reducen los ahorros",
+          "body": "Triplicar la tarifa suma miles de dolares al saldo del prestamo. Si refinancias para bajar un poco tu tasa, tardaras mucho mas tiempo en recuperar la inversion."
+        },
+        {
+          "heading": "Asumir un prestamo sera mas caro",
+          "body": "Duplicar la tarifa afecta a quienes buscan asumir prestamos VA con tasas bajas. Esto reduce una ventaja clave para los veteranos que quieren vender su casa."
+        },
+        {
+          "heading": "El impacto en la evaluacion del credito",
+          "body": "Esto es lo que cambia cuando tu expediente llega al asesor: al sumar tarifas al prestamo, el LTV sube y el beneficio neto tangible es mas dificil de probar."
+        },
+        {
+          "heading": "La rapidez sera clave para tramitar",
+          "body": "Si este proyecto pasa en el Senado, cualquier solicitud de IRRRL pendiente corre el riesgo de enfrentar costos iniciales mucho mas altos antes del cierre."
+        }
+      ],
+      "my_take_heading": "El Congreso impone cargos extra a la equidad de los veteranos",
+      "my_take": "Subir las tarifas de refinanciamiento a los veteranos es un impuesto disfrazado sobre su presupuesto. Castiga a las familias que solo buscan reducir su pago mensual de vivienda cuando mas lo necesitan.",
+      "action_lo": "Revisa tus clientes VA activos y cierra los prestamos IRRRL pendientes antes de que cambien las tarifas.",
+      "action_realtor": "Negocia concesiones del vendedor en las ofertas para ayudar a los compradores a cubrir los mayores costos de asuncion VA.",
+      "cta_question": "¿Deberia el Congreso usar las tarifas hipotecarias VA para financiar otros presupuestos del gobierno?"
+    },
+    {
+      "slug": "bac-qm-broker-compensation-reform",
+      "title": "Coalicion de agentes exige a la CFPB reformar comisiones en prestamos QM",
+      "source": "National Mortgage Professional",
+      "source_url": "https://nationalmortgageprofessional.com/news/bac-pushes-cfpb-change-qm-broker-compensation-rules",
+      "cover_text": "Agentes independientes exigen reglas de comision mas justas",
+      "caption": "La Broker Action Coalition exige a la CFPB eliminar una desventaja injusta en el mercado hipotecario. Hoy en dia, la paga que recibe un broker independiente suma para el limite del 3% en puntos y costos bajo las reglas de prestamos QM (Qualified Mortgage). En cambio, la comision de un oficial de banco directo no se toma en cuenta. Esta diferencia hace que los prestamos de menor valor sean muy dificiles de aprobar con un broker sin romper los limites. Al evaluar el expediente, los asesores deben rechazar casos mayoristas por costos que pasarian sin problema en un banco tradicional. Ajustar estas reglas abriria mas opciones para quienes buscan comprar casas de precio de entrada con mejores tasas.\n\nFuente : https://tinyurl.com/28ro2ny6\n#SafetrustMortgage #MortgageIntelligenceDaily #mortgagebroker #loanofficer #housingmarket",
+      "hashtags": [
+        "#SafetrustMortgage",
+        "#MortgageIntelligenceDaily",
+        "#mortgagebroker",
+        "#loanofficer",
+        "#housingmarket"
+      ],
+      "hook_tag": "Reforma de comisiones QM",
+      "hook": "Las reglas actuales de comision QM ponen en desventaja a los agentes independientes.",
+      "what_happened_heading": "Agentes independientes piden trato igualitario a la CFPB",
+      "what_happened": "La Broker Action Coalition envio una propuesta pidiendo a la CFPB (Consumer Financial Protection Bureau) cambiar las reglas de prestamos QM (Qualified Mortgage). Piden que la comision pagada por el prestamista a brokers se mida igual que la paga de oficiales de bancos directos bajo el limite del 3%.",
+      "breakdown": [
+        {
+          "heading": "El limite del 3% genera desigualdad",
+          "body": "En los prestamos QM, la comision que recibe el broker suma para el tope del 3% de costos. Sin embargo, el pago a prestamistas directos queda totalmente fuera de ese calculo."
+        },
+        {
+          "heading": "Prestamos mas pequenos sufren mas",
+          "body": "Como el limite es un porcentaje, las casas de menor valor superan el tope mas rapido. Esto limita el acceso a brokers independientes para compradores de presupuesto modesto."
+        },
+        {
+          "heading": "Lo que revisa el asesor de credito",
+          "body": "Esto es lo que cambia cuando el archivo llega al asesor: los prestamos mayoristas fallan revisiones de costos, mientras que expedientes identicos en bancos directos pasan sin problemas."
+        },
+        {
+          "heading": "Reglas neutrales protegen al cliente",
+          "body": "Igualar las reglas elimina barreras injustas de costos. Esto permite a los compradores comparar opciones del mercado mayorista y minorista en igualdad de condiciones."
+        }
+      ],
+      "my_take_heading": "Las definiciones tecnicas perjudican a los brokers independientes",
+      "my_take": "Contar la paga del broker dentro del limite QM no protege al consumidor. Es una regla injusta que protege a los grandes bancos de la competencia de precios.",
+      "action_lo": "Explica a agentes inmobiliarios como las reglas actuales de costos QM reducen la flexibilidad en prestamos pequenos.",
+      "action_realtor": "Trabaja con brokers que conozcan las estructuras de costos para evitar bloqueos en compras de casas economicas.",
+      "cta_question": "¿Deberia la CFPB igualar los limites de costos entre canales mayoristas y minoristas?"
+    },
+    {
+      "slug": "rocket-mr-cooper-cybersecurity-settlement",
+      "title": "Multan a Rocket y Mr. Cooper con $6.75M por fallas de ciberseguridad",
+      "source": "National Mortgage Professional",
+      "source_url": "https://nationalmortgageprofessional.com/news/rocket-mr-cooper-fined-675m-over-cybersecurity-failures",
+      "cover_text": "Multan a grandes prestamistas con 6.75M por ciberseguridad",
+      "caption": "Los reguladores de Nueva York multaron a Rocket Mortgage y Mr. Cooper con 6.75 millones de dolares por fallas de ciberseguridad. Las investigaciones mostraron graves descuidos en autenticacion, evaluacion de riesgos y reporte de incidentes, incluyendo fallas ligadas al ciberataque de Mr. Cooper en 2023. En una industria que maneja todo el historial financiero de las familias, proteger la informacion ya no puede ser algo secundario. Cuando los documentos pasan por el asesor y la administracion del prestamo, una infraestructura debil genera riesgos operativos enormes. Los prestamistas deben invertir fuerte en seguridad digital para mantener la confianza de sus clientes y evitar sanciones.\n\nFuente : https://tinyurl.com/28x9m875\n#SafetrustMortgage #MortgageIntelligenceDaily #mortgagebroker #loanofficer #housingmarket",
+      "hashtags": [
+        "#SafetrustMortgage",
+        "#MortgageIntelligenceDaily",
+        "#mortgagebroker",
+        "#loanofficer",
+        "#housingmarket"
+      ],
+      "hook_tag": "Regulacion de ciberseguridad",
+      "hook": "Las multas por filtraciones muestran fallas en la tecnologia hipotecaria.",
+      "what_happened_heading": "Nueva York impone millonarias multas a grandes prestamistas",
+      "what_happened": "Rocket Mortgage y Mr. Cooper acordaron pagar 6.75 millones de dolares para resolver investigaciones de los reguladores de Nueva York. Las autoridades descubrieron graves fallas en reportes de ciberseguridad, controles de verificacion y evaluacion de riesgos.",
+      "breakdown": [
+        {
+          "heading": "Fallas graves exponen datos sensibles",
+          "body": "La investigacion se enfoco en debilidades de seguridad, incluyendo problemas tras la filtracion de datos de Mr. Cooper en 2023. Los reguladores auditan hoy la tecnologia hipotecaria con firmeza."
+        },
+        {
+          "heading": "Los controles de verificacion fallaron",
+          "body": "Se encontraron problemas en la verificacion en dos pasos y demoras en reportar incidentes. Las grandes administradoras de prestamos enfrentan una vigilancia mas estricta sobre como protegen tus datos."
+        },
+        {
+          "heading": "Lo que revisa el asesor con proveedores",
+          "body": "Esto es lo que cambia cuando el archivo llega al asesor: revisar la seguridad de proveedores externos ya no es un tramite, sino una auditoria operativa rigurosa."
+        },
+        {
+          "heading": "El riesgo operativo afecta la confianza",
+          "body": "Las fallas de seguridad causan multas cuantiosas y perdida de clientes. Mantener los prestamos depende por completo de que las familias confien en como se protegen sus datos informaticos."
+        }
+      ],
+      "my_take_heading": "La tecnologia hipotecaria no sirve sin una proteccion de datos solida",
+      "my_take": "Invertir millones en cierres digitales no sirve de nada si fallan los controles basicos de seguridad. Proteger los datos personales de las familias debe ser la prioridad numero uno de cualquier prestamista.",
+      "action_lo": "Tranquiliza a tus clientes explicando las medidas de encriptacion de datos que usas al procesar su hipoteca.",
+      "action_realtor": "Aconseja a tus compradores usar vias seguras para enviar documentos financieros a prestamistas y companias de titulo.",
+      "cta_question": "¿Crees que las multas actuales son suficientes para que los prestamistas mejoren su ciberseguridad?"
+    },
+    {
+      "slug": "fhfa-condo-reserve-rule-delay",
+      "title": "Grupos del sector piden retrasar la nueva regla de reservas para condominios",
+      "source": "HousingWire",
+      "source_url": "https://www.housingwire.com/articles/fhfa-condo-reserve-rule-delay/",
+      "cover_text": "Exigen aplazar nuevas reglas para reservas en condominios",
+      "caption": "Asociaciones del sector solicitan a la FHFA congelar la nueva regla de reservas para condominios hasta 2028. La propuesta exige que las asociaciones de condominios aumenten sus reservas del 10% al 15% para recibir respaldo de Fannie Mae y Freddie Mac. Al evaluar la compra, la revision del condominio ya es uno de los pasos mas complejos. Elevar este requisito de golpe hara que miles de edificios pierdan la elegibilidad para prestamos convencionales, cerrando la puerta a compradores con credito standard. A menos que la FHFA (Federal Housing Finance Agency) aplace la medida, las personas que buscan su primera casa tendran menos opciones y deberan pagar cuotas de mantenimiento mas elevadas.\n\nFuente : https://tinyurl.com/27jzwxql\n#SafetrustMortgage #MortgageIntelligenceDaily #firsttimehomebuyer #housingmarket #realestateagent",
+      "hashtags": [
+        "#SafetrustMortgage",
+        "#MortgageIntelligenceDaily",
+        "#firsttimehomebuyer",
+        "#housingmarket",
+        "#realestateagent"
+      ],
+      "hook_tag": "Evaluacion de condominios",
+      "hook": "Reglas de reserva mas estrictas podrian frenar la venta de condominios accesibles.",
+      "what_happened_heading": "Piden aplazar la regla de reservas en condominios",
+      "what_happened": "Organizaciones del sector piden a la FHFA (Federal Housing Finance Agency) postergar hasta 2028 las nuevas reglas de reservas para condominios. La propuesta exige a las asociaciones aumentar la reserva de su presupuesto anual del 10% al 15%.",
+      "breakdown": [
+        {
+          "heading": "El requisito de reserva sube cincuenta por ciento",
+          "body": "Exigir un 15% para reservas pone una presion financiera enorme sobre las juntas de condominios. Edificios mas antiguos no podran cumplir sin cobrar cuotas especiales muy altas a los propietarios."
+        },
+        {
+          "heading": "La elegibilidad de la hipoteca en riesgo",
+          "body": "Fannie Mae y Freddie Mac deciden si un comprador califica para un prestamo convencional. Los proyectos que no cumplan perderan el respaldo, impidiendo el financiamiento con prestamos tradicionales."
+        },
+        {
+          "heading": "El reto para el asesor al revisar",
+          "body": "Esto es lo que cambia cuando el archivo llega al asesor: los cuestionarios del proyecto de condominio seran rechazados de inmediato si la reserva no alcanza el 15% exigido."
+        },
+        {
+          "heading": "Cae la oferta de viviendas accesibles",
+          "body": "Los condominios son la entrada para compradores de primera casa. Estas reglas tan estrictas podrian sacar miles de propiedades del mercado de prestamos convencionales."
+        }
+      ],
+      "my_take_heading": "Las exigencias de la regla estan dejando fuera a los compradores",
+      "my_take": "Subir las reservas requeridas sin un periodo de transicion no protege a los compradores. Simplemente convierte condominios accesibles en propiedades que solo se pueden comprar en efectivo.",
+      "action_lo": "Revisa los estados financieros de la asociacion al inicio de la preaprobacion para detectar falta de reservas a tiempo.",
+      "action_realtor": "Verifica la elegibilidad del proyecto de condominios y el porcentaje de reserva antes de publicar la propiedad para la venta.",
+      "cta_question": "¿Deberia la FHFA aplazar el aumento de reservas para evitar frenar la venta de viviendas accesibles?"
+    }
   ]
 }
