@@ -1,342 +1,172 @@
 {
   "carousels": [
     {
-      "slug": "va-streamline-refinance-fee-increase",
-      "title": "Congress Moves to Triple VA Streamline Refinance Fees",
-      "source": "The Mortgage Reports",
-      "source_url": "https://themortgagereports.com/137698/va-irrrl-funding-fee-increase-bill",
-      "cover_text": "Congress targets VA streamline refinance fees",
-      "caption": "Congress just voted to triple the VA streamline refinance fee from 0.50% to 1.42%. The House bill also doubles the fee required to assume an existing VA loan. This drastically changes the math for veterans looking to lower their monthly payments through an IRRRL (Interest Rate Reduction Refinance Loan). When fees triple, the net tangible benefit—the requirement that a refinance actually helps the borrower financially—gets much harder to prove. Loan officers need to review their pipelines immediately, while realtors should prepare for higher costs on VA loan assumptions. This legislative move effectively taxes veteran equity to fund broader policy initiatives.\n\nSource : https://tinyurl.com/23qr6etz\n#SafetrustMortgage #MortgageIntelligenceDaily #loanofficer #mortgagebroker #housingmarket",
-      "hashtags": [
-        "#SafetrustMortgage",
-        "#MortgageIntelligenceDaily",
-        "#loanofficer",
-        "#mortgagebroker",
-        "#housingmarket"
-      ],
-      "hook_tag": "VA Refinance Rule",
-      "hook": "Higher VA streamline fees will kill rate-and-term refi margins overnight.",
-      "what_happened_heading": "House moves to triple VA funding fees",
-      "what_happened": "The House passed a bill raising the VA IRRRL (Interest Rate Reduction Refinance Loan) funding fee from 0.50% to 1.42%. The same legislation also doubles the VA loan assumption fee for buyers taking over existing mortgages.",
-      "breakdown": [
-        {
-          "heading": "Fee hikes erode refinance savings",
-          "body": "Tripling the funding fee adds thousands to loan balances. For veterans refinancing for a modest rate drop, the break-even timeline gets pushed out considerably further."
-        },
-        {
-          "heading": "Assumptions get more expensive",
-          "body": "Doubling the assumption fee hits buyers attempting to take over low-rate VA loans. This reduces a key competitive advantage for veteran sellers in high-rate environments."
-        },
-        {
-          "heading": "The underwriting reality shift",
-          "body": "Here is what this actually changes when a file hits underwriting: higher fees get rolled into the loan amount, pushing LTV (loan-to-value ratio) higher and reducing net tangible benefit margins."
-        },
-        {
-          "heading": "Speed becomes critical for pipelines",
-          "body": "Pending legislation means any unclosed IRRRL files in your pipeline risk getting hit with higher upfront costs if the bill passes the full Senate."
-        }
-      ],
-      "my_take_heading": "Congress is taxing veteran equity to fund policy",
-      "my_take": "Raising refinance fees on veterans is a hidden tax on balance sheet relief. It punishes borrowers who simply want to lower their monthly housing costs.",
-      "action_lo": "Audit your pipeline for active VA clients and close open IRRRLs before fee changes take effect.",
-      "action_realtor": "Structure purchase contracts with seller concessions to help buyers cover rising VA loan assumption costs.",
-      "cta_question": "Should Congress use VA mortgage fees to offset federal spending bills?"
-    },
-    {
-      "slug": "bac-qm-broker-compensation-reform",
-      "title": "Broker Coalition Fights CFPB Over QM Compensation Rules",
+      "slug": "condo-reserve-hike-financing-impact",
+      "title": "Condo Reserve Hike Could Restrict Financing Trade Groups Warn",
       "source": "National Mortgage Professional",
-      "source_url": "https://nationalmortgageprofessional.com/news/bac-pushes-cfpb-change-qm-broker-compensation-rules",
-      "cover_text": "Wholesale brokers fight for equal QM comp limits",
-      "caption": "The Broker Action Coalition is pushing the CFPB (Consumer Financial Protection Bureau) to fix a long-standing double standard in mortgage regulation. Currently, lender-paid broker compensation counts against the 3% points and fees cap under QM (Qualified Mortgage) rules, while retail loan officer compensation does not. This structural imbalance makes smaller loans difficult for mortgage brokers to originate without exceeding compliance thresholds. Underwriters are forced to flag wholesale files for fee cap violations that would pass seamlessly in a retail environment. Equalizing these rules would open up more options for home buyers looking for competitive wholesale rates on entry-level homes.\n\nSource : https://tinyurl.com/28ro2ny6\n#SafetrustMortgage #MortgageIntelligenceDaily #mortgagebroker #loanofficer #housingmarket",
+      "source_url": "https://nationalmortgageprofessional.com/news/condo-reserve-hike-could-restrict-financing-trade-groups-warn",
+      "cover_text": "The condo reserve rule killing conventional loans",
+      "caption": "New condo reserve requirements threaten to halt conventional loan approvals for entire HOA communities across the country. Five major housing trade groups are urging FHFA Director William Pulte to grant a one-year extension before conventional financing drops off. When an underwriter reviews a condo project budget, missing reserve line items leads to instant deal denial. If HOAs cannot quickly raise monthly dues or issue special assessments, qualified buyers will be locked out of conventional pricing. Loan officers and realtors must audit condo financials early in the transaction to prevent costly delays at closing. Will your team be caught off guard by HOA budget disqualifications?\n\nSource : https://tinyurl.com/28ltoexr\n#SafetrustMortgage #MortgageIntelligenceDaily #realestateagent #mortgagebroker #homebuying",
       "hashtags": [
         "#SafetrustMortgage",
         "#MortgageIntelligenceDaily",
+        "#realestateagent",
         "#mortgagebroker",
-        "#loanofficer",
-        "#housingmarket"
+        "#homebuying"
       ],
-      "hook_tag": "QM Comp Reform",
-      "hook": "Current QM compensation rules force independent brokers into an unfair disadvantage.",
-      "what_happened_heading": "Brokers demand equal treatment under CFPB rules",
-      "what_happened": "The Broker Action Coalition submitted a proposal asking the CFPB (Consumer Financial Protection Bureau) to change QM rules. They want lender-paid broker compensation treated the same as retail loan officer pay under the 3% cap.",
+      "hook_tag": "Condo Financing",
+      "hook": "The upcoming condo reserve hike will freeze affordable housing access overnight.",
+      "what_happened_heading": "Trade groups demand delay on condo rule",
+      "what_happened": "Five housing trade groups wrote to FHFA Director William Pulte requesting a one-year delay on new condo reserve requirements. They warn that the tighter rules from Fannie Mae and Freddie Mac will severely restrict conventional financing for buyers and owners.",
       "breakdown": [
         {
-          "heading": "The 3% cap creates disparity",
-          "body": "Under current QM (Qualified Mortgage) rules, lender-paid broker compensation counts toward the 3% points and fees limit. Retail loan officer compensation is completely excluded from that calculation."
+          "heading": "Higher reserve thresholds incoming",
+          "body": "Fannie Mae and Freddie Mac plan to raise the required reserve allocation percentage for condominium project reviews, forcing HOAs to hold significantly more cash on hand."
         },
         {
-          "heading": "Lower loan amounts get squeezed",
-          "body": "Because the fee cap is percentage-based, smaller loan sizes trigger QM violations faster for brokers. This restricts consumer access to independent mortgage brokers on modest homes."
+          "heading": "Underwriting will auto-decline non-compliant HOAs",
+          "body": "As an underwriter, I see condo questionnaires daily. If HOA budget reserves miss the new mark by even one percent, conventional automated underwriting systems will instantly reject the entire project."
         },
         {
-          "heading": "What underwriters calculate on caps",
-          "body": "Here is what this actually changes when a file hits underwriting: wholesale loans face instant QM failures on fee audits, whereas identical retail loans pass without issue."
+          "heading": "Conventional buyers face immediate disqualification",
+          "body": "Borrowers with high credit and solid down payments will suddenly find standard conventional loans unavailable for entire condo developments simply due to association budgets."
         },
         {
-          "heading": "Channel neutrality protects choice",
-          "body": "Aligning broker and retail comp rules removes arbitrary fee walls. It allows consumers to compare wholesale and retail offers on a level playing field."
+          "heading": "Limited options push buyers to higher rates",
+          "body": "When conventional condo financing drops off, buyers are pushed toward non-agency products or portfolio loans that carry higher interest rates and stricter debt ratio caps."
         }
       ],
-      "my_take_heading": "Technical fee definitions are choking independent mortgage brokers",
-      "my_take": "Counting broker pay against QM caps is not consumer protection. It is a regulatory carve-out that protects retail lenders from fee competition.",
-      "action_lo": "Educate retail-leaning realtors on how current QM fee rules restrict pricing flexibility on smaller loan amounts.",
-      "action_realtor": "Partner with brokers who understand fee structures to ensure smaller purchase loans do not hit compliance blocks.",
-      "cta_question": "Will the CFPB equalize QM points and fees caps between retail and wholesale channels?"
+      "my_take_heading": "HOA budget missteps will choke condo sales",
+      "my_take": "The real risk is not buyer credit but unmanaged HOA budgets. Lenders that build pre-review processes for condo associations will capture market share while competitors face massive fall-through rates.",
+      "action_lo": "Audit every active condo pre-approval and check the HOA reserve percentage before writing pre-approval letters.",
+      "action_realtor": "Request full HOA financial packages and reserve studies from sellers before listing any condo property this year.",
+      "cta_question": "Should FHFA delay the condo reserve hike, or force HOAs to fix their balance sheets immediately?"
     },
     {
-      "slug": "rocket-mr-cooper-cybersecurity-settlement",
-      "title": "Rocket and Mr. Cooper Fined $6.75M Over Data Breaches",
+      "slug": "lo-talent-war-support-vs-signing-bonuses",
+      "title": "In the LO Talent War Support May Beat Signing Bonuses",
       "source": "National Mortgage Professional",
-      "source_url": "https://nationalmortgageprofessional.com/news/rocket-mr-cooper-fined-675m-over-cybersecurity-failures",
-      "cover_text": "Regulators fine top lenders 6.75M over security",
-      "caption": "New York regulators just fined Rocket Mortgage and Mr. Cooper a combined 6.75 million dollars over cybersecurity failures. The investigations revealed critical gaps in authentication controls, risk assessments, and incident reporting, including vulnerabilities tied to Mr. Cooper's major 2023 data breach. For an industry that handles complete financial profiles, data protection can no longer be treated as a secondary IT issue. When files move through underwriting and servicing, weak security infrastructure creates massive operational and regulatory risk. Lenders must invest heavily in data defense to maintain consumer trust and protect balance sheets.\n\nSource : https://tinyurl.com/28x9m875\n#SafetrustMortgage #MortgageIntelligenceDaily #mortgagebroker #loanofficer #housingmarket",
+      "source_url": "https://nationalmortgageprofessional.com/news/lo-talent-war-support-may-beat-signing-bonuses",
+      "cover_text": "Why big signing bonuses lose to operational support",
+      "caption": "Big upfront signing bonuses are failing to retain top-producing loan officers in today's mortgage market. A recent National Mortgage Professional survey reveals that support and operations are now the primary driver for loan officers changing companies. High-producing originators recognize that a massive bonus cannot offset slow processing and delayed underwriting decisions. When files sit in underwriting queues for weeks, real estate agent relationships degrade and pipeline revenue drops. Streamlined operational engines allow loan officers to double their volume without working extra hours. Smart executives are shifting budget from signing bonuses to back-office technology and underwriting talent. Is your company investing in cash payouts or operational speed?\n\nSource : https://tinyurl.com/2xlr6bl5\n#SafetrustMortgage #MortgageIntelligenceDaily #loanofficer #mortgagebroker #realestateagent",
       "hashtags": [
         "#SafetrustMortgage",
         "#MortgageIntelligenceDaily",
-        "#mortgagebroker",
         "#loanofficer",
-        "#housingmarket"
+        "#mortgagebroker",
+        "#realestateagent"
       ],
-      "hook_tag": "Cybersecurity Regulation",
-      "hook": "Fines for data breaches prove mortgage tech infrastructure remains vulnerable.",
-      "what_happened_heading": "New York fines top mortgage lenders millions",
-      "what_happened": "Rocket Mortgage and Mr. Cooper agreed to pay a combined 6.75 million dollars to settle New York regulatory investigations. Regulators uncovered major failures in cybersecurity reporting, authentication controls, and risk assessments.",
+      "hook_tag": "Talent Recruitment",
+      "hook": "Big upfront signing bonuses are failing to retain top-producing loan officers.",
+      "what_happened_heading": "Operations beats cash in LO recruiting survey",
+      "what_happened": "A recent National Mortgage Professional webinar survey showed support and operations are the top reason loan officers switch companies. High-producing loan officers are prioritizing operational efficiency over massive upfront signing bonus offers.",
       "breakdown": [
         {
-          "heading": "Massive breaches expose system gaps",
-          "body": "The investigation focused on cybersecurity weaknesses, including flaws exploited during Mr. Cooper's 2023 data breach. Regulatory bodies are now aggressively auditing mortgage technology stacks."
+          "heading": "High upfront checks create debt traps",
+          "body": "Large sign-on bonuses often come with aggressive clawback provisions that trap originators in inefficient operational environments where loans stall in processing."
         },
         {
-          "heading": "Authentication controls failed standard checks",
-          "body": "Regulators cited inadequate multi-factor authentication and delayed incident reporting. Large non-bank servicers are facing intense scrutiny over how they handle sensitive consumer data."
+          "heading": "Underwriting turn times directly dictate revenue",
+          "body": "From my underwriting background, slow conditional approvals and clumsy setup teams destroy referral partner relationships faster than any compensation split can ever fix."
         },
         {
-          "heading": "What underwriters see during vendor checks",
-          "body": "Here is what this actually changes when a file hits underwriting: third-party vendor risk assessment is moving from a compliance formality to a strict operational audit."
+          "heading": "Operational friction shrinks overall pipeline size",
+          "body": "Loan officers lose thousands in lost production when they spend twenty hours a week fighting internal operations instead of originating new client files."
         },
         {
-          "heading": "Operational risk hits pipeline reputation",
-          "body": "Security failures trigger massive compliance penalties and severe customer churn. Servicing retention relies entirely on consumer trust in data protection systems."
+          "heading": "Operations is the true growth lever",
+          "body": "Top producers recognize that a streamlined setup, processing, and underwriting engine generates more long-term income than a one-time cash bonus."
         }
       ],
-      "my_take_heading": "Mortgage tech scale is useless without ironclad data defense",
-      "my_take": "Spending millions on digital closing speed means nothing if basic data security controls fail. Data privacy is now a core balance sheet liability.",
-      "action_lo": "Reassure clients about your company's data encryption standards during the loan application process.",
-      "action_realtor": "Advise buyers to use secure channels when transmitting sensitive financial documents to lenders and title companies.",
-      "cta_question": "Are current regulatory fines large enough to force non-bank lenders to overhaul cybersecurity?"
+      "my_take_heading": "Operations is the ultimate retention strategy",
+      "my_take": "Upfront money pays for past volume, but world-class operational support finances future volume. Lenders focusing on turn times will win the talent war.",
+      "action_lo": "Benchmark your prospective lender's actual turn times from submission to underwriting decision before signing any contract.",
+      "action_realtor": "Partner exclusively with loan officers backed by dedicated operational teams that guarantee on-time closing dates.",
+      "cta_question": "Would you trade a six-figure signing bonus for guaranteed 24-hour underwriting turn times?"
     },
     {
-      "slug": "fhfa-condo-reserve-rule-delay",
-      "title": "Housing Coalitions Push FHFA to Delay Condo Reserve Rule",
-      "source": "HousingWire",
-      "source_url": "https://www.housingwire.com/articles/fhfa-condo-reserve-rule-delay/",
-      "cover_text": "Housing groups fight new condo reserve rule",
-      "caption": "Housing industry groups are pressing the FHFA (Federal Housing Finance Agency) to delay new condo reserve requirements until 2028. The proposed policy forces condo associations to raise their budget reserve contributions from 10% to 15% to qualify for Fannie Mae and Freddie Mac backing. In underwriting, condo project questionnaires are already a major point of friction. Increasing reserve requirements overnight will render thousands of condo projects non-warrantable (ineligible for conventional backing), cutting off access for buyers using standard loans. Unless the FHFA grants a delay, first-time home buyers seeking entry-level inventory will face fewer options and higher association fees.\n\nSource : https://tinyurl.com/27jzwxql\n#SafetrustMortgage #MortgageIntelligenceDaily #firsttimehomebuyer #housingmarket #realestateagent",
+      "slug": "fha-mortgage-insurance-rules-overhaul",
+      "title": "Some FHA Borrowers Pay Mortgage Insurance for a Decade or More",
+      "source": "CNBC",
+      "source_url": "https://www.cnbc.com/2026/11/20/fha-mortgage-insurance-cuts-cancellation.html",
+      "cover_text": "The fight to end lifetime FHA mortgage insurance",
+      "caption": "Ending lifetime FHA mortgage insurance could unlock millions in buyer purchasing power across the housing market. Industry groups are urging policy changes as the FHA Mutual Mortgage Insurance Fund posted a 10.29% capital ratio for fiscal year 2026—more than five times the legal requirement. Even under severe economic stress testing, the fund retains a 2.65% ratio, proving its financial strength. Permanent monthly premiums force underwriters to calculate higher debt-to-income ratios, disqualifying qualified low-income and first-time buyers. Lowering or eliminating life-of-loan MIP would immediately expand homeownership access without risking taxpayer bailouts. How aggressive should regulators be in cutting mortgage insurance fees?\n\nSource : https://tinyurl.com/27nhxgbh\n#SafetrustMortgage #MortgageIntelligenceDaily #firsttimehomebuyer #mortgagerates #homebuying",
       "hashtags": [
         "#SafetrustMortgage",
         "#MortgageIntelligenceDaily",
         "#firsttimehomebuyer",
-        "#housingmarket",
-        "#realestateagent"
+        "#mortgagerates",
+        "#homebuying"
       ],
-      "hook_tag": "Condo Underwriting",
-      "hook": "Strict condo reserve rules are about to freeze affordable housing sales.",
-      "what_happened_heading": "Housing coalition demands delay on condo rule",
-      "what_happened": "Industry groups are urging the FHFA (Federal Housing Finance Agency) to delay new condo reserve rules until 2028. The proposed guidelines require condo associations to increase budget reserves from 10% to 15%.",
+      "hook_tag": "FHA Policy",
+      "hook": "Ending lifetime FHA mortgage insurance could unlock millions in buyer purchasing power.",
+      "what_happened_heading": "Industry pushes for FHA insurance rule overhaul",
+      "what_happened": "Mortgage industry groups are lobbying for major changes to long-term FHA mortgage insurance premiums paid by borrowers. The FHA Mutual Mortgage Insurance Fund ended fiscal year 2026 with a 10.29% capital ratio, far above its 2% statutory requirement.",
       "breakdown": [
         {
-          "heading": "Reserve thresholds jump fifty percent",
-          "body": "Mandating a 15% budget reserve allocation puts immense financial pressure on condo boards. Many older developments cannot meet this target without issuing steep special assessments."
+          "heading": "Borrowers locked into perpetual monthly costs",
+          "body": "Current rules force many FHA borrowers to pay mortgage insurance for ten years or the entire loan term, regardless of equity growth."
         },
         {
-          "heading": "Mortgage eligibility hangs in balance",
-          "body": "Fannie Mae and Freddie Mac guidelines determine whether buyers can secure conventional financing. Non-compliant condo projects risk losing agency warrantability, making units unfinanceable for standard buyers."
+          "heading": "Capital cushion far exceeds statutory minimums",
+          "body": "FHA holds more than five times its required legal capital reserve, ending fiscal year 2026 with a 10.29% Mutual Mortgage Insurance ratio."
         },
         {
-          "heading": "The underwriting nightmare on review",
-          "body": "Here is what this actually changes when a file hits underwriting: condo project questionnaires face immediate rejections if budget allocations fall short of the new 15% threshold."
+          "heading": "Underwriting stress tests show resilience",
+          "body": "Even under a severe economic crisis model, FHA capital remains at 2.65%, holding above the 2% floor and proving fund strength."
         },
         {
-          "heading": "Affordable starter home inventory drops",
-          "body": "Condos represent entry-level housing for first-time buyers. Strict reserve mandates threaten to lock thousands of listings out of conventional mortgage markets completely."
+          "heading": "High premiums price out target buyers",
+          "body": "As an underwriter, permanent monthly premiums inflate borrower debt ratios, directly reducing the home purchase price lower-income buyers can qualify for."
         }
       ],
-      "my_take_heading": "Regulatory protection is pricing buyers out of entry-level housing",
-      "my_take": "Raising condo reserve requirements without a transition period does not protect buyers. It simply turns affordable condos into unapproachable, cash-only transactions.",
-      "action_lo": "Review HOA (Homeowners Association) financial statements early in pre-approval to flag reserve shortfalls before buyers write offers.",
-      "action_realtor": "Verify condo project warrantability and reserve fund percentage before listing entry-level condo properties.",
-      "cta_question": "Should the FHFA delay condo reserve increases to prevent entry-level inventory freezes?"
-    }
-  ],
-  "carousels_es": [
-    {
-      "slug": "va-streamline-refinance-fee-increase",
-      "title": "El Congreso busca triplicar la tarifa de refinanciamiento VA Streamline",
-      "source": "The Mortgage Reports",
-      "source_url": "https://themortgagereports.com/137698/va-irrrl-funding-fee-increase-bill",
-      "cover_text": "El Congreso busca subir tarifas de refinanciamiento VA",
-      "caption": "El Congreso acaba de votar para triplicar la tarifa del refinanciamiento VA de 0.50% a 1.42%. Esta medida tambien duplica el costo para asumir una hipoteca VA existente. Esto cambia por completo las cuentas para los veteranos que buscan bajar sus pagos mensuales con un prestamo IRRRL (Interest Rate Reduction Refinance Loan). Cuando las tarifas se triplican, demostrar el beneficio neto tangible resulta mucho mas dificil para calificar. Los oficiales de prestamos deben revisar sus solicitudes activas de inmediato, mientras que los agentes inmobiliarios tienen que prepararse para mayores costos al traspasar una hipoteca. En la practica, este proyecto de ley termina cobrando mas a la equidad de los veteranos para financiar otros programas del gobierno.\n\nFuente : https://tinyurl.com/23qr6etz\n#SafetrustMortgage #MortgageIntelligenceDaily #loanofficer #mortgagebroker #housingmarket",
-      "hashtags": [
-        "#SafetrustMortgage",
-        "#MortgageIntelligenceDaily",
-        "#loanofficer",
-        "#mortgagebroker",
-        "#housingmarket"
-      ],
-      "hook_tag": "Regla de refinanciamiento VA",
-      "hook": "Tarifas VA mas altas arruinaran los beneficios al refinanciar de inmediato.",
-      "what_happened_heading": "La Camara de Representantes busca triplicar las tarifas VA",
-      "what_happened": "La Camara de Representantes aprobo un proyecto de ley para subir la tarifa de financiamiento del prestamo VA IRRRL (Interest Rate Reduction Refinance Loan) de 0.50% a 1.42%. Esta misma propuesta tambien duplica el costo para los compradores que asumen una hipoteca VA existente.",
-      "breakdown": [
-        {
-          "heading": "Tarifas mas altas reducen los ahorros",
-          "body": "Triplicar la tarifa suma miles de dolares al saldo del prestamo. Si refinancias para bajar un poco tu tasa, tardaras mucho mas tiempo en recuperar la inversion."
-        },
-        {
-          "heading": "Asumir un prestamo sera mas caro",
-          "body": "Duplicar la tarifa afecta a quienes buscan asumir prestamos VA con tasas bajas. Esto reduce una ventaja clave para los veteranos que quieren vender su casa."
-        },
-        {
-          "heading": "El impacto en la evaluacion del credito",
-          "body": "Esto es lo que cambia cuando tu expediente llega al asesor: al sumar tarifas al prestamo, el LTV sube y el beneficio neto tangible es mas dificil de probar."
-        },
-        {
-          "heading": "La rapidez sera clave para tramitar",
-          "body": "Si este proyecto pasa en el Senado, cualquier solicitud de IRRRL pendiente corre el riesgo de enfrentar costos iniciales mucho mas altos antes del cierre."
-        }
-      ],
-      "my_take_heading": "El Congreso impone cargos extra a la equidad de los veteranos",
-      "my_take": "Subir las tarifas de refinanciamiento a los veteranos es un impuesto disfrazado sobre su presupuesto. Castiga a las familias que solo buscan reducir su pago mensual de vivienda cuando mas lo necesitan.",
-      "action_lo": "Revisa tus clientes VA activos y cierra los prestamos IRRRL pendientes antes de que cambien las tarifas.",
-      "action_realtor": "Negocia concesiones del vendedor en las ofertas para ayudar a los compradores a cubrir los mayores costos de asuncion VA.",
-      "cta_question": "¿Deberia el Congreso usar las tarifas hipotecarias VA para financiar otros presupuestos del gobierno?"
+      "my_take_heading": "Excess FHA reserves belong to the borrowers",
+      "my_take": "Holding excessive capital cushions while first-time buyers struggle with monthly affordability defeats the public mandate of the FHA program. Lower premiums are overdue.",
+      "action_lo": "Review your active FHA database to identify clients who can refinance into conventional loans to drop monthly MIP.",
+      "action_realtor": "Structure purchase offers with seller concessions to help FHA buyers buy down rates and offset monthly insurance costs.",
+      "cta_question": "Should FHA lower annual insurance premiums now, or keep extra reserves for a potential downturn?"
     },
     {
-      "slug": "bac-qm-broker-compensation-reform",
-      "title": "Coalicion de agentes exige a la CFPB reformar comisiones en prestamos QM",
-      "source": "National Mortgage Professional",
-      "source_url": "https://nationalmortgageprofessional.com/news/bac-pushes-cfpb-change-qm-broker-compensation-rules",
-      "cover_text": "Agentes independientes exigen reglas de comision mas justas",
-      "caption": "La Broker Action Coalition exige a la CFPB eliminar una desventaja injusta en el mercado hipotecario. Hoy en dia, la paga que recibe un broker independiente suma para el limite del 3% en puntos y costos bajo las reglas de prestamos QM (Qualified Mortgage). En cambio, la comision de un oficial de banco directo no se toma en cuenta. Esta diferencia hace que los prestamos de menor valor sean muy dificiles de aprobar con un broker sin romper los limites. Al evaluar el expediente, los asesores deben rechazar casos mayoristas por costos que pasarian sin problema en un banco tradicional. Ajustar estas reglas abriria mas opciones para quienes buscan comprar casas de precio de entrada con mejores tasas.\n\nFuente : https://tinyurl.com/28ro2ny6\n#SafetrustMortgage #MortgageIntelligenceDaily #mortgagebroker #loanofficer #housingmarket",
-      "hashtags": [
-        "#SafetrustMortgage",
-        "#MortgageIntelligenceDaily",
-        "#mortgagebroker",
-        "#loanofficer",
-        "#housingmarket"
-      ],
-      "hook_tag": "Reforma de comisiones QM",
-      "hook": "Las reglas actuales de comision QM ponen en desventaja a los agentes independientes.",
-      "what_happened_heading": "Agentes independientes piden trato igualitario a la CFPB",
-      "what_happened": "La Broker Action Coalition envio una propuesta pidiendo a la CFPB (Consumer Financial Protection Bureau) cambiar las reglas de prestamos QM (Qualified Mortgage). Piden que la comision pagada por el prestamista a brokers se mida igual que la paga de oficiales de bancos directos bajo el limite del 3%.",
-      "breakdown": [
-        {
-          "heading": "El limite del 3% genera desigualdad",
-          "body": "En los prestamos QM, la comision que recibe el broker suma para el tope del 3% de costos. Sin embargo, el pago a prestamistas directos queda totalmente fuera de ese calculo."
-        },
-        {
-          "heading": "Prestamos mas pequenos sufren mas",
-          "body": "Como el limite es un porcentaje, las casas de menor valor superan el tope mas rapido. Esto limita el acceso a brokers independientes para compradores de presupuesto modesto."
-        },
-        {
-          "heading": "Lo que revisa el asesor de credito",
-          "body": "Esto es lo que cambia cuando el archivo llega al asesor: los prestamos mayoristas fallan revisiones de costos, mientras que expedientes identicos en bancos directos pasan sin problemas."
-        },
-        {
-          "heading": "Reglas neutrales protegen al cliente",
-          "body": "Igualar las reglas elimina barreras injustas de costos. Esto permite a los compradores comparar opciones del mercado mayorista y minorista en igualdad de condiciones."
-        }
-      ],
-      "my_take_heading": "Las definiciones tecnicas perjudican a los brokers independientes",
-      "my_take": "Contar la paga del broker dentro del limite QM no protege al consumidor. Es una regla injusta que protege a los grandes bancos de la competencia de precios.",
-      "action_lo": "Explica a agentes inmobiliarios como las reglas actuales de costos QM reducen la flexibilidad en prestamos pequenos.",
-      "action_realtor": "Trabaja con brokers que conozcan las estructuras de costos para evitar bloqueos en compras de casas economicas.",
-      "cta_question": "¿Deberia la CFPB igualar los limites de costos entre canales mayoristas y minoristas?"
-    },
-    {
-      "slug": "rocket-mr-cooper-cybersecurity-settlement",
-      "title": "Multan a Rocket y Mr. Cooper con $6.75M por fallas de ciberseguridad",
-      "source": "National Mortgage Professional",
-      "source_url": "https://nationalmortgageprofessional.com/news/rocket-mr-cooper-fined-675m-over-cybersecurity-failures",
-      "cover_text": "Multan a grandes prestamistas con 6.75M por ciberseguridad",
-      "caption": "Los reguladores de Nueva York multaron a Rocket Mortgage y Mr. Cooper con 6.75 millones de dolares por fallas de ciberseguridad. Las investigaciones mostraron graves descuidos en autenticacion, evaluacion de riesgos y reporte de incidentes, incluyendo fallas ligadas al ciberataque de Mr. Cooper en 2023. En una industria que maneja todo el historial financiero de las familias, proteger la informacion ya no puede ser algo secundario. Cuando los documentos pasan por el asesor y la administracion del prestamo, una infraestructura debil genera riesgos operativos enormes. Los prestamistas deben invertir fuerte en seguridad digital para mantener la confianza de sus clientes y evitar sanciones.\n\nFuente : https://tinyurl.com/28x9m875\n#SafetrustMortgage #MortgageIntelligenceDaily #mortgagebroker #loanofficer #housingmarket",
-      "hashtags": [
-        "#SafetrustMortgage",
-        "#MortgageIntelligenceDaily",
-        "#mortgagebroker",
-        "#loanofficer",
-        "#housingmarket"
-      ],
-      "hook_tag": "Regulacion de ciberseguridad",
-      "hook": "Las multas por filtraciones muestran fallas en la tecnologia hipotecaria.",
-      "what_happened_heading": "Nueva York impone millonarias multas a grandes prestamistas",
-      "what_happened": "Rocket Mortgage y Mr. Cooper acordaron pagar 6.75 millones de dolares para resolver investigaciones de los reguladores de Nueva York. Las autoridades descubrieron graves fallas en reportes de ciberseguridad, controles de verificacion y evaluacion de riesgos.",
-      "breakdown": [
-        {
-          "heading": "Fallas graves exponen datos sensibles",
-          "body": "La investigacion se enfoco en debilidades de seguridad, incluyendo problemas tras la filtracion de datos de Mr. Cooper en 2023. Los reguladores auditan hoy la tecnologia hipotecaria con firmeza."
-        },
-        {
-          "heading": "Los controles de verificacion fallaron",
-          "body": "Se encontraron problemas en la verificacion en dos pasos y demoras en reportar incidentes. Las grandes administradoras de prestamos enfrentan una vigilancia mas estricta sobre como protegen tus datos."
-        },
-        {
-          "heading": "Lo que revisa el asesor con proveedores",
-          "body": "Esto es lo que cambia cuando el archivo llega al asesor: revisar la seguridad de proveedores externos ya no es un tramite, sino una auditoria operativa rigurosa."
-        },
-        {
-          "heading": "El riesgo operativo afecta la confianza",
-          "body": "Las fallas de seguridad causan multas cuantiosas y perdida de clientes. Mantener los prestamos depende por completo de que las familias confien en como se protegen sus datos informaticos."
-        }
-      ],
-      "my_take_heading": "La tecnologia hipotecaria no sirve sin una proteccion de datos solida",
-      "my_take": "Invertir millones en cierres digitales no sirve de nada si fallan los controles basicos de seguridad. Proteger los datos personales de las familias debe ser la prioridad numero uno de cualquier prestamista.",
-      "action_lo": "Tranquiliza a tus clientes explicando las medidas de encriptacion de datos que usas al procesar su hipoteca.",
-      "action_realtor": "Aconseja a tus compradores usar vias seguras para enviar documentos financieros a prestamistas y companias de titulo.",
-      "cta_question": "¿Crees que las multas actuales son suficientes para que los prestamistas mejoren su ciberseguridad?"
-    },
-    {
-      "slug": "fhfa-condo-reserve-rule-delay",
-      "title": "Grupos del sector piden retrasar la nueva regla de reservas para condominios",
+      "slug": "west-capital-lending-1099-lawsuit",
+      "title": "West Capital Lending Hit With 1099 Independent Contractor Suit",
       "source": "HousingWire",
-      "source_url": "https://www.housingwire.com/articles/fhfa-condo-reserve-rule-delay/",
-      "cover_text": "Exigen aplazar nuevas reglas para reservas en condominios",
-      "caption": "Asociaciones del sector solicitan a la FHFA congelar la nueva regla de reservas para condominios hasta 2028. La propuesta exige que las asociaciones de condominios aumenten sus reservas del 10% al 15% para recibir respaldo de Fannie Mae y Freddie Mac. Al evaluar la compra, la revision del condominio ya es uno de los pasos mas complejos. Elevar este requisito de golpe hara que miles de edificios pierdan la elegibilidad para prestamos convencionales, cerrando la puerta a compradores con credito standard. A menos que la FHFA (Federal Housing Finance Agency) aplace la medida, las personas que buscan su primera casa tendran menos opciones y deberan pagar cuotas de mantenimiento mas elevadas.\n\nFuente : https://tinyurl.com/27jzwxql\n#SafetrustMortgage #MortgageIntelligenceDaily #firsttimehomebuyer #housingmarket #realestateagent",
+      "source_url": "https://www.housingwire.com/articles/wcl-contractor-1099-suit-lo-pay-models/",
+      "cover_text": "The 1099 loan officer model under legal fire",
+      "caption": "The 1099 loan officer model faces a massive legal reckoning today following new litigation against West Capital Lending. Class action lawsuits challenging independent contractor classifications contend that mortgage lenders exert significant control over loan manufacturing and licensing compliance. From an underwriting and operations perspective, strict corporate oversight on files inherently undermines claims of worker independence in court. Lenders operating under 1099 models face substantial legal liabilities regarding minimum wage and overtime claims. Moving toward compliant W-2 structures may increase overhead short-term, but it shields mortgage originators and brokerages from catastrophic legal liabilities. How is your company adjusting its hiring model in light of this litigation?\n\nSource : https://tinyurl.com/29qkm9lg\n#SafetrustMortgage #MortgageIntelligenceDaily #mortgagebroker #loanofficer #housingmarket",
       "hashtags": [
         "#SafetrustMortgage",
         "#MortgageIntelligenceDaily",
-        "#firsttimehomebuyer",
-        "#housingmarket",
-        "#realestateagent"
+        "#mortgagebroker",
+        "#loanofficer",
+        "#housingmarket"
       ],
-      "hook_tag": "Evaluacion de condominios",
-      "hook": "Reglas de reserva mas estrictas podrian frenar la venta de condominios accesibles.",
-      "what_happened_heading": "Piden aplazar la regla de reservas en condominios",
-      "what_happened": "Organizaciones del sector piden a la FHFA (Federal Housing Finance Agency) postergar hasta 2028 las nuevas reglas de reservas para condominios. La propuesta exige a las asociaciones aumentar la reserva de su presupuesto anual del 10% al 15%.",
+      "hook_tag": "Lender Legal",
+      "hook": "The 1099 loan officer model faces a massive legal reckoning today.",
+      "what_happened_heading": "West Capital Lending faces contractor lawsuit",
+      "what_happened": "West Capital Lending was hit with a lawsuit challenging its 1099 independent contractor hiring structure for loan officers. The legal action renews intense industry scrutiny over originator employment classification and compensation models.",
       "breakdown": [
         {
-          "heading": "El requisito de reserva sube cincuenta por ciento",
-          "body": "Exigir un 15% para reservas pone una presion financiera enorme sobre las juntas de condominios. Edificios mas antiguos no podran cumplir sin cobrar cuotas especiales muy altas a los propietarios."
+          "heading": "Class action risks endanger independent models",
+          "body": "Lawsuits targeting 1099 loan officer structures argue that lenders exercise enough control over daily originations to legally mandate W-2 employee status."
         },
         {
-          "heading": "La elegibilidad de la hipoteca en riesgo",
-          "body": "Fannie Mae y Freddie Mac deciden si un comprador califica para un prestamo convencional. Los proyectos que no cumplan perderan el respaldo, impidiendo el financiamiento con prestamos tradicionales."
+          "heading": "Underwriting control conflicts with 1099 independence",
+          "body": "Having spent years underwriting, lender oversight on licensing, compliance, and loan manufacturing creates institutional control that courts often classify as employer control."
         },
         {
-          "heading": "El reto para el asesor al revisar",
-          "body": "Esto es lo que cambia cuando el archivo llega al asesor: los cuestionarios del proyecto de condominio seran rechazados de inmediato si la reserva no alcanza el 15% exigido."
+          "heading": "Unpaid minimum wage claims threaten compensation",
+          "body": "Plaintiffs in contractor suits frequently seek back pay for overtime and minimum wage, creating massive liability exposures for non-compliant mortgage brokerages."
         },
         {
-          "heading": "Cae la oferta de viviendas accesibles",
-          "body": "Los condominios son la entrada para compradores de primera casa. Estas reglas tan estrictas podrian sacar miles de propiedades del mercado de prestamos convencionales."
+          "heading": "Regulatory enforcement will accelerate nationwide",
+          "body": "State labor departments and federal regulators are watching high-profile contractor cases, threatening widespread audit sweeps across independent mortgage brokers."
         }
       ],
-      "my_take_heading": "Las exigencias de la regla estan dejando fuera a los compradores",
-      "my_take": "Subir las reservas requeridas sin un periodo de transicion no protege a los compradores. Simplemente convierte condominios accesibles en propiedades que solo se pueden comprar en efectivo.",
-      "action_lo": "Revisa los estados financieros de la asociacion al inicio de la preaprobacion para detectar falta de reservas a tiempo.",
-      "action_realtor": "Verifica la elegibilidad del proyecto de condominios y el porcentaje de reserva antes de publicar la propiedad para la venta.",
-      "cta_question": "¿Deberia la FHFA aplazar el aumento de reservas para evitar frenar la venta de viviendas accesibles?"
+      "my_take_heading": "Legal risk makes 1099 originations unsustainable",
+      "my_take": "Brokerages using 1099 status purely to lower payroll overhead are taking a massive enterprise risk. W-2 models offer defensible legal protection and long-term valuation.",
+      "action_lo": "Verify that your compensation agreement and day-to-day workflow strictly match federal and state labor classification laws.",
+      "action_realtor": "Ensure your preferred mortgage partners operate under fully compliant employment structures to avoid sudden operational disruptions.",
+      "cta_question": "Is the 1099 loan officer model going away completely, or will courts allow it to survive?"
     }
   ]
 }
