@@ -168,5 +168,175 @@
       "action_realtor": "Partner with top-producing military originators to ensure your VA buyer offers get accepted in tough markets.",
       "cta_question": "What strategy has most improved your acceptance rate for VA buyer offers?"
     }
+  ],
+  "carousels_es": [
+    {
+      "slug": "ai-stock-selloff-mortgage-rates",
+      "title": "¿La caída de las acciones de IA nos dará tasas hipotecarias por debajo del 7% antes de las fiestas?",
+      "source": "HousingWire",
+      "source_url": "https://www.housingwire.com/articles/sub-7-mortgage-rates-yield-spreads/",
+      "cover_text": "Las caídas no arreglan spreads",
+      "caption": "Bajar el rendimiento de los bonos del Tesoro a menos de 4.85 % parece una victoria para los que siguen las tasas. Pero sin que los spreads hipotecarios (la brecha entre los rendimientos y las tasas) se reduzcan a 2 %, las tasas por debajo del 7 % no aparecerán antes de las fiestas. Las caídas del mercado crean movimientos de refugio hacia los bonos, pero los valores respaldados por hipotecas no siguen siempre de inmediato. En el marketing secundario y la suscripción, las hojas de precios dependen de que esos spreads se mantengan ajustados. Confiar en los pánicos bursátiles para bajar los costos de endeudamiento no es una estrategia viable. Para triunfar en este entorno, los originadores y agentes deben ayudar a los clientes a decidirse con los números actuales, no con cambios especulativos del mercado.\n\nFuente : https://tinyurl.com/24r7yay9\n#SafetrustMortgage #MortgageIntelligenceDaily #mortgagerates #housingmarket #loanofficer",
+      "hashtags": [
+        "#SafetrustMortgage",
+        "#MortgageIntelligenceDaily",
+        "#mortgagerates",
+        "#housingmarket",
+        "#loanofficer"
+      ],
+      "hook_tag": "Spreads de tasas",
+      "hook": "¿Esperas tasas más bajas? Las caídas bursátiles no te salvarán.",
+      "what_happened_heading": "Volatilidad y cambios de rendimiento",
+      "what_happened": "Las caídas de las acciones tecnológicas empujan a los inversores a los bonos del Tesoro para bajar el rendimiento de los 10 años por debajo de 4.85 %. Pero los spreads hipotecarios deben comprimirse a 2 % para lograr tasas por debajo del 7 %.",
+      "breakdown": [
+        {
+          "heading": "Bajar el rendimiento no basta",
+          "body": "Reducir el rendimiento de los 10 años a menos de 4.85 % es solo la mitad del combate. Si los spreads hipotecarios se mantienen inflados, las tasas de los consumidores se quedan estancadas."
+        },
+        {
+          "heading": "La realidad del archivo de suscriptor",
+          "body": "Cuando un archivo llega a la suscripción, el marketing secundario sigue dictando la hoja de precios. Los suscriptores aprueban condiciones basadas en los términos de bloqueo, no en rumores de rendimiento."
+        },
+        {
+          "heading": "Los spreads siguen amplios",
+          "body": "Los spreads representan el prima que los inversores exigen por los valores respaldados por hipotecas frente a los bonos. Normalizar esa brecha requiere estabilidad del mercado de bonos, no pánicos de tecnología."
+        },
+        {
+          "heading": "Expectativas de tasas antes de las fiestas",
+          "body": "Los recortes de tasas no aparecerán mágicamente antes de las fiestas sin la compresión de spreads. Apostar a la turbulencia bursátil para bajar los costos es una estrategia arriesgada."
+        }
+      ],
+      "my_take_heading": "Por qué la compresión de spreads importa más que los rendimientos",
+      "my_take": "Las caídas crean ruido, pero el alivio real requiere estrechar los spreads hipotecarios. Deja de mirar el mercado de valores y empieza a seguir la liquidez de los bonos secundarios.",
+      "action_lo": "Revisa tu pipeline de compradores que esperan tasas por debajo del 7 % y explica cómo los spreads afectan el precio real.",
+      "action_realtor": "Educa a los vendedores que las caídas de tasas requieren estabilidad de bonos, así que fijar precios correctamente hoy sigue siendo crucial.",
+      "cta_question": "¿Tus clientes están retrasando compras por titulares especulativos de tasas?"
+    },
+    {
+      "slug": "va-home-loan-misconceptions",
+      "title": "Préstamos VA: los veteranos merecen mejor información y mejores experiencias",
+      "source": "National Mortgage Professional",
+      "source_url": "https://nationalmortgageprofessional.com/news/va-home-loans-veterans-deserve-better-information-better-experiences-0",
+      "cover_text": "La verdad sobre los mitos de VA",
+      "caption": "Los mitos sobre los préstamos VA siguen perjudicando a los compradores militares en mercados competitivos. Los agentes de listado temen retrasos de tasación o costos inesperados, pero las directrices de VA ofrecen mayor flexibilidad con ingresos residuales (efectivo restante después de los gastos mensuales) y DTI favorable (qué parte de tu ingreso va a la deuda). Cuando un suscriptor revisa un archivo VA, ve un préstamo respaldado con un historial sólido. La barrera real no es el programa, sino la falta de educación entre vendedores y agentes. Los originadores que llaman proactivamente a los agentes de listado para explicar la fortaleza de VA cierran más tratos.\n\nFuente : https://tinyurl.com/2bywjm6x\n#SafetrustMortgage #MortgageIntelligenceDaily #vahomeloan #firsttimehomebuyer #realestateagent",
+      "hashtags": [
+        "#SafetrustMortgage",
+        "#MortgageIntelligenceDaily",
+        "#vahomeloan",
+        "#firsttimehomebuyer",
+        "#realestateagent"
+      ],
+      "hook_tag": "Financiamiento VA",
+      "hook": "Los malentendidos sobre los préstamos VA están costando a los veteranos las mejores casas.",
+      "what_happened_heading": "La desinformación perjudica a los compradores veteranos",
+      "what_happened": "Los reportes de la industria destacan que los compradores veteranos enfrentan brechas de información y resistencia de vendedores al usar VA. Los mitos sobre retrasos de tasación y tarifas de vendedor siguen perjudicando ofertas competitivas.",
+      "breakdown": [
+        {
+          "heading": "Los mitos debilitan la oferta",
+          "body": "Los agentes de listado suelen aconsejar a los vendedores que rechacen ofertas VA por temores anticuados de tasaciones estrictas y contribuciones de tarifas."
+        },
+        {
+          "heading": "Lo que revisan los suscriptores",
+          "body": "Los suscriptores se enfocan en DTI (qué parte de tu ingreso va a la deuda) e ingresos residuales (efectivo restante después de los gastos). Las directrices de VA son más flexibles que los préstamos convencionales."
+        },
+        {
+          "heading": "Realidades de la tasación vs mitos",
+          "body": "Los Requisitos Mínimos de Propiedad de VA protegen a los compradores, pero los tasadores rara vez señalan problemas que una inspección estándar no descubriría."
+        },
+        {
+          "heading": "La brecha de información pierde tratos",
+          "body": "Los originadores que no educan a los agentes de listado dejan que los mitos hundan contratos válidos antes de que la suscripción comience."
+        }
+      ],
+      "my_take_heading": "La educación gana ofertas VA competitivas",
+      "my_take": "Los préstamos VA no son lentos ni engorrosos; son entre los productos respaldados por el gobierno más fuertes. El riesgo real es un agente de listado sin educar que rechaza una oferta superior para veteranos.",
+      "action_lo": "Crea una hoja de referencia de un página sobre préstamos VA para agentes de listado destacando la fortaleza de ingresos residuales y la rapidez de cierre.",
+      "action_realtor": "Presenta ofertas VA a vendedores con datos claros sobre la igualdad de plazos de tasación para eliminar la duda del vendedor.",
+      "cta_question": "¿Cómo superas el sesgo del vendedor contra ofertas VA en tu mercado?"
+    },
+    {
+      "slug": "best-military-lenders-2026",
+      "title": "Los mejores prestamistas militares 2026 de NMP",
+      "source": "National Mortgage Professional",
+      "source_url": "https://nationalmortgageprofessional.com/news/nmps-2026-best-military-lenders",
+      "cover_text": "Qué hace a un prestamista militar real",
+      "caption": "National Mortgage Professional publicó sus rankings de los Mejores Prestamistas Militares 2026, destacando el servicio especializado para familias militares. Atender a los prestatarios militares requiere conocer a fondo estructuras de ingresos complejas como BAH (asignaciones de vivienda) y un cierre rápido para los movimientos PCS (cambio permanente de estación). Cuando estos archivos llegan a la suscripción, el procesamiento estándar puede retrasarse si los suscriptores no entienden los aumentos de ingresos no gravables. Los mejores prestamistas alinean toda su operación, desde procesamiento hasta suscripción, en torno a estas directrices únicas. Para servir a los clientes militares eficazmente, los originadores y agentes deben trabajar con prestamistas que ejecuten sin fallas bajo plazos estrictos.\n\nFuente : https://tinyurl.com/2btex4xy\n#SafetrustMortgage #MortgageIntelligenceDaily #mortgagebroker #loanofficer #realestateinvesting",
+      "hashtags": [
+        "#SafetrustMortgage",
+        "#MortgageIntelligenceDaily",
+        "#mortgagebroker",
+        "#loanofficer",
+        "#realestateinvesting"
+      ],
+      "hook_tag": "Ranking de prestamistas",
+      "hook": "Los prestamistas militares premiados hacen más que solo publicitarse a veteranos.",
+      "what_happened_heading": "Destacando a los mejores prestamistas militares",
+      "what_happened": "National Mortgage Professional reconoció a los mejores prestamistas militares 2026 basándose en servicio especializado y volumen. Los rankings muestran instituciones enfocadas en la reubicación militar y la suscripción VA especializada.",
+      "breakdown": [
+        {
+          "heading": "Operaciones especializadas impulsan resultados",
+          "body": "Los mejores prestamistas militares estructuran equipos de procesamiento dedicados que entienden los recibos de pago militar, BAH y órdenes PCS."
+        },
+        {
+          "heading": "Perspectiva del archivo de suscriptor",
+          "body": "En la suscripción, aprobar un préstamo VA con ingresos militares requiere verificar correctamente los aumentos no gravables. Los suscriptores especializados evitan retrasos innecesarios."
+        },
+        {
+          "heading": "El volumen exige alineación operativa",
+          "body": "El marketing a compradores militares sin back-ends operativos especializados conduce a fechas de cierre perdidas y clientes frustrados."
+        },
+        {
+          "heading": "La ejecución genera confianza del agente",
+          "body": "Los mejores prestamistas ganan negocios repetidos de agentes al garantizar cierres suaves en los plazos militares, no solo tarifas más bajas."
+        }
+      ],
+      "my_take_heading": "La experiencia operativa vence al marketing llamativo",
+      "my_take": "Ser un prestamista militar top no es cuestión de carteles publicitarios. Se trata de la experiencia del suscriptor en analizar BAH y órdenes PCS sin retrasar el cierre.",
+      "action_lo": "Asóciate con equipos de procesamiento para agilizar los cálculos de ingresos militares antes de emitir preaprobaciones.",
+      "action_realtor": "Alíate con prestamistas militares especializados que garanticen plazos rápidos de aprobación en reubicaciones militares.",
+      "cta_question": "¿Tu prestamista preferido tiene procesamiento especializado para estructuras de ingresos militares?"
+    },
+    {
+      "slug": "best-military-originators-2026",
+      "title": "Los mejores originadores militares 2026 de NMP",
+      "source": "National Mortgage Professional",
+      "source_url": "https://nationalmortgageprofessional.com/news/nmps-2026-best-military-originators",
+      "cover_text": "Los originadores militares elite juegan diferente",
+      "caption": "La lista de los Mejores Originadores Militares 2026 destaca a los oficiales de préstamo que lideran en préstamos militares. Estos originadores ganan participación de mercado dominando las directrices complejas y gestionando proactivamente la transacción. No solo calculan DTI (qué parte de tu ingreso va a la deuda); también revisan ingresos residuales y documentación de servicio antes de enviar a suscripción. Esa precisión previa evita retrasos y tranquiliza a los vendedores. Para agentes y oficiales de préstamo que buscan escalar, dominar nichos especializados como los préstamos militares sigue siendo una de las vías más efectivas para crecer sostenido.\n\nFuente : https://tinyurl.com/2as48yw8\n#SafetrustMortgage #MortgageIntelligenceDaily #loanofficer #homebuying #realestateagent",
+      "hashtags": [
+        "#SafetrustMortgage",
+        "#MortgageIntelligenceDaily",
+        "#loanofficer",
+        "#homebuying",
+        "#realestateagent"
+      ],
+      "hook_tag": "Productores top",
+      "hook": "Los originadores militares top no dependen de leads pasivos ni preaprobaciones simples.",
+      "what_happened_heading": "Reconociendo a los oficiales de préstamo militares elite",
+      "what_happened": "Los líderes de la industria fueron nombrados en la lista de los Mejores Originadores Militares 2026 por su producción sobresaliente con clientes militares. Su éxito proviene de la especialización y la comunicación proactiva con agentes.",
+      "breakdown": [
+        {
+          "heading": "Dominando escenarios de ingresos complejos",
+          "body": "Los originadores elite estructuran correctamente las fechas de vencimiento de servicio y el pago de despliegue militar para evitar sorpresas en la suscripción."
+        },
+        {
+          "heading": "Eficiencia de aprobación de suscriptor",
+          "body": "Un suscriptor puede aprobar un archivo militar pre-suscrito en horas si el oficial de préstamo calcula correctamente ingresos residuales y verifica registros de servicio."
+        },
+        {
+          "heading": "Construyendo confianza diaria con agentes",
+          "body": "Los productores top ganan la confianza de los agentes de listado llamando directamente a cada oferta VA para garantizar la calificación del prestatario."
+        },
+        {
+          "heading": "Escalar a través de la especialización",
+          "body": "La especialización en reubicación militar crea una red de referencia autosostenible entre miembros activos y organizaciones de veteranos."
+        }
+      ],
+      "my_take_heading": "La suscripción proactiva crea productores top",
+      "my_take": "Los originadores militares top dominan porque resuelven los obstáculos de suscripción antes de enviar, convirtiendo las directrices VA complejas en una ventaja competitiva.",
+      "action_lo": "Pre-suscribe las estructuras de ingresos militares al principio para entregar cartas de preaprobación infalibles.",
+      "action_realtor": "Asóciate con originadores militares top para asegurar que las ofertas de tus compradores VA sean aceptadas en mercados difíciles.",
+      "cta_question": "¿Qué estrategia ha mejorado más tu tasa de aceptación de ofertas de compradores VA?"
+    }
   ]
 }
