@@ -168,5 +168,175 @@
       "action_realtor": "Help buyers focus on entry-level properties and emerging neighborhood markets.",
       "cta_question": "What steps are you taking to protect loan volume against economic headwinds?"
     }
+  ],
+  "carousels_es": [
+    {
+      "slug": "reverse-title- vesting-friction",
+      "title": "Las operaciones de título enfrentan demoras por fideicomisos",
+      "source": "HousingWire",
+      "source_url": "https://www.housingwire.com/articles/reverse-mortgage-title-risks/",
+      "cover_text": "Errores de título están cancelando negocios en silencio",
+      "caption": "Documentos de fideicomiso faltantes están frenando cierres en todo el país. Angel Booth de PRC advierte que los cambios de escritura no registrados causan graves problemas en las operaciones de título. Cuando los prestatarios transfieren títulos sin actualizar registros, el asesor frena todo el proceso. Esto es lo que cambia cuando el archivo llega a evaluación: la liberación del título se retrasa semanas a menos que revises la titularidad desde el inicio. Los oficiales de crédito deben verificar los certificados de fideicomiso al recibir la solicitud, mientras que los agentes inmobiliarios deben confirmar los nombres en la escritura antes de redactar ofertas. Corregir la entrada de datos elimina por completo los cuellos de botella en el cierre.\n\nFuente : https://tinyurl.com/225bqdp9\n#SafetrustMortgage #MortgageIntelligenceDaily #mortgagebroker #loanofficer #homebuying",
+      "hashtags": [
+        "#SafetrustMortgage",
+        "#MortgageIntelligenceDaily",
+        "#mortgagebroker",
+        "#loanofficer",
+        "#homebuying"
+      ],
+      "hook_tag": "Título y Cierre",
+      "hook": "Cambios no registrados en fideicomisos están frenando aprobaciones antes del cierre.",
+      "what_happened_heading": "Inconsistencias en registros frenan la titularidad",
+      "what_happened": "Angel Booth de PRC destacó los retrasos constantes de título causados por fideicomisos complejos y escrituras no registradas. Estas inconsistencias frenan la liquidación y generan obstáculos de última hora antes de firmar el cierre.",
+      "breakdown": [
+        {
+          "heading": "Transferencias ocultas generan fallas en el título",
+          "body": "Los clientes suelen mover propiedades a un fideicomiso sin avisar a su administrador, creando registros contradictorios que bloquean un título limpio."
+        },
+        {
+          "heading": "Documentación del fideicomiso ausente al inicio",
+          "body": "El asesor no puede aprobar el título si faltan enmiendas firmadas o aclaraciones de autoridad del fideicomisario. Esto es lo que cambia cuando el expediente llega a evaluación."
+        },
+        {
+          "heading": "Cuellos de botella aumentan las demoras operativas",
+          "body": "Las empresas de título pierden días resolviendo errores de titularidad que debieron identificarse durante el proceso de pre-solicitud."
+        },
+        {
+          "heading": "Retrasos el día del cierre frenan tu producción",
+          "body": "Resolver problemas a última hora aplaza cierres, frustra clientes y aumenta el riesgo de perder contratos activos."
+        }
+      ],
+      "my_take_heading": "Auditar títulos antes de evaluar evita desastres al cerrar",
+      "my_take": "Los problemas de título raras veces son técnicos; son fallas de comunicación que un buen proceso inicial de recopilación de documentos elimina por completo.",
+      "action_lo": "Pide las escrituras registradas y los certificados de fideicomiso desde la solicitud inicial.",
+      "action_realtor": "Confirma que la titularidad coincida con los registros públicos antes de listar la propiedad.",
+      "cta_question": "¿Tus oficiales de crédito verifican la titularidad del fideicomiso antes de emitir preaprobaciones?"
+    },
+    {
+      "slug": "smart-home-design-infrastructure",
+      "title": "Planificación de infraestructura inteligente desde el diseño original",
+      "source": "HousingWire",
+      "source_url": "https://www.housingwire.com/articles/smart-home-infrastructure-design/",
+      "cover_text": "Cablear casas nuevas desde el inicio ahorra miles",
+      "caption": "Diseñar casas inteligentes desde la construcción le ahorra miles de dólares a los compradores. Según HousingWire, planificar el cableado, la energía y la red durante el diseño inicial reduce drásticamente los costos de remodelación a futuro. Esto es lo que cambia cuando un expediente llega a evaluación: las instalaciones eléctricas posteriores sin permiso pueden causar problemas de tasación más adelante. Integrar la tecnología desde la estructura protege la tasación y satisface a compradores que buscan casas listas para la tecnología. Los oficiales de crédito deben ayudar a financiar opciones tecnológicas del constructor, mientras los agentes inmobiliarios pueden promocionar casas precableadas como activos listos para el futuro.\n\nFuente : https://tinyurl.com/25hcsp8s\n#SafetrustMortgage #MortgageIntelligenceDaily #realestateinvesting #homebuying #realestateagent",
+      "hashtags": [
+        "#SafetrustMortgage",
+        "#MortgageIntelligenceDaily",
+        "#realestateinvesting",
+        "#homebuying",
+        "#realestateagent"
+      ],
+      "hook_tag": "Estrategia de Constructores",
+      "hook": "Instalar tecnología inteligente después sale mucho más caro que al construir.",
+      "what_happened_heading": "Piden a constructores integrar tecnología inteligente desde el inicio",
+      "what_happened": "HousingWire informa que los constructores reducen costos al planificar cableado, energía y red durante el diseño inicial. Integrar infraestructura inteligente desde la estructura evita costosas remodelaciones tras terminar la construcción.",
+      "breakdown": [
+        {
+          "heading": "Cablear al inicio reduce gastos de instalación futuros",
+          "body": "Colocar tuberías y líneas de red de alta capacidad durante la estructura cuesta solo una fracción de hacerlo sobre paredes terminadas."
+        },
+        {
+          "heading": "Las tasaciones otorgan mayor valor a sistemas integrados",
+          "body": "Los sistemas integrados aumentan el valor tasado, mientras que los accesorios añadidos después rara vez recuperan su costo en el avalúo."
+        },
+        {
+          "heading": "La evaluación revisa modificaciones hechas sin permiso",
+          "body": "Esto es lo que cambia cuando el expediente llega a evaluación: el trabajo eléctrico sin permisos crea riesgos de colateral y condiciones en la tasación."
+        },
+        {
+          "heading": "Los compradores exigen viviendas preparadas para el futuro",
+          "body": "El comprador moderno espera conexiones potentes y suficiente capacidad eléctrica ya instaladas al mudarse a su nueva casa."
+        }
+      ],
+      "my_take_heading": "La tecnología integrada en la estructura genera valor duradero",
+      "my_take": "La tecnología inteligente ya no es un lujo estético; es infraestructura básica que afecta directamente el valor de la propiedad y la rapidez de reventa.",
+      "action_lo": "Muestra a los compradores de casas nuevas cómo financiar los paquetes de tecnología del constructor.",
+      "action_realtor": "Destaca el precableado inteligente como un beneficio exclusivo en la venta de tus propiedades.",
+      "cta_question": "¿Los constructores en tu zona incluyen la infraestructura tecnológica dentro del costo base?"
+    },
+    {
+      "slug": "housing-freeze-seller-lock-in",
+      "title": "El alza de tasas estanca a los vendedores",
+      "source": "CNBC",
+      "source_url": "https://www.cnbc.com/2026/11/23/housing-market-real-estate-economy.html",
+      "cover_text": "El alza de tasas congeló los inventarios",
+      "caption": "El alza repentina de tasas dejó a los dueños atrapados en sus casas actuales. CNBC reporta que el fuerte aumento de las tasas hipotecarias en septiembre congeló aún más el mercado. Esto es lo que cambia cuando un expediente llega a evaluación: las tasas elevadas empujan la relación deuda-ingreso (DTI) al límite permitido. Depender solo de refinanciamientos o bajas de tasa es una mala estrategia con este inventario estancado. Los oficiales de crédito deben centrarse en herramientas de reducción temporales (buydowns), mientras que los agentes inmobiliarios deben buscar clientes movidos por cambios de vida y no por el momento perfecto del mercado.\n\nFuente : https://tinyurl.com/2a93slum\n#SafetrustMortgage #MortgageIntelligenceDaily #mortgagerates #housingmarket #loanofficer",
+      "hashtags": [
+        "#SafetrustMortgage",
+        "#MortgageIntelligenceDaily",
+        "#mortgagerates",
+        "#housingmarket",
+        "#loanofficer"
+      ],
+      "hook_tag": "Dinámica del Mercado",
+      "hook": "Las altas tasas mantienen a los dueños retenidos en sus hipotecas.",
+      "what_happened_heading": "El alza de tasas de septiembre congela el mercado inmobiliario",
+      "what_happened": "El repentino aumento de las tasas hipotecarias en septiembre provocó un estancamiento profundo en el sector inmobiliario. CNBC reporta que esta alza detuvo la actividad de compradores, vendedores y la economía en general.",
+      "breakdown": [
+        {
+          "heading": "El impacto en tasas paraliza a potenciales vendedores",
+          "body": "Los propietarios con tasas de interés bajas no están dispuestos a vender para cambiar por una tasa de mercado mucho más alta."
+        },
+        {
+          "heading": "La falta de inventario mantiene los precios elevados",
+          "body": "La escasez de casas en venta impide que los precios bajen para ajustarse a la capacidad real de compra de la gente."
+        },
+        {
+          "heading": "Los asesores se adaptan a límites de deuda strictly",
+          "body": "Esto es lo que cambia cuando el expediente llega a evaluación: las tasas altas llevan la relación deuda-ingreso (DTI) al máximo permitido."
+        },
+        {
+          "heading": "La baja en transacciones golpea a toda la industria",
+          "body": "Menos ventas reducen los ingresos de prestamistas, empresas de título y agencias inmobiliarias por igual."
+        }
+      ],
+      "my_take_heading": "El inventario estancado exige propuestas de valor más allá de la tasa",
+      "my_take": "Esperar a que bajen las tasas no es una estrategia de crecimiento; los equipos exitosos crean oportunidades enfocándose en los eventos de vida de los clientes.",
+      "action_lo": "Presenta estrategias de reducción de tasa (buydowns) para bajar el pago mensual de compradores estancados.",
+      "action_realtor": "Enfócate en vendedores que necesitan mudarse por razones personales más que por especular con la tasa.",
+      "cta_question": "¿Cómo está adaptando tu equipo la estrategia mientras las altas tasas frenan el inventario?"
+    },
+    {
+      "slug": "economic-spillover-frozen-market",
+      "title": "El congelamiento inmobiliario afecta el crecimiento económico general",
+      "source": "CNBC",
+      "source_url": "https://www.cnbc.com/2026/11/23/housing-market-real-estate-economy.html",
+      "cover_text": "El estancamiento inmobiliario golpea a la economía",
+      "caption": "El mercado inmobiliario congelado está afectando gravemente al resto de la economía. CNBC detalla cómo el alza de tasas de septiembre frenó la demanda de los compradores y desaceleró el impulso económico general. Esto es lo que cambia cuando un expediente llega a evaluación: el asesor verifica con lupa la estabilidad de ingresos, ya que la fricción económica afecta las comprobaciones de empleo. Cuando caen las ventas de casas, el gasto en remodelaciones y comercio cae de inmediato. Los oficiales de crédito deben aprovechar programas de ayuda para la cuota inicial (down payment assistance) para calificar compradores fuera del juego, y los agentes deben guiarlos hacia zonas más accesibles.\n\nFuente : https://tinyurl.com/2a93slum\n#SafetrustMortgage #MortgageIntelligenceDaily #firsttimehomebuyer #housingmarket #mortgagebroker",
+      "hashtags": [
+        "#SafetrustMortgage",
+        "#MortgageIntelligenceDaily",
+        "#firsttimehomebuyer",
+        "#housingmarket",
+        "#mortgagebroker"
+      ],
+      "hook_tag": "Impacto Económico",
+      "hook": "El freno en ventas de casas golpea el gasto del consumidor.",
+      "what_happened_heading": "El aumento de tasas enfrió la capacidad de compra",
+      "what_happened": "CNBC reporta que la subida de tasas hipotecarias de septiembre generó un grave estancamiento en todo el sector inmobiliario. Esta falta de actividad se está trasladando directamente al gasto del consumidor y a la economía nacional.",
+      "breakdown": [
+        {
+          "heading": "La capacidad de compra enfrenta fuertes barreras",
+          "body": "El rápido aumento de las tasas redujo el poder adquisitivo, dejando fuera del mercado local a compradores que antes calificaban."
+        },
+        {
+          "heading": "El gasto vinculado a la vivienda cae drásticamente",
+          "body": "La disminución en ventas de casas frena directamente el consumo en remodelaciones, muebles y servicios de mudanza."
+        },
+        {
+          "heading": "Las guías de evaluación exigen mayor verificación de ingresos",
+          "body": "Esto es lo que cambia cuando el expediente llega a evaluación: la verificación de estabilidad laboral es vital cuando la desaceleración afecta los ingresos del cliente."
+        },
+        {
+          "heading": "La menor actividad obliga a ajustar los negocios",
+          "body": "El menor volumen de cierres exige a los profesionales diversificar sus fuentes de ingresos y optimizar sus costos operativos."
+        }
+      ],
+      "my_take_heading": "El freno del sector inmobiliario impacta más allá de las hipotecas",
+      "my_take": "Las viviendas impulsan la economía real; cuando el mercado inmobiliario se frena, el gasto del consumidor y la creación de empleo se detienen de inmediato.",
+      "action_lo": "Precalifica compradores usando ayuda para el enganche (down payment assistance) para contrarrestar la baja capacidad de pago.",
+      "action_realtor": "Ayuda a tus clientes a enfocarse en viviendas de nivel inicial y zonas en crecimiento.",
+      "cta_question": "¿Qué pasos estás tomando para proteger tu volumen de préstamos ante esta desaceleración económica?"
+    }
   ]
 }
