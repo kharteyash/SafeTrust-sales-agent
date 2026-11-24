@@ -1,342 +1,172 @@
 {
   "carousels": [
     {
-      "slug": "reverse-title- vesting-friction",
-      "title": "Title operations face trust vesting delays",
-      "source": "HousingWire",
-      "source_url": "https://www.housingwire.com/articles/reverse-mortgage-title-risks/",
-      "cover_text": "Title errors are killing deals quietly",
-      "caption": "Missing trust documents are quietly stalling closing tables across the country. Angel Booth of PRC warns that unrecorded deed changes and trust vesting mismatches create massive friction in title operations. When borrowers transfer titles without updating records, underwriters hit a hard stop. Here is what this changes when a file hits underwriting: title clearance gets delayed by weeks unless LOs pull vesting documents early. Loan officers must review trust certificates at application, while realtors need to verify deed names before writing offers. Fixing intake stops settlement bottlenecks cold.\n\nSource : https://tinyurl.com/225bqdp9\n#SafetrustMortgage #MortgageIntelligenceDaily #mortgagebroker #loanofficer #homebuying",
+      "slug": "zero-down-fha-mortgages-bill",
+      "title": "Zero-Down FHA Mortgages Get New Look Under Congressional Bill",
+      "source": "National Mortgage Professional",
+      "source_url": "https://nationalmortgageprofessional.com/news/zero-down-fha-mortgages-get-new-look-under-congressional-bill",
+      "cover_text": "Zero-down FHA loans are back on Capitol Hill",
+      "caption": "Bipartisan legislation is challenging the long-standing belief that zero-down FHA loans invite unacceptable default risk. Reps. Young Kim and Nikema Williams introduced the Housing Process Parity Act to study how zero-down financing performs against standard 3.5 percent down loans. From an underwriting standpoint, equity at closing has never been a guarantee against default; income stability and residual income (money left after monthly bills) are what actually keep loans performing. If this bill leads to policy changes, lenders will rely heavily on automated underwriting systems and overlay rules to manage exposure. LOs and realtors who prepare their pipelines now will win early market share when low-barrier options expand.\n\nSource : https://tinyurl.com/22e2kb73\n#SafetrustMortgage #MortgageIntelligenceDaily #mortgagelending #firsttimehomebuyer #fhaloan",
+      "hashtags": [
+        "#SafetrustMortgage",
+        "#MortgageIntelligenceDaily",
+        "#mortgagelending",
+        "#firsttimehomebuyer",
+        "#fhaloan"
+      ],
+      "hook_tag": "Regulatory shift",
+      "hook": "Zero down payment FHA loans will not trigger a subprime crash.",
+      "what_happened_heading": "Bipartisan bill targets minimum down payments",
+      "what_happened": "Lawmakers introduced a bipartisan bill directing the government to study zero-down FHA mortgages. The goal is evaluating whether qualified buyers actually carry higher default risk without cash down.",
+      "breakdown": [
+        {
+          "heading": "Down payment myths busted",
+          "body": "Research suggests qualified buyers with zero down do not default significantly more than those putting down 3.5 percent."
+        },
+        {
+          "heading": "The underwriter reality check",
+          "body": "Here's what this actually changes when a file hits underwriting: automated underwriting engines will demand tighter residual income (cash left over after paying all monthly debts) checks."
+        },
+        {
+          "heading": "Overlays will control risk",
+          "body": "Servicers will likely add credit score overlays (lender-specific requirements stricter than standard agency guidelines) to prevent early payment defaults on zero-down files."
+        },
+        {
+          "heading": "Opening locked purchase volume",
+          "body": "Removing the 3.5 percent barrier unlocks renters who have strong income and credit but lack liquid cash reserves for closing."
+        }
+      ],
+      "my_take_heading": "Skin in the game is an outdated metric",
+      "my_take": "Underwriting performance is driven by cash flow and reserve capacity, not whether a borrower scraped together 3.5 percent at closing.",
+      "action_lo": "Audit your database for high-income renters who stopped shopping due to down payment constraints.",
+      "action_realtor": "Re-engage buyers who paused their search due to saved cash limitations rather than monthly payment affordability.",
+      "cta_question": "Would your leadership team approve zero-down FHA originations without adding restrictive credit score overlays?"
+    },
+    {
+      "slug": "pennymac-expands-second-lien-interest-only",
+      "title": "Pennymac Expands Second-Lien Program With Interest-Only Option",
+      "source": "National Mortgage Professional",
+      "source_url": "https://nationalmortgageprofessional.com/news/pennymac-expands-second-lien-program-interest-only-option",
+      "cover_text": "Interest-only second liens are expanding fast",
+      "caption": "Pennymac just expanded its closed-end second mortgage program to include a 10-year interest-only payment option and lower credit score requirements for applications dated November 20 onward. Homeowners sitting on record home equity refuse to touch their 3 percent first mortgages, making junior liens the fastest-growing sector in mortgage origination. But underwriters won't just look at the lower interest-only payment. When evaluating these files, underwriters stress-test debt-to-income ratios against fully amortized principal and interest figures to prevent payment shock at year ten. High-producing LOs and realtors must master these structures to unlock client equity without destroying their existing low-rate first mortgages.\n\nSource : https://tinyurl.com/2b55dyqu\n#SafetrustMortgage #MortgageIntelligenceDaily #mortgagebroker #homeequity #loanofficer",
       "hashtags": [
         "#SafetrustMortgage",
         "#MortgageIntelligenceDaily",
         "#mortgagebroker",
-        "#loanofficer",
-        "#homebuying"
+        "#homeequity",
+        "#loanofficer"
       ],
-      "hook_tag": "Title & Settlement",
-      "hook": "Unrecorded trust updates are stalling approvals before closing day.",
-      "what_happened_heading": "Record mismatches derail reverse title workflow",
-      "what_happened": "Angel Booth from PRC highlighted recurring title delays driven by unrecorded borrower deed changes and complex trust vesting. These record mismatches stall settlement operations and create last-minute closing hurdles across the industry.",
+      "hook_tag": "Product expansion",
+      "hook": "Interest-only second mortgages are returning to protect low primary rates.",
+      "what_happened_heading": "Pennymac adds interest-only payment structures",
+      "what_happened": "Pennymac expanded its closed-end second mortgage program by adding a 10-year interest-only option and lowering credit score minimums. The changes apply to loan applications dated November 20 or later.",
       "breakdown": [
         {
-          "heading": "Hidden deed transfers create title defects",
-          "body": "Borrowers frequently transfer property into trusts without notifying their servicer, creating conflicting public records that block clean title."
+          "heading": "Preserving low first mortgages",
+          "body": "Borrowers want to tap home equity without refinancing their sub-four percent primary mortgage rates into current market levels."
         },
         {
-          "heading": "Trust documentation missing at submission",
-          "body": "Underwriters cannot clear title conditions when trust agreements lack signed amendments or clear trustee authority definitions. Here's what this actually changes when a file hits underwriting."
+          "heading": "The underwriter reality check",
+          "body": "Here's what this actually changes when a file hits underwriting: underwriters must calculate DTI (how much of your income goes to debt) using fully amortized payments, not just IO amounts."
         },
         {
-          "heading": "Settlement operational bottlenecks compound delays",
-          "body": "Title companies spend extra days reconciling vesting errors that should have been identified during pre-application processing."
+          "heading": "Managing future payment shock",
+          "body": "Ten-year interest-only windows offer lower initial payments, but underwriters scrutinize future recast risk when principal repayment kicks in."
         },
         {
-          "heading": "Closing day delays hurt pipeline velocity",
-          "body": "Late title fixes push back closing dates, frustrating clients and increasing fallout risk for active files."
+          "heading": "Lowering credit score barriers",
+          "body": "Lowering credit score criteria broadens access, making second liens the primary vehicle for equity extraction in high-rate environments."
         }
       ],
-      "my_take_heading": "Pre-underwriting title audits prevent closing disasters",
-      "my_take": "Title issues are rarely technical errors; they are communication breakdowns that proper upfront intake eliminates completely.",
-      "action_lo": "Request recorded deeds and trust certificates during the initial loan application.",
-      "action_realtor": "Confirm property ownership vesting matches public records before listing estate properties.",
-      "cta_question": "Are your loan officers clearing title vesting before issuing pre-approvals?"
+      "my_take_heading": "Junior liens are replacing cash-out refis",
+      "my_take": "Second liens are no longer niche consolidation tools; they are the primary mechanism keeping mortgage originators solvent today.",
+      "action_lo": "Run pipeline reports to identify past clients with massive equity who refuse to refinance their low primary rate.",
+      "action_realtor": "Partner with lenders offering second-lien options to help clients fund renovations instead of searching for replacement homes.",
+      "cta_question": "Are your loan officers actively presenting second liens, or are they still waiting for cash-out refis to return?"
     },
     {
-      "slug": "smart-home-design-infrastructure",
-      "title": "Planning smart infrastructure during original design",
-      "source": "HousingWire",
-      "source_url": "https://www.housingwire.com/articles/smart-home-infrastructure-design/",
-      "cover_text": "Pre-wiring new builds saves thousands later",
-      "caption": "Building smart infrastructure upfront saves buyers thousands compared to retrofitting later. According to HousingWire, planning wiring, power, and network capacity during initial design slashes long-term home improvement costs. Here is what this changes when a file hits underwriting: unpermitted post-closing electrical retrofits can lead to valuation hiccups down the line. Upfront structural integration protects appraisal values and satisfies buyer demand for tech-ready homes. Loan officers should help buyers finance builder tech options, while realtors can market pre-wired homes as future-proof assets.\n\nSource : https://tinyurl.com/25hcsp8s\n#SafetrustMortgage #MortgageIntelligenceDaily #realestateinvesting #homebuying #realestateagent",
+      "slug": "candid-launches-autonomous-ai-lo-agent",
+      "title": "CANDID Launches AI Agent That Can Reply to Borrowers Without LO Approval",
+      "source": "National Mortgage Professional",
+      "source_url": "https://nationalmortgageprofessional.com/news/candid-launches-ai-agent-can-reply-borrowers-without-lo-approval",
+      "cover_text": "AI is issuing pre-approvals without humans",
+      "caption": "CANDID has launched a beta AI agent capable of generating mortgage scenarios and issuing pre-approval letters without human loan officer intervention. While instant borrower responses sound great for converting leads, autonomous pre-approval issuance is a dangerous gamble. From an underwriting perspective, AI cannot accurately parse complex tax returns, variable income, or non-traditional assets without human review. If an automated pre-approval collapses in underwriting, the fallout destroys borrower trust and burns real estate referral relationships. Smart mortgage executives will use AI for administrative tasks like scheduling, while keeping experienced underwriters and LOs in control of pre-approval approvals.\n\nSource : https://tinyurl.com/2dlfkd9x\n#SafetrustMortgage #MortgageIntelligenceDaily #mortgagelending #loanofficer #realestateagent",
+      "hashtags": [
+        "#SafetrustMortgage",
+        "#MortgageIntelligenceDaily",
+        "#mortgagelending",
+        "#loanofficer",
+        "#realestateagent"
+      ],
+      "hook_tag": "AI innovation",
+      "hook": "Sending automated pre-approvals without human review invites massive liability.",
+      "what_happened_heading": "CANDID releases autonomous mortgage AI agent",
+      "what_happened": "Technology vendor CANDID released an AI messaging agent in beta that communicates with borrowers without human loan officer approval. The software can automatically issue pre-approval letters, generate fee scenarios, and schedule appointments.",
+      "breakdown": [
+        {
+          "heading": "Instant speed vs risk",
+          "body": "Removing human bottlenecks speeds up response times for prospective buyers and referral partners during weekend house hunting."
+        },
+        {
+          "heading": "The underwriter reality check",
+          "body": "Here's what this actually changes when a file hits underwriting: automated systems cannot reliably calculate complex income like self-employment or variable bonus structures."
+        },
+        {
+          "heading": "Pre-approval liability spikes",
+          "body": "Issuing pre-approval letters without compliance oversight creates legal exposure if income verification fails during formal underwriting review."
+        },
+        {
+          "heading": "Referral relationship danger",
+          "body": "Bad automated pre-approvals burn real estate agent trust instantly when deals fall apart inside the formal underwriting window."
+        }
+      ],
+      "my_take_heading": "Speed cannot replace underwriting precision",
+      "my_take": "AI should automate administrative grunt work, but issuing unreviewed pre-approval letters trades short-term speed for massive repurchase and reputational risk.",
+      "action_lo": "Restrict automated AI outputs to appointment setting and basic info gathering while maintaining manual review on pre-approvals.",
+      "action_realtor": "Verify whether pre-approval letters from tech-forward lenders underwent actual human income verification before making non-contingent offers.",
+      "cta_question": "Would you allow an unmonitored AI agent to issue pre-approval letters to your top real estate partners?"
+    },
+    {
+      "slug": "newrez-survey-self-employed-buyers-delaying",
+      "title": "Newrez Survey Finds Self-Employed Buyers Delaying Mortgages",
+      "source": "National Mortgage Professional",
+      "source_url": "https://nationalmortgageprofessional.com/news/newrez-survey-finds-self-employed-buyers-delaying-mortgages",
+      "cover_text": "Self-employed buyers are sitting out needlessly",
+      "caption": "A new survey from Newrez shows self-employed borrowers are delaying home purchases because they mistakenly think they cannot qualify for a mortgage. Business owners often assume tax write-offs destroy their borrowing power. In reality, standard underwriting rules allow us to add back non-cash expenses like depreciation and amortization to tax return income. Furthermore, alternative documentation options like bank statement loans (financing evaluated using bank deposit records) exist specifically for this market. Loan officers and real estate agents are leaving substantial transaction volume on the table by not proactively educating self-employed clients on how income is actually evaluated during loan approval.\n\nSource : https://tinyurl.com/2yg7y2q6\n#SafetrustMortgage #MortgageIntelligenceDaily #realestateinvesting #mortgagebroker #homebuying",
       "hashtags": [
         "#SafetrustMortgage",
         "#MortgageIntelligenceDaily",
         "#realestateinvesting",
-        "#homebuying",
-        "#realestateagent"
-      ],
-      "hook_tag": "Builder Strategy",
-      "hook": "Retrofitting smart tech costs far more than building it early.",
-      "what_happened_heading": "Builders urged to integrate smart tech early",
-      "what_happened": "HousingWire reports that homebuilders can significantly lower costs by planning wiring, power, and network capacity during initial design. Integrating smart infrastructure upfront prevents expensive retrofitting work after construction finishes.",
-      "breakdown": [
-        {
-          "heading": "Early wiring cuts future installation expenses",
-          "body": "Running conduits and high-capacity network lines during framing costs a fraction of post-drywall retrofits."
-        },
-        {
-          "heading": "Appraisals value built-in infrastructure higher",
-          "body": "Integrated systems add recognized property value, whereas aftermarket add-ons rarely yield dollar-for-dollar appraisal gains."
-        },
-        {
-          "heading": "Underwriting scrutinizes unpermitted home modifications",
-          "body": "Here's what this actually changes when a file hits underwriting: unpermitted electrical work done later creates collateral risk and appraisal conditions."
-        },
-        {
-          "heading": "Buyer demand shifts toward tech-ready properties",
-          "body": "Modern buyers expect heavy network backbones and electrical capacity already installed at move-in."
-        }
-      ],
-      "my_take_heading": "Structural technology integration builds long-term home value",
-      "my_take": "Smart technology is no longer a cosmetic upgrade; it is core infrastructure that affects property value and resale speed.",
-      "action_lo": "Educate new-construction buyers on financing options that cover builder tech packages.",
-      "action_realtor": "Highlight pre-wired smart capacity as a premium selling feature in new listings.",
-      "cta_question": "Are builders in your market factoring tech capacity into baseline construction costs?"
-    },
-    {
-      "slug": "housing-freeze-seller-lock-in",
-      "title": "Rate spikes lock sellers in place",
-      "source": "CNBC",
-      "source_url": "https://www.cnbc.com/2026/11/23/housing-market-real-estate-economy.html",
-      "cover_text": "September rate spikes froze seller inventory",
-      "caption": "A sudden rate spike has locked existing homeowners in place, squeezing housing supply. CNBC reports that a sharp mortgage rate increase in September pushed an already chilly market into a deep freeze. Here is what this changes when a file hits underwriting: higher rates push DTI (how much of your income goes to debt) right up against maximum qualifying limits. Inventory gridlock means surviving on refinances or rate drops is a losing strategy. Loan officers must focus on payment structure tools like buydowns, while realtors should target clients driven by life events rather than market timing.\n\nSource : https://tinyurl.com/2a93slum\n#SafetrustMortgage #MortgageIntelligenceDaily #mortgagerates #housingmarket #loanofficer",
-      "hashtags": [
-        "#SafetrustMortgage",
-        "#MortgageIntelligenceDaily",
-        "#mortgagerates",
-        "#housingmarket",
-        "#loanofficer"
-      ],
-      "hook_tag": "Market Dynamics",
-      "hook": "Rising rates are keeping existing homeowners locked into current mortgages.",
-      "what_happened_heading": "September rate spike deepens real estate freeze",
-      "what_happened": "A sharp spike in mortgage rates in September pushed the real estate sector into a deep freeze. CNBC reports this sudden rate increase has frozen market activity for buyers, sellers, and the broader economy.",
-      "breakdown": [
-        {
-          "heading": "Rate shock paralyzes prospective home sellers",
-          "body": "Homeowners holding lower interest rates are unwilling to trade up to higher market rates."
-        },
-        {
-          "heading": "Inventory shortages maintain upward pressure on prices",
-          "body": "Lack of listing volume prevents housing prices from adjusting downward to match lower buyer affordability."
-        },
-        {
-          "heading": "Underwriters adapt to tighter debt limits",
-          "body": "Here's what this actually changes when a file hits underwriting: higher rate environments push DTI (how much of your income goes to debt) to maximum limits."
-        },
-        {
-          "heading": "Transaction volume drop impacts market participants",
-          "body": "Lower unit volume compresses revenues for lenders, title companies, and real estate brokerages alike."
-        }
-      ],
-      "my_take_heading": "Inventory gridlock requires non-rate value propositions",
-      "my_take": "Waiting for rate cuts is not a growth strategy; winning teams create transaction opportunities through life-event triggers.",
-      "action_lo": "Offer detailed buydown strategies to reduce initial monthly payments for locked-in buyers.",
-      "action_realtor": "Target move-by-necessity sellers who care more about life transitions than rate lock-in.",
-      "cta_question": "How is your team pivoting strategy while interest rate lock-in restricts inventory?"
-    },
-    {
-      "slug": "economic-spillover-frozen-market",
-      "title": "Housing freeze impacts broader economic growth",
-      "source": "CNBC",
-      "source_url": "https://www.cnbc.com/2026/11/23/housing-market-real-estate-economy.html",
-      "cover_text": "Real estate freeze ripples through economy",
-      "caption": "The frozen housing market is spreading far beyond real estate into the broader economy. CNBC details how September's rate spike shut down buyer demand and slowed overall economic momentum. Here is what this changes when a file hits underwriting: underwriters are double-checking income stability as economic friction impacts employment verification. When home sales drop, home improvement and retail spending drop right behind them. Loan officers need to leverage down payment assistance to get sidelined buyers qualified, while realtors must steer buyers toward budget-friendly neighborhoods.\n\nSource : https://tinyurl.com/2a93slum\n#SafetrustMortgage #MortgageIntelligenceDaily #firsttimehomebuyer #housingmarket #mortgagebroker",
-      "hashtags": [
-        "#SafetrustMortgage",
-        "#MortgageIntelligenceDaily",
-        "#firsttimehomebuyer",
-        "#housingmarket",
-        "#mortgagebroker"
-      ],
-      "hook_tag": "Economic Impact",
-      "hook": "Stalled home sales hit consumer spending and broader economic health.",
-      "what_happened_heading": "Mortgage rate spike chills buyer affordability",
-      "what_happened": "CNBC reports that September's mortgage rate spike created severe market gridlock across the housing sector. This frozen activity is spilling over into consumer spending and national economic performance.",
-      "breakdown": [
-        {
-          "heading": "Buyer affordability hits severe structural hurdles",
-          "body": "Rapid rate increases sharply cut purchasing power, pricing qualified buyers out of local housing markets."
-        },
-        {
-          "heading": "Ancillary housing spending drops significantly",
-          "body": "Reduced home sales directly lower consumer spending on renovations, furnishings, and moving services."
-        },
-        {
-          "heading": "Underwriting guidelines enforce strict affordability checks",
-          "body": "Here's what this actually changes when a file hits underwriting: verification of employment stability becomes crucial as broader economic slowing impacts borrower income consistency."
-        },
-        {
-          "heading": "Market activity requires strategic compensation models",
-          "body": "Declining transaction counts force industry professionals to diversify income streams and streamline overhead."
-        }
-      ],
-      "my_take_heading": "Housing market drops ripple far beyond mortgages",
-      "my_take": "Housing drives the real economy; when real estate freezes, consumer spending and job growth stall next.",
-      "action_lo": "Cross-qualify buyers with down payment assistance programs to offset affordability loss.",
-      "action_realtor": "Help buyers focus on entry-level properties and emerging neighborhood markets.",
-      "cta_question": "What steps are you taking to protect loan volume against economic headwinds?"
-    }
-  ],
-  "carousels_es": [
-    {
-      "slug": "reverse-title- vesting-friction",
-      "title": "Las operaciones de título enfrentan demoras por fideicomisos",
-      "source": "HousingWire",
-      "source_url": "https://www.housingwire.com/articles/reverse-mortgage-title-risks/",
-      "cover_text": "Errores de título están cancelando negocios en silencio",
-      "caption": "Documentos de fideicomiso faltantes están frenando cierres en todo el país. Angel Booth de PRC advierte que los cambios de escritura no registrados causan graves problemas en las operaciones de título. Cuando los prestatarios transfieren títulos sin actualizar registros, el asesor frena todo el proceso. Esto es lo que cambia cuando el archivo llega a evaluación: la liberación del título se retrasa semanas a menos que revises la titularidad desde el inicio. Los oficiales de crédito deben verificar los certificados de fideicomiso al recibir la solicitud, mientras que los agentes inmobiliarios deben confirmar los nombres en la escritura antes de redactar ofertas. Corregir la entrada de datos elimina por completo los cuellos de botella en el cierre.\n\nFuente : https://tinyurl.com/225bqdp9\n#SafetrustMortgage #MortgageIntelligenceDaily #mortgagebroker #loanofficer #homebuying",
-      "hashtags": [
-        "#SafetrustMortgage",
-        "#MortgageIntelligenceDaily",
         "#mortgagebroker",
-        "#loanofficer",
         "#homebuying"
       ],
-      "hook_tag": "Título y Cierre",
-      "hook": "Cambios no registrados en fideicomisos están frenando aprobaciones antes del cierre.",
-      "what_happened_heading": "Inconsistencias en registros frenan la titularidad",
-      "what_happened": "Angel Booth de PRC destacó los retrasos constantes de título causados por fideicomisos complejos y escrituras no registradas. Estas inconsistencias frenan la liquidación y generan obstáculos de última hora antes de firmar el cierre.",
+      "hook_tag": "Market opportunity",
+      "hook": "Self-employed buyers are delaying purchases due to outdated qualification myths.",
+      "what_happened_heading": "Newrez survey reveals massive self-employed misconceptions",
+      "what_happened": "A new survey from Newrez revealed that self-employed business owners are delaying home purchases due to false qualification fears. Many assume their write-offs and tax structure disqualify them from mortgage approval.",
       "breakdown": [
         {
-          "heading": "Transferencias ocultas generan fallas en el título",
-          "body": "Los clientes suelen mover propiedades a un fideicomiso sin avisar a su administrador, creando registros contradictorios que bloquean un título limpio."
+          "heading": "The qualification perception gap",
+          "body": "Small business owners frequently write down income to reduce taxes, mistakenly believing this completely eliminates mortgage options."
         },
         {
-          "heading": "Documentación del fideicomiso ausente al inicio",
-          "body": "El asesor no puede aprobar el título si faltan enmiendas firmadas o aclaraciones de autoridad del fideicomisario. Esto es lo que cambia cuando el expediente llega a evaluación."
+          "heading": "Non-QM products exist",
+          "body": "Bank statement loans and Non-QM (non-qualified mortgage loans that do not follow standard agency rules) allow qualification based on cash flow."
         },
         {
-          "heading": "Cuellos de botella aumentan las demoras operativas",
-          "body": "Las empresas de título pierden días resolviendo errores de titularidad que debieron identificarse durante el proceso de pre-solicitud."
+          "heading": "The underwriter reality check",
+          "body": "Here's what this actually changes when a file hits underwriting: underwriters add back non-cash depreciation expenses to standard tax returns to boost income."
         },
         {
-          "heading": "Retrasos el día del cierre frenan tu producción",
-          "body": "Resolver problemas a última hora aplaza cierres, frustra clientes y aumenta el riesgo de perder contratos activos."
+          "heading": "Unlocking dormant volume",
+          "body": "Educating self-employed borrowers targets a high-intent segment of buyers who have money but lack clear lending guidance."
         }
       ],
-      "my_take_heading": "Auditar títulos antes de evaluar evita desastres al cerrar",
-      "my_take": "Los problemas de título raras veces son técnicos; son fallas de comunicación que un buen proceso inicial de recopilación de documentos elimina por completo.",
-      "action_lo": "Pide las escrituras registradas y los certificados de fideicomiso desde la solicitud inicial.",
-      "action_realtor": "Confirma que la titularidad coincida con los registros públicos antes de listar la propiedad.",
-      "cta_question": "¿Tus oficiales de crédito verifican la titularidad del fideicomiso antes de emitir preaprobaciones?"
-    },
-    {
-      "slug": "smart-home-design-infrastructure",
-      "title": "Planificación de infraestructura inteligente desde el diseño original",
-      "source": "HousingWire",
-      "source_url": "https://www.housingwire.com/articles/smart-home-infrastructure-design/",
-      "cover_text": "Cablear casas nuevas desde el inicio ahorra miles",
-      "caption": "Diseñar casas inteligentes desde la construcción le ahorra miles de dólares a los compradores. Según HousingWire, planificar el cableado, la energía y la red durante el diseño inicial reduce drásticamente los costos de remodelación a futuro. Esto es lo que cambia cuando un expediente llega a evaluación: las instalaciones eléctricas posteriores sin permiso pueden causar problemas de tasación más adelante. Integrar la tecnología desde la estructura protege la tasación y satisface a compradores que buscan casas listas para la tecnología. Los oficiales de crédito deben ayudar a financiar opciones tecnológicas del constructor, mientras los agentes inmobiliarios pueden promocionar casas precableadas como activos listos para el futuro.\n\nFuente : https://tinyurl.com/25hcsp8s\n#SafetrustMortgage #MortgageIntelligenceDaily #realestateinvesting #homebuying #realestateagent",
-      "hashtags": [
-        "#SafetrustMortgage",
-        "#MortgageIntelligenceDaily",
-        "#realestateinvesting",
-        "#homebuying",
-        "#realestateagent"
-      ],
-      "hook_tag": "Estrategia de Constructores",
-      "hook": "Instalar tecnología inteligente después sale mucho más caro que al construir.",
-      "what_happened_heading": "Piden a constructores integrar tecnología inteligente desde el inicio",
-      "what_happened": "HousingWire informa que los constructores reducen costos al planificar cableado, energía y red durante el diseño inicial. Integrar infraestructura inteligente desde la estructura evita costosas remodelaciones tras terminar la construcción.",
-      "breakdown": [
-        {
-          "heading": "Cablear al inicio reduce gastos de instalación futuros",
-          "body": "Colocar tuberías y líneas de red de alta capacidad durante la estructura cuesta solo una fracción de hacerlo sobre paredes terminadas."
-        },
-        {
-          "heading": "Las tasaciones otorgan mayor valor a sistemas integrados",
-          "body": "Los sistemas integrados aumentan el valor tasado, mientras que los accesorios añadidos después rara vez recuperan su costo en el avalúo."
-        },
-        {
-          "heading": "La evaluación revisa modificaciones hechas sin permiso",
-          "body": "Esto es lo que cambia cuando el expediente llega a evaluación: el trabajo eléctrico sin permisos crea riesgos de colateral y condiciones en la tasación."
-        },
-        {
-          "heading": "Los compradores exigen viviendas preparadas para el futuro",
-          "body": "El comprador moderno espera conexiones potentes y suficiente capacidad eléctrica ya instaladas al mudarse a su nueva casa."
-        }
-      ],
-      "my_take_heading": "La tecnología integrada en la estructura genera valor duradero",
-      "my_take": "La tecnología inteligente ya no es un lujo estético; es infraestructura básica que afecta directamente el valor de la propiedad y la rapidez de reventa.",
-      "action_lo": "Muestra a los compradores de casas nuevas cómo financiar los paquetes de tecnología del constructor.",
-      "action_realtor": "Destaca el precableado inteligente como un beneficio exclusivo en la venta de tus propiedades.",
-      "cta_question": "¿Los constructores en tu zona incluyen la infraestructura tecnológica dentro del costo base?"
-    },
-    {
-      "slug": "housing-freeze-seller-lock-in",
-      "title": "El alza de tasas estanca a los vendedores",
-      "source": "CNBC",
-      "source_url": "https://www.cnbc.com/2026/11/23/housing-market-real-estate-economy.html",
-      "cover_text": "El alza de tasas congeló los inventarios",
-      "caption": "El alza repentina de tasas dejó a los dueños atrapados en sus casas actuales. CNBC reporta que el fuerte aumento de las tasas hipotecarias en septiembre congeló aún más el mercado. Esto es lo que cambia cuando un expediente llega a evaluación: las tasas elevadas empujan la relación deuda-ingreso (DTI) al límite permitido. Depender solo de refinanciamientos o bajas de tasa es una mala estrategia con este inventario estancado. Los oficiales de crédito deben centrarse en herramientas de reducción temporales (buydowns), mientras que los agentes inmobiliarios deben buscar clientes movidos por cambios de vida y no por el momento perfecto del mercado.\n\nFuente : https://tinyurl.com/2a93slum\n#SafetrustMortgage #MortgageIntelligenceDaily #mortgagerates #housingmarket #loanofficer",
-      "hashtags": [
-        "#SafetrustMortgage",
-        "#MortgageIntelligenceDaily",
-        "#mortgagerates",
-        "#housingmarket",
-        "#loanofficer"
-      ],
-      "hook_tag": "Dinámica del Mercado",
-      "hook": "Las altas tasas mantienen a los dueños retenidos en sus hipotecas.",
-      "what_happened_heading": "El alza de tasas de septiembre congela el mercado inmobiliario",
-      "what_happened": "El repentino aumento de las tasas hipotecarias en septiembre provocó un estancamiento profundo en el sector inmobiliario. CNBC reporta que esta alza detuvo la actividad de compradores, vendedores y la economía en general.",
-      "breakdown": [
-        {
-          "heading": "El impacto en tasas paraliza a potenciales vendedores",
-          "body": "Los propietarios con tasas de interés bajas no están dispuestos a vender para cambiar por una tasa de mercado mucho más alta."
-        },
-        {
-          "heading": "La falta de inventario mantiene los precios elevados",
-          "body": "La escasez de casas en venta impide que los precios bajen para ajustarse a la capacidad real de compra de la gente."
-        },
-        {
-          "heading": "Los asesores se adaptan a límites de deuda strictly",
-          "body": "Esto es lo que cambia cuando el expediente llega a evaluación: las tasas altas llevan la relación deuda-ingreso (DTI) al máximo permitido."
-        },
-        {
-          "heading": "La baja en transacciones golpea a toda la industria",
-          "body": "Menos ventas reducen los ingresos de prestamistas, empresas de título y agencias inmobiliarias por igual."
-        }
-      ],
-      "my_take_heading": "El inventario estancado exige propuestas de valor más allá de la tasa",
-      "my_take": "Esperar a que bajen las tasas no es una estrategia de crecimiento; los equipos exitosos crean oportunidades enfocándose en los eventos de vida de los clientes.",
-      "action_lo": "Presenta estrategias de reducción de tasa (buydowns) para bajar el pago mensual de compradores estancados.",
-      "action_realtor": "Enfócate en vendedores que necesitan mudarse por razones personales más que por especular con la tasa.",
-      "cta_question": "¿Cómo está adaptando tu equipo la estrategia mientras las altas tasas frenan el inventario?"
-    },
-    {
-      "slug": "economic-spillover-frozen-market",
-      "title": "El congelamiento inmobiliario afecta el crecimiento económico general",
-      "source": "CNBC",
-      "source_url": "https://www.cnbc.com/2026/11/23/housing-market-real-estate-economy.html",
-      "cover_text": "El estancamiento inmobiliario golpea a la economía",
-      "caption": "El mercado inmobiliario congelado está afectando gravemente al resto de la economía. CNBC detalla cómo el alza de tasas de septiembre frenó la demanda de los compradores y desaceleró el impulso económico general. Esto es lo que cambia cuando un expediente llega a evaluación: el asesor verifica con lupa la estabilidad de ingresos, ya que la fricción económica afecta las comprobaciones de empleo. Cuando caen las ventas de casas, el gasto en remodelaciones y comercio cae de inmediato. Los oficiales de crédito deben aprovechar programas de ayuda para la cuota inicial (down payment assistance) para calificar compradores fuera del juego, y los agentes deben guiarlos hacia zonas más accesibles.\n\nFuente : https://tinyurl.com/2a93slum\n#SafetrustMortgage #MortgageIntelligenceDaily #firsttimehomebuyer #housingmarket #mortgagebroker",
-      "hashtags": [
-        "#SafetrustMortgage",
-        "#MortgageIntelligenceDaily",
-        "#firsttimehomebuyer",
-        "#housingmarket",
-        "#mortgagebroker"
-      ],
-      "hook_tag": "Impacto Económico",
-      "hook": "El freno en ventas de casas golpea el gasto del consumidor.",
-      "what_happened_heading": "El aumento de tasas enfrió la capacidad de compra",
-      "what_happened": "CNBC reporta que la subida de tasas hipotecarias de septiembre generó un grave estancamiento en todo el sector inmobiliario. Esta falta de actividad se está trasladando directamente al gasto del consumidor y a la economía nacional.",
-      "breakdown": [
-        {
-          "heading": "La capacidad de compra enfrenta fuertes barreras",
-          "body": "El rápido aumento de las tasas redujo el poder adquisitivo, dejando fuera del mercado local a compradores que antes calificaban."
-        },
-        {
-          "heading": "El gasto vinculado a la vivienda cae drásticamente",
-          "body": "La disminución en ventas de casas frena directamente el consumo en remodelaciones, muebles y servicios de mudanza."
-        },
-        {
-          "heading": "Las guías de evaluación exigen mayor verificación de ingresos",
-          "body": "Esto es lo que cambia cuando el expediente llega a evaluación: la verificación de estabilidad laboral es vital cuando la desaceleración afecta los ingresos del cliente."
-        },
-        {
-          "heading": "La menor actividad obliga a ajustar los negocios",
-          "body": "El menor volumen de cierres exige a los profesionales diversificar sus fuentes de ingresos y optimizar sus costos operativos."
-        }
-      ],
-      "my_take_heading": "El freno del sector inmobiliario impacta más allá de las hipotecas",
-      "my_take": "Las viviendas impulsan la economía real; cuando el mercado inmobiliario se frena, el gasto del consumidor y la creación de empleo se detienen de inmediato.",
-      "action_lo": "Precalifica compradores usando ayuda para el enganche (down payment assistance) para contrarrestar la baja capacidad de pago.",
-      "action_realtor": "Ayuda a tus clientes a enfocarse en viviendas de nivel inicial y zonas en crecimiento.",
-      "cta_question": "¿Qué pasos estás tomando para proteger tu volumen de préstamos ante esta desaceleración económica?"
+      "my_take_heading": "Misinformation is killing your loan pipeline",
+      "my_take": "You are not losing self-employed buyers to high interest rates; you are losing them to their own wrong assumptions about guidelines.",
+      "action_lo": "Host targeted workshops explaining bank statement programs and income add-backs for local business owners and accountants.",
+      "action_realtor": "Screen self-employed clients who paused their search and connect them with originators specializing in non-traditional income documentation.",
+      "cta_question": "What percentage of your team's fall-out is self-employed buyers who gave up before submitting an application?"
     }
   ]
 }
