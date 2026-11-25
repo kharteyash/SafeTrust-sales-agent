@@ -1,342 +1,172 @@
 {
   "carousels": [
     {
-      "slug": "zero-down-fha-mortgages-bill",
-      "title": "Zero-Down FHA Mortgages Get New Look Under Congressional Bill",
-      "source": "National Mortgage Professional",
-      "source_url": "https://nationalmortgageprofessional.com/news/zero-down-fha-mortgages-get-new-look-under-congressional-bill",
-      "cover_text": "Zero-down FHA loans are back on Capitol Hill",
-      "caption": "Bipartisan legislation is challenging the long-standing belief that zero-down FHA loans invite unacceptable default risk. Reps. Young Kim and Nikema Williams introduced the Housing Process Parity Act to study how zero-down financing performs against standard 3.5 percent down loans. From an underwriting standpoint, equity at closing has never been a guarantee against default; income stability and residual income (money left after monthly bills) are what actually keep loans performing. If this bill leads to policy changes, lenders will rely heavily on automated underwriting systems and overlay rules to manage exposure. LOs and realtors who prepare their pipelines now will win early market share when low-barrier options expand.\n\nSource : https://tinyurl.com/22e2kb73\n#SafetrustMortgage #MortgageIntelligenceDaily #mortgagelending #firsttimehomebuyer #fhaloan",
+      "slug": "fhfa-raises-conforming-loan-limit-855400",
+      "title": "FHFA Raises 2027 Conforming Limit to $855,400",
+      "source": "HousingWire",
+      "source_url": "https://www.housingwire.com/articles/fhfa-raises-2027-conforming-loan-limit-855400/",
+      "cover_text": "The jumbo market is shrinking fast",
+      "caption": "The Federal Housing Finance Agency (FHFA) raised the conforming loan limit to $855,400 for 2027. This move keeps more high-balance loans out of the jumbo market. Here is what this changes in underwriting. Converting a file from jumbo to conforming replaces manual underwriting with automated underwriting systems (AUS). Borrowers face lower reserve requirements and more flexible debt-to-income (DTI, how much of your income goes to debt) ratios. Lenders get faster turn times and cleaner investor delivery. As government-sponsored enterprises absorb higher balances, traditional bank jumbo desks will lose market share. Loan officers need to re-screen high-balance pipelines today.\n\nSource : https://tinyurl.com/242v9o9c\n#SafetrustMortgage #MortgageIntelligenceDaily #mortgagerates #housingmarket #loanofficer",
       "hashtags": [
         "#SafetrustMortgage",
         "#MortgageIntelligenceDaily",
-        "#mortgagelending",
-        "#firsttimehomebuyer",
-        "#fhaloan"
+        "#mortgagerates",
+        "#housingmarket",
+        "#loanofficer"
       ],
-      "hook_tag": "Regulatory shift",
-      "hook": "Zero down payment FHA loans will not trigger a subprime crash.",
-      "what_happened_heading": "Bipartisan bill targets minimum down payments",
-      "what_happened": "Lawmakers introduced a bipartisan bill directing the government to study zero-down FHA mortgages. The goal is evaluating whether qualified buyers actually carry higher default risk without cash down.",
+      "hook_tag": "Loan Limits",
+      "hook": "Higher conforming limits shift more loans away from strict jumbo guidelines.",
+      "what_happened_heading": "FHFA pushes conforming cap higher",
+      "what_happened": "The Federal Housing Finance Agency raised the 2027 conforming loan limit to $855,400. This adjustment keeps a larger share of high-balance mortgages out of the jumbo market.",
       "breakdown": [
         {
-          "heading": "Down payment myths busted",
-          "body": "Research suggests qualified buyers with zero down do not default significantly more than those putting down 3.5 percent."
+          "heading": "Jumbo underwriting creates friction",
+          "body": "Jumbo loans usually require manual underwriting, stricter asset verification, and higher reserve requirements. Automated agency systems process higher loan amounts much faster."
         },
         {
-          "heading": "The underwriter reality check",
-          "body": "Here's what this actually changes when a file hits underwriting: automated underwriting engines will demand tighter residual income (cash left over after paying all monthly debts) checks."
+          "heading": "Agency automated underwriting takes over",
+          "body": "Here is what this changes in underwriting. Files moving from jumbo to conforming use automated underwriting systems, reducing reserve demands and easing debt-to-income limits."
         },
         {
-          "heading": "Overlays will control risk",
-          "body": "Servicers will likely add credit score overlays (lender-specific requirements stricter than standard agency guidelines) to prevent early payment defaults on zero-down files."
+          "heading": "Liquidity stays inside GSE channels",
+          "body": "Government-sponsored enterprises absorb higher loan balances, giving lenders better pricing execution. Secondary market desks gain reliable investor demand without non-delegated jumbo delays."
         },
         {
-          "heading": "Opening locked purchase volume",
-          "body": "Removing the 3.5 percent barrier unlocks renters who have strong income and credit but lack liquid cash reserves for closing."
+          "heading": "Borrowers gain flexible qualifying options",
+          "body": "High-balance buyers avoid non-conforming rate surcharges and restrictive bank overlays. Loan officers can clear conditions faster under standardized agency guidelines."
         }
       ],
-      "my_take_heading": "Skin in the game is an outdated metric",
-      "my_take": "Underwriting performance is driven by cash flow and reserve capacity, not whether a borrower scraped together 3.5 percent at closing.",
-      "action_lo": "Audit your database for high-income renters who stopped shopping due to down payment constraints.",
-      "action_realtor": "Re-engage buyers who paused their search due to saved cash limitations rather than monthly payment affordability.",
-      "cta_question": "Would your leadership team approve zero-down FHA originations without adding restrictive credit score overlays?"
+      "my_take_heading": "Conforming limits are replacing traditional jumbo origination",
+      "my_take": "Raising limits is not just index tracking. It effectively nationalizes higher balance loans into agency channels, making traditional bank jumbo programs obsolete for average luxury buyers.",
+      "action_lo": "Review active jumbo pre-approvals to see which files convert to conforming under the new cap.",
+      "action_realtor": "Target move-up sellers who hesitated to buy because jumbo financing felt too restrictive.",
+      "cta_question": "Will higher conforming limits permanently eliminate mid-tier jumbo lending products from regional banks?"
     },
     {
-      "slug": "pennymac-expands-second-lien-interest-only",
-      "title": "Pennymac Expands Second-Lien Program With Interest-Only Option",
+      "slug": "washington-suspends-directors-mortgage-licenses",
+      "title": "Washington Suspends Directors Mortgage Licenses",
       "source": "National Mortgage Professional",
-      "source_url": "https://nationalmortgageprofessional.com/news/pennymac-expands-second-lien-program-interest-only-option",
-      "cover_text": "Interest-only second liens are expanding fast",
-      "caption": "Pennymac just expanded its closed-end second mortgage program to include a 10-year interest-only payment option and lower credit score requirements for applications dated November 20 onward. Homeowners sitting on record home equity refuse to touch their 3 percent first mortgages, making junior liens the fastest-growing sector in mortgage origination. But underwriters won't just look at the lower interest-only payment. When evaluating these files, underwriters stress-test debt-to-income ratios against fully amortized principal and interest figures to prevent payment shock at year ten. High-producing LOs and realtors must master these structures to unlock client equity without destroying their existing low-rate first mortgages.\n\nSource : https://tinyurl.com/2b55dyqu\n#SafetrustMortgage #MortgageIntelligenceDaily #mortgagebroker #homeequity #loanofficer",
+      "source_url": "https://nationalmortgageprofessional.com/news/washington-suspends-directors-mortgage-licenses-leaving-pending-loans-question",
+      "cover_text": "State license suspension halts pending pipeline",
+      "caption": "Washington state regulators suspended Directors Mortgage lending licenses on November 20 and ordered fee refunds for unclosed loans. For home buyers with locked rates, this creates an immediate operational crisis. Here is what this changes in underwriting. Suspended lenders cannot issue closing documents or fund notes. Secondary investors will not buy non-compliant loans. Transferring these files to a new lender means full re-underwriting, new appraisals, and fresh debt-to-income (DTI, how much of your income goes to debt) checks. Fee refunds do not prevent purchase contracts from collapsing. Loan officers and realtors must act quickly to save affected transactions.\n\nSource : https://tinyurl.com/24glwvmt\n#SafetrustMortgage #MortgageIntelligenceDaily #mortgagebroker #loanofficer #realestateagent",
       "hashtags": [
         "#SafetrustMortgage",
         "#MortgageIntelligenceDaily",
         "#mortgagebroker",
-        "#homeequity",
-        "#loanofficer"
-      ],
-      "hook_tag": "Product expansion",
-      "hook": "Interest-only second mortgages are returning to protect low primary rates.",
-      "what_happened_heading": "Pennymac adds interest-only payment structures",
-      "what_happened": "Pennymac expanded its closed-end second mortgage program by adding a 10-year interest-only option and lowering credit score minimums. The changes apply to loan applications dated November 20 or later.",
-      "breakdown": [
-        {
-          "heading": "Preserving low first mortgages",
-          "body": "Borrowers want to tap home equity without refinancing their sub-four percent primary mortgage rates into current market levels."
-        },
-        {
-          "heading": "The underwriter reality check",
-          "body": "Here's what this actually changes when a file hits underwriting: underwriters must calculate DTI (how much of your income goes to debt) using fully amortized payments, not just IO amounts."
-        },
-        {
-          "heading": "Managing future payment shock",
-          "body": "Ten-year interest-only windows offer lower initial payments, but underwriters scrutinize future recast risk when principal repayment kicks in."
-        },
-        {
-          "heading": "Lowering credit score barriers",
-          "body": "Lowering credit score criteria broadens access, making second liens the primary vehicle for equity extraction in high-rate environments."
-        }
-      ],
-      "my_take_heading": "Junior liens are replacing cash-out refis",
-      "my_take": "Second liens are no longer niche consolidation tools; they are the primary mechanism keeping mortgage originators solvent today.",
-      "action_lo": "Run pipeline reports to identify past clients with massive equity who refuse to refinance their low primary rate.",
-      "action_realtor": "Partner with lenders offering second-lien options to help clients fund renovations instead of searching for replacement homes.",
-      "cta_question": "Are your loan officers actively presenting second liens, or are they still waiting for cash-out refis to return?"
-    },
-    {
-      "slug": "candid-launches-autonomous-ai-lo-agent",
-      "title": "CANDID Launches AI Agent That Can Reply to Borrowers Without LO Approval",
-      "source": "National Mortgage Professional",
-      "source_url": "https://nationalmortgageprofessional.com/news/candid-launches-ai-agent-can-reply-borrowers-without-lo-approval",
-      "cover_text": "AI is issuing pre-approvals without humans",
-      "caption": "CANDID has launched a beta AI agent capable of generating mortgage scenarios and issuing pre-approval letters without human loan officer intervention. While instant borrower responses sound great for converting leads, autonomous pre-approval issuance is a dangerous gamble. From an underwriting perspective, AI cannot accurately parse complex tax returns, variable income, or non-traditional assets without human review. If an automated pre-approval collapses in underwriting, the fallout destroys borrower trust and burns real estate referral relationships. Smart mortgage executives will use AI for administrative tasks like scheduling, while keeping experienced underwriters and LOs in control of pre-approval approvals.\n\nSource : https://tinyurl.com/2dlfkd9x\n#SafetrustMortgage #MortgageIntelligenceDaily #mortgagelending #loanofficer #realestateagent",
-      "hashtags": [
-        "#SafetrustMortgage",
-        "#MortgageIntelligenceDaily",
-        "#mortgagelending",
         "#loanofficer",
         "#realestateagent"
       ],
-      "hook_tag": "AI innovation",
-      "hook": "Sending automated pre-approvals without human review invites massive liability.",
-      "what_happened_heading": "CANDID releases autonomous mortgage AI agent",
-      "what_happened": "Technology vendor CANDID released an AI messaging agent in beta that communicates with borrowers without human loan officer approval. The software can automatically issue pre-approval letters, generate fee scenarios, and schedule appointments.",
+      "hook_tag": "Regulatory Alert",
+      "hook": "A state license suspension leaves locked loans in complete pipeline chaos.",
+      "what_happened_heading": "Regulators order immediate shutdown and refunds",
+      "what_happened": "Washington regulators suspended Directors Mortgage state lending licenses on November 20. The state ordered the lender to refund fees collected from borrowers whose loans had not closed.",
       "breakdown": [
         {
-          "heading": "Instant speed vs risk",
-          "body": "Removing human bottlenecks speeds up response times for prospective buyers and referral partners during weekend house hunting."
+          "heading": "Pending files lose legal funding capability",
+          "body": "Borrowers with locked interest rates and signed documents cannot close with the suspended lender. The state mandate leaves active transactions without a clear funding mechanism."
         },
         {
-          "heading": "The underwriter reality check",
-          "body": "Here's what this actually changes when a file hits underwriting: automated systems cannot reliably calculate complex income like self-employment or variable bonus structures."
+          "heading": "Underwriters cannot clear suspended files",
+          "body": "Here is what this changes in underwriting. An unlicensed lender cannot issue final loan docs or fund notes. Secondary market investors immediately reject delivery on affected files."
         },
         {
-          "heading": "Pre-approval liability spikes",
-          "body": "Issuing pre-approval letters without compliance oversight creates legal exposure if income verification fails during formal underwriting review."
+          "heading": "Fee refunds do not save contracts",
+          "body": "Refunding upfront fees complies with the state order but leaves purchase contracts at risk. Borrowers face missed closing deadlines unless another lender assumes the file."
         },
         {
-          "heading": "Referral relationship danger",
-          "body": "Bad automated pre-approvals burn real estate agent trust instantly when deals fall apart inside the formal underwriting window."
+          "heading": "Re-underwriting creates timeline delays",
+          "body": "Transferring pipeline loans requires new credit pulls, appraisals, and disclosures. Successor lenders must re-qualify borrowers from scratch under their own overlays."
         }
       ],
-      "my_take_heading": "Speed cannot replace underwriting precision",
-      "my_take": "AI should automate administrative grunt work, but issuing unreviewed pre-approval letters trades short-term speed for massive repurchase and reputational risk.",
-      "action_lo": "Restrict automated AI outputs to appointment setting and basic info gathering while maintaining manual review on pre-approvals.",
-      "action_realtor": "Verify whether pre-approval letters from tech-forward lenders underwent actual human income verification before making non-contingent offers.",
-      "cta_question": "Would you allow an unmonitored AI agent to issue pre-approval letters to your top real estate partners?"
+      "my_take_heading": "Compliance risk directly threatens pipeline execution speed",
+      "my_take": "Regulatory enforcement does not just penalize lenders. It traps home buyers and realtors in operational gridlock where locked interest rates vanish overnight.",
+      "action_lo": "Audit lender partners regulatory standing annually to protect your pipeline from sudden state enforcement actions.",
+      "action_realtor": "Add emergency financing contingency buffers when working with regional independent mortgage bankers.",
+      "cta_question": "How should state regulators handle pending loan pipelines during immediate license suspensions?"
     },
     {
-      "slug": "newrez-survey-self-employed-buyers-delaying",
-      "title": "Newrez Survey Finds Self-Employed Buyers Delaying Mortgages",
-      "source": "National Mortgage Professional",
-      "source_url": "https://nationalmortgageprofessional.com/news/newrez-survey-finds-self-employed-buyers-delaying-mortgages",
-      "cover_text": "Self-employed buyers are sitting out needlessly",
-      "caption": "A new survey from Newrez shows self-employed borrowers are delaying home purchases because they mistakenly think they cannot qualify for a mortgage. Business owners often assume tax write-offs destroy their borrowing power. In reality, standard underwriting rules allow us to add back non-cash expenses like depreciation and amortization to tax return income. Furthermore, alternative documentation options like bank statement loans (financing evaluated using bank deposit records) exist specifically for this market. Loan officers and real estate agents are leaving substantial transaction volume on the table by not proactively educating self-employed clients on how income is actually evaluated during loan approval.\n\nSource : https://tinyurl.com/2yg7y2q6\n#SafetrustMortgage #MortgageIntelligenceDaily #realestateinvesting #mortgagebroker #homebuying",
+      "slug": "heloc-balances-jump-most-since-2005",
+      "title": "HELOC Balances Jump Most Since 2005",
+      "source": "The Mortgage Reports",
+      "source_url": "https://themortgagereports.com/137789/heloc-balances-fastest-growth-since-2005-fed-hike",
+      "cover_text": "Homeowners leverage equity without refinancing firsts",
+      "caption": "Home equity line of credit (HELOC, a revolving loan secured by home equity) balances just posted their largest quarterly surge since 2005. Homeowners want equity access without giving up low primary mortgage rates. Here is what this changes in underwriting. Second-lien underwriters assess combined loan-to-value (CLTV, total loan amounts divided by home value) and qualify debt-to-income (DTI, how much of your income goes to debt) at fully indexed rates. Rising prime rates make variable payments unpredictable. But for debt consolidation, second liens remain the smartest play. Loan officers should target existing databases with standalone equity solutions today.\n\nSource : https://tinyurl.com/2bwjmx25\n#SafetrustMortgage #MortgageIntelligenceDaily #homebuying #mortgagebroker #realestateinvesting",
       "hashtags": [
         "#SafetrustMortgage",
         "#MortgageIntelligenceDaily",
-        "#realestateinvesting",
+        "#homebuying",
         "#mortgagebroker",
-        "#homebuying"
+        "#realestateinvesting"
       ],
-      "hook_tag": "Market opportunity",
-      "hook": "Self-employed buyers are delaying purchases due to outdated qualification myths.",
-      "what_happened_heading": "Newrez survey reveals massive self-employed misconceptions",
-      "what_happened": "A new survey from Newrez revealed that self-employed business owners are delaying home purchases due to false qualification fears. Many assume their write-offs and tax structure disqualify them from mortgage approval.",
+      "hook_tag": "Equity Insights",
+      "hook": "Homeowners are tapping equity without sacrificing low first mortgage rates.",
+      "what_happened_heading": "HELOC balances experience historic growth",
+      "what_happened": "Home equity line of credit balances posted their largest quarterly jump since 2005. Homeowners are protecting low first-mortgage rates while accessing cash ahead of expected Federal Reserve rate hikes.",
       "breakdown": [
         {
-          "heading": "The qualification perception gap",
-          "body": "Small business owners frequently write down income to reduce taxes, mistakenly believing this completely eliminates mortgage options."
+          "heading": "Rate lock-in protects primary mortgages",
+          "body": "Borrowers refuse to replace low first mortgages with higher cash-out refinance rates. Second liens allow equity access while keeping primary debt costs low."
         },
         {
-          "heading": "Non-QM products exist",
-          "body": "Bank statement loans and Non-QM (non-qualified mortgage loans that do not follow standard agency rules) allow qualification based on cash flow."
+          "heading": "Underwriters calculate combined leverage limits",
+          "body": "Here is what this changes in underwriting. Underwriters evaluate combined loan-to-value ratios and qualify borrowers using fully indexed variable rates, tightening debt ratio room."
         },
         {
-          "heading": "The underwriter reality check",
-          "body": "Here's what this actually changes when a file hits underwriting: underwriters add back non-cash depreciation expenses to standard tax returns to boost income."
+          "heading": "Variable rate resets create future risk",
+          "body": "Upcoming Fed rate decisions directly impact monthly HELOC payments. Rising prime rates increase payment stress for borrowers who max out their credit lines."
         },
         {
-          "heading": "Unlocking dormant volume",
-          "body": "Educating self-employed borrowers targets a high-intent segment of buyers who have money but lack clear lending guidance."
+          "heading": "Debt consolidation demand accelerates",
+          "body": "Homeowners use equity to clear high-interest credit card debt. Shifting unsecured balances into equity lines lowers total monthly outlay despite higher variable interest."
         }
       ],
-      "my_take_heading": "Misinformation is killing your loan pipeline",
-      "my_take": "You are not losing self-employed buyers to high interest rates; you are losing them to their own wrong assumptions about guidelines.",
-      "action_lo": "Host targeted workshops explaining bank statement programs and income add-backs for local business owners and accountants.",
-      "action_realtor": "Screen self-employed clients who paused their search and connect them with originators specializing in non-traditional income documentation.",
-      "cta_question": "What percentage of your team's fall-out is self-employed buyers who gave up before submitting an application?"
-    }
-  ],
-  "carousels_es": [
+      "my_take_heading": "Second liens are replacing cash-out refinances",
+      "my_take": "The traditional cash-out refinance is dead until rates drop significantly. Second-lien underwriting is now the primary mechanism for unlocking residential home equity.",
+      "action_lo": "Market standalone home equity lines to past clients holding sub-4 percent first mortgage rates.",
+      "action_realtor": "Educate sellers on using home equity lines for pre-listing renovation costs instead of price reductions.",
+      "cta_question": "Are originators underestimating the credit risk of rising variable rates on second liens?"
+    },
     {
-      "slug": "zero-down-fha-mortgages-bill",
-      "title": "Los préstamos FHA sin pago inicial reciben un nuevo enfoque con la ley del Congreso",
-      "source": "National Mortgage Professional",
-      "source_url": "https://nationalmortgageprofessional.com/news/zero-down-fha-mortgages-get-new-look-under-congressional-bill",
-      "cover_text": "Los préstamos FHA sin pago inicial vuelven al Capitolio",
-      "caption": "La legislación bipartidista está poniendo en duda la creencia de que los préstamos FHA sin pago inicial generan un riesgo de incumplimiento inaceptable. Los representantes Young Kim y Nikema Williams presentaron la Ley de Paridad de Procesos de Vivienda para estudiar cómo funciona el financiamiento sin pago inicial frente a los préstamos tradicionales con 3,5 % de entrada. Desde la perspectiva del asesor, el capital al cierre nunca ha sido garantía de no incumplir; la estabilidad de ingresos y el ingreso residual (dinero que queda después de pagar las facturas mensuales) son los que realmente mantienen los préstamos en buen estado. Si esta ley lleva a cambios de política, los prestamistas dependerán en gran medida de sistemas de evaluación automática y reglas de sobreposición para gestionar la exposición. Los LOs y agentes inmobiliarios que preparen sus pipelines ahora ganarán cuota de mercado cuando se amplíen las opciones de bajo costo.\n\nFuente : https://tinyurl.com/22e2kb73\n#SafetrustMortgage #MortgageIntelligenceDaily #mortgagelending #firsttimehomebuyer #fhaloan",
+      "slug": "fhfa-fico-10t-rollout-timeline-2028",
+      "title": "FHFA Maps Out FICO 10T Rollout Timeline",
+      "source": "HousingWire",
+      "source_url": "https://www.housingwire.com/articles/fhfa-fico-10t-classic-fico-sunset-2028/",
+      "cover_text": "Classic FICO disappears by late 2028",
+      "caption": "The Federal Housing Finance Agency (FHFA) mapped out the retirement of Classic FICO, setting full FICO 10T adoption across GSE (Government-Sponsored Enterprises like Fannie Mae and Freddie Mac) channels by late 2028. Here is what this changes in underwriting. FICO 10T uses trended data over 24 months rather than a single month snapshot. Underwriters will see whether a borrower consistently pays down balances or continuously accumulates debt. Quick credit score fixes right before closing will no longer work. Loan officers need to start educating clients on long-term credit management right now.\n\nSource : https://tinyurl.com/284n55pl\n#SafetrustMortgage #MortgageIntelligenceDaily #mortgagerates #firsttimehomebuyer #loanofficer",
       "hashtags": [
         "#SafetrustMortgage",
         "#MortgageIntelligenceDaily",
-        "#mortgagelending",
+        "#mortgagerates",
         "#firsttimehomebuyer",
-        "#fhaloan"
-      ],
-      "hook_tag": "Cambio regulatorio",
-      "hook": "Los préstamos FHA sin pago inicial no provocarán un colapso subprime.",
-      "what_happened_heading": "La ley bipartidista apunta a los pagos mínimos",
-      "what_happened": "Los legisladores presentaron una ley bipartidista que ordena al gobierno estudiar los préstamos FHA sin pago inicial. El objetivo es evaluar si los compradores calificados realmente tienen mayor riesgo de incumplimiento sin efectivo inicial.",
-      "breakdown": [
-        {
-          "heading": "Mitos del pago inicial desmentidos",
-          "body": "La investigación indica que los compradores calificados sin pago inicial no incumplen significativamente más que los que ponen 3,5 %."
-        },
-        {
-          "heading": "La realidad del asesor",
-          "body": "Esto cambia lo que sucede cuando un expediente llega al asesor: los motores de evaluación automática exigirán comprobaciones de ingreso residual más estrictas."
-        },
-        {
-          "heading": "Las sobreposiciones controlarán el riesgo",
-          "body": "Los servicers probablemente añadirán sobreposiciones de puntaje crediticio (requisitos específicos del prestamista más estrictos que las directrices estándar de la agencia) para evitar incumplimientos tempranos en expedientes sin pago inicial."
-        },
-        {
-          "heading": "Se abre volumen de compras bloqueadas",
-          "body": "Eliminar la barrera del 3,5 % desbloquea a inquilinos con ingresos y crédito fuertes pero sin reservas líquidas para el cierre."
-        }
-      ],
-      "my_take_heading": "El capital en juego es un dato obsoleto",
-      "my_take": "El desempeño de la evaluación se basa en flujo de efectivo y capacidad de reserva, no en si el prestatario juntó 3,5 % al cierre.",
-      "action_lo": "Revisa tu base de datos para encontrar inquilinos de alto ingreso que dejaron de buscar por restricciones de pago inicial.",
-      "action_realtor": "Reengage a compradores que pausaron su búsqueda por limitaciones de ahorro en lugar de asequibilidad de pagos mensuales.",
-      "cta_question": "¿Tu equipo directivo aprobaría originaciones FHA sin pago inicial sin añadir sobreposiciones de puntaje crediticio restrictivas?"
-    },
-    {
-      "slug": "pennymac-expands-second-lien-interest-only",
-      "title": "Pennymac amplía su programa de segundo gravamen con opción de solo intereses",
-      "source": "National Mortgage Professional",
-      "source_url": "https://nationalmortgageprofessional.com/news/pennymac-expands-second-lien-program-interest-only-option",
-      "cover_text": "Los segundos gravámenes solo intereses se están expandiendo rápido",
-      "caption": "Pennymac acaba de ampliar su programa de segundo gravamen cerrado para incluir una opción de pago solo intereses de 10 años y requisitos de puntaje crediticio más bajos para solicitudes a partir del 20 de noviembre. Los propietarios que tienen un alto patrimonio de vivienda no quieren tocar sus hipotecas de primer grado con 3 % de tasa, haciendo de los gravámenes junior el sector de mayor crecimiento en la originación hipotecaria. Pero los asesores no solo mirarán el pago de intereses. Al evaluar estos expedientes, los asesores prueban los ratios deuda-ingreso contra los montos de principal e intereses amortizados para evitar un choque de pagos al décimo año. Los LOs y agentes inmobiliarios de alto rendimiento deben dominar estas estructuras para desbloquear el patrimonio de sus clientes sin destruir sus hipotecas de primer grado de bajo interés.\n\nFuente : https://tinyurl.com/2b55dyqu\n#SafetrustMortgage #MortgageIntelligenceDaily #mortgagebroker #homeequity #loanofficer",
-      "hashtags": [
-        "#SafetrustMortgage",
-        "#MortgageIntelligenceDaily",
-        "#mortgagebroker",
-        "#homeequity",
         "#loanofficer"
       ],
-      "hook_tag": "Expansión de producto",
-      "hook": "Los segundos gravámenes solo intereses vuelven para proteger las bajas tasas primarias.",
-      "what_happened_heading": "Pennymac añade estructuras de pago solo intereses",
-      "what_happened": "Pennymac amplió su programa de segundo gravamen cerrado añadiendo una opción de solo intereses de 10 años y reduciendo los puntajes crediticios mínimos. Los cambios se aplican a solicitudes de préstamo con fecha del 20 de noviembre o posterior.",
+      "hook_tag": "Credit Reform",
+      "hook": "Trended credit data will change how underwriters evaluate borrower risk.",
+      "what_happened_heading": "FHFA sets FICO 10T implementation path",
+      "what_happened": "The Federal Housing Finance Agency outlined a timeline retiring Classic FICO by late 2028. The transition introduces FICO 10T across government-sponsored enterprise channels.",
       "breakdown": [
         {
-          "heading": "Preservar las hipotecas de primer grado",
-          "body": "Los prestatarios quieren aprovechar el patrimonio sin refinanciar sus hipotecas primarias de menos del 4 % a las tasas actuales."
+          "heading": "Trended data tracks payment behavior",
+          "body": "FICO 10T evaluates credit management over 24 months rather than snapshot balances. Underwriters see whether borrowers pay off balances or continually roll credit card debt."
         },
         {
-          "heading": "La realidad del asesor",
-          "body": "Esto cambia lo que sucede cuando un expediente llega al asesor: los asesores deben calcular el DTI usando pagos amortizados completos, no solo los montos de intereses."
+          "heading": "Underwriters view historical trajectory",
+          "body": "Here is what this changes in underwriting. Underwriters can spot declining credit trends even if score cutoffs are met, scrutinizing revolving debt patterns before issuing approvals."
         },
         {
-          "heading": "Gestionar el choque de pagos futuro",
-          "body": "Las ventanas de solo intereses de diez años ofrecen pagos iniciales bajos, pero los asesores revisan el riesgo de recast futuro cuando comienza el reembolso del principal."
+          "heading": "Consolidated balances hurt credit scores",
+          "body": "Borrowers who carry growing balances get penalized under trended scoring. Paying down debt consistently yields higher score boosts than last-minute balance payoffs."
         },
         {
-          "heading": "Bajar barreras de puntaje crediticio",
-          "body": "Reducir los criterios de puntaje abre el acceso, convirtiendo los segundos gravámenes en el vehículo principal para extraer patrimonio en entornos de alta tasa."
+          "heading": "Implementation requires system migration",
+          "body": "Lenders and credit providers must overhaul pricing engines and credit reporting workflows. Dual scoring rules will complicate pricing execution during the transition period."
         }
       ],
-      "my_take_heading": "Los gravámenes junior reemplazan las refinanciamientos de salida de efectivo",
-      "my_take": "Los segundos gravámenes ya no son herramientas de consolidación de nicho; son el mecanismo principal que mantiene a los originadores hipotecarios solventes hoy.",
-      "action_lo": "Ejecuta informes de pipeline para identificar clientes anteriores con gran patrimonio que se niegan a refinanciar su tasa de primer grado baja.",
-      "action_realtor": "Asóciate con prestamistas que ofrezcan opciones de segundo gravamen para ayudar a los clientes a financiar renovaciones en lugar de buscar casas de reemplazo.",
-      "cta_question": "¿Tus oficiales de préstamo están presentando activamente segundos gravámenes o siguen esperando el regreso de los refinanciamientos de salida de efectivo?"
-    },
-    {
-      "slug": "candid-launches-autonomous-ai-lo-agent",
-      "title": "CANDID lanza agente AI que responde a prestatarios sin aprobación de LO",
-      "source": "National Mortgage Professional",
-      "source_url": "https://nationalmortgageprofessional.com/news/candid-launches-ai-agent-can-reply-borrowers-without-lo-approval",
-      "cover_text": "La IA emite preaprobaciones sin humanos",
-      "caption": "CANDID lanzó un agente AI beta capaz de generar escenarios hipotecarios y emitir cartas de preaprobación sin intervención humana del oficial de préstamo. Si bien las respuestas instantáneas a los prestatarios suenan bien para convertir leads, la emisión autónoma de preaprobaciones es una apuesta peligrosa. Desde la perspectiva del asesor, la IA no puede analizar con precisión declaraciones de impuestos complejas, ingresos variables o activos no tradicionales sin revisión humana. Si una preaprobación automática colapsa en la evaluación, el daño destruye la confianza del prestatario y quema las relaciones de referencia inmobiliaria. Los ejecutivos hipotecarios inteligentes usarán la IA para tareas administrativas como la programación, manteniendo a los asesores y LOs experimentados en control de las aprobaciones de preaprobación.\n\nFuente : https://tinyurl.com/2dlfkd9x\n#SafetrustMortgage #MortgageIntelligenceDaily #mortgagelending #loanofficer #realestateagent",
-      "hashtags": [
-        "#SafetrustMortgage",
-        "#MortgageIntelligenceDaily",
-        "#mortgagelending",
-        "#loanofficer",
-        "#realestateagent"
-      ],
-      "hook_tag": "Innovación IA",
-      "hook": "Enviar preaprobaciones automáticas sin revisión humana genera enormes responsabilidades.",
-      "what_happened_heading": "CANDID lanza agente AI autónomo",
-      "what_happened": "El proveedor de tecnología CANDID lanzó un agente de mensajería AI en beta que se comunica con los prestatarios sin aprobación de un oficial de préstamo. El software puede emitir cartas de preaprobación automáticamente, generar escenarios de tarifas y programar citas.",
-      "breakdown": [
-        {
-          "heading": "Velocidad instantánea vs riesgo",
-          "body": "Eliminar cuellos de botella humanos acelera los tiempos de respuesta para compradores potenciales y socios de referencia durante la búsqueda de casas de fin de semana."
-        },
-        {
-          "heading": "La realidad del asesor",
-          "body": "Esto cambia lo que sucede cuando un expediente llega al asesor: los sistemas automáticos no calculan con fiabilidad ingresos complejos como autoempleo o bonificaciones variables."
-        },
-        {
-          "heading": "Aumento de la responsabilidad de preaprobación",
-          "body": "Emitir cartas de preaprobación sin supervisión crea exposición legal si la verificación de ingresos falla durante la revisión formal."
-        },
-        {
-          "heading": "Peligro para la relación de referencia",
-          "body": "Las preaprobaciones automáticas mal gestionadas queman la confianza del agente inmobiliario al instante cuando los tratos se rompen dentro de la ventana de evaluación formal."
-        }
-      ],
-      "my_take_heading": "La velocidad no reemplaza la precisión del asesor",
-      "my_take": "La IA debe automatizar tareas administrativas, pero emitir cartas de preaprobación sin revisión humana cambia velocidad a corto plazo por riesgo enorme de reputación y recompra.",
-      "action_lo": "Limita las salidas automáticas de IA a la programación de citas y recolección de información básica, manteniendo revisión manual de preaprobaciones.",
-      "action_realtor": "Verifica si las cartas de preaprobación de prestamistas tecnológicos pasaron por verificación humana antes de hacer ofertas no contingentes.",
-      "cta_question": "¿Permitirías que un agente AI sin supervisión emita cartas de preaprobación a tus principales socios inmobiliarios?"
-    },
-    {
-      "slug": "newrez-survey-self-employed-buyers-delaying",
-      "title": "Encuesta de Newrez muestra que compradores autónomos están retrasando hipotecas",
-      "source": "National Mortgage Professional",
-      "source_url": "https://nationalmortgageprofessional.com/news/newrez-survey-finds-self-employed-buyers-delaying-mortgages",
-      "cover_text": "Los compradores autónomos se quedan fuera sin razón",
-      "caption": "Una nueva encuesta de Newrez muestra que los prestatarios autónomos están retrasando la compra de viviendas porque creen erróneamente que no pueden calificar para una hipoteca. Los dueños de negocios suelen pensar que las deducciones fiscales destruyen su poder de préstamo. En realidad, las reglas estándar de evaluación permiten agregar gastos no monetarios como depreciación y amortización a los ingresos de la declaración de impuestos. Además, existen opciones de documentación alternativa como los préstamos con estados de cuenta bancarios (financiación evaluada con registros de depósitos bancarios) diseñadas específicamente para este mercado. Los oficiales de préstamo y agentes inmobiliarios están dejando volúmenes sustanciales de transacciones al no educar proactivamente a los clientes autónomos sobre cómo se evalúan realmente los ingresos durante la aprobación del préstamo.\n\nFuente : https://tinyurl.com/2yg7y2q6\n#SafetrustMortgage #MortgageIntelligenceDaily #realestateinvesting #mortgagebroker #homebuying",
-      "hashtags": [
-        "#SafetrustMortgage",
-        "#MortgageIntelligenceDaily",
-        "#realestateinvesting",
-        "#mortgagebroker",
-        "#homebuying"
-      ],
-      "hook_tag": "Oportunidad de mercado",
-      "hook": "Los compradores autónomos retrasan compras por mitos de calificación obsoletos.",
-      "what_happened_heading": "Encuesta de Newrez revela enormes mitos sobre autónomos",
-      "what_happened": "Una nueva encuesta de Newrez reveló que los dueños de negocios autónomos retrasan la compra de viviendas por temores de calificación falsos. Muchos asumen que sus deducciones y estructura fiscal los excluyen de la aprobación hipotecaria.",
-      "breakdown": [
-        {
-          "heading": "La brecha de percepción de calificación",
-          "body": "Los propietarios de pequeñas empresas suelen deducir ingresos para reducir impuestos, creyendo que esto elimina por completo las opciones hipotecarias."
-        },
-        {
-          "heading": "Existen productos No-QM",
-          "body": "Los préstamos con estados de cuenta bancarios y los préstamos No-QM (hipotecas no calificadas que no siguen las reglas estándar de la agencia) permiten la calificación basada en flujo de efectivo."
-        },
-        {
-          "heading": "La realidad del asesor",
-          "body": "Esto cambia lo que sucede cuando un expediente llega al asesor: los asesores añaden gastos de depreciación no monetarios a las declaraciones estándar para aumentar ingresos."
-        },
-        {
-          "heading": "Desbloquear volumen dormido",
-          "body": "Educar a los prestatarios autónomos apunta a un segmento de alto interés que tiene dinero pero carece de orientación clara de préstamo."
-        }
-      ],
-      "my_take_heading": "La desinformación está matando tu pipeline",
-      "my_take": "No estás perdiendo a los compradores autónomos por tasas altas; los estás perdiendo por sus propias suposiciones erróneas sobre las directrices.",
-      "action_lo": "Organiza talleres dirigidos que expliquen programas de estados de cuenta bancarios y adiciones de ingresos para dueños de negocios locales y contadores.",
-      "action_realtor": "Filtra a clientes autónomos que pausaron su búsqueda y conéctalos con originadores especializados en documentación de ingresos no tradicionales.",
-      "cta_question": "¿Qué porcentaje de la pérdida de tu equipo se debe a compradores autónomos que se rindieron antes de enviar una solicitud?"
+      "my_take_heading": "Snapshot credit scoring will no longer hide financial stress",
+      "my_take": "FICO 10T eliminates last-minute credit repair tricks. Borrowers can no longer boost scores overnight by paying down balances right before applying for a loan.",
+      "action_lo": "Advise prospective buyers to maintain consistent credit paydowns at least 24 months before buying.",
+      "action_realtor": "Prepare buyers early by connecting them with loan officers who analyze long-term credit trends.",
+      "cta_question": "Will trended credit scoring reduce overall mortgage approval rates for middle-credit borrowers?"
     }
   ]
 }
