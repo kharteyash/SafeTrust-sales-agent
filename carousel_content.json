@@ -168,5 +168,175 @@
       "action_realtor": "Reach out to past buyers about using a HELOC to fund home renovations instead of high-interest credit cards.",
       "cta_question": "Are HELOCs making up a bigger share of your production this quarter?"
     }
+  ],
+  "carousels_es": [
+    {
+      "slug": "mortgage-apps-high-rates",
+      "title": "Aumentan las solicitudes de hipoteca aunque las tasas alcancen el 7,38%",
+      "source": "HousingWire",
+      "source_url": "https://www.housingwire.com/articles/mortgage-applications-rise-61/",
+      "cover_text": "Las tasas llegan al 7,38% y las solicitudes suben.",
+      "caption": "Cuando las tasas suben al 7,38%, la regla clásica dice que la demanda se marchitaría. En cambio, las solicitudes de compra crecieron un 10% la semana pasada y la participación de hipotecas de tasa ajustable (ARM) subió al 11,5%. Los compradores finalmente se están adaptando a la realidad de tasas altas en vez de esperar una fantasía. Si tu pipeline está quieto esperando a que bajen las tasas, pierdes compradores que ya hicieron los cálculos. Deja un comentario si tus prestatarios están empezando a aceptar los ARM.\n\nFuente : https://tinyurl.com/24w2jnqh\n#SafetrustMortgage #MortgageIntelligenceDaily #mortgagerates #loanofficer #housingmarket",
+      "hashtags": [
+        "#SafetrustMortgage",
+        "#MortgageIntelligenceDaily",
+        "#mortgagerates",
+        "#loanofficer",
+        "#housingmarket"
+      ],
+      "hook_tag": "Realidad del pipeline",
+      "hook": "¿Por qué los compradores se apresuran mientras las tasas hipotecarias están en 7,38%?",
+      "what_happened_heading": "Las solicitudes desafiaron la gravedad la semana pasada",
+      "what_happened": "En general, las solicitudes de hipoteca aumentaron un 6,1% la semana pasada aunque la tasa fija de 30 años alcanzó el 7,38%. Al mismo tiempo, la participación de hipotecas de tasa ajustable subió al 11,5%, el nivel más alto en más de un año.",
+      "breakdown": [
+        {
+          "heading": "El piso psicológico cambió",
+          "body": "Los compradores pasaron dos años paralizados por el shock de las tasas. Ahora se dan cuenta de que el 7% es la nueva normalidad y siguen adelante."
+        },
+        {
+          "heading": "Los ARM regresan al kit",
+          "body": "Cuando las tasas fijas se pinchan, los prestatarios inteligentes buscan flexibilidad. Un 11,5% de participación en ARM demuestra que buscan pagos iniciales más bajos."
+        },
+        {
+          "heading": "El impacto en la evaluación",
+          "body": "Esto cambia lo que ocurre cuando un expediente llega a la evaluación: el DTI (deuda sobre ingresos) es más estricto que nunca, así que los oficiales de préstamos deben estructurar con precisión."
+        },
+        {
+          "heading": "La urgencia del inventario vence al miedo a las tasas",
+          "body": "Los inquilinos que enfrentan costos de vivienda obstinados se dan cuenta de que esperar la ayuda de tasas cuesta más en alquiler acumulado que comprar ahora y refinanciar después."
+        }
+      ],
+      "my_take_heading": "Deja de esperar una caída de tasas",
+      "my_take": "Los compradores son más inteligentes de lo que pensamos. Compran la casa, no la tasa, porque saben que pueden refinanciar después.",
+      "action_lo": "Revisa tus lineamientos de ARM y comienza a ofrecer estructuras híbridas a compradores sensibles a la tasa de inmediato.",
+      "action_realtor": "Recuérdales a los clientes que esperar una gran caída de tasas solo significa competir con una ola de nuevos compradores más tarde.",
+      "cta_question": "¿Están tus compradores aceptando finalmente el 7% como la nueva normalidad?"
+    },
+    {
+      "slug": "new-home-sales-october",
+      "title": "Ventas de nuevas casas se disparan en octubre",
+      "source": "HousingWire",
+      "source_url": "https://www.housingwire.com/articles/new-home-sales-october-2026/",
+      "cover_text": "Las ventas de nuevas casas alcanzaron 701,000.",
+      "caption": "Los incentivos de los constructores están salvando silenciosamente el mercado de la vivienda mientras el inventario de casas existentes se estanca. Las ventas de nuevas casas subieron a un ritmo anual de 701,000 en octubre, pero el precio medio de venta cayó un 3,2% interanual a $391,000. Los constructores están reduciendo precios y comprando tasas para mover la mercancía. Si eres oficial de préstamos y ignoras al representante local de constructores, pierdes la mitad de las transacciones en tu mercado.\n\nFuente : https://tinyurl.com/2csnvwja\n#SafetrustMortgage #MortgageIntelligenceDaily #housingmarket #realestateagent #homebuying",
+      "hashtags": [
+        "#SafetrustMortgage",
+        "#MortgageIntelligenceDaily",
+        "#housingmarket",
+        "#realestateagent",
+        "#homebuying"
+      ],
+      "hook_tag": "Cambio de mercado",
+      "hook": "Las ventas de constructores se dispararon, pero los precios bajan silenciosamente en todas partes.",
+      "what_happened_heading": "Las ventas subieron mientras los precios bajaban",
+      "what_happened": "Las ventas de nuevas casas subieron a un ritmo anual de 701,000 en octubre, aunque los números están sujetos a revisión. Mientras tanto, el precio medio de venta cayó un 3,2% interanual a $391,000.",
+      "breakdown": [
+        {
+          "heading": "El volumen oculta la presión de margen",
+          "body": "Los constructores están moviendo inventario sacrificando margen. Una caída del 3,2% en precios muestra que finalmente aceptan lo que el mercado puede soportar."
+        },
+        {
+          "heading": "Los incentivos dominan la oficina de ventas",
+          "body": "Los descuentos de tasa y créditos de costos de cierre son los que impulsan las ventas, mientras la demanda orgánica no puede manejarlo ahora."
+        },
+        {
+          "heading": "Evaluación de concesiones de constructores",
+          "body": "Esto cambia lo que ocurre cuando un expediente llega a la evaluación: debemos calcular meticulosamente las contribuciones de terceros contra los límites máximos de LTV para que el expediente no se detenga."
+        },
+        {
+          "heading": "Los propietarios existentes siguen estancados",
+          "body": "El inventario existente permanece bloqueado por la inercia de bloqueo de tasas, por lo que los compradores con efectivo o necesidades flexibles se canalizan directamente a la nueva construcción."
+        }
+      ],
+      "my_take_heading": "Los constructores juegan al ajedrez",
+      "my_take": "Los constructores descubrieron lo que los vendedores estándar se niegan a aceptar: Baja tu precio o tu producto se queda. El volumen paga las cuentas, no el orgullo.",
+      "action_lo": "Construye una relación de referencia directa con cada representante de ventas de constructores en un radio de veinte millas.",
+      "action_realtor": "Lleva a tus compradores a ver casas de tracto nuevo donde los constructores ofrecen paquetes de financiamiento agresivos.",
+      "cta_question": "¿Los constructores en tu mercado están bajando precios o solo ofreciendo descuentos de tasa?"
+    },
+    {
+      "slug": "boxabl-cash-burn-filing",
+      "title": "El informe financiero de BOXABL muestra quema de efectivo",
+      "source": "HousingWire",
+      "source_url": "https://www.housingwire.com/articles/boxabl-cash-burn-backlog/",
+      "cover_text": "Los estados financieros de Boxabl muestran una gran señal de alerta.",
+      "caption": "Los conceptos de vivienda innovadores siempre capturan la atención de los medios, pero el balance cuenta la historia real. El último informe financiero de Boxabl muestra que el efectivo sin restricciones cayó a $14 millones mientras el inventario alcanzó $17,6 millones, provocando dudas sobre su continuidad en el 10-Q. Escalar un negocio de manufactura es una máquina que consume capital. En nuestra industria, amamos la disrupción hasta que el efectivo se agota. Etiqueta a un colega que necesita ver esta realidad financiera.\n\nFuente : https://tinyurl.com/29xrf59q\n#SafetrustMortgage #MortgageIntelligenceDaily #realestateinvesting #housingmarket #mortgagebroker",
+      "hashtags": [
+        "#SafetrustMortgage",
+        "#MortgageIntelligenceDaily",
+        "#realestateinvesting",
+        "#housingmarket",
+        "#mortgagebroker"
+      ],
+      "hook_tag": "Riesgo de la industria",
+      "hook": "El último informe financiero de Boxabl acaba de mostrar una clásica advertencia de continuidad.",
+      "what_happened_heading": "Las reservas de efectivo cayeron bruscamente",
+      "what_happened": "El reciente 10-Q de Boxabl muestra que el efectivo sin restricciones cayó a $14 millones mientras el inventario subió a $17,6 millones. Los propios archivos de la compañía ahora citan dudas significativas sobre su capacidad de continuar como una entidad en funcionamiento.",
+      "breakdown": [
+        {
+          "heading": "La trampa del inventario pesado",
+          "body": "Atar $17,6 millones en inventario físico mientras las reservas de efectivo disminuyen a $14 millones es una cuerda floja operativa peligrosa."
+        },
+        {
+          "heading": "La manufactura de vivienda es brutal",
+          "body": "La vivienda construida en fábrica suena genial en un pitch deck. En realidad, requiere capital infinito para cerrar la brecha entre producción y ganancia."
+        },
+        {
+          "heading": "Evaluación de viabilidad corporativa",
+          "body": "Esto cambia lo que ocurre cuando un expediente llega a la evaluación: al evaluar fabricantes de vivienda no convencionales, el riesgo de contraparte puede matar una línea de crédito comercial de la noche a la mañana."
+        },
+        {
+          "heading": "La brecha entre hype y realidad",
+          "body": "Los videos virales no pagan facturas de proveedores ni deudas de gastos operativos cuando los plazos de producción empiezan a retrasarse."
+        }
+      ],
+      "my_take_heading": "La tecnología cool no reemplaza el efectivo",
+      "my_take": "Puedes tener el producto modular más cool del mundo, pero si tu quema de efectivo supera tus ventas, la matemática siempre gana.",
+      "action_lo": "Revisa siempre la salud financiera de cualquier constructor modular o prefabricado que tus clientes planeen financiar.",
+      "action_realtor": "Los constructores verificados son más importantes que nunca cuando los clientes depositan en casas prefabricadas o modulares.",
+      "cta_question": "¿Puede la vivienda modular escalar rentable sin un respaldo de capital masivo?"
+    },
+    {
+      "slug": "better-servicer-heloc-deal",
+      "title": "Mejores acuerdos para crecer el volumen de HELOC",
+      "source": "HousingWire",
+      "source_url": "https://www.housingwire.com/articles/better-mortgage-servicer-heloc/",
+      "cover_text": "Mejores bancos en HELOCs para impulsar el crecimiento.",
+      "caption": "Cuando el volumen de originación con primer gravamen se seca, los prestamistas digitales deben pivotar rápido para mantener las luces encendidas. Better acaba de firmar un acuerdo con un servicer hipotecario para potenciar su volumen de HELOC (línea de crédito con garantía hipotecaria), con $38,97 millones en ahorros corporativos en su tabla de puntaje de la Semana 7. Están más de la mitad de su objetivo de $64,2 millones. Si no estás extrayendo equidad de tu base de datos ahora, dejas dinero libre en la mesa.\n\nFuente : https://tinyurl.com/263qhje6\n#SafetrustMortgage #MortgageIntelligenceDaily #mortgagebroker #homebuying #loanofficer",
+      "hashtags": [
+        "#SafetrustMortgage",
+        "#MortgageIntelligenceDaily",
+        "#mortgagebroker",
+        "#homebuying",
+        "#loanofficer"
+      ],
+      "hook_tag": "Estrategia corporativa",
+      "hook": "Cómo Better usa servicers externos para desbloquear una mina de oro de equidad.",
+      "what_happened_heading": "Una nueva asociación de servicer toma forma",
+      "what_happened": "Better firmó un nuevo acuerdo con un servicer hipotecario diseñado específicamente para crecer su volumen de HELOC. Mientras tanto, su tabla de puntaje de la Semana 7 destaca $38,97 millones en ahorros corporativos, superando la mitad de su objetivo de $64,2 millones.",
+      "breakdown": [
+        {
+          "heading": "Aprovechando al propietario bloqueado",
+          "body": "Con millones de prestatarios bloqueados en tasas ultra bajas, los refinanciamientos de extracción de efectivo están muertos. Los HELOC son el único juego en la ciudad para acceder a la equidad."
+        },
+        {
+          "heading": "Los pipelines de servicer son minas de oro",
+          "body": "Al asociarse con servicers masivos, las plataformas digitales obtienen acceso directo a prestatarios cautivos con montañas de equidad disponible."
+        },
+        {
+          "heading": "Evaluación de equidad simplificada",
+          "body": "Esto cambia lo que ocurre cuando un expediente llega a la evaluación: los modelos de valoración automatizados y las verificaciones de crédito simplificadas son esenciales para mantener márgenes de HELOC rentables a escala."
+        },
+        {
+          "heading": "Cortando grasa para financiar el crecimiento",
+          "body": "Al alcanzar casi $39 millones en ahorros corporativos, demuestra que los prestamistas orientados a la tecnología recortan rigurosamente los costos para sobrevivir a la crisis de márgenes actual."
+        }
+      ],
+      "my_take_heading": "La equidad es la nueva originación",
+      "my_take": "Los prestamistas que sobreviven a este ciclo son los que descubren cómo monetizar la equidad existente sin tocar su hipoteca principal.",
+      "action_lo": "Ejecuta un informe de cartera hoy para identificar cada cliente anterior con más de $100k de equidad disponible.",
+      "action_realtor": "Contacta a compradores anteriores sobre usar un HELOC para financiar renovaciones en lugar de tarjetas de crédito de alto interés.",
+      "cta_question": "¿Los HELOC están representando una mayor parte de tu producción este trimestre?"
+    }
   ]
 }
