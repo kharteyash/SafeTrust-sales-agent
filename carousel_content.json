@@ -168,5 +168,175 @@
       "action_realtor": "Require buyers in competitive bidding markets to show proof of cash reserves to cover potential appraisal shortfalls.",
       "cta_question": "How are you structuring jumbo pre-approvals when buyer assets are tied up in equity options?"
     }
+  ],
+  "carousels_es": [
+    {
+      "slug": "new-home-sales-october-2026",
+      "title": "Ventas de casas nuevas alcanzan su nivel más alto en casi un año",
+      "source": "Mortgage News Daily",
+      "source_url": "https://www.mortgagenewsdaily.com/news/11272026-new-home-sales",
+      "cover_text": "¿Por qué los constructores ganan la venta?",
+      "caption": "Las ventas de casas nuevas acaban de registrar su mejor mes en casi un año. Subieron un 14.2% en octubre hasta alcanzar un ritmo anual de 701,000 unidades. Mientras muchos dueños se quedan en sus casas con tasas bajas, las constructoras están atrayendo compradores actuando casi como financieras. Usan incentivos de construcción para reducir la tasa de interés y bajar el pago mensual. Cuando estos casos llegan al asesor para la evaluación de crédito (underwriting), revisamos que las contribuciones del vendedor no superen los límites del programa. Si los vendedores particulares quieren competir, deben dejar de bajar solo el precio y empezar a ofrecer ayuda para el financiamiento. ¿Cómo estás posicionando tus casas usadas frente a los incentivos de los constructores en tu mercado?\n\nFuente : https://tinyurl.com/24ggbb3u\n#SafetrustMortgage #MortgageIntelligenceDaily #housingmarket #loanofficer #homebuying",
+      "hashtags": [
+        "#SafetrustMortgage",
+        "#MortgageIntelligenceDaily",
+        "#housingmarket",
+        "#loanofficer",
+        "#homebuying"
+      ],
+      "hook_tag": "Mercado de constructores",
+      "hook": "Los constructores están ganando porque hoy dominan el mercado de financiamiento.",
+      "what_happened_heading": "Las ventas de casas nuevas suben mientras cae el inventario",
+      "what_happened": "Las ventas de casas nuevas subieron un 14.2% en octubre, alcanzando un ritmo anual de 701,000 unidades. Al mismo tiempo, el inventario total de casas nuevas cayó un 1.5% hasta llegar a 470,000 unidades.",
+      "breakdown": [
+        {
+          "heading": "El inventario de casas usadas sigue bloqueado",
+          "body": "Los dueños con tasas de interés bajas prefieren no vender. Eso obliga a los compradores a buscar construcciones nuevas, donde las empresas crean su propio inventario."
+        },
+        {
+          "heading": "Los incentivos en las tasas impulsan el volumen",
+          "body": "Las constructoras usan su margen para ofrecer rebajas temporales en la tasa. Los vendedores particulares no pueden competir con estos paquetes sin hacer enormes rebajas de precio."
+        },
+        {
+          "heading": "Lo que revisa el asesor en proyectos de constructores",
+          "body": "Cuando el caso llega a la evaluación de crédito, el asesor revisa a fondo los créditos del vendedor para confirmar que no superen los límites del programa."
+        },
+        {
+          "heading": "La caída de inventario limita el margen futuro",
+          "body": "Con un inventario que cayó 4.1% respecto al año pasado a 470,000 unidades, las constructoras pronto perderán poder para negociar precios al reducirse la oferta."
+        }
+      ],
+      "my_take_heading": "Las constructoras operan como entidades financieras",
+      "my_take": "Las constructoras ya no solo venden casas; ahora ofrecen opciones de financiamiento subsidiado que un vendedor particular simplemente no puede igualar.",
+      "action_lo": "Alíate con agentes de ventas de constructoras para promover juntos estructuras de rebajas temporales en casas usadas.",
+      "action_realtor": "Enseña a los vendedores a ofrecer ayuda para los costos en lugar de bajar el precio, para igualar las ventajas del constructor.",
+      "cta_question": "¿Tus propiedades en venta compiten por precio o están compitiendo por la cuota mensual?"
+    },
+    {
+      "slug": "purchase-applications-surge",
+      "title": "Las solicitudes de préstamos para compra suben un 10 por ciento",
+      "source": "Mortgage News Daily",
+      "source_url": "https://www.mortgagenewsdaily.com/news/11272026-mortgage-applications-mba",
+      "cover_text": "Pequeñas bajas en tasas activan oleadas de compradores",
+      "caption": "Las solicitudes de préstamos de compra subieron un 10% en solo una semana. Según la Asociación de Banqueros Hipotecarios (MBA), este aumento repentino demuestra que los compradores están listos para actuar apenas bajan los costos del crédito. Las refinanciaciones solo subieron un 1%, lo que confirma que el crecimiento depende del mercado de compra. Para el asesor que evalúa los créditos (underwriter), estos picos generan cuellos de botella. Cuando los tiempos de proceso se alargan, los estados de cuenta y recibos de pago vencen, retrasando las aprobaciones finales. Los oficiales de préstamo que mantengan los documentos al día aprovecharán estas oportunidades. ¿Tienes tus preaprobaciones listas para convertirse en contratos de inmediato?\n\nFuente : https://tinyurl.com/2bwexcg6\n#SafetrustMortgage #MortgageIntelligenceDaily #mortgagerates #loanofficer #realestateagent",
+      "hashtags": [
+        "#SafetrustMortgage",
+        "#MortgageIntelligenceDaily",
+        "#mortgagerates",
+        "#loanofficer",
+        "#realestateagent"
+      ],
+      "hook_tag": "Demanda de mercado",
+      "hook": "La demanda no ha muerto; solo está esperando el momento oportuno.",
+      "what_happened_heading": "El volumen de compras se dispara tras una leve baja de tasas",
+      "what_happened": "La Asociación de Banqueros Hipotecarios (MBA) reportó un aumento del 10% en las solicitudes de compra para la semana que terminó el 20 de noviembre. El volumen total de solicitudes subió un 6.1%, mientras que las refinanciaciones apenas aumentaron un 1%.",
+      "breakdown": [
+        {
+          "heading": "Los compradores responden rápido a las bajas",
+          "body": "Un pequeño alivio en las tasas provocó un crecimiento de dos dígitos en compras, demostrando que la demanda real es mucho mayor de lo que parece."
+        },
+        {
+          "heading": "La actividad de refinanciación sigue estancada",
+          "body": "Con las refinanciaciones subiendo solo un 1%, los dueños actuales no ven motivos para cambiar sus préstamos, dejando las compras como el único motor de crecimiento."
+        },
+        {
+          "heading": "El proceso de evaluación enfrenta una alta demanda",
+          "body": "Cuando el volumen se dispara, el proceso de evaluación de crédito (underwriting) se frena, provocando que los documentos bancarios venzan antes del cierre."
+        },
+        {
+          "heading": "Las preaprobaciones exigen actualización constante",
+          "body": "Los compradores con preaprobaciones de hace meses deben volver a verificar sus ingresos y la relación deuda-ingreso (DTI) en cuanto cambian las tasas."
+        }
+      ],
+      "my_take_heading": "La capacidad operativa es el verdadero problema",
+      "my_take": "La demanda no se ha ido, está acumulada esperando salir. Los profesionales que mantengan los expedientes de preaprobación al día ganarán en cada pequeña bajada de tasas.",
+      "action_lo": "Revisa semanalmente los documentos de tus preaprobaciones para que tus compradores puedan enviar ofertas limpias de inmediato.",
+      "action_realtor": "Vuelve a contactar a los compradores pausados en cuanto veas que las tasas bajan durante varios días seguidos.",
+      "cta_question": "¿Qué tan rápido puede tu equipo procesar un aumento repentino del diez por ciento en préstamos de compra?"
+    },
+    {
+      "slug": "va-mortgage-fraud-conviction",
+      "title": "Agente enfrenta 30 años por fraude en préstamo VA",
+      "source": "Mortgage News Daily",
+      "source_url": "https://www.mortgagenewsdaily.com/opinion/pipelinepress-11272026",
+      "cover_text": "30 años de prisión por alterar documentos",
+      "caption": "Un agente hipotecario se declaró culpable de cargos federales por alterar documentos. El profesional de Jacksonville presentó estados de cuenta modificados y comprobantes de empleo falsos para un préstamo del VA (Veteranos de Guerra). Ahora enfrenta hasta 30 años en una prisión federal. Al evaluar un crédito (underwriting), a veces vemos intentos de tomar atajos cuando los números están apretados. El software moderno de evaluación usa herramientas digitales que verifican datos directamente con bancos e instituciones. Alterar un archivo destruye tu negocio y trae penas de cárcel severas. Proteger la verdad en cada expediente es fundamental para trabajar en este mercado. ¿Cómo auditas los ingresos y activos en tu oficina antes de enviarlos?\n\nFuente : https://tinyurl.com/24qpsouz\n#SafetrustMortgage #MortgageIntelligenceDaily #mortgagebroker #loanofficer #housingmarket",
+      "hashtags": [
+        "#SafetrustMortgage",
+        "#MortgageIntelligenceDaily",
+        "#mortgagebroker",
+        "#loanofficer",
+        "#housingmarket"
+      ],
+      "hook_tag": "Alerta de cumplimiento",
+      "hook": "Alterar documentos para un préstamo destruirá tu carrera y tu libertad.",
+      "what_happened_heading": "Agente se declara culpable de fraude federal",
+      "what_happened": "Un agente hipotecario de Jacksonville se declaró culpable de entregar datos de empleo falsificados y estados de cuenta alterados para un préstamo del VA. Ahora enfrenta hasta 30 años en una prisión federal por hacer declaraciones falsas.",
+      "breakdown": [
+        {
+          "heading": "Los atajos en papeles terminan en cargos federales",
+          "body": "Modificar ingresos o activos para intentar aprobar un expediente difícil es un delito federal que nunca queda en el olvido."
+        },
+        {
+          "heading": "Los préstamos del gobierno tienen auditorías strictly",
+          "body": "Los préstamos del VA y FHA tienen supervisión federal constante. Los expedientes con fallas enfrentan revisiones de calidad obligatorias mucho tiempo después del cierre."
+        },
+        {
+          "heading": "El asesor cuenta con herramientas de verificación estricta",
+          "body": "Al evaluar el crédito, las herramientas de verificación de empleo (VOE) y los datos bancarios directos detectan de inmediato cualquier documento alterado."
+        },
+        {
+          "heading": "La responsabilidad del origen alcanza a todos",
+          "body": "Las empresas pueden perder su licencia para operar y sufrir grandes daños de reputación si uno de sus profesionales altera registros financieros."
+        }
+      ],
+      "my_take_heading": "La honestidad en los documentos no se negocia",
+      "my_take": "Ninguna comisión vale una acusación en una corte federal. Hoy en día, las herramientas de auditoría durante la evaluación de crédito descubren documentos alterados más rápido que nunca.",
+      "action_lo": "Exige que los estados de cuenta bancarios sean descargas digitales originales enviadas directamente desde las instituciones financieras.",
+      "action_realtor": "Trabaja únicamente con oficiales de préstamo verificados que mantengan estándares de cumplimiento rigurosos en cada preaprobación.",
+      "cta_question": "¿Tu equipo revisa los archivos digitales para evitar riesgos de alteración de documentos en tu proceso?"
+    },
+    {
+      "slug": "san-francisco-housing-ipo-boom",
+      "title": "Subida de precios en San Francisco y el impacto de las IPO tecnológicas",
+      "source": "HousingWire",
+      "source_url": "https://www.housingwire.com/articles/anthropic-ipo-sf-housing/",
+      "cover_text": "Por qué las acciones tecnológicas complican préstamos jumbo",
+      "caption": "El precio medio de las casas en San Francisco subió un 29% respecto al año pasado. Llegó a $2.39 millones, con un 86% de las propiedades vendiéndose por encima del precio inicial. La expectativa ante ofertas públicas iniciales (IPO) de empresas como Anthropic genera una competencia enorme. Sin embargo, para la evaluación del asesor (underwriting), la riqueza en papel no cuenta como capital calificado. No podemos contar unidades de acciones restringidas (RSU) u opciones no consolidadas para el pago inicial hasta que estén totalmente liquidadas y depositadas como fondos disponibles. Además, las guerras de ofertas crean diferencias de avalúo que exigen mayores reservas de dinero. Los compradores de alto patrimonio deben preparar su efectivo con tiempo. ¿Cómo guías a clientes con riqueza en acciones?\n\nFuente : https://tinyurl.com/26yuwe53\n#SafetrustMortgage #MortgageIntelligenceDaily #realestateinvesting #homebuying #loanofficer",
+      "hashtags": [
+        "#SafetrustMortgage",
+        "#MortgageIntelligenceDaily",
+        "#realestateinvesting",
+        "#homebuying",
+        "#loanofficer"
+      ],
+      "hook_tag": "Evaluación de jumbo",
+      "hook": "La riqueza en papel genera grandes trabas en la evaluación de crédito.",
+      "what_happened_heading": "Precios de casas en San Francisco cerca de máximos",
+      "what_happened": "El precio medio de las casas en San Francisco subió un 29% en octubre hasta los $2.39 millones. Informes muestran que el 86% de las casas se vendieron por encima del precio pedido ante los próximos eventos de liquidez tecnológica.",
+      "breakdown": [
+        {
+          "heading": "Vuelven las guerras de ofertas en mercados de alto valor",
+          "body": "Con el 86% de las casas vendiéndose por encima del precio inicial, los compradores hacen ofertas agresivas esperando la salida a bolsa de empresas tecnológicas."
+        },
+        {
+          "heading": "La riqueza en acciones no es dinero en efectivo",
+          "body": "Las opciones sobre acciones antes de la salida a bolsa parecen valiosas en papel, pero no cumplen con las reglas para verificar la inicial de la compra."
+        },
+        {
+          "heading": "El asesor revisa con lupa las acciones de empresas",
+          "body": "En la evaluación de crédito, no podemos contar las unidades de acciones restringidas (RSU) sin consolidar como dinero disponible hasta que se conviertan totalmente en efectivo."
+        },
+        {
+          "heading": "Las diferencias de avalúo requieren reservas en efectivo",
+          "body": "Ofrecer mucho más del precio pedido crea un riesgo de avalúo bajo que exige al comprador demostrar fondos de reserva en dinero efectivo."
+        }
+      ],
+      "my_take_heading": "Las ganancias en papel no aprueban el crédito",
+      "my_take": "Los precios altos por la llegada de empresas a la bolsa parecen positivos, pero la riqueza en papel genera cuellos de botella en la aprobación hasta que los activos se conviertan en dinero real.",
+      "action_lo": "Estructura las solicitudes de clientes jumbo según sus fondos líquidos verificados y no en proyecciones de acciones a futuro.",
+      "action_realtor": "Pide a tus compradores en mercados competitivos que muestren pruebas de fondos adicionales para cubrir posibles diferencias en el avalúo.",
+      "cta_question": "¿Cómo estructuras las preaprobaciones jumbo cuando los fondos de los clientes están atados a opciones sobre acciones?"
+    }
   ]
 }
